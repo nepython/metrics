@@ -1,4 +1,6 @@
-pycountry
-pandas
+matplotlib
+numpy
 openpyxl
+pandas
+pycountry
 xmltodict # Some scopus results are only available in xml format
