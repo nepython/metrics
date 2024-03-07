@@ -55,6 +55,7 @@ def hm_index(publications: List):
     more than hm times.
     '''
     pubs = deepcopy(publications)
+    pubs = list(filter(lambda x: int(x['citations']) > 0, pubs))
     pubs.sort(key=lambda x: int(x['citations']), reverse=True)
 
     cumulative_weights = 0
