@@ -2,7 +2,7 @@
 The data for uncited publication's authors wasn't fetched thus being ignored in the calculations below.
 '''
 from copy import deepcopy
-from typing import List
+from typing import List, Union
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -26,7 +26,7 @@ def percent_first_author(scopus_id, publications: List):
     '''
     The percentage of papers for which the author is the first author.
     '''
-    pubs = list(filter(lambda x: int(x['citations']) > 0, publications))
+    pubs = list(filter(lambda x: len(x['authors']) > 0, publications))
     first_author = len(list(filter(lambda x: x['authors'] and x['authors'][0]['scopus_id'] == scopus_id, pubs)))
     return first_author/len(pubs)*100 if len(pubs) > 0 else 0
 
@@ -35,7 +35,7 @@ def percent_last_author(scopus_id, publications: List):
     '''
     The percentage of papers for which the author is the last author.
     '''
-    pubs = list(filter(lambda x: int(x['citations']) > 0, publications))
+    pubs = list(filter(lambda x: len(x['authors']) > 0, publications))
     last_author = len(list(filter(lambda x: x['authors'] and x['authors'][-1]['scopus_id'] == scopus_id, pubs)))
     return last_author/len(pubs)*100 if len(pubs) > 0 else 0
 
@@ -44,7 +44,7 @@ def percent_single_author(publications: List):
     '''
     The percentage of papers for which the author is the sole author.
     '''
-    pubs = list(filter(lambda x: int(x['citations']) > 0, publications))
+    pubs = list(filter(lambda x: len(x['authors']) > 0, publications))
     single_author = len(list(filter(lambda x: len(x['authors']) == 1, pubs)))
     return single_author/len(pubs)*100 if len(pubs) > 0 else 0
 
@@ -53,7 +53,7 @@ def percent_single_or_first_author(scopus_id, publications: List):
     '''
     The percentage of papers for which the author is the sole author or the first author.
     '''
-    pubs = list(filter(lambda x: int(x['citations']) > 0, publications))
+    pubs = list(filter(lambda x: len(x['authors']) > 0, publications))
     single_or_first_author = len(list(filter(lambda x: x['authors'] and (len(x['authors']) == 1 or x['authors'][0]['scopus_id'] == scopus_id), pubs)))
     return single_or_first_author/len(pubs)*100 if len(pubs) > 0 else 0
 
@@ -62,7 +62,7 @@ def percent_single_or_first_or_last_author(scopus_id, publications: List):
     '''
     The percentage of papers for which the author is the sole author, the first author or the last author.
     '''
-    pubs = list(filter(lambda x: int(x['citations']) > 0, publications))
+    pubs = list(filter(lambda x: len(x['authors']) > 0, publications))
     single_or_first_or_last_author = len(list(filter(lambda x: x['authors'] and (len(x['authors']) == 1 or x['authors'][0]['scopus_id'] == scopus_id or x['authors'][-1]['scopus_id'] == scopus_id), pubs)))
     return single_or_first_or_last_author/len(pubs)*100 if len(pubs) > 0 else 0
 
@@ -71,10 +71,13 @@ def median_author_position(scopus_id, publications: List):
     '''
     The median position of the author in the author list.
     '''
-    pubs = list(filter(lambda x: int(x['citations']) > 0, publications))
+    pubs = list(filter(lambda x: len(x['authors']) > 0, publications))
     author_positions = []
     for pub in pubs:
-        author_positions.append(list(map(lambda x: x['scopus_id'], pub['authors'])).index(scopus_id)+1)
+        authors = list(map(lambda x: x['scopus_id'], pub['authors']))
+        if scopus_id not in authors:
+            continue
+        author_positions.append(authors.index(scopus_id)+1)
     return np.median(author_positions)
 
 
@@ -82,15 +85,15 @@ def mean_coauthors(publications: List):
     '''
     The average number of authors per paper.
     '''
-    pubs = list(filter(lambda x: int(x['citations']) > 0, publications))
-    return sum([len(pub['authors']) for pub in pubs])/len(pubs)
+    pubs = list(filter(lambda x: len(x['authors']) > 0, publications))
+    return np.mean([len(pub['authors']) for pub in pubs])
 
 
 def median_coauthors(publications: List):
     '''
     The median number of authors per paper.
     '''
-    pubs = list(filter(lambda x: int(x['citations']) > 0, publications))
+    pubs = list(filter(lambda x: len(x['authors']) > 0, publications))
     return np.median([len(pub['authors']) for pub in pubs])
 
 
@@ -126,7 +129,7 @@ def h_frac_index(publications: List):
     citations by its total number of authors.
     '''
     pubs = deepcopy(publications)
-    pubs = list(filter(lambda x: int(x['citations']) > 0, pubs))
+    pubs = list(filter(lambda x: len(x['authors']) > 0, pubs))
     pubs.sort(key=lambda x: int(x['citations']), reverse=True)
     h_frac = 0
     for i, pub in enumerate(pubs, start=1):
@@ -146,7 +149,7 @@ def hm_index(publications: List):
     more than hm times.
     '''
     pubs = deepcopy(publications)
-    pubs = list(filter(lambda x: int(x['citations']) > 0, pubs))
+    pubs = list(filter(lambda x: len(x['authors']) > 0, pubs))
     pubs.sort(key=lambda x: int(x['citations']), reverse=True)
 
     cumulative_weights = 0
@@ -213,13 +216,24 @@ def cscore(scopus_id, publications: List):
     h-index, hm-index, number of single-authored papers, number of
     single-first authored papers and number of single-first-last authored papers.
     '''
-    # TODO: Calculate logarithm and implement ranking
+    # TODO: Cscore is calculated on normalised c_metrics
     total_cites = total_citations(publications)
     h = h_index(publications)
     hm = hm_index(publications)
     single_authored = percent_single_author(publications)
     single_or_first_authored = percent_single_or_first_author(scopus_id, publications)
     single_or_first_or_last_authored = percent_single_or_first_or_last_author(scopus_id, publications)
+
+    c_metrics = np.array([
+        total_cites,
+        h,
+        hm,
+        single_authored,
+        single_or_first_authored,
+        single_or_first_or_last_authored
+    ])
+    cscore = np.log(c_metrics).sum()
+    return cscore
 
 def h_leadership_index(scopus_id, publications: List):
     '''
@@ -234,10 +248,12 @@ def h_leadership_index(scopus_id, publications: List):
     weighted_citations = []
     cum_l_weight = 0
     for pub in pubs:
+        authors = list(map(lambda x: x['scopus_id'], pub['authors']))
         if int(pub['citations']) == 0:
             weighted_citations.append(0)
-        else:
-            l_weight = leadership_weight(author_position=list(map(lambda x: x['scopus_id'], pub['authors'])).index(scopus_id)+1, n=len(pub['authors']))
+        elif scopus_id in authors:
+            author_position = authors.index(scopus_id)+1
+            l_weight = leadership_weight(author_position=author_position, n=len(pub['authors']))
             cum_l_weight += l_weight
             weighted_citations.append(int(pub['citations']) * l_weight)
     weighted_citations.sort(reverse=True)
@@ -247,7 +263,6 @@ def h_leadership_index(scopus_id, publications: List):
             h_leadership = i
         else:
             break
-    print('Average leadership weight:', cum_l_weight/len(pubs))
     return h_leadership
 
 
@@ -278,7 +293,7 @@ def leadership_weight(author_position=1, n=1, mean=0, std_dev=1):
     return author_weight
 
 
-def plot_leadership_weight(author_position=1, n=1, mean=0, std_dev=1, annotate:bool|str=False):
+def plot_leadership_weight(author_position=1, n=1, mean=0, std_dev=1, annotate:Union[bool,str]=False):
     '''
     Plot the leadership weight of an author based on their position in the author list using a normalised inverse gaussian curve.
     The first author's leadership weight reduces logarithmically with the increase in the number of authors.
