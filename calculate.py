@@ -150,7 +150,7 @@ def hm_index(publications: List):
     '''
     pubs = deepcopy(publications)
     pubs = list(filter(lambda x: len(x['authors']) > 0, pubs))
-    pubs.sort(key=lambda x: int(x['citations']), reverse=True)
+    pubs.sort(key=lambda x: int(x['citations']))
 
     cumulative_weights = 0
     for pub in pubs:
@@ -159,10 +159,9 @@ def hm_index(publications: List):
 
     hm = 0
     for pub in pubs:
-        if int(pub['citations']) >= cumulative_weights:
-            continue
+        if int(pub['citations']) < cumulative_weights:
+            hm = int(pub['citations']) # modified logic
         else:
-            hm = int(pub['citations'])
             break
     return hm
 
