@@ -153,16 +153,14 @@ def hm_index(publications: List):
     pubs.sort(key=lambda x: int(x['citations']))
 
     cumulative_weights = 0
+    hm = 0
     for pub in pubs:
         weight = 1/len(pub['authors'])
         cumulative_weights += weight
-
-    hm = 0
-    for pub in pubs:
-        if int(pub['citations']) < cumulative_weights:
-            hm = int(pub['citations']) # modified logic
-        else:
+        if not cumulative_weights < int(pub['citations']):
             break
+    hm = cumulative_weights
+
     return hm
 
 
