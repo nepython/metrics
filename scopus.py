@@ -8,7 +8,7 @@ import xmltodict
 
 from datetime import datetime
 from functools import partial
-from utils import read_data, store_data, get_author_names, get_country_name
+from utils import read_data, store_data, get_author_names, get_country_name, get_top_2pc_df, get_cscore
 
 # Set up your Scopus API key
 api_key = '5aa908d24ec7e71ef0cf68cb3bff134d'
@@ -32,10 +32,20 @@ data_dir = 'data'
 top_2pc_filepath = f'{data_dir}/top_CS_researcher_by_h_index.json'
 
 # Define the list of affiliations to search for authors
-affiliations = [
-    {'affiliation': 'UNSW', 'city': 'Sydney', 'country': 'Australia'},
-    {'affiliation': 'University of Sydney', 'city': 'Sydney', 'country': 'Australia'},
-]
+affiliations = read_data(f'{data_dir}/affiliations.json')
+
+def ensure_ratelimit(response):
+    '''
+    This method checks the rate limit headers in the response
+    and sleeps if the rate limit is exceeded.
+    '''
+    if 'X-RateLimit-Remaining' in response.headers:
+        total = int(response.headers['X-RateLimit-Limit'])
+        remaining = int(response.headers['X-RateLimit-Remaining'])
+        if remaining == 0:
+            reset_time = int(response.headers['X-RateLimit-Reset'])
+            sleep_days = (reset_time - datetime.now().timestamp()) // (24 * 3600)
+            raise Exception(f'Scopus API rate limit of {total} exceeded. Try again in {sleep_days} days.')
 
 def sort_author(author, country, affiliation):
     '''
@@ -47,7 +57,7 @@ def sort_author(author, country, affiliation):
     same_affiliation = author.get('affiliation-current', {}).get('affiliation-name', '') == affiliation
     return articles_published, same_country, same_affiliation
 
-def search_author_by_name(first_name, last_name, affiliation, country, field, exclude=list()):
+def search_author(first_name, last_name, affiliation, country, field=list(), exclude=list()):
     '''
     This method searches for an author in Scopus using the author's name,
     affiliation, country, and field of research. It returns the author
@@ -55,6 +65,7 @@ def search_author_by_name(first_name, last_name, affiliation, country, field, ex
     '''
     query = f'AUTHLASTNAME({last_name}) AND AUTHFIRST({first_name}) AND {" OR ".join(map(lambda s: f"SUBJAREA({s})", field))}'
     response = requests.get(scopus_search_url, params={'query': query, 'count': 200}, headers=headers)
+    ensure_ratelimit(response)
 
     if response.status_code == 200:
         results = response.json().get('search-results', {}).get('entry', [])
@@ -65,22 +76,6 @@ def search_author_by_name(first_name, last_name, affiliation, country, field, ex
         results.sort(key=sort_key, reverse=True)
 
         return results[0] if results else None
-    else:
-        return None
-
-def search_author_by_affiliation(affiliation, city, country, limit=20):
-    '''
-    This method searches for an author in Scopus using the affiliation name,
-    city, and country. It returns the author with the highest number of documents
-    based on the search results.
-    '''
-    query = f'AFFIL("{affiliation}") AND AFFILCITY("{city}") AND AFFILCOUNTRY("{country}")'
-    response = requests.get(scopus_search_url, params={'query': query, 'count': 200, 'sort': 'citedby-count'}, headers=headers)
-
-    if response.status_code == 200:
-        results = response.json().get('search-results', {}).get('entry', [])
-
-        return results[:limit] if results else None
     else:
         return None
 
@@ -100,6 +95,7 @@ def fetch_author_publications(author_id, publications=None, start_index=0, top=2
         'count': 200, # Maximum can be 200
         # 'sort': '-citedby-count' # Scopus API sort does not work
     }, headers=headers)
+    ensure_ratelimit(response)
 
     if response.status_code == 200:
         search_results = response.json().get('search-results', {}).get('entry', [])
@@ -127,11 +123,12 @@ def fetch_author_publications(author_id, publications=None, start_index=0, top=2
         else:
             # We return the top publications based on citations
             publications.sort(key=lambda p: p['citations'], reverse=True)
-            publications = publications[:100]
+            publications = publications[:top-start_index]
             for publication in publications:
                 authors = []
                 abstract_url = f'{scopus_abstract_url}/{entry.get("eid", "")}'
                 response_abstract = requests.get(abstract_url, headers=headers)
+                ensure_ratelimit(response_abstract)
                 if response_abstract.status_code == 200:
                     author_data = xmltodict.parse(response_abstract.text).get('abstracts-retrieval-response', {}).get('authors', []).get('author', [])
                     if not isinstance(author_data, list): # If only one author
@@ -144,27 +141,43 @@ def fetch_author_publications(author_id, publications=None, start_index=0, top=2
 
     return publications
 
-def fetch_authors_top_2_percent(stop_at=100, scopus_results=list()):
-    # Read the top 2% ranking excel file
-    df = pd.read_excel(f'{data_dir}/Table_1_Authors_career_2022_pubs_since_1788_wopp_extracted_202310.xlsx', sheet_name='Data', engine='openpyxl')
-    # We are only considering the Computer Science subject for this study
-    df = df.loc[df['sm-field'] == 'Information & Communication Technologies']
-    # NOTE: The cutoff year is 2022,and h column name changes based on cutoff year
-    df = df.sort_values(by='h22', ascending=False)
+def fetch_author(kwargs):
+    # Search for the author in Scopus
+    author_search_result = search_author(**kwargs)
 
+    # Process the search result as needed
+    if author_search_result is not None:
+        author_id = author_search_result.get('dc:identifier', '').split(':')[-1]
+        author_publications = fetch_author_publications(author_id)
+        return ({
+            'scopus_id': author_search_result.get('dc:identifier', '').split(':')[-1],
+            'name': f'{author_search_result['preferred-name']['surname']}, {author_search_result['preferred-name']['given-name']}',
+            'publications': author_publications,
+            'affiliation': author_search_result.get('affiliation-current', {}).get('affiliation-name', ''),
+            'city': author_search_result.get('affiliation-current', {}).get('affiliation-city', ''),
+            'country': author_search_result.get('affiliation-current', {}).get('affiliation-country', ''),
+            'document_count': int(author_search_result.get('document-count', 0)),
+            'subject_area': author_search_result.get('subject-area', list()),
+            'date fetched': datetime.today().strftime('%Y-%m-%d %H:%M:%S')
+        })
+    else:
+        raise Exception(f"Author not found for: {kwargs['author_name']}, Affiliation: {kwargs['affiliation']}, Country: {kwargs['country']}, Field: {kwargs['field']}")
+
+def fetch_authors_top_2_percent(stop_at=100, scopus_results=list(), store_filepath=None):
+    df = get_top_2pc_df(filter_condition={'sm-field': 'Information & Communication Technologies'})
+    df = df.sort_values(by='h22', ascending=False)
     # A mapping between top 2% ranking `sm-field` and Scopus API `SUBJECTAREA`
     subject_areas_mapping = {
         'Information & Communication Technologies': ['COMP', 'MULT']
     }
     # Iterate through the rows of the DataFrame
     for index, (row_index, row) in enumerate(df.iterrows()):
+        author_name = row['authfull']
         if index < len(scopus_results):
             # Since data was previously obtained for these authors, we can skip them
-            print(f'{row["authfull"]}: Skipped')
             continue
 
         try:
-            author_name = row['authfull']
             first_name, last_name = get_author_names(author_name)
             author_cscore = row['c']
             affiliation = row['inst_name']
@@ -172,7 +185,7 @@ def fetch_authors_top_2_percent(stop_at=100, scopus_results=list()):
             field = field = subject_areas_mapping.get(row['sm-field'], [])
 
             # Search for the author in Scopus
-            author_search_result = search_author_by_name(
+            author = fetch_author(
                 first_name=first_name,
                 last_name=last_name,
                 affiliation=affiliation,
@@ -180,71 +193,51 @@ def fetch_authors_top_2_percent(stop_at=100, scopus_results=list()):
                 field=field,
                 exclude=map(lambda x: x['scopus_id'], scopus_results)
             )
+            author['c-score'] = author_cscore
+            scopus_results.append(author)
 
-            # Process the search result as needed
-            if author_search_result is not None:
-                author_id = author_search_result.get('dc:identifier', '').split(':')[-1]
-                author_publications = fetch_author_publications(author_id)
-                scopus_results.append({
-                    'scopus_id': author_id,
-                    'name': author_name,
-                    'cscore': author_cscore,
-                    'publications': author_publications
-                })
-                if index >= stop_at-1:
-                    break
-            else:
-                raise Exception(f"Author not found for: {author_name}, Affiliation: {affiliation}, Country: {country}, Field: {field}")
+            if index >= stop_at-1:
+                break
         except Exception as e:
             print(e)
 
+    if store_filepath:
+        store_data(scopus_results, store_filepath)
+
     return scopus_results
 
-def fetch_authors_by_affiliation(affiliation, limit=20, exclude=list()):
+def fetch_authors_by_affiliation(affiliation, exclude=list(), store_dir=None):
     affiliation_name = affiliation['affiliation']
-    city = affiliation['city']
     country = affiliation['country']
 
-    # Search for the authors in Scopus
-    authors_search_results = search_author_by_affiliation(
-        affiliation=affiliation_name,
-        city=city,
-        country=country,
-        limit=limit
-    )
-
-    # Process the search results as needed
     scopus_results = []
-    if authors_search_results is not None:
-        for author_search_result in authors_search_results:
-            author_id = author_search_result.get('dc:identifier', '').split(':')[-1]
-            if author_id in exclude:
-                continue
-            author_name = author_search_result.get('preferred-name', {}).get('ce:indexed-name', '')
-            author_publications = fetch_author_publications(author_id)
-            scopus_results.append({
-                'scopus_id': author_id,
-                'name': author_name,
-                'publications': author_publications,
-                'affiliation': affiliation_name,
-                'city': city,
-                'country': country,
-                'date fetched': datetime.today().strftime('%Y-%m-%d %H:%M:%S')
-            })
+
+    for author_name in affiliation['researchers']:
+        first_name, last_name = get_author_names(author_name, separator=' ', reverse=False)
+        author = fetch_author(
+            first_name=first_name,
+            last_name=last_name,
+            affiliation=affiliation_name,
+            country=country,
+            exclude=exclude
+        )
+        author['c-score'] = get_cscore(first_name, last_name, affiliation_name, country)
+        scopus_results.append(author)
+
+    if store_dir:
+        for author in scopus_results:
+            filepath = f'{store_dir}/{author["scopus_id"]}.json'
+            store_data(author, filepath)
 
     return scopus_results
 
 if __name__ == '__main__':
     # Fetch the top 2% researchers in Computer Science
     # scopus_results=read_data(top_2pc_filepath)
-    # scopus_results = fetch_authors_top_2_percent(stop_at=300)
-    # store_data(scopus_results, top_2pc_filepath)
+    # scopus_results = fetch_authors_top_2_percent(stop_at=300, store_filepath=top_2pc_filepath)
 
     # Fetch the top authors based on affiliation
     for affiliation in affiliations:
         file_dir = f'{data_dir}/{affiliation["affiliation"]}'
         exclude = [r.split('.json')[0] for r in os.listdir(file_dir) if '.json' in r] if os.path.exists(file_dir) else []
-        scopus_results = fetch_authors_by_affiliation(affiliations, limit=20, scopus_results=scopus_results)
-        for author in scopus_results:
-            filepath = f'{file_dir}/{author["scopus_id"]}.json'
-            store_data(scopus_results, filepath)
+        scopus_results = fetch_authors_by_affiliation(affiliation, exclude=exclude, store_dir=file_dir)
