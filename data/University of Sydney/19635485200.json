@@ -1,0 +1,28 @@
+{
+    "scopus_id": "19635485200",
+    "name": "Leeder, Stephen R.",
+    "publications": [],
+    "affiliation": "Menzies Centre for Health Policy",
+    "city": "Sydney",
+    "country": "Australia",
+    "document_count": 395,
+    "subject_area": [
+        {
+            "@abbrev": "MEDI",
+            "@frequency": "570",
+            "$": "Medicine (all)"
+        },
+        {
+            "@abbrev": "NURS",
+            "@frequency": "53",
+            "$": "Nursing (all)"
+        },
+        {
+            "@abbrev": "SOCI",
+            "@frequency": "25",
+            "$": "Social Sciences (all)"
+        }
+    ],
+    "date fetched": "2024-04-30 07:36:35",
+    "c-score": null
+}

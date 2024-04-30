@@ -1,0 +1,28 @@
+{
+    "scopus_id": "7005928308",
+    "name": "Driscoll, Tim Robert",
+    "publications": [],
+    "affiliation": "The University of Sydney School of Public Health",
+    "city": "Sydney",
+    "country": "Australia",
+    "document_count": 249,
+    "subject_area": [
+        {
+            "@abbrev": "MEDI",
+            "@frequency": "380",
+            "$": "Medicine (all)"
+        },
+        {
+            "@abbrev": "SOCI",
+            "@frequency": "58",
+            "$": "Social Sciences (all)"
+        },
+        {
+            "@abbrev": "ENGI",
+            "@frequency": "37",
+            "$": "Engineering (all)"
+        }
+    ],
+    "date fetched": "2024-04-30 07:35:53",
+    "c-score": null
+}

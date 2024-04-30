@@ -1,0 +1,28 @@
+{
+    "scopus_id": "7101787367",
+    "name": "Maher, Chris G.",
+    "publications": [],
+    "affiliation": "Institute for Musculoskeletal Health",
+    "city": "Sydney",
+    "country": "Australia",
+    "document_count": 804,
+    "subject_area": [
+        {
+            "@abbrev": "MEDI",
+            "@frequency": "1338",
+            "$": "Medicine (all)"
+        },
+        {
+            "@abbrev": "HEAL",
+            "@frequency": "362",
+            "$": "Health Professions  (all)"
+        },
+        {
+            "@abbrev": "NEUR",
+            "@frequency": "36",
+            "$": "Neuroscience (all)"
+        }
+    ],
+    "date fetched": "2024-04-30 07:36:36",
+    "c-score": null
+}

@@ -1,0 +1,28 @@
+{
+    "scopus_id": "55943740200",
+    "name": "Chey, Tien",
+    "publications": [],
+    "affiliation": "The University of Sydney School of Public Health",
+    "city": "Sydney",
+    "country": "Australia",
+    "document_count": 82,
+    "subject_area": [
+        {
+            "@abbrev": "MEDI",
+            "@frequency": "101",
+            "$": "Medicine (all)"
+        },
+        {
+            "@abbrev": "HEAL",
+            "@frequency": "9",
+            "$": "Health Professions  (all)"
+        },
+        {
+            "@abbrev": "AGRI",
+            "@frequency": "7",
+            "$": "Agricultural and Biological Sciences (all)"
+        }
+    ],
+    "date fetched": "2024-04-30 07:36:37",
+    "c-score": null
+}

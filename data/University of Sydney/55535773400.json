@@ -1,0 +1,2112 @@
+{
+    "scopus_id": "55535773400",
+    "name": "Holmes, Edward C.",
+    "publications": [
+        {
+            "title": "Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding",
+            "eid": "2-s2.0-85078741591",
+            "authors": [
+                {
+                    "scopus_id": "7402970093",
+                    "name": "Lu R."
+                },
+                {
+                    "scopus_id": "7407577416",
+                    "name": "Zhao X."
+                },
+                {
+                    "scopus_id": "56145984300",
+                    "name": "Li J."
+                },
+                {
+                    "scopus_id": "56096165800",
+                    "name": "Niu P."
+                },
+                {
+                    "scopus_id": "57214464680",
+                    "name": "Yang B."
+                },
+                {
+                    "scopus_id": "56640033500",
+                    "name": "Wu H."
+                },
+                {
+                    "scopus_id": "7501755105",
+                    "name": "Wang W."
+                },
+                {
+                    "scopus_id": "56317921900",
+                    "name": "Song H."
+                },
+                {
+                    "scopus_id": "35082078200",
+                    "name": "Huang B."
+                },
+                {
+                    "scopus_id": "56992193500",
+                    "name": "Zhu N."
+                },
+                {
+                    "scopus_id": "35093646300",
+                    "name": "Bi Y."
+                },
+                {
+                    "scopus_id": "57199216492",
+                    "name": "Ma X."
+                },
+                {
+                    "scopus_id": "37666510000",
+                    "name": "Zhan F."
+                },
+                {
+                    "scopus_id": "57189262949",
+                    "name": "Wang L."
+                },
+                {
+                    "scopus_id": "57200140111",
+                    "name": "Hu T."
+                },
+                {
+                    "scopus_id": "57207400072",
+                    "name": "Zhou H."
+                },
+                {
+                    "scopus_id": "57214457378",
+                    "name": "Hu Z."
+                },
+                {
+                    "scopus_id": "8609058500",
+                    "name": "Zhou W."
+                },
+                {
+                    "scopus_id": "57199019315",
+                    "name": "Zhao L."
+                },
+                {
+                    "scopus_id": "56067544100",
+                    "name": "Chen J."
+                },
+                {
+                    "scopus_id": "57209309518",
+                    "name": "Meng Y."
+                },
+                {
+                    "scopus_id": "55621952300",
+                    "name": "Wang J."
+                },
+                {
+                    "scopus_id": "57221090730",
+                    "name": "Lin Y."
+                },
+                {
+                    "scopus_id": "57214447872",
+                    "name": "Yuan J."
+                },
+                {
+                    "scopus_id": "57214453146",
+                    "name": "Xie Z."
+                },
+                {
+                    "scopus_id": "55605701400",
+                    "name": "Ma J."
+                },
+                {
+                    "scopus_id": "57191415744",
+                    "name": "Liu W.J."
+                },
+                {
+                    "scopus_id": "8345478900",
+                    "name": "Wang D."
+                },
+                {
+                    "scopus_id": "55730735500",
+                    "name": "Xu W."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                },
+                {
+                    "scopus_id": "7403171212",
+                    "name": "Gao G.F."
+                },
+                {
+                    "scopus_id": "57214440007",
+                    "name": "Wu G."
+                },
+                {
+                    "scopus_id": "35236384200",
+                    "name": "Chen W."
+                },
+                {
+                    "scopus_id": "55662158800",
+                    "name": "Shi W."
+                },
+                {
+                    "scopus_id": "7401959748",
+                    "name": "Tan W."
+                }
+            ],
+            "citations": 8273,
+            "publication_name": "The Lancet",
+            "issn": "01406736",
+            "cover_date": "2020-02-22",
+            "venue": "Journal",
+            "volume": "395",
+            "issue": "10224",
+            "page_range": "565-574",
+            "doi": "10.1016/S0140-6736(20)30251-8"
+        },
+        {
+            "title": "A new coronavirus associated with human respiratory disease in China",
+            "eid": "2-s2.0-85081626097",
+            "authors": [
+                {
+                    "scopus_id": "55700772600",
+                    "name": "Wu F."
+                },
+                {
+                    "scopus_id": "57215658236",
+                    "name": "Zhao S."
+                },
+                {
+                    "scopus_id": "55272053400",
+                    "name": "Yu B."
+                },
+                {
+                    "scopus_id": "57211131873",
+                    "name": "Chen Y.M."
+                },
+                {
+                    "scopus_id": "57189226945",
+                    "name": "Wang W."
+                },
+                {
+                    "scopus_id": "50263070700",
+                    "name": "Song Z.G."
+                },
+                {
+                    "scopus_id": "55651567200",
+                    "name": "Hu Y."
+                },
+                {
+                    "scopus_id": "57215653821",
+                    "name": "Tao Z.W."
+                },
+                {
+                    "scopus_id": "54879986300",
+                    "name": "Tian J.H."
+                },
+                {
+                    "scopus_id": "57215653910",
+                    "name": "Pei Y.Y."
+                },
+                {
+                    "scopus_id": "55017902400",
+                    "name": "Yuan M.L."
+                },
+                {
+                    "scopus_id": "57192812027",
+                    "name": "Zhang Y.L."
+                },
+                {
+                    "scopus_id": "56114186300",
+                    "name": "Dai F.H."
+                },
+                {
+                    "scopus_id": "57212455447",
+                    "name": "Liu Y."
+                },
+                {
+                    "scopus_id": "57215662426",
+                    "name": "Wang Q.M."
+                },
+                {
+                    "scopus_id": "57207063341",
+                    "name": "Zheng J.J."
+                },
+                {
+                    "scopus_id": "58373603600",
+                    "name": "Xu L."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                },
+                {
+                    "scopus_id": "57216697613",
+                    "name": "Zhang Y.Z."
+                }
+            ],
+            "citations": 7651,
+            "publication_name": "Nature",
+            "issn": "00280836",
+            "cover_date": "2020-03-12",
+            "venue": "Journal",
+            "volume": "579",
+            "issue": "7798",
+            "page_range": "265-269",
+            "doi": "10.1038/s41586-020-2008-3"
+        },
+        {
+            "title": "The proximal origin of SARS-CoV-2",
+            "eid": "2-s2.0-85082644858",
+            "authors": [
+                {
+                    "scopus_id": "15768994000",
+                    "name": "Andersen K.G."
+                },
+                {
+                    "scopus_id": "7004230842",
+                    "name": "Rambaut A."
+                },
+                {
+                    "scopus_id": "57216110676",
+                    "name": "Lipkin W.I."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                },
+                {
+                    "scopus_id": "7102213066",
+                    "name": "Garry R.F."
+                }
+            ],
+            "citations": 3180,
+            "publication_name": "Nature Medicine",
+            "issn": "10788956",
+            "cover_date": "2020-04-01",
+            "venue": "Journal",
+            "volume": "26",
+            "issue": "4",
+            "page_range": "450-452",
+            "doi": "10.1038/s41591-020-0820-9"
+        },
+        {
+            "title": "A dynamic nomenclature proposal for SARS-CoV-2 lineages to assist genomic epidemiology",
+            "eid": "2-s2.0-85087930366",
+            "authors": [
+                {
+                    "scopus_id": "7004230842",
+                    "name": "Rambaut A."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                },
+                {
+                    "scopus_id": "57218118671",
+                    "name": "O\u2019Toole \u00c1."
+                },
+                {
+                    "scopus_id": "57216509983",
+                    "name": "Hill V."
+                },
+                {
+                    "scopus_id": "57189030254",
+                    "name": "McCrone J.T."
+                },
+                {
+                    "scopus_id": "56764219900",
+                    "name": "Ruis C."
+                },
+                {
+                    "scopus_id": "54796603300",
+                    "name": "du Plessis L."
+                },
+                {
+                    "scopus_id": "57221367649",
+                    "name": "Pybus O.G."
+                }
+            ],
+            "citations": 1562,
+            "publication_name": "Nature Microbiology",
+            "issn": "",
+            "cover_date": "2020-11-01",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "11",
+            "page_range": "1403-1407",
+            "doi": "10.1038/s41564-020-0770-5"
+        },
+        {
+            "title": "A metagenomic survey of microbes in honey bee colony collapse disorder",
+            "eid": "2-s2.0-35348853758",
+            "authors": [
+                {
+                    "scopus_id": "6603060478",
+                    "name": "Cox-Foster D.L."
+                },
+                {
+                    "scopus_id": "15758942600",
+                    "name": "Conlan S."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                },
+                {
+                    "scopus_id": "7006052275",
+                    "name": "Palacios G."
+                },
+                {
+                    "scopus_id": "7407667162",
+                    "name": "Evans J.D."
+                },
+                {
+                    "scopus_id": "7103226925",
+                    "name": "Moran N.A."
+                },
+                {
+                    "scopus_id": "15761011900",
+                    "name": "Quan P.L."
+                },
+                {
+                    "scopus_id": "7003898074",
+                    "name": "Briese T."
+                },
+                {
+                    "scopus_id": "6701704785",
+                    "name": "Hornig M."
+                },
+                {
+                    "scopus_id": "7004087169",
+                    "name": "Geiser D.M."
+                },
+                {
+                    "scopus_id": "22835340300",
+                    "name": "Martinson V."
+                },
+                {
+                    "scopus_id": "16311263600",
+                    "name": "VanEngelsdorp D."
+                },
+                {
+                    "scopus_id": "22834873400",
+                    "name": "Kalkstein A.L."
+                },
+                {
+                    "scopus_id": "19638665100",
+                    "name": "Drysdale A."
+                },
+                {
+                    "scopus_id": "15753802900",
+                    "name": "Hui J."
+                },
+                {
+                    "scopus_id": "7102948409",
+                    "name": "Zhai J."
+                },
+                {
+                    "scopus_id": "7201555641",
+                    "name": "Cui L."
+                },
+                {
+                    "scopus_id": "7006378847",
+                    "name": "Hutchison S.K."
+                },
+                {
+                    "scopus_id": "7202348561",
+                    "name": "Simons J.F."
+                },
+                {
+                    "scopus_id": "7003454634",
+                    "name": "Egholm M."
+                },
+                {
+                    "scopus_id": "7004714365",
+                    "name": "Pettis J.S."
+                },
+                {
+                    "scopus_id": "7005714572",
+                    "name": "Lipkin W.I."
+                }
+            ],
+            "citations": 1413,
+            "publication_name": "Science",
+            "issn": "00368075",
+            "cover_date": "2007-10-12",
+            "venue": "Journal",
+            "volume": "318",
+            "issue": "5848",
+            "page_range": "283-287",
+            "doi": "10.1126/science.1146498"
+        },
+        {
+            "title": "Classification of hepatitis C virus into six major genotypes and a series of subtypes by phylogenetic analysis of the NS-5 region",
+            "eid": "2-s2.0-0027522145",
+            "authors": [
+                {
+                    "scopus_id": "7102203090",
+                    "name": "Simmonds P."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                },
+                {
+                    "scopus_id": "36784769000",
+                    "name": "Cha T.A."
+                },
+                {
+                    "scopus_id": "7404252897",
+                    "name": "Chan S.W."
+                },
+                {
+                    "scopus_id": "57200000001",
+                    "name": "McOmish F."
+                },
+                {
+                    "scopus_id": "7004387902",
+                    "name": "Irvine B."
+                },
+                {
+                    "scopus_id": "57518489300",
+                    "name": "Beall E."
+                },
+                {
+                    "scopus_id": "16938057500",
+                    "name": "Yap P.L."
+                },
+                {
+                    "scopus_id": "35952908200",
+                    "name": "Kolberg J."
+                },
+                {
+                    "scopus_id": "7005511490",
+                    "name": "Urdea M.S."
+                }
+            ],
+            "citations": 1280,
+            "publication_name": "Journal of General Virology",
+            "issn": "00221317",
+            "cover_date": "1993-01-01",
+            "venue": "Journal",
+            "volume": "74",
+            "issue": "11",
+            "page_range": "2391-2399",
+            "doi": "10.1099/0022-1317-74-11-2391"
+        },
+        {
+            "title": "Identifying SARS-CoV-2-related coronaviruses in Malayan pangolins",
+            "eid": "2-s2.0-85082794498",
+            "authors": [
+                {
+                    "scopus_id": "56549450000",
+                    "name": "Lam T.T.Y."
+                },
+                {
+                    "scopus_id": "14058208900",
+                    "name": "Jia N."
+                },
+                {
+                    "scopus_id": "57201559903",
+                    "name": "Zhang Y.W."
+                },
+                {
+                    "scopus_id": "57216348525",
+                    "name": "Shum M.H.H."
+                },
+                {
+                    "scopus_id": "57201854780",
+                    "name": "Jiang J.F."
+                },
+                {
+                    "scopus_id": "25724029300",
+                    "name": "Zhu H.C."
+                },
+                {
+                    "scopus_id": "7202614688",
+                    "name": "Tong Y.G."
+                },
+                {
+                    "scopus_id": "57199387265",
+                    "name": "Shi Y.X."
+                },
+                {
+                    "scopus_id": "55513816500",
+                    "name": "Ni X.B."
+                },
+                {
+                    "scopus_id": "57217651131",
+                    "name": "Liao Y.S."
+                },
+                {
+                    "scopus_id": "58186867500",
+                    "name": "Li W.J."
+                },
+                {
+                    "scopus_id": "35740792500",
+                    "name": "Jiang B.G."
+                },
+                {
+                    "scopus_id": "57212450170",
+                    "name": "Wei W."
+                },
+                {
+                    "scopus_id": "57208274244",
+                    "name": "Yuan T.T."
+                },
+                {
+                    "scopus_id": "25937079000",
+                    "name": "Zheng K."
+                },
+                {
+                    "scopus_id": "57191623840",
+                    "name": "Cui X.M."
+                },
+                {
+                    "scopus_id": "57208743591",
+                    "name": "Li J."
+                },
+                {
+                    "scopus_id": "55513467200",
+                    "name": "Pei G.Q."
+                },
+                {
+                    "scopus_id": "57213141860",
+                    "name": "Qiang X."
+                },
+                {
+                    "scopus_id": "57216348576",
+                    "name": "Cheung W.Y.M."
+                },
+                {
+                    "scopus_id": "57208273084",
+                    "name": "Li L.F."
+                },
+                {
+                    "scopus_id": "57217120890",
+                    "name": "Sun F.F."
+                },
+                {
+                    "scopus_id": "57215777295",
+                    "name": "Qin S."
+                },
+                {
+                    "scopus_id": "56965768400",
+                    "name": "Huang J.C."
+                },
+                {
+                    "scopus_id": "7007159841",
+                    "name": "Leung G.M."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                },
+                {
+                    "scopus_id": "55521190100",
+                    "name": "Hu Y.L."
+                },
+                {
+                    "scopus_id": "7202924055",
+                    "name": "Guan Y."
+                },
+                {
+                    "scopus_id": "57199658059",
+                    "name": "Cao W.C."
+                }
+            ],
+            "citations": 1154,
+            "publication_name": "Nature",
+            "issn": "00280836",
+            "cover_date": "2020-07-09",
+            "venue": "Journal",
+            "volume": "583",
+            "issue": "7815",
+            "page_range": "282-285",
+            "doi": "10.1038/s41586-020-2169-0"
+        },
+        {
+            "title": "Rates of evolutionary change in viruses: Patterns and determinants",
+            "eid": "2-s2.0-40849097775",
+            "authors": [
+                {
+                    "scopus_id": "7202066220",
+                    "name": "Duffy S."
+                },
+                {
+                    "scopus_id": "6507701539",
+                    "name": "Shackelton L.A."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                }
+            ],
+            "citations": 1090,
+            "publication_name": "Nature Reviews Genetics",
+            "issn": "14710056",
+            "cover_date": "2008-04-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "4",
+            "page_range": "267-276",
+            "doi": "10.1038/nrg2323"
+        },
+        {
+            "title": "A proposed system for the nomenclature of hepatitis C viral genotypes",
+            "eid": "2-s2.0-0028293828",
+            "authors": [
+                {
+                    "scopus_id": "7102203090",
+                    "name": "Simmonds P."
+                },
+                {
+                    "scopus_id": "35379148100",
+                    "name": "Alberti A."
+                },
+                {
+                    "scopus_id": "57202247800",
+                    "name": "Alter H.J."
+                },
+                {
+                    "scopus_id": "55402038400",
+                    "name": "Bonino F."
+                },
+                {
+                    "scopus_id": "7403122533",
+                    "name": "Bradley D.W."
+                },
+                {
+                    "scopus_id": "55152255000",
+                    "name": "Brechot C."
+                },
+                {
+                    "scopus_id": "7101924249",
+                    "name": "Brouwer J.T."
+                },
+                {
+                    "scopus_id": "7404252897",
+                    "name": "Chan S.\u2010."
+                },
+                {
+                    "scopus_id": "35355550800",
+                    "name": "Chayama K."
+                },
+                {
+                    "scopus_id": "36066251200",
+                    "name": "Chen D.\u2010."
+                },
+                {
+                    "scopus_id": "7006740691",
+                    "name": "Choo Q.\u2010."
+                },
+                {
+                    "scopus_id": "15758978400",
+                    "name": "Colombo M."
+                },
+                {
+                    "scopus_id": "57216111664",
+                    "name": "Cuypers H.T.M."
+                },
+                {
+                    "scopus_id": "7006241550",
+                    "name": "Date T."
+                },
+                {
+                    "scopus_id": "7006885162",
+                    "name": "Dusheiko G.M."
+                },
+                {
+                    "scopus_id": "7202332717",
+                    "name": "Esteban J.I."
+                },
+                {
+                    "scopus_id": "7003968343",
+                    "name": "Fay O."
+                },
+                {
+                    "scopus_id": "35376058400",
+                    "name": "Hadziyannis S.J."
+                },
+                {
+                    "scopus_id": "8664208600",
+                    "name": "Han J."
+                },
+                {
+                    "scopus_id": "35371482000",
+                    "name": "Hatzakis A."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                },
+                {
+                    "scopus_id": "7102007300",
+                    "name": "Hotta H."
+                },
+                {
+                    "scopus_id": "7007018686",
+                    "name": "Houghton M."
+                },
+                {
+                    "scopus_id": "7004387902",
+                    "name": "Irvine B."
+                },
+                {
+                    "scopus_id": "55362962600",
+                    "name": "Kohara M."
+                },
+                {
+                    "scopus_id": "35952908200",
+                    "name": "Kolberg J.A."
+                },
+                {
+                    "scopus_id": "16750292700",
+                    "name": "Kuo G."
+                },
+                {
+                    "scopus_id": "7402446047",
+                    "name": "Lau J.Y.N."
+                },
+                {
+                    "scopus_id": "7006971314",
+                    "name": "Lelie P.N."
+                },
+                {
+                    "scopus_id": "7003380549",
+                    "name": "Maertens G."
+                },
+                {
+                    "scopus_id": "57200000001",
+                    "name": "McOmish F."
+                },
+                {
+                    "scopus_id": "35275682000",
+                    "name": "Miyamura T."
+                },
+                {
+                    "scopus_id": "56490052300",
+                    "name": "Mizokami M."
+                },
+                {
+                    "scopus_id": "55605778314",
+                    "name": "Nomoto A."
+                },
+                {
+                    "scopus_id": "24360865300",
+                    "name": "Prince A.M."
+                },
+                {
+                    "scopus_id": "7004815819",
+                    "name": "Reesink H.W."
+                },
+                {
+                    "scopus_id": "57209763974",
+                    "name": "Rice C."
+                },
+                {
+                    "scopus_id": "55040623200",
+                    "name": "Roggendorf M."
+                },
+                {
+                    "scopus_id": "7103298140",
+                    "name": "Schalm S.W."
+                },
+                {
+                    "scopus_id": "7102594902",
+                    "name": "Shikata T."
+                },
+                {
+                    "scopus_id": "7102272076",
+                    "name": "Shimotohno K."
+                },
+                {
+                    "scopus_id": "7004164328",
+                    "name": "Stuyver L."
+                },
+                {
+                    "scopus_id": "35373652400",
+                    "name": "Tr\u00e9po C."
+                },
+                {
+                    "scopus_id": "16147598300",
+                    "name": "Weiner A."
+                },
+                {
+                    "scopus_id": "16938057500",
+                    "name": "Yap P.L."
+                },
+                {
+                    "scopus_id": "7005511490",
+                    "name": "Urdea M.S."
+                }
+            ],
+            "citations": 1070,
+            "publication_name": "Hepatology",
+            "issn": "02709139",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "5",
+            "page_range": "1321-1324",
+            "doi": "10.1002/hep.1840190538"
+        },
+        {
+            "title": "Redefining the invertebrate RNA virosphere",
+            "eid": "2-s2.0-85002520783",
+            "authors": [
+                {
+                    "scopus_id": "57216165397",
+                    "name": "Shi M."
+                },
+                {
+                    "scopus_id": "35269554700",
+                    "name": "Lin X.D."
+                },
+                {
+                    "scopus_id": "54879986300",
+                    "name": "Tian J.H."
+                },
+                {
+                    "scopus_id": "55235865800",
+                    "name": "Chen L.J."
+                },
+                {
+                    "scopus_id": "57192303495",
+                    "name": "Chen X."
+                },
+                {
+                    "scopus_id": "56151272400",
+                    "name": "Li C.X."
+                },
+                {
+                    "scopus_id": "36757542000",
+                    "name": "Qin X.C."
+                },
+                {
+                    "scopus_id": "56007009300",
+                    "name": "Li J."
+                },
+                {
+                    "scopus_id": "56770385700",
+                    "name": "Cao J.P."
+                },
+                {
+                    "scopus_id": "36085949800",
+                    "name": "Eden J.S."
+                },
+                {
+                    "scopus_id": "35809907900",
+                    "name": "Buchmann J."
+                },
+                {
+                    "scopus_id": "57189226945",
+                    "name": "Wang W."
+                },
+                {
+                    "scopus_id": "56155315500",
+                    "name": "Xu J."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                },
+                {
+                    "scopus_id": "57216697613",
+                    "name": "Zhang Y.Z."
+                }
+            ],
+            "citations": 1047,
+            "publication_name": "Nature",
+            "issn": "00280836",
+            "cover_date": "2016-12-22",
+            "venue": "Journal",
+            "volume": "540",
+            "issue": "7634",
+            "page_range": "539-543",
+            "doi": "10.1038/nature20167"
+        },
+        {
+            "title": "New World Bats Harbor Diverse Influenza A Viruses",
+            "eid": "2-s2.0-84887290174",
+            "authors": [
+                {
+                    "scopus_id": "55783951400",
+                    "name": "Tong S."
+                },
+                {
+                    "scopus_id": "7406186499",
+                    "name": "Zhu X."
+                },
+                {
+                    "scopus_id": "57211569619",
+                    "name": "Li Y."
+                },
+                {
+                    "scopus_id": "57216165397",
+                    "name": "Shi M."
+                },
+                {
+                    "scopus_id": "57196378566",
+                    "name": "Zhang J."
+                },
+                {
+                    "scopus_id": "23472006300",
+                    "name": "Bourgeois M."
+                },
+                {
+                    "scopus_id": "57069309600",
+                    "name": "Yang H."
+                },
+                {
+                    "scopus_id": "45961002100",
+                    "name": "Chen X."
+                },
+                {
+                    "scopus_id": "16231086500",
+                    "name": "Recuenco S."
+                },
+                {
+                    "scopus_id": "57218962402",
+                    "name": "Gomez J."
+                },
+                {
+                    "scopus_id": "7409436729",
+                    "name": "Chen L.M."
+                },
+                {
+                    "scopus_id": "57198945374",
+                    "name": "Johnson A."
+                },
+                {
+                    "scopus_id": "36744564300",
+                    "name": "Tao Y."
+                },
+                {
+                    "scopus_id": "53163561100",
+                    "name": "Dreyfus C."
+                },
+                {
+                    "scopus_id": "55357161100",
+                    "name": "Yu W."
+                },
+                {
+                    "scopus_id": "24367007000",
+                    "name": "McBride R."
+                },
+                {
+                    "scopus_id": "36440941500",
+                    "name": "Carney P.J."
+                },
+                {
+                    "scopus_id": "55332745600",
+                    "name": "Gilbert A.T."
+                },
+                {
+                    "scopus_id": "55865658200",
+                    "name": "Chang J."
+                },
+                {
+                    "scopus_id": "7404658343",
+                    "name": "Guo Z."
+                },
+                {
+                    "scopus_id": "24343633100",
+                    "name": "Davis C.T."
+                },
+                {
+                    "scopus_id": "7102211494",
+                    "name": "Paulson J.C."
+                },
+                {
+                    "scopus_id": "57218958349",
+                    "name": "Stevens J."
+                },
+                {
+                    "scopus_id": "17435707700",
+                    "name": "Rupprecht C.E."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                },
+                {
+                    "scopus_id": "7401743864",
+                    "name": "Wilson I.A."
+                },
+                {
+                    "scopus_id": "7004340676",
+                    "name": "Donis R.O."
+                }
+            ],
+            "citations": 1002,
+            "publication_name": "PLoS Pathogens",
+            "issn": "15537366",
+            "cover_date": "2013-10-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "10",
+            "page_range": null,
+            "doi": "10.1371/journal.ppat.1003657"
+        },
+        {
+            "title": "Unifying the Epidemiological and Evolutionary Dynamics of Pathogens",
+            "eid": "2-s2.0-0346373759",
+            "authors": [
+                {
+                    "scopus_id": "7004421686",
+                    "name": "Grenfell B."
+                },
+                {
+                    "scopus_id": "6701390795",
+                    "name": "Pybus O."
+                },
+                {
+                    "scopus_id": "6603141132",
+                    "name": "Gog J."
+                },
+                {
+                    "scopus_id": "7404353992",
+                    "name": "Wood J."
+                },
+                {
+                    "scopus_id": "7401992503",
+                    "name": "Daly J."
+                },
+                {
+                    "scopus_id": "7103140939",
+                    "name": "Mumford J."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E."
+                }
+            ],
+            "citations": 968,
+            "publication_name": "Science",
+            "issn": "00368075",
+            "cover_date": "2004-01-16",
+            "venue": "Journal",
+            "volume": "303",
+            "issue": "5656",
+            "page_range": "327-332",
+            "doi": "10.1126/science.1090727"
+        },
+        {
+            "title": "The genomic and epidemiological dynamics of human influenza A virus",
+            "eid": "2-s2.0-44449164435",
+            "authors": [
+                {
+                    "scopus_id": "7004230842",
+                    "name": "Rambaut A."
+                },
+                {
+                    "scopus_id": "6701390795",
+                    "name": "Pybus O."
+                },
+                {
+                    "scopus_id": "15758216500",
+                    "name": "Nelson M."
+                },
+                {
+                    "scopus_id": "6701923799",
+                    "name": "Viboud C."
+                },
+                {
+                    "scopus_id": "7005069763",
+                    "name": "Taubenberger J."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E."
+                }
+            ],
+            "citations": 743,
+            "publication_name": "Nature",
+            "issn": "00280836",
+            "cover_date": "2008-05-29",
+            "venue": "Journal",
+            "volume": "453",
+            "issue": "7195",
+            "page_range": "615-619",
+            "doi": "10.1038/nature06945"
+        },
+        {
+            "title": "HIV evolution: CTL escape mutation and reversion after transmission",
+            "eid": "2-s2.0-1842741699",
+            "authors": [
+                {
+                    "scopus_id": "7102795676",
+                    "name": "Leslie A.J."
+                },
+                {
+                    "scopus_id": "8557365800",
+                    "name": "Pfafferott K.J."
+                },
+                {
+                    "scopus_id": "57225714291",
+                    "name": "Chetty P."
+                },
+                {
+                    "scopus_id": "6602425444",
+                    "name": "Draenert R."
+                },
+                {
+                    "scopus_id": "57204256299",
+                    "name": "Addo M.M."
+                },
+                {
+                    "scopus_id": "35481143800",
+                    "name": "Feeney M."
+                },
+                {
+                    "scopus_id": "7404592495",
+                    "name": "Tang Y."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                },
+                {
+                    "scopus_id": "57203811551",
+                    "name": "Allen T."
+                },
+                {
+                    "scopus_id": "7102168846",
+                    "name": "Prado J.G."
+                },
+                {
+                    "scopus_id": "7003649192",
+                    "name": "Altfeld M."
+                },
+                {
+                    "scopus_id": "26643182400",
+                    "name": "Brander C."
+                },
+                {
+                    "scopus_id": "7101861132",
+                    "name": "Dixon C."
+                },
+                {
+                    "scopus_id": "6506260241",
+                    "name": "Ramduth D."
+                },
+                {
+                    "scopus_id": "7004468083",
+                    "name": "Jeena P."
+                },
+                {
+                    "scopus_id": "55456113800",
+                    "name": "Thomas S.A."
+                },
+                {
+                    "scopus_id": "7005908476",
+                    "name": "St. John A."
+                },
+                {
+                    "scopus_id": "35447363800",
+                    "name": "Roach T.A."
+                },
+                {
+                    "scopus_id": "6603877413",
+                    "name": "Kupfer B."
+                },
+                {
+                    "scopus_id": "7007154705",
+                    "name": "Luzzi G."
+                },
+                {
+                    "scopus_id": "7403540984",
+                    "name": "Edwards A."
+                },
+                {
+                    "scopus_id": "55894703500",
+                    "name": "Taylor G."
+                },
+                {
+                    "scopus_id": "7004180617",
+                    "name": "Lyall H."
+                },
+                {
+                    "scopus_id": "7004188878",
+                    "name": "Tudor-Williams G."
+                },
+                {
+                    "scopus_id": "57212522277",
+                    "name": "Novelli V."
+                },
+                {
+                    "scopus_id": "7004218612",
+                    "name": "Martinez-Picado J."
+                },
+                {
+                    "scopus_id": "6603551905",
+                    "name": "Kiepiela P."
+                },
+                {
+                    "scopus_id": "7402209193",
+                    "name": "Walker B.D."
+                },
+                {
+                    "scopus_id": "7003741802",
+                    "name": "Goulder P.J.R."
+                }
+            ],
+            "citations": 714,
+            "publication_name": "Nature Medicine",
+            "issn": "10788956",
+            "cover_date": "2004-03-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "3",
+            "page_range": "282-289",
+            "doi": "10.1038/nm992"
+        },
+        {
+            "title": "Comparative genomics reveals insights into avian genome evolution and adaptation",
+            "eid": "2-s2.0-84917678595",
+            "authors": [
+                {
+                    "scopus_id": "57205017478",
+                    "name": "Correction Zhang G."
+                },
+                {
+                    "scopus_id": "49461402300",
+                    "name": "Li C."
+                },
+                {
+                    "scopus_id": "42761523100",
+                    "name": "Li Q."
+                },
+                {
+                    "scopus_id": "58054620800",
+                    "name": "Li B."
+                },
+                {
+                    "scopus_id": "7005642361",
+                    "name": "Larkin D.M."
+                },
+                {
+                    "scopus_id": "56445924100",
+                    "name": "Lee C."
+                },
+                {
+                    "scopus_id": "7006694600",
+                    "name": "Storz J.F."
+                },
+                {
+                    "scopus_id": "7102537544",
+                    "name": "Antunes A."
+                },
+                {
+                    "scopus_id": "36159685400",
+                    "name": "Greenwold M.J."
+                },
+                {
+                    "scopus_id": "15065641200",
+                    "name": "Meredith R.W."
+                },
+                {
+                    "scopus_id": "17346572400",
+                    "name": "\u00d6deen A."
+                },
+                {
+                    "scopus_id": "36162804500",
+                    "name": "Cui J."
+                },
+                {
+                    "scopus_id": "56446031000",
+                    "name": "Zhou Q."
+                },
+                {
+                    "scopus_id": "56446010300",
+                    "name": "Xu L."
+                },
+                {
+                    "scopus_id": "49461662500",
+                    "name": "Pan H."
+                },
+                {
+                    "scopus_id": "55327506000",
+                    "name": "Wang Z."
+                },
+                {
+                    "scopus_id": "56018806700",
+                    "name": "Jin L."
+                },
+                {
+                    "scopus_id": "55326968000",
+                    "name": "Zhang P."
+                },
+                {
+                    "scopus_id": "55478271600",
+                    "name": "Hu H."
+                },
+                {
+                    "scopus_id": "57001414900",
+                    "name": "Yang W."
+                },
+                {
+                    "scopus_id": "57221155433",
+                    "name": "Hu J."
+                },
+                {
+                    "scopus_id": "55531290400",
+                    "name": "Xiao J."
+                },
+                {
+                    "scopus_id": "56176043800",
+                    "name": "Yang Z."
+                },
+                {
+                    "scopus_id": "57192564826",
+                    "name": "Liu Y."
+                },
+                {
+                    "scopus_id": "57201545787",
+                    "name": "Xie Q."
+                },
+                {
+                    "scopus_id": "56445950900",
+                    "name": "Yu H."
+                },
+                {
+                    "scopus_id": "56019231600",
+                    "name": "Lian J."
+                },
+                {
+                    "scopus_id": "57206378451",
+                    "name": "Wen P."
+                },
+                {
+                    "scopus_id": "57199242967",
+                    "name": "Zhang F."
+                },
+                {
+                    "scopus_id": "56445961600",
+                    "name": "Li H."
+                },
+                {
+                    "scopus_id": "57196086015",
+                    "name": "Zeng Y."
+                },
+                {
+                    "scopus_id": "54782056400",
+                    "name": "Xiong Z."
+                },
+                {
+                    "scopus_id": "57196086376",
+                    "name": "Liu S."
+                },
+                {
+                    "scopus_id": "56564427400",
+                    "name": "Zhou L."
+                },
+                {
+                    "scopus_id": "54410673000",
+                    "name": "Huang Z."
+                },
+                {
+                    "scopus_id": "57205314140",
+                    "name": "An N."
+                },
+                {
+                    "scopus_id": "56446207700",
+                    "name": "Wang J."
+                },
+                {
+                    "scopus_id": "55375432300",
+                    "name": "Zheng Q."
+                },
+                {
+                    "scopus_id": "55838744700",
+                    "name": "Xiong Y."
+                },
+                {
+                    "scopus_id": "56445945000",
+                    "name": "Wang G."
+                },
+                {
+                    "scopus_id": "58737522300",
+                    "name": "Wang B."
+                },
+                {
+                    "scopus_id": "56446130100",
+                    "name": "Wang J."
+                },
+                {
+                    "scopus_id": "57104109000",
+                    "name": "Fan Y."
+                },
+                {
+                    "scopus_id": "15724255000",
+                    "name": "Da Fonseca R.R."
+                },
+                {
+                    "scopus_id": "37064418300",
+                    "name": "Alfaro-N\u00fa\u00f1ez A."
+                },
+                {
+                    "scopus_id": "55210332300",
+                    "name": "Schubert M."
+                },
+                {
+                    "scopus_id": "7006472586",
+                    "name": "Orlando L."
+                },
+                {
+                    "scopus_id": "55907485500",
+                    "name": "Mourier T."
+                },
+                {
+                    "scopus_id": "15061580900",
+                    "name": "Howard J.T."
+                },
+                {
+                    "scopus_id": "6602886442",
+                    "name": "Ganapathy G."
+                },
+                {
+                    "scopus_id": "36096904700",
+                    "name": "Pfenning A."
+                },
+                {
+                    "scopus_id": "9242899500",
+                    "name": "Whitney O."
+                },
+                {
+                    "scopus_id": "7102418960",
+                    "name": "Rivas M.V."
+                },
+                {
+                    "scopus_id": "8268941300",
+                    "name": "Hara E."
+                },
+                {
+                    "scopus_id": "57226060233",
+                    "name": "Smith J."
+                },
+                {
+                    "scopus_id": "37761280900",
+                    "name": "Farr\u00e9 M."
+                },
+                {
+                    "scopus_id": "58709194400",
+                    "name": "Narayan J."
+                },
+                {
+                    "scopus_id": "8954950500",
+                    "name": "Slavov G."
+                },
+                {
+                    "scopus_id": "7005857204",
+                    "name": "Romanov M.N."
+                },
+                {
+                    "scopus_id": "55533394800",
+                    "name": "Borges R."
+                },
+                {
+                    "scopus_id": "57214578456",
+                    "name": "Machado J.P."
+                },
+                {
+                    "scopus_id": "16555175100",
+                    "name": "Khan I."
+                },
+                {
+                    "scopus_id": "7103100228",
+                    "name": "Springer M.S."
+                },
+                {
+                    "scopus_id": "7004503476",
+                    "name": "Gatesy J."
+                },
+                {
+                    "scopus_id": "7202747675",
+                    "name": "Hoffmann F.G."
+                },
+                {
+                    "scopus_id": "6602749818",
+                    "name": "Opazo J.C."
+                },
+                {
+                    "scopus_id": "8354410000",
+                    "name": "H\u00e5stad O."
+                },
+                {
+                    "scopus_id": "7201516610",
+                    "name": "Sawyer R.H."
+                },
+                {
+                    "scopus_id": "57222625259",
+                    "name": "Kim H."
+                },
+                {
+                    "scopus_id": "54784644500",
+                    "name": "Kim K.W."
+                },
+                {
+                    "scopus_id": "56102956900",
+                    "name": "Kim H.J."
+                },
+                {
+                    "scopus_id": "16644772000",
+                    "name": "Cho S."
+                },
+                {
+                    "scopus_id": "36014389400",
+                    "name": "Li N."
+                },
+                {
+                    "scopus_id": "41960933700",
+                    "name": "Huang Y."
+                },
+                {
+                    "scopus_id": "56840234000",
+                    "name": "Bruford M.W."
+                },
+                {
+                    "scopus_id": "27968227200",
+                    "name": "Zhan X."
+                },
+                {
+                    "scopus_id": "35204852800",
+                    "name": "Dixon A."
+                },
+                {
+                    "scopus_id": "55771341500",
+                    "name": "Bertelsen M.F."
+                },
+                {
+                    "scopus_id": "8887879900",
+                    "name": "Derryberry E."
+                },
+                {
+                    "scopus_id": "7202784659",
+                    "name": "Warren W."
+                },
+                {
+                    "scopus_id": "56713341900",
+                    "name": "Wilson R.K."
+                },
+                {
+                    "scopus_id": "7409236919",
+                    "name": "Li S."
+                },
+                {
+                    "scopus_id": "35381240400",
+                    "name": "Ray D.A."
+                },
+                {
+                    "scopus_id": "36023707900",
+                    "name": "Green R.E."
+                },
+                {
+                    "scopus_id": "7402355306",
+                    "name": "O'Brien S.J."
+                },
+                {
+                    "scopus_id": "55845463100",
+                    "name": "Griffin D."
+                },
+                {
+                    "scopus_id": "7404848826",
+                    "name": "Johnson W.E."
+                },
+                {
+                    "scopus_id": "7006637893",
+                    "name": "Haussler D."
+                },
+                {
+                    "scopus_id": "7005467638",
+                    "name": "Ryder O.A."
+                },
+                {
+                    "scopus_id": "56273625000",
+                    "name": "Willerslev E."
+                },
+                {
+                    "scopus_id": "7004319691",
+                    "name": "Graves G.R."
+                },
+                {
+                    "scopus_id": "7003408308",
+                    "name": "Alstr\u00f6m P."
+                },
+                {
+                    "scopus_id": "7003758673",
+                    "name": "Fjelds\u00e5 J."
+                },
+                {
+                    "scopus_id": "7003464307",
+                    "name": "Mindell D.P."
+                },
+                {
+                    "scopus_id": "55543928200",
+                    "name": "Edwards S.V."
+                },
+                {
+                    "scopus_id": "7103207384",
+                    "name": "Braun E.L."
+                },
+                {
+                    "scopus_id": "6602128406",
+                    "name": "Rahbek C."
+                },
+                {
+                    "scopus_id": "55510821300",
+                    "name": "Burt D.W."
+                },
+                {
+                    "scopus_id": "8790368100",
+                    "name": "Houde P."
+                },
+                {
+                    "scopus_id": "56521091400",
+                    "name": "Zhang Y."
+                }
+            ],
+            "citations": 695,
+            "publication_name": "Science",
+            "issn": "00368075",
+            "cover_date": "2014-12-12",
+            "venue": "Journal",
+            "volume": "346",
+            "issue": "6215",
+            "page_range": "1311-1320",
+            "doi": "10.1126/science.1251385"
+        },
+        {
+            "title": "Cross-species virus transmission and the emergence of new epidemic diseases",
+            "eid": "2-s2.0-51949109019",
+            "authors": [
+                {
+                    "scopus_id": "7103173466",
+                    "name": "Parrish C.R."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                },
+                {
+                    "scopus_id": "7005771082",
+                    "name": "Morens D.M."
+                },
+                {
+                    "scopus_id": "57225662840",
+                    "name": "Park E.C."
+                },
+                {
+                    "scopus_id": "7403247471",
+                    "name": "Burke D.S."
+                },
+                {
+                    "scopus_id": "7007011672",
+                    "name": "Calisher C.H."
+                },
+                {
+                    "scopus_id": "7003474250",
+                    "name": "Laughlin C.A."
+                },
+                {
+                    "scopus_id": "7102226747",
+                    "name": "Saif L.J."
+                },
+                {
+                    "scopus_id": "7003646071",
+                    "name": "Daszak P."
+                }
+            ],
+            "citations": 590,
+            "publication_name": "Microbiology and Molecular Biology Reviews",
+            "issn": "10922172",
+            "cover_date": "2008-09-01",
+            "venue": "Journal",
+            "volume": "72",
+            "issue": "3",
+            "page_range": "457-470",
+            "doi": "10.1128/MMBR.00004-08"
+        },
+        {
+            "title": "Unprecedented genomic diversity of RNA viruses in arthropods reveals the ancestry of negative-sense RNA viruses",
+            "eid": "2-s2.0-84964694285",
+            "authors": [
+                {
+                    "scopus_id": "56151272400",
+                    "name": "Li C.X."
+                },
+                {
+                    "scopus_id": "57216165397",
+                    "name": "Shi M."
+                },
+                {
+                    "scopus_id": "54879986300",
+                    "name": "Tian J.H."
+                },
+                {
+                    "scopus_id": "35269554700",
+                    "name": "Lin X.D."
+                },
+                {
+                    "scopus_id": "55220271800",
+                    "name": "Kang Y.J."
+                },
+                {
+                    "scopus_id": "55235865800",
+                    "name": "Chen L.J."
+                },
+                {
+                    "scopus_id": "36757542000",
+                    "name": "Qin X.C."
+                },
+                {
+                    "scopus_id": "56155315500",
+                    "name": "Xu J."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                },
+                {
+                    "scopus_id": "57216697613",
+                    "name": "Zhang Y.Z."
+                }
+            ],
+            "citations": 575,
+            "publication_name": "eLife",
+            "issn": "",
+            "cover_date": "2015-01-29",
+            "venue": "Journal",
+            "volume": "2015",
+            "issue": "4",
+            "page_range": null,
+            "doi": "10.7554/eLife.05378"
+        },
+        {
+            "title": "A Genomic Perspective on the Origin and Emergence of SARS-CoV-2",
+            "eid": "2-s2.0-85083025653",
+            "authors": [
+                {
+                    "scopus_id": "57216697613",
+                    "name": "Zhang Y.Z."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                }
+            ],
+            "citations": 546,
+            "publication_name": "Cell",
+            "issn": "00928674",
+            "cover_date": "2020-04-16",
+            "venue": "Journal",
+            "volume": "181",
+            "issue": "2",
+            "page_range": "223-227",
+            "doi": "10.1016/j.cell.2020.03.035"
+        },
+        {
+            "title": "Assignment of epidemiological lineages in an emerging pandemic using the pangolin tool",
+            "eid": "2-s2.0-85112290813",
+            "authors": [
+                {
+                    "scopus_id": "57218118671",
+                    "name": "O\u2019Toole \u00c1."
+                },
+                {
+                    "scopus_id": "57212222763",
+                    "name": "Scher E."
+                },
+                {
+                    "scopus_id": "7102035142",
+                    "name": "Underwood A."
+                },
+                {
+                    "scopus_id": "14015846900",
+                    "name": "Jackson B."
+                },
+                {
+                    "scopus_id": "57216509983",
+                    "name": "Hill V."
+                },
+                {
+                    "scopus_id": "57189030254",
+                    "name": "McCrone J.T."
+                },
+                {
+                    "scopus_id": "57220192868",
+                    "name": "Colquhoun R."
+                },
+                {
+                    "scopus_id": "56764219900",
+                    "name": "Ruis C."
+                },
+                {
+                    "scopus_id": "57221318435",
+                    "name": "Abu-Dahab K."
+                },
+                {
+                    "scopus_id": "57217036970",
+                    "name": "Taylor B."
+                },
+                {
+                    "scopus_id": "55991503600",
+                    "name": "Yeats C."
+                },
+                {
+                    "scopus_id": "54796603300",
+                    "name": "du Plessis L."
+                },
+                {
+                    "scopus_id": "57287666900",
+                    "name": "Maloney D."
+                },
+                {
+                    "scopus_id": "56560178300",
+                    "name": "Medd N."
+                },
+                {
+                    "scopus_id": "7005307997",
+                    "name": "Attwood S.W."
+                },
+                {
+                    "scopus_id": "6507460526",
+                    "name": "Aanensen D.M."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                },
+                {
+                    "scopus_id": "57221367649",
+                    "name": "Pybus O.G."
+                },
+                {
+                    "scopus_id": "7004230842",
+                    "name": "Rambaut A."
+                }
+            ],
+            "citations": 544,
+            "publication_name": "Virus Evolution",
+            "issn": "",
+            "cover_date": "2021-01-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "2",
+            "page_range": null,
+            "doi": "10.1093/ve/veab064"
+        },
+        {
+            "title": "Rates of molecular evolution in RNA viruses: A quantitative phylogenetic analysis",
+            "eid": "2-s2.0-0036147047",
+            "authors": [
+                {
+                    "scopus_id": "7201483465",
+                    "name": "Jenkins G."
+                },
+                {
+                    "scopus_id": "7004230842",
+                    "name": "Rambaut A."
+                },
+                {
+                    "scopus_id": "6701390795",
+                    "name": "Pybus O."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E."
+                }
+            ],
+            "citations": 534,
+            "publication_name": "Journal of Molecular Evolution",
+            "issn": "00222844",
+            "cover_date": "2002-01-29",
+            "venue": "Journal",
+            "volume": "54",
+            "issue": "2",
+            "page_range": "156-165",
+            "doi": "10.1007/s00239-001-0064-3"
+        },
+        {
+            "title": "The origin, emergence and evolutionary genetics of dengue virus",
+            "eid": "2-s2.0-0037404062",
+            "authors": [
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E."
+                },
+                {
+                    "scopus_id": "6602948753",
+                    "name": "Twiddy S."
+                }
+            ],
+            "citations": 490,
+            "publication_name": "Infection, Genetics and Evolution",
+            "issn": "15671348",
+            "cover_date": "2003-05-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "1",
+            "page_range": "19-28",
+            "doi": "10.1016/S1567-1348(03)00004-2"
+        },
+        {
+            "title": "Evolutionary aspects of recombination in RNA viruses",
+            "eid": "2-s2.0-0032853634",
+            "authors": [
+                {
+                    "scopus_id": "6603603024",
+                    "name": "Worobey M."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E."
+                }
+            ],
+            "citations": 488,
+            "publication_name": "Journal of General Virology",
+            "issn": "00221317",
+            "cover_date": "1999-01-01",
+            "venue": "Journal",
+            "volume": "80",
+            "issue": "10",
+            "page_range": "2535-2543",
+            "doi": "10.1099/0022-1317-80-10-2535"
+        },
+        {
+            "title": "The evolutionary history of vertebrate RNA viruses",
+            "eid": "2-s2.0-85045205666",
+            "authors": [
+                {
+                    "scopus_id": "57216165397",
+                    "name": "Shi M."
+                },
+                {
+                    "scopus_id": "35269554700",
+                    "name": "Lin X.D."
+                },
+                {
+                    "scopus_id": "57192303495",
+                    "name": "Chen X."
+                },
+                {
+                    "scopus_id": "54879986300",
+                    "name": "Tian J.H."
+                },
+                {
+                    "scopus_id": "55235865800",
+                    "name": "Chen L.J."
+                },
+                {
+                    "scopus_id": "56442959000",
+                    "name": "Li K."
+                },
+                {
+                    "scopus_id": "57189226945",
+                    "name": "Wang W."
+                },
+                {
+                    "scopus_id": "36085949800",
+                    "name": "Eden J.S."
+                },
+                {
+                    "scopus_id": "57201550423",
+                    "name": "Shen J.J."
+                },
+                {
+                    "scopus_id": "57201556756",
+                    "name": "Liu L."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                },
+                {
+                    "scopus_id": "57216697613",
+                    "name": "Zhang Y.Z."
+                }
+            ],
+            "citations": 486,
+            "publication_name": "Nature",
+            "issn": "00280836",
+            "cover_date": "2018-04-01",
+            "venue": "Journal",
+            "volume": "556",
+            "issue": "7700",
+            "page_range": "197-202",
+            "doi": "10.1038/s41586-018-0012-7"
+        },
+        {
+            "title": "Why do RNA viruses recombine?",
+            "eid": "2-s2.0-79960425867",
+            "authors": [
+                {
+                    "scopus_id": "57216111585",
+                    "name": "Simon-Loriere E."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                }
+            ],
+            "citations": 471,
+            "publication_name": "Nature Reviews Microbiology",
+            "issn": "17401526",
+            "cover_date": "2011-08-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "8",
+            "page_range": "617-626",
+            "doi": "10.1038/nrmicro2614"
+        },
+        {
+            "title": "High rate of viral evolution associated with the emergence of carnivore parvovirus",
+            "eid": "2-s2.0-12244297403",
+            "authors": [
+                {
+                    "scopus_id": "6507701539",
+                    "name": "Shackelton L.A."
+                },
+                {
+                    "scopus_id": "7103173466",
+                    "name": "Parrish C.R."
+                },
+                {
+                    "scopus_id": "35300805300",
+                    "name": "Truyen U."
+                },
+                {
+                    "scopus_id": "55535773400",
+                    "name": "Holmes E.C."
+                }
+            ],
+            "citations": 427,
+            "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
+            "issn": "00278424",
+            "cover_date": "2005-01-11",
+            "venue": "Journal",
+            "volume": "102",
+            "issue": "2",
+            "page_range": "379-384",
+            "doi": "10.1073/pnas.0406765102"
+        }
+    ],
+    "affiliation": "The University of Sydney",
+    "city": "Sydney",
+    "country": "Australia",
+    "document_count": 813,
+    "subject_area": [
+        {
+            "@abbrev": "IMMU",
+            "@frequency": "958",
+            "$": "Immunology and Microbiology (all)"
+        },
+        {
+            "@abbrev": "MEDI",
+            "@frequency": "685",
+            "$": "Medicine (all)"
+        },
+        {
+            "@abbrev": "BIOC",
+            "@frequency": "556",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)"
+        }
+    ],
+    "date fetched": "2024-04-30 07:36:26",
+    "c-score": null
+}

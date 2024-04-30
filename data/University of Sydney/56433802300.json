@@ -1,0 +1,28 @@
+{
+    "scopus_id": "56433802300",
+    "name": "Finelli, Kevin D.",
+    "publications": [],
+    "affiliation": "The University of Sydney",
+    "city": "Sydney",
+    "country": "Australia",
+    "document_count": 654,
+    "subject_area": [
+        {
+            "@abbrev": "PHYS",
+            "@frequency": "667",
+            "$": "Physics and Astronomy (all)"
+        },
+        {
+            "@abbrev": "ENGI",
+            "@frequency": "177",
+            "$": "Engineering (all)"
+        },
+        {
+            "@abbrev": "MATH",
+            "@frequency": "20",
+            "$": "Mathematics (all)"
+        }
+    ],
+    "date fetched": "2024-04-30 07:36:27",
+    "c-score": null
+}

@@ -1,0 +1,28 @@
+{
+    "scopus_id": "25421265100",
+    "name": "Bauman, Adrian Ernest",
+    "publications": [],
+    "affiliation": "Faculty of Medicine and Health",
+    "city": "Sydney",
+    "country": "Australia",
+    "document_count": 1066,
+    "subject_area": [
+        {
+            "@abbrev": "MEDI",
+            "@frequency": "1914",
+            "$": "Medicine (all)"
+        },
+        {
+            "@abbrev": "HEAL",
+            "@frequency": "252",
+            "$": "Health Professions  (all)"
+        },
+        {
+            "@abbrev": "NURS",
+            "@frequency": "199",
+            "$": "Nursing (all)"
+        }
+    ],
+    "date fetched": "2024-04-30 07:35:53",
+    "c-score": null
+}

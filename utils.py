@@ -55,6 +55,7 @@ def get_top_2pc_df(filter_condition=dict()):
     # Filter the DataFrame based on the provided condition
     for key, value in filter_condition.items():
         df = df.loc[df[key] == value]
+    return df
 
 def get_cscore(first_name, last_name, affiliation, country, authors_df=get_top_2pc_df()):
     '''

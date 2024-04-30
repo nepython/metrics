@@ -26,12 +26,13 @@ def metrics(author, rows=list()):
             '% last author': percent_last_author(author['scopus_id'], author['publications']),
             '% single author': percent_single_author(author['publications']),
             'Median author position': median_author_position(author['scopus_id'], author['publications']),
-            'cscore': author['cscore'],
+            # 'cscore': author['c-score'],
             'i10-index': i10_index(author['publications']),
             'Average number of Authors': mean_coauthors(author['publications']),
             'Median number of Authors': median_coauthors(author['publications']),
         })
     except Exception as e:
+        raise e
         print(f"Error processing author: {author['name']}")
 
 def metric_summary(authors_df, metric, store_dir=None):
@@ -85,15 +86,18 @@ if __name__ == '__main__':
     # Read reseachers fetched using affiliation
     rows = []
     for affiliation in affiliations:
-        file_dir = f'{data_dir}/{affiliation}'
+        file_dir = f'{data_dir}/{affiliation["affiliation"]}'
         files = os.listdir(file_dir)
         for file in files:
             author = read_data(f'{file_dir}/{file}')
             metrics(author, rows)
-            authors_df = pd.DataFrame(rows)
 
-            # Store the metrics in a CSV file
-            store_dir = f'{results_dir}/{affiliation}'
-            authors_df.to_csv(f'{store_dir}/metrics.csv', sep=',', index=False)
-            metric_summary(authors_df, 'h-leadership-index', store_dir)
-            correlation_analysis(authors_df, store_dir)
+        authors_df = pd.DataFrame(rows)
+
+        # Store the metrics in a CSV file
+        store_dir = f'{results_dir}/{affiliation["affiliation"]}'
+        if not os.path.exists(store_dir):
+            os.makedirs(store_dir)
+        authors_df.to_csv(f'{store_dir}/metrics.csv', sep=',', index=False)
+        metric_summary(authors_df, 'h-leadership-index', store_dir)
+        correlation_analysis(authors_df, store_dir)

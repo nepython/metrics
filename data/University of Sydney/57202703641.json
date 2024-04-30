@@ -1,0 +1,28 @@
+{
+    "scopus_id": "57202703641",
+    "name": "Long, Georgina V.",
+    "publications": [],
+    "affiliation": "Faculty of Medicine and Health",
+    "city": "Sydney",
+    "country": "Australia",
+    "document_count": 613,
+    "subject_area": [
+        {
+            "@abbrev": "MEDI",
+            "@frequency": "1003",
+            "$": "Medicine (all)"
+        },
+        {
+            "@abbrev": "BIOC",
+            "@frequency": "444",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)"
+        },
+        {
+            "@abbrev": "IMMU",
+            "@frequency": "45",
+            "$": "Immunology and Microbiology (all)"
+        }
+    ],
+    "date fetched": "2024-04-30 07:36:28",
+    "c-score": null
+}
