@@ -19,7 +19,7 @@
                     "name": "Greene W.H."
                 }
             ],
-            "citations": 2595,
+            "citations": 2596,
             "publication_name": "Applied Choice Analysis: A Primer",
             "issn": "",
             "cover_date": "2005-01-01",
@@ -65,7 +65,7 @@
                     "name": "Hensher D."
                 }
             ],
-            "citations": 1189,
+            "citations": 1190,
             "publication_name": "Transportation Research Part B: Methodological",
             "issn": "01912615",
             "cover_date": "2003-01-01",
@@ -315,7 +315,7 @@
                     "name": "Hensher D.A."
                 }
             ],
-            "citations": 313,
+            "citations": 314,
             "publication_name": "Transport Policy",
             "issn": "0967070X",
             "cover_date": "2020-09-01",
@@ -597,7 +597,7 @@
                     "name": "Hensher D.A."
                 }
             ],
-            "citations": 224,
+            "citations": 225,
             "publication_name": "Transportation Research Part A: Policy and Practice",
             "issn": "09658564",
             "cover_date": "2017-04-01",
@@ -1712,6 +1712,29 @@
             "doi": "10.1016/S0969-6997(01)00031-X"
         },
         {
+            "title": "Towards a framework for Mobility-as-a-Service policies",
+            "eid": "2-s2.0-85079611761",
+            "authors": [
+                {
+                    "scopus_id": "57189872199",
+                    "name": "Smith G."
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A."
+                }
+            ],
+            "citations": 90,
+            "publication_name": "Transport Policy",
+            "issn": "0967070X",
+            "cover_date": "2020-04-01",
+            "venue": "Journal",
+            "volume": "89",
+            "issue": "",
+            "page_range": "54-65",
+            "doi": "10.1016/j.tranpol.2020.02.004"
+        },
+        {
             "title": "Bus congestion, optimal infrastructure investment and the choice of a fare collection system in dedicated bus corridors",
             "eid": "2-s2.0-79955044114",
             "authors": [
@@ -1733,29 +1756,6 @@
             "issue": "5",
             "page_range": "828-844",
             "doi": "10.1016/j.trb.2011.02.006"
-        },
-        {
-            "title": "Towards a framework for Mobility-as-a-Service policies",
-            "eid": "2-s2.0-85079611761",
-            "authors": [
-                {
-                    "scopus_id": "57189872199",
-                    "name": "Smith G."
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A."
-                }
-            ],
-            "citations": 89,
-            "publication_name": "Transport Policy",
-            "issn": "0967070X",
-            "cover_date": "2020-04-01",
-            "venue": "Journal",
-            "volume": "89",
-            "issue": "",
-            "page_range": "54-65",
-            "doi": "10.1016/j.tranpol.2020.02.004"
         },
         {
             "title": "Identifying the influence of stated choice design dimensionality on willingness to pay for travel time savings",
@@ -2089,7 +2089,7 @@
                     "name": "Hensher D.A."
                 }
             ],
-            "citations": 81,
+            "citations": 82,
             "publication_name": "Transport Reviews",
             "issn": "01441647",
             "cover_date": "2020-09-02",
@@ -14728,6 +14728,6 @@
             "$": "Business, Management and Accounting (all)"
         }
     ],
-    "date fetched": "2024-05-01 04:53:48",
+    "date fetched": "2024-05-02 07:03:34",
     "c-score": null
 }

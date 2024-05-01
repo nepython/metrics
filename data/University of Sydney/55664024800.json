@@ -12428,6 +12428,49 @@
             "doi": "10.1016/j.annepidem.2010.03.011"
         },
         {
+            "title": "Reduced estimated GFR and cancer mortality",
+            "eid": "2-s2.0-84896530002",
+            "authors": [
+                {
+                    "scopus_id": "10244540500",
+                    "name": "Iff S."
+                },
+                {
+                    "scopus_id": "7401926037",
+                    "name": "Craig J.C."
+                },
+                {
+                    "scopus_id": "35089064200",
+                    "name": "Turner R."
+                },
+                {
+                    "scopus_id": "35405188900",
+                    "name": "Chapman J.R."
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J."
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P."
+                },
+                {
+                    "scopus_id": "23974794800",
+                    "name": "Wong G."
+                }
+            ],
+            "citations": 114,
+            "publication_name": "American Journal of Kidney Diseases",
+            "issn": "02726386",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "63",
+            "issue": "1",
+            "page_range": "23-30",
+            "doi": "10.1053/j.ajkd.2013.07.008"
+        },
+        {
             "title": "Diabetic Retinopathy and Risk of Heart Failure",
             "eid": "2-s2.0-41949083725",
             "authors": [
@@ -12500,49 +12543,6 @@
             "issue": "2",
             "page_range": "103-114",
             "doi": "10.1076/0928-6586(200006)721-ZFT103"
-        },
-        {
-            "title": "Reduced estimated GFR and cancer mortality",
-            "eid": "2-s2.0-84896530002",
-            "authors": [
-                {
-                    "scopus_id": "10244540500",
-                    "name": "Iff S."
-                },
-                {
-                    "scopus_id": "7401926037",
-                    "name": "Craig J.C."
-                },
-                {
-                    "scopus_id": "35089064200",
-                    "name": "Turner R."
-                },
-                {
-                    "scopus_id": "35405188900",
-                    "name": "Chapman J.R."
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J."
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P."
-                },
-                {
-                    "scopus_id": "23974794800",
-                    "name": "Wong G."
-                }
-            ],
-            "citations": 113,
-            "publication_name": "American Journal of Kidney Diseases",
-            "issn": "02726386",
-            "cover_date": "2014-01-01",
-            "venue": "Journal",
-            "volume": "63",
-            "issue": "1",
-            "page_range": "23-30",
-            "doi": "10.1053/j.ajkd.2013.07.008"
         },
         {
             "title": "Retinal vessel diameters and risk of hypertension: The Multiethnic Study of Atherosclerosis",
@@ -24589,198 +24589,6 @@
             "doi": "10.1093/aje/kwk022"
         },
         {
-            "title": "Prevalence and risk factors of epiretinal membrane in Asian Indians",
-            "eid": "2-s2.0-84859988429",
-            "authors": [
-                {
-                    "scopus_id": "56685079900",
-                    "name": "Koh V."
-                },
-                {
-                    "scopus_id": "35276903300",
-                    "name": "Cheung C."
-                },
-                {
-                    "scopus_id": "57213372645",
-                    "name": "Wong W."
-                },
-                {
-                    "scopus_id": "7202061785",
-                    "name": "Cheung C."
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J."
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P."
-                },
-                {
-                    "scopus_id": "6507129483",
-                    "name": "Younan C."
-                },
-                {
-                    "scopus_id": "7006402006",
-                    "name": "Saw S."
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T."
-                }
-            ],
-            "citations": 51,
-            "publication_name": "Investigative Ophthalmology and Visual Science",
-            "issn": "01460404",
-            "cover_date": "2012-02-01",
-            "venue": "Journal",
-            "volume": "53",
-            "issue": "2",
-            "page_range": "1018-1022",
-            "doi": "10.1167/iovs.11-8557"
-        },
-        {
-            "title": "Influence of physical activity and screen time on the retinal microvasculature in young children",
-            "eid": "2-s2.0-79955598537",
-            "authors": [
-                {
-                    "scopus_id": "15829811000",
-                    "name": "Gopinath B."
-                },
-                {
-                    "scopus_id": "7005262888",
-                    "name": "Baur L."
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J."
-                },
-                {
-                    "scopus_id": "9044164500",
-                    "name": "Hardy L."
-                },
-                {
-                    "scopus_id": "6508372989",
-                    "name": "Teber E."
-                },
-                {
-                    "scopus_id": "8557586600",
-                    "name": "Kifley A."
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T."
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P."
-                }
-            ],
-            "citations": 51,
-            "publication_name": "Arteriosclerosis, Thrombosis, and Vascular Biology",
-            "issn": "10795642",
-            "cover_date": "2011-05-01",
-            "venue": "Journal",
-            "volume": "31",
-            "issue": "5",
-            "page_range": "1233-1239",
-            "doi": "10.1161/ATVBAHA.110.219451"
-        },
-        {
-            "title": "Retinal Vascular Caliber and Age-related Macular Degeneration: The Singapore Malay Eye Study",
-            "eid": "2-s2.0-56249130741",
-            "authors": [
-                {
-                    "scopus_id": "25646126000",
-                    "name": "Jeganathan V.S.E."
-                },
-                {
-                    "scopus_id": "35229910100",
-                    "name": "Kawasaki R."
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J."
-                },
-                {
-                    "scopus_id": "26643141900",
-                    "name": "Aung T."
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P."
-                },
-                {
-                    "scopus_id": "7006402006",
-                    "name": "Saw S.M."
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T.Y."
-                }
-            ],
-            "citations": 51,
-            "publication_name": "American Journal of Ophthalmology",
-            "issn": "00029394",
-            "cover_date": "2008-01-01",
-            "venue": "Journal",
-            "volume": "146",
-            "issue": "6",
-            "page_range": null,
-            "doi": "10.1016/j.ajo.2008.07.006"
-        },
-        {
-            "title": "The LOC387715 Polymorphism, Inflammatory Markers, Smoking, and Age-Related Macular Degeneration. A Population-Based Case-Control Study",
-            "eid": "2-s2.0-41149099709",
-            "authors": [
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J."
-                },
-                {
-                    "scopus_id": "14016758100",
-                    "name": "Ross R.J."
-                },
-                {
-                    "scopus_id": "6701486232",
-                    "name": "Tuo J."
-                },
-                {
-                    "scopus_id": "15847990200",
-                    "name": "Burlutsky G."
-                },
-                {
-                    "scopus_id": "7201883710",
-                    "name": "Tan A.G."
-                },
-                {
-                    "scopus_id": "7404813508",
-                    "name": "Chan C.C."
-                },
-                {
-                    "scopus_id": "7005694126",
-                    "name": "Favaloro E.J."
-                },
-                {
-                    "scopus_id": "8407013800",
-                    "name": "Williams A."
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P."
-                }
-            ],
-            "citations": 51,
-            "publication_name": "Ophthalmology",
-            "issn": "01616420",
-            "cover_date": "2008-04-01",
-            "venue": "Journal",
-            "volume": "115",
-            "issue": "4",
-            "page_range": "693-699",
-            "doi": "10.1016/j.ophtha.2007.05.038"
-        },
-        {
             "title": "Multiethnic genome-wide association study of diabetic retinopathy using liability threshold modeling of duration of diabetes and glycemic control",
             "eid": "2-s2.0-85060253807",
             "authors": [
@@ -25093,7 +24901,7 @@
                     "name": "Sobrin L."
                 }
             ],
-            "citations": 50,
+            "citations": 51,
             "publication_name": "Diabetes",
             "issn": "00121797",
             "cover_date": "2019-02-01",
@@ -25102,6 +24910,198 @@
             "issue": "2",
             "page_range": "441-456",
             "doi": "10.2337/db18-0567"
+        },
+        {
+            "title": "Prevalence and risk factors of epiretinal membrane in Asian Indians",
+            "eid": "2-s2.0-84859988429",
+            "authors": [
+                {
+                    "scopus_id": "56685079900",
+                    "name": "Koh V."
+                },
+                {
+                    "scopus_id": "35276903300",
+                    "name": "Cheung C."
+                },
+                {
+                    "scopus_id": "57213372645",
+                    "name": "Wong W."
+                },
+                {
+                    "scopus_id": "7202061785",
+                    "name": "Cheung C."
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J."
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P."
+                },
+                {
+                    "scopus_id": "6507129483",
+                    "name": "Younan C."
+                },
+                {
+                    "scopus_id": "7006402006",
+                    "name": "Saw S."
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T."
+                }
+            ],
+            "citations": 51,
+            "publication_name": "Investigative Ophthalmology and Visual Science",
+            "issn": "01460404",
+            "cover_date": "2012-02-01",
+            "venue": "Journal",
+            "volume": "53",
+            "issue": "2",
+            "page_range": "1018-1022",
+            "doi": "10.1167/iovs.11-8557"
+        },
+        {
+            "title": "Influence of physical activity and screen time on the retinal microvasculature in young children",
+            "eid": "2-s2.0-79955598537",
+            "authors": [
+                {
+                    "scopus_id": "15829811000",
+                    "name": "Gopinath B."
+                },
+                {
+                    "scopus_id": "7005262888",
+                    "name": "Baur L."
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J."
+                },
+                {
+                    "scopus_id": "9044164500",
+                    "name": "Hardy L."
+                },
+                {
+                    "scopus_id": "6508372989",
+                    "name": "Teber E."
+                },
+                {
+                    "scopus_id": "8557586600",
+                    "name": "Kifley A."
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T."
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P."
+                }
+            ],
+            "citations": 51,
+            "publication_name": "Arteriosclerosis, Thrombosis, and Vascular Biology",
+            "issn": "10795642",
+            "cover_date": "2011-05-01",
+            "venue": "Journal",
+            "volume": "31",
+            "issue": "5",
+            "page_range": "1233-1239",
+            "doi": "10.1161/ATVBAHA.110.219451"
+        },
+        {
+            "title": "Retinal Vascular Caliber and Age-related Macular Degeneration: The Singapore Malay Eye Study",
+            "eid": "2-s2.0-56249130741",
+            "authors": [
+                {
+                    "scopus_id": "25646126000",
+                    "name": "Jeganathan V.S.E."
+                },
+                {
+                    "scopus_id": "35229910100",
+                    "name": "Kawasaki R."
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J."
+                },
+                {
+                    "scopus_id": "26643141900",
+                    "name": "Aung T."
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P."
+                },
+                {
+                    "scopus_id": "7006402006",
+                    "name": "Saw S.M."
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T.Y."
+                }
+            ],
+            "citations": 51,
+            "publication_name": "American Journal of Ophthalmology",
+            "issn": "00029394",
+            "cover_date": "2008-01-01",
+            "venue": "Journal",
+            "volume": "146",
+            "issue": "6",
+            "page_range": null,
+            "doi": "10.1016/j.ajo.2008.07.006"
+        },
+        {
+            "title": "The LOC387715 Polymorphism, Inflammatory Markers, Smoking, and Age-Related Macular Degeneration. A Population-Based Case-Control Study",
+            "eid": "2-s2.0-41149099709",
+            "authors": [
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J."
+                },
+                {
+                    "scopus_id": "14016758100",
+                    "name": "Ross R.J."
+                },
+                {
+                    "scopus_id": "6701486232",
+                    "name": "Tuo J."
+                },
+                {
+                    "scopus_id": "15847990200",
+                    "name": "Burlutsky G."
+                },
+                {
+                    "scopus_id": "7201883710",
+                    "name": "Tan A.G."
+                },
+                {
+                    "scopus_id": "7404813508",
+                    "name": "Chan C.C."
+                },
+                {
+                    "scopus_id": "7005694126",
+                    "name": "Favaloro E.J."
+                },
+                {
+                    "scopus_id": "8407013800",
+                    "name": "Williams A."
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P."
+                }
+            ],
+            "citations": 51,
+            "publication_name": "Ophthalmology",
+            "issn": "01616420",
+            "cover_date": "2008-04-01",
+            "venue": "Journal",
+            "volume": "115",
+            "issue": "4",
+            "page_range": "693-699",
+            "doi": "10.1016/j.ophtha.2007.05.038"
         },
         {
             "title": "A genome-wide association study suggests new evidence for an association of the NADPH Oxidase 4 (NOX4) gene with severe diabetic retinopathy in type 2 diabetes",
@@ -48341,6 +48341,6 @@
             "$": "Biochemistry, Genetics and Molecular Biology (all)"
         }
     ],
-    "date fetched": "2024-05-01 05:30:10",
+    "date fetched": "2024-05-02 07:01:22",
     "c-score": null
 }

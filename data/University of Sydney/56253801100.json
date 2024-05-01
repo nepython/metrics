@@ -262,7 +262,7 @@
                     "name": "Taylor K."
                 }
             ],
-            "citations": 1611,
+            "citations": 1609,
             "publication_name": "Monthly Notices of the Royal Astronomical Society",
             "issn": "00358711",
             "cover_date": "2005-09-11",
@@ -1283,7 +1283,7 @@
                     "name": "Taylor K."
                 }
             ],
-            "citations": 805,
+            "citations": 803,
             "publication_name": "Monthly Notices of the Royal Astronomical Society",
             "issn": "00358711",
             "cover_date": "2001-09-01",
@@ -2626,7 +2626,7 @@
                     "name": "Zwitter T."
                 }
             ],
-            "citations": 513,
+            "citations": 512,
             "publication_name": "Monthly Notices of the Royal Astronomical Society",
             "issn": "00358711",
             "cover_date": "2007-01-01",
@@ -5895,7 +5895,7 @@
                     "name": "Zwitter T."
                 }
             ],
-            "citations": 229,
+            "citations": 228,
             "publication_name": "Astronomy and Astrophysics",
             "issn": "00046361",
             "cover_date": "2014-02-01",
@@ -5904,6 +5904,41 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1051/0004-6361/201322531"
+        },
+        {
+            "title": "Ultrafast laser inscription of an integrated photonic lantern",
+            "eid": "2-s2.0-79952590838",
+            "authors": [
+                {
+                    "scopus_id": "23089313900",
+                    "name": "Thomson R.R."
+                },
+                {
+                    "scopus_id": "7005858134",
+                    "name": "Birks T.A."
+                },
+                {
+                    "scopus_id": "8594772100",
+                    "name": "Leon-Saval S.G."
+                },
+                {
+                    "scopus_id": "55646074400",
+                    "name": "Kar A.K."
+                },
+                {
+                    "scopus_id": "56253801100",
+                    "name": "Bland-Hawthorn J."
+                }
+            ],
+            "citations": 228,
+            "publication_name": "Optics Express",
+            "issn": "",
+            "cover_date": "2011-03-14",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "6",
+            "page_range": "5698-5705",
+            "doi": "10.1364/OE.19.005698"
         },
         {
             "title": "Evidence for a non-zero \u039b and a low matter density from a combined analysis of the 2dF Galaxy Redshift Survey and cosmic microwave background anisotropies",
@@ -6018,7 +6053,7 @@
                     "name": "Taylor K."
                 }
             ],
-            "citations": 229,
+            "citations": 227,
             "publication_name": "Monthly Notices of the Royal Astronomical Society",
             "issn": "00358711",
             "cover_date": "2002-02-21",
@@ -6027,41 +6062,6 @@
             "issue": "2",
             "page_range": null,
             "doi": "10.1046/j.1365-8711.2002.05215.x"
-        },
-        {
-            "title": "Ultrafast laser inscription of an integrated photonic lantern",
-            "eid": "2-s2.0-79952590838",
-            "authors": [
-                {
-                    "scopus_id": "23089313900",
-                    "name": "Thomson R.R."
-                },
-                {
-                    "scopus_id": "7005858134",
-                    "name": "Birks T.A."
-                },
-                {
-                    "scopus_id": "8594772100",
-                    "name": "Leon-Saval S.G."
-                },
-                {
-                    "scopus_id": "55646074400",
-                    "name": "Kar A.K."
-                },
-                {
-                    "scopus_id": "56253801100",
-                    "name": "Bland-Hawthorn J."
-                }
-            ],
-            "citations": 228,
-            "publication_name": "Optics Express",
-            "issn": "",
-            "cover_date": "2011-03-14",
-            "venue": "Journal",
-            "volume": "19",
-            "issue": "6",
-            "page_range": "5698-5705",
-            "doi": "10.1364/OE.19.005698"
         },
         {
             "title": "Mass-metallicity relation explored with CALIFA: I. Is there a dependence on the star-formation rate?",
@@ -76585,6 +76585,6 @@
             "$": "Engineering (all)"
         }
     ],
-    "date fetched": "2024-05-01 05:29:15",
+    "date fetched": "2024-05-02 07:00:45",
     "c-score": null
 }

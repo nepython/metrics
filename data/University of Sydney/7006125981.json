@@ -34,7 +34,7 @@
                     "name": "Connell R."
                 }
             ],
-            "citations": 581,
+            "citations": 582,
             "publication_name": "Critical Studies in Education",
             "issn": "17508487",
             "cover_date": "2013-06-01",
@@ -205,7 +205,7 @@
                     "name": "Connell R.W."
                 }
             ],
-            "citations": 330,
+            "citations": 331,
             "publication_name": "American Journal of Sociology",
             "issn": "00029602",
             "cover_date": "1997-01-01",
@@ -754,7 +754,7 @@
                     "name": "Connell R."
                 }
             ],
-            "citations": 123,
+            "citations": 124,
             "publication_name": "Theory and Society",
             "issn": "03042421",
             "cover_date": "2006-04-01",
@@ -4125,6 +4125,6 @@
             "$": "Medicine (all)"
         }
     ],
-    "date fetched": "2024-05-01 05:26:06",
+    "date fetched": "2024-05-02 06:58:06",
     "c-score": null
 }

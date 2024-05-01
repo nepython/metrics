@@ -541,7 +541,7 @@
                     "name": "Kosaka K."
                 }
             ],
-            "citations": 2490,
+            "citations": 2491,
             "publication_name": "Neurology",
             "issn": "00283878",
             "cover_date": "2017-07-04",
@@ -588,7 +588,7 @@
                     "name": "Lang A.E."
                 }
             ],
-            "citations": 1933,
+            "citations": 1934,
             "publication_name": "Nature Reviews Disease Primers",
             "issn": "",
             "cover_date": "2017-03-23",
@@ -1741,7 +1741,7 @@
                     "name": "Halliday G.M."
                 }
             ],
-            "citations": 630,
+            "citations": 631,
             "publication_name": "Nature Reviews Neuroscience",
             "issn": "1471003X",
             "cover_date": "2017-02-01",
@@ -2676,6 +2676,57 @@
             "doi": "10.1007/s00401-008-0460-5"
         },
         {
+            "title": "Reduced glucocerebrosidase is associated with increased \u03b1-synuclein in sporadic Parkinson's disease",
+            "eid": "2-s2.0-84894528843",
+            "authors": [
+                {
+                    "scopus_id": "57020675600",
+                    "name": "Murphy K.E."
+                },
+                {
+                    "scopus_id": "55499113200",
+                    "name": "Gysbers A.M."
+                },
+                {
+                    "scopus_id": "25229740500",
+                    "name": "Abbott S.K."
+                },
+                {
+                    "scopus_id": "7003953081",
+                    "name": "Tayebi N."
+                },
+                {
+                    "scopus_id": "25921389900",
+                    "name": "Kim W.S."
+                },
+                {
+                    "scopus_id": "7005375809",
+                    "name": "Sidransky E."
+                },
+                {
+                    "scopus_id": "7401832859",
+                    "name": "Cooper A."
+                },
+                {
+                    "scopus_id": "7005607713",
+                    "name": "Garner B."
+                },
+                {
+                    "scopus_id": "35352763700",
+                    "name": "Halliday G.M."
+                }
+            ],
+            "citations": 369,
+            "publication_name": "Brain",
+            "issn": "00068950",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "137",
+            "issue": "3",
+            "page_range": "834-848",
+            "doi": "10.1093/brain/awt367"
+        },
+        {
             "title": "Parkinson disease-associated cognitive impairment",
             "eid": "2-s2.0-85109154052",
             "authors": [
@@ -2717,57 +2768,6 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1038/s41572-021-00280-3"
-        },
-        {
-            "title": "Reduced glucocerebrosidase is associated with increased \u03b1-synuclein in sporadic Parkinson's disease",
-            "eid": "2-s2.0-84894528843",
-            "authors": [
-                {
-                    "scopus_id": "57020675600",
-                    "name": "Murphy K.E."
-                },
-                {
-                    "scopus_id": "55499113200",
-                    "name": "Gysbers A.M."
-                },
-                {
-                    "scopus_id": "25229740500",
-                    "name": "Abbott S.K."
-                },
-                {
-                    "scopus_id": "7003953081",
-                    "name": "Tayebi N."
-                },
-                {
-                    "scopus_id": "25921389900",
-                    "name": "Kim W.S."
-                },
-                {
-                    "scopus_id": "7005375809",
-                    "name": "Sidransky E."
-                },
-                {
-                    "scopus_id": "7401832859",
-                    "name": "Cooper A."
-                },
-                {
-                    "scopus_id": "7005607713",
-                    "name": "Garner B."
-                },
-                {
-                    "scopus_id": "35352763700",
-                    "name": "Halliday G.M."
-                }
-            ],
-            "citations": 368,
-            "publication_name": "Brain",
-            "issn": "00068950",
-            "cover_date": "2014-01-01",
-            "venue": "Journal",
-            "volume": "137",
-            "issue": "3",
-            "page_range": "834-848",
-            "doi": "10.1093/brain/awt367"
         },
         {
             "title": "Clinical correlates of selective pathology in the amygdala of patients with Parkinson's disease",
@@ -4848,7 +4848,7 @@
                     "name": "Kirik D."
                 }
             ],
-            "citations": 204,
+            "citations": 205,
             "publication_name": "Brain",
             "issn": "00068950",
             "cover_date": "2014-01-01",
@@ -10901,6 +10901,89 @@
             "doi": "10.1093/brain/awh596"
         },
         {
+            "title": "A\u03b2 and tau prion-like activities decline with longevity in the Alzheimer's disease human brain",
+            "eid": "2-s2.0-85065534493",
+            "authors": [
+                {
+                    "scopus_id": "57197012633",
+                    "name": "Aoyagi A."
+                },
+                {
+                    "scopus_id": "15757092300",
+                    "name": "Condello C."
+                },
+                {
+                    "scopus_id": "23975146600",
+                    "name": "St\u00f6hr J."
+                },
+                {
+                    "scopus_id": "57208682250",
+                    "name": "Yue W."
+                },
+                {
+                    "scopus_id": "57204037508",
+                    "name": "Rivera B.M."
+                },
+                {
+                    "scopus_id": "56273141800",
+                    "name": "Lee J.C."
+                },
+                {
+                    "scopus_id": "57192373436",
+                    "name": "Woerman A.L."
+                },
+                {
+                    "scopus_id": "35352763700",
+                    "name": "Halliday G."
+                },
+                {
+                    "scopus_id": "7004095470",
+                    "name": "Van Duinen S."
+                },
+                {
+                    "scopus_id": "6602227459",
+                    "name": "Ingelsson M."
+                },
+                {
+                    "scopus_id": "7005352603",
+                    "name": "Lannfelt L."
+                },
+                {
+                    "scopus_id": "57200995035",
+                    "name": "Graff C."
+                },
+                {
+                    "scopus_id": "35373892900",
+                    "name": "Bird T.D."
+                },
+                {
+                    "scopus_id": "6603911260",
+                    "name": "Keene C.D."
+                },
+                {
+                    "scopus_id": "56425848000",
+                    "name": "Seeley W.W."
+                },
+                {
+                    "scopus_id": "7102582515",
+                    "name": "DeGrado W.F."
+                },
+                {
+                    "scopus_id": "56822190400",
+                    "name": "Prusiner S.B."
+                }
+            ],
+            "citations": 94,
+            "publication_name": "Science Translational Medicine",
+            "issn": "19466234",
+            "cover_date": "2019-01-01",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "490",
+            "page_range": null,
+            "doi": "10.1126/scitranslmed.aat8462"
+        },
+        {
             "title": "Cerebellar atrophy in Parkinson's disease and its implication for network connectivity",
             "eid": "2-s2.0-84964620274",
             "authors": [
@@ -11012,89 +11095,6 @@
             "issue": "70",
             "page_range": "99-103",
             "doi": "10.1007/978-3-211-45295-0_16"
-        },
-        {
-            "title": "A\u03b2 and tau prion-like activities decline with longevity in the Alzheimer's disease human brain",
-            "eid": "2-s2.0-85065534493",
-            "authors": [
-                {
-                    "scopus_id": "57197012633",
-                    "name": "Aoyagi A."
-                },
-                {
-                    "scopus_id": "15757092300",
-                    "name": "Condello C."
-                },
-                {
-                    "scopus_id": "23975146600",
-                    "name": "St\u00f6hr J."
-                },
-                {
-                    "scopus_id": "57208682250",
-                    "name": "Yue W."
-                },
-                {
-                    "scopus_id": "57204037508",
-                    "name": "Rivera B.M."
-                },
-                {
-                    "scopus_id": "56273141800",
-                    "name": "Lee J.C."
-                },
-                {
-                    "scopus_id": "57192373436",
-                    "name": "Woerman A.L."
-                },
-                {
-                    "scopus_id": "35352763700",
-                    "name": "Halliday G."
-                },
-                {
-                    "scopus_id": "7004095470",
-                    "name": "Van Duinen S."
-                },
-                {
-                    "scopus_id": "6602227459",
-                    "name": "Ingelsson M."
-                },
-                {
-                    "scopus_id": "7005352603",
-                    "name": "Lannfelt L."
-                },
-                {
-                    "scopus_id": "57200995035",
-                    "name": "Graff C."
-                },
-                {
-                    "scopus_id": "35373892900",
-                    "name": "Bird T.D."
-                },
-                {
-                    "scopus_id": "6603911260",
-                    "name": "Keene C.D."
-                },
-                {
-                    "scopus_id": "56425848000",
-                    "name": "Seeley W.W."
-                },
-                {
-                    "scopus_id": "7102582515",
-                    "name": "DeGrado W.F."
-                },
-                {
-                    "scopus_id": "56822190400",
-                    "name": "Prusiner S.B."
-                }
-            ],
-            "citations": 93,
-            "publication_name": "Science Translational Medicine",
-            "issn": "19466234",
-            "cover_date": "2019-01-01",
-            "venue": "Journal",
-            "volume": "11",
-            "issue": "490",
-            "page_range": null,
-            "doi": "10.1126/scitranslmed.aat8462"
         },
         {
             "title": "Changes in key hypothalamic neuropeptide populations in Huntington disease revealed by neuropathological analyses",
@@ -31557,6 +31557,53 @@
             "doi": "10.1080/21678421.2019.1588904"
         },
         {
+            "title": "Altered high density lipoprotein composition in behavioral variant frontotemporal dementia",
+            "eid": "2-s2.0-85057199969",
+            "authors": [
+                {
+                    "scopus_id": "25921389900",
+                    "name": "Kim W.S."
+                },
+                {
+                    "scopus_id": "57200968204",
+                    "name": "He Y."
+                },
+                {
+                    "scopus_id": "57220491295",
+                    "name": "Phan K."
+                },
+                {
+                    "scopus_id": "57203078301",
+                    "name": "Ahmed R.M."
+                },
+                {
+                    "scopus_id": "7006700031",
+                    "name": "Rye K.A."
+                },
+                {
+                    "scopus_id": "7004312837",
+                    "name": "Piguet O."
+                },
+                {
+                    "scopus_id": "7202899431",
+                    "name": "Hodges J.R."
+                },
+                {
+                    "scopus_id": "35352763700",
+                    "name": "Halliday G.M."
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Frontiers in Neuroscience",
+            "issn": "16624548",
+            "cover_date": "2018-11-14",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "NOV",
+            "page_range": null,
+            "doi": "10.3389/fnins.2018.00847"
+        },
+        {
             "title": "A comprehensive screening of copy number variability in dementia with Lewy bodies",
             "eid": "2-s2.0-85056701141",
             "authors": [
@@ -32182,53 +32229,6 @@
             "issue": "21",
             "page_range": "e2472-e2482",
             "doi": "10.1212/WNL.0000000000007530"
-        },
-        {
-            "title": "Altered high density lipoprotein composition in behavioral variant frontotemporal dementia",
-            "eid": "2-s2.0-85057199969",
-            "authors": [
-                {
-                    "scopus_id": "25921389900",
-                    "name": "Kim W.S."
-                },
-                {
-                    "scopus_id": "57200968204",
-                    "name": "He Y."
-                },
-                {
-                    "scopus_id": "57220491295",
-                    "name": "Phan K."
-                },
-                {
-                    "scopus_id": "57203078301",
-                    "name": "Ahmed R.M."
-                },
-                {
-                    "scopus_id": "7006700031",
-                    "name": "Rye K.A."
-                },
-                {
-                    "scopus_id": "7004312837",
-                    "name": "Piguet O."
-                },
-                {
-                    "scopus_id": "7202899431",
-                    "name": "Hodges J.R."
-                },
-                {
-                    "scopus_id": "35352763700",
-                    "name": "Halliday G.M."
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Frontiers in Neuroscience",
-            "issn": "16624548",
-            "cover_date": "2018-11-14",
-            "venue": "Journal",
-            "volume": "12",
-            "issue": "NOV",
-            "page_range": null,
-            "doi": "10.3389/fnins.2018.00847"
         },
         {
             "title": "Impact of small vessel disease on severity of motor and cognitive impairment in Parkinson's disease",
@@ -45752,6 +45752,6 @@
             "$": "Biochemistry, Genetics and Molecular Biology (all)"
         }
     ],
-    "date fetched": "2024-05-01 05:28:11",
+    "date fetched": "2024-05-02 06:59:37",
     "c-score": null
 }

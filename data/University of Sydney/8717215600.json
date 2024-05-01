@@ -1608,7 +1608,7 @@
                     "name": "Roberts N.D."
                 }
             ],
-            "citations": 1544,
+            "citations": 1545,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2020-02-06",
@@ -5028,7 +5028,7 @@
                     "name": "Behren A."
                 }
             ],
-            "citations": 218,
+            "citations": 219,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2020-03-01",
@@ -5624,7 +5624,7 @@
                     "name": "Berrios M."
                 }
             ],
-            "citations": 204,
+            "citations": 205,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2020-03-01",
@@ -7756,97 +7756,6 @@
             "doi": "10.1038/s41379-021-00779-w"
         },
         {
-            "title": "Meta-analysis of radical resection rates and margin assessment in pancreatic cancer",
-            "eid": "2-s2.0-84944097183",
-            "authors": [
-                {
-                    "scopus_id": "36949584200",
-                    "name": "Chandrasegaram M.D."
-                },
-                {
-                    "scopus_id": "55757206600",
-                    "name": "Goldstein D."
-                },
-                {
-                    "scopus_id": "7004304714",
-                    "name": "Simes J."
-                },
-                {
-                    "scopus_id": "16233175200",
-                    "name": "Gebski V."
-                },
-                {
-                    "scopus_id": "7006151706",
-                    "name": "Kench J.G."
-                },
-                {
-                    "scopus_id": "8717215600",
-                    "name": "Gill A.J."
-                },
-                {
-                    "scopus_id": "7005290968",
-                    "name": "Samra J.S."
-                },
-                {
-                    "scopus_id": "7003611258",
-                    "name": "Merrett N.D."
-                },
-                {
-                    "scopus_id": "35476174400",
-                    "name": "Richardson A.J."
-                },
-                {
-                    "scopus_id": "15834035800",
-                    "name": "Barbour A.P."
-                },
-                {
-                    "scopus_id": "7202551563",
-                    "name": "Fawcett J."
-                },
-                {
-                    "scopus_id": "14013944600",
-                    "name": "Grimison P.S."
-                },
-                {
-                    "scopus_id": "7003908136",
-                    "name": "Christophi C."
-                },
-                {
-                    "scopus_id": "6603924012",
-                    "name": "Padbury R."
-                },
-                {
-                    "scopus_id": "7005835337",
-                    "name": "Haghighi K.S."
-                },
-                {
-                    "scopus_id": "57196109716",
-                    "name": "Chen J.W."
-                },
-                {
-                    "scopus_id": "6602131170",
-                    "name": "Nikfarjam M."
-                },
-                {
-                    "scopus_id": "8049838900",
-                    "name": "O'Rourke N."
-                },
-                {
-                    "scopus_id": "35426828700",
-                    "name": "Spry N."
-                }
-            ],
-            "citations": 142,
-            "publication_name": "British Journal of Surgery",
-            "issn": "00071323",
-            "cover_date": "2015-11-01",
-            "venue": "Journal",
-            "volume": "102",
-            "issue": "12",
-            "page_range": "1459-1472",
-            "doi": "10.1002/bjs.9892"
-        },
-        {
             "title": "Disruption of chromatin folding domains by somatic genomic rearrangements in human cancer",
             "eid": "2-s2.0-85079073876",
             "authors": [
@@ -8251,7 +8160,7 @@
                     "name": "Ally A."
                 }
             ],
-            "citations": 141,
+            "citations": 142,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2020-03-01",
@@ -8260,6 +8169,97 @@
             "issue": "3",
             "page_range": "294-305",
             "doi": "10.1038/s41588-019-0564-y"
+        },
+        {
+            "title": "Meta-analysis of radical resection rates and margin assessment in pancreatic cancer",
+            "eid": "2-s2.0-84944097183",
+            "authors": [
+                {
+                    "scopus_id": "36949584200",
+                    "name": "Chandrasegaram M.D."
+                },
+                {
+                    "scopus_id": "55757206600",
+                    "name": "Goldstein D."
+                },
+                {
+                    "scopus_id": "7004304714",
+                    "name": "Simes J."
+                },
+                {
+                    "scopus_id": "16233175200",
+                    "name": "Gebski V."
+                },
+                {
+                    "scopus_id": "7006151706",
+                    "name": "Kench J.G."
+                },
+                {
+                    "scopus_id": "8717215600",
+                    "name": "Gill A.J."
+                },
+                {
+                    "scopus_id": "7005290968",
+                    "name": "Samra J.S."
+                },
+                {
+                    "scopus_id": "7003611258",
+                    "name": "Merrett N.D."
+                },
+                {
+                    "scopus_id": "35476174400",
+                    "name": "Richardson A.J."
+                },
+                {
+                    "scopus_id": "15834035800",
+                    "name": "Barbour A.P."
+                },
+                {
+                    "scopus_id": "7202551563",
+                    "name": "Fawcett J."
+                },
+                {
+                    "scopus_id": "14013944600",
+                    "name": "Grimison P.S."
+                },
+                {
+                    "scopus_id": "7003908136",
+                    "name": "Christophi C."
+                },
+                {
+                    "scopus_id": "6603924012",
+                    "name": "Padbury R."
+                },
+                {
+                    "scopus_id": "7005835337",
+                    "name": "Haghighi K.S."
+                },
+                {
+                    "scopus_id": "57196109716",
+                    "name": "Chen J.W."
+                },
+                {
+                    "scopus_id": "6602131170",
+                    "name": "Nikfarjam M."
+                },
+                {
+                    "scopus_id": "8049838900",
+                    "name": "O'Rourke N."
+                },
+                {
+                    "scopus_id": "35426828700",
+                    "name": "Spry N."
+                }
+            ],
+            "citations": 142,
+            "publication_name": "British Journal of Surgery",
+            "issn": "00071323",
+            "cover_date": "2015-11-01",
+            "venue": "Journal",
+            "volume": "102",
+            "issue": "12",
+            "page_range": "1459-1472",
+            "doi": "10.1002/bjs.9892"
         },
         {
             "title": "MicroRNA-222 and MicroRNA-146b are tissue and circulating biomarkers of recurrent papillary thyroid cancer",
@@ -14547,6 +14547,25 @@
             "doi": "10.1016/j.humpath.2013.07.016"
         },
         {
+            "title": "Understanding the genetic basis of parathyroid carcinoma",
+            "eid": "2-s2.0-84900313552",
+            "authors": [
+                {
+                    "scopus_id": "8717215600",
+                    "name": "Gill A."
+                }
+            ],
+            "citations": 71,
+            "publication_name": "Endocrine Pathology",
+            "issn": "10463976",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "1",
+            "page_range": "30-34",
+            "doi": "10.1007/s12022-013-9294-3"
+        },
+        {
             "title": "The tumor suppressor CDC73 interacts with the ring finger proteins RNF20 and RNF40 and is required for the maintenance of histone 2B monoubiquitination",
             "eid": "2-s2.0-84856107676",
             "authors": [
@@ -15414,25 +15433,6 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1038/s41467-019-13824-9"
-        },
-        {
-            "title": "Understanding the genetic basis of parathyroid carcinoma",
-            "eid": "2-s2.0-84900313552",
-            "authors": [
-                {
-                    "scopus_id": "8717215600",
-                    "name": "Gill A."
-                }
-            ],
-            "citations": 70,
-            "publication_name": "Endocrine Pathology",
-            "issn": "10463976",
-            "cover_date": "2014-01-01",
-            "venue": "Journal",
-            "volume": "25",
-            "issue": "1",
-            "page_range": "30-34",
-            "doi": "10.1007/s12022-013-9294-3"
         },
         {
             "title": "Genomic characterization of malignant progression in neoplastic pancreatic cysts",
@@ -26643,351 +26643,6 @@
             "doi": "10.1089/thy.2018.0525"
         },
         {
-            "title": "Utility of the succinate: Fumarate ratio for assessing SDH dysfunction in different tumor types",
-            "eid": "2-s2.0-85007479661",
-            "authors": [
-                {
-                    "scopus_id": "55601885600",
-                    "name": "Kim E."
-                },
-                {
-                    "scopus_id": "56533028300",
-                    "name": "Wright M.J."
-                },
-                {
-                    "scopus_id": "36009362800",
-                    "name": "Sioson L."
-                },
-                {
-                    "scopus_id": "57192695852",
-                    "name": "Novos T."
-                },
-                {
-                    "scopus_id": "8717215600",
-                    "name": "Gill A.J."
-                },
-                {
-                    "scopus_id": "7007032559",
-                    "name": "Benn D.E."
-                },
-                {
-                    "scopus_id": "7404153738",
-                    "name": "White C."
-                },
-                {
-                    "scopus_id": "6602882713",
-                    "name": "Dwight T."
-                },
-                {
-                    "scopus_id": "6602549172",
-                    "name": "Clifton-Bligh R.J."
-                }
-            ],
-            "citations": 25,
-            "publication_name": "Molecular Genetics and Metabolism Reports",
-            "issn": "",
-            "cover_date": "2017-03-01",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "",
-            "page_range": "45-49",
-            "doi": "10.1016/j.ymgmr.2016.12.006"
-        },
-        {
-            "title": "Sirtuin1 stimulates the proliferation and the expression of glycolysis genes in pancreatic neoplastic lesions",
-            "eid": "2-s2.0-84996743388",
-            "authors": [
-                {
-                    "scopus_id": "36703219100",
-                    "name": "Pinho A.V."
-                },
-                {
-                    "scopus_id": "7005254035",
-                    "name": "Mawson A."
-                },
-                {
-                    "scopus_id": "8717215600",
-                    "name": "Gill A."
-                },
-                {
-                    "scopus_id": "56576414600",
-                    "name": "Arshi M."
-                },
-                {
-                    "scopus_id": "57192084350",
-                    "name": "Warmerdam M."
-                },
-                {
-                    "scopus_id": "40261562100",
-                    "name": "Giry-Laterriere M."
-                },
-                {
-                    "scopus_id": "58189643000",
-                    "name": "Eling N."
-                },
-                {
-                    "scopus_id": "57192090526",
-                    "name": "Lie T."
-                },
-                {
-                    "scopus_id": "57192081608",
-                    "name": "Kuster E."
-                },
-                {
-                    "scopus_id": "7003648712",
-                    "name": "Camargo S."
-                },
-                {
-                    "scopus_id": "6602158065",
-                    "name": "Biankin A.V."
-                },
-                {
-                    "scopus_id": "55713817900",
-                    "name": "Wu J."
-                },
-                {
-                    "scopus_id": "58505832300",
-                    "name": "Rooman I."
-                }
-            ],
-            "citations": 25,
-            "publication_name": "Oncotarget",
-            "issn": "",
-            "cover_date": "2016-01-01",
-            "venue": "Journal",
-            "volume": "7",
-            "issue": "46",
-            "page_range": "74768-74778",
-            "doi": "10.18632/oncotarget.11013"
-        },
-        {
-            "title": "Immunoregulatory forkhead box protein p3-positive lymphocytes are associated with overall survival in patients with pancreatic neuroendocrine tumors",
-            "eid": "2-s2.0-84959528065",
-            "authors": [
-                {
-                    "scopus_id": "16244838400",
-                    "name": "De Reuver P.R."
-                },
-                {
-                    "scopus_id": "56900427000",
-                    "name": "Mehta S."
-                },
-                {
-                    "scopus_id": "55579868600",
-                    "name": "Gill P."
-                },
-                {
-                    "scopus_id": "55334243300",
-                    "name": "Andrici J."
-                },
-                {
-                    "scopus_id": "56901010700",
-                    "name": "D'Urso L."
-                },
-                {
-                    "scopus_id": "7006789792",
-                    "name": "Clarkson A."
-                },
-                {
-                    "scopus_id": "23035494400",
-                    "name": "Mittal A."
-                },
-                {
-                    "scopus_id": "7005891942",
-                    "name": "Hugh T.J."
-                },
-                {
-                    "scopus_id": "7005290968",
-                    "name": "Samra J.S."
-                },
-                {
-                    "scopus_id": "8717215600",
-                    "name": "Gill A.J."
-                }
-            ],
-            "citations": 25,
-            "publication_name": "Journal of the American College of Surgeons",
-            "issn": "10727515",
-            "cover_date": "2016-03-01",
-            "venue": "Journal",
-            "volume": "222",
-            "issue": "3",
-            "page_range": "281-287",
-            "doi": "10.1016/j.jamcollsurg.2015.12.008"
-        },
-        {
-            "title": "Von hippel-lindau syndrome",
-            "eid": "2-s2.0-84958110627",
-            "authors": [
-                {
-                    "scopus_id": "35331732300",
-                    "name": "Chou A."
-                },
-                {
-                    "scopus_id": "14014480900",
-                    "name": "Toon C."
-                },
-                {
-                    "scopus_id": "55734480900",
-                    "name": "Pickett J."
-                },
-                {
-                    "scopus_id": "8717215600",
-                    "name": "Gill A.J."
-                }
-            ],
-            "citations": 25,
-            "publication_name": "Frontiers of Hormone Research",
-            "issn": "03013073",
-            "cover_date": "2013-05-27",
-            "venue": "Book Series",
-            "volume": "41",
-            "issue": "",
-            "page_range": "30-49",
-            "doi": "10.1159/000345668"
-        },
-        {
-            "title": "Biomarker panel predicts survival after resection in pancreatic ductal adenocarcinoma: A multi-institutional cohort study",
-            "eid": "2-s2.0-85055107659",
-            "authors": [
-                {
-                    "scopus_id": "57193670166",
-                    "name": "Nahm C.B."
-                },
-                {
-                    "scopus_id": "57110095200",
-                    "name": "Turchini J."
-                },
-                {
-                    "scopus_id": "7004717554",
-                    "name": "Jamieson N."
-                },
-                {
-                    "scopus_id": "7005181115",
-                    "name": "Moon E."
-                },
-                {
-                    "scopus_id": "36009362800",
-                    "name": "Sioson L."
-                },
-                {
-                    "scopus_id": "57193411393",
-                    "name": "Itchins M."
-                },
-                {
-                    "scopus_id": "57072969100",
-                    "name": "Arena J."
-                },
-                {
-                    "scopus_id": "23979518400",
-                    "name": "Colvin E."
-                },
-                {
-                    "scopus_id": "7004197709",
-                    "name": "Howell V.M."
-                },
-                {
-                    "scopus_id": "6602294381",
-                    "name": "Pavlakis N."
-                },
-                {
-                    "scopus_id": "54790526700",
-                    "name": "Clarke S."
-                },
-                {
-                    "scopus_id": "7005290968",
-                    "name": "Samra J.S."
-                },
-                {
-                    "scopus_id": "8717215600",
-                    "name": "Gill A.J."
-                },
-                {
-                    "scopus_id": "23035494400",
-                    "name": "Mittal A."
-                }
-            ],
-            "citations": 24,
-            "publication_name": "European Journal of Surgical Oncology",
-            "issn": "07487983",
-            "cover_date": "2019-02-01",
-            "venue": "Journal",
-            "volume": "45",
-            "issue": "2",
-            "page_range": "218-224",
-            "doi": "10.1016/j.ejso.2018.10.050"
-        },
-        {
-            "title": "Lysyl oxidase-like 2 inhibition ameliorates glomerulosclerosis and albuminuria in diabetic nephropathy",
-            "eid": "2-s2.0-85049020305",
-            "authors": [
-                {
-                    "scopus_id": "49763982600",
-                    "name": "Stangenberg S."
-                },
-                {
-                    "scopus_id": "9734266500",
-                    "name": "Saad S."
-                },
-                {
-                    "scopus_id": "23480284500",
-                    "name": "Schilter H.C."
-                },
-                {
-                    "scopus_id": "56667219900",
-                    "name": "Zaky A."
-                },
-                {
-                    "scopus_id": "8717215600",
-                    "name": "Gill A."
-                },
-                {
-                    "scopus_id": "7102646018",
-                    "name": "Pollock C.A."
-                },
-                {
-                    "scopus_id": "42862692300",
-                    "name": "Wong M.G."
-                }
-            ],
-            "citations": 24,
-            "publication_name": "Scientific Reports",
-            "issn": "",
-            "cover_date": "2018-12-01",
-            "venue": "Journal",
-            "volume": "8",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1038/s41598-018-27462-6"
-        },
-        {
-            "title": "Old, New, and Emerging Immunohistochemical Markers in Pheochromocytoma and Paraganglioma",
-            "eid": "2-s2.0-85047147861",
-            "authors": [
-                {
-                    "scopus_id": "57668443000",
-                    "name": "Cheung V.K.Y."
-                },
-                {
-                    "scopus_id": "8717215600",
-                    "name": "Gill A.J."
-                },
-                {
-                    "scopus_id": "35331732300",
-                    "name": "Chou A."
-                }
-            ],
-            "citations": 24,
-            "publication_name": "Endocrine Pathology",
-            "issn": "10463976",
-            "cover_date": "2018-06-01",
-            "venue": "Journal",
-            "volume": "29",
-            "issue": "2",
-            "page_range": "169-175",
-            "doi": "10.1007/s12022-018-9534-7"
-        },
-        {
             "title": "Lost in translation: Returning germline genetic results in genome-scale cancer research",
             "eid": "2-s2.0-85019003541",
             "authors": [
@@ -27392,7 +27047,7 @@
                     "name": "Musgrove E.A."
                 }
             ],
-            "citations": 24,
+            "citations": 25,
             "publication_name": "Genome Medicine",
             "issn": "",
             "cover_date": "2017-04-28",
@@ -27401,6 +27056,351 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1186/s13073-017-0430-4"
+        },
+        {
+            "title": "Utility of the succinate: Fumarate ratio for assessing SDH dysfunction in different tumor types",
+            "eid": "2-s2.0-85007479661",
+            "authors": [
+                {
+                    "scopus_id": "55601885600",
+                    "name": "Kim E."
+                },
+                {
+                    "scopus_id": "56533028300",
+                    "name": "Wright M.J."
+                },
+                {
+                    "scopus_id": "36009362800",
+                    "name": "Sioson L."
+                },
+                {
+                    "scopus_id": "57192695852",
+                    "name": "Novos T."
+                },
+                {
+                    "scopus_id": "8717215600",
+                    "name": "Gill A.J."
+                },
+                {
+                    "scopus_id": "7007032559",
+                    "name": "Benn D.E."
+                },
+                {
+                    "scopus_id": "7404153738",
+                    "name": "White C."
+                },
+                {
+                    "scopus_id": "6602882713",
+                    "name": "Dwight T."
+                },
+                {
+                    "scopus_id": "6602549172",
+                    "name": "Clifton-Bligh R.J."
+                }
+            ],
+            "citations": 25,
+            "publication_name": "Molecular Genetics and Metabolism Reports",
+            "issn": "",
+            "cover_date": "2017-03-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "",
+            "page_range": "45-49",
+            "doi": "10.1016/j.ymgmr.2016.12.006"
+        },
+        {
+            "title": "Sirtuin1 stimulates the proliferation and the expression of glycolysis genes in pancreatic neoplastic lesions",
+            "eid": "2-s2.0-84996743388",
+            "authors": [
+                {
+                    "scopus_id": "36703219100",
+                    "name": "Pinho A.V."
+                },
+                {
+                    "scopus_id": "7005254035",
+                    "name": "Mawson A."
+                },
+                {
+                    "scopus_id": "8717215600",
+                    "name": "Gill A."
+                },
+                {
+                    "scopus_id": "56576414600",
+                    "name": "Arshi M."
+                },
+                {
+                    "scopus_id": "57192084350",
+                    "name": "Warmerdam M."
+                },
+                {
+                    "scopus_id": "40261562100",
+                    "name": "Giry-Laterriere M."
+                },
+                {
+                    "scopus_id": "58189643000",
+                    "name": "Eling N."
+                },
+                {
+                    "scopus_id": "57192090526",
+                    "name": "Lie T."
+                },
+                {
+                    "scopus_id": "57192081608",
+                    "name": "Kuster E."
+                },
+                {
+                    "scopus_id": "7003648712",
+                    "name": "Camargo S."
+                },
+                {
+                    "scopus_id": "6602158065",
+                    "name": "Biankin A.V."
+                },
+                {
+                    "scopus_id": "55713817900",
+                    "name": "Wu J."
+                },
+                {
+                    "scopus_id": "58505832300",
+                    "name": "Rooman I."
+                }
+            ],
+            "citations": 25,
+            "publication_name": "Oncotarget",
+            "issn": "",
+            "cover_date": "2016-01-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "46",
+            "page_range": "74768-74778",
+            "doi": "10.18632/oncotarget.11013"
+        },
+        {
+            "title": "Immunoregulatory forkhead box protein p3-positive lymphocytes are associated with overall survival in patients with pancreatic neuroendocrine tumors",
+            "eid": "2-s2.0-84959528065",
+            "authors": [
+                {
+                    "scopus_id": "16244838400",
+                    "name": "De Reuver P.R."
+                },
+                {
+                    "scopus_id": "56900427000",
+                    "name": "Mehta S."
+                },
+                {
+                    "scopus_id": "55579868600",
+                    "name": "Gill P."
+                },
+                {
+                    "scopus_id": "55334243300",
+                    "name": "Andrici J."
+                },
+                {
+                    "scopus_id": "56901010700",
+                    "name": "D'Urso L."
+                },
+                {
+                    "scopus_id": "7006789792",
+                    "name": "Clarkson A."
+                },
+                {
+                    "scopus_id": "23035494400",
+                    "name": "Mittal A."
+                },
+                {
+                    "scopus_id": "7005891942",
+                    "name": "Hugh T.J."
+                },
+                {
+                    "scopus_id": "7005290968",
+                    "name": "Samra J.S."
+                },
+                {
+                    "scopus_id": "8717215600",
+                    "name": "Gill A.J."
+                }
+            ],
+            "citations": 25,
+            "publication_name": "Journal of the American College of Surgeons",
+            "issn": "10727515",
+            "cover_date": "2016-03-01",
+            "venue": "Journal",
+            "volume": "222",
+            "issue": "3",
+            "page_range": "281-287",
+            "doi": "10.1016/j.jamcollsurg.2015.12.008"
+        },
+        {
+            "title": "Von hippel-lindau syndrome",
+            "eid": "2-s2.0-84958110627",
+            "authors": [
+                {
+                    "scopus_id": "35331732300",
+                    "name": "Chou A."
+                },
+                {
+                    "scopus_id": "14014480900",
+                    "name": "Toon C."
+                },
+                {
+                    "scopus_id": "55734480900",
+                    "name": "Pickett J."
+                },
+                {
+                    "scopus_id": "8717215600",
+                    "name": "Gill A.J."
+                }
+            ],
+            "citations": 25,
+            "publication_name": "Frontiers of Hormone Research",
+            "issn": "03013073",
+            "cover_date": "2013-05-27",
+            "venue": "Book Series",
+            "volume": "41",
+            "issue": "",
+            "page_range": "30-49",
+            "doi": "10.1159/000345668"
+        },
+        {
+            "title": "Biomarker panel predicts survival after resection in pancreatic ductal adenocarcinoma: A multi-institutional cohort study",
+            "eid": "2-s2.0-85055107659",
+            "authors": [
+                {
+                    "scopus_id": "57193670166",
+                    "name": "Nahm C.B."
+                },
+                {
+                    "scopus_id": "57110095200",
+                    "name": "Turchini J."
+                },
+                {
+                    "scopus_id": "7004717554",
+                    "name": "Jamieson N."
+                },
+                {
+                    "scopus_id": "7005181115",
+                    "name": "Moon E."
+                },
+                {
+                    "scopus_id": "36009362800",
+                    "name": "Sioson L."
+                },
+                {
+                    "scopus_id": "57193411393",
+                    "name": "Itchins M."
+                },
+                {
+                    "scopus_id": "57072969100",
+                    "name": "Arena J."
+                },
+                {
+                    "scopus_id": "23979518400",
+                    "name": "Colvin E."
+                },
+                {
+                    "scopus_id": "7004197709",
+                    "name": "Howell V.M."
+                },
+                {
+                    "scopus_id": "6602294381",
+                    "name": "Pavlakis N."
+                },
+                {
+                    "scopus_id": "54790526700",
+                    "name": "Clarke S."
+                },
+                {
+                    "scopus_id": "7005290968",
+                    "name": "Samra J.S."
+                },
+                {
+                    "scopus_id": "8717215600",
+                    "name": "Gill A.J."
+                },
+                {
+                    "scopus_id": "23035494400",
+                    "name": "Mittal A."
+                }
+            ],
+            "citations": 24,
+            "publication_name": "European Journal of Surgical Oncology",
+            "issn": "07487983",
+            "cover_date": "2019-02-01",
+            "venue": "Journal",
+            "volume": "45",
+            "issue": "2",
+            "page_range": "218-224",
+            "doi": "10.1016/j.ejso.2018.10.050"
+        },
+        {
+            "title": "Lysyl oxidase-like 2 inhibition ameliorates glomerulosclerosis and albuminuria in diabetic nephropathy",
+            "eid": "2-s2.0-85049020305",
+            "authors": [
+                {
+                    "scopus_id": "49763982600",
+                    "name": "Stangenberg S."
+                },
+                {
+                    "scopus_id": "9734266500",
+                    "name": "Saad S."
+                },
+                {
+                    "scopus_id": "23480284500",
+                    "name": "Schilter H.C."
+                },
+                {
+                    "scopus_id": "56667219900",
+                    "name": "Zaky A."
+                },
+                {
+                    "scopus_id": "8717215600",
+                    "name": "Gill A."
+                },
+                {
+                    "scopus_id": "7102646018",
+                    "name": "Pollock C.A."
+                },
+                {
+                    "scopus_id": "42862692300",
+                    "name": "Wong M.G."
+                }
+            ],
+            "citations": 24,
+            "publication_name": "Scientific Reports",
+            "issn": "",
+            "cover_date": "2018-12-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1038/s41598-018-27462-6"
+        },
+        {
+            "title": "Old, New, and Emerging Immunohistochemical Markers in Pheochromocytoma and Paraganglioma",
+            "eid": "2-s2.0-85047147861",
+            "authors": [
+                {
+                    "scopus_id": "57668443000",
+                    "name": "Cheung V.K.Y."
+                },
+                {
+                    "scopus_id": "8717215600",
+                    "name": "Gill A.J."
+                },
+                {
+                    "scopus_id": "35331732300",
+                    "name": "Chou A."
+                }
+            ],
+            "citations": 24,
+            "publication_name": "Endocrine Pathology",
+            "issn": "10463976",
+            "cover_date": "2018-06-01",
+            "venue": "Journal",
+            "volume": "29",
+            "issue": "2",
+            "page_range": "169-175",
+            "doi": "10.1007/s12022-018-9534-7"
         },
         {
             "title": "Intravital imaging technology guides FAK-mediated priming in pancreatic cancer precision medicine according to Merlin status",
@@ -42056,7 +42056,7 @@
                     "name": "Grossman A.B."
                 },
                 {
-                    "scopus_id": "57222220362",
+                    "scopus_id": "6602549172",
                     "name": "Clifton-Bligh R."
                 },
                 {
@@ -58448,6 +58448,6 @@
             "$": "Multidisciplinary"
         }
     ],
-    "date fetched": "2024-05-01 05:27:23",
+    "date fetched": "2024-05-02 06:59:00",
     "c-score": null
 }

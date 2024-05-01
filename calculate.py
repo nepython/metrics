@@ -84,15 +84,16 @@ if __name__ == '__main__':
     # correlation_analysis(authors_df, store_dir)
 
     # Read reseachers fetched using affiliation
-    rows = []
     for affiliation in affiliations:
         file_dir = f'{data_dir}/{affiliation["affiliation"]}'
         files = os.listdir(file_dir)
+        rows = []
         for file in files:
             author = read_data(f'{file_dir}/{file}')
             metrics(author, rows)
 
         authors_df = pd.DataFrame(rows)
+        authors_df.sort_values(by='h-leadership-index', ascending=False, inplace=True)
 
         # Store the metrics in a CSV file
         store_dir = f'{results_dir}/{affiliation["affiliation"]}'

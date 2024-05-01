@@ -131,12 +131,15 @@ def fetch_author_publications(author_id, publications=None, start_index=0):
         start_index += len(search_results)
         if start_index < int(response.json().get('search-results', {}).get('opensearch:totalResults', 0)):
             return fetch_author_publications(author_id, publications, start_index)
+    else:
+        print(response.json())
 
     return publications
 
 def fetch_author(**kwargs):
     # Search for the author in Scopus
     author_search_result = search_author(**kwargs)
+    print(f"\nSearching for {kwargs['first_name']} {kwargs['last_name']}")
 
     # Process the search result as needed
     if author_search_result is not None and 'preferred-name' in author_search_result:
@@ -235,5 +238,6 @@ if __name__ == '__main__':
     # Fetch the top authors based on affiliation
     for affiliation in affiliations:
         file_dir = f'{data_dir}/{affiliation["affiliation"]}'
-        exclude = [r.split('.json')[0] for r in os.listdir(file_dir) if '.json' in r] if os.path.exists(file_dir) else []
-        scopus_results = fetch_authors_by_affiliation(affiliation, exclude=exclude, store_dir=file_dir)
+        # NOTE: Exclusion logic needs to be rethought
+        # exclude = [r.split('.json')[0] for r in os.listdir(file_dir) if '.json' in r] if os.path.exists(file_dir) else []
+        scopus_results = fetch_authors_by_affiliation(affiliation, store_dir=file_dir)
