@@ -13,19 +13,31 @@ def metrics(author, rows=list()):
     Calculate metrics for the author and append the results to the rows list.
     '''
     try:
+        h = h_index(author['publications'])
+        h_leadership = h_leadership_index(author['scopus_id'], author['publications'])
+        pc_first_author = percent_first_author(author['scopus_id'], author['publications'])
+        pc_last_author = percent_last_author(author['scopus_id'], author['publications'])
+        pc_single_author = percent_single_author(author['publications'])
+        median_position = median_author_position(author['scopus_id'], author['publications'])
+
+        h_adjusted = (h*(pc_first_author + pc_last_author + pc_single_author)/300) / median_position
+        h_leadership_adjusted = (h_leadership*(pc_first_author + pc_last_author + pc_single_author)/300) / median_position
+
         rows.append({
             'Name': author['name'],
             'Publications': len(author['publications']),
             'Total citations': total_citations(author['publications']),
             'Median citations': median_citations(author['publications']),
-            'h-index': h_index(author['publications']),
+            'h-index': h,
             'h-frac-index': h_frac_index(author['publications']),
             'hm-index': hm_index(author['publications']),
-            'h-leadership-index': h_leadership_index(author['scopus_id'], author['publications']),
-            '% first author': percent_first_author(author['scopus_id'], author['publications']),
-            '% last author': percent_last_author(author['scopus_id'], author['publications']),
-            '% single author': percent_single_author(author['publications']),
-            'Median author position': median_author_position(author['scopus_id'], author['publications']),
+            'h-leadership-index': h_leadership,
+            'h-adjusted': h_adjusted,
+            'h-leaderhip-adjusted': h_leadership_adjusted,
+            '% first author': pc_first_author,
+            '% last author': pc_last_author,
+            '% single author': pc_single_author,
+            'Median author position': median_position,
             # 'cscore': author['c-score'],
             'i10-index': i10_index(author['publications']),
             'Average number of Authors': mean_coauthors(author['publications']),
