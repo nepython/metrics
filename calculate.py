@@ -19,9 +19,10 @@ def metrics(author, rows=list()):
         pc_last_author = percent_last_author(author['scopus_id'], author['publications'])
         pc_single_author = percent_single_author(author['publications'])
         median_position = median_author_position(author['scopus_id'], author['publications'])
+        median_num_coauthors = median_coauthors(author['publications'])
 
-        h_adjusted = (h*(pc_first_author + pc_last_author + pc_single_author)/300) / median_position
-        h_leadership_adjusted = (h_leadership*(pc_first_author + pc_last_author + pc_single_author)/300) / median_position
+        h_adjusted = (h*(pc_first_author + pc_last_author + pc_single_author)/300) / median_num_coauthors
+        h_leadership_adjusted = (h_leadership*(pc_first_author + pc_last_author + pc_single_author)/300) / median_num_coauthors
 
         rows.append({
             'Name': author['name'],
@@ -41,7 +42,7 @@ def metrics(author, rows=list()):
             # 'cscore': author['c-score'],
             'i10-index': i10_index(author['publications']),
             'Average number of Authors': mean_coauthors(author['publications']),
-            'Median number of Authors': median_coauthors(author['publications']),
+            'Median number of Authors': median_num_coauthors,
         })
     except Exception as e:
         raise e
