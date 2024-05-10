@@ -21,8 +21,8 @@ def metrics(author, rows=list()):
         median_position = median_author_position(author['scopus_id'], author['publications'])
         median_num_coauthors = median_coauthors(author['publications'])
 
-        h_adjusted = (h*(pc_first_author + pc_last_author + pc_single_author)/300) / median_num_coauthors
-        h_leadership_adjusted = (h_leadership*(pc_first_author + pc_last_author + pc_single_author)/300) / median_num_coauthors
+        h_adjusted = (h*(pc_first_author + pc_last_author + pc_single_author)/300)
+        h_leadership_adjusted = (h_leadership*(pc_first_author + pc_last_author + pc_single_author)/300)
 
         rows.append({
             'Name': author['name'],
