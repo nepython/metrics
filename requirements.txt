@@ -1,7 +1,11 @@
-matplotlib
 numpy
 openpyxl
 pandas
 pycountry
 requests
 xmltodict # Some scopus results are only available in xml format
+# plots
+scipy
+seaborn
+networkx
+matplotlib

@@ -1,0 +1,3161 @@
+{
+    "scopus_id": "7201575632",
+    "name": "Rose, Nikolas",
+    "publications": [
+        {
+            "title": "Governing economic life",
+            "eid": "2-s2.0-84934562552",
+            "authors": [
+                {
+                    "scopus_id": "7404427087",
+                    "name": "Miller P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 1952,
+            "publication_name": "Economy and Society",
+            "issn": "03085147",
+            "cover_date": "1990-02-01",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "1",
+            "page_range": "1-31",
+            "doi": "10.1080/03085149000000001"
+        },
+        {
+            "title": "The death of the social? Re-figuring the territory of government",
+            "eid": "2-s2.0-0030427438",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 1469,
+            "publication_name": "Economy and Society",
+            "issn": "03085147",
+            "cover_date": "1996-01-01",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "3",
+            "page_range": "327-356",
+            "doi": "10.1080/03085149600000018"
+        },
+        {
+            "title": "The Politics of life itself: Biomedicine, power, and subjectivity in the twenty-first century",
+            "eid": "2-s2.0-84924006144",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 1439,
+            "publication_name": "The Politics of Life Itself: Biomedicine, Power, and Subjectivity in the Twenty-First Century",
+            "issn": "",
+            "cover_date": "2009-02-09",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "1-350",
+            "doi": ""
+        },
+        {
+            "title": "The politics of life itself: Biomedicine, power, and subjectivity in the Twenty-First Century",
+            "eid": "2-s2.0-84883962740",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 1187,
+            "publication_name": "The Politics of Life Itself: Biomedicine, Power, and Subjectivity in the Twenty-First Century",
+            "issn": "",
+            "cover_date": "2009-02-09",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": ""
+        },
+        {
+            "title": "The politics of life itself",
+            "eid": "2-s2.0-0035542315",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 1160,
+            "publication_name": "Theory, Culture and Society",
+            "issn": "02632764",
+            "cover_date": "2001-01-01",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "6",
+            "page_range": "1-30",
+            "doi": "10.1177/02632760122052020"
+        },
+        {
+            "title": "Biopower Today",
+            "eid": "2-s2.0-85085038988",
+            "authors": [
+                {
+                    "scopus_id": "6602718522",
+                    "name": "Rabinow P.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 951,
+            "publication_name": "BioSocieties",
+            "issn": "17458552",
+            "cover_date": "2006-06-01",
+            "venue": "Journal",
+            "volume": "1",
+            "issue": "2",
+            "page_range": "195-217",
+            "doi": "10.1017/S1745855206040014"
+        },
+        {
+            "title": "Government and control",
+            "eid": "2-s2.0-0347014877",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 949,
+            "publication_name": "British Journal of Criminology",
+            "issn": "00070955",
+            "cover_date": "2000-01-01",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "2",
+            "page_range": "321-329",
+            "doi": "10.1093/bjc/40.2.321"
+        },
+        {
+            "title": "Governmentality",
+            "eid": "2-s2.0-33846391330",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                },
+                {
+                    "scopus_id": "35547557100",
+                    "name": "O'Malley P.",
+                    "affiliation_id": [
+                        "60017592"
+                    ]
+                },
+                {
+                    "scopus_id": "57204261404",
+                    "name": "Valverde M.",
+                    "affiliation_id": [
+                        "60016849"
+                    ]
+                }
+            ],
+            "citations": 941,
+            "publication_name": "Annual Review of Law and Social Science",
+            "issn": "15503585",
+            "cover_date": "2006-12-01",
+            "venue": "Book Series",
+            "volume": "2",
+            "issue": "",
+            "page_range": "83-104",
+            "doi": "10.1146/annurev.lawsocsci.2.081805.105900"
+        },
+        {
+            "title": "Biological Citizenship",
+            "eid": "2-s2.0-84889387547",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                },
+                {
+                    "scopus_id": "13807002700",
+                    "name": "Novas C.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 815,
+            "publication_name": "Global Assemblages: Technology, Politics, and Ethics as Anthropological Problems",
+            "issn": "",
+            "cover_date": "2008-04-15",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "439-463",
+            "doi": "10.1002/9780470696569.ch23"
+        },
+        {
+            "title": "Government, authority and expertise in advanced liberalism",
+            "eid": "2-s2.0-24944434849",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 749,
+            "publication_name": "Economy and Society",
+            "issn": "03085147",
+            "cover_date": "1993-08-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "3",
+            "page_range": "283-299",
+            "doi": "10.1080/03085149300000019"
+        },
+        {
+            "title": "Neuro: The new brain sciences and the management of the mind",
+            "eid": "2-s2.0-84872548406",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "12752320500",
+                    "name": "Abi-Rached J.M.",
+                    "affiliation_id": [
+                        "60009982"
+                    ]
+                }
+            ],
+            "citations": 665,
+            "publication_name": "Neuro: The New Brain Sciences and the Management of the Mind",
+            "issn": "",
+            "cover_date": "2013-02-21",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": ""
+        },
+        {
+            "title": "Genetic risk and the birth of the somatic individual",
+            "eid": "2-s2.0-0040443914",
+            "authors": [
+                {
+                    "scopus_id": "13807002700",
+                    "name": "Novas C.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 646,
+            "publication_name": "Economy and Society",
+            "issn": "03085147",
+            "cover_date": "2000-01-01",
+            "venue": "Journal",
+            "volume": "29",
+            "issue": "4",
+            "page_range": "485-513",
+            "doi": "10.1080/03085140050174750"
+        },
+        {
+            "title": "Governing by numbers: Figuring out democracy",
+            "eid": "2-s2.0-27944459095",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 570,
+            "publication_name": "Accounting, Organizations and Society",
+            "issn": "03613682",
+            "cover_date": "1991-01-01",
+            "venue": "Journal",
+            "volume": "16",
+            "issue": "7",
+            "page_range": "673-692",
+            "doi": "10.1016/0361-3682(91)90019-B"
+        },
+        {
+            "title": "Community, citizenship, and the third way",
+            "eid": "2-s2.0-23044517750",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60033387"
+                    ]
+                }
+            ],
+            "citations": 449,
+            "publication_name": "American Behavioral Scientist",
+            "issn": "00027642",
+            "cover_date": "2000-01-01",
+            "venue": "Journal",
+            "volume": "43",
+            "issue": "9",
+            "page_range": "1395-1411",
+            "doi": "10.1177/00027640021955955"
+        },
+        {
+            "title": "Political power beyond the State: Problematics of government",
+            "eid": "2-s2.0-75149175155",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                },
+                {
+                    "scopus_id": "7404427087",
+                    "name": "Miller P.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 342,
+            "publication_name": "British Journal of Sociology",
+            "issn": "00071315",
+            "cover_date": "2010-01-01",
+            "venue": "Journal",
+            "volume": "61",
+            "issue": "SUPPL. 1",
+            "page_range": "271-303",
+            "doi": "10.1111/j.1468-4446.2009.01247.x"
+        },
+        {
+            "title": "Biomarkers in psychiatry",
+            "eid": "2-s2.0-67650459886",
+            "authors": [
+                {
+                    "scopus_id": "16246029200",
+                    "name": "Singh I.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 272,
+            "publication_name": "Nature",
+            "issn": "00280836",
+            "cover_date": "2009-07-09",
+            "venue": "Journal",
+            "volume": "460",
+            "issue": "7252",
+            "page_range": "202-207",
+            "doi": "10.1038/460202a"
+        },
+        {
+            "title": "Mobilizing the Consumer: Assembling the Subject of Consumption",
+            "eid": "2-s2.0-0031478813",
+            "authors": [
+                {
+                    "scopus_id": "7404427087",
+                    "name": "Miller P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 272,
+            "publication_name": "Theory, Culture &amp; Society",
+            "issn": "02632764",
+            "cover_date": "1997-01-01",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "1",
+            "page_range": "1-36",
+            "doi": "10.1177/026327697014001001"
+        },
+        {
+            "title": "Neurochemical selves",
+            "eid": "2-s2.0-0345393183",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 263,
+            "publication_name": "Society",
+            "issn": "01472011",
+            "cover_date": "2003-01-01",
+            "venue": "Journal",
+            "volume": "41",
+            "issue": "1",
+            "page_range": "46-59",
+            "doi": "10.1007/BF02688204"
+        },
+        {
+            "title": "The Human Sciences in a Biological Age",
+            "eid": "2-s2.0-84873257986",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 253,
+            "publication_name": "Theory, Culture &amp; Society",
+            "issn": "02632764",
+            "cover_date": "2013-01-01",
+            "venue": "Journal",
+            "volume": "30",
+            "issue": "1",
+            "page_range": "3-34",
+            "doi": "10.1177/0263276412456569"
+        },
+        {
+            "title": "Governing cities: Notes on the spatialisation of virtue",
+            "eid": "2-s2.0-0033387352",
+            "authors": [
+                {
+                    "scopus_id": "7102366844",
+                    "name": "Osborne T.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 249,
+            "publication_name": "Environment and Planning D: Society and Space",
+            "issn": "02637758",
+            "cover_date": "1999-01-01",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "6",
+            "page_range": "737-760",
+            "doi": "10.1068/d170737"
+        },
+        {
+            "title": "Governed by law?",
+            "eid": "2-s2.0-0032219117",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                },
+                {
+                    "scopus_id": "57204261404",
+                    "name": "Valverde M.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 238,
+            "publication_name": "Social and Legal Studies",
+            "issn": "09646639",
+            "cover_date": "1998-01-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "4",
+            "page_range": "541-551",
+            "doi": "10.1177/096466399800700405"
+        },
+        {
+            "title": "Governing risky individuals: The role of psychiatry in new regimes of control",
+            "eid": "2-s2.0-0032416706",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 227,
+            "publication_name": "Psychiatry, Psychology and Law",
+            "issn": "13218719",
+            "cover_date": "1998-01-01",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "2",
+            "page_range": "177-195",
+            "doi": "10.1080/13218719809524933"
+        },
+        {
+            "title": "Do the social sciences create phenomena?: The example of public opinion research",
+            "eid": "2-s2.0-0000323779",
+            "authors": [
+                {
+                    "scopus_id": "7102366844",
+                    "name": "Osborne T.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 224,
+            "publication_name": "British Journal of Sociology",
+            "issn": "00071315",
+            "cover_date": "1999-01-01",
+            "venue": "Journal",
+            "volume": "50",
+            "issue": "3",
+            "page_range": "367-396",
+            "doi": "10.1111/j.1468-4446.1999.00367.x"
+        },
+        {
+            "title": "Governing insecurity: Contingency planning, protection, resilience",
+            "eid": "2-s2.0-70349742422",
+            "authors": [
+                {
+                    "scopus_id": "15044861400",
+                    "name": "Lentzos F.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 217,
+            "publication_name": "Economy and Society",
+            "issn": "03085147",
+            "cover_date": "2009-05-01",
+            "venue": "Journal",
+            "volume": "38",
+            "issue": "2",
+            "page_range": "230-254",
+            "doi": "10.1080/03085140902786611"
+        },
+        {
+            "title": "Beyond medicalisation",
+            "eid": "2-s2.0-33847180213",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 198,
+            "publication_name": "Lancet",
+            "issn": "01406736",
+            "cover_date": "2007-02-24",
+            "venue": "Journal",
+            "volume": "369",
+            "issue": "9562",
+            "page_range": "700-702",
+            "doi": "10.1016/S0140-6736(07)60319-5"
+        },
+        {
+            "title": "Calculable minds and manageable individuals",
+            "eid": "2-s2.0-0024166762",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60020623"
+                    ]
+                }
+            ],
+            "citations": 174,
+            "publication_name": "History of the Human Sciences",
+            "issn": "09526951",
+            "cover_date": "1988-01-01",
+            "venue": "Journal",
+            "volume": "1",
+            "issue": "2",
+            "page_range": "179-200",
+            "doi": "10.1177/095269518800100202"
+        },
+        {
+            "title": "Molecular Biopolitics, Somatic Ethics and the Spirit of Biocapital",
+            "eid": "2-s2.0-46949106800",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 153,
+            "publication_name": "Social Theory and Health",
+            "issn": "14778211",
+            "cover_date": "2007-02-01",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "1",
+            "page_range": "3-29",
+            "doi": "10.1057/palgrave.sth.8700084"
+        },
+        {
+            "title": "Psychiatry as a political science: Advanced liberalism and the administration of risk",
+            "eid": "2-s2.0-0002203199",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 149,
+            "publication_name": "History of the Human Sciences",
+            "issn": "09526951",
+            "cover_date": "1996-01-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "2",
+            "page_range": "1-23",
+            "doi": "10.1177/095269519600900201"
+        },
+        {
+            "title": "Production, identity, and democracy",
+            "eid": "2-s2.0-21844510426",
+            "authors": [
+                {
+                    "scopus_id": "7404427087",
+                    "name": "Miller P.",
+                    "affiliation_id": [
+                        "60003059",
+                        "60010964"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059",
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 146,
+            "publication_name": "Theory and Society",
+            "issn": "03042421",
+            "cover_date": "1995-06-01",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "3",
+            "page_range": "427-467",
+            "doi": "10.1007/BF00993353"
+        },
+        {
+            "title": "The tavistock programme: The government of subjectivity and social life",
+            "eid": "2-s2.0-84970713124",
+            "authors": [
+                {
+                    "scopus_id": "7404427087",
+                    "name": "Miller P.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60020623"
+                    ]
+                }
+            ],
+            "citations": 143,
+            "publication_name": "Sociology",
+            "issn": "00380385",
+            "cover_date": "1988-01-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "2",
+            "page_range": "171-192",
+            "doi": "10.1177/0038038588022002002"
+        },
+        {
+            "title": "The biology of culpability: Pathological identity and crime control in a biological culture",
+            "eid": "2-s2.0-0003037703",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 129,
+            "publication_name": "Theoretical Criminology",
+            "issn": "13624806",
+            "cover_date": "2000-01-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "1",
+            "page_range": "5-34",
+            "doi": "10.1177/1362480600004001001"
+        },
+        {
+            "title": "Urban social exclusion and mental health of China's rural-urban migrants \u2013 A review and call for research",
+            "eid": "2-s2.0-85028926588",
+            "authors": [
+                {
+                    "scopus_id": "57206966525",
+                    "name": "Li J.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 127,
+            "publication_name": "Health and Place",
+            "issn": "13538292",
+            "cover_date": "2017-11-01",
+            "venue": "Journal",
+            "volume": "48",
+            "issue": "",
+            "page_range": "20-30",
+            "doi": "10.1016/j.healthplace.2017.08.009"
+        },
+        {
+            "title": "'Screen and intervene': Governing risky brains",
+            "eid": "2-s2.0-77649317023",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 111,
+            "publication_name": "History of the Human Sciences",
+            "issn": "09526951",
+            "cover_date": "2010-02-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "1",
+            "page_range": "79-105",
+            "doi": "10.1177/0952695109352415"
+        },
+        {
+            "title": "The birth of the neuromolecular gaze",
+            "eid": "2-s2.0-77749315837",
+            "authors": [
+                {
+                    "scopus_id": "12752320500",
+                    "name": "Abi-Rached J.M.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 108,
+            "publication_name": "History of the Human Sciences",
+            "issn": "09526951",
+            "cover_date": "2010-02-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "1",
+            "page_range": "11-36",
+            "doi": "10.1177/0952695109352407"
+        },
+        {
+            "title": "On therapeutic authority: Psychoanalytical expertise under advanced liberalism",
+            "eid": "2-s2.0-84965922014",
+            "authors": [
+                {
+                    "scopus_id": "7404427087",
+                    "name": "Miller P.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 99,
+            "publication_name": "History of the Human Sciences",
+            "issn": "09526951",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "3",
+            "page_range": "29-64",
+            "doi": "10.1177/095269519400700302"
+        },
+        {
+            "title": "Governing economic life",
+            "eid": "2-s2.0-84917311633",
+            "authors": [
+                {
+                    "scopus_id": "7404427087",
+                    "name": "Miller P.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 94,
+            "publication_name": "Foucault's New Domains",
+            "issn": "",
+            "cover_date": "2013-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "75-105",
+            "doi": "10.4324/9780203419892"
+        },
+        {
+            "title": "Spatial phenomenotechnics: Making space with Charles Booth and Patrick Geddes",
+            "eid": "2-s2.0-1842788819",
+            "authors": [
+                {
+                    "scopus_id": "7102366844",
+                    "name": "Osborne T.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 90,
+            "publication_name": "Environment and Planning D: Society and Space",
+            "issn": "02637758",
+            "cover_date": "2004-04-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "2",
+            "page_range": "209-228",
+            "doi": "10.1068/d325t"
+        },
+        {
+            "title": "The neurochemical self and its anomalies",
+            "eid": "2-s2.0-84966774739",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 83,
+            "publication_name": "Risk and Morality",
+            "issn": "",
+            "cover_date": "2003-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "407-437",
+            "doi": ""
+        },
+        {
+            "title": "Engineering the Human Soul: Analyzing Psychological Expertise",
+            "eid": "2-s2.0-84974399918",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 81,
+            "publication_name": "Science in Context",
+            "issn": "02698897",
+            "cover_date": "1992-01-01",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "2",
+            "page_range": "351-369",
+            "doi": "10.1017/S0269889700001228"
+        },
+        {
+            "title": "The governmentalization of living: calculating global health",
+            "eid": "2-s2.0-84924538556",
+            "authors": [
+                {
+                    "scopus_id": "22982085900",
+                    "name": "Wahlberg A.",
+                    "affiliation_id": [
+                        "60030840"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 74,
+            "publication_name": "Economy and Society",
+            "issn": "03085147",
+            "cover_date": "2015-02-02",
+            "venue": "Journal",
+            "volume": "44",
+            "issue": "1",
+            "page_range": "60-90",
+            "doi": "10.1080/03085147.2014.983830"
+        },
+        {
+            "title": "Risk Assessment in Mental Health Care: Values and Costs",
+            "eid": "2-s2.0-84874287679",
+            "authors": [
+                {
+                    "scopus_id": "7006051158",
+                    "name": "Szmukler G.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 69,
+            "publication_name": "Behavioral Sciences and the Law",
+            "issn": "07353936",
+            "cover_date": "2013-01-01",
+            "venue": "Journal",
+            "volume": "31",
+            "issue": "1",
+            "page_range": "125-140",
+            "doi": "10.1002/bsl.2046"
+        },
+        {
+            "title": "Open engagement: Exploring public participation in the biosciences",
+            "eid": "2-s2.0-78649917590",
+            "authors": [
+                {
+                    "scopus_id": "55312139900",
+                    "name": "Marris C.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 69,
+            "publication_name": "PLoS Biology",
+            "issn": "15449173",
+            "cover_date": "2010-11-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "11",
+            "page_range": null,
+            "doi": "10.1371/journal.pbio.1000549"
+        },
+        {
+            "title": "Normality and pathology in a biomedical age",
+            "eid": "2-s2.0-77951718016",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 68,
+            "publication_name": "Sociological Review",
+            "issn": "00380261",
+            "cover_date": "2009-01-01",
+            "venue": "Journal",
+            "volume": "57",
+            "issue": "SUPPL. 2",
+            "page_range": "66-83",
+            "doi": "10.1111/j.1467-954x.2010.01886.x"
+        },
+        {
+            "title": "Governing cities, governing citizens",
+            "eid": "2-s2.0-85071023123",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 65,
+            "publication_name": "Democracy, Citizenship and the Global City",
+            "issn": "",
+            "cover_date": "2013-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "96-109",
+            "doi": "10.4324/9780203354384-13"
+        },
+        {
+            "title": "Revitalizing sociology: Urban life and mental illness between history and the present",
+            "eid": "2-s2.0-84959253786",
+            "authors": [
+                {
+                    "scopus_id": "56095034800",
+                    "name": "Fitzgerald D.",
+                    "affiliation_id": [
+                        "60023998"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "16246029200",
+                    "name": "Singh I.",
+                    "affiliation_id": [
+                        "60116941"
+                    ]
+                }
+            ],
+            "citations": 57,
+            "publication_name": "British Journal of Sociology",
+            "issn": "00071315",
+            "cover_date": "2016-03-01",
+            "venue": "Journal",
+            "volume": "67",
+            "issue": "1",
+            "page_range": "138-160",
+            "doi": "10.1111/1468-4446.12188"
+        },
+        {
+            "title": "Still \u2018like birds on the wire\u2019? Freedom after neoliberalism",
+            "eid": "2-s2.0-85033694548",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 55,
+            "publication_name": "Economy and Society",
+            "issn": "03085147",
+            "cover_date": "2017-10-02",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "3-4",
+            "page_range": "303-323",
+            "doi": "10.1080/03085147.2017.1377947"
+        },
+        {
+            "title": "The human brain project: Social and ethical challenges",
+            "eid": "2-s2.0-84902439358",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 52,
+            "publication_name": "Neuron",
+            "issn": "08966273",
+            "cover_date": "2014-06-18",
+            "venue": "Journal",
+            "volume": "82",
+            "issue": "6",
+            "page_range": "1212-1215",
+            "doi": "10.1016/j.neuron.2014.06.001"
+        },
+        {
+            "title": "Liberalism, Neo-Liberalism and Governmentality: Introduction",
+            "eid": "2-s2.0-0039545279",
+            "authors": [
+                {
+                    "scopus_id": "7201815890",
+                    "name": "Barry A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7102366844",
+                    "name": "Osborne T.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 52,
+            "publication_name": "Economy and Society",
+            "issn": "03085147",
+            "cover_date": "1993-08-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "3",
+            "page_range": "265-266",
+            "doi": "10.1080/03085149300000017"
+        },
+        {
+            "title": "Editors' introduction reinscribing british sociology: Some critical reflections",
+            "eid": "2-s2.0-57049175128",
+            "authors": [
+                {
+                    "scopus_id": "7102366844",
+                    "name": "Osborne T.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7202386828",
+                    "name": "Savage M.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 46,
+            "publication_name": "Sociological Review",
+            "issn": "00380261",
+            "cover_date": "2008-11-01",
+            "venue": "Journal",
+            "volume": "56",
+            "issue": "4",
+            "page_range": "519-534",
+            "doi": "10.1111/j.1467-954X.2008.00803.x"
+        },
+        {
+            "title": "In the name of society, or three theses on the history of social thought",
+            "eid": "2-s2.0-0041077329",
+            "authors": [
+                {
+                    "scopus_id": "7102366844",
+                    "name": "Osborne T.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 43,
+            "publication_name": "History of the Human Sciences",
+            "issn": "09526951",
+            "cover_date": "1997-01-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "3",
+            "page_range": "87-104",
+            "doi": "10.1177/095269519701000307"
+        },
+        {
+            "title": "Living well in the Neuropolis",
+            "eid": "2-s2.0-85014233749",
+            "authors": [
+                {
+                    "scopus_id": "56095034800",
+                    "name": "Fitzgerald D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "16246029200",
+                    "name": "Singh I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 39,
+            "publication_name": "Sociological Review",
+            "issn": "00380261",
+            "cover_date": "2016-01-01",
+            "venue": "Journal",
+            "volume": "64",
+            "issue": "1",
+            "page_range": "221-237",
+            "doi": "10.1111/2059-7932.12022"
+        },
+        {
+            "title": "The social underpinnings of mental distress in the time of COVID-19-time for urgent action",
+            "eid": "2-s2.0-85088864571",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7004588418",
+                    "name": "Manning N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "56823917300",
+                    "name": "Bentall R.",
+                    "affiliation_id": [
+                        "60001881"
+                    ]
+                },
+                {
+                    "scopus_id": "7006102085",
+                    "name": "Bhui K.",
+                    "affiliation_id": [
+                        "60026851"
+                    ]
+                },
+                {
+                    "scopus_id": "55369842400",
+                    "name": "Burgess R.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "7202362728",
+                    "name": "Carr S.",
+                    "affiliation_id": [
+                        "60019702"
+                    ]
+                },
+                {
+                    "scopus_id": "17433684500",
+                    "name": "Cornish F.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                },
+                {
+                    "scopus_id": "16300803400",
+                    "name": "Devakumar D.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "14035653400",
+                    "name": "Dowd J.B.",
+                    "affiliation_id": [
+                        "60026851"
+                    ]
+                },
+                {
+                    "scopus_id": "8940089900",
+                    "name": "Ecks S.",
+                    "affiliation_id": [
+                        "60027272"
+                    ]
+                },
+                {
+                    "scopus_id": "58985496600",
+                    "name": "Faulkner A.",
+                    "affiliation_id": [
+                        "124898983"
+                    ]
+                },
+                {
+                    "scopus_id": "56389423600",
+                    "name": "Keene A.R.",
+                    "affiliation_id": [
+                        "117078490"
+                    ]
+                },
+                {
+                    "scopus_id": "57218240440",
+                    "name": "Kirkbride J.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "7202388606",
+                    "name": "Knapp M.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                },
+                {
+                    "scopus_id": "7006883744",
+                    "name": "Lovell A.M.",
+                    "affiliation_id": [
+                        "60025070"
+                    ]
+                },
+                {
+                    "scopus_id": "7406036407",
+                    "name": "Martin P.",
+                    "affiliation_id": [
+                        "60001881"
+                    ]
+                },
+                {
+                    "scopus_id": "57207838002",
+                    "name": "Moncrieff J.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "6603906892",
+                    "name": "Parr H.",
+                    "affiliation_id": [
+                        "60001490"
+                    ]
+                },
+                {
+                    "scopus_id": "35231109700",
+                    "name": "Pickersgill M.",
+                    "affiliation_id": [
+                        "60110825"
+                    ]
+                },
+                {
+                    "scopus_id": "53463994500",
+                    "name": "Richardson G.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7003941579",
+                    "name": "Sheard S.",
+                    "affiliation_id": [
+                        "60020661"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Wellcome Open Research",
+            "issn": "",
+            "cover_date": "2020-01-01",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "",
+            "page_range": "1-6",
+            "doi": "10.12688/WELLCOMEOPENRES.16123.1"
+        },
+        {
+            "title": "In search of certainty: risk management in a biological age",
+            "eid": "2-s2.0-84992933818",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Journal of Public Mental Health",
+            "issn": "17465729",
+            "cover_date": "2005-09-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "3",
+            "page_range": "14-22",
+            "doi": "10.1108/17465729200500020"
+        },
+        {
+            "title": "From global bioethics to ethical governance of biomedical research collaborations",
+            "eid": "2-s2.0-84890132189",
+            "authors": [
+                {
+                    "scopus_id": "22982085900",
+                    "name": "Wahlberg A.",
+                    "affiliation_id": [
+                        "60030840"
+                    ]
+                },
+                {
+                    "scopus_id": "6602657909",
+                    "name": "Rehmann-Sutter C.",
+                    "affiliation_id": [
+                        "60012408"
+                    ]
+                },
+                {
+                    "scopus_id": "23104155400",
+                    "name": "Sleeboom-Faulkner M.",
+                    "affiliation_id": [
+                        "60017317"
+                    ]
+                },
+                {
+                    "scopus_id": "55654507200",
+                    "name": "Lu G.",
+                    "affiliation_id": [
+                        "108199585"
+                    ]
+                },
+                {
+                    "scopus_id": "6602505691",
+                    "name": "D\u00f6ring O.",
+                    "affiliation_id": [
+                        "60026245"
+                    ]
+                },
+                {
+                    "scopus_id": "8369491800",
+                    "name": "Cong Y.",
+                    "affiliation_id": [
+                        "60004573"
+                    ]
+                },
+                {
+                    "scopus_id": "55654817600",
+                    "name": "Laska-Formejster A.",
+                    "affiliation_id": [
+                        "60008931"
+                    ]
+                },
+                {
+                    "scopus_id": "55654770800",
+                    "name": "He J.",
+                    "affiliation_id": [
+                        "108199585"
+                    ]
+                },
+                {
+                    "scopus_id": "35219528100",
+                    "name": "Chen H.",
+                    "affiliation_id": [
+                        "60017161"
+                    ]
+                },
+                {
+                    "scopus_id": "8925936700",
+                    "name": "Gottweis H.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Social Science and Medicine",
+            "issn": "02779536",
+            "cover_date": "2013-12-01",
+            "venue": "Journal",
+            "volume": "98",
+            "issue": "",
+            "page_range": "293-300",
+            "doi": "10.1016/j.socscimed.2013.03.041"
+        },
+        {
+            "title": "Life, reason and history: Reading Georges Canguilhem today",
+            "eid": "2-s2.0-0348201594",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Economy and Society",
+            "issn": "03085147",
+            "cover_date": "1998-05-01",
+            "venue": "Journal",
+            "volume": "27",
+            "issue": "2-3",
+            "page_range": "154-170",
+            "doi": "10.1080/03085149800000009"
+        },
+        {
+            "title": "Towards Neuroecosociality: Mental Health in Adversity",
+            "eid": "2-s2.0-85100331248",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "57193810843",
+                    "name": "Birk R.",
+                    "affiliation_id": [
+                        "60022134"
+                    ]
+                },
+                {
+                    "scopus_id": "7004588418",
+                    "name": "Manning N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 33,
+            "publication_name": "Theory, Culture and Society",
+            "issn": "02632764",
+            "cover_date": "2022-05-01",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "3",
+            "page_range": "121-144",
+            "doi": "10.1177/0263276420981614"
+        },
+        {
+            "title": "Living dangerously: risk-thinking and risk management in mental health care.",
+            "eid": "2-s2.0-0032038998",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 33,
+            "publication_name": "Mental health care",
+            "issn": "13681230",
+            "cover_date": "1998-01-01",
+            "venue": "Journal",
+            "volume": "1",
+            "issue": "8",
+            "page_range": "263-266",
+            "doi": ""
+        },
+        {
+            "title": "The integrated ethics and society programme of the Human Brain Project: reflecting on an ongoing experience",
+            "eid": "2-s2.0-85029855010",
+            "authors": [
+                {
+                    "scopus_id": "36711293400",
+                    "name": "Aicardi C.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "57201443345",
+                    "name": "Reinsborough M.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 31,
+            "publication_name": "Journal of Responsible Innovation",
+            "issn": "23299460",
+            "cover_date": "2018-02-12",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "1",
+            "page_range": "13-37",
+            "doi": "10.1080/23299460.2017.1331101"
+        },
+        {
+            "title": "Neuroscience and the future for mental health?",
+            "eid": "2-s2.0-84938675292",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 28,
+            "publication_name": "Epidemiology and Psychiatric Sciences",
+            "issn": "20457960",
+            "cover_date": "2016-04-01",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "2",
+            "page_range": "95-100",
+            "doi": "10.1017/S2045796015000621"
+        },
+        {
+            "title": "The value of life: Somatic ethics &amp; the spirit of biocapital",
+            "eid": "2-s2.0-40549131882",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 28,
+            "publication_name": "Daedalus",
+            "issn": "00115266",
+            "cover_date": "2008-12-01",
+            "venue": "Journal",
+            "volume": "137",
+            "issue": "1",
+            "page_range": "36-48",
+            "doi": "10.1162/daed.2008.137.1.36"
+        },
+        {
+            "title": "Reading the Human Brain: How the Mind Became Legible",
+            "eid": "2-s2.0-84966930025",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "Body and Society",
+            "issn": "1357034X",
+            "cover_date": "2016-01-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "2",
+            "page_range": "140-177",
+            "doi": "10.1177/1357034X15623363"
+        },
+        {
+            "title": "Populating sociology: Carr-saunders and the problem of population",
+            "eid": "2-s2.0-57049100966",
+            "authors": [
+                {
+                    "scopus_id": "7102366844",
+                    "name": "Osborne T.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 25,
+            "publication_name": "Sociological Review",
+            "issn": "00380261",
+            "cover_date": "2008-11-01",
+            "venue": "Journal",
+            "volume": "56",
+            "issue": "4",
+            "page_range": "552-578",
+            "doi": "10.1111/j.1467-954X.2008.00805.x"
+        },
+        {
+            "title": "Psychology as social science",
+            "eid": "2-s2.0-56149122256",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 18,
+            "publication_name": "Psicologia e Sociedade",
+            "issn": "01027182",
+            "cover_date": "2008-01-01",
+            "venue": "Journal",
+            "volume": "20",
+            "issue": "2",
+            "page_range": "155-164",
+            "doi": "10.1590/s0102-71822008000200002"
+        },
+        {
+            "title": "Genomic susceptibility as an emergent form of life?: Genetic testing, identity, and the remit of medicine",
+            "eid": "2-s2.0-77955085347",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059",
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 17,
+            "publication_name": "Biomedicine as Culture: Instrumental Practices, Technoscientific Knowledge, and New Modes of Life",
+            "issn": "",
+            "cover_date": "2007-06-14",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "141-150",
+            "doi": "10.4324/9780203941584"
+        },
+        {
+            "title": "Psychology as a 'social' science",
+            "eid": "2-s2.0-84942568020",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60020623"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Deconstructing Social Psychology",
+            "issn": "",
+            "cover_date": "2015-06-19",
+            "venue": "Book",
+            "volume": "21",
+            "issue": "",
+            "page_range": "103-116",
+            "doi": ""
+        },
+        {
+            "title": "Of madness itself: Histoire de la folie and the object of psychiatric history",
+            "eid": "2-s2.0-84970664215",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60020623"
+                    ]
+                }
+            ],
+            "citations": 14,
+            "publication_name": "History of the Human Sciences",
+            "issn": "09526951",
+            "cover_date": "1990-01-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "3",
+            "page_range": "373-380",
+            "doi": "10.1177/095269519000300305"
+        },
+        {
+            "title": "Democracy in the contemporary life sciences",
+            "eid": "2-s2.0-84871058469",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "BioSocieties",
+            "issn": "17458552",
+            "cover_date": "2012-12-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "4",
+            "page_range": "459-472",
+            "doi": "10.1057/biosoc.2012.26"
+        },
+        {
+            "title": "Is 'another' psychiatry possible?",
+            "eid": "2-s2.0-85147034194",
+            "authors": [
+                {
+                    "scopus_id": "7401709690",
+                    "name": "Rose D.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60022148"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "Psychological Medicine",
+            "issn": "00332917",
+            "cover_date": "2023-01-11",
+            "venue": "Journal",
+            "volume": "53",
+            "issue": "1",
+            "page_range": "46-54",
+            "doi": "10.1017/S003329172200383X"
+        },
+        {
+            "title": "Clinical translation of computational brain models: understanding the salience of trust in clinician\u2013researcher relationships",
+            "eid": "2-s2.0-85102206569",
+            "authors": [
+                {
+                    "scopus_id": "57221719964",
+                    "name": "Datta Burton S.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "56199294500",
+                    "name": "Mahfoud T.",
+                    "affiliation_id": [
+                        "60001359"
+                    ]
+                },
+                {
+                    "scopus_id": "36711293400",
+                    "name": "Aicardi C.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "Interdisciplinary Science Reviews",
+            "issn": "03080188",
+            "cover_date": "2021-01-01",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "1-2",
+            "page_range": "138-157",
+            "doi": "10.1080/03080188.2020.1840223"
+        },
+        {
+            "title": "Mental health, migration and the megacity",
+            "eid": "2-s2.0-85074253550",
+            "authors": [
+                {
+                    "scopus_id": "56095034800",
+                    "name": "Fitzgerald D.",
+                    "affiliation_id": [
+                        "60023998"
+                    ]
+                },
+                {
+                    "scopus_id": "7004588418",
+                    "name": "Manning N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35236806200",
+                    "name": "Fu H.",
+                    "affiliation_id": [
+                        "60009860"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "International Health",
+            "issn": "18763413",
+            "cover_date": "2019-11-01",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "",
+            "page_range": "S1-S6",
+            "doi": "10.1093/inthealth/ihz087"
+        },
+        {
+            "title": "How Does Precarious Employment Affect Mental Health? A Scoping Review and Thematic Synthesis of Qualitative Evidence from Western Economies",
+            "eid": "2-s2.0-85144388202",
+            "authors": [
+                {
+                    "scopus_id": "36994499400",
+                    "name": "Irvine A.",
+                    "affiliation_id": [
+                        "60099295"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60022148"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "Work, Employment and Society",
+            "issn": "09500170",
+            "cover_date": "2024-04-01",
+            "venue": "Journal",
+            "volume": "38",
+            "issue": "2",
+            "page_range": "418-441",
+            "doi": "10.1177/09500170221128698"
+        },
+        {
+            "title": "Of madness itself: Histoire de fa folie and the object of psychiatric history",
+            "eid": "2-s2.0-85068047080",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Rewriting the History of Madness Studies in Foucault's Histoire de fa Folie",
+            "issn": "",
+            "cover_date": "2012-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "142-149",
+            "doi": "10.4324/9780203208274"
+        },
+        {
+            "title": "Governing the will in a neurochemical age",
+            "eid": "2-s2.0-85003338273",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "On Willing Selves: Neoliberal Politics and the Challenge of Neuroscience",
+            "issn": "",
+            "cover_date": "2007-08-30",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "81-99",
+            "doi": "10.1057/9780230592087"
+        },
+        {
+            "title": "Introduction",
+            "eid": "2-s2.0-84972845161",
+            "authors": [
+                {
+                    "scopus_id": "7201815890",
+                    "name": "Barry A.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                },
+                {
+                    "scopus_id": "7007065676",
+                    "name": "Bell V.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Economy and Society",
+            "issn": "03085147",
+            "cover_date": "1995-11-01",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "4",
+            "page_range": "485-488",
+            "doi": "10.1080/03085149500000020"
+        },
+        {
+            "title": "Biological citizenship and its forms",
+            "eid": "2-s2.0-84911095493",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Governance of Life in Chinese Moral Experience: The Quest for an Adequate Life",
+            "issn": "",
+            "cover_date": "2010-12-20",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "237-265",
+            "doi": ""
+        },
+        {
+            "title": "Against Posthumanism: Notes towards an Ethopolitics of Personhood",
+            "eid": "2-s2.0-85162865118",
+            "authors": [
+                {
+                    "scopus_id": "7102366844",
+                    "name": "Osborne T.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60022148"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Theory, Culture and Society",
+            "issn": "02632764",
+            "cover_date": "2024-01-01",
+            "venue": "Journal",
+            "volume": "41",
+            "issue": "1",
+            "page_range": "3-21",
+            "doi": "10.1177/02632764231178472"
+        },
+        {
+            "title": "GENETIC RISK AND THE BIRTH OF THE SOMATIC INDIVIDUAL",
+            "eid": "2-s2.0-84896187284",
+            "authors": [
+                {
+                    "scopus_id": "13807002700",
+                    "name": "Novas C.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "The Body: a Reader",
+            "issn": "",
+            "cover_date": "2020-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "237-241",
+            "doi": "10.4324/9781003060338-38"
+        },
+        {
+            "title": "Social and ethical aspects of pharmacogenomics in psychiatry",
+            "eid": "2-s2.0-33846840696",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Psychiatry",
+            "issn": "14761793",
+            "cover_date": "2007-02-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "2",
+            "page_range": "80-82",
+            "doi": "10.1016/j.mppsy.2006.11.005"
+        },
+        {
+            "title": "Niche Sociality: Approaching Adversity in Everyday Life",
+            "eid": "2-s2.0-85133622452",
+            "authors": [
+                {
+                    "scopus_id": "7004588418",
+                    "name": "Manning N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "57193810843",
+                    "name": "Birk R.",
+                    "affiliation_id": [
+                        "60022134"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520",
+                        "60022134",
+                        "60008950",
+                        "60022148"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Sociology",
+            "issn": "00380385",
+            "cover_date": "2023-02-01",
+            "venue": "Journal",
+            "volume": "57",
+            "issue": "1",
+            "page_range": "72-95",
+            "doi": "10.1177/00380385221094770"
+        },
+        {
+            "title": "Political power beyond the state: problematics of government",
+            "eid": "2-s2.0-85118037923",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7404427087",
+                    "name": "Miller P.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Foucault and Law",
+            "issn": "",
+            "cover_date": "2017-07-05",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "191-223",
+            "doi": ""
+        },
+        {
+            "title": "Understanding interstate competitiveness and international security in european dual-use research",
+            "eid": "2-s2.0-85050495288",
+            "authors": [
+                {
+                    "scopus_id": "57221719964",
+                    "name": "Burton S.D.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "36711293400",
+                    "name": "Aicardi C.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "56199294500",
+                    "name": "Mahfoud T.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+            "issn": "03029743",
+            "cover_date": "2018-01-01",
+            "venue": "Book Series",
+            "volume": "10928 LNAI",
+            "issue": "",
+            "page_range": "129-133",
+            "doi": "10.1007/978-3-319-95972-6_14"
+        },
+        {
+            "title": "The pharmacogenomics of depression: mapping the social and ethical impact",
+            "eid": "2-s2.0-84992954193",
+            "authors": [
+                {
+                    "scopus_id": "57871038900",
+                    "name": "Barr M.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                },
+                {
+                    "scopus_id": "16246029200",
+                    "name": "Singh I.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Journal of Public Mental Health",
+            "issn": "17465729",
+            "cover_date": "2005-09-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "3",
+            "page_range": "33-41",
+            "doi": "10.1108/17465729200500022"
+        },
+        {
+            "title": "Genomics",
+            "eid": "2-s2.0-34948889677",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "The Social Science Encyclopedia",
+            "issn": "",
+            "cover_date": "2004-10-14",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "412-416",
+            "doi": ""
+        },
+        {
+            "title": "Commentary: Recent disputes on the role of serotonin in depression",
+            "eid": "2-s2.0-85171734040",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60022148"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Psychological Medicine",
+            "issn": "00332917",
+            "cover_date": "2023-12-12",
+            "venue": "Journal",
+            "volume": "53",
+            "issue": "16",
+            "page_range": "7973-7975",
+            "doi": "10.1017/S0033291723002726"
+        },
+        {
+            "title": "Governing behaviour: Habits and the science of behaviour change",
+            "eid": "2-s2.0-85116572549",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Assembling and Governing Habits",
+            "issn": "",
+            "cover_date": "2021-07-23",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "44-61",
+            "doi": ""
+        },
+        {
+            "title": "Preface",
+            "eid": "2-s2.0-85030457087",
+            "authors": [
+                {
+                    "scopus_id": "56199294500",
+                    "name": "Mahfoud T.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "57195955324",
+                    "name": "McLean S.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Progress in Brain Research",
+            "issn": "00796123",
+            "cover_date": "2017-01-01",
+            "venue": "Book Series",
+            "volume": "233",
+            "issue": "",
+            "page_range": "xi-xx",
+            "doi": "10.1016/S0079-6123(17)30098-5"
+        },
+        {
+            "title": "The value of life: Somatic ethics and the spirit of biocapital",
+            "eid": "2-s2.0-84900082862",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "The Right to Life and the Value of Life: Orientations in Law, Politics and Ethics",
+            "issn": "",
+            "cover_date": "2010-12-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "85-99",
+            "doi": ""
+        },
+        {
+            "title": "Commerce vs the common conflicts over the commercialisation of biomedical knowledge",
+            "eid": "2-s2.0-84895042167",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "The Politics of Knowledge",
+            "issn": "",
+            "cover_date": "2009-12-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "79-110",
+            "doi": ""
+        },
+        {
+            "title": "Governmentality: A conversation with Wendy Brown, Partha Chatterjee and Nikolas Rose",
+            "eid": "2-s2.0-85161303597",
+            "authors": [
+                {
+                    "scopus_id": "58305928900",
+                    "name": "Brown W.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "57201990978",
+                    "name": "Chatterjee P.",
+                    "affiliation_id": [
+                        "60030162",
+                        "60024993"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "55948479300",
+                    "name": "Tazzioli M.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                },
+                {
+                    "scopus_id": "35944959400",
+                    "name": "Walters W.",
+                    "affiliation_id": [
+                        "60017592"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Handbook on Governmentality",
+            "issn": "",
+            "cover_date": "2023-04-25",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "113-135",
+            "doi": ""
+        },
+        {
+            "title": "Political power beyond the State: Problematics of government",
+            "eid": "2-s2.0-85146333168",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7404427087",
+                    "name": "Miller P.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "New Critical Writings in Political Sociology: Volume One: Power, State and Inequality",
+            "issn": "",
+            "cover_date": "2017-03-02",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "255-287",
+            "doi": ""
+        },
+        {
+            "title": "Governed by law?",
+            "eid": "2-s2.0-85132681391",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                },
+                {
+                    "scopus_id": "57204261404",
+                    "name": "Valverde M.",
+                    "affiliation_id": [
+                        "60016849"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Foucault and Law",
+            "issn": "",
+            "cover_date": "2017-07-05",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "179-189",
+            "doi": ""
+        },
+        {
+            "title": "The value of life: Somatic ethics and the spirit of biocapital",
+            "eid": "2-s2.0-85129411109",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60003059"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "The Right to Life and the Value of Life: Orientations in Law, Politics and Ethics",
+            "issn": "",
+            "cover_date": "2016-03-03",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "85-99",
+            "doi": ""
+        },
+        {
+            "title": "Governed by law?",
+            "eid": "2-s2.0-85062074342",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57204261404",
+                    "name": "Valverde M.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Michel Foucault",
+            "issn": "",
+            "cover_date": "2017-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "425-435",
+            "doi": "10.4324/9781315249032"
+        },
+        {
+            "title": "Human and natural sciences: Dialogues and politics of collaboration",
+            "eid": "2-s2.0-85044597310",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7005619860",
+                    "name": "Carvalho S.R.",
+                    "affiliation_id": [
+                        "60029570"
+                    ]
+                },
+                {
+                    "scopus_id": "57196023539",
+                    "name": "de Oliveira C.F.",
+                    "affiliation_id": [
+                        "60017931"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Interface: Communication, Health, Education",
+            "issn": "14143283",
+            "cover_date": "2018-04-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "65",
+            "page_range": "331-335",
+            "doi": "10.1590/1807-57622018.0018"
+        },
+        {
+            "title": "Recovery from Schizophrenia: Psychiatry and Political Economy (Book).",
+            "eid": "2-s2.0-84982706072",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60020623"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Sociology of Health &amp; Illness",
+            "issn": "01419889",
+            "cover_date": "1987-01-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "1",
+            "page_range": "90-92",
+            "doi": "10.1111/1467-9566.ep11343800"
+        },
+        {
+            "title": "Robert B. Joynson, The Burt Affair, London: Routledge, 1989, \u00a325.00, xiii + 347 pp",
+            "eid": "2-s2.0-84970700445",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60020623"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "History of the Human Sciences",
+            "issn": "09526951",
+            "cover_date": "1991-01-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "1",
+            "page_range": "134-137",
+            "doi": "10.1177/095269519100400113"
+        },
+        {
+            "title": "A commentary on dr roland littlewood's paper",
+            "eid": "2-s2.0-84945804699",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60020623"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Journal of Social Work Practice",
+            "issn": "02650533",
+            "cover_date": "1988-11-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "3",
+            "page_range": "20-22",
+            "doi": "10.1080/02650538808413379"
+        },
+        {
+            "title": "Introduction",
+            "eid": "2-s2.0-84908265035",
+            "authors": [
+                {
+                    "scopus_id": "7102366844",
+                    "name": "OSborne T.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": [
+                        "60010964"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Economy and Society",
+            "issn": "03085147",
+            "cover_date": "1998-05-01",
+            "venue": "Journal",
+            "volume": "27",
+            "issue": "",
+            "page_range": "151-153",
+            "doi": "10.1080/03085149800000008"
+        },
+        {
+            "title": "Editorial",
+            "eid": "2-s2.0-84896794607",
+            "authors": [
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "16246029200",
+                    "name": "Singh I.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6602428546",
+                    "name": "Waldby C.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "BioSocieties",
+            "issn": "17458552",
+            "cover_date": "2014-03-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "1",
+            "page_range": "1-2",
+            "doi": "10.1057/biosoc.2014.1"
+        },
+        {
+            "title": "Editorial",
+            "eid": "2-s2.0-84889024396",
+            "authors": [
+                {
+                    "scopus_id": "7403682644",
+                    "name": "Clarke A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "16246029200",
+                    "name": "Singh I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "BioSocieties",
+            "issn": "17458552",
+            "cover_date": "2013-12-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "4",
+            "page_range": "385",
+            "doi": "10.1057/biosoc.2013.35"
+        },
+        {
+            "title": "Editorial",
+            "eid": "2-s2.0-84883435868",
+            "authors": [
+                {
+                    "scopus_id": "7403682644",
+                    "name": "Clarke A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "16246029200",
+                    "name": "Singh I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "BioSocieties",
+            "issn": "17458552",
+            "cover_date": "2013-09-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "3",
+            "page_range": "243-244",
+            "doi": "10.1057/biosoc.2013.22"
+        },
+        {
+            "title": "Editorial",
+            "eid": "2-s2.0-84878617504",
+            "authors": [
+                {
+                    "scopus_id": "7403682644",
+                    "name": "Clarke A.E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "16246029200",
+                    "name": "Singh I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "BioSocieties",
+            "issn": "17458552",
+            "cover_date": "2013-06-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "2",
+            "page_range": "105-106",
+            "doi": "10.1057/biosoc.2013.7"
+        },
+        {
+            "title": "Editorial",
+            "eid": "2-s2.0-84873887405",
+            "authors": [
+                {
+                    "scopus_id": "7403682644",
+                    "name": "Clarke A.E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "16246029200",
+                    "name": "Singh I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "BioSocieties",
+            "issn": "17458552",
+            "cover_date": "2013-03-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "1",
+            "page_range": "1",
+            "doi": "10.1057/biosoc.2012.40"
+        },
+        {
+            "title": "Editorial",
+            "eid": "2-s2.0-84871049623",
+            "authors": [
+                {
+                    "scopus_id": "7403682644",
+                    "name": "Clarke A.E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "16246029200",
+                    "name": "Singh I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "BioSocieties",
+            "issn": "17458552",
+            "cover_date": "2012-12-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "4",
+            "page_range": "337-338",
+            "doi": "10.1057/biosoc.2012.29"
+        },
+        {
+            "title": "Editorial",
+            "eid": "2-s2.0-84867944527",
+            "authors": [
+                {
+                    "scopus_id": "7403682644",
+                    "name": "Clarke A.E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "16246029200",
+                    "name": "Singh I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "BioSocieties",
+            "issn": "17458552",
+            "cover_date": "2012-09-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "3",
+            "page_range": "221-223",
+            "doi": "10.1057/biosoc.2012.13"
+        },
+        {
+            "title": "Editorial",
+            "eid": "2-s2.0-84860394314",
+            "authors": [
+                {
+                    "scopus_id": "7403682644",
+                    "name": "Clarke A.E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "16246029200",
+                    "name": "Singh I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "BioSocieties",
+            "issn": "17458552",
+            "cover_date": "2011-06-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "2",
+            "page_range": "119-120",
+            "doi": "10.1057/biosoc.2011.8"
+        },
+        {
+            "title": "Editorial",
+            "eid": "2-s2.0-84858202161",
+            "authors": [
+                {
+                    "scopus_id": "7403682644",
+                    "name": "Clarke A.E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "16246029200",
+                    "name": "Singh I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "BioSocieties",
+            "issn": "17458552",
+            "cover_date": "2012-03-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "1",
+            "page_range": "1-2",
+            "doi": "10.1057/biosoc.2011.31"
+        },
+        {
+            "title": "Editorial",
+            "eid": "2-s2.0-81255166651",
+            "authors": [
+                {
+                    "scopus_id": "7403682644",
+                    "name": "Clarke A.E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "16246029200",
+                    "name": "Singh I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "BioSocieties",
+            "issn": "17458552",
+            "cover_date": "2011-12-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "4",
+            "page_range": "379-380",
+            "doi": "10.1057/biosoc.2011.22"
+        },
+        {
+            "title": "Editorial",
+            "eid": "2-s2.0-80052362840",
+            "authors": [
+                {
+                    "scopus_id": "7403682644",
+                    "name": "Clarke A.E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201575632",
+                    "name": "Rose N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "16246029200",
+                    "name": "Singh I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "BioSocieties",
+            "issn": "17458552",
+            "cover_date": "2011-09-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "3",
+            "page_range": "277-278",
+            "doi": "10.1057/biosoc.2011.12"
+        }
+    ],
+    "affiliation": "The Australian National University",
+    "affiliation_id": "60008950",
+    "city": "Canberra",
+    "country": "Australia",
+    "document_count": 109,
+    "subject_area": [
+        {
+            "@abbrev": "SOCI",
+            "@frequency": "109",
+            "$": "Social Sciences (all)"
+        },
+        {
+            "@abbrev": "MEDI",
+            "@frequency": "47",
+            "$": "Medicine (all)"
+        },
+        {
+            "@abbrev": "ARTS",
+            "@frequency": "37",
+            "$": "Arts and Humanities (all)"
+        }
+    ],
+    "date fetched": "2024-06-30 08:34:16",
+    "c-score": null
+}

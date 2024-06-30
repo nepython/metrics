@@ -8,14 +8,22 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "7004764249",
-                    "name": "Messerschmidt J.W."
+                    "name": "Messerschmidt J.W.",
+                    "affiliation_id": [
+                        "60010494",
+                        "60010494"
+                    ]
                 }
             ],
-            "citations": 6124,
+            "citations": 6251,
             "publication_name": "Gender and Society",
             "issn": "08912432",
             "cover_date": "2005-01-01",
@@ -31,10 +39,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 582,
+            "citations": 600,
             "publication_name": "Critical Studies in Education",
             "issn": "17508487",
             "cover_date": "2013-06-01",
@@ -50,10 +61,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 490,
+            "citations": 494,
             "publication_name": "Men and Masculinities",
             "issn": "1097184X",
             "cover_date": "1999-01-01",
@@ -69,10 +83,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 476,
+            "citations": 488,
             "publication_name": "Social Science and Medicine",
             "issn": "02779536",
             "cover_date": "2012-06-01",
@@ -88,10 +105,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 }
             ],
-            "citations": 390,
+            "citations": 391,
             "publication_name": "Oxford Review of Education",
             "issn": "03054985",
             "cover_date": "1989-01-01",
@@ -107,10 +127,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 }
             ],
-            "citations": 368,
+            "citations": 376,
             "publication_name": "Theory and Society",
             "issn": "03042421",
             "cover_date": "1990-10-01",
@@ -126,10 +149,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60024941"
+                    ]
                 }
             ],
-            "citations": 360,
+            "citations": 361,
             "publication_name": "Theory and Society",
             "issn": "03042421",
             "cover_date": "1993-10-01",
@@ -140,15 +166,40 @@
             "doi": "10.1007/BF00993538"
         },
         {
+            "title": "Change among the gatekeepers: Men, masculinities, and gender equality in the global arena",
+            "eid": "2-s2.0-33745628931",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 350,
+            "publication_name": "Signs",
+            "issn": "00979740",
+            "cover_date": "2005-03-01",
+            "venue": "Journal",
+            "volume": "30",
+            "issue": "3",
+            "page_range": "1801-1825",
+            "doi": "10.1086/427525"
+        },
+        {
             "title": "Good teachers on dangerous ground: Towards a new view of teacher quality and professionalism",
             "eid": "2-s2.0-84879922583",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 344,
+            "citations": 347,
             "publication_name": "Critical Studies in Education",
             "issn": "17508487",
             "cover_date": "2009-01-01",
@@ -164,10 +215,11 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": []
                 }
             ],
-            "citations": 342,
+            "citations": 347,
             "publication_name": "Teachers College Record",
             "issn": "01614681",
             "cover_date": "1996-01-01",
@@ -178,34 +230,18 @@
             "doi": ""
         },
         {
-            "title": "Change among the gatekeepers: Men, masculinities, and gender equality in the global arena",
-            "eid": "2-s2.0-33745628931",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 340,
-            "publication_name": "Signs",
-            "issn": "00979740",
-            "cover_date": "2005-03-01",
-            "venue": "Journal",
-            "volume": "30",
-            "issue": "3",
-            "page_range": "1801-1825",
-            "doi": "10.1086/427525"
-        },
-        {
             "title": "Why is classical theory classical?",
             "eid": "2-s2.0-0031515227",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 331,
+            "citations": 338,
             "publication_name": "American Journal of Sociology",
             "issn": "00029602",
             "cover_date": "1997-01-01",
@@ -221,14 +257,21 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "8257344500",
-                    "name": "Wood J."
+                    "name": "Wood J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 318,
+            "citations": 322,
             "publication_name": "Men and Masculinities",
             "issn": "1097184X",
             "cover_date": "2005-04-01",
@@ -244,10 +287,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 302,
+            "citations": 317,
             "publication_name": "Planning Theory",
             "issn": "14730952",
             "cover_date": "2014-01-01",
@@ -263,18 +309,27 @@
             "authors": [
                 {
                     "scopus_id": "7006669294",
-                    "name": "Kimmel M."
+                    "name": "Kimmel M.",
+                    "affiliation_id": [
+                        "60026415"
+                    ]
                 },
                 {
                     "scopus_id": "12753553700",
-                    "name": "Hearn J."
+                    "name": "Hearn J.",
+                    "affiliation_id": [
+                        "60002505"
+                    ]
                 },
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 297,
+            "citations": 300,
             "publication_name": "Handbook of Studies on Men and Masculinities",
             "issn": "",
             "cover_date": "2005-01-01",
@@ -290,10 +345,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 251,
+            "citations": 262,
             "publication_name": "Public Administration Review",
             "issn": "00333352",
             "cover_date": "2006-11-01",
@@ -309,26 +367,41 @@
             "authors": [
                 {
                     "scopus_id": "15731922200",
-                    "name": "Schofield T."
+                    "name": "Schofield T.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60017803"
+                    ]
                 },
                 {
                     "scopus_id": "7402361033",
-                    "name": "Walker L."
+                    "name": "Walker L.",
+                    "affiliation_id": [
+                        "60017803"
+                    ]
                 },
                 {
                     "scopus_id": "8257344500",
-                    "name": "Wood J.F."
+                    "name": "Wood J.F.",
+                    "affiliation_id": [
+                        "60017803"
+                    ]
                 },
                 {
                     "scopus_id": "6505771909",
-                    "name": "Butland D.L."
+                    "name": "Butland D.L.",
+                    "affiliation_id": [
+                        "60017803"
+                    ]
                 }
             ],
-            "citations": 209,
+            "citations": 210,
             "publication_name": "Journal of the American College Health Association",
             "issn": "07448481",
             "cover_date": "2000-01-01",
@@ -344,18 +417,27 @@
             "authors": [
                 {
                     "scopus_id": "24401861200",
-                    "name": "Takayama K."
+                    "name": "Takayama K.",
+                    "affiliation_id": [
+                        "60017837"
+                    ]
                 },
                 {
                     "scopus_id": "35222298500",
-                    "name": "Sriprakash A."
+                    "name": "Sriprakash A.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
                 },
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 192,
+            "citations": 198,
             "publication_name": "Comparative Education Review",
             "issn": "00104086",
             "cover_date": "2017-05-01",
@@ -371,10 +453,11 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
-            "citations": 192,
+            "citations": 193,
             "publication_name": "Sociology",
             "issn": "00380385",
             "cover_date": "1985-01-01",
@@ -390,14 +473,20 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "56019690600",
-                    "name": "Dados N."
+                    "name": "Dados N.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 178,
+            "citations": 183,
             "publication_name": "Theory and Society",
             "issn": "03042421",
             "cover_date": "2014-03-01",
@@ -413,230 +502,308 @@
             "authors": [
                 {
                     "scopus_id": "23007934500",
-                    "name": "Fulu E."
+                    "name": "Fulu E.",
+                    "affiliation_id": [
+                        "117219554"
+                    ]
                 },
                 {
                     "scopus_id": "56845246700",
-                    "name": "Miedema S."
+                    "name": "Miedema S.",
+                    "affiliation_id": [
+                        "60000928"
+                    ]
                 },
                 {
                     "scopus_id": "57506910100",
-                    "name": "Roselli T."
+                    "name": "Roselli T.",
+                    "affiliation_id": [
+                        "123662609"
+                    ]
                 },
                 {
                     "scopus_id": "57193864304",
-                    "name": "McCook S."
+                    "name": "McCook S.",
+                    "affiliation_id": [
+                        "117219554"
+                    ]
                 },
                 {
                     "scopus_id": "57357680300",
-                    "name": "Chan K.L."
+                    "name": "Chan K.L.",
+                    "affiliation_id": [
+                        "60008928"
+                    ]
                 },
                 {
                     "scopus_id": "35423715000",
-                    "name": "Haard\u00f6rfer R."
+                    "name": "Haard\u00f6rfer R.",
+                    "affiliation_id": [
+                        "60025315"
+                    ]
                 },
                 {
                     "scopus_id": "7006721599",
-                    "name": "Jewkes R."
+                    "name": "Jewkes R.",
+                    "affiliation_id": [
+                        "60028973"
+                    ]
                 },
                 {
                     "scopus_id": "23007934500",
-                    "name": "Fulu E."
+                    "name": "Fulu E.",
+                    "affiliation_id": [
+                        "117219554"
+                    ]
                 },
                 {
                     "scopus_id": "55940025000",
-                    "name": "Warner X."
+                    "name": "Warner X.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "56845246700",
-                    "name": "Miedema S."
+                    "name": "Miedema S.",
+                    "affiliation_id": [
+                        "60000928"
+                    ]
                 },
                 {
                     "scopus_id": "57506910100",
-                    "name": "Roselli T."
+                    "name": "Roselli T.",
+                    "affiliation_id": [
+                        "123662609"
+                    ]
                 },
                 {
                     "scopus_id": "56604597800",
-                    "name": "Lang J."
+                    "name": "Lang J.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "6506307604",
-                    "name": "Naved R.T."
+                    "name": "Naved R.T.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "36853558600",
-                    "name": "Huque H."
+                    "name": "Huque H.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "58712832900",
-                    "name": "Farah S."
+                    "name": "Farah S.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "12763296800",
-                    "name": "Shuvra M.M.R."
+                    "name": "Shuvra M.M.R.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193863930",
-                    "name": "Erken A."
+                    "name": "Erken A.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193868674",
-                    "name": "Xiangxian W."
+                    "name": "Xiangxian W.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193869117",
-                    "name": "Gang F."
+                    "name": "Gang F.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193872965",
-                    "name": "Hongtao L."
+                    "name": "Hongtao L.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193871332",
-                    "name": "Mudrovcic Z."
+                    "name": "Mudrovcic Z.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57731232300",
-                    "name": "Hua W."
+                    "name": "Hua W.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57091548200",
-                    "name": "Hoekman A."
+                    "name": "Hoekman A.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193864576",
-                    "name": "Nikulainen E."
+                    "name": "Nikulainen E.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193867792",
-                    "name": "Coquelin B."
+                    "name": "Coquelin B.",
+                    "affiliation_id": []
                 },
                 {
-                    "scopus_id": "57218361673",
-                    "name": "Khan M."
+                    "scopus_id": "58730238100",
+                    "name": "Khan M.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193867032",
-                    "name": "Kusuma W."
+                    "name": "Kusuma W.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193867778",
-                    "name": "Manero C.M."
+                    "name": "Manero C.M.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193865532",
-                    "name": "Larsen F."
+                    "name": "Larsen F.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "23007934500",
-                    "name": "Fulu E."
+                    "name": "Fulu E.",
+                    "affiliation_id": [
+                        "117219554"
+                    ]
                 },
                 {
                     "scopus_id": "55940025000",
-                    "name": "Warner X."
+                    "name": "Warner X.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57214344429",
-                    "name": "Moussavi S."
+                    "name": "Moussavi S.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "23004389900",
-                    "name": "de Mel N."
+                    "name": "de Mel N.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193863401",
-                    "name": "Peiris P."
+                    "name": "Peiris P.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57678234700",
-                    "name": "Gomez S."
+                    "name": "Gomez S.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193871364",
-                    "name": "Team S.I."
+                    "name": "Team S.I.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193863246",
-                    "name": "Jinadasa K."
+                    "name": "Jinadasa K.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "15021260400",
-                    "name": "Sikweyiya Y."
+                    "name": "Sikweyiya Y.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "55135536300",
-                    "name": "Shai N."
+                    "name": "Shai N.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193870689",
-                    "name": "Drapuluvik-Tinabar F."
+                    "name": "Drapuluvik-Tinabar F.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193872313",
-                    "name": "Magoola P."
+                    "name": "Magoola P.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193868428",
-                    "name": "Agyenta A."
+                    "name": "Agyenta A.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "56538110800",
-                    "name": "Shanahan T."
+                    "name": "Shanahan T.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193872006",
-                    "name": "Vienings T."
+                    "name": "Vienings T.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "7003563456",
-                    "name": "Garcia-Moreno C."
+                    "name": "Garcia-Moreno C.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "6506307604",
-                    "name": "Naved R.T."
+                    "name": "Naved R.T.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193863246",
-                    "name": "Jinadasa K."
+                    "name": "Jinadasa K.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193872006",
-                    "name": "Vienings T."
+                    "name": "Vienings T.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57193867032",
-                    "name": "Kusuma W."
+                    "name": "Kusuma W.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "15055225600",
-                    "name": "Barker G."
+                    "name": "Barker G.",
+                    "affiliation_id": []
                 },
                 {
-                    "scopus_id": "24833047800",
-                    "name": "Greig A."
+                    "scopus_id": "7005214689",
+                    "name": "Greig A.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57732234200",
-                    "name": "Roy R."
+                    "name": "Roy R.",
+                    "affiliation_id": []
                 },
                 {
-                    "scopus_id": "35619449600",
-                    "name": "Verma R."
+                    "scopus_id": "59034564600",
+                    "name": "Verma R.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57732988200",
-                    "name": "Sen K.M."
+                    "name": "Sen K.M.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57732987300",
-                    "name": "Johnson S."
+                    "name": "Johnson S.",
+                    "affiliation_id": []
                 }
             ],
-            "citations": 150,
+            "citations": 155,
             "publication_name": "The Lancet Global Health",
             "issn": "",
             "cover_date": "2017-05-01",
@@ -652,10 +819,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 139,
+            "citations": 141,
             "publication_name": "Signs",
             "issn": "00979740",
             "cover_date": "2012-08-23",
@@ -666,12 +836,90 @@
             "doi": "10.1086/664478"
         },
         {
+            "title": "Hegemonic masculinity: Rethinking the concept",
+            "eid": "2-s2.0-84877901794",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7004764249",
+                    "name": "Messerschmidt J.W.",
+                    "affiliation_id": [
+                        "113613571"
+                    ]
+                }
+            ],
+            "citations": 138,
+            "publication_name": "Revista Estudos Feministas",
+            "issn": "0104026X",
+            "cover_date": "2013-01-01",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "1",
+            "page_range": "241-282",
+            "doi": "10.1590/S0104-026X2013000100014"
+        },
+        {
+            "title": "On hegemonic masculinity and violence: Response to Jefferson and Hall",
+            "eid": "2-s2.0-84993811844",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 136,
+            "publication_name": "Theoretical Criminology",
+            "issn": "13624806",
+            "cover_date": "2002-01-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "1",
+            "page_range": "89-99",
+            "doi": "10.1177/136248060200600104"
+        },
+        {
+            "title": "The northern theory of globalization",
+            "eid": "2-s2.0-36148953319",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 136,
+            "publication_name": "Sociological Theory",
+            "issn": "07352751",
+            "cover_date": "2007-12-01",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "4",
+            "page_range": "368-385",
+            "doi": "10.1111/j.1467-9558.2007.00314.x"
+        },
+        {
             "title": "Masculinity construction and sports in boys' education: A framework for thinking about the issue",
             "eid": "2-s2.0-47549088653",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 134,
@@ -685,76 +933,18 @@
             "doi": "10.1080/13573320801957053"
         },
         {
-            "title": "The northern theory of globalization",
-            "eid": "2-s2.0-36148953319",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 134,
-            "publication_name": "Sociological Theory",
-            "issn": "07352751",
-            "cover_date": "2007-12-01",
-            "venue": "Journal",
-            "volume": "25",
-            "issue": "4",
-            "page_range": "368-385",
-            "doi": "10.1111/j.1467-9558.2007.00314.x"
-        },
-        {
-            "title": "On hegemonic masculinity and violence: Response to Jefferson and Hall",
-            "eid": "2-s2.0-84993811844",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 132,
-            "publication_name": "Theoretical Criminology",
-            "issn": "13624806",
-            "cover_date": "2002-01-01",
-            "venue": "Journal",
-            "volume": "6",
-            "issue": "1",
-            "page_range": "89-99",
-            "doi": "10.1177/136248060200600104"
-        },
-        {
-            "title": "Hegemonic masculinity: Rethinking the concept",
-            "eid": "2-s2.0-84877901794",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R.W."
-                },
-                {
-                    "scopus_id": "7004764249",
-                    "name": "Messerschmidt J.W."
-                }
-            ],
-            "citations": 131,
-            "publication_name": "Revista Estudos Feministas",
-            "issn": "0104026X",
-            "cover_date": "2013-01-01",
-            "venue": "Journal",
-            "volume": "21",
-            "issue": "1",
-            "page_range": "241-282",
-            "doi": "10.1590/S0104-026X2013000100014"
-        },
-        {
             "title": "Northern theory: The political geography of general social theory",
             "eid": "2-s2.0-33748850592",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 124,
+            "citations": 129,
             "publication_name": "Theory and Society",
             "issn": "03042421",
             "cover_date": "2006-04-01",
@@ -765,65 +955,18 @@
             "doi": "10.1007/s11186-006-9004-y"
         },
         {
-            "title": "Neoliberalism, new public management and the human service professions: Introduction to the special issue",
-            "eid": "2-s2.0-70450285177",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                },
-                {
-                    "scopus_id": "28067735800",
-                    "name": "Fawcett B."
-                },
-                {
-                    "scopus_id": "6602823917",
-                    "name": "Meagher G."
-                }
-            ],
-            "citations": 118,
-            "publication_name": "Journal of Sociology",
-            "issn": "14407833",
-            "cover_date": "2009-01-01",
-            "venue": "Journal",
-            "volume": "45",
-            "issue": "4",
-            "page_range": "331-338",
-            "doi": "10.1177/1440783309346472"
-        },
-        {
-            "title": "Gender Norms and the Economy: Insights from Social Research",
-            "eid": "2-s2.0-84949323099",
-            "authors": [
-                {
-                    "scopus_id": "37073190400",
-                    "name": "Pearse R."
-                },
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 116,
-            "publication_name": "Feminist Economics",
-            "issn": "13545701",
-            "cover_date": "2016-01-02",
-            "venue": "Journal",
-            "volume": "22",
-            "issue": "1",
-            "page_range": "30-53",
-            "doi": "10.1080/13545701.2015.1078485"
-        },
-        {
             "title": "Southern bodies and disability: Re-thinking concepts",
             "eid": "2-s2.0-80052918682",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 111,
+            "citations": 127,
             "publication_name": "Third World Quarterly",
             "issn": "01436597",
             "cover_date": "2011-09-01",
@@ -834,15 +977,81 @@
             "doi": "10.1080/01436597.2011.614799"
         },
         {
+            "title": "Gender Norms and the Economy: Insights from Social Research",
+            "eid": "2-s2.0-84949323099",
+            "authors": [
+                {
+                    "scopus_id": "37073190400",
+                    "name": "Pearse R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 123,
+            "publication_name": "Feminist Economics",
+            "issn": "13545701",
+            "cover_date": "2016-01-02",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "1",
+            "page_range": "30-53",
+            "doi": "10.1080/13545701.2015.1078485"
+        },
+        {
+            "title": "Neoliberalism, new public management and the human service professions: Introduction to the special issue",
+            "eid": "2-s2.0-70450285177",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "28067735800",
+                    "name": "Fawcett B.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6602823917",
+                    "name": "Meagher G.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 119,
+            "publication_name": "Journal of Sociology",
+            "issn": "14407833",
+            "cover_date": "2009-01-01",
+            "venue": "Journal",
+            "volume": "45",
+            "issue": "4",
+            "page_range": "331-338",
+            "doi": "10.1177/1440783309346472"
+        },
+        {
             "title": "Rethinking gender from the south",
             "eid": "2-s2.0-84911863075",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
-            "citations": 109,
+            "citations": 111,
             "publication_name": "Feminist Studies",
             "issn": "00463663",
             "cover_date": "2014-01-01",
@@ -853,34 +1062,18 @@
             "doi": ""
         },
         {
-            "title": "The experience of gender change in public sector organizations",
-            "eid": "2-s2.0-33747025675",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 107,
-            "publication_name": "Gender, Work and Organization",
-            "issn": "09686673",
-            "cover_date": "2006-09-01",
-            "venue": "Journal",
-            "volume": "13",
-            "issue": "5",
-            "page_range": "435-452",
-            "doi": "10.1111/j.1468-0432.2006.00316.x"
-        },
-        {
             "title": "Masculinities in global perspective: hegemony, contestation, and changing structures of power",
             "eid": "2-s2.0-84978674808",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 106,
+            "citations": 108,
             "publication_name": "Theory and Society",
             "issn": "03042421",
             "cover_date": "2016-08-01",
@@ -891,15 +1084,40 @@
             "doi": "10.1007/s11186-016-9275-x"
         },
         {
+            "title": "The experience of gender change in public sector organizations",
+            "eid": "2-s2.0-33747025675",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 108,
+            "publication_name": "Gender, Work and Organization",
+            "issn": "09686673",
+            "cover_date": "2006-09-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "5",
+            "page_range": "435-452",
+            "doi": "10.1111/j.1468-0432.2006.00316.x"
+        },
+        {
             "title": "Decolonizing Sociology",
             "eid": "2-s2.0-85049875974",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 104,
+            "citations": 106,
             "publication_name": "Contemporary Sociology",
             "issn": "00943061",
             "cover_date": "2018-07-01",
@@ -915,10 +1133,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 97,
+            "citations": 99,
             "publication_name": "Public Opinion Quarterly",
             "issn": "0033362X",
             "cover_date": "1972-01-01",
@@ -929,34 +1150,18 @@
             "doi": "10.1086/268014"
         },
         {
-            "title": "Masculinity research and global change",
-            "eid": "2-s2.0-84904259538",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 96,
-            "publication_name": "Masculinities and Social Change",
-            "issn": "",
-            "cover_date": "2012-01-01",
-            "venue": "Journal",
-            "volume": "1",
-            "issue": "1",
-            "page_range": "4-18",
-            "doi": "10.4471/MCS.2012.01"
-        },
-        {
             "title": "Meeting at the edge of fear: Theory on a world scale",
             "eid": "2-s2.0-84925587948",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 95,
+            "citations": 98,
             "publication_name": "Feminist Theory",
             "issn": "14647001",
             "cover_date": "2015-04-27",
@@ -967,23 +1172,26 @@
             "doi": "10.1177/1464700114562531"
         },
         {
-            "title": "Understanding neoliberalism",
-            "eid": "2-s2.0-84898226018",
+            "title": "Masculinity research and global change",
+            "eid": "2-s2.0-84904259538",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 95,
-            "publication_name": "Neoliberalism and Everyday Life",
+            "citations": 98,
+            "publication_name": "Masculinities and Social Change",
             "issn": "",
-            "cover_date": "2010-03-01",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "22-36",
-            "doi": ""
+            "cover_date": "2012-01-01",
+            "venue": "Journal",
+            "volume": "1",
+            "issue": "1",
+            "page_range": "4-18",
+            "doi": "10.4471/MCS.2012.01"
         },
         {
             "title": "Live Fast and Die Young: The Construction of Masculinity among Young Working-class Men on the Margin of the Labour Market",
@@ -991,10 +1199,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 }
             ],
-            "citations": 94,
+            "citations": 97,
             "publication_name": "Journal of Sociology",
             "issn": "14407833",
             "cover_date": "1991-01-01",
@@ -1005,15 +1216,40 @@
             "doi": "10.1177/144078339102700201"
         },
         {
+            "title": "Understanding neoliberalism",
+            "eid": "2-s2.0-84898226018",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 97,
+            "publication_name": "Neoliberalism and Everyday Life",
+            "issn": "",
+            "cover_date": "2010-03-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "22-36",
+            "doi": ""
+        },
+        {
             "title": "Margin becoming centre: For a world-centred rethinking of masculinities",
             "eid": "2-s2.0-85011343096",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 89,
+            "citations": 90,
             "publication_name": "NORMA",
             "issn": "18902138",
             "cover_date": "2014-01-01",
@@ -1029,22 +1265,34 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "7801412341",
-                    "name": "Collyer F."
+                    "name": "Collyer F.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "36809899600",
-                    "name": "Maia J."
+                    "name": "Maia J.",
+                    "affiliation_id": [
+                        "60069326"
+                    ]
                 },
                 {
                     "scopus_id": "8762546700",
-                    "name": "Morrell R."
+                    "name": "Morrell R.",
+                    "affiliation_id": [
+                        "60000356"
+                    ]
                 }
             ],
-            "citations": 82,
+            "citations": 85,
             "publication_name": "International Sociology",
             "issn": "02685809",
             "cover_date": "2017-01-01",
@@ -1060,10 +1308,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 81,
+            "citations": 82,
             "publication_name": "Australian Journal of Social Issues",
             "issn": "01576321",
             "cover_date": "2005-01-01",
@@ -1079,10 +1330,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 77,
+            "citations": 80,
             "publication_name": "Higher Education Research and Development",
             "issn": "07294360",
             "cover_date": "2017-01-02",
@@ -1098,10 +1352,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 }
             ],
-            "citations": 77,
+            "citations": 78,
             "publication_name": "Gender &amp; Society",
             "issn": "08912432",
             "cover_date": "1990-01-01",
@@ -1117,10 +1374,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 77,
+            "citations": 78,
             "publication_name": "Discourse",
             "issn": "01596306",
             "cover_date": "2013-05-01",
@@ -1136,18 +1396,29 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "12753553700",
-                    "name": "Hearn J."
+                    "name": "Hearn J.",
+                    "affiliation_id": [
+                        "60002505",
+                        "60032343"
+                    ]
                 },
                 {
                     "scopus_id": "7006669294",
-                    "name": "Kimmel M.S."
+                    "name": "Kimmel M.S.",
+                    "affiliation_id": [
+                        "60026415",
+                        "114811257"
+                    ]
                 }
             ],
-            "citations": 76,
+            "citations": 77,
             "publication_name": "Handbook of Studies on Men and Masculinities",
             "issn": "",
             "cover_date": "2005-01-01",
@@ -1163,10 +1434,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 74,
+            "citations": 76,
             "publication_name": "Irish Journal of Sociology",
             "issn": "07916035",
             "cover_date": "2005-12-01",
@@ -1182,10 +1456,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 70,
+            "citations": 74,
             "publication_name": "Gender and Society",
             "issn": "08912432",
             "cover_date": "2009-01-01",
@@ -1201,10 +1478,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 66,
+            "citations": 67,
             "publication_name": "Journal of Education Policy",
             "issn": "02680939",
             "cover_date": "2012-09-01",
@@ -1220,26 +1500,41 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "37073190400",
-                    "name": "Pearse R."
+                    "name": "Pearse R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "7801412341",
-                    "name": "Collyer F."
+                    "name": "Collyer F.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "36809899600",
-                    "name": "Maia J.M."
+                    "name": "Maia J.M.",
+                    "affiliation_id": [
+                        "120248970"
+                    ]
                 },
                 {
                     "scopus_id": "8762546700",
-                    "name": "Morrell R."
+                    "name": "Morrell R.",
+                    "affiliation_id": [
+                        "60000356"
+                    ]
                 }
             ],
-            "citations": 58,
+            "citations": 59,
             "publication_name": "Sociological Review",
             "issn": "00380261",
             "cover_date": "2018-01-01",
@@ -1255,10 +1550,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 56,
+            "citations": 57,
             "publication_name": "Ethnos",
             "issn": "00141844",
             "cover_date": "1996-01-01",
@@ -1274,10 +1572,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 52,
+            "citations": 53,
             "publication_name": "Current Sociology",
             "issn": "00113921",
             "cover_date": "2014-01-01",
@@ -1293,10 +1594,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 51,
+            "citations": 52,
             "publication_name": "Journal of Sociology",
             "issn": "14407833",
             "cover_date": "2020-12-01",
@@ -1312,7 +1616,8 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 47,
@@ -1331,11 +1636,17 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "7004546638",
-                    "name": "Kippax S."
+                    "name": "Kippax S.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 }
             ],
             "citations": 45,
@@ -1354,14 +1665,20 @@
             "authors": [
                 {
                     "scopus_id": "7404403015",
-                    "name": "Roberts C."
+                    "name": "Roberts C.",
+                    "affiliation_id": [
+                        "60023643"
+                    ]
                 },
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 42,
+            "citations": 43,
             "publication_name": "Feminist Theory",
             "issn": "14647001",
             "cover_date": "2016-08-01",
@@ -1372,44 +1689,93 @@
             "doi": "10.1177/1464700116645874"
         },
         {
+            "title": "Lives of the businessmen. Reflections on life-history method and contemporary hegemonic masculinity",
+            "eid": "2-s2.0-84975224788",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 40,
+            "publication_name": "Osterreichische Zeitschrift fur Soziologie",
+            "issn": "10110070",
+            "cover_date": "2010-06-01",
+            "venue": "Journal",
+            "volume": "35",
+            "issue": "2",
+            "page_range": "54-71",
+            "doi": "10.1007/s11614-010-0054-z"
+        },
+        {
             "title": "Danger and Context: Unsafe Anal Sexual Practice among Homosexual and Bisexual Men in the AIDS Crisis",
             "eid": "2-s2.0-84970706779",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "7401850364",
-                    "name": "Crawford J."
+                    "name": "Crawford J.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "6602135865",
-                    "name": "Dowsett G."
+                    "name": "Dowsett G.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "7004546638",
-                    "name": "Kippax S."
+                    "name": "Kippax S.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "57189422937",
-                    "name": "Sinnott V."
+                    "name": "Sinnott V.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "6602437679",
-                    "name": "Rodden P."
+                    "name": "Rodden P.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "24721440500",
-                    "name": "Berg R."
+                    "name": "Berg R.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "55628356500",
-                    "name": "Baxter D."
+                    "name": "Baxter D.",
+                    "affiliation_id": [
+                        "116716015"
+                    ]
                 },
                 {
                     "scopus_id": "7202470165",
-                    "name": "Watson L."
+                    "name": "Watson L.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 39,
@@ -1423,31 +1789,15 @@
             "doi": "10.1177/144078339002600203"
         },
         {
-            "title": "Lives of the businessmen. Reflections on life-history method and contemporary hegemonic masculinity",
-            "eid": "2-s2.0-84975224788",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 38,
-            "publication_name": "Osterreichische Zeitschrift fur Soziologie",
-            "issn": "10110070",
-            "cover_date": "2010-06-01",
-            "venue": "Journal",
-            "volume": "35",
-            "issue": "2",
-            "page_range": "54-71",
-            "doi": "10.1007/s11614-010-0054-z"
-        },
-        {
             "title": "The Concept of Role and What to Do With It",
             "eid": "2-s2.0-84965494851",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 }
             ],
             "citations": 38,
@@ -1466,7 +1816,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 38,
@@ -1485,15 +1838,24 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "106773277"
+                    ]
                 },
                 {
                     "scopus_id": "7404851267",
-                    "name": "Davis M.D."
+                    "name": "Davis M.D.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "57204744904",
-                    "name": "Dowsett G.W."
+                    "name": "Dowsett G.W.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 }
             ],
             "citations": 36,
@@ -1507,12 +1869,37 @@
             "doi": "10.1177/144078339302900107"
         },
         {
+            "title": "Kartini's children: On the need for thinking gender and education together on a world scale",
+            "eid": "2-s2.0-78649653056",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 33,
+            "publication_name": "Gender and Education",
+            "issn": "09540253",
+            "cover_date": "2010-11-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "6",
+            "page_range": "603-615",
+            "doi": "10.1080/09540253.2010.519577"
+        },
+        {
             "title": "Making the difference, then and now",
             "eid": "2-s2.0-77957316151",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 32,
@@ -1531,7 +1918,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 32,
@@ -1550,11 +1940,17 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "8257344500",
-                    "name": "Wood J."
+                    "name": "Wood J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 32,
@@ -1573,27 +1969,45 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "6602135865",
-                    "name": "Dowsett G.W."
+                    "name": "Dowsett G.W.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "6602437679",
-                    "name": "Rodden P."
+                    "name": "Rodden P.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "7404851267",
-                    "name": "Davis M.D."
+                    "name": "Davis M.D.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "7202470165",
-                    "name": "Watson L."
+                    "name": "Watson L.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "55628356500",
-                    "name": "Baxter D."
+                    "name": "Baxter D.",
+                    "affiliation_id": [
+                        "101021973"
+                    ]
                 }
             ],
             "citations": 32,
@@ -1607,35 +2021,22 @@
             "doi": "10.1111/j.1753-6405.1991.tb00332.x"
         },
         {
-            "title": "Kartini's children: On the need for thinking gender and education together on a world scale",
-            "eid": "2-s2.0-78649653056",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 31,
-            "publication_name": "Gender and Education",
-            "issn": "09540253",
-            "cover_date": "2010-11-01",
-            "venue": "Journal",
-            "volume": "22",
-            "issue": "6",
-            "page_range": "603-615",
-            "doi": "10.1080/09540253.2010.519577"
-        },
-        {
             "title": "Gender Theory as Southern Theory",
             "eid": "2-s2.0-85088155278",
             "authors": [
                 {
                     "scopus_id": "46260906400",
-                    "name": "Banerjee P."
+                    "name": "Banerjee P.",
+                    "affiliation_id": [
+                        "60002306"
+                    ]
                 },
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 29,
@@ -1654,23 +2055,38 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "37073190400",
-                    "name": "Pearse R."
+                    "name": "Pearse R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "7801412341",
-                    "name": "Collyer F."
+                    "name": "Collyer F.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "36809899600",
-                    "name": "Maia J."
+                    "name": "Maia J.",
+                    "affiliation_id": [
+                        "60069326"
+                    ]
                 },
                 {
                     "scopus_id": "8762546700",
-                    "name": "Morrell R."
+                    "name": "Morrell R.",
+                    "affiliation_id": [
+                        "60000356"
+                    ]
                 }
             ],
             "citations": 29,
@@ -1684,42 +2100,18 @@
             "doi": "10.1111/1468-4446.12294"
         },
         {
-            "title": "Rethinking knowledge production and circulation in comparative and international education: Southern theory, postcolonial perspectives, and alternative epistemologies",
-            "eid": "2-s2.0-84922726531",
-            "authors": [
-                {
-                    "scopus_id": "24401861200",
-                    "name": "Takayama K."
-                },
-                {
-                    "scopus_id": "35222298500",
-                    "name": "Sriprakash A."
-                },
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 27,
-            "publication_name": "Comparative Education Review",
-            "issn": "00104086",
-            "cover_date": "2015-01-01",
-            "venue": "Journal",
-            "volume": "59",
-            "issue": "1",
-            "page_range": "v-viii",
-            "doi": "10.1086/679660"
-        },
-        {
             "title": "Class, patriarchy, and Sartre's theory of practice",
             "eid": "2-s2.0-29144487001",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 }
             ],
-            "citations": 27,
+            "citations": 28,
             "publication_name": "Theory and Society",
             "issn": "03042421",
             "cover_date": "1982-05-01",
@@ -1735,10 +2127,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60024941"
+                    ]
                 }
             ],
-            "citations": 26,
+            "citations": 27,
             "publication_name": "International Studies in Sociology of Education",
             "issn": "09620214",
             "cover_date": "1992-01-01",
@@ -1749,12 +2144,43 @@
             "doi": "10.1080/0962021920020202"
         },
         {
+            "title": "Rethinking knowledge production and circulation in comparative and international education: Southern theory, postcolonial perspectives, and alternative epistemologies",
+            "eid": "2-s2.0-84922726531",
+            "authors": [
+                {
+                    "scopus_id": "24401861200",
+                    "name": "Takayama K.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35222298500",
+                    "name": "Sriprakash A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 27,
+            "publication_name": "Comparative Education Review",
+            "issn": "00104086",
+            "cover_date": "2015-01-01",
+            "venue": "Journal",
+            "volume": "59",
+            "issue": "1",
+            "page_range": "v-viii",
+            "doi": "10.1086/679660"
+        },
+        {
             "title": "A iminente revolu\u00e7\u00e3o na teoria social",
             "eid": "2-s2.0-84869421137",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 26,
@@ -1773,15 +2199,27 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "8257344500",
-                    "name": "Wood J."
+                    "name": "Wood J.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "7401850364",
-                    "name": "Crawford J."
+                    "name": "Crawford J.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60087845"
+                    ]
                 }
             ],
             "citations": 26,
@@ -1800,7 +2238,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 25,
@@ -1814,12 +2255,35 @@
             "doi": "10.1177/0959353501011001001"
         },
         {
+            "title": "\u201cGENDER POLITICS FOR MEN\u201d",
+            "eid": "2-s2.0-84993089258",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.W.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 25,
+            "publication_name": "International Journal of Sociology and Social Policy",
+            "issn": "0144333X",
+            "cover_date": "1997-01-01",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "",
+            "page_range": "62-77",
+            "doi": "10.1108/eb013292"
+        },
+        {
             "title": "Gender And Social Justice: Southern Perspectives",
             "eid": "2-s2.0-84859416976",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 25,
@@ -1838,7 +2302,8 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 25,
@@ -1852,43 +2317,36 @@
             "doi": "10.1177/144078337000600202"
         },
         {
-            "title": "\u201cGENDER POLITICS FOR MEN\u201d",
-            "eid": "2-s2.0-84993089258",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R.W."
-                }
-            ],
-            "citations": 24,
-            "publication_name": "International Journal of Sociology and Social Policy",
-            "issn": "0144333X",
-            "cover_date": "1997-01-01",
-            "venue": "Journal",
-            "volume": "17",
-            "issue": "",
-            "page_range": "62-77",
-            "doi": "10.1108/eb013292"
-        },
-        {
             "title": "Class and gender dynamics in a ruling-class school",
             "eid": "2-s2.0-8344253440",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "6602135865",
-                    "name": "Dowsett G."
+                    "name": "Dowsett G.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "16487612700",
-                    "name": "Kessler S."
+                    "name": "Kessler S.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "16486215300",
-                    "name": "Ashenden D."
+                    "name": "Ashenden D.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 }
             ],
             "citations": 24,
@@ -1907,7 +2365,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 22,
@@ -1926,7 +2387,8 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 22,
@@ -1940,12 +2402,37 @@
             "doi": ""
         },
         {
+            "title": "Encounters with structure",
+            "eid": "2-s2.0-85009593111",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "International Journal of Qualitative Studies in Education",
+            "issn": "09518398",
+            "cover_date": "2004-01-01",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "1",
+            "page_range": "10-27",
+            "doi": "10.1080/0951839032000150202"
+        },
+        {
             "title": "Two cans of paint: A transsexual life story, with reflections on gender change and history",
             "eid": "2-s2.0-76249108680",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 21,
@@ -1959,39 +2446,29 @@
             "doi": "10.1177/1363460709352723"
         },
         {
-            "title": "Encounters with structure",
-            "eid": "2-s2.0-85009593111",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 20,
-            "publication_name": "International Journal of Qualitative Studies in Education",
-            "issn": "09518398",
-            "cover_date": "2004-01-01",
-            "venue": "Journal",
-            "volume": "17",
-            "issue": "1",
-            "page_range": "10-27",
-            "doi": "10.1080/0951839032000150202"
-        },
-        {
             "title": "Working class homosexuality and hiv/aids prevention: Some recent research from sydney, australia",
             "eid": "2-s2.0-84963434637",
             "authors": [
                 {
                     "scopus_id": "6602135865",
-                    "name": "Dowsett G."
+                    "name": "Dowsett G.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "7404851267",
-                    "name": "Davis M."
+                    "name": "Davis M.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 }
             ],
             "citations": 20,
@@ -2010,7 +2487,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 20,
@@ -2029,7 +2509,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 20,
@@ -2043,34 +2526,18 @@
             "doi": "10.1177/0268580911404452"
         },
         {
-            "title": "Masculinities: The field of knowledge",
-            "eid": "2-s2.0-84937547841",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 19,
-            "publication_name": "Configuring Masculinity in Theory and Literary Practice",
-            "issn": "",
-            "cover_date": "2015-05-27",
-            "venue": "Book",
-            "volume": "58",
-            "issue": "",
-            "page_range": "39-51",
-            "doi": "10.1163/9789004299009_004"
-        },
-        {
             "title": "Transgender health: on a world scale",
             "eid": "2-s2.0-85101657737",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 18,
+            "citations": 19,
             "publication_name": "Health Sociology Review",
             "issn": "14461242",
             "cover_date": "2021-01-01",
@@ -2086,10 +2553,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 18,
+            "citations": 19,
             "publication_name": "Estudos Historicos",
             "issn": "",
             "cover_date": "2019-01-01",
@@ -2100,12 +2570,35 @@
             "doi": "10.1590/S2178-14942019000200002"
         },
         {
+            "title": "Masculinities: The field of knowledge",
+            "eid": "2-s2.0-84937547841",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 19,
+            "publication_name": "Configuring Masculinity in Theory and Literary Practice",
+            "issn": "",
+            "cover_date": "2015-05-27",
+            "venue": "Book",
+            "volume": "58",
+            "issue": "",
+            "page_range": "39-51",
+            "doi": "10.1163/9789004299009_004"
+        },
+        {
             "title": "Charting futures for sociology: Sociology and world market society",
             "eid": "2-s2.0-0040213362",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 17,
@@ -2124,7 +2617,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 15,
@@ -2138,12 +2634,65 @@
             "doi": "10.1177/089124398012004009"
         },
         {
+            "title": "Symposium: Human rights and the sociological project",
+            "eid": "2-s2.0-84970382550",
+            "authors": [
+                {
+                    "scopus_id": "57203047660",
+                    "name": "Turner B.S.",
+                    "affiliation_id": [
+                        "60018805"
+                    ]
+                },
+                {
+                    "scopus_id": "7102266948",
+                    "name": "Rowland R.",
+                    "affiliation_id": [
+                        "60018805"
+                    ]
+                },
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60024941"
+                    ]
+                },
+                {
+                    "scopus_id": "8889221700",
+                    "name": "Waters M.",
+                    "affiliation_id": [
+                        "60015356"
+                    ]
+                },
+                {
+                    "scopus_id": "6602255910",
+                    "name": "Barbalet J.M.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Journal of Sociology",
+            "issn": "14407833",
+            "cover_date": "1995-01-01",
+            "venue": "Journal",
+            "volume": "31",
+            "issue": "2",
+            "page_range": "1-44",
+            "doi": "10.1177/144078339503100201"
+        },
+        {
             "title": "The causes of educational inequality: Further observations",
             "eid": "2-s2.0-84965585095",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60020828"
+                    ]
                 }
             ],
             "citations": 15,
@@ -2157,47 +2706,15 @@
             "doi": "10.1177/144078337401000306"
         },
         {
-            "title": "Symposium: Human rights and the sociological project",
-            "eid": "2-s2.0-84970382550",
-            "authors": [
-                {
-                    "scopus_id": "57203047660",
-                    "name": "Turner B.S."
-                },
-                {
-                    "scopus_id": "7102266948",
-                    "name": "Rowland R."
-                },
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R.W."
-                },
-                {
-                    "scopus_id": "8889221700",
-                    "name": "Waters M."
-                },
-                {
-                    "scopus_id": "6602255910",
-                    "name": "Barbalet J.M."
-                }
-            ],
-            "citations": 14,
-            "publication_name": "Journal of Sociology",
-            "issn": "14407833",
-            "cover_date": "1995-01-01",
-            "venue": "Journal",
-            "volume": "31",
-            "issue": "2",
-            "page_range": "1-44",
-            "doi": "10.1177/144078339503100201"
-        },
-        {
             "title": "Developing a theory of gender as practice: Notes on Yancey Martin's feminist lecture",
             "eid": "2-s2.0-0037787886",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 14,
@@ -2216,7 +2733,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 13,
@@ -2235,7 +2755,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 13,
@@ -2249,12 +2772,39 @@
             "doi": "10.1177/0896920510377000"
         },
         {
+            "title": "Core activity: Reflexive intellectual workers and cultural crisis",
+            "eid": "2-s2.0-33645581034",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709",
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Journal of Sociology",
+            "issn": "14407833",
+            "cover_date": "2006-03-01",
+            "venue": "Journal",
+            "volume": "42",
+            "issue": "1",
+            "page_range": "5-23",
+            "doi": "10.1177/1440783306061350"
+        },
+        {
             "title": "A critique of the Althusserian approach to class",
             "eid": "2-s2.0-26644433764",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 }
             ],
             "citations": 13,
@@ -2273,7 +2823,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 12,
@@ -2292,7 +2845,11 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 12,
@@ -2306,31 +2863,15 @@
             "doi": "10.1080/1360311032000063000"
         },
         {
-            "title": "Core activity: Reflexive intellectual workers and cultural crisis",
-            "eid": "2-s2.0-33645581034",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 12,
-            "publication_name": "Journal of Sociology",
-            "issn": "14407833",
-            "cover_date": "2006-03-01",
-            "venue": "Journal",
-            "volume": "42",
-            "issue": "1",
-            "page_range": "5-23",
-            "doi": "10.1177/1440783306061350"
-        },
-        {
             "title": "Markets all around: Defending education in a neoliberal time",
             "eid": "2-s2.0-84944566864",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 11,
@@ -2349,7 +2890,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 10,
@@ -2363,12 +2907,35 @@
             "doi": "10.1080/18377122.2012.721876"
         },
         {
+            "title": "An iron man: The body and some contradictions of hegemonic masculinity",
+            "eid": "2-s2.0-84949186033",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 10,
+            "publication_name": "Sociological Perspectives on Sport: The Games Outside the Games",
+            "issn": "",
+            "cover_date": "2015-03-02",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "148-155",
+            "doi": "10.4324/9781315870854"
+        },
+        {
             "title": "Feminist Scholarship and the Public Realm in Postcolonial Australia",
             "eid": "2-s2.0-84904511770",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 10,
@@ -2382,12 +2949,47 @@
             "doi": "10.1080/08164649.2014.928187"
         },
         {
+            "title": "Mapping the intellectual labour process",
+            "eid": "2-s2.0-34248589710",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7401850364",
+                    "name": "Crawford J.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60087845"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "Journal of Sociology",
+            "issn": "14407833",
+            "cover_date": "2007-06-01",
+            "venue": "Journal",
+            "volume": "43",
+            "issue": "2",
+            "page_range": "187-205",
+            "doi": "10.1177/1440783307076895"
+        },
+        {
             "title": "The heart of the problem: South African intellectual workers, globalization and social change",
             "eid": "2-s2.0-33846952872",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 10,
@@ -2406,11 +3008,17 @@
             "authors": [
                 {
                     "scopus_id": "57207750547",
-                    "name": "Nascimento M."
+                    "name": "Nascimento M.",
+                    "affiliation_id": [
+                        "60026004"
+                    ]
                 },
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 9,
@@ -2424,23 +3032,26 @@
             "doi": "10.1590/1413-812320172212.27242016"
         },
         {
-            "title": "An iron man: The body and some contradictions of hegemonic masculinity",
-            "eid": "2-s2.0-84949186033",
+            "title": "In Praise of Sociology",
+            "eid": "2-s2.0-85027304744",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 9,
-            "publication_name": "Sociological Perspectives on Sport: The Games Outside the Games",
-            "issn": "",
-            "cover_date": "2015-03-02",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "148-155",
-            "doi": "10.4324/9781315870854"
+            "publication_name": "Canadian Review of Sociology",
+            "issn": "17556171",
+            "cover_date": "2017-08-01",
+            "venue": "Journal",
+            "volume": "54",
+            "issue": "3",
+            "page_range": "280-296",
+            "doi": "10.1111/cars.12150"
         },
         {
             "title": "Setting sail: The making of sociology in Australia, 1955\u201375",
@@ -2448,7 +3059,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 9,
@@ -2462,12 +3076,52 @@
             "doi": "10.1177/1440783314532174"
         },
         {
+            "title": "Interview with Raewyn Connell: The cultural politics of queer theory in education research",
+            "eid": "2-s2.0-84900504074",
+            "authors": [
+                {
+                    "scopus_id": "14527516500",
+                    "name": "Rasmussen M.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "55369443900",
+                    "name": "Gowlett C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "Discourse",
+            "issn": "01596306",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "35",
+            "issue": "3",
+            "page_range": "335-346",
+            "doi": "10.1080/01596306.2014.888839"
+        },
+        {
             "title": "Empowerment as change",
             "eid": "2-s2.0-77954019363",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709",
+                        "100518823"
+                    ]
                 }
             ],
             "citations": 9,
@@ -2481,66 +3135,28 @@
             "doi": "10.1057/dev.2010.6"
         },
         {
-            "title": "Mapping the intellectual labour process",
-            "eid": "2-s2.0-34248589710",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                },
-                {
-                    "scopus_id": "7401850364",
-                    "name": "Crawford J."
-                }
-            ],
-            "citations": 9,
-            "publication_name": "Journal of Sociology",
-            "issn": "14407833",
-            "cover_date": "2007-06-01",
-            "venue": "Journal",
-            "volume": "43",
-            "issue": "2",
-            "page_range": "187-205",
-            "doi": "10.1177/1440783307076895"
-        },
-        {
-            "title": "In Praise of Sociology",
-            "eid": "2-s2.0-85027304744",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 8,
-            "publication_name": "Canadian Review of Sociology",
-            "issn": "17556171",
-            "cover_date": "2017-08-01",
-            "venue": "Journal",
-            "volume": "54",
-            "issue": "3",
-            "page_range": "280-296",
-            "doi": "10.1111/cars.12150"
-        },
-        {
             "title": "Class and Secondary Schooling",
             "eid": "2-s2.0-84925920617",
             "authors": [
                 {
                     "scopus_id": "16486215300",
-                    "name": "Ashenden D.J."
+                    "name": "Ashenden D.J.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "6602135865",
-                    "name": "Dowsett G."
+                    "name": "Dowsett G.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "16487612700",
-                    "name": "Kessler S.K."
+                    "name": "Kessler S.K.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 8,
@@ -2554,39 +3170,13 @@
             "doi": "10.1080/0159630800010101"
         },
         {
-            "title": "Interview with Raewyn Connell: The cultural politics of queer theory in education research",
-            "eid": "2-s2.0-84900504074",
-            "authors": [
-                {
-                    "scopus_id": "14527516500",
-                    "name": "Rasmussen M."
-                },
-                {
-                    "scopus_id": "55369443900",
-                    "name": "Gowlett C."
-                },
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 8,
-            "publication_name": "Discourse",
-            "issn": "01596306",
-            "cover_date": "2014-01-01",
-            "venue": "Journal",
-            "volume": "35",
-            "issue": "3",
-            "page_range": "335-346",
-            "doi": "10.1080/01596306.2014.888839"
-        },
-        {
             "title": "Masculinity research and global society",
             "eid": "2-s2.0-84856761280",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 8,
@@ -2600,16 +3190,81 @@
             "doi": "10.1108/S1529-2126(2011)0000015008"
         },
         {
+            "title": "Deploying Hegemonic Masculinity: A Study of Uses of the Concept in the Journal Psychology of Men &amp; Masculinities",
+            "eid": "2-s2.0-85145823219",
+            "authors": [
+                {
+                    "scopus_id": "6507142016",
+                    "name": "Wedgwood N.",
+                    "affiliation_id": [
+                        "60010710"
+                    ]
+                },
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8257344500",
+                    "name": "Wood J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Psychology of Men and Masculinity",
+            "issn": "15249220",
+            "cover_date": "2022-12-15",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "2",
+            "page_range": "83-93",
+            "doi": "10.1037/men0000417"
+        },
+        {
+            "title": "Thoughts on social justice and universities",
+            "eid": "2-s2.0-85088729137",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Higher Education, Pedagogy and Social Justice: Politics and Practice",
+            "issn": "",
+            "cover_date": "2019-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "23-36",
+            "doi": "10.1007/978-3-030-26484-0_2"
+        },
+        {
             "title": "Scholars and Radicals: Writing and Re-thinking Class Structure in Australian History",
             "eid": "2-s2.0-84960209726",
             "authors": [
                 {
                     "scopus_id": "56893332600",
-                    "name": "Irving T."
+                    "name": "Irving T.",
+                    "affiliation_id": [
+                        "60011664"
+                    ]
                 },
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 7,
@@ -2628,7 +3283,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 7,
@@ -2642,39 +3300,15 @@
             "doi": ""
         },
         {
-            "title": "Deploying Hegemonic Masculinity: A Study of Uses of the Concept in the Journal Psychology of Men &amp; Masculinities",
-            "eid": "2-s2.0-85145823219",
-            "authors": [
-                {
-                    "scopus_id": "6507142016",
-                    "name": "Wedgwood N."
-                },
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                },
-                {
-                    "scopus_id": "8257344500",
-                    "name": "Wood J."
-                }
-            ],
-            "citations": 6,
-            "publication_name": "Psychology of Men and Masculinity",
-            "issn": "15249220",
-            "cover_date": "2022-12-15",
-            "venue": "Journal",
-            "volume": "24",
-            "issue": "2",
-            "page_range": "83-93",
-            "doi": "10.1037/men0000417"
-        },
-        {
             "title": "Making the men and the boys",
             "eid": "2-s2.0-85098701606",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 6,
@@ -2688,31 +3322,15 @@
             "doi": "10.3167/BHS.2020.130202"
         },
         {
-            "title": "Thoughts on social justice and universities",
-            "eid": "2-s2.0-85088729137",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 6,
-            "publication_name": "Higher Education, Pedagogy and Social Justice: Politics and Practice",
-            "issn": "",
-            "cover_date": "2019-01-01",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "23-36",
-            "doi": "10.1007/978-3-030-26484-0_2"
-        },
-        {
             "title": "Men, gender and the state",
             "eid": "2-s2.0-85071610483",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 6,
@@ -2731,7 +3349,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 6,
@@ -2750,7 +3371,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 6,
@@ -2769,7 +3393,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 6,
@@ -2788,7 +3415,11 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 6,
@@ -2807,7 +3438,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 5,
@@ -2826,7 +3460,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 5,
@@ -2845,7 +3482,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 }
             ],
             "citations": 5,
@@ -2864,7 +3504,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 5,
@@ -2883,7 +3526,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 5,
@@ -2902,11 +3548,17 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "7401850364",
-                    "name": "Crawford J."
+                    "name": "Crawford J.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 }
             ],
             "citations": 5,
@@ -2925,11 +3577,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "7007021897",
-                    "name": "Huggins A.K."
+                    "name": "Huggins A.K.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 5,
@@ -2943,12 +3597,37 @@
             "doi": "10.5694/j.1326-5377.1998.tb140277.x"
         },
         {
+            "title": "Contesting Northern knowledge: Akinsola Akiwowo and the worldwide struggle to change the social sciences",
+            "eid": "2-s2.0-85105168300",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Journal of Contemporary African Studies",
+            "issn": "02589001",
+            "cover_date": "2021-01-01",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "3",
+            "page_range": "340-352",
+            "doi": "10.1080/02589001.2021.1902956"
+        },
+        {
             "title": "Attitudes toward migrants among Sydney teenagers",
             "eid": "2-s2.0-84990543389",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60020828"
+                    ]
                 }
             ],
             "citations": 4,
@@ -2962,51 +3641,38 @@
             "doi": "10.1080/00050067308255639"
         },
         {
-            "title": "Contesting Northern knowledge: Akinsola Akiwowo and the worldwide struggle to change the social sciences",
-            "eid": "2-s2.0-85105168300",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 3,
-            "publication_name": "Journal of Contemporary African Studies",
-            "issn": "02589001",
-            "cover_date": "2021-01-01",
-            "venue": "Journal",
-            "volume": "39",
-            "issue": "3",
-            "page_range": "340-352",
-            "doi": "10.1080/02589001.2021.1902956"
-        },
-        {
             "title": "The men and the boys, twenty years on: Revisiting raewyn connell\u2019s pivotal text",
             "eid": "2-s2.0-85098737887",
             "authors": [
                 {
                     "scopus_id": "55626855500",
-                    "name": "Cann V."
+                    "name": "Cann V.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57221294246",
-                    "name": "Madrid S."
+                    "name": "Madrid S.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "56176615600",
-                    "name": "Ratele K."
+                    "name": "Ratele K.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "36134091700",
-                    "name": "Tarrant A."
+                    "name": "Tarrant A.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "56435188000",
-                    "name": "Ward M.R.M."
+                    "name": "Ward M.R.M.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 3,
@@ -3025,7 +3691,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 3,
@@ -3044,7 +3713,8 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 3,
@@ -3063,7 +3733,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 3,
@@ -3082,7 +3755,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 3,
@@ -3101,7 +3777,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 3,
@@ -3120,7 +3799,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 3,
@@ -3139,19 +3821,32 @@
             "authors": [
                 {
                     "scopus_id": "7404186516",
-                    "name": "White A."
+                    "name": "White A.",
+                    "affiliation_id": [
+                        "60032773"
+                    ]
                 },
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "14013496100",
-                    "name": "Griffith D.M."
+                    "name": "Griffith D.M.",
+                    "affiliation_id": [
+                        "60023927",
+                        "60023927"
+                    ]
                 },
                 {
                     "scopus_id": "57202146737",
-                    "name": "Baker P."
+                    "name": "Baker P.",
+                    "affiliation_id": [
+                        "117627886"
+                    ]
                 }
             ],
             "citations": 2,
@@ -3165,12 +3860,83 @@
             "doi": "10.22374/ijmsch.v6i1.100"
         },
         {
+            "title": "Making the difference: Schools, families and social division",
+            "eid": "2-s2.0-85091428746",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.W.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "16486215300",
+                    "name": "Ashenden D.J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "56992487000",
+                    "name": "Kessler S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6602135865",
+                    "name": "Dowsett G.W.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Making the Difference: Schools, families and social division",
+            "issn": "",
+            "cover_date": "2020-07-29",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "1-228",
+            "doi": "10.4324/9781003116400"
+        },
+        {
+            "title": "Teachers' work",
+            "eid": "2-s2.0-85090964464",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.W.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "16486215300",
+                    "name": "Ashenden D.J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "56992487000",
+                    "name": "Kessler S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6602135865",
+                    "name": "Dowsett G.W.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Teachers' Work",
+            "issn": "",
+            "cover_date": "2020-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "1-217",
+            "doi": "10.4324/9781003117667"
+        },
+        {
             "title": "Masculinities and globalization: The men and the boys",
             "eid": "2-s2.0-85070906473",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 2,
@@ -3189,7 +3955,8 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 2,
@@ -3208,7 +3975,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 2,
@@ -3227,15 +3997,20 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "58704343000",
-                    "name": "Tezina E."
+                    "name": "Tezina E.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "58761265600",
-                    "name": "Kislenko I."
+                    "name": "Kislenko I.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 1,
@@ -3249,12 +4024,35 @@
             "doi": "10.17323/1728-192X-2023-3-219-236"
         },
         {
+            "title": "Afterword",
+            "eid": "2-s2.0-85163424629",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Men, Masculinities and Disaster",
+            "issn": "",
+            "cover_date": "2016-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "234-236",
+            "doi": ""
+        },
+        {
             "title": "Truth, Power, Pedagogy: Feminist Knowledge and Education in a \u2018Post-truth\u2019 Time",
             "eid": "2-s2.0-85148633526",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "113885714"
+                    ]
                 }
             ],
             "citations": 1,
@@ -3273,7 +4071,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 1,
@@ -3292,7 +4093,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 1,
@@ -3311,27 +4115,43 @@
             "authors": [
                 {
                     "scopus_id": "56435188000",
-                    "name": "Ward M.R.M."
+                    "name": "Ward M.R.M.",
+                    "affiliation_id": [
+                        "60004572"
+                    ]
                 },
                 {
                     "scopus_id": "36134091700",
-                    "name": "Tarrant A."
+                    "name": "Tarrant A.",
+                    "affiliation_id": [
+                        "60026830"
+                    ]
                 },
                 {
                     "scopus_id": "56176615600",
-                    "name": "Ratele K."
+                    "name": "Ratele K.",
+                    "affiliation_id": [
+                        "60002397"
+                    ]
                 },
                 {
                     "scopus_id": "57221294246",
-                    "name": "Madrid S."
+                    "name": "Madrid S.",
+                    "affiliation_id": [
+                        "60029681"
+                    ]
                 },
                 {
                     "scopus_id": "55626855500",
-                    "name": "Cann V."
+                    "name": "Cann V.",
+                    "affiliation_id": [
+                        "60000112"
+                    ]
                 },
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 1,
@@ -3350,7 +4170,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 1,
@@ -3364,74 +4187,13 @@
             "doi": "10.4324/9781003115250"
         },
         {
-            "title": "Making the difference: Schools, families and social division",
-            "eid": "2-s2.0-85091428746",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R.W."
-                },
-                {
-                    "scopus_id": "16486215300",
-                    "name": "Ashenden D.J."
-                },
-                {
-                    "scopus_id": "56992487000",
-                    "name": "Kessler S."
-                },
-                {
-                    "scopus_id": "6602135865",
-                    "name": "Dowsett G.W."
-                }
-            ],
-            "citations": 1,
-            "publication_name": "Making the Difference: Schools, families and social division",
-            "issn": "",
-            "cover_date": "2020-07-29",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "1-228",
-            "doi": "10.4324/9781003116400"
-        },
-        {
-            "title": "Teachers' work",
-            "eid": "2-s2.0-85090964464",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R.W."
-                },
-                {
-                    "scopus_id": "16486215300",
-                    "name": "Ashenden D.J."
-                },
-                {
-                    "scopus_id": "56992487000",
-                    "name": "Kessler S."
-                },
-                {
-                    "scopus_id": "6602135865",
-                    "name": "Dowsett G.W."
-                }
-            ],
-            "citations": 1,
-            "publication_name": "Teachers' Work",
-            "issn": "",
-            "cover_date": "2020-01-01",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "1-217",
-            "doi": "10.4324/9781003117667"
-        },
-        {
             "title": "Des hommes de raison",
             "eid": "2-s2.0-85090700272",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 1,
@@ -3450,7 +4212,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 1,
@@ -3469,11 +4234,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57204744904",
-                    "name": "Dowsett G.W."
+                    "name": "Dowsett G.W.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 1,
@@ -3492,7 +4259,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 1,
@@ -3511,7 +4281,8 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "CONNELL R."
+                    "name": "CONNELL R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 1,
@@ -3530,7 +4301,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 }
             ],
             "citations": 1,
@@ -3544,12 +4318,87 @@
             "doi": "10.1111/j.1753-6405.1988.tb00163.x"
         },
         {
+            "title": "Social science on a world scale",
+            "eid": "2-s2.0-85192587857",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Southernising Criminology: Challenges, Horizons and Praxis",
+            "issn": "",
+            "cover_date": "2024-06-03",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "47-57",
+            "doi": ""
+        },
+        {
+            "title": "Criminological and social theory and methods, settler colonialism and the indigenous context",
+            "eid": "2-s2.0-85186846477",
+            "authors": [
+                {
+                    "scopus_id": "6506501155",
+                    "name": "Agozino B.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "56613655600",
+                    "name": "Smith L.T.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55623334200",
+                    "name": "Anthony T.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "36498259800",
+                    "name": "Blagg H.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "37074221000",
+                    "name": "Cunneen C.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "56602421300",
+                    "name": "Rowe S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Roads to Decolonisation: An Introduction to Thought from the Global South",
+            "issn": "",
+            "cover_date": "2024-04-16",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "257-280",
+            "doi": "10.4324/9781003468400-17"
+        },
+        {
             "title": "Six Revolutions and Perhaps a Funeral",
             "eid": "2-s2.0-85185137528",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 0,
@@ -3568,7 +4417,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 0,
@@ -3587,7 +4439,8 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 0,
@@ -3606,11 +4459,17 @@
             "authors": [
                 {
                     "scopus_id": "57211608446",
-                    "name": "Kislenko I."
+                    "name": "Kislenko I.",
+                    "affiliation_id": [
+                        "60010330"
+                    ]
                 },
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 0,
@@ -3629,7 +4488,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 0,
@@ -3643,12 +4505,35 @@
             "doi": "10.4324/9781003193579-3"
         },
         {
+            "title": "Foreword",
+            "eid": "2-s2.0-85176352428",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "113885714"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Palgrave Critical University Studies",
+            "issn": "26627329",
+            "cover_date": "2023-01-01",
+            "venue": "Book Series",
+            "volume": "Part F1444",
+            "issue": "",
+            "page_range": "v-viii",
+            "doi": ""
+        },
+        {
             "title": "Teaching the Boys: New Research on Masculinity and Gender Strategies for Schools",
             "eid": "2-s2.0-85174753260",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 0,
@@ -3667,7 +4552,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60020828"
+                    ]
                 }
             ],
             "citations": 0,
@@ -3686,7 +4574,8 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 0,
@@ -3700,31 +4589,13 @@
             "doi": "10.4324/9781003408031"
         },
         {
-            "title": "Afterword",
-            "eid": "2-s2.0-85163424629",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R."
-                }
-            ],
-            "citations": 0,
-            "publication_name": "Men, Masculinities and Disaster",
-            "issn": "",
-            "cover_date": "2016-01-01",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "234-236",
-            "doi": ""
-        },
-        {
             "title": "Preface",
             "eid": "2-s2.0-85143169228",
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 0,
@@ -3743,7 +4614,8 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 0,
@@ -3762,7 +4634,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 0,
@@ -3781,7 +4656,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 0,
@@ -3800,15 +4678,18 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57209802780",
-                    "name": "Stosch R."
+                    "name": "Stosch R.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57221193014",
-                    "name": "Neddermann H."
+                    "name": "Neddermann H.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 0,
@@ -3827,7 +4708,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 0,
@@ -3846,11 +4730,17 @@
             "authors": [
                 {
                     "scopus_id": "55978386300",
-                    "name": "Yan L."
+                    "name": "Yan L.",
+                    "affiliation_id": [
+                        "60011235"
+                    ]
                 },
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 0,
@@ -3869,7 +4759,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 0,
@@ -3888,7 +4781,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 0,
@@ -3907,7 +4803,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 0,
@@ -3926,7 +4825,8 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 0,
@@ -3945,15 +4845,24 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R.W."
+                    "name": "Connell R.W.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "57000811400",
-                    "name": "White V."
+                    "name": "White V.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 },
                 {
                     "scopus_id": "58406966800",
-                    "name": "Johnston K."
+                    "name": "Johnston K.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
                 }
             ],
             "citations": 0,
@@ -3972,11 +4881,13 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "56914212800",
-                    "name": "Connell W."
+                    "name": "Connell W.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 0,
@@ -3995,7 +4906,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 0,
@@ -4014,7 +4928,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 0,
@@ -4033,7 +4950,8 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 0,
@@ -4052,7 +4970,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 0,
@@ -4071,7 +4992,8 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 0,
@@ -4090,7 +5012,10 @@
             "authors": [
                 {
                     "scopus_id": "7006125981",
-                    "name": "Connell R."
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 0,
@@ -4105,18 +5030,19 @@
         }
     ],
     "affiliation": "The University of Sydney",
+    "affiliation_id": "60025709",
     "city": "Sydney",
     "country": "Australia",
-    "document_count": 183,
+    "document_count": 186,
     "subject_area": [
         {
             "@abbrev": "SOCI",
-            "@frequency": "239",
+            "@frequency": "243",
             "$": "Social Sciences (all)"
         },
         {
             "@abbrev": "ARTS",
-            "@frequency": "43",
+            "@frequency": "46",
             "$": "Arts and Humanities (all)"
         },
         {
@@ -4125,6 +5051,6 @@
             "$": "Medicine (all)"
         }
     ],
-    "date fetched": "2024-05-02 06:58:06",
+    "date fetched": "2024-06-30 09:41:38",
     "c-score": null
 }

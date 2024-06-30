@@ -8,34 +8,60 @@
             "authors": [
                 {
                     "scopus_id": "6603944414",
-                    "name": "Steel Z."
+                    "name": "Steel Z.",
+                    "affiliation_id": [
+                        "60028333",
+                        "100383046"
+                    ]
                 },
                 {
                     "scopus_id": "14020310900",
-                    "name": "Marnane C."
+                    "name": "Marnane C.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "56149205400",
-                    "name": "Iranpour C."
+                    "name": "Iranpour C.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "100383046"
+                    ]
                 },
                 {
                     "scopus_id": "55794628500",
-                    "name": "Jackson J.W."
+                    "name": "Jackson J.W.",
+                    "affiliation_id": [
+                        "60032499",
+                        "60016782"
+                    ]
                 },
                 {
                     "scopus_id": "7402495238",
-                    "name": "Patel V."
+                    "name": "Patel V.",
+                    "affiliation_id": [
+                        "60031331",
+                        "60139048",
+                        "114115494"
+                    ]
                 },
                 {
                     "scopus_id": "7006647826",
-                    "name": "Silove D."
+                    "name": "Silove D.",
+                    "affiliation_id": [
+                        "60028333",
+                        "100383046"
+                    ]
                 }
             ],
-            "citations": 1714,
+            "citations": 1758,
             "publication_name": "International Journal of Epidemiology",
             "issn": "03005771",
             "cover_date": "2014-01-01",
@@ -51,154 +77,268 @@
             "authors": [
                 {
                     "scopus_id": "57203258140",
-                    "name": "Ekelund U."
+                    "name": "Ekelund U.",
+                    "affiliation_id": [
+                        "60004030",
+                        "60031101",
+                        "60004030"
+                    ]
                 },
                 {
                     "scopus_id": "26667101500",
-                    "name": "Steene-Johannessen J."
+                    "name": "Steene-Johannessen J.",
+                    "affiliation_id": [
+                        "60004030"
+                    ]
                 },
                 {
                     "scopus_id": "55629070800",
-                    "name": "Brown W.J."
+                    "name": "Brown W.J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
                 },
                 {
                     "scopus_id": "24757871700",
-                    "name": "Fagerland M.W."
+                    "name": "Fagerland M.W.",
+                    "affiliation_id": [
+                        "60004030",
+                        "60105037"
+                    ]
                 },
                 {
                     "scopus_id": "7102307209",
-                    "name": "Owen N."
+                    "name": "Owen N.",
+                    "affiliation_id": [
+                        "60033409"
+                    ]
                 },
                 {
                     "scopus_id": "56801362600",
-                    "name": "Powell K.E."
+                    "name": "Powell K.E.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "7404437968",
-                    "name": "Lee I.M."
+                    "name": "Lee I.M.",
+                    "affiliation_id": [
+                        "60002746",
+                        "60032499"
+                    ]
                 },
                 {
                     "scopus_id": "57213161043",
-                    "name": "Ding D."
+                    "name": "Ding D.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55238485600",
-                    "name": "Heath G."
+                    "name": "Heath G.",
+                    "affiliation_id": [
+                        "60002804"
+                    ]
                 },
                 {
                     "scopus_id": "55835007400",
-                    "name": "Hallal P.C."
+                    "name": "Hallal P.C.",
+                    "affiliation_id": [
+                        "60014598"
+                    ]
                 },
                 {
                     "scopus_id": "7102530211",
-                    "name": "Kohl H.W."
+                    "name": "Kohl H.W.",
+                    "affiliation_id": [
+                        "60012516"
+                    ]
                 },
                 {
                     "scopus_id": "7103021398",
-                    "name": "Pratt M."
+                    "name": "Pratt M.",
+                    "affiliation_id": [
+                        "60000928"
+                    ]
                 },
                 {
                     "scopus_id": "56014946700",
-                    "name": "Reis R."
+                    "name": "Reis R.",
+                    "affiliation_id": [
+                        "60010261",
+                        "60020004"
+                    ]
                 },
                 {
                     "scopus_id": "7102766542",
-                    "name": "Sallis J."
+                    "name": "Sallis J.",
+                    "affiliation_id": [
+                        "60030612"
+                    ]
                 },
                 {
                     "scopus_id": "6506187985",
-                    "name": "Aadahl M."
+                    "name": "Aadahl M.",
+                    "affiliation_id": [
+                        "60030840"
+                    ]
                 },
                 {
                     "scopus_id": "7102114492",
-                    "name": "Blot W.J."
+                    "name": "Blot W.J.",
+                    "affiliation_id": [
+                        "60030769"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "56385424900",
-                    "name": "Deka A."
+                    "name": "Deka A.",
+                    "affiliation_id": [
+                        "60007161"
+                    ]
                 },
                 {
                     "scopus_id": "7102907266",
-                    "name": "Dunstan D."
+                    "name": "Dunstan D.",
+                    "affiliation_id": [
+                        "60033409"
+                    ]
                 },
                 {
                     "scopus_id": "7201864702",
-                    "name": "Ford E.S."
+                    "name": "Ford E.S.",
+                    "affiliation_id": [
+                        "60030966"
+                    ]
                 },
                 {
                     "scopus_id": "8577664900",
-                    "name": "F\u00e6rch K."
+                    "name": "F\u00e6rch K.",
+                    "affiliation_id": [
+                        "60016428"
+                    ]
                 },
                 {
                     "scopus_id": "57202880842",
-                    "name": "Inoue M."
+                    "name": "Inoue M.",
+                    "affiliation_id": [
+                        "60022755"
+                    ]
                 },
                 {
                     "scopus_id": "7005235864",
-                    "name": "Katzmarzyk P.T."
+                    "name": "Katzmarzyk P.T.",
+                    "affiliation_id": [
+                        "60021235"
+                    ]
                 },
                 {
                     "scopus_id": "57189387878",
-                    "name": "Keadle S.K."
+                    "name": "Keadle S.K.",
+                    "affiliation_id": [
+                        "60013409"
+                    ]
                 },
                 {
                     "scopus_id": "7201785720",
-                    "name": "Matthews C.E."
+                    "name": "Matthews C.E.",
+                    "affiliation_id": [
+                        "60013409"
+                    ]
                 },
                 {
                     "scopus_id": "57217727535",
-                    "name": "Martinez D."
+                    "name": "Martinez D.",
+                    "affiliation_id": [
+                        "60026796"
+                    ]
                 },
                 {
                     "scopus_id": "7403524332",
-                    "name": "Patel A.V."
+                    "name": "Patel A.V.",
+                    "affiliation_id": [
+                        "60007161"
+                    ]
                 },
                 {
                     "scopus_id": "26535015300",
-                    "name": "Pavey T."
+                    "name": "Pavey T.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
                 },
                 {
                     "scopus_id": "57198054987",
-                    "name": "Petersen C.B."
+                    "name": "Petersen C.B.",
+                    "affiliation_id": [
+                        "60020191"
+                    ]
                 },
                 {
                     "scopus_id": "15763818500",
-                    "name": "Van Der Ploeg H."
+                    "name": "Van Der Ploeg H.",
+                    "affiliation_id": [
+                        "60001997"
+                    ]
                 },
                 {
                     "scopus_id": "16837194700",
-                    "name": "Rangul V."
+                    "name": "Rangul V.",
+                    "affiliation_id": [
+                        "60021876"
+                    ]
                 },
                 {
                     "scopus_id": "55601921200",
-                    "name": "Sethi P."
+                    "name": "Sethi P.",
+                    "affiliation_id": [
+                        "60033409"
+                    ]
                 },
                 {
                     "scopus_id": "16508163800",
-                    "name": "Sund E.R."
+                    "name": "Sund E.R.",
+                    "affiliation_id": [
+                        "60021876"
+                    ]
                 },
                 {
                     "scopus_id": "37089662600",
-                    "name": "Westgate K."
+                    "name": "Westgate K.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
                 },
                 {
                     "scopus_id": "8614240700",
-                    "name": "Wijndaele K."
+                    "name": "Wijndaele K.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
                 },
                 {
                     "scopus_id": "55860964100",
-                    "name": "Yi-Park S."
+                    "name": "Yi-Park S.",
+                    "affiliation_id": [
+                        "60027443"
+                    ]
                 }
             ],
-            "citations": 1692,
+            "citations": 1720,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-09-24",
@@ -214,30 +354,49 @@
             "authors": [
                 {
                     "scopus_id": "6603944414",
-                    "name": "Steel Z."
+                    "name": "Steel Z.",
+                    "affiliation_id": [
+                        "60005506",
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "7006647826",
-                    "name": "Silove D."
+                    "name": "Silove D.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "14020310900",
-                    "name": "Marnane C."
+                    "name": "Marnane C.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "7402594156",
-                    "name": "Bryant R.A."
+                    "name": "Bryant R.A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "7004714180",
-                    "name": "Van Ommeren M."
+                    "name": "Van Ommeren M.",
+                    "affiliation_id": [
+                        "60027142"
+                    ]
                 }
             ],
-            "citations": 1488,
+            "citations": 1527,
             "publication_name": "JAMA",
             "issn": "00987484",
             "cover_date": "2009-08-05",
@@ -248,250 +407,374 @@
             "doi": "10.1001/jama.2009.1132"
         },
         {
-            "title": "Sitting time and all-cause mortality risk in 222 497 Australian adults",
-            "eid": "2-s2.0-84858986336",
-            "authors": [
-                {
-                    "scopus_id": "15763818500",
-                    "name": "Van Der Ploeg H.P."
-                },
-                {
-                    "scopus_id": "55943740200",
-                    "name": "Chey T."
-                },
-                {
-                    "scopus_id": "6506252396",
-                    "name": "Korda R.J."
-                },
-                {
-                    "scopus_id": "7004711004",
-                    "name": "Banks E."
-                },
-                {
-                    "scopus_id": "25421265100",
-                    "name": "Bauman A."
-                }
-            ],
-            "citations": 676,
-            "publication_name": "Archives of Internal Medicine",
-            "issn": "00039926",
-            "cover_date": "2012-03-26",
-            "venue": "Journal",
-            "volume": "172",
-            "issue": "6",
-            "page_range": "494-500",
-            "doi": "10.1001/archinternmed.2011.2174"
-        },
-        {
             "title": "The international prevalence study on physical activity: Results from 20 countries",
             "eid": "2-s2.0-65149085515",
             "authors": [
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "7006165716",
-                    "name": "Bull F."
+                    "name": "Bull F.",
+                    "affiliation_id": [
+                        "60000891",
+                        "60031806"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "56342514800",
-                    "name": "Craig C.L."
+                    "name": "Craig C.L.",
+                    "affiliation_id": [
+                        "102070219"
+                    ]
                 },
                 {
                     "scopus_id": "35399560800",
-                    "name": "Ainsworth B.E."
+                    "name": "Ainsworth B.E.",
+                    "affiliation_id": [
+                        "60004372"
+                    ]
                 },
                 {
                     "scopus_id": "7102766542",
-                    "name": "Sallis J.F."
+                    "name": "Sallis J.F.",
+                    "affiliation_id": [
+                        "60018926"
+                    ]
                 },
                 {
                     "scopus_id": "14521815300",
-                    "name": "Bowles H.R."
+                    "name": "Bowles H.R.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "57204338713",
-                    "name": "Hagstromer M."
-                },
-                {
-                    "scopus_id": "58415129800",
-                    "name": "Sjostrom M."
-                },
-                {
-                    "scopus_id": "7103021398",
-                    "name": "Pratt M."
-                },
-                {
-                    "scopus_id": "57611030600",
-                    "name": "D\u00edaz C.G."
-                },
-                {
-                    "scopus_id": "57207608571",
-                    "name": "Bazan N."
-                },
-                {
-                    "scopus_id": "36602848700",
-                    "name": "Kunic H."
-                },
-                {
-                    "scopus_id": "6602312812",
-                    "name": "Merom D."
-                },
-                {
-                    "scopus_id": "57213405147",
-                    "name": "Smith B."
-                },
-                {
-                    "scopus_id": "57216050218",
-                    "name": "De Bourdeaudhuij I."
-                },
-                {
-                    "scopus_id": "57226236432",
-                    "name": "Lefevre J."
-                },
-                {
-                    "scopus_id": "7201749780",
-                    "name": "Philippaerts R."
-                },
-                {
-                    "scopus_id": "56469421800",
-                    "name": "Matsudo S.M."
-                },
-                {
-                    "scopus_id": "6507544962",
-                    "name": "Matsudo V.R."
-                },
-                {
-                    "scopus_id": "6603355462",
-                    "name": "Cameron C."
-                },
-                {
-                    "scopus_id": "57229655400",
-                    "name": "Yang L."
-                },
-                {
-                    "scopus_id": "35236806200",
-                    "name": "Hua F."
-                },
-                {
-                    "scopus_id": "34770598300",
-                    "name": "G\u00f3mez L.F."
-                },
-                {
-                    "scopus_id": "24491443300",
-                    "name": "Fromel K."
-                },
-                {
-                    "scopus_id": "6603960113",
-                    "name": "Mitas J."
-                },
-                {
-                    "scopus_id": "57204454356",
-                    "name": "Macfarlane D."
-                },
-                {
-                    "scopus_id": "6602137416",
-                    "name": "Bacon-Shone J."
-                },
-                {
-                    "scopus_id": "35417788900",
-                    "name": "Reddy S.K."
-                },
-                {
-                    "scopus_id": "57226265207",
-                    "name": "Joshi P."
-                },
-                {
-                    "scopus_id": "57217111080",
-                    "name": "Goenka S."
-                },
-                {
-                    "scopus_id": "7202881766",
-                    "name": "Prabhakaran D."
-                },
-                {
-                    "scopus_id": "7006622602",
-                    "name": "Katsumura T."
-                },
-                {
-                    "scopus_id": "35240909300",
-                    "name": "Murase N."
-                },
-                {
-                    "scopus_id": "16833844200",
-                    "name": "Volbekiene V."
-                },
-                {
-                    "scopus_id": "57204717625",
-                    "name": "Baubliene R."
-                },
-                {
-                    "scopus_id": "8982215200",
-                    "name": "McLean G."
-                },
-                {
-                    "scopus_id": "8982215100",
-                    "name": "Carr H."
-                },
-                {
-                    "scopus_id": "6508026437",
-                    "name": "Tomten H."
-                },
-                {
-                    "scopus_id": "7003305873",
-                    "name": "Anderssen S.A."
-                },
-                {
-                    "scopus_id": "55984232300",
-                    "name": "Sardinha L."
-                },
-                {
-                    "scopus_id": "7005179409",
-                    "name": "Mota J."
-                },
-                {
-                    "scopus_id": "6602984446",
-                    "name": "Al-Hazzaa H.M."
-                },
-                {
-                    "scopus_id": "35596972100",
-                    "name": "Serra Majem L."
-                },
-                {
-                    "scopus_id": "7006472904",
-                    "name": "Roman B."
+                    "name": "Hagstromer M.",
+                    "affiliation_id": [
+                        "60012311",
+                        "60012311"
+                    ]
                 },
                 {
                     "scopus_id": "56742229900",
-                    "name": "Sj\u00f6str\u00f6m M."
+                    "name": "Sjostrom M.",
+                    "affiliation_id": [
+                        "60012311"
+                    ]
+                },
+                {
+                    "scopus_id": "7103021398",
+                    "name": "Pratt M.",
+                    "affiliation_id": [
+                        "60021658"
+                    ]
+                },
+                {
+                    "scopus_id": "57611030600",
+                    "name": "D\u00edaz C.G.",
+                    "affiliation_id": [
+                        "100665970"
+                    ]
+                },
+                {
+                    "scopus_id": "57207608571",
+                    "name": "Bazan N.",
+                    "affiliation_id": [
+                        "100665970"
+                    ]
+                },
+                {
+                    "scopus_id": "36602848700",
+                    "name": "Kunic H.",
+                    "affiliation_id": [
+                        "100665970"
+                    ]
+                },
+                {
+                    "scopus_id": "6602312812",
+                    "name": "Merom D.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "57213405147",
+                    "name": "Smith B.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "57216050218",
+                    "name": "De Bourdeaudhuij I.",
+                    "affiliation_id": [
+                        "60033316",
+                        "60025063"
+                    ]
+                },
+                {
+                    "scopus_id": "57226236432",
+                    "name": "Lefevre J.",
+                    "affiliation_id": [
+                        "60033316",
+                        "60025063"
+                    ]
+                },
+                {
+                    "scopus_id": "7201749780",
+                    "name": "Philippaerts R.",
+                    "affiliation_id": [
+                        "60033316",
+                        "60025063"
+                    ]
+                },
+                {
+                    "scopus_id": "56469421800",
+                    "name": "Matsudo S.M.",
+                    "affiliation_id": [
+                        "107018191"
+                    ]
+                },
+                {
+                    "scopus_id": "6507544962",
+                    "name": "Matsudo V.R.",
+                    "affiliation_id": [
+                        "107018191"
+                    ]
+                },
+                {
+                    "scopus_id": "6603355462",
+                    "name": "Cameron C.",
+                    "affiliation_id": [
+                        "102070219"
+                    ]
+                },
+                {
+                    "scopus_id": "57229655400",
+                    "name": "Yang L.",
+                    "affiliation_id": [
+                        "60009860"
+                    ]
+                },
+                {
+                    "scopus_id": "35236806200",
+                    "name": "Hua F.",
+                    "affiliation_id": [
+                        "60009860"
+                    ]
+                },
+                {
+                    "scopus_id": "34770598300",
+                    "name": "G\u00f3mez L.F.",
+                    "affiliation_id": [
+                        "101129199"
+                    ]
+                },
+                {
+                    "scopus_id": "24491443300",
+                    "name": "Fromel K.",
+                    "affiliation_id": [
+                        "60003367"
+                    ]
+                },
+                {
+                    "scopus_id": "6603960113",
+                    "name": "Mitas J.",
+                    "affiliation_id": [
+                        "60003367"
+                    ]
+                },
+                {
+                    "scopus_id": "57204454356",
+                    "name": "Macfarlane D.",
+                    "affiliation_id": [
+                        "60006541"
+                    ]
+                },
+                {
+                    "scopus_id": "6602137416",
+                    "name": "Bacon-Shone J.",
+                    "affiliation_id": [
+                        "60006541"
+                    ]
+                },
+                {
+                    "scopus_id": "35417788900",
+                    "name": "Reddy S.K.",
+                    "affiliation_id": [
+                        "60009790"
+                    ]
+                },
+                {
+                    "scopus_id": "57226265207",
+                    "name": "Joshi P.",
+                    "affiliation_id": [
+                        "60009790"
+                    ]
+                },
+                {
+                    "scopus_id": "57217111080",
+                    "name": "Goenka S.",
+                    "affiliation_id": [
+                        "60009790"
+                    ]
+                },
+                {
+                    "scopus_id": "7202881766",
+                    "name": "Prabhakaran D.",
+                    "affiliation_id": [
+                        "60009790"
+                    ]
+                },
+                {
+                    "scopus_id": "7006622602",
+                    "name": "Katsumura T.",
+                    "affiliation_id": [
+                        "60003181"
+                    ]
+                },
+                {
+                    "scopus_id": "35240909300",
+                    "name": "Murase N.",
+                    "affiliation_id": [
+                        "60003181"
+                    ]
+                },
+                {
+                    "scopus_id": "16833844200",
+                    "name": "Volbekiene V.",
+                    "affiliation_id": [
+                        "60107758"
+                    ]
+                },
+                {
+                    "scopus_id": "57204717625",
+                    "name": "Baubliene R.",
+                    "affiliation_id": [
+                        "60107758"
+                    ]
+                },
+                {
+                    "scopus_id": "8982215200",
+                    "name": "McLean G.",
+                    "affiliation_id": [
+                        "60121179"
+                    ]
+                },
+                {
+                    "scopus_id": "8982215100",
+                    "name": "Carr H.",
+                    "affiliation_id": [
+                        "60014563"
+                    ]
+                },
+                {
+                    "scopus_id": "6508026437",
+                    "name": "Tomten H.",
+                    "affiliation_id": [
+                        "100452406"
+                    ]
+                },
+                {
+                    "scopus_id": "7003305873",
+                    "name": "Anderssen S.A.",
+                    "affiliation_id": [
+                        "60004030"
+                    ]
+                },
+                {
+                    "scopus_id": "55984232300",
+                    "name": "Sardinha L.",
+                    "affiliation_id": [
+                        "60106051"
+                    ]
+                },
+                {
+                    "scopus_id": "7005179409",
+                    "name": "Mota J.",
+                    "affiliation_id": [
+                        "60007249"
+                    ]
+                },
+                {
+                    "scopus_id": "6602984446",
+                    "name": "Al-Hazzaa H.M.",
+                    "affiliation_id": [
+                        "60013183"
+                    ]
+                },
+                {
+                    "scopus_id": "35596972100",
+                    "name": "Serra Majem L.",
+                    "affiliation_id": [
+                        "60001576"
+                    ]
+                },
+                {
+                    "scopus_id": "59186854200",
+                    "name": "Roman B.",
+                    "affiliation_id": [
+                        "60001576"
+                    ]
+                },
+                {
+                    "scopus_id": "58415129800",
+                    "name": "Sj\u00f6str\u00f6m M.",
+                    "affiliation_id": [
+                        "60012311"
+                    ]
                 },
                 {
                     "scopus_id": "57204338713",
-                    "name": "Hagstromer M."
+                    "name": "Hagstromer M.",
+                    "affiliation_id": [
+                        "60012311",
+                        "60012311"
+                    ]
                 },
                 {
                     "scopus_id": "12808279500",
-                    "name": "Bergman P."
+                    "name": "Bergman P.",
+                    "affiliation_id": [
+                        "60012311"
+                    ]
                 },
                 {
                     "scopus_id": "22942453600",
-                    "name": "Yiing M.L."
+                    "name": "Yiing M.L.",
+                    "affiliation_id": [
+                        "60069716"
+                    ]
                 },
                 {
                     "scopus_id": "57204717644",
-                    "name": "Yung-Tai H."
+                    "name": "Yung-Tai H.",
+                    "affiliation_id": [
+                        "60005429"
+                    ]
                 },
                 {
                     "scopus_id": "24536957800",
-                    "name": "Hipp D."
+                    "name": "Hipp D.",
+                    "affiliation_id": [
+                        "60021658"
+                    ]
                 }
             ],
-            "citations": 676,
+            "citations": 679,
             "publication_name": "International Journal of Behavioral Nutrition and Physical Activity",
             "issn": "",
             "cover_date": "2009-03-31",
@@ -502,43 +785,120 @@
             "doi": "10.1186/1479-5868-6-21"
         },
         {
+            "title": "Sitting time and all-cause mortality risk in 222 497 Australian adults",
+            "eid": "2-s2.0-84858986336",
+            "authors": [
+                {
+                    "scopus_id": "15763818500",
+                    "name": "Van Der Ploeg H.P.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55943740200",
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "6506252396",
+                    "name": "Korda R.J.",
+                    "affiliation_id": [
+                        "60075989"
+                    ]
+                },
+                {
+                    "scopus_id": "7004711004",
+                    "name": "Banks E.",
+                    "affiliation_id": [
+                        "60138870",
+                        "60075989"
+                    ]
+                },
+                {
+                    "scopus_id": "25421265100",
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                }
+            ],
+            "citations": 678,
+            "publication_name": "Archives of Internal Medicine",
+            "issn": "00039926",
+            "cover_date": "2012-03-26",
+            "venue": "Journal",
+            "volume": "172",
+            "issue": "6",
+            "page_range": "494-500",
+            "doi": "10.1001/archinternmed.2011.2174"
+        },
+        {
             "title": "Daily sitting time and all-cause mortality: A meta-analysis",
             "eid": "2-s2.0-84893394680",
             "authors": [
                 {
                     "scopus_id": "14032757100",
-                    "name": "Chau J.Y."
+                    "name": "Chau J.Y.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "6603395728",
-                    "name": "Grunseit A.C."
+                    "name": "Grunseit A.C.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55847987800",
-                    "name": "Stamatakis E."
+                    "name": "Stamatakis E.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60022148"
+                    ]
                 },
                 {
                     "scopus_id": "55629070800",
-                    "name": "Brown W.J."
+                    "name": "Brown W.J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
                 },
                 {
                     "scopus_id": "7201785720",
-                    "name": "Matthews C.E."
+                    "name": "Matthews C.E.",
+                    "affiliation_id": [
+                        "60013409"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A.E."
+                    "name": "Bauman A.E.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "15763818500",
-                    "name": "Van Der Ploeg H.P."
+                    "name": "Van Der Ploeg H.P.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60001997"
+                    ]
                 }
             ],
-            "citations": 617,
+            "citations": 630,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2013-11-13",
@@ -554,62 +914,109 @@
             "authors": [
                 {
                     "scopus_id": "56231586500",
-                    "name": "Rees S."
+                    "name": "Rees S.",
+                    "affiliation_id": [
+                        "60082336",
+                        "120573341",
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "7006647826",
-                    "name": "Silove D."
+                    "name": "Silove D.",
+                    "affiliation_id": [
+                        "60082336",
+                        "120573341"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
                 },
                 {
                     "scopus_id": "36542329400",
-                    "name": "Ivancic L."
+                    "name": "Ivancic L.",
+                    "affiliation_id": [
+                        "60082336",
+                        "120573341"
+                    ]
                 },
                 {
                     "scopus_id": "6603944414",
-                    "name": "Steel Z."
+                    "name": "Steel Z.",
+                    "affiliation_id": [
+                        "60082336",
+                        "120573341"
+                    ]
                 },
                 {
                     "scopus_id": "54790560000",
-                    "name": "Creamer M."
+                    "name": "Creamer M.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
                 },
                 {
                     "scopus_id": "7004157315",
-                    "name": "Teesson M."
+                    "name": "Teesson M.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
                 },
                 {
                     "scopus_id": "7402594156",
-                    "name": "Bryant R."
+                    "name": "Bryant R.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "35515122000",
-                    "name": "McFarlane A.C."
+                    "name": "McFarlane A.C.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
                 },
                 {
                     "scopus_id": "7202875314",
-                    "name": "Mills K.L."
+                    "name": "Mills K.L.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
                 },
                 {
                     "scopus_id": "6701447547",
-                    "name": "Slade T."
+                    "name": "Slade T.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
                 },
                 {
                     "scopus_id": "24467456900",
-                    "name": "Carragher N."
+                    "name": "Carragher N.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
                 },
                 {
                     "scopus_id": "7402329042",
-                    "name": "O'Donnell M."
+                    "name": "O'Donnell M.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
                 },
                 {
                     "scopus_id": "7202262385",
-                    "name": "Forbes D."
+                    "name": "Forbes D.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
                 }
             ],
-            "citations": 332,
+            "citations": 337,
             "publication_name": "JAMA",
             "issn": "00987484",
             "cover_date": "2011-08-03",
@@ -625,18 +1032,27 @@
             "authors": [
                 {
                     "scopus_id": "6603432058",
-                    "name": "Okely A.D."
+                    "name": "Okely A.D.",
+                    "affiliation_id": [
+                        "60011664"
+                    ]
                 },
                 {
                     "scopus_id": "57194111308",
-                    "name": "Booth M.L."
+                    "name": "Booth M.L.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "118097715"
+                    ]
                 }
             ],
-            "citations": 305,
+            "citations": 307,
             "publication_name": "Research Quarterly for Exercise and Sport",
             "issn": "02701367",
             "cover_date": "2004-01-01",
@@ -652,38 +1068,60 @@
             "authors": [
                 {
                     "scopus_id": "7007156144",
-                    "name": "Hillman K.M."
+                    "name": "Hillman K.M.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "6603917270",
-                    "name": "Bristow P.J."
+                    "name": "Bristow P.J.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "36884099200",
-                    "name": "Daffurn K."
+                    "name": "Daffurn K.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "7003519857",
-                    "name": "Jacques T."
+                    "name": "Jacques T.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "35411798200",
-                    "name": "Norman S.L."
+                    "name": "Norman S.L.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "7203057416",
-                    "name": "Bishop G.F."
+                    "name": "Bishop G.F.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "57197685109",
-                    "name": "Simmons G."
+                    "name": "Simmons G.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 }
             ],
-            "citations": 304,
+            "citations": 306,
             "publication_name": "Internal Medicine Journal",
             "issn": "14440903",
             "cover_date": "2001-01-01",
@@ -699,30 +1137,48 @@
             "authors": [
                 {
                     "scopus_id": "26422893800",
-                    "name": "St. George A."
+                    "name": "St. George A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "57196786989",
-                    "name": "Johnston A."
+                    "name": "Johnston A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "55167923500",
-                    "name": "Farrell G."
+                    "name": "Farrell G.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "7403558157",
-                    "name": "George J."
+                    "name": "George J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 255,
+            "citations": 257,
             "publication_name": "Hepatology",
             "issn": "02709139",
             "cover_date": "2009-11-25",
@@ -738,38 +1194,62 @@
             "authors": [
                 {
                     "scopus_id": "6603917270",
-                    "name": "Bristow P.J."
+                    "name": "Bristow P.J.",
+                    "affiliation_id": [
+                        "60008014"
+                    ]
                 },
                 {
                     "scopus_id": "7007156144",
-                    "name": "Hillman K.M."
+                    "name": "Hillman K.M.",
+                    "affiliation_id": [
+                        "60008014"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60008014"
+                    ]
                 },
                 {
                     "scopus_id": "36884099200",
-                    "name": "Daffurn K."
+                    "name": "Daffurn K.",
+                    "affiliation_id": [
+                        "60008014"
+                    ]
                 },
                 {
                     "scopus_id": "7003519857",
-                    "name": "Jacques T.C."
+                    "name": "Jacques T.C.",
+                    "affiliation_id": [
+                        "60008014"
+                    ]
                 },
                 {
                     "scopus_id": "35411798200",
-                    "name": "Norman S.L."
+                    "name": "Norman S.L.",
+                    "affiliation_id": [
+                        "60008014"
+                    ]
                 },
                 {
                     "scopus_id": "7203057416",
-                    "name": "Bishop G.F."
+                    "name": "Bishop G.F.",
+                    "affiliation_id": [
+                        "60008014"
+                    ]
                 },
                 {
                     "scopus_id": "7103362551",
-                    "name": "Simmons E.G."
+                    "name": "Simmons E.G.",
+                    "affiliation_id": [
+                        "60008014"
+                    ]
                 }
             ],
-            "citations": 249,
+            "citations": 250,
             "publication_name": "Medical Journal of Australia",
             "issn": "0025729X",
             "cover_date": "2000-09-04",
@@ -785,22 +1265,34 @@
             "authors": [
                 {
                     "scopus_id": "57194111308",
-                    "name": "Booth M."
+                    "name": "Booth M.",
+                    "affiliation_id": [
+                        "60026571"
+                    ]
                 },
                 {
                     "scopus_id": "6603432058",
-                    "name": "Okely A."
+                    "name": "Okely A.",
+                    "affiliation_id": [
+                        "60011664"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60029927"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60029927"
+                    ]
                 }
             ],
-            "citations": 242,
+            "citations": 246,
             "publication_name": "British Journal of Sports Medicine",
             "issn": "03063674",
             "cover_date": "2001-08-20",
@@ -816,38 +1308,63 @@
             "authors": [
                 {
                     "scopus_id": "7007156144",
-                    "name": "Hillman K.M."
+                    "name": "Hillman K.M.",
+                    "affiliation_id": [
+                        "60005506",
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "6603917270",
-                    "name": "Bristow P.J."
+                    "name": "Bristow P.J.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60029927"
+                    ]
                 },
                 {
                     "scopus_id": "36884099200",
-                    "name": "Daffurn K."
+                    "name": "Daffurn K.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "7003519857",
-                    "name": "Jacques T."
+                    "name": "Jacques T.",
+                    "affiliation_id": [
+                        "60000260"
+                    ]
                 },
                 {
                     "scopus_id": "35411798200",
-                    "name": "Norman S.L."
+                    "name": "Norman S.L.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "7203057416",
-                    "name": "Bishop G.F."
+                    "name": "Bishop G.F.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "57197685109",
-                    "name": "Simmons G."
+                    "name": "Simmons G.",
+                    "affiliation_id": [
+                        "100332658"
+                    ]
                 }
             ],
-            "citations": 238,
+            "citations": 240,
             "publication_name": "Intensive Care Medicine",
             "issn": "03424642",
             "cover_date": "2002-12-01",
@@ -863,30 +1380,50 @@
             "authors": [
                 {
                     "scopus_id": "16241672200",
-                    "name": "Gebel K."
+                    "name": "Gebel K.",
+                    "affiliation_id": [
+                        "60019870",
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "57213161043",
-                    "name": "Ding D."
+                    "name": "Ding D.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55847987800",
-                    "name": "Stamatakis E."
+                    "name": "Stamatakis E.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "55629070800",
-                    "name": "Brown W.J."
+                    "name": "Brown W.J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A.E."
+                    "name": "Bauman A.E.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
-            "citations": 234,
+            "citations": 237,
             "publication_name": "JAMA Internal Medicine",
             "issn": "21686106",
             "cover_date": "2015-06-01",
@@ -902,31 +1439,49 @@
             "authors": [
                 {
                     "scopus_id": "57194111308",
-                    "name": "Booth M.L."
+                    "name": "Booth M.L.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60026571"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60029927"
+                    ]
                 },
                 {
                     "scopus_id": "7101653914",
-                    "name": "Wake M."
+                    "name": "Wake M.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "7102099850",
-                    "name": "Norton K."
+                    "name": "Norton K.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
                 },
                 {
                     "scopus_id": "7003707468",
-                    "name": "Hesketh K."
+                    "name": "Hesketh K.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "55885462300",
-                    "name": "Dollman J."
+                    "name": "Dollman J.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
                 },
                 {
                     "scopus_id": "55574236255",
-                    "name": "Robertson I."
+                    "name": "Robertson I.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
                 }
             ],
             "citations": 232,
@@ -945,26 +1500,41 @@
             "authors": [
                 {
                     "scopus_id": "14032757100",
-                    "name": "Chau J.Y."
+                    "name": "Chau J.Y.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "15763818500",
-                    "name": "van der Ploeg H.P."
+                    "name": "van der Ploeg H.P.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "6602312812",
-                    "name": "Merom D."
+                    "name": "Merom D.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A.E."
+                    "name": "Bauman A.E.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
-            "citations": 193,
+            "citations": 195,
             "publication_name": "Preventive Medicine",
             "issn": "00917435",
             "cover_date": "2012-03-01",
@@ -980,26 +1550,41 @@
             "authors": [
                 {
                     "scopus_id": "8549629800",
-                    "name": "Phongsavan P."
+                    "name": "Phongsavan P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "34871467900",
-                    "name": "Brooks R."
+                    "name": "Brooks R.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "7006647826",
-                    "name": "Silove D."
+                    "name": "Silove D.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 }
             ],
-            "citations": 188,
+            "citations": 189,
             "publication_name": "Social Science and Medicine",
             "issn": "02779536",
             "cover_date": "2006-11-01",
@@ -1015,22 +1600,42 @@
             "authors": [
                 {
                     "scopus_id": "57194111308",
-                    "name": "Booth M."
+                    "name": "Booth M.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60011664",
+                        "60029927"
+                    ]
                 },
                 {
                     "scopus_id": "6603432058",
-                    "name": "Okely A."
+                    "name": "Okely A.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60011664",
+                        "60029927"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60011664",
+                        "60029927"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60011664",
+                        "60029927"
+                    ]
                 }
             ],
-            "citations": 183,
+            "citations": 184,
             "publication_name": "Medicine and Science in Sports and Exercise",
             "issn": "01959131",
             "cover_date": "2002-12-01",
@@ -1046,30 +1651,39 @@
             "authors": [
                 {
                     "scopus_id": "57194111308",
-                    "name": "Booth M.L."
+                    "name": "Booth M.L.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60026571"
+                    ]
                 },
                 {
                     "scopus_id": "7101653914",
-                    "name": "Wake M."
+                    "name": "Wake M.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57195980134",
-                    "name": "Tim A."
+                    "name": "Tim A.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "7003707468",
-                    "name": "Hesketh K."
+                    "name": "Hesketh K.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "58351530500",
-                    "name": "Mathur S."
+                    "name": "Mathur S.",
+                    "affiliation_id": []
                 }
             ],
-            "citations": 161,
+            "citations": 162,
             "publication_name": "Australian and New Zealand Journal of Public Health",
             "issn": "13260200",
             "cover_date": "2001-01-01",
@@ -1085,26 +1699,41 @@
             "authors": [
                 {
                     "scopus_id": "55629070800",
-                    "name": "Brown W."
+                    "name": "Brown W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60011463"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60011463"
+                    ]
                 },
                 {
                     "scopus_id": "7005718888",
-                    "name": "Trost S."
+                    "name": "Trost S.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
                 },
                 {
                     "scopus_id": "6602389594",
-                    "name": "Mummery K."
+                    "name": "Mummery K.",
+                    "affiliation_id": [
+                        "60099247"
+                    ]
                 }
             ],
-            "citations": 153,
+            "citations": 154,
             "publication_name": "Australian and New Zealand Journal of Public Health",
             "issn": "13260200",
             "cover_date": "2004-01-01",
@@ -1120,23 +1749,38 @@
             "authors": [
                 {
                     "scopus_id": "6507645832",
-                    "name": "Allman-Farinelli M.A."
+                    "name": "Allman-Farinelli M.A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A.E."
+                    "name": "Bauman A.E.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "7201760290",
-                    "name": "Gill T."
+                    "name": "Gill T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "7401962956",
-                    "name": "James W.P.T."
+                    "name": "James W.P.T.",
+                    "affiliation_id": [
+                        "100321203"
+                    ]
                 }
             ],
             "citations": 145,
@@ -1155,38 +1799,64 @@
             "authors": [
                 {
                     "scopus_id": "6602312812",
-                    "name": "Merom D."
+                    "name": "Merom D.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "8549629800",
-                    "name": "Phongsavan P."
+                    "name": "Phongsavan P.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "7404298816",
-                    "name": "Wagner R."
+                    "name": "Wagner R.",
+                    "affiliation_id": [
+                        "60025155"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "14020310900",
-                    "name": "Marnane C."
+                    "name": "Marnane C.",
+                    "affiliation_id": [
+                        "60025155",
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "6603944414",
-                    "name": "Steel Z."
+                    "name": "Steel Z.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "7006647826",
-                    "name": "Silove D."
+                    "name": "Silove D.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
-            "citations": 120,
+            "citations": 123,
             "publication_name": "Journal of Anxiety Disorders",
             "issn": "08876185",
             "cover_date": "2008-08-01",
@@ -1202,18 +1872,27 @@
             "authors": [
                 {
                     "scopus_id": "56021033600",
-                    "name": "Siopis G."
+                    "name": "Siopis G.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "6507645832",
-                    "name": "Allman-Farinelli M."
+                    "name": "Allman-Farinelli M.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 119,
+            "citations": 121,
             "publication_name": "Journal of Human Nutrition and Dietetics",
             "issn": "09523871",
             "cover_date": "2015-02-01",
@@ -1229,18 +1908,27 @@
             "authors": [
                 {
                     "scopus_id": "36659188300",
-                    "name": "Hebden L."
+                    "name": "Hebden L.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "6507645832",
-                    "name": "Allman-Farinelli M."
+                    "name": "Allman-Farinelli M.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 107,
+            "citations": 108,
             "publication_name": "Obesity Reviews",
             "issn": "14677881",
             "cover_date": "2012-08-01",
@@ -1256,30 +1944,49 @@
             "authors": [
                 {
                     "scopus_id": "26422893800",
-                    "name": "St. George A."
+                    "name": "St. George A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "57196786989",
-                    "name": "Johnston A."
+                    "name": "Johnston A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "55167923500",
-                    "name": "Farrell G."
+                    "name": "Farrell G.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "7403558157",
-                    "name": "George J."
+                    "name": "George J.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
                 }
             ],
-            "citations": 91,
+            "citations": 92,
             "publication_name": "Journal of Gastroenterology and Hepatology (Australia)",
             "issn": "08159319",
             "cover_date": "2009-01-01",
@@ -1295,26 +2002,42 @@
             "authors": [
                 {
                     "scopus_id": "7006647826",
-                    "name": "Silove D."
+                    "name": "Silove D.",
+                    "affiliation_id": [
+                        "60005506",
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "6603944414",
-                    "name": "Steel Z."
+                    "name": "Steel Z.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "35515122000",
-                    "name": "McFarlane A."
+                    "name": "McFarlane A.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
                 }
             ],
-            "citations": 83,
+            "citations": 84,
             "publication_name": "Social Psychiatry and Psychiatric Epidemiology",
             "issn": "09337954",
             "cover_date": "2007-07-01",
@@ -1330,54 +2053,90 @@
             "authors": [
                 {
                     "scopus_id": "7006647826",
-                    "name": "Silove D."
+                    "name": "Silove D.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "6603944414",
-                    "name": "Steel Z."
+                    "name": "Steel Z.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "10538876100",
-                    "name": "Susljik I."
+                    "name": "Susljik I.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "6504593940",
-                    "name": "Frommer N."
+                    "name": "Frommer N.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "6602341793",
-                    "name": "Loneragan C."
+                    "name": "Loneragan C.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "34871467900",
-                    "name": "Brooks R."
+                    "name": "Brooks R.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "23989102200",
-                    "name": "le Touze D."
+                    "name": "le Touze D.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "23988739500",
-                    "name": "Ceollo M."
+                    "name": "Ceollo M.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "55495907900",
-                    "name": "Smith M."
+                    "name": "Smith M.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "7403257196",
-                    "name": "Harris E."
+                    "name": "Harris E.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "7402594156",
-                    "name": "Bryant R."
+                    "name": "Bryant R.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 }
             ],
-            "citations": 79,
+            "citations": 80,
             "publication_name": "American journal of disaster medicine",
             "issn": "1932149X",
             "cover_date": "2007-01-01",
@@ -1393,46 +2152,79 @@
             "authors": [
                 {
                     "scopus_id": "7006647826",
-                    "name": "Silove D."
+                    "name": "Silove D.",
+                    "affiliation_id": [
+                        "60028333",
+                        "100383046"
+                    ]
                 },
                 {
                     "scopus_id": "35475812800",
-                    "name": "Liddell B."
+                    "name": "Liddell B.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "56231586500",
-                    "name": "Rees S."
+                    "name": "Rees S.",
+                    "affiliation_id": [
+                        "60028333",
+                        "100383046"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "100383046"
+                    ]
                 },
                 {
                     "scopus_id": "23668493300",
-                    "name": "Nickerson A."
+                    "name": "Nickerson A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "51162191100",
-                    "name": "Tam N."
+                    "name": "Tam N.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "7006652011",
-                    "name": "Zwi A.B."
+                    "name": "Zwi A.B.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "34871467900",
-                    "name": "Brooks R."
+                    "name": "Brooks R.",
+                    "affiliation_id": [
+                        "100644057"
+                    ]
                 },
                 {
                     "scopus_id": "56136379700",
-                    "name": "Sila L.L."
+                    "name": "Sila L.L.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "6603944414",
-                    "name": "Steel Z."
+                    "name": "Steel Z.",
+                    "affiliation_id": [
+                        "60028333",
+                        "100383046"
+                    ]
                 }
             ],
-            "citations": 75,
+            "citations": 76,
             "publication_name": "The Lancet Global Health",
             "issn": "",
             "cover_date": "2014-01-01",
@@ -1448,30 +2240,49 @@
             "authors": [
                 {
                     "scopus_id": "6603944414",
-                    "name": "Steel Z."
+                    "name": "Steel Z.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "7006647826",
-                    "name": "Silove D."
+                    "name": "Silove D.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
-                },
-                {
-                    "scopus_id": "57198251664",
-                    "name": "Phan T."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "7102804094",
-                    "name": "Phan T."
+                    "name": "Phan T.",
+                    "affiliation_id": [
+                        "60020828"
+                    ]
+                },
+                {
+                    "scopus_id": "7102804094",
+                    "name": "Phan T.",
+                    "affiliation_id": [
+                        "60020828"
+                    ]
                 }
             ],
-            "citations": 74,
+            "citations": 75,
             "publication_name": "Acta Psychiatrica Scandinavica",
             "issn": "0001690X",
             "cover_date": "2005-04-01",
@@ -1487,26 +2298,41 @@
             "authors": [
                 {
                     "scopus_id": "14032757100",
-                    "name": "Chau J."
+                    "name": "Chau J.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "57192279209",
-                    "name": "Burks-Young S."
+                    "name": "Burks-Young S.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "56433761100",
-                    "name": "Engelen L."
+                    "name": "Engelen L.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
-            "citations": 61,
+            "citations": 62,
             "publication_name": "Australian and New Zealand Journal of Public Health",
             "issn": "13260200",
             "cover_date": "2017-12-01",
@@ -1522,30 +2348,49 @@
             "authors": [
                 {
                     "scopus_id": "12768480800",
-                    "name": "Zehle K."
+                    "name": "Zehle K.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "7501693900",
-                    "name": "Smith B.J."
+                    "name": "Smith B.J.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60019578"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "23971031800",
-                    "name": "McLean M."
+                    "name": "McLean M.",
+                    "affiliation_id": [
+                        "60004437"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A.E."
+                    "name": "Bauman A.E.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55971696100",
-                    "name": "Wah Cheung N."
+                    "name": "Wah Cheung N.",
+                    "affiliation_id": [
+                        "60004437"
+                    ]
                 }
             ],
-            "citations": 57,
+            "citations": 58,
             "publication_name": "Diabetes Educator",
             "issn": "01457217",
             "cover_date": "2008-09-01",
@@ -1561,23 +2406,38 @@
             "authors": [
                 {
                     "scopus_id": "57194111308",
-                    "name": "Booth M."
+                    "name": "Booth M.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "6603432058",
-                    "name": "Okely A."
+                    "name": "Okely A.",
+                    "affiliation_id": [
+                        "60011664"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60029927"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60029927"
+                    ]
                 },
                 {
                     "scopus_id": "6701799402",
-                    "name": "MacAskill P."
+                    "name": "MacAskill P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 57,
@@ -1596,31 +2456,52 @@
             "authors": [
                 {
                     "scopus_id": "14918893200",
-                    "name": "Hely M.A."
+                    "name": "Hely M.A.",
+                    "affiliation_id": [
+                        "60004437"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60004437"
+                    ]
                 },
                 {
                     "scopus_id": "35406865800",
-                    "name": "Wilson A."
+                    "name": "Wilson A.",
+                    "affiliation_id": [
+                        "60004437"
+                    ]
                 },
                 {
                     "scopus_id": "56433758900",
-                    "name": "Williamson P.M."
+                    "name": "Williamson P.M.",
+                    "affiliation_id": [
+                        "60006974"
+                    ]
                 },
                 {
                     "scopus_id": "36911551800",
-                    "name": "O'Sullivan D.J."
+                    "name": "O'Sullivan D.J.",
+                    "affiliation_id": [
+                        "60025702"
+                    ]
                 },
                 {
-                    "scopus_id": "6602969461",
-                    "name": "Rail D."
+                    "scopus_id": "6602969462",
+                    "name": "Rail D.",
+                    "affiliation_id": [
+                        "60025155"
+                    ]
                 },
                 {
                     "scopus_id": "57222727937",
-                    "name": "Morris J.G.L."
+                    "name": "Morris J.G.L.",
+                    "affiliation_id": [
+                        "60004437"
+                    ]
                 }
             ],
             "citations": 53,
@@ -1639,35 +2520,60 @@
             "authors": [
                 {
                     "scopus_id": "6603944414",
-                    "name": "Steel Z."
+                    "name": "Steel Z.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "7006647826",
-                    "name": "Silove D."
+                    "name": "Silove D.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "58321916100",
-                    "name": "Giao N.M."
+                    "name": "Giao N.M.",
+                    "affiliation_id": [
+                        "60071386"
+                    ]
                 },
                 {
                     "scopus_id": "57198251664",
-                    "name": "Phan T.T.B."
+                    "name": "Phan T.T.B.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "7006617175",
-                    "name": "Whelan A."
+                    "name": "Whelan A.",
+                    "affiliation_id": [
+                        "60011463"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "7402594156",
-                    "name": "Bryant R.A."
+                    "name": "Bryant R.A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 }
             ],
             "citations": 52,
@@ -1686,23 +2592,38 @@
             "authors": [
                 {
                     "scopus_id": "7406472638",
-                    "name": "Smith W."
+                    "name": "Smith W.",
+                    "affiliation_id": [
+                        "60004437"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "100330192"
+                    ]
                 },
                 {
                     "scopus_id": "17035269300",
-                    "name": "Jalaludin B."
+                    "name": "Jalaludin B.",
+                    "affiliation_id": [
+                        "100330192"
+                    ]
                 },
                 {
                     "scopus_id": "7003894602",
-                    "name": "Salkeld G."
+                    "name": "Salkeld G.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "6507836330",
-                    "name": "Capon T."
+                    "name": "Capon T.",
+                    "affiliation_id": [
+                        "100330192"
+                    ]
                 }
             ],
             "citations": 52,
@@ -1721,19 +2642,25 @@
             "authors": [
                 {
                     "scopus_id": "57188969324",
-                    "name": "Taylor R."
+                    "name": "Taylor R.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "7006560445",
-                    "name": "Webster I."
+                    "name": "Webster I.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 49,
@@ -1752,19 +2679,31 @@
             "authors": [
                 {
                     "scopus_id": "6507645832",
-                    "name": "Allman-Farinelli M.A."
+                    "name": "Allman-Farinelli M.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "6602312812",
-                    "name": "Merom D."
+                    "name": "Merom D.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A.E."
+                    "name": "Bauman A.E.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
             "citations": 47,
@@ -1783,30 +2722,51 @@
             "authors": [
                 {
                     "scopus_id": "15763818500",
-                    "name": "Van der Ploeg H.P."
+                    "name": "Van der Ploeg H.P.",
+                    "affiliation_id": [
+                        "60001997",
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "57213161043",
-                    "name": "Ding D."
+                    "name": "Ding D.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "14032757100",
-                    "name": "Chau J.Y."
+                    "name": "Chau J.Y.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55847987800",
-                    "name": "Stamatakis E."
+                    "name": "Stamatakis E.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709",
+                        "60022148"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A.E."
+                    "name": "Bauman A.E.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
-            "citations": 44,
+            "citations": 45,
             "publication_name": "Preventive Medicine",
             "issn": "00917435",
             "cover_date": "2014-12-01",
@@ -1822,31 +2782,53 @@
             "authors": [
                 {
                     "scopus_id": "14032757100",
-                    "name": "Chau J."
+                    "name": "Chau J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "7501693900",
-                    "name": "Smith B.J."
+                    "name": "Smith B.J.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60019578"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "6602312812",
-                    "name": "Merom D."
+                    "name": "Merom D.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "6602697548",
-                    "name": "Eyeson-Annan M."
+                    "name": "Eyeson-Annan M.",
+                    "affiliation_id": [
+                        "60031712"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "7006981493",
-                    "name": "Farrell L."
+                    "name": "Farrell L.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 41,
@@ -1865,19 +2847,31 @@
             "authors": [
                 {
                     "scopus_id": "6602312812",
-                    "name": "Merom D."
+                    "name": "Merom D.",
+                    "affiliation_id": [
+                        "60011463"
+                    ]
                 },
                 {
                     "scopus_id": "8549629800",
-                    "name": "Phongsavan P."
+                    "name": "Phongsavan P.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
             "citations": 41,
@@ -1896,31 +2890,52 @@
             "authors": [
                 {
                     "scopus_id": "7004867869",
-                    "name": "Comino E.J."
+                    "name": "Comino E.J.",
+                    "affiliation_id": [
+                        "60011463"
+                    ]
                 },
                 {
                     "scopus_id": "7403257196",
-                    "name": "Harris E."
+                    "name": "Harris E.",
+                    "affiliation_id": [
+                        "60011463"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60029927"
+                    ]
                 },
                 {
                     "scopus_id": "7003674397",
-                    "name": "Manicavasagar V."
+                    "name": "Manicavasagar V.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "7201351995",
-                    "name": "Wall J.P."
+                    "name": "Wall J.P.",
+                    "affiliation_id": [
+                        "60086524"
+                    ]
                 },
                 {
                     "scopus_id": "55663814900",
-                    "name": "Davies G.P."
+                    "name": "Davies G.P.",
+                    "affiliation_id": [
+                        "60011463"
+                    ]
                 },
                 {
                     "scopus_id": "35585411800",
-                    "name": "Harris M.F."
+                    "name": "Harris M.F.",
+                    "affiliation_id": [
+                        "60011463"
+                    ]
                 }
             ],
             "citations": 40,
@@ -1939,34 +2954,56 @@
             "authors": [
                 {
                     "scopus_id": "57191632086",
-                    "name": "Charlson F.J."
+                    "name": "Charlson F.J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
                 },
                 {
                     "scopus_id": "6603944414",
-                    "name": "Steel Z."
+                    "name": "Steel Z.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "55312087300",
-                    "name": "de genhardt L."
+                    "name": "de genhardt L.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60109564"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "7006647826",
-                    "name": "Silove d.r."
+                    "name": "Silove d.r.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "14020310900",
-                    "name": "Marnane C."
+                    "name": "Marnane C.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "55906494000",
-                    "name": "Whiteford H.A."
+                    "name": "Whiteford H.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
                 }
             ],
-            "citations": 37,
+            "citations": 38,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2012-07-13",
@@ -1982,27 +3019,50 @@
             "authors": [
                 {
                     "scopus_id": "17035269300",
-                    "name": "Jalaludin B.B."
+                    "name": "Jalaludin B.B.",
+                    "affiliation_id": [
+                        "60029927",
+                        "106739553",
+                        "100417322"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60029927",
+                        "106739553"
+                    ]
                 },
                 {
                     "scopus_id": "7006387476",
-                    "name": "O'Toole I B."
+                    "name": "O'Toole I B.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "7406472638",
-                    "name": "Smith W.T."
+                    "name": "Smith W.T.",
+                    "affiliation_id": [
+                        "60075989"
+                    ]
                 },
                 {
                     "scopus_id": "7006403263",
-                    "name": "Capon A.G."
+                    "name": "Capon A.G.",
+                    "affiliation_id": [
+                        "106739553"
+                    ]
                 },
                 {
                     "scopus_id": "19635485200",
-                    "name": "Leeder S.R."
+                    "name": "Leeder S.R.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60010710"
+                    ]
                 }
             ],
             "citations": 37,
@@ -2021,27 +3081,35 @@
             "authors": [
                 {
                     "scopus_id": "17035269300",
-                    "name": "Jalaludin B.B."
+                    "name": "Jalaludin B.B.",
+                    "affiliation_id": [
+                        "100417322"
+                    ]
                 },
                 {
                     "scopus_id": "55568518533",
-                    "name": "Smith M.A."
+                    "name": "Smith M.A.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "7004805373",
-                    "name": "Orr N.J."
+                    "name": "Orr N.J.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "7406472638",
-                    "name": "Smith W.T."
+                    "name": "Smith W.T.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "19635485200",
-                    "name": "Leeder S.R."
+                    "name": "Leeder S.R.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 37,
@@ -2060,31 +3128,51 @@
             "authors": [
                 {
                     "scopus_id": "6506882433",
-                    "name": "Reger-Nash B."
+                    "name": "Reger-Nash B.",
+                    "affiliation_id": [
+                        "60021143",
+                        "60021143"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60011463"
+                    ]
                 },
                 {
                     "scopus_id": "6507407485",
-                    "name": "Booth-Butterfield S."
+                    "name": "Booth-Butterfield S.",
+                    "affiliation_id": [
+                        "60021143"
+                    ]
                 },
                 {
                     "scopus_id": "7202473063",
-                    "name": "Cooper L."
+                    "name": "Cooper L.",
+                    "affiliation_id": [
+                        "60021143"
+                    ]
                 },
                 {
                     "scopus_id": "55474485500",
-                    "name": "Smith H."
+                    "name": "Smith H.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60011463"
+                    ]
                 },
                 {
                     "scopus_id": "57048948900",
-                    "name": "Simon K.J."
+                    "name": "Simon K.J.",
+                    "affiliation_id": [
+                        "60021143"
+                    ]
                 }
             ],
             "citations": 36,
@@ -2103,23 +3191,38 @@
             "authors": [
                 {
                     "scopus_id": "57213405147",
-                    "name": "Smith B.J."
+                    "name": "Smith B.J.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "8549629800",
-                    "name": "Phongsavan P."
+                    "name": "Phongsavan P.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "8971564200",
-                    "name": "Havea D."
+                    "name": "Havea D.",
+                    "affiliation_id": [
+                        "60073234"
+                    ]
                 },
                 {
                     "scopus_id": "6506246414",
-                    "name": "Halavatau V."
+                    "name": "Halavatau V.",
+                    "affiliation_id": [
+                        "60072024"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "100383046"
+                    ]
                 }
             ],
             "citations": 32,
@@ -2138,23 +3241,38 @@
             "authors": [
                 {
                     "scopus_id": "7501693900",
-                    "name": "Smith B.J."
+                    "name": "Smith B.J.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "8549629800",
-                    "name": "Phongsavan P."
+                    "name": "Phongsavan P.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A.E."
+                    "name": "Bauman A.E.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "8971564200",
-                    "name": "Havea D."
+                    "name": "Havea D.",
+                    "affiliation_id": [
+                        "60073234"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 }
             ],
             "citations": 32,
@@ -2173,23 +3291,38 @@
             "authors": [
                 {
                     "scopus_id": "57225267408",
-                    "name": "JEFFS D."
+                    "name": "JEFFS D.",
+                    "affiliation_id": [
+                        "118887428"
+                    ]
                 },
                 {
                     "scopus_id": "6603630447",
-                    "name": "NOSSAR V."
+                    "name": "NOSSAR V.",
+                    "affiliation_id": [
+                        "60029927"
+                    ]
                 },
                 {
                     "scopus_id": "57197017943",
-                    "name": "BAILEY F."
+                    "name": "BAILEY F.",
+                    "affiliation_id": [
+                        "60082306"
+                    ]
                 },
                 {
                     "scopus_id": "7406472638",
-                    "name": "SMITH W."
+                    "name": "SMITH W.",
+                    "affiliation_id": [
+                        "101686509"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "CHEY T."
+                    "name": "CHEY T.",
+                    "affiliation_id": [
+                        "101686509"
+                    ]
                 }
             ],
             "citations": 31,
@@ -2208,39 +3341,66 @@
             "authors": [
                 {
                     "scopus_id": "25229146800",
-                    "name": "Soosay I."
+                    "name": "Soosay I.",
+                    "affiliation_id": [
+                        "60005686"
+                    ]
                 },
                 {
                     "scopus_id": "7006647826",
-                    "name": "Silove D."
+                    "name": "Silove D.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "33167476000",
-                    "name": "Bateman-Steel C."
+                    "name": "Bateman-Steel C.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "6603944414",
-                    "name": "Steel Z."
+                    "name": "Steel Z.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "57204025589",
-                    "name": "Bebbington P."
+                    "name": "Bebbington P.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
                 },
                 {
                     "scopus_id": "57212581099",
-                    "name": "Jones P.B."
+                    "name": "Jones P.B.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "36542329400",
-                    "name": "Ivancic L."
+                    "name": "Ivancic L.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "14020310900",
-                    "name": "Marnane C."
+                    "name": "Marnane C.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 }
             ],
             "citations": 30,
@@ -2259,19 +3419,31 @@
             "authors": [
                 {
                     "scopus_id": "36740712400",
-                    "name": "Waters L."
+                    "name": "Waters L.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
                 },
                 {
                     "scopus_id": "26422893800",
-                    "name": "George A.S."
+                    "name": "George A.S.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
             "citations": 28,
@@ -2290,23 +3462,38 @@
             "authors": [
                 {
                     "scopus_id": "6507645832",
-                    "name": "Allman-Farinelli M.A."
+                    "name": "Allman-Farinelli M.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "6602312812",
-                    "name": "Merom D."
+                    "name": "Merom D.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "14521815300",
-                    "name": "Bowles H."
+                    "name": "Bowles H.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A.E."
+                    "name": "Bauman A.E.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
             "citations": 27,
@@ -2325,23 +3512,38 @@
             "authors": [
                 {
                     "scopus_id": "15763818500",
-                    "name": "Van der Ploeg H.P."
+                    "name": "Van der Ploeg H.P.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "6701451389",
-                    "name": "Van Poppel M.N.M."
+                    "name": "Van Poppel M.N.M.",
+                    "affiliation_id": [
+                        "60001997"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A.E."
+                    "name": "Bauman A.E.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55629070800",
-                    "name": "Brown W.J."
+                    "name": "Brown W.J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
                 }
             ],
             "citations": 24,
@@ -2360,23 +3562,38 @@
             "authors": [
                 {
                     "scopus_id": "6506882433",
-                    "name": "Reger-Nash B."
+                    "name": "Reger-Nash B.",
+                    "affiliation_id": [
+                        "60022783"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "7202473063",
-                    "name": "Cooper L."
+                    "name": "Cooper L.",
+                    "affiliation_id": [
+                        "60022783"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "57048948900",
-                    "name": "Simon K.J."
+                    "name": "Simon K.J.",
+                    "affiliation_id": [
+                        "60022783"
+                    ]
                 }
             ],
             "citations": 24,
@@ -2395,31 +3612,52 @@
             "authors": [
                 {
                     "scopus_id": "6506882433",
-                    "name": "Reger-Nash B."
+                    "name": "Reger-Nash B.",
+                    "affiliation_id": [
+                        "60021143"
+                    ]
                 },
                 {
                     "scopus_id": "14625923200",
-                    "name": "Fell P."
+                    "name": "Fell P.",
+                    "affiliation_id": [
+                        "100332652"
+                    ]
                 },
                 {
                     "scopus_id": "14626932300",
-                    "name": "Spicer D."
+                    "name": "Spicer D.",
+                    "affiliation_id": [
+                        "60028134"
+                    ]
                 },
                 {
                     "scopus_id": "55426086100",
-                    "name": "Fisher B.D."
+                    "name": "Fisher B.D.",
+                    "affiliation_id": [
+                        "60011666"
+                    ]
                 },
                 {
                     "scopus_id": "7202473063",
-                    "name": "Cooper L."
+                    "name": "Cooper L.",
+                    "affiliation_id": [
+                        "60021143"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
             "citations": 22,
@@ -2438,19 +3676,32 @@
             "authors": [
                 {
                     "scopus_id": "15520615600",
-                    "name": "Lane A."
+                    "name": "Lane A.",
+                    "affiliation_id": [
+                        "60271667"
+                    ]
                 },
                 {
                     "scopus_id": "43561607100",
-                    "name": "Murphy N."
+                    "name": "Murphy N.",
+                    "affiliation_id": [
+                        "60271667",
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
             "citations": 22,
@@ -2469,15 +3720,24 @@
             "authors": [
                 {
                     "scopus_id": "7202076665",
-                    "name": "McIntyre P.B."
+                    "name": "McIntyre P.B.",
+                    "affiliation_id": [
+                        "60004437"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60004437"
+                    ]
                 },
                 {
                     "scopus_id": "7406472638",
-                    "name": "Smith W.T."
+                    "name": "Smith W.T.",
+                    "affiliation_id": [
+                        "60004437"
+                    ]
                 }
             ],
             "citations": 21,
@@ -2496,27 +3756,48 @@
             "authors": [
                 {
                     "scopus_id": "14014389100",
-                    "name": "Joshy G."
+                    "name": "Joshy G.",
+                    "affiliation_id": [
+                        "60075989"
+                    ]
                 },
                 {
                     "scopus_id": "6506252396",
-                    "name": "Korda R.J."
+                    "name": "Korda R.J.",
+                    "affiliation_id": [
+                        "60075989",
+                        "60008950"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "15763818500",
-                    "name": "Van Der Ploeg H.P."
+                    "name": "Van Der Ploeg H.P.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60013243"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "7004711004",
-                    "name": "Banks E."
+                    "name": "Banks E.",
+                    "affiliation_id": [
+                        "60075989",
+                        "60138870"
+                    ]
                 }
             ],
             "citations": 20,
@@ -2535,19 +3816,31 @@
             "authors": [
                 {
                     "scopus_id": "14032757100",
-                    "name": "Chau J."
+                    "name": "Chau J.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "23471606400",
-                    "name": "Bonfiglioli C."
+                    "name": "Bonfiglioli C.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
             "citations": 20,
@@ -2566,31 +3859,44 @@
             "authors": [
                 {
                     "scopus_id": "6506882433",
-                    "name": "Reger-Nash B."
+                    "name": "Reger-Nash B.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "7202473063",
-                    "name": "Cooper L."
+                    "name": "Cooper L.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "57048948900",
-                    "name": "Simon K.J."
+                    "name": "Simon K.J.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "7005519894",
-                    "name": "Brann M."
+                    "name": "Brann M.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "57189945042",
-                    "name": "Leyden K.M."
+                    "name": "Leyden K.M.",
+                    "affiliation_id": [
+                        "60021143"
+                    ]
                 }
             ],
             "citations": 19,
@@ -2609,19 +3915,31 @@
             "authors": [
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A.E."
+                    "name": "Bauman A.E.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "15763818500",
-                    "name": "van der Ploeg H."
+                    "name": "van der Ploeg H.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "7004199441",
-                    "name": "Sholler G."
+                    "name": "Sholler G.",
+                    "affiliation_id": [
+                        "60026571"
+                    ]
                 }
             ],
             "citations": 19,
@@ -2640,27 +3958,46 @@
             "authors": [
                 {
                     "scopus_id": "7404445789",
-                    "name": "BELL J.C."
+                    "name": "BELL J.C.",
+                    "affiliation_id": [
+                        "101686509",
+                        "60075989"
+                    ]
                 },
                 {
                     "scopus_id": "35588400500",
-                    "name": "WHITEHEAD P."
+                    "name": "WHITEHEAD P.",
+                    "affiliation_id": [
+                        "101686509"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "CHEY T."
+                    "name": "CHEY T.",
+                    "affiliation_id": [
+                        "101686509"
+                    ]
                 },
                 {
                     "scopus_id": "7406472638",
-                    "name": "SMITH W."
+                    "name": "SMITH W.",
+                    "affiliation_id": [
+                        "101686509"
+                    ]
                 },
                 {
                     "scopus_id": "7006403263",
-                    "name": "CAPON A.G."
+                    "name": "CAPON A.G.",
+                    "affiliation_id": [
+                        "101686509"
+                    ]
                 },
                 {
                     "scopus_id": "17035269300",
-                    "name": "JALALUDIN B."
+                    "name": "JALALUDIN B.",
+                    "affiliation_id": [
+                        "101686509"
+                    ]
                 }
             ],
             "citations": 19,
@@ -2679,27 +4016,49 @@
             "authors": [
                 {
                     "scopus_id": "35475812800",
-                    "name": "Liddell B.J."
+                    "name": "Liddell B.J.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "7006647826",
-                    "name": "Silove D."
+                    "name": "Silove D.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "57198251664",
-                    "name": "Phan T.T.B."
+                    "name": "Phan T.T.B.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "58321916100",
-                    "name": "Giao N.M."
+                    "name": "Giao N.M.",
+                    "affiliation_id": [
+                        "60071386"
+                    ]
                 },
                 {
                     "scopus_id": "6603944414",
-                    "name": "Steel Z."
+                    "name": "Steel Z.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60005506"
+                    ]
                 }
             ],
             "citations": 17,
@@ -2718,19 +4077,31 @@
             "authors": [
                 {
                     "scopus_id": "57194111308",
-                    "name": "Booth M.L."
+                    "name": "Booth M.L.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "6603432058",
-                    "name": "Okely A.D."
+                    "name": "Okely A.D.",
+                    "affiliation_id": [
+                        "60011664"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60029927"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A.E."
+                    "name": "Bauman A.E.",
+                    "affiliation_id": [
+                        "60029927"
+                    ]
                 }
             ],
             "citations": 17,
@@ -2749,27 +4120,45 @@
             "authors": [
                 {
                     "scopus_id": "6602312812",
-                    "name": "Merom D."
+                    "name": "Merom D.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "14032757100",
-                    "name": "Chau J."
+                    "name": "Chau J.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "7501693900",
-                    "name": "Smith B.J."
+                    "name": "Smith B.J.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25122565800",
-                    "name": "Barr M."
+                    "name": "Barr M.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A.E."
+                    "name": "Bauman A.E.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
             "citations": 16,
@@ -2788,19 +4177,31 @@
             "authors": [
                 {
                     "scopus_id": "15520615600",
-                    "name": "Lane A."
+                    "name": "Lane A.",
+                    "affiliation_id": [
+                        "60271667"
+                    ]
                 },
                 {
                     "scopus_id": "43561607100",
-                    "name": "Murphy N."
+                    "name": "Murphy N.",
+                    "affiliation_id": [
+                        "60271667"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
             "citations": 15,
@@ -2819,38 +4220,64 @@
             "authors": [
                 {
                     "scopus_id": "56146269500",
-                    "name": "Loyen A."
+                    "name": "Loyen A.",
+                    "affiliation_id": [
+                        "60001997"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "56433761100",
-                    "name": "Engelen L."
+                    "name": "Engelen L.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "23111181000",
-                    "name": "Lakerveld J."
+                    "name": "Lakerveld J.",
+                    "affiliation_id": [
+                        "60001997"
+                    ]
                 },
                 {
                     "scopus_id": "15763818500",
-                    "name": "van der Ploeg H.P."
+                    "name": "van der Ploeg H.P.",
+                    "affiliation_id": [
+                        "60001997",
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "56255975300",
-                    "name": "Brug J."
+                    "name": "Brug J.",
+                    "affiliation_id": [
+                        "60001997",
+                        "60002483"
+                    ]
                 },
                 {
                     "scopus_id": "14032757100",
-                    "name": "Chau J.Y."
+                    "name": "Chau J.Y.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
-            "citations": 11,
+            "citations": 12,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2018-04-01",
@@ -2866,31 +4293,53 @@
             "authors": [
                 {
                     "scopus_id": "17035269300",
-                    "name": "Jalaludin B."
+                    "name": "Jalaludin B.",
+                    "affiliation_id": [
+                        "105599201",
+                        "100330192"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "105599201"
+                    ]
                 },
                 {
                     "scopus_id": "6504729592",
-                    "name": "Holmwood M."
+                    "name": "Holmwood M.",
+                    "affiliation_id": [
+                        "105599201"
+                    ]
                 },
                 {
                     "scopus_id": "6602230918",
-                    "name": "Chipps J."
+                    "name": "Chipps J.",
+                    "affiliation_id": [
+                        "117482255"
+                    ]
                 },
                 {
                     "scopus_id": "7401745851",
-                    "name": "Hanson R."
+                    "name": "Hanson R.",
+                    "affiliation_id": [
+                        "60026571"
+                    ]
                 },
                 {
                     "scopus_id": "7005952289",
-                    "name": "Corbett S."
+                    "name": "Corbett S.",
+                    "affiliation_id": [
+                        "117482255"
+                    ]
                 },
                 {
                     "scopus_id": "19635485200",
-                    "name": "Leeder S."
+                    "name": "Leeder S.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 11,
@@ -2909,35 +4358,57 @@
             "authors": [
                 {
                     "scopus_id": "7501693900",
-                    "name": "Smith B.J."
+                    "name": "Smith B.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
                 },
                 {
                     "scopus_id": "8549629800",
-                    "name": "Phongsavan P."
+                    "name": "Phongsavan P.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "8270536700",
-                    "name": "Bampton D."
+                    "name": "Bampton D.",
+                    "affiliation_id": [
+                        "105801773"
+                    ]
                 },
                 {
                     "scopus_id": "15132881800",
-                    "name": "Peacocke G."
+                    "name": "Peacocke G.",
+                    "affiliation_id": [
+                        "60006989"
+                    ]
                 },
                 {
                     "scopus_id": "24329396600",
-                    "name": "Gilmete M."
+                    "name": "Gilmete M.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "8971564200",
-                    "name": "Havea D."
+                    "name": "Havea D.",
+                    "affiliation_id": [
+                        "60073234"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A.E."
+                    "name": "Bauman A.E.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
             "citations": 10,
@@ -2956,27 +4427,45 @@
             "authors": [
                 {
                     "scopus_id": "56231586500",
-                    "name": "Rees S."
+                    "name": "Rees S.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "7006647826",
-                    "name": "Silove D."
+                    "name": "Silove D.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "6603944414",
-                    "name": "Steel Z."
+                    "name": "Steel Z.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "57198251664",
-                    "name": "Phan T."
+                    "name": "Phan T.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 }
             ],
             "citations": 9,
@@ -2995,23 +4484,38 @@
             "authors": [
                 {
                     "scopus_id": "14521815300",
-                    "name": "Bowles H.R."
+                    "name": "Bowles H.R.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "6602312812",
-                    "name": "Merom D."
+                    "name": "Merom D.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "7501693900",
-                    "name": "Smith B.J."
+                    "name": "Smith B.J.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
             "citations": 9,
@@ -3030,27 +4534,45 @@
             "authors": [
                 {
                     "scopus_id": "8549629800",
-                    "name": "Phongsavan P."
+                    "name": "Phongsavan P.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "7501693900",
-                    "name": "Smith B.J."
+                    "name": "Smith B.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "24329396600",
-                    "name": "Gilmete M."
+                    "name": "Gilmete M.",
+                    "affiliation_id": [
+                        "121262517"
+                    ]
                 },
                 {
                     "scopus_id": "8971564200",
-                    "name": "Havea D."
+                    "name": "Havea D.",
+                    "affiliation_id": [
+                        "60073234"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A.E."
+                    "name": "Bauman A.E.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
             "citations": 8,
@@ -3069,19 +4591,31 @@
             "authors": [
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "100364013"
+                    ]
                 },
                 {
                     "scopus_id": "17035269300",
-                    "name": "Jalaludin B."
+                    "name": "Jalaludin B.",
+                    "affiliation_id": [
+                        "122326736"
+                    ]
                 },
                 {
                     "scopus_id": "7401745851",
-                    "name": "Hanson R."
+                    "name": "Hanson R.",
+                    "affiliation_id": [
+                        "60026571"
+                    ]
                 },
                 {
                     "scopus_id": "19635485200",
-                    "name": "Leeder S."
+                    "name": "Leeder S.",
+                    "affiliation_id": [
+                        "100355345"
+                    ]
                 }
             ],
             "citations": 8,
@@ -3100,31 +4634,53 @@
             "authors": [
                 {
                     "scopus_id": "8549629800",
-                    "name": "Phongsavan P."
+                    "name": "Phongsavan P.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "6602312812",
-                    "name": "Merom D."
+                    "name": "Merom D.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "7404298816",
-                    "name": "Wagner R."
+                    "name": "Wagner R.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "24559517100",
-                    "name": "von Hofe B."
+                    "name": "von Hofe B.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "7006647826",
-                    "name": "Silove D."
+                    "name": "Silove D.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
             "citations": 7,
@@ -3143,23 +4699,39 @@
             "authors": [
                 {
                     "scopus_id": "55557498400",
-                    "name": "Cook A.S."
+                    "name": "Cook A.S.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "36678086200",
-                    "name": "O'Leary F."
+                    "name": "O'Leary F.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "6507645832",
-                    "name": "Allman-Farinelli M."
+                    "name": "Allman-Farinelli M.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 }
             ],
             "citations": 6,
@@ -3178,27 +4750,45 @@
             "authors": [
                 {
                     "scopus_id": "7004867869",
-                    "name": "Comino E.J."
+                    "name": "Comino E.J.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "35585411800",
-                    "name": "Harris M.F."
+                    "name": "Harris M.F.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "7403257196",
-                    "name": "Harris E."
+                    "name": "Harris E.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "55663814900",
-                    "name": "Powell Davies G."
+                    "name": "Powell Davies G.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 },
                 {
                     "scopus_id": "7004077654",
-                    "name": "Lillioja S."
+                    "name": "Lillioja S.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
                 }
             ],
             "citations": 5,
@@ -3217,31 +4807,52 @@
             "authors": [
                 {
                     "scopus_id": "7007163510",
-                    "name": "Findlay M."
+                    "name": "Findlay M.",
+                    "affiliation_id": [
+                        "60018150"
+                    ]
                 },
                 {
                     "scopus_id": "7004304714",
-                    "name": "Simes R.J."
+                    "name": "Simes R.J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "7202526087",
-                    "name": "Cox K."
+                    "name": "Cox K.",
+                    "affiliation_id": [
+                        "60018150"
+                    ]
                 },
                 {
                     "scopus_id": "7003624852",
-                    "name": "Carmichael K."
+                    "name": "Carmichael K.",
+                    "affiliation_id": [
+                        "60018150"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
                 },
                 {
                     "scopus_id": "35870443600",
-                    "name": "McNeil E."
+                    "name": "McNeil E.",
+                    "affiliation_id": [
+                        "60018150"
+                    ]
                 },
                 {
                     "scopus_id": "57218889327",
-                    "name": "Raghavan D."
+                    "name": "Raghavan D.",
+                    "affiliation_id": [
+                        "60018150"
+                    ]
                 }
             ],
             "citations": 5,
@@ -3260,23 +4871,38 @@
             "authors": [
                 {
                     "scopus_id": "7404402843",
-                    "name": "Roberts C."
+                    "name": "Roberts C.",
+                    "affiliation_id": [
+                        "123077434"
+                    ]
                 },
                 {
                     "scopus_id": "57204335627",
-                    "name": "Algert C."
+                    "name": "Algert C.",
+                    "affiliation_id": [
+                        "123077434"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "123077434"
+                    ]
                 },
                 {
                     "scopus_id": "7006403263",
-                    "name": "Capon A."
+                    "name": "Capon A.",
+                    "affiliation_id": [
+                        "123077434"
+                    ]
                 },
                 {
                     "scopus_id": "57197205623",
-                    "name": "Gray E."
+                    "name": "Gray E.",
+                    "affiliation_id": [
+                        "123077434"
+                    ]
                 }
             ],
             "citations": 5,
@@ -3295,23 +4921,38 @@
             "authors": [
                 {
                     "scopus_id": "26422893800",
-                    "name": "St. George A."
+                    "name": "St. George A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "14032757100",
-                    "name": "Chau J."
+                    "name": "Chau J.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "57203732429",
-                    "name": "King L."
+                    "name": "King L.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
             "citations": 2,
@@ -3330,15 +4971,25 @@
             "authors": [
                 {
                     "scopus_id": "7201723171",
-                    "name": "Sullivan E.A."
+                    "name": "Sullivan E.A.",
+                    "affiliation_id": [
+                        "60029927",
+                        "60001801"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60029927"
+                    ]
                 },
                 {
                     "scopus_id": "6603630447",
-                    "name": "Nossar V."
+                    "name": "Nossar V.",
+                    "affiliation_id": [
+                        "60029927"
+                    ]
                 }
             ],
             "citations": 1,
@@ -3357,23 +5008,38 @@
             "authors": [
                 {
                     "scopus_id": "14032757100",
-                    "name": "Chau J."
+                    "name": "Chau J.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "57192279209",
-                    "name": "Burks-Young S."
+                    "name": "Burks-Young S.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "56433761100",
-                    "name": "Engelen L."
+                    "name": "Engelen L.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
                 }
             ],
             "citations": 0,
@@ -3392,15 +5058,24 @@
             "authors": [
                 {
                     "scopus_id": "57196513645",
-                    "name": "Francis J."
+                    "name": "Francis J.",
+                    "affiliation_id": [
+                        "60029927"
+                    ]
                 },
                 {
                     "scopus_id": "25421265100",
-                    "name": "Bauman A."
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60029927"
+                    ]
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": [
+                        "60029927"
+                    ]
                 }
             ],
             "citations": 0,
@@ -3419,15 +5094,18 @@
             "authors": [
                 {
                     "scopus_id": "7201723171",
-                    "name": "Sullivan E."
+                    "name": "Sullivan E.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "55943740200",
-                    "name": "Chey T."
+                    "name": "Chey T.",
+                    "affiliation_id": []
                 },
                 {
                     "scopus_id": "6603630447",
-                    "name": "Nossar V."
+                    "name": "Nossar V.",
+                    "affiliation_id": []
                 }
             ],
             "citations": 0,
@@ -3442,6 +5120,7 @@
         }
     ],
     "affiliation": "The University of Sydney School of Public Health",
+    "affiliation_id": "60089710",
     "city": "Sydney",
     "country": "Australia",
     "document_count": 82,
@@ -3462,6 +5141,6 @@
             "$": "Agricultural and Biological Sciences (all)"
         }
     ],
-    "date fetched": "2024-05-02 07:03:12",
+    "date fetched": "2024-06-30 09:45:56",
     "c-score": null
 }

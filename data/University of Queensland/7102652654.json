@@ -1,0 +1,3733 @@
+{
+    "scopus_id": "7102652654",
+    "name": "Lovell, C. A.Knox",
+    "publications": [
+        {
+            "title": "Formulation and estimation of stochastic frontier production function models",
+            "eid": "2-s2.0-49449120922",
+            "authors": [
+                {
+                    "scopus_id": "24396300000",
+                    "name": "Aigner D.",
+                    "affiliation_id": [
+                        "60032179",
+                        "60029311"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                },
+                {
+                    "scopus_id": "7403630559",
+                    "name": "Schmidt P.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                }
+            ],
+            "citations": 5944,
+            "publication_name": "Journal of Econometrics",
+            "issn": "03044076",
+            "cover_date": "1977-01-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "1",
+            "page_range": "21-37",
+            "doi": "10.1016/0304-4076(77)90052-5"
+        },
+        {
+            "title": "On the estimation of technical inefficiency in the stochastic frontier production function model",
+            "eid": "2-s2.0-49049139741",
+            "authors": [
+                {
+                    "scopus_id": "24522153800",
+                    "name": "Jondrow J.",
+                    "affiliation_id": [
+                        "112460471"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                },
+                {
+                    "scopus_id": "24522666600",
+                    "name": "Materov I.",
+                    "affiliation_id": [
+                        "60026637"
+                    ]
+                },
+                {
+                    "scopus_id": "7403630559",
+                    "name": "Schmidt P.",
+                    "affiliation_id": [
+                        "60031707"
+                    ]
+                }
+            ],
+            "citations": 2035,
+            "publication_name": "Journal of Econometrics",
+            "issn": "03044076",
+            "cover_date": "1982-01-01",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "2-3",
+            "page_range": "233-238",
+            "doi": "10.1016/0304-4076(82)90004-5"
+        },
+        {
+            "title": "'Multilateral productivity comparisons when some outputs are undesirable: A nonparametric approach'",
+            "eid": "2-s2.0-84976481267",
+            "authors": [
+                {
+                    "scopus_id": "7006089469",
+                    "name": "F\u00e4re R.",
+                    "affiliation_id": [
+                        "60013402"
+                    ]
+                },
+                {
+                    "scopus_id": "7006900058",
+                    "name": "Grosskopf S.",
+                    "affiliation_id": [
+                        "60013402"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57909792400",
+                    "name": "Pasurka C.",
+                    "affiliation_id": [
+                        "60021439"
+                    ]
+                }
+            ],
+            "citations": 1478,
+            "publication_name": "Review of Economics and Statistics",
+            "issn": "00346535",
+            "cover_date": "1989-01-01",
+            "venue": "Journal",
+            "volume": "71",
+            "issue": "1",
+            "page_range": "90-98",
+            "doi": "10.2307/1928055"
+        },
+        {
+            "title": "Measuring the technical efficiency of production",
+            "eid": "2-s2.0-0000096392",
+            "authors": [
+                {
+                    "scopus_id": "7006089469",
+                    "name": "F\u00e4re R.",
+                    "affiliation_id": [
+                        "60029472"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                }
+            ],
+            "citations": 757,
+            "publication_name": "Journal of Economic Theory",
+            "issn": "00220531",
+            "cover_date": "1978-01-01",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "1",
+            "page_range": "150-162",
+            "doi": "10.1016/0022-0531(78)90060-1"
+        },
+        {
+            "title": "Accounting for environmental effects and statistical noise in Data Envelopment Analysis",
+            "eid": "2-s2.0-0036112024",
+            "authors": [
+                {
+                    "scopus_id": "7006447085",
+                    "name": "Fried H.O.",
+                    "affiliation_id": [
+                        "60021001"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "7401845206",
+                    "name": "Schmidt S.S.",
+                    "affiliation_id": [
+                        "60021001"
+                    ]
+                },
+                {
+                    "scopus_id": "6602970278",
+                    "name": "Yaisawarng S.",
+                    "affiliation_id": [
+                        "60021001"
+                    ]
+                }
+            ],
+            "citations": 628,
+            "publication_name": "Journal of Productivity Analysis",
+            "issn": "0895562X",
+            "cover_date": "2002-12-01",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "1-2",
+            "page_range": "157-174",
+            "doi": "10.1023/A:1013548723393"
+        },
+        {
+            "title": "Measuring cost efficiency in banking. Econometric and linear programming evidence",
+            "eid": "2-s2.0-44949289422",
+            "authors": [
+                {
+                    "scopus_id": "7005858831",
+                    "name": "Ferrier G.",
+                    "affiliation_id": [
+                        "60017536"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                }
+            ],
+            "citations": 604,
+            "publication_name": "Journal of Econometrics",
+            "issn": "03044076",
+            "cover_date": "1990-01-01",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "1-2",
+            "page_range": "229-245",
+            "doi": "10.1016/0304-4076(90)90057-Z"
+        },
+        {
+            "title": "A global Malmquist productivity index",
+            "eid": "2-s2.0-20444452523",
+            "authors": [
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60029767"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 550,
+            "publication_name": "Economics Letters",
+            "issn": "01651765",
+            "cover_date": "2005-08-01",
+            "venue": "Journal",
+            "volume": "88",
+            "issue": "2",
+            "page_range": "266-271",
+            "doi": "10.1016/j.econlet.2005.02.013"
+        },
+        {
+            "title": "The Measurement of Productive Efficiency and Productivity Change",
+            "eid": "2-s2.0-84920083569",
+            "authors": [
+                {
+                    "scopus_id": "7006447085",
+                    "name": "Fried H.O.",
+                    "affiliation_id": [
+                        "60021001"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "7401845206",
+                    "name": "Schmidt S.S.",
+                    "affiliation_id": [
+                        "60021001"
+                    ]
+                }
+            ],
+            "citations": 505,
+            "publication_name": "The Measurement of Productive Efficiency and Productivity Change",
+            "issn": "",
+            "cover_date": "2008-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "1-641",
+            "doi": "10.1093/acprof:oso/9780195183528.001.0001"
+        },
+        {
+            "title": "A survey of frontier production functions and of their relationship to efficiency measurement",
+            "eid": "2-s2.0-0002073917",
+            "authors": [
+                {
+                    "scopus_id": "6603634737",
+                    "name": "F\u00f8rsund F.",
+                    "affiliation_id": [
+                        "60010348"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                },
+                {
+                    "scopus_id": "7403630559",
+                    "name": "Schmidt P.",
+                    "affiliation_id": [
+                        "60031707"
+                    ]
+                }
+            ],
+            "citations": 489,
+            "publication_name": "Journal of Econometrics",
+            "issn": "03044076",
+            "cover_date": "1980-01-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "1",
+            "page_range": "5-25",
+            "doi": "10.1016/0304-4076(80)90040-8"
+        },
+        {
+            "title": "Environmental efficiency with multiple environmentally detrimental variables; estimated with SFA and DEA",
+            "eid": "2-s2.0-0342321971",
+            "authors": [
+                {
+                    "scopus_id": "7004164389",
+                    "name": "Reinhard S.",
+                    "affiliation_id": [
+                        "60004156"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.",
+                    "affiliation_id": [
+                        "60029747"
+                    ]
+                },
+                {
+                    "scopus_id": "6602626805",
+                    "name": "Thijssen G.",
+                    "affiliation_id": [
+                        "60004156"
+                    ]
+                }
+            ],
+            "citations": 479,
+            "publication_name": "European Journal of Operational Research",
+            "issn": "03772217",
+            "cover_date": "2000-03-01",
+            "venue": "Journal",
+            "volume": "121",
+            "issue": "2",
+            "page_range": "287-303",
+            "doi": "10.1016/S0377-2217(99)00218-0"
+        },
+        {
+            "title": "The impact of liberalization on the productive efficiency of Indian commercial banks",
+            "eid": "2-s2.0-0001328863",
+            "authors": [
+                {
+                    "scopus_id": "7402672365",
+                    "name": "Bhattacharyya A.",
+                    "affiliation_id": [
+                        "60014300"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "7003951939",
+                    "name": "Sahay P.",
+                    "affiliation_id": [
+                        "60075726"
+                    ]
+                }
+            ],
+            "citations": 431,
+            "publication_name": "European Journal of Operational Research",
+            "issn": "03772217",
+            "cover_date": "1997-04-16",
+            "venue": "Journal",
+            "volume": "98",
+            "issue": "2",
+            "page_range": "332-345",
+            "doi": "10.1016/S0377-2217(96)00351-7"
+        },
+        {
+            "title": "Measuring macroeconomic performance in the OECD: A comparison of European and non-European countries",
+            "eid": "2-s2.0-0029513611",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60010844"
+                    ]
+                },
+                {
+                    "scopus_id": "8699371800",
+                    "name": "Turner J.A.",
+                    "affiliation_id": [
+                        "60075726"
+                    ]
+                }
+            ],
+            "citations": 348,
+            "publication_name": "European Journal of Operational Research",
+            "issn": "03772217",
+            "cover_date": "1995-12-21",
+            "venue": "Journal",
+            "volume": "87",
+            "issue": "3",
+            "page_range": "507-518",
+            "doi": "10.1016/0377-2217(95)00226-X"
+        },
+        {
+            "title": "Econometric estimation of technical and environmental efficiency: An application to Dutch dairy farms",
+            "eid": "2-s2.0-0032784640",
+            "authors": [
+                {
+                    "scopus_id": "7004164389",
+                    "name": "Reinhard S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "6602626805",
+                    "name": "Thijssen G.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 344,
+            "publication_name": "American Journal of Agricultural Economics",
+            "issn": "00029092",
+            "cover_date": "1999-01-01",
+            "venue": "Journal",
+            "volume": "81",
+            "issue": "1",
+            "page_range": "44-60",
+            "doi": "10.2307/1244449"
+        },
+        {
+            "title": "Estimating technical and allocative inefficiency relative to stochastic production and cost frontiers",
+            "eid": "2-s2.0-49249145343",
+            "authors": [
+                {
+                    "scopus_id": "7403630559",
+                    "name": "Schmidt P.",
+                    "affiliation_id": [
+                        "60031707"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                }
+            ],
+            "citations": 292,
+            "publication_name": "Journal of Econometrics",
+            "issn": "03044076",
+            "cover_date": "1979-01-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "3",
+            "page_range": "343-366",
+            "doi": "10.1016/0304-4076(79)90078-2"
+        },
+        {
+            "title": "Chance\u2010constrained data envelopment analysis",
+            "eid": "2-s2.0-84986870222",
+            "authors": [
+                {
+                    "scopus_id": "7006755440",
+                    "name": "Land K.",
+                    "affiliation_id": [
+                        "60008724"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                },
+                {
+                    "scopus_id": "6701640610",
+                    "name": "Thore S.",
+                    "affiliation_id": [
+                        "60013372"
+                    ]
+                }
+            ],
+            "citations": 280,
+            "publication_name": "Managerial and Decision Economics",
+            "issn": "01436570",
+            "cover_date": "1993-01-01",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "6",
+            "page_range": "541-554",
+            "doi": "10.1002/mde.4090140607"
+        },
+        {
+            "title": "Units invariant and translation invariant DEA models",
+            "eid": "2-s2.0-58149210990",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60010844"
+                    ]
+                }
+            ],
+            "citations": 268,
+            "publication_name": "Operations Research Letters",
+            "issn": "01676377",
+            "cover_date": "1995-01-01",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "3",
+            "page_range": "147-151",
+            "doi": "10.1016/0167-6377(95)00044-5"
+        },
+        {
+            "title": "A note on the Malmquist productivity index",
+            "eid": "2-s2.0-0037894548",
+            "authors": [
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 268,
+            "publication_name": "Economics Letters",
+            "issn": "01651765",
+            "cover_date": "1995-01-01",
+            "venue": "Journal",
+            "volume": "47",
+            "issue": "2",
+            "page_range": "169-175",
+            "doi": "10.1016/0165-1765(94)00497-P"
+        },
+        {
+            "title": "Radial DEA models without inputs or without outputs",
+            "eid": "2-s2.0-0345103306",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60029767"
+                    ]
+                }
+            ],
+            "citations": 242,
+            "publication_name": "European Journal of Operational Research",
+            "issn": "03772217",
+            "cover_date": "1999-10-01",
+            "venue": "Journal",
+            "volume": "118",
+            "issue": "1",
+            "page_range": "46-51",
+            "doi": "10.1016/S0377-2217(98)00338-5"
+        },
+        {
+            "title": "Deregulation and productivity decline: The case of Spanish savings banks",
+            "eid": "2-s2.0-0030446952",
+            "authors": [
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": [
+                        "60023020",
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60029747"
+                    ]
+                }
+            ],
+            "citations": 214,
+            "publication_name": "European Economic Review",
+            "issn": "00142921",
+            "cover_date": "1996-01-01",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "6",
+            "page_range": "1281-1303",
+            "doi": "10.1016/0014-2921(95)00024-0"
+        },
+        {
+            "title": "The decomposition of Malmquist productivity indexes",
+            "eid": "2-s2.0-3242658222",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 206,
+            "publication_name": "Journal of Productivity Analysis",
+            "issn": "0895562X",
+            "cover_date": "2003-11-01",
+            "venue": "Journal",
+            "volume": "20",
+            "issue": "3",
+            "page_range": "437-458",
+            "doi": "10.1023/A:1027312102834"
+        },
+        {
+            "title": "The impact of financial liberalization on the performance of Thai banks",
+            "eid": "2-s2.0-0001591613",
+            "authors": [
+                {
+                    "scopus_id": "6602256387",
+                    "name": "Leightner J.E.",
+                    "affiliation_id": [
+                        "60014801"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 192,
+            "publication_name": "Journal of Economics and Business",
+            "issn": "00129933",
+            "cover_date": "1998-01-01",
+            "venue": "Journal",
+            "volume": "50",
+            "issue": "2",
+            "page_range": "115-131",
+            "doi": "10.1016/s0148-6195(97)00073-8"
+        },
+        {
+            "title": "Evaluating the performance of US credit unions",
+            "eid": "2-s2.0-38249001363",
+            "authors": [
+                {
+                    "scopus_id": "7006447085",
+                    "name": "Fried H.",
+                    "affiliation_id": [
+                        "60021001"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                },
+                {
+                    "scopus_id": "6505888939",
+                    "name": "Eeckaut P.",
+                    "affiliation_id": [
+                        "60000874"
+                    ]
+                }
+            ],
+            "citations": 176,
+            "publication_name": "Journal of Banking and Finance",
+            "issn": "03784266",
+            "cover_date": "1993-01-01",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "2-3",
+            "page_range": "251-265",
+            "doi": "10.1016/0378-4266(93)90031-8"
+        },
+        {
+            "title": "Biased technical change and the Malmquist productivity index",
+            "eid": "2-s2.0-0031440973",
+            "authors": [
+                {
+                    "scopus_id": "7006089469",
+                    "name": "F\u00e4re R.",
+                    "affiliation_id": [
+                        "60029472"
+                    ]
+                },
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "7006900058",
+                    "name": "Grosskopf S.",
+                    "affiliation_id": [
+                        "60029472"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60029747"
+                    ]
+                }
+            ],
+            "citations": 165,
+            "publication_name": "Scandinavian Journal of Economics",
+            "issn": "03470520",
+            "cover_date": "1997-01-01",
+            "venue": "Journal",
+            "volume": "99",
+            "issue": "1",
+            "page_range": "119-127",
+            "doi": "10.1111/1467-9442.00051"
+        },
+        {
+            "title": "Efficiency and Productivity",
+            "eid": "2-s2.0-84920099212",
+            "authors": [
+                {
+                    "scopus_id": "7006447085",
+                    "name": "Fried H.O.",
+                    "affiliation_id": [
+                        "60021001"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "7401845206",
+                    "name": "Schmidt Shelton S.",
+                    "affiliation_id": [
+                        "60021001"
+                    ]
+                }
+            ],
+            "citations": 145,
+            "publication_name": "The Measurement of Productive Efficiency and Productivity Change",
+            "issn": "",
+            "cover_date": "2008-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1093/acprof:oso/9780195183528.003.0001"
+        },
+        {
+            "title": "The sources of productivity change in Spanish banking",
+            "eid": "2-s2.0-0000210316",
+            "authors": [
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 136,
+            "publication_name": "European Journal of Operational Research",
+            "issn": "03772217",
+            "cover_date": "1997-04-16",
+            "venue": "Journal",
+            "volume": "98",
+            "issue": "2",
+            "page_range": "364-380",
+            "doi": "10.1016/S0377-2217(96)00353-0"
+        },
+        {
+            "title": "Equivalent standard DEA models to provide super-efficiency scores",
+            "eid": "2-s2.0-0037287946",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "55663299800",
+                    "name": "Rouse A.P.B.",
+                    "affiliation_id": [
+                        "60005686"
+                    ]
+                }
+            ],
+            "citations": 132,
+            "publication_name": "Journal of the Operational Research Society",
+            "issn": "01605682",
+            "cover_date": "2003-01-01",
+            "venue": "Journal",
+            "volume": "54",
+            "issue": "1",
+            "page_range": "101-108",
+            "doi": "10.1057/palgrave.jors.2601483"
+        },
+        {
+            "title": "Profits and productivity",
+            "eid": "2-s2.0-0033362989",
+            "authors": [
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 128,
+            "publication_name": "Management Science",
+            "issn": "00251909",
+            "cover_date": "1999-01-01",
+            "venue": "Journal",
+            "volume": "45",
+            "issue": "9",
+            "page_range": "1177-1193",
+            "doi": "10.1287/mnsc.45.9.1177"
+        },
+        {
+            "title": "Environmental efficiency measurement with translog distance functions: A parametric approach",
+            "eid": "2-s2.0-65649103730",
+            "authors": [
+                {
+                    "scopus_id": "36929467400",
+                    "name": "Cuesta R.A.",
+                    "affiliation_id": [
+                        "60006793"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "56110610800",
+                    "name": "Zof\u00edo J.L.",
+                    "affiliation_id": [
+                        "60026796"
+                    ]
+                }
+            ],
+            "citations": 114,
+            "publication_name": "Ecological Economics",
+            "issn": "09218009",
+            "cover_date": "2009-06-15",
+            "venue": "Journal",
+            "volume": "68",
+            "issue": "8-9",
+            "page_range": "2232-2242",
+            "doi": "10.1016/j.ecolecon.2009.02.001"
+        },
+        {
+            "title": "The biennial Malmquist productivity change index",
+            "eid": "2-s2.0-78649905188",
+            "authors": [
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60029767"
+                    ]
+                },
+                {
+                    "scopus_id": "14044507400",
+                    "name": "Asmild M.",
+                    "affiliation_id": [
+                        "60115484"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 111,
+            "publication_name": "Socio-Economic Planning Sciences",
+            "issn": "00380121",
+            "cover_date": "2011-03-01",
+            "venue": "Journal",
+            "volume": "45",
+            "issue": "1",
+            "page_range": "10-15",
+            "doi": "10.1016/j.seps.2010.09.001"
+        },
+        {
+            "title": "The effects of deregulation on the performance of financial institutions: The case of Spanish savings banks",
+            "eid": "2-s2.0-0035626529",
+            "authors": [
+                {
+                    "scopus_id": "7004653533",
+                    "name": "Kumbhakar S.C.",
+                    "affiliation_id": [
+                        "60013372"
+                    ]
+                },
+                {
+                    "scopus_id": "6602347796",
+                    "name": "Lozano-Vivas A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "7003267147",
+                    "name": "Hasan I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 108,
+            "publication_name": "Journal of Money, Credit and Banking",
+            "issn": "00222879",
+            "cover_date": "2001-01-01",
+            "venue": "Journal",
+            "volume": "33",
+            "issue": "1",
+            "page_range": "101-120",
+            "doi": "10.2307/2673874"
+        },
+        {
+            "title": "Target setting: An application to a bank branch network",
+            "eid": "2-s2.0-0000375777",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60010844"
+                    ]
+                }
+            ],
+            "citations": 93,
+            "publication_name": "European Journal of Operational Research",
+            "issn": "03772217",
+            "cover_date": "1997-04-16",
+            "venue": "Journal",
+            "volume": "98",
+            "issue": "2",
+            "page_range": "290-299",
+            "doi": "10.1016/s0377-2217(96)00348-7"
+        },
+        {
+            "title": "One market, one number? A composite indicator assessment of EU internal market dynamics",
+            "eid": "2-s2.0-33947274656",
+            "authors": [
+                {
+                    "scopus_id": "6602674117",
+                    "name": "Cherchye L.",
+                    "affiliation_id": [
+                        "60025063",
+                        "60025063"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "8124847200",
+                    "name": "Moesen W.",
+                    "affiliation_id": [
+                        "60025063"
+                    ]
+                },
+                {
+                    "scopus_id": "6506211068",
+                    "name": "Van Puyenbroeck T.",
+                    "affiliation_id": [
+                        "60025063",
+                        "60015702"
+                    ]
+                }
+            ],
+            "citations": 91,
+            "publication_name": "European Economic Review",
+            "issn": "00142921",
+            "cover_date": "2007-04-01",
+            "venue": "Journal",
+            "volume": "51",
+            "issue": "3",
+            "page_range": "749-779",
+            "doi": "10.1016/j.euroecorev.2006.03.011"
+        },
+        {
+            "title": "Analysis of environmental efficiency variation",
+            "eid": "2-s2.0-0036866766",
+            "authors": [
+                {
+                    "scopus_id": "7004164389",
+                    "name": "Reinhard S.",
+                    "affiliation_id": [
+                        "60004156"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60004156"
+                    ]
+                },
+                {
+                    "scopus_id": "6602626805",
+                    "name": "Thijssen G.",
+                    "affiliation_id": [
+                        "60004156"
+                    ]
+                }
+            ],
+            "citations": 91,
+            "publication_name": "American Journal of Agricultural Economics",
+            "issn": "00029092",
+            "cover_date": "2002-01-01",
+            "venue": "Journal",
+            "volume": "84",
+            "issue": "4",
+            "page_range": "1054-1065",
+            "doi": "10.1111/1467-8276.00053"
+        },
+        {
+            "title": "Linear programming approaches to the measurement and analysis of productive efficiency",
+            "eid": "2-s2.0-51649142341",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "7006900058",
+                    "name": "Grosskopf S.",
+                    "affiliation_id": [
+                        "101802410"
+                    ]
+                },
+                {
+                    "scopus_id": "7004435702",
+                    "name": "Ley E.",
+                    "affiliation_id": [
+                        "60001741",
+                        "60025778"
+                    ]
+                },
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60010844"
+                    ]
+                },
+                {
+                    "scopus_id": "7101622645",
+                    "name": "Prior D.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "6507029629",
+                    "name": "Vanden Eeckaut P.",
+                    "affiliation_id": [
+                        "60000874"
+                    ]
+                }
+            ],
+            "citations": 90,
+            "publication_name": "Top",
+            "issn": "11345764",
+            "cover_date": "1994-12-01",
+            "venue": "Journal",
+            "volume": "2",
+            "issue": "2",
+            "page_range": "175-248",
+            "doi": "10.1007/BF02574810"
+        },
+        {
+            "title": "Scale economies and inefficiency of U.S. dairy farms",
+            "eid": "2-s2.0-67049116267",
+            "authors": [
+                {
+                    "scopus_id": "26646783700",
+                    "name": "Mosheim R.",
+                    "affiliation_id": [
+                        "60032280"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 85,
+            "publication_name": "American Journal of Agricultural Economics",
+            "issn": "00029092",
+            "cover_date": "2009-01-01",
+            "venue": "Journal",
+            "volume": "91",
+            "issue": "3",
+            "page_range": "777-794",
+            "doi": "10.1111/j.1467-8276.2009.01269.x"
+        },
+        {
+            "title": "Measuring the macroeconomic performance of the Taiwanese economy",
+            "eid": "2-s2.0-0040404059",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 85,
+            "publication_name": "International Journal of Production Economics",
+            "issn": "09255273",
+            "cover_date": "1995-01-01",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "1-2",
+            "page_range": "165-178",
+            "doi": "10.1016/0925-5273(94)00067-K"
+        },
+        {
+            "title": "The impact of mergers on credit union service provision",
+            "eid": "2-s2.0-0033074733",
+            "authors": [
+                {
+                    "scopus_id": "7006447085",
+                    "name": "Fried H.O.",
+                    "affiliation_id": [
+                        "60021001"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "6602970278",
+                    "name": "Yaisawarng S.",
+                    "affiliation_id": [
+                        "60021001"
+                    ]
+                }
+            ],
+            "citations": 80,
+            "publication_name": "Journal of Banking and Finance",
+            "issn": "03784266",
+            "cover_date": "1999-01-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "2",
+            "page_range": "367-386",
+            "doi": "10.1016/S0378-4266(98)00090-9"
+        },
+        {
+            "title": "Estimating stochastic production and cost frontiers when technical and allocative inefficiency are correlated",
+            "eid": "2-s2.0-0001109551",
+            "authors": [
+                {
+                    "scopus_id": "7403630559",
+                    "name": "Schmidt P.",
+                    "affiliation_id": [
+                        "60031707"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                }
+            ],
+            "citations": 77,
+            "publication_name": "Journal of Econometrics",
+            "issn": "03044076",
+            "cover_date": "1980-01-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "1",
+            "page_range": "83-100",
+            "doi": "10.1016/0304-4076(80)90044-5"
+        },
+        {
+            "title": "A new composite climate change vulnerability index",
+            "eid": "2-s2.0-85084956986",
+            "authors": [
+                {
+                    "scopus_id": "57198777487",
+                    "name": "Edmonds H.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55922476400",
+                    "name": "Lovell J.E.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 72,
+            "publication_name": "Ecological Indicators",
+            "issn": "1470160X",
+            "cover_date": "2020-10-01",
+            "venue": "Journal",
+            "volume": "117",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.ecolind.2020.106529"
+        },
+        {
+            "title": "Applying efficiency measurement techniques to the measurement of productivity change",
+            "eid": "2-s2.0-21344467396",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 67,
+            "publication_name": "Journal of Productivity Analysis",
+            "issn": "0895562X",
+            "cover_date": "1996-01-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "2-3",
+            "page_range": "329-340",
+            "doi": "10.1007/bf00157047"
+        },
+        {
+            "title": "Incorporating environmental impacts in the measurement of agricultural productivity growth",
+            "eid": "2-s2.0-13244278297",
+            "authors": [
+                {
+                    "scopus_id": "59157828800",
+                    "name": "Ball V.E.",
+                    "affiliation_id": [
+                        "60032935"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "16637918400",
+                    "name": "Luu H.",
+                    "affiliation_id": [
+                        "101622709"
+                    ]
+                },
+                {
+                    "scopus_id": "7004375962",
+                    "name": "Nehring R.",
+                    "affiliation_id": [
+                        "60032935"
+                    ]
+                }
+            ],
+            "citations": 63,
+            "publication_name": "Journal of Agricultural and Resource Economics",
+            "issn": "10685502",
+            "cover_date": "2004-12-01",
+            "venue": "Journal",
+            "volume": "29",
+            "issue": "3",
+            "page_range": "436-460",
+            "doi": ""
+        },
+        {
+            "title": "Productive efficiency under capitalism and state socialism:. An empirical inquiry using chance-constrained data envelopment analysis",
+            "eid": "2-s2.0-0028559066",
+            "authors": [
+                {
+                    "scopus_id": "7006755440",
+                    "name": "Land K.C.",
+                    "affiliation_id": [
+                        "60008724"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "6701640610",
+                    "name": "Thore S.",
+                    "affiliation_id": [
+                        "60013372"
+                    ]
+                }
+            ],
+            "citations": 61,
+            "publication_name": "Technological Forecasting and Social Change",
+            "issn": "00401625",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "2",
+            "page_range": "139-152",
+            "doi": "10.1016/0040-1625(94)90022-1"
+        },
+        {
+            "title": "A Quasi-Malmquist Productivity Index",
+            "eid": "2-s2.0-0032381273",
+            "authors": [
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60010844"
+                    ]
+                }
+            ],
+            "citations": 51,
+            "publication_name": "Journal of Productivity Analysis",
+            "issn": "0895562X",
+            "cover_date": "1998-01-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "1",
+            "page_range": "7-20",
+            "doi": "10.1023/A:1018329930629"
+        },
+        {
+            "title": "Graph efficiency and productivity measures: An application to US agriculture",
+            "eid": "2-s2.0-0034874953",
+            "authors": [
+                {
+                    "scopus_id": "56110610800",
+                    "name": "Zof\u00edo J.L.",
+                    "affiliation_id": [
+                        "60026796"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 45,
+            "publication_name": "Applied Economics",
+            "issn": "00036846",
+            "cover_date": "2001-01-01",
+            "venue": "Journal",
+            "volume": "33",
+            "issue": "11",
+            "page_range": "1433-1442",
+            "doi": "10.1080/00036840010009865"
+        },
+        {
+            "title": "Avoiding infeasibility in DEA models with weight restrictions",
+            "eid": "2-s2.0-33947165156",
+            "authors": [
+                {
+                    "scopus_id": "35226142500",
+                    "name": "Estellita Lins M.P.",
+                    "affiliation_id": [
+                        "60000036"
+                    ]
+                },
+                {
+                    "scopus_id": "6508165318",
+                    "name": "Moreira da Silva A.C.",
+                    "affiliation_id": [
+                        "60000036"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 41,
+            "publication_name": "European Journal of Operational Research",
+            "issn": "03772217",
+            "cover_date": "2007-09-01",
+            "venue": "Journal",
+            "volume": "181",
+            "issue": "2",
+            "page_range": "956-966",
+            "doi": "10.1016/j.ejor.2006.05.041"
+        },
+        {
+            "title": "Productivity measurement in radial DEA models with a single constant input",
+            "eid": "2-s2.0-84955175464",
+            "authors": [
+                {
+                    "scopus_id": "6603856154",
+                    "name": "Karagiannis G.",
+                    "affiliation_id": [
+                        "60001086"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 39,
+            "publication_name": "European Journal of Operational Research",
+            "issn": "03772217",
+            "cover_date": "2016-05-16",
+            "venue": "Journal",
+            "volume": "251",
+            "issue": "1",
+            "page_range": "323-328",
+            "doi": "10.1016/j.ejor.2015.12.013"
+        },
+        {
+            "title": "Families of linear efficiency programs based on Debreu's loss function",
+            "eid": "2-s2.0-84865815598",
+            "authors": [
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60029767"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "7103110235",
+                    "name": "Aparicio J.",
+                    "affiliation_id": [
+                        "60029767"
+                    ]
+                }
+            ],
+            "citations": 37,
+            "publication_name": "Journal of Productivity Analysis",
+            "issn": "0895562X",
+            "cover_date": "2012-10-01",
+            "venue": "Journal",
+            "volume": "38",
+            "issue": "2",
+            "page_range": "109-120",
+            "doi": "10.1007/s11123-011-0216-4"
+        },
+        {
+            "title": "Validation and generalization of DEA and its uses",
+            "eid": "2-s2.0-51249166441",
+            "authors": [
+                {
+                    "scopus_id": "55909613300",
+                    "name": "Banker R.D.",
+                    "affiliation_id": [
+                        "60029445"
+                    ]
+                },
+                {
+                    "scopus_id": "24564423000",
+                    "name": "Cooper W.W.",
+                    "affiliation_id": [
+                        "60013372"
+                    ]
+                },
+                {
+                    "scopus_id": "24782760200",
+                    "name": "Grifell-Tajt\u00e9 E.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60010844"
+                    ]
+                },
+                {
+                    "scopus_id": "55586996000",
+                    "name": "Wilson P.W.",
+                    "affiliation_id": [
+                        "60013372"
+                    ]
+                },
+                {
+                    "scopus_id": "7004435702",
+                    "name": "Ley E.",
+                    "affiliation_id": [
+                        "60001741"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Top",
+            "issn": "11345764",
+            "cover_date": "1994-12-01",
+            "venue": "Journal",
+            "volume": "2",
+            "issue": "2",
+            "page_range": "249-314",
+            "doi": "10.1007/BF02574811"
+        },
+        {
+            "title": "The relative efficiencies of market and planned economies",
+            "eid": "2-s2.0-0031479226",
+            "authors": [
+                {
+                    "scopus_id": "7004957012",
+                    "name": "Moroney J.",
+                    "affiliation_id": [
+                        "60020547"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60029747"
+                    ]
+                }
+            ],
+            "citations": 34,
+            "publication_name": "Southern Economic Journal",
+            "issn": "00384038",
+            "cover_date": "1997-01-01",
+            "venue": "Journal",
+            "volume": "63",
+            "issue": "4",
+            "page_range": "1084-1093",
+            "doi": "10.2307/1061243"
+        },
+        {
+            "title": "Circularity of the Malmquist productivity index",
+            "eid": "2-s2.0-34548777597",
+            "authors": [
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60029767"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 33,
+            "publication_name": "Economic Theory",
+            "issn": "09382259",
+            "cover_date": "2007-12-01",
+            "venue": "Journal",
+            "volume": "33",
+            "issue": "3",
+            "page_range": "591-599",
+            "doi": "10.1007/s00199-006-0169-4"
+        },
+        {
+            "title": "World health system performance revisited: The impact of varying the relative importance of health system goals",
+            "eid": "2-s2.0-4544354477",
+            "authors": [
+                {
+                    "scopus_id": "7101915574",
+                    "name": "Lauer J.A.",
+                    "affiliation_id": [
+                        "60027142"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "55481130700",
+                    "name": "Murray C.J.L.",
+                    "affiliation_id": [
+                        "60027142"
+                    ]
+                },
+                {
+                    "scopus_id": "57193990382",
+                    "name": "Evans D.B.",
+                    "affiliation_id": [
+                        "60027142"
+                    ]
+                }
+            ],
+            "citations": 31,
+            "publication_name": "BMC Health Services Research",
+            "issn": "14726963",
+            "cover_date": "2004-07-22",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "",
+            "page_range": "1-8",
+            "doi": "10.1186/1472-6963-4-19"
+        },
+        {
+            "title": "An analysis of the performance of university-affiliated credit unions",
+            "eid": "2-s2.0-0001579549",
+            "authors": [
+                {
+                    "scopus_id": "7006447085",
+                    "name": "Fried H.O.",
+                    "affiliation_id": [
+                        "60021001"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60029747"
+                    ]
+                },
+                {
+                    "scopus_id": "8699371800",
+                    "name": "Turner J.A.",
+                    "affiliation_id": [
+                        "60075726"
+                    ]
+                }
+            ],
+            "citations": 31,
+            "publication_name": "Computers and Operations Research",
+            "issn": "03050548",
+            "cover_date": "1996-01-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "4",
+            "page_range": "375-384",
+            "doi": "10.1016/0305-0548(95)00045-3"
+        },
+        {
+            "title": "Defining a new graph inefficiency measure for the proportional directional distance function and introducing a new Malmquist productivity index",
+            "eid": "2-s2.0-85071126867",
+            "authors": [
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60029767"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7103110235",
+                    "name": "Aparicio J.",
+                    "affiliation_id": [
+                        "60029767"
+                    ]
+                }
+            ],
+            "citations": 30,
+            "publication_name": "European Journal of Operational Research",
+            "issn": "03772217",
+            "cover_date": "2020-02-16",
+            "venue": "Journal",
+            "volume": "281",
+            "issue": "1",
+            "page_range": "222-230",
+            "doi": "10.1016/j.ejor.2019.08.021"
+        },
+        {
+            "title": "An indirect approach to the evaluation of producer performance",
+            "eid": "2-s2.0-38249026874",
+            "authors": [
+                {
+                    "scopus_id": "7006089469",
+                    "name": "F\u00e4re R.",
+                    "affiliation_id": [
+                        "60029472"
+                    ]
+                },
+                {
+                    "scopus_id": "7006900058",
+                    "name": "Grosskopf S.",
+                    "affiliation_id": [
+                        "60029472"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                }
+            ],
+            "citations": 30,
+            "publication_name": "Journal of Public Economics",
+            "issn": "00472727",
+            "cover_date": "1988-01-01",
+            "venue": "Journal",
+            "volume": "37",
+            "issue": "1",
+            "page_range": "71-89",
+            "doi": "10.1016/0047-2727(88)90005-9"
+        },
+        {
+            "title": "Scale economies and duality",
+            "eid": "2-s2.0-0013066546",
+            "authors": [
+                {
+                    "scopus_id": "7006089469",
+                    "name": "F\u00e4re R.",
+                    "affiliation_id": [
+                        "60029472"
+                    ]
+                },
+                {
+                    "scopus_id": "7006900058",
+                    "name": "Grosskopf S.",
+                    "affiliation_id": [
+                        "60029472"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                }
+            ],
+            "citations": 28,
+            "publication_name": "Journal of Economics Zeitschrift f\u00fcr National\u00f6konomie",
+            "issn": "00443158",
+            "cover_date": "1986-06-01",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "2",
+            "page_range": "175-182",
+            "doi": "10.1007/BF01229228"
+        },
+        {
+            "title": "A DEA-based analysis of productivity change and intertemporal managerial performance",
+            "eid": "2-s2.0-0041634897",
+            "authors": [
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "Annals of Operations Research",
+            "issn": "02545330",
+            "cover_date": "1997-01-01",
+            "venue": "Journal",
+            "volume": "73",
+            "issue": "",
+            "page_range": "177-189",
+            "doi": "10.1023/a:1018925127385"
+        },
+        {
+            "title": "Excess capacity and expense preference behaviour in National Health Systems: An application to the Spanish public hospitals",
+            "eid": "2-s2.0-1142287526",
+            "authors": [
+                {
+                    "scopus_id": "6603238606",
+                    "name": "Rodr\u00edguez-\u00c1lvarez A.",
+                    "affiliation_id": [
+                        "60006793"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.",
+                    "affiliation_id": [
+                        "60029747"
+                    ]
+                }
+            ],
+            "citations": 26,
+            "publication_name": "Health Economics",
+            "issn": "10579230",
+            "cover_date": "2004-02-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "2",
+            "page_range": "157-169",
+            "doi": "10.1002/hec.803"
+        },
+        {
+            "title": "Capacity utilization and production function estimation in postwar American manufacturing",
+            "eid": "2-s2.0-84963050638",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60020273"
+                    ]
+                }
+            ],
+            "citations": 25,
+            "publication_name": "Quarterly Journal of Economics",
+            "issn": "00335533",
+            "cover_date": "1968-01-01",
+            "venue": "Journal",
+            "volume": "82",
+            "issue": "2",
+            "page_range": "219-239",
+            "doi": "10.2307/1885895"
+        },
+        {
+            "title": "Allocative inefficiency and its cost:: The case of Spanish public hospitals",
+            "eid": "2-s2.0-5744250243",
+            "authors": [
+                {
+                    "scopus_id": "6603238606",
+                    "name": "Rodr\u00edguez-\u00c1lvarez A.",
+                    "affiliation_id": [
+                        "60006793"
+                    ]
+                },
+                {
+                    "scopus_id": "6505885360",
+                    "name": "Fern\u00e1ndez-Blanco V.",
+                    "affiliation_id": [
+                        "60006793"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "International Journal of Production Economics",
+            "issn": "09255273",
+            "cover_date": "2004-11-28",
+            "venue": "Journal",
+            "volume": "92",
+            "issue": "2",
+            "page_range": "99-111",
+            "doi": "10.1016/j.ijpe.2003.08.012"
+        },
+        {
+            "title": "Evaluating the financial performance of bank branches",
+            "eid": "2-s2.0-33747833033",
+            "authors": [
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60029767"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "6602342689",
+                    "name": "Tulkens H.",
+                    "affiliation_id": [
+                        "60000874"
+                    ]
+                }
+            ],
+            "citations": 23,
+            "publication_name": "Annals of Operations Research",
+            "issn": "02545330",
+            "cover_date": "2006-07-01",
+            "venue": "Journal",
+            "volume": "145",
+            "issue": "1",
+            "page_range": "321-337",
+            "doi": "10.1007/s10479-006-0038-3"
+        },
+        {
+            "title": "Econometric efficiency analysis: A policy-oriented review",
+            "eid": "2-s2.0-0029632471",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 23,
+            "publication_name": "European Journal of Operational Research",
+            "issn": "03772217",
+            "cover_date": "1995-02-02",
+            "venue": "Journal",
+            "volume": "80",
+            "issue": "3",
+            "page_range": "452-461",
+            "doi": "10.1016/0377-2217(94)00130-5"
+        },
+        {
+            "title": "Cost and productivity",
+            "eid": "2-s2.0-0038471401",
+            "authors": [
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Managerial and Decision Economics",
+            "issn": "01436570",
+            "cover_date": "2000-01-01",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "1",
+            "page_range": "19-30",
+            "doi": "10.1002/1099-1468(200001/02)21:1<19::AID-MDE962>3.0.CO;2-7"
+        },
+        {
+            "title": "Profit and productivity of US class I railroads",
+            "eid": "2-s2.0-70349574618",
+            "authors": [
+                {
+                    "scopus_id": "23489696000",
+                    "name": "Lim S.H.",
+                    "affiliation_id": [
+                        "60032270"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox lovell C.A.",
+                    "affiliation_id": [
+                        "60134793",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 19,
+            "publication_name": "Managerial and Decision Economics",
+            "issn": "01436570",
+            "cover_date": "2009-10-01",
+            "venue": "Journal",
+            "volume": "30",
+            "issue": "7",
+            "page_range": "423-442",
+            "doi": "10.1002/mde.1462"
+        },
+        {
+            "title": "Indirect productivity measurement",
+            "eid": "2-s2.0-0042088110",
+            "authors": [
+                {
+                    "scopus_id": "7006089469",
+                    "name": "F\u00e4re R.",
+                    "affiliation_id": [
+                        "60029472"
+                    ]
+                },
+                {
+                    "scopus_id": "7006900058",
+                    "name": "Grosskopf S.",
+                    "affiliation_id": [
+                        "60029472"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                }
+            ],
+            "citations": 18,
+            "publication_name": "Journal of Productivity Analysis",
+            "issn": "0895562X",
+            "cover_date": "1992-02-01",
+            "venue": "Journal",
+            "volume": "2",
+            "issue": "4",
+            "page_range": "283-298",
+            "doi": "10.1007/BF00156471"
+        },
+        {
+            "title": "Productivity at the post: Its drivers and its distribution",
+            "eid": "2-s2.0-39149129692",
+            "authors": [
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60029747",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Journal of Regulatory Economics",
+            "issn": "0922680X",
+            "cover_date": "2008-04-01",
+            "venue": "Journal",
+            "volume": "33",
+            "issue": "2",
+            "page_range": "133-158",
+            "doi": "10.1007/s11149-007-9051-y"
+        },
+        {
+            "title": "The managers versus the consultants",
+            "eid": "2-s2.0-0037679167",
+            "authors": [
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60029747"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Scandinavian Journal of Economics",
+            "issn": "03470520",
+            "cover_date": "2003-06-09",
+            "venue": "Journal",
+            "volume": "105",
+            "issue": "1",
+            "page_range": "119-138",
+            "doi": "10.1111/1467-9442.00008"
+        },
+        {
+            "title": "Variation in productive efficiency in French workers' cooperatives",
+            "eid": "2-s2.0-2542499518",
+            "authors": [
+                {
+                    "scopus_id": "57191543612",
+                    "name": "Defourny J.",
+                    "affiliation_id": [
+                        "60000964"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60017717"
+                    ]
+                },
+                {
+                    "scopus_id": "6507610711",
+                    "name": "N'gbo A.",
+                    "affiliation_id": [
+                        "60071950"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Journal of Productivity Analysis",
+            "issn": "0895562X",
+            "cover_date": "1992-06-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "1-2",
+            "page_range": "103-117",
+            "doi": "10.1007/BF00158771"
+        },
+        {
+            "title": "Nonparametric disposability tests",
+            "eid": "2-s2.0-0346548287",
+            "authors": [
+                {
+                    "scopus_id": "7006089469",
+                    "name": "F\u00e4re R.",
+                    "affiliation_id": [
+                        "60029472"
+                    ]
+                },
+                {
+                    "scopus_id": "7006900058",
+                    "name": "Grosskopf S.",
+                    "affiliation_id": [
+                        "60029472"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Journal of Economics Zeitschrift f\u00fcr National\u00f6konomie",
+            "issn": "04433158",
+            "cover_date": "1987-03-01",
+            "venue": "Journal",
+            "volume": "47",
+            "issue": "1",
+            "page_range": "77-85",
+            "doi": "10.1007/BF01237019"
+        },
+        {
+            "title": "The effect of unionization on labor productivity: Some additional evidence",
+            "eid": "2-s2.0-0039411906",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                },
+                {
+                    "scopus_id": "6701729750",
+                    "name": "Sickles R.",
+                    "affiliation_id": [
+                        "60005286"
+                    ]
+                },
+                {
+                    "scopus_id": "16475049100",
+                    "name": "Warren R.",
+                    "affiliation_id": [
+                        "60029747"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Journal of Labor Research",
+            "issn": "01953613",
+            "cover_date": "1988-03-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "1",
+            "page_range": "55-63",
+            "doi": "10.1007/BF02685229"
+        },
+        {
+            "title": "PRICE DISCRIMINATION IN RELATED MARKETS",
+            "eid": "2-s2.0-85005417702",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "LOVELL C.A.K.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                },
+                {
+                    "scopus_id": "6701784044",
+                    "name": "WERTZ K.L.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Economic Inquiry",
+            "issn": "00952583",
+            "cover_date": "1981-01-01",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "3",
+            "page_range": "488-494",
+            "doi": "10.1111/j.1465-7295.1981.tb00331.x"
+        },
+        {
+            "title": "The effects of stochastic demand and expense preference behaviour on public hospital costs and excess capacity",
+            "eid": "2-s2.0-60749116589",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": [
+                        "60029747",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6603238606",
+                    "name": "Rodr\u00edguez-\u00c1lvarez A.",
+                    "affiliation_id": [
+                        "60006793"
+                    ]
+                },
+                {
+                    "scopus_id": "7102000797",
+                    "name": "Wall A.",
+                    "affiliation_id": [
+                        "60006793"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Health Economics",
+            "issn": "10579230",
+            "cover_date": "2009-06-03",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "2",
+            "page_range": "227-235",
+            "doi": "10.1002/hec.1352"
+        },
+        {
+            "title": "Editor's introduction",
+            "eid": "2-s2.0-44949290511",
+            "authors": [
+                {
+                    "scopus_id": "7103243878",
+                    "name": "Lewin A.",
+                    "affiliation_id": [
+                        "60008724"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.",
+                    "affiliation_id": [
+                        "105849122"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Journal of Econometrics",
+            "issn": "03044076",
+            "cover_date": "1990-01-01",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "1-2",
+            "page_range": "3-5",
+            "doi": "10.1016/0304-4076(90)90044-T"
+        },
+        {
+            "title": "Recent Developments in Productivity Analysis",
+            "eid": "2-s2.0-84992060975",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "Pacific Economic Review",
+            "issn": "1361374X",
+            "cover_date": "2016-10-01",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "4",
+            "page_range": "417-444",
+            "doi": "10.1111/1468-0106.12191"
+        },
+        {
+            "title": "A framework for guiding the management of urban stream health",
+            "eid": "2-s2.0-84920179507",
+            "authors": [
+                {
+                    "scopus_id": "56465844600",
+                    "name": "Millington H.",
+                    "affiliation_id": [
+                        "60032987"
+                    ]
+                },
+                {
+                    "scopus_id": "55922476400",
+                    "name": "Lovell J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "Ecological Economics",
+            "issn": "09218009",
+            "cover_date": "2015-01-01",
+            "venue": "Journal",
+            "volume": "109",
+            "issue": "",
+            "page_range": "222-233",
+            "doi": "10.1016/j.ecolecon.2014.11.017"
+        },
+        {
+            "title": "Productivity, price recovery, capacity constraints and their financial consequences",
+            "eid": "2-s2.0-84892866727",
+            "authors": [
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "Journal of Productivity Analysis",
+            "issn": "0895562X",
+            "cover_date": "2014-02-01",
+            "venue": "Journal",
+            "volume": "41",
+            "issue": "1",
+            "page_range": "3-17",
+            "doi": "10.1007/s11123-013-0373-8"
+        },
+        {
+            "title": "Short-run total cost change and productivity of US Class I railroads",
+            "eid": "2-s2.0-38949129737",
+            "authors": [
+                {
+                    "scopus_id": "23489696000",
+                    "name": "Lim S.H.",
+                    "affiliation_id": [
+                        "60032270"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "Journal of Transport Economics and Policy",
+            "issn": "00225258",
+            "cover_date": "2008-01-01",
+            "venue": "Journal",
+            "volume": "42",
+            "issue": "1",
+            "page_range": "155-188",
+            "doi": ""
+        },
+        {
+            "title": "Frontier analysis of healthcare",
+            "eid": "2-s2.0-30044442892",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "International Journal of Healthcare Technology and Management",
+            "issn": "13682156",
+            "cover_date": "2006-01-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "1-2",
+            "page_range": "5-14",
+            "doi": "10.1504/IJHTM.2006.007870"
+        },
+        {
+            "title": "A growth maximising tax structure for New Zealand",
+            "eid": "2-s2.0-0041364651",
+            "authors": [
+                {
+                    "scopus_id": "7102560509",
+                    "name": "Branson J.",
+                    "affiliation_id": [
+                        "60026479"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "International Tax and Public Finance",
+            "issn": "09275940",
+            "cover_date": "2001-12-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "2",
+            "page_range": "129-146",
+            "doi": "10.1023/A:1011216618163"
+        },
+        {
+            "title": "Equitable resource allocation and operational efficiency evaluation",
+            "eid": "2-s2.0-30044451225",
+            "authors": [
+                {
+                    "scopus_id": "57198100639",
+                    "name": "Gao J.",
+                    "affiliation_id": [
+                        "60022556"
+                    ]
+                },
+                {
+                    "scopus_id": "16738218500",
+                    "name": "Campbell J.",
+                    "affiliation_id": [
+                        "60022556"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "International Journal of Healthcare Technology and Management",
+            "issn": "13682156",
+            "cover_date": "2006-01-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "1-2",
+            "page_range": "143-167",
+            "doi": "10.1504/IJHTM.2006.007877"
+        },
+        {
+            "title": "Monitoring the performance of soviet cotton-refining enterprises: Sensitivity of findings to estimation techniques",
+            "eid": "2-s2.0-0344960234",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "101498807"
+                    ]
+                },
+                {
+                    "scopus_id": "22977914900",
+                    "name": "Wood L.",
+                    "affiliation_id": [
+                        "101498807"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Atlantic Economic Journal",
+            "issn": "01974254",
+            "cover_date": "1992-03-01",
+            "venue": "Journal",
+            "volume": "20",
+            "issue": "1",
+            "page_range": "25-31",
+            "doi": "10.1007/BF02303383"
+        },
+        {
+            "title": "The business foundations of social economic progress",
+            "eid": "2-s2.0-85055492258",
+            "authors": [
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57204418736",
+                    "name": "Turon P.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "BRQ Business Research Quarterly",
+            "issn": "23409436",
+            "cover_date": "2018-10-01",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "4",
+            "page_range": "278-292",
+            "doi": "10.1016/j.brq.2018.08.006"
+        },
+        {
+            "title": "Measuring the technical efficiency of production: Reply",
+            "eid": "2-s2.0-49049147465",
+            "authors": [
+                {
+                    "scopus_id": "7006089469",
+                    "name": "F\u00e4re R.",
+                    "affiliation_id": [
+                        "60029472"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Journal of Economic Theory",
+            "issn": "00220531",
+            "cover_date": "1981-01-01",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "3",
+            "page_range": "453-454",
+            "doi": "10.1016/0022-0531(81)90044-2"
+        },
+        {
+            "title": "Weather and pollution abatement costs",
+            "eid": "2-s2.0-0031649347",
+            "authors": [
+                {
+                    "scopus_id": "6602256387",
+                    "name": "Leightner J.E.",
+                    "affiliation_id": [
+                        "60014801"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Energy Journal",
+            "issn": "01956574",
+            "cover_date": "1998-01-01",
+            "venue": "Trade Journal",
+            "volume": "19",
+            "issue": "2",
+            "page_range": "165-189",
+            "doi": "10.5547/ISSN0195-6574-EJ-Vol19-No2-11"
+        },
+        {
+            "title": "Decomposing the dividend",
+            "eid": "2-s2.0-9144241946",
+            "authors": [
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60029747"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Journal of Comparative Economics",
+            "issn": "01475967",
+            "cover_date": "2004-09-01",
+            "venue": "Journal",
+            "volume": "32",
+            "issue": "3",
+            "page_range": "500-518",
+            "doi": "10.1016/j.jce.2004.05.002"
+        },
+        {
+            "title": "Dual productivity analysis: A Kon\u00fcs/Shephard approach",
+            "eid": "2-s2.0-85087974491",
+            "authors": [
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "European Journal of Operational Research",
+            "issn": "03772217",
+            "cover_date": "2021-02-16",
+            "venue": "Journal",
+            "volume": "289",
+            "issue": "1",
+            "page_range": "328-337",
+            "doi": "10.1016/j.ejor.2020.06.037"
+        },
+        {
+            "title": "A new composite index for greenhouse gases: Climate science meets social science",
+            "eid": "2-s2.0-85037038105",
+            "authors": [
+                {
+                    "scopus_id": "57198777487",
+                    "name": "Edmonds H.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55922476400",
+                    "name": "Lovell J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Resources",
+            "issn": "",
+            "cover_date": "2017-12-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "4",
+            "page_range": null,
+            "doi": "10.3390/resources6040062"
+        },
+        {
+            "title": "What determines students\u2019 expectations and preferences in university teaching and learning? An instrumental variable approach",
+            "eid": "2-s2.0-85028552102",
+            "authors": [
+                {
+                    "scopus_id": "7007114961",
+                    "name": "Alauddin M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7004961224",
+                    "name": "Ashman A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "40762082800",
+                    "name": "Nghiem S.",
+                    "affiliation_id": [
+                        "60011019"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Economic Analysis and Policy",
+            "issn": "03135926",
+            "cover_date": "2017-12-01",
+            "venue": "Journal",
+            "volume": "56",
+            "issue": "",
+            "page_range": "18-27",
+            "doi": "10.1016/j.eap.2017.06.002"
+        },
+        {
+            "title": "HOMOTHETICITY AND THE AVERAGE COST FUNCTION",
+            "eid": "2-s2.0-84985777307",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "LOVELL C.",
+                    "affiliation_id": [
+                        "60017717"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Economic Inquiry",
+            "issn": "00952583",
+            "cover_date": "1973-01-01",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "4",
+            "page_range": "506-513",
+            "doi": "10.1111/j.1465-7295.1973.tb00980.x"
+        },
+        {
+            "title": "What determines students' study practices in higher education? An instrumental variable approach",
+            "eid": "2-s2.0-84974663055",
+            "authors": [
+                {
+                    "scopus_id": "7007114961",
+                    "name": "Alauddin M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7004961224",
+                    "name": "Ashman A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "40762082800",
+                    "name": "Nghiem S.",
+                    "affiliation_id": [
+                        "60011019"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Economic Analysis and Policy",
+            "issn": "03135926",
+            "cover_date": "2016-09-01",
+            "venue": "Journal",
+            "volume": "51",
+            "issue": "",
+            "page_range": "46-54",
+            "doi": "10.1016/j.eap.2016.05.006"
+        },
+        {
+            "title": "History lessons",
+            "eid": "2-s2.0-80052369808",
+            "authors": [
+                {
+                    "scopus_id": "24564423000",
+                    "name": "Cooper W.",
+                    "affiliation_id": [
+                        "60116471"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Journal of Productivity Analysis",
+            "issn": "0895562X",
+            "cover_date": "2011-10-01",
+            "venue": "Journal",
+            "volume": "36",
+            "issue": "2",
+            "page_range": "193-200",
+            "doi": "10.1007/s11123-011-0224-4"
+        },
+        {
+            "title": "Productivity analysis: Parametric and non-parametric applications",
+            "eid": "2-s2.0-28044440031",
+            "authors": [
+                {
+                    "scopus_id": "7103243878",
+                    "name": "Lewin A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 5,
+            "publication_name": "European Journal of Operational Research",
+            "issn": "03772217",
+            "cover_date": "1995-02-02",
+            "venue": "Journal",
+            "volume": "80",
+            "issue": "3",
+            "page_range": "451",
+            "doi": "10.1016/0377-2217(94)00129-Z"
+        },
+        {
+            "title": "Productivity decline in Australian coal mining",
+            "eid": "2-s2.0-84887316636",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55922476400",
+                    "name": "Lovell J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Journal of Productivity Analysis",
+            "issn": "0895562X",
+            "cover_date": "2013-12-01",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "3",
+            "page_range": "443-455",
+            "doi": "10.1007/s11123-013-0340-4"
+        },
+        {
+            "title": "Third degree price discrimination in imperfectly sealed markets",
+            "eid": "2-s2.0-34250118292",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                },
+                {
+                    "scopus_id": "6701784044",
+                    "name": "Wertz K.",
+                    "affiliation_id": [
+                        "60028743"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Atlantic Economic Journal",
+            "issn": "01974254",
+            "cover_date": "1985-07-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "2",
+            "page_range": "1-11",
+            "doi": "10.1007/BF02304174"
+        },
+        {
+            "title": "A note on aggregation bias and loss",
+            "eid": "2-s2.0-0344854172",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Journal of Econometrics",
+            "issn": "03044076",
+            "cover_date": "1973-01-01",
+            "venue": "Journal",
+            "volume": "1",
+            "issue": "3",
+            "page_range": "301-311",
+            "doi": "10.1016/0304-4076(73)90011-0"
+        },
+        {
+            "title": "Testing the product test",
+            "eid": "2-s2.0-79961117547",
+            "authors": [
+                {
+                    "scopus_id": "45660943700",
+                    "name": "Brea H.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Economics Letters",
+            "issn": "01651765",
+            "cover_date": "2011-11-01",
+            "venue": "Journal",
+            "volume": "113",
+            "issue": "2",
+            "page_range": "157-159",
+            "doi": "10.1016/j.econlet.2011.06.017"
+        },
+        {
+            "title": "The role of private subsidiary farming during the soviet seven\u2010year plan, 1959\u201365",
+            "eid": "2-s2.0-77749327031",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60020273"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Soviet Studies",
+            "issn": "00385859",
+            "cover_date": "1968-07-01",
+            "venue": "Journal",
+            "volume": "20",
+            "issue": "1",
+            "page_range": "46-66",
+            "doi": "10.1080/09668136808410632"
+        },
+        {
+            "title": "On the origins of Aigner, Lovell and Schmidt, 1977, and the development of stochastic frontier analysis",
+            "eid": "2-s2.0-85148050708",
+            "authors": [
+                {
+                    "scopus_id": "24396300000",
+                    "name": "Aigner D.J.",
+                    "affiliation_id": [
+                        "60007278"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7403630559",
+                    "name": "Schmidt P.",
+                    "affiliation_id": [
+                        "60031707"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Journal of Econometrics",
+            "issn": "03044076",
+            "cover_date": "2023-03-01",
+            "venue": "Journal",
+            "volume": "234",
+            "issue": "",
+            "page_range": "91-95",
+            "doi": "10.1016/j.jeconom.2023.01.019"
+        },
+        {
+            "title": "The Inequities of National Adaptation to Climate Change",
+            "eid": "2-s2.0-85146780559",
+            "authors": [
+                {
+                    "scopus_id": "57198777487",
+                    "name": "Edmonds H.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55922476400",
+                    "name": "Lovell J.E.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Resources",
+            "issn": "",
+            "cover_date": "2023-01-01",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.3390/resources12010001"
+        },
+        {
+            "title": "Exact relationships between fisher indexes and theoretical indexes",
+            "eid": "2-s2.0-85007470547",
+            "authors": [
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "International Series in Operations Research and Management Science",
+            "issn": "08848289",
+            "cover_date": "2016-01-01",
+            "venue": "Book Series",
+            "volume": "249",
+            "issue": "",
+            "page_range": "97-120",
+            "doi": "10.1007/978-3-319-48461-7_5"
+        },
+        {
+            "title": "The contribution of operations research techniques to the evaluation of electric utility performance",
+            "eid": "2-s2.0-51649140816",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60010844"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Top",
+            "issn": "11345764",
+            "cover_date": "1994-06-01",
+            "venue": "Journal",
+            "volume": "2",
+            "issue": "1",
+            "page_range": "167-173",
+            "doi": "10.1007/BF02574765"
+        },
+        {
+            "title": "The impact of regulation on input substitution and operating cost",
+            "eid": "2-s2.0-0032374528",
+            "authors": [
+                {
+                    "scopus_id": "55899368800",
+                    "name": "Granderson G.",
+                    "affiliation_id": [
+                        "60032706"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Southern Economic Journal",
+            "issn": "00384038",
+            "cover_date": "1998-01-01",
+            "venue": "Journal",
+            "volume": "65",
+            "issue": "1",
+            "page_range": "83-97",
+            "doi": "10.2307/1061353"
+        },
+        {
+            "title": "Local circularity of six classic price indexes",
+            "eid": "2-s2.0-85087951175",
+            "authors": [
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60029767"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "International Series in Operations Research and Management Science",
+            "issn": "08848289",
+            "cover_date": "2020-01-01",
+            "venue": "Book Series",
+            "volume": "287",
+            "issue": "",
+            "page_range": "107-123",
+            "doi": "10.1007/978-3-030-41618-8_7"
+        },
+        {
+            "title": "Editors\u2019 introduction",
+            "eid": "2-s2.0-85007427146",
+            "authors": [
+                {
+                    "scopus_id": "7103110235",
+                    "name": "Aparicio J.",
+                    "affiliation_id": [
+                        "60029767"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.",
+                    "affiliation_id": [
+                        "60029767"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "International Series in Operations Research and Management Science",
+            "issn": "08848289",
+            "cover_date": "2016-01-01",
+            "venue": "Book Series",
+            "volume": "249",
+            "issue": "",
+            "page_range": "3-11",
+            "doi": "10.1007/978-3-319-48461-7_1"
+        },
+        {
+            "title": "Productivity Measurement: Past, Present, and Future",
+            "eid": "2-s2.0-85163460895",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Advances in Economic Measurement: A Volume in Honour of D. S. Prasada Rao",
+            "issn": "",
+            "cover_date": "2022-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "3-103",
+            "doi": "10.1007/978-981-19-2023-3_1"
+        },
+        {
+            "title": "Introduction",
+            "eid": "2-s2.0-85089500308",
+            "authors": [
+                {
+                    "scopus_id": "7103110235",
+                    "name": "Aparicio J.",
+                    "affiliation_id": [
+                        "60029767"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60029767"
+                    ]
+                },
+                {
+                    "scopus_id": "57193905582",
+                    "name": "Zhu J.",
+                    "affiliation_id": [
+                        "60011410"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "International Series in Operations Research and Management Science",
+            "issn": "08848289",
+            "cover_date": "2020-01-01",
+            "venue": "Book Series",
+            "volume": "287",
+            "issue": "",
+            "page_range": "3-8",
+            "doi": "10.1007/978-3-030-41618-8_1"
+        },
+        {
+            "title": "Special Issue Editorial",
+            "eid": "2-s2.0-85054423172",
+            "authors": [
+                {
+                    "scopus_id": "6603586824",
+                    "name": "Grifell-Tatj\u00e9 E.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60023020"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "BRQ Business Research Quarterly",
+            "issn": "23409436",
+            "cover_date": "2018-10-01",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "4",
+            "page_range": "213-214",
+            "doi": "10.1016/j.brq.2018.09.003"
+        },
+        {
+            "title": "Assessing stream health with respect to ecological connectivity",
+            "eid": "2-s2.0-85040644624",
+            "authors": [
+                {
+                    "scopus_id": "57198777487",
+                    "name": "Edmonds H.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55922476400",
+                    "name": "Lovell J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "New Directions in Productivity Measurement and Efficiency Analysis: Counting the Environment and Natural Resources",
+            "issn": "",
+            "cover_date": "2017-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "98-119",
+            "doi": "10.4337/9781786432421.00009"
+        },
+        {
+            "title": "Preface",
+            "eid": "2-s2.0-84920092073",
+            "authors": [
+                {
+                    "scopus_id": "7006447085",
+                    "name": "Fried H.O.",
+                    "affiliation_id": [
+                        "60021001"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                },
+                {
+                    "scopus_id": "7401845206",
+                    "name": "Schmidt S.S.",
+                    "affiliation_id": [
+                        "60021001"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "The Measurement of Productive Efficiency and Productivity Change",
+            "issn": "",
+            "cover_date": "2008-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1093/acprof:oso/9780195183528.002.0005"
+        },
+        {
+            "title": "Guest editors' introduction",
+            "eid": "2-s2.0-84894698312",
+            "authors": [
+                {
+                    "scopus_id": "7202515547",
+                    "name": "Fu T.",
+                    "affiliation_id": [
+                        "60021584"
+                    ]
+                },
+                {
+                    "scopus_id": "7406882066",
+                    "name": "Huang C.",
+                    "affiliation_id": [
+                        "60003915"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Journal of Productivity Analysis",
+            "issn": "0895562X",
+            "cover_date": "2014-04-01",
+            "venue": "Journal",
+            "volume": "41",
+            "issue": "2",
+            "page_range": "173-174",
+            "doi": "10.1007/s11123-013-0353-z"
+        },
+        {
+            "title": "Introduction to the symposium of presentations from the Plenary Sessions of the 2010 North American Productivity Workshop",
+            "eid": "2-s2.0-80052363943",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60029747"
+                    ]
+                },
+                {
+                    "scopus_id": "6701729750",
+                    "name": "Sickles R.",
+                    "affiliation_id": [
+                        "60005286"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Journal of Productivity Analysis",
+            "issn": "0895562X",
+            "cover_date": "2011-10-01",
+            "venue": "Journal",
+            "volume": "36",
+            "issue": "2",
+            "page_range": "157-158",
+            "doi": "10.1007/s11123-011-0233-3"
+        },
+        {
+            "title": "Some neglected Stackelberg duopoly models",
+            "eid": "2-s2.0-34250241434",
+            "authors": [
+                {
+                    "scopus_id": "7202907370",
+                    "name": "Chambers D.R.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Atlantic Economic Journal",
+            "issn": "01974254",
+            "cover_date": "1981-07-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "2",
+            "page_range": "25-29",
+            "doi": "10.1007/BF02301204"
+        },
+        {
+            "title": "Some economics of content protection",
+            "eid": "2-s2.0-34249974038",
+            "authors": [
+                {
+                    "scopus_id": "7006089469",
+                    "name": "F\u00e4re R.",
+                    "affiliation_id": [
+                        "60029472"
+                    ]
+                },
+                {
+                    "scopus_id": "7202175342",
+                    "name": "Logan J.",
+                    "affiliation_id": [
+                        "60029472"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60025111",
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Journal of Economics Zeitschrift f\u00fcr National\u00f6konomie",
+            "issn": "09318658",
+            "cover_date": "1989-06-01",
+            "venue": "Journal",
+            "volume": "50",
+            "issue": "2",
+            "page_range": "171-180",
+            "doi": "10.1007/BF01239125"
+        },
+        {
+            "title": "Editors' introduction",
+            "eid": "2-s2.0-34249839322",
+            "authors": [
+                {
+                    "scopus_id": "7004024235",
+                    "name": "Gulledge T.",
+                    "affiliation_id": [
+                        "60018319"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.",
+                    "affiliation_id": [
+                        "60025111"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Journal of Productivity Analysis",
+            "issn": "0895562X",
+            "cover_date": "1992-06-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "1-2",
+            "page_range": "5",
+            "doi": "10.1007/BF00158765"
+        }
+    ],
+    "affiliation": "The University of Queensland",
+    "affiliation_id": "60031004",
+    "city": "Brisbane",
+    "country": "Australia",
+    "document_count": 113,
+    "subject_area": [
+        {
+            "@abbrev": "ECON",
+            "@frequency": "101",
+            "$": "Economics, Econometrics and Finance (all)"
+        },
+        {
+            "@abbrev": "DECI",
+            "@frequency": "59",
+            "$": "Decision Sciences (all)"
+        },
+        {
+            "@abbrev": "BUSI",
+            "@frequency": "53",
+            "$": "Business, Management and Accounting (all)"
+        }
+    ],
+    "date fetched": "2024-06-30 09:24:49",
+    "c-score": null
+}

@@ -113,7 +113,8 @@ def fetch_author_publications(author_id, publications=None, start_index=0):
                 'eid': entry.get('eid', ''),
                 'authors': [{
                     'scopus_id': a['authid'],
-                    'name': a['authname']
+                    'name': a['authname'],
+                    'affiliation_id': [aff['$'] for aff in a.get('afid', [])]
                 } for a in entry.get('author')],
                 'citations': int(entry.get('citedby-count', 0)),
                 'publication_name': entry.get('prism:publicationName', ''),
@@ -150,6 +151,7 @@ def fetch_author(**kwargs):
             'name': f"{author_search_result['preferred-name']['surname']}, {author_search_result['preferred-name']['given-name']}",
             'publications': author_publications,
             'affiliation': author_search_result.get('affiliation-current', {}).get('affiliation-name', ''),
+            'affiliation_id': author_search_result.get('affiliation-current', {}).get('affiliation-id', ''),
             'city': author_search_result.get('affiliation-current', {}).get('affiliation-city', ''),
             'country': author_search_result.get('affiliation-current', {}).get('affiliation-country', ''),
             'document_count': int(author_search_result.get('document-count', 0)),
@@ -238,6 +240,6 @@ if __name__ == '__main__':
     # Fetch the top authors based on affiliation
     for affiliation in affiliations:
         file_dir = f'{data_dir}/{affiliation["affiliation"]}'
-        # NOTE: Exclusion logic needs to be rethought
-        # exclude = [r.split('.json')[0] for r in os.listdir(file_dir) if '.json' in r] if os.path.exists(file_dir) else []
+        # if os.path.exists(file_dir):
+        #     continue
         scopus_results = fetch_authors_by_affiliation(affiliation, store_dir=file_dir)
