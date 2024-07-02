@@ -1,6 +1,12 @@
 [
     {
         "affiliation": "University of Adelaide",
+        "scopus_id": [
+            "60009512",
+            "60189793",
+            "60031564",
+            "60189792"
+        ],
         "city": "Adelaide",
         "country": "Australia",
         "researchers": [
@@ -29,6 +35,11 @@
     },
     {
         "affiliation": "Australian National University",
+        "scopus_id": [
+            "60008950",
+            "60075989",
+            "60159889"
+        ],
         "city": "Canberra",
         "country": "Australia",
         "researchers": [
@@ -57,6 +68,14 @@
     },
     {
         "affiliation": "University of Melbourne",
+        "scopus_id": [
+            "60026553",
+            "60033129",
+            "60001522",
+            "60118547",
+            "60118635",
+            "60118642"
+        ],
         "city": "Melbourne",
         "country": "Australia",
         "researchers": [
@@ -85,6 +104,9 @@
     },
     {
         "affiliation": "Monash University",
+        "scopus_id": [
+            "60019578"
+        ],
         "city": "Melbourne",
         "country": "Australia",
         "researchers": [
@@ -113,6 +135,11 @@
     },
     {
         "affiliation": "UNSW",
+        "scopus_id": [
+            "60028333",
+            "60082336",
+            "60011463"
+        ],
         "city": "Sydney",
         "country": "Australia",
         "researchers": [
@@ -141,6 +168,9 @@
     },
     {
         "affiliation": "University of Queensland",
+        "scopus_id": [
+            "60031004"
+        ],
         "city": "Brisbane",
         "country": "Australia",
         "researchers": [
@@ -169,6 +199,13 @@
     },
     {
         "affiliation": "University of Sydney",
+        "scopus_id": [
+            "60025709",
+            "60010710",
+            "60089710",
+            "101795658",
+            "60211917"
+        ],
         "city": "Sydney",
         "country": "Australia",
         "researchers": [
@@ -197,6 +234,9 @@
     },
     {
         "affiliation": "University of Western Australia",
+        "scopus_id": [
+            "60031806"
+        ],
         "city": "Perth",
         "country": "Australia",
         "researchers": [
