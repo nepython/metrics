@@ -1,0 +1,1202 @@
+{
+    "60091926": {
+        "name": "Institute for Health Metrics and Evaluation",
+        "document-count": 1702.0833333333312,
+        "city": "Seattle",
+        "country": "United States"
+    },
+    "60022734": {
+        "name": "St Mark\u2019s Hospital",
+        "document-count": 1088.8333333333326,
+        "city": "Harrow",
+        "country": "United Kingdom"
+    },
+    "60017059": {
+        "name": "German Cancer Research Center",
+        "document-count": 1024.8222222222287,
+        "city": "Heidelberg",
+        "country": "Germany"
+    },
+    "60025029": {
+        "name": "QIMR Berghofer Medical Research Institute",
+        "document-count": 1002.6666666666672,
+        "city": "Brisbane",
+        "country": "Australia"
+    },
+    "60031101": {
+        "name": "University of Cambridge",
+        "document-count": 1002.0500000000001,
+        "city": "Cambridge",
+        "country": "United Kingdom"
+    },
+    "60008950": {
+        "name": "The Australian National University",
+        "document-count": 999.5000000000006,
+        "city": "Canberra",
+        "country": "Australia"
+    },
+    "60103600": {
+        "name": "Bio21 Molecular Science and Biotechnology Institute",
+        "document-count": 973.5,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60012311": {
+        "name": "Karolinska Institutet",
+        "document-count": 952.4500000000002,
+        "city": "Stockholm",
+        "country": "Sweden"
+    },
+    "60031004": {
+        "name": "The University of Queensland",
+        "document-count": 949.1666666666679,
+        "city": "Brisbane",
+        "country": "Australia"
+    },
+    "60005558": {
+        "name": "Mayo Clinic",
+        "document-count": 857.6666666666667,
+        "city": "Rochester",
+        "country": "United States"
+    },
+    "60010337": {
+        "name": "The Institute of Cancer Research",
+        "document-count": 830.7500000000005,
+        "city": "London",
+        "country": "United Kingdom"
+    },
+    "60279163": {
+        "name": "Fred Hutchinson Cancer Center",
+        "document-count": 734.5,
+        "city": "Seattle",
+        "country": "United States"
+    },
+    "60013409": {
+        "name": "National Cancer Institute (NCI)",
+        "document-count": 700.4833333333336,
+        "city": "Rockville",
+        "country": "United States"
+    },
+    "60019578": {
+        "name": "Monash University",
+        "document-count": 682.8833333333336,
+        "city": "Clayton",
+        "country": "Australia"
+    },
+    "60025709": {
+        "name": "The University of Sydney",
+        "document-count": 660.1499999999996,
+        "city": "Sydney",
+        "country": "Australia"
+    },
+    "60005245": {
+        "name": "Royal Melbourne Hospital",
+        "document-count": 637.8166666666668,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60118847": {
+        "name": "School of Computing and Information Systems",
+        "document-count": 627.5,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60118837": {
+        "name": "Centre for Youth Mental Health",
+        "document-count": 570.0499999999998,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60006925": {
+        "name": "La Trobe University",
+        "document-count": 558.6666666666656,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60012932": {
+        "name": "Faculty of Medicine, Nursing and Health Sciences",
+        "document-count": 541.8166666666662,
+        "city": "Clayton",
+        "country": "Australia"
+    },
+    "60015481": {
+        "name": "University of Washington",
+        "document-count": 535.2499999999998,
+        "city": "Seattle",
+        "country": "United States"
+    },
+    "60019778": {
+        "name": "Organisation Europ\u00e9enne pour la Recherche Nucl\u00e9aire",
+        "document-count": 518.5,
+        "city": "Geneva",
+        "country": "Switzerland"
+    },
+    "60029470": {
+        "name": "Commonwealth Scientific and Industrial Research Organisation",
+        "document-count": 515.1666666666665,
+        "city": "Canberra",
+        "country": "Australia"
+    },
+    "60015183": {
+        "name": "Keck School of Medicine of USC",
+        "document-count": 511.49999999999994,
+        "city": "Los Angeles",
+        "country": "United States"
+    },
+    "60028724": {
+        "name": "Institut Jules Bordet",
+        "document-count": 474.75,
+        "city": "Brussels",
+        "country": "Belgium"
+    },
+    "60011520": {
+        "name": "King's College London",
+        "document-count": 459.6166666666659,
+        "city": "London",
+        "country": "United Kingdom"
+    },
+    "60001052": {
+        "name": "Cancer Council Victoria",
+        "document-count": 408.1666666666662,
+        "city": "East Melbourne",
+        "country": "Australia"
+    },
+    "60009343": {
+        "name": "Memorial Sloan-Kettering Cancer Center",
+        "document-count": 407.8666666666666,
+        "city": "New York",
+        "country": "United States"
+    },
+    "60018805": {
+        "name": "Deakin University",
+        "document-count": 391.2500000000002,
+        "city": "Geelong",
+        "country": "Australia"
+    },
+    "60002952": {
+        "name": "Helsingin Yliopisto",
+        "document-count": 390.42619047619036,
+        "city": "Helsinki",
+        "country": "Finland"
+    },
+    "60009102": {
+        "name": "Murdoch Children's Research Institute",
+        "document-count": 384.09999999999985,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60022148": {
+        "name": "University College London",
+        "document-count": 381.40000000000003,
+        "city": "London",
+        "country": "United Kingdom"
+    },
+    "60005681": {
+        "name": "Tel Aviv University",
+        "document-count": 365.4166666666666,
+        "city": "Tel Aviv-Yafo",
+        "country": "Israel"
+    },
+    "60032499": {
+        "name": "Harvard T.H. Chan School of Public Health",
+        "document-count": 358.17619047618996,
+        "city": "Boston",
+        "country": "United States"
+    },
+    "60007493": {
+        "name": "Universit\u00e4t Bonn",
+        "document-count": 356.9055555555551,
+        "city": "Bonn",
+        "country": "Germany"
+    },
+    "60028333": {
+        "name": "UNSW Sydney",
+        "document-count": 353.63333333333344,
+        "city": "Sydney",
+        "country": "Australia"
+    },
+    "60002746": {
+        "name": "Harvard Medical School",
+        "document-count": 349.55952380952334,
+        "city": "Boston",
+        "country": "United States"
+    },
+    "60016908": {
+        "name": "Universit\u00e4t Heidelberg",
+        "document-count": 333.0,
+        "city": "Heidelberg",
+        "country": "Germany"
+    },
+    "60120011": {
+        "name": "Department of Public Health and Primary Care",
+        "document-count": 325.03333333333325,
+        "city": "Cambridge",
+        "country": "United Kingdom"
+    },
+    "60029931": {
+        "name": "Universit\u00e4tsklinikum Erlangen",
+        "document-count": 320.66666666666663,
+        "city": "Erlangen",
+        "country": "Germany"
+    },
+    "60005087": {
+        "name": "Austin Health",
+        "document-count": 316.99999999999983,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60016987": {
+        "name": "Helsinki University Hospital",
+        "document-count": 305.6666666666667,
+        "city": "Helsinki",
+        "country": "Finland"
+    },
+    "60024052": {
+        "name": "Hannover Medical School",
+        "document-count": 294.9166666666665,
+        "city": "Hannover",
+        "country": "Germany"
+    },
+    "60026245": {
+        "name": "Charit\u00e9 \u2013 Universit\u00e4tsmedizin Berlin",
+        "document-count": 292.24999999999994,
+        "city": "Berlin",
+        "country": "Germany"
+    },
+    "60030162": {
+        "name": "Columbia University",
+        "document-count": 282.3333333333333,
+        "city": "New York",
+        "country": "United States"
+    },
+    "60031331": {
+        "name": "London School of Hygiene & Tropical Medicine",
+        "document-count": 271.83333333333337,
+        "city": "London",
+        "country": "United Kingdom"
+    },
+    "60026209": {
+        "name": "Genentech, Inc",
+        "document-count": 270.5,
+        "city": "San Francisco",
+        "country": "United States"
+    },
+    "60026851": {
+        "name": "University of Oxford",
+        "document-count": 267.8333333333333,
+        "city": "Oxford",
+        "country": "United Kingdom"
+    },
+    "60000291": {
+        "name": "Klinikum der Universit\u00e4t M\u00fcnchen",
+        "document-count": 266.90000000000015,
+        "city": "Munich",
+        "country": "Germany"
+    },
+    "60014959": {
+        "name": "Gentofte Hospital",
+        "document-count": 262.9166666666673,
+        "city": "Hellerup",
+        "country": "Denmark"
+    },
+    "60015023": {
+        "name": "The University of Texas MD Anderson Cancer Center",
+        "document-count": 258.08333333333337,
+        "city": "Houston",
+        "country": "United States"
+    },
+    "60029929": {
+        "name": "Massachusetts General Hospital",
+        "document-count": 255.961904761905,
+        "city": "Boston",
+        "country": "United States"
+    },
+    "60114755": {
+        "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Milano",
+        "document-count": 255.41666666666669,
+        "city": "Milan",
+        "country": "Italy"
+    },
+    "60005803": {
+        "name": "Bo\u011fazi\u00e7i \u00dcniversitesi",
+        "document-count": 253.83333333333337,
+        "city": "Bebek",
+        "country": "Turkey"
+    },
+    "60005247": {
+        "name": "David Geffen School of Medicine at UCLA",
+        "document-count": 252.58333333333337,
+        "city": "Los Angeles",
+        "country": "United States"
+    },
+    "60015618": {
+        "name": "Leids Universitair Medisch Centrum",
+        "document-count": 250.75000000000006,
+        "city": "Leiden",
+        "country": "Netherlands"
+    },
+    "60030616": {
+        "name": "Institut-H\u00f4pital Neurologique de Montr\u00e9al",
+        "document-count": 250.00000000000014,
+        "city": "Montreal",
+        "country": "Canada"
+    },
+    "60015205": {
+        "name": "The Netherlands Cancer Institute",
+        "document-count": 248.66666666666674,
+        "city": "Amsterdam",
+        "country": "Netherlands"
+    },
+    "60032114": {
+        "name": "Erasmus MC",
+        "document-count": 248.66666666666669,
+        "city": "Rotterdam",
+        "country": "Netherlands"
+    },
+    "60008948": {
+        "name": "Centro Nacional de Investigaciones Oncol\u00f3gicas",
+        "document-count": 246.41666666666677,
+        "city": "Madrid",
+        "country": "Spain"
+    },
+    "60070177": {
+        "name": "Antoni van Leeuwenhoek Ziekenhuis",
+        "document-count": 244.50000000000006,
+        "city": "Amsterdam",
+        "country": "Netherlands"
+    },
+    "60012981": {
+        "name": "Icahn School of Medicine at Mount Sinai",
+        "document-count": 243.99999999999997,
+        "city": "New York",
+        "country": "United States"
+    },
+    "60001001": {
+        "name": "Broad Institute",
+        "document-count": 238.23571428571486,
+        "city": "Cambridge",
+        "country": "United States"
+    },
+    "60005036": {
+        "name": "Universit\u00e4tsklinikum Hamburg-Eppendorf",
+        "document-count": 236.16666666666669,
+        "city": "Hamburg",
+        "country": "Germany"
+    },
+    "60015153": {
+        "name": "Women's and Children's Hospital Adelaide",
+        "document-count": 235.33333333333348,
+        "city": "Adelaide",
+        "country": "Australia"
+    },
+    "60102081": {
+        "name": "Beijing Academy of Agriculture and Forestry Sciences",
+        "document-count": 233.5,
+        "city": "Beijing",
+        "country": "China"
+    },
+    "60009512": {
+        "name": "The University of Adelaide",
+        "document-count": 231.63333333333367,
+        "city": "Adelaide",
+        "country": "Australia"
+    },
+    "60015980": {
+        "name": "Centre for Adolescent Health",
+        "document-count": 231.5333333333338,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60006583": {
+        "name": "Fondazione IRCCS Istituto Nazionale dei Tumori, Milan",
+        "document-count": 230.0,
+        "city": "Milan",
+        "country": "Italy"
+    },
+    "60006384": {
+        "name": "Max-Planck-Institut f\u00fcr Kolloid- und Grenzfl\u00e4chenforschung",
+        "document-count": 229.0,
+        "city": "Potsdam",
+        "country": "Germany"
+    },
+    "60026489": {
+        "name": "Royal Children's Hospital, Melbourne",
+        "document-count": 228.26666666666677,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60003438": {
+        "name": "ORYGEN Youth Health",
+        "document-count": 226.21666666666704,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60027443": {
+        "name": "University of Hawai\u02bbi Cancer Center",
+        "document-count": 226.0,
+        "city": "Honolulu",
+        "country": "United States"
+    },
+    "60001881": {
+        "name": "The University of Sheffield",
+        "document-count": 225.83333333333334,
+        "city": "Sheffield",
+        "country": "United Kingdom"
+    },
+    "60025641": {
+        "name": "Universit\u00e4t Freiburg",
+        "document-count": 219.5,
+        "city": "Freiburg im Breisgau",
+        "country": "Germany"
+    },
+    "60110201": {
+        "name": "The Florey",
+        "document-count": 219.26666666666668,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60027016": {
+        "name": "Lunenfeld-Tanenbaum Research Institute",
+        "document-count": 212.0833333333334,
+        "city": "Toronto",
+        "country": "Canada"
+    },
+    "60030840": {
+        "name": "K\u00f8benhavns Universitet",
+        "document-count": 211.58333333333337,
+        "city": "Copenhagen",
+        "country": "Denmark"
+    },
+    "60003292": {
+        "name": "Austin Hospital",
+        "document-count": 211.33333333333334,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60073296": {
+        "name": "Laboratoire de l'Acc\u00e9l\u00e9rateur Lin\u00e9aire",
+        "document-count": 208.5,
+        "city": "Orsay",
+        "country": "France"
+    },
+    "60030442": {
+        "name": "Istituto Europeo di Oncologia",
+        "document-count": 208.33333333333331,
+        "city": "Milan",
+        "country": "Italy"
+    },
+    "60030318": {
+        "name": "Universit\u00e0 degli Studi di Milano",
+        "document-count": 203.25000000000006,
+        "city": "Milan",
+        "country": "Italy"
+    },
+    "60031707": {
+        "name": "Michigan State University",
+        "document-count": 200.5,
+        "city": "East Lansing",
+        "country": "United States"
+    },
+    "60027272": {
+        "name": "The University of Edinburgh",
+        "document-count": 200.41666666666683,
+        "city": "Edinburgh",
+        "country": "United Kingdom"
+    },
+    "60024890": {
+        "name": "Vanderbilt-Ingram Cancer Center",
+        "document-count": 196.16666666666669,
+        "city": "Nashville",
+        "country": "United States"
+    },
+    "60015150": {
+        "name": "Imperial College London",
+        "document-count": 195.78333333333333,
+        "city": "London",
+        "country": "United Kingdom"
+    },
+    "60029170": {
+        "name": "Lunds Universitet",
+        "document-count": 195.5,
+        "city": "Lund",
+        "country": "Sweden"
+    },
+    "60031069": {
+        "name": "KU Leuven\u2013 University Hospital Leuven",
+        "document-count": 195.16666666666666,
+        "city": "Leuven",
+        "country": "Belgium"
+    },
+    "60024610": {
+        "name": "Centre international de Recherche sur le Cancer",
+        "document-count": 194.66666666666669,
+        "city": "Lyon",
+        "country": "France"
+    },
+    "60017166": {
+        "name": "The Royal Marsden NHS Foundation Trust",
+        "document-count": 194.50000000000028,
+        "city": "London",
+        "country": "United Kingdom"
+    },
+    "60028717": {
+        "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+        "document-count": 192.66666666666674,
+        "city": "Munich",
+        "country": "Germany"
+    },
+    "60031806": {
+        "name": "The University of Western Australia",
+        "document-count": 192.58333333333331,
+        "city": "Perth",
+        "country": "Australia"
+    },
+    "60019702": {
+        "name": "University of Birmingham",
+        "document-count": 192.41666666666669,
+        "city": "Birmingham",
+        "country": "United Kingdom"
+    },
+    "60016849": {
+        "name": "University of Toronto",
+        "document-count": 191.15,
+        "city": "Toronto",
+        "country": "Canada"
+    },
+    "60029311": {
+        "name": "University of Southern California",
+        "document-count": 190.25000000000003,
+        "city": "Los Angeles",
+        "country": "United States"
+    },
+    "60004718": {
+        "name": "Universit\u00e9 de Gen\u00e8ve",
+        "document-count": 187.0,
+        "city": "Geneva",
+        "country": "Switzerland"
+    },
+    "60099539": {
+        "name": "The Wellcome Centre for Human Genetics",
+        "document-count": 185.00000000000003,
+        "city": "Oxford",
+        "country": "United Kingdom"
+    },
+    "60006297": {
+        "name": "University of Pennsylvania",
+        "document-count": 184.83333333333337,
+        "city": "Philadelphia",
+        "country": "United States"
+    },
+    "60032724": {
+        "name": "University Medical Center Utrecht",
+        "document-count": 184.0333333333334,
+        "city": "Utrecht",
+        "country": "Netherlands"
+    },
+    "60204358": {
+        "name": "Medizinische Fakult\u00e4t",
+        "document-count": 183.03333333333356,
+        "city": "Koln",
+        "country": "Germany"
+    },
+    "60014334": {
+        "name": "Dana-Farber Cancer Institute",
+        "document-count": 183.03333333333342,
+        "city": "Boston",
+        "country": "United States"
+    },
+    "60025778": {
+        "name": "University of Michigan, Ann Arbor",
+        "document-count": 179.1666666666667,
+        "city": "Ann Arbor",
+        "country": "United States"
+    },
+    "60021071": {
+        "name": "University of West Florida",
+        "document-count": 178.83333333333331,
+        "city": "Pensacola",
+        "country": "United States"
+    },
+    "60016247": {
+        "name": "Brandeis University",
+        "document-count": 177.0,
+        "city": "Waltham",
+        "country": "United States"
+    },
+    "60019189": {
+        "name": "Pomeranian Medical University in Szczecin",
+        "document-count": 174.83333333333331,
+        "city": "Szczecin",
+        "country": "Poland"
+    },
+    "60008014": {
+        "name": "The Alfred",
+        "document-count": 173.6,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60071956": {
+        "name": "Azerbaijan National Academy of Sciences",
+        "document-count": 173.0,
+        "city": "Baku",
+        "country": "Azerbaijan"
+    },
+    "60003218": {
+        "name": "High Energy Accelerator Research Organization, Tsukuba",
+        "document-count": 172.5,
+        "city": "Tsukuba",
+        "country": "Japan"
+    },
+    "60025272": {
+        "name": "The University of Tokyo",
+        "document-count": 171.91666666666674,
+        "city": "Tokyo",
+        "country": "Japan"
+    },
+    "60016340": {
+        "name": "INFN, Laboratori Nazionali Di Frascati",
+        "document-count": 171.0,
+        "city": "Frascati",
+        "country": "Italy"
+    },
+    "60003771": {
+        "name": "The University of Manchester",
+        "document-count": 170.85000000000002,
+        "city": "Manchester",
+        "country": "United Kingdom"
+    },
+    "60024045": {
+        "name": "Nanjing Agricultural University",
+        "document-count": 168.5,
+        "city": "Nanjing",
+        "country": "China"
+    },
+    "60016782": {
+        "name": "Brigham and Women's Hospital",
+        "document-count": 168.4261904761905,
+        "city": "Boston",
+        "country": "United States"
+    },
+    "60031216": {
+        "name": "Johannes Gutenberg-Universit\u00e4t Mainz",
+        "document-count": 166.0,
+        "city": "Mainz",
+        "country": "Germany"
+    },
+    "60007161": {
+        "name": "American Cancer Society",
+        "document-count": 162.5,
+        "city": "Kennesaw",
+        "country": "United States"
+    },
+    "60032838": {
+        "name": "Stanford University School of Medicine",
+        "document-count": 162.08333333333337,
+        "city": "Stanford",
+        "country": "United States"
+    },
+    "60028548": {
+        "name": "University of Washington School of Medicine",
+        "document-count": 153.58333333333331,
+        "city": "Seattle",
+        "country": "United States"
+    },
+    "60105169": {
+        "name": "AbbVie",
+        "document-count": 152.0,
+        "city": "North Chicago",
+        "country": "United States"
+    },
+    "60003711": {
+        "name": "University of Pennsylvania Perelman School of Medicine",
+        "document-count": 151.39999999999998,
+        "city": "Philadelphia",
+        "country": "United States"
+    },
+    "60106162": {
+        "name": "AgriBio, Centre for AgriBioscience",
+        "document-count": 151.1666666666666,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60104681": {
+        "name": "Mekelle University",
+        "document-count": 147.66666666666663,
+        "city": "Makale",
+        "country": "Ethiopia"
+    },
+    "60024978": {
+        "name": "University of Utah School of Medicine",
+        "document-count": 146.5,
+        "city": "Salt Lake City",
+        "country": "United States"
+    },
+    "60024749": {
+        "name": "Faculty of Medicine, Dentistry and Health Sciences",
+        "document-count": 146.4333333333333,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60027386": {
+        "name": "Institut de Cancerologie Gustave Roussy",
+        "document-count": 146.03888888888895,
+        "city": "Villejuif",
+        "country": "France"
+    },
+    "60002634": {
+        "name": "University of Oxford Medical Sciences Division",
+        "document-count": 145.5,
+        "city": "Oxford",
+        "country": "United Kingdom"
+    },
+    "60136293": {
+        "name": "Huntsman Cancer Institute",
+        "document-count": 145.5,
+        "city": "Salt Lake City",
+        "country": "United States"
+    },
+    "60018458": {
+        "name": "State Government of Victoria",
+        "document-count": 143.8333333333333,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60002494": {
+        "name": "Universit\u00e9 McGill",
+        "document-count": 143.0,
+        "city": "Montreal",
+        "country": "Canada"
+    },
+    "60013682": {
+        "name": "Seoul National University",
+        "document-count": 142.99999999999994,
+        "city": "Seoul",
+        "country": "South Korea"
+    },
+    "60120001": {
+        "name": "Department of Oncology",
+        "document-count": 142.83333333333331,
+        "city": "Cambridge",
+        "country": "United Kingdom"
+    },
+    "60103673": {
+        "name": "It\u00e4-Suomen yliopisto",
+        "document-count": 142.49999999999972,
+        "city": "Kuopio",
+        "country": "Finland"
+    },
+    "60019870": {
+        "name": "James Cook University",
+        "document-count": 141.66666666666669,
+        "city": "Townsville",
+        "country": "Australia"
+    },
+    "60026070": {
+        "name": "Laboratoire de Physique Subatomique et de Cosmologie de Grenoble",
+        "document-count": 140.0,
+        "city": "Grenoble",
+        "country": "France"
+    },
+    "60110188": {
+        "name": "Erasmus MC Cancer Institute",
+        "document-count": 140.0,
+        "city": "Rotterdam",
+        "country": "Netherlands"
+    },
+    "60001801": {
+        "name": "Prince of Wales Hospital",
+        "document-count": 139.33333333333334,
+        "city": "Sydney",
+        "country": "Australia"
+    },
+    "60021660": {
+        "name": "Istituto Nazionale di Fisica Nucleare - INFN",
+        "document-count": 138.5,
+        "city": "Rome",
+        "country": "Italy"
+    },
+    "60022689": {
+        "name": "Laborat\u00f3rio de Instrumentacao e F\u00edsica Experimental de Part\u00edculas",
+        "document-count": 138.0833333333333,
+        "city": "Lisbon",
+        "country": "Portugal"
+    },
+    "60028435": {
+        "name": "Royal Brisbane and Women's Hospital",
+        "document-count": 137.0,
+        "city": "Brisbane",
+        "country": "Australia"
+    },
+    "60011362": {
+        "name": "RMIT University",
+        "document-count": 136.66666666666669,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60020661": {
+        "name": "University of Liverpool",
+        "document-count": 133.5,
+        "city": "Liverpool",
+        "country": "United Kingdom"
+    },
+    "60007474": {
+        "name": "City of Hope National Med Center",
+        "document-count": 133.0,
+        "city": "Duarte",
+        "country": "United States"
+    },
+    "60008734": {
+        "name": "Vrije Universiteit Amsterdam",
+        "document-count": 132.33333333333334,
+        "city": "Amsterdam",
+        "country": "Netherlands"
+    },
+    "60027512": {
+        "name": "University of Texas Health Science Center at Houston",
+        "document-count": 132.16666666666666,
+        "city": "Houston",
+        "country": "United States"
+    },
+    "60023020": {
+        "name": "Universitat Aut\u00f2noma de Barcelona",
+        "document-count": 130.16666666666666,
+        "city": "Cerdanyola del Valles",
+        "country": "Spain"
+    },
+    "60011394": {
+        "name": "Medizinische Universit\u00e4t Wien",
+        "document-count": 130.0,
+        "city": "Vienna",
+        "country": "Austria"
+    },
+    "60002798": {
+        "name": "Chinese University of Hong Kong",
+        "document-count": 129.74999999999991,
+        "city": "Hong Kong",
+        "country": "Hong Kong"
+    },
+    "60031846": {
+        "name": "University of South Australia",
+        "document-count": 129.48333333333323,
+        "city": "Adelaide",
+        "country": "Australia"
+    },
+    "60029616": {
+        "name": "Aarhus Universitet",
+        "document-count": 129.24999999999977,
+        "city": "Aarhus",
+        "country": "Denmark"
+    },
+    "60027708": {
+        "name": "Tehran University of Medical Sciences",
+        "document-count": 129.16666666666666,
+        "city": "Tehran",
+        "country": "Iran"
+    },
+    "60009389": {
+        "name": "Fox Chase Cancer Center",
+        "document-count": 128.25,
+        "city": "Philadelphia",
+        "country": "United States"
+    },
+    "60004573": {
+        "name": "Peking University Health Science Center",
+        "document-count": 127.33333333333333,
+        "city": "Beijing",
+        "country": "China"
+    },
+    "60004803": {
+        "name": "Moffitt Cancer Center",
+        "document-count": 127.0,
+        "city": "Tampa",
+        "country": "United States"
+    },
+    "60022109": {
+        "name": "Queen Mary University of London",
+        "document-count": 126.5,
+        "city": "London",
+        "country": "United Kingdom"
+    },
+    "60017293": {
+        "name": "Universit\u00e0 degli Studi di Napoli Federico II",
+        "document-count": 126.49999999999999,
+        "city": "Naples",
+        "country": "Italy"
+    },
+    "60027140": {
+        "name": "Strangeways Research Laboratory",
+        "document-count": 126.16666666666666,
+        "city": "Cambridge",
+        "country": "United Kingdom"
+    },
+    "60017311": {
+        "name": "University of Otago",
+        "document-count": 126.0,
+        "city": "Dunedin",
+        "country": "New Zealand"
+    },
+    "60026108": {
+        "name": "Rikshospitalet-Radiumhospitalet HF",
+        "document-count": 125.71666666666636,
+        "city": "Oslo",
+        "country": "Norway"
+    },
+    "60028900": {
+        "name": "National and Kapodistrian University of Athens",
+        "document-count": 124.91666666666667,
+        "city": "Athens",
+        "country": "Greece"
+    },
+    "60006894": {
+        "name": "Mount Sinai Hospital",
+        "document-count": 121.79999999999988,
+        "city": "Toronto",
+        "country": "Canada"
+    },
+    "60023691": {
+        "name": "University of California, San Francisco",
+        "document-count": 121.5,
+        "city": "San Francisco",
+        "country": "United States"
+    },
+    "60139048": {
+        "name": "Public Health Foundation of India",
+        "document-count": 120.41666666666661,
+        "city": "New Delhi",
+        "country": "India"
+    },
+    "60007278": {
+        "name": "University of California, Irvine",
+        "document-count": 119.74999999999979,
+        "city": "Irvine",
+        "country": "United States"
+    },
+    "60027565": {
+        "name": "Columbia University Irving Medical Center",
+        "document-count": 118.99999999999999,
+        "city": "New York",
+        "country": "United States"
+    },
+    "60010365": {
+        "name": "The University of British Columbia",
+        "document-count": 117.5,
+        "city": "Vancouver",
+        "country": "Canada"
+    },
+    "60006876": {
+        "name": "Turun yliopisto",
+        "document-count": 117.16666666666664,
+        "city": "Turku",
+        "country": "Finland"
+    },
+    "60006027": {
+        "name": "Universitair Medisch Centrum Groningen",
+        "document-count": 116.49999999999999,
+        "city": "Groningen",
+        "country": "Netherlands"
+    },
+    "60024025": {
+        "name": "Universit\u00e4t zu K\u00f6ln",
+        "document-count": 116.08333333333324,
+        "city": "Koln",
+        "country": "Germany"
+    },
+    "60024252": {
+        "name": "Kuopio University Hospital",
+        "document-count": 115.83333333333304,
+        "city": "Kuopio",
+        "country": "Finland"
+    },
+    "60005542": {
+        "name": "Universit\u00e4tsklinikum Schleswig-Holstein Campus Kiel",
+        "document-count": 115.33333333333334,
+        "city": "Kiel",
+        "country": "Germany"
+    },
+    "60008724": {
+        "name": "Duke University",
+        "document-count": 115.0,
+        "city": "Durham",
+        "country": "United States"
+    },
+    "60027468": {
+        "name": "Walter and Eliza Hall Institute of Medical Research",
+        "document-count": 114.5,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60030769": {
+        "name": "Vanderbilt University Medical Center",
+        "document-count": 114.33333333333333,
+        "city": "Nashville",
+        "country": "United States"
+    },
+    "60023998": {
+        "name": "Cardiff University",
+        "document-count": 114.0,
+        "city": "Cardiff",
+        "country": "United Kingdom"
+    },
+    "60012769": {
+        "name": "Mailman School of Public Health",
+        "document-count": 113.00000000000001,
+        "city": "New York",
+        "country": "United States"
+    },
+    "60021600": {
+        "name": "University of Toronto Faculty of Medicine",
+        "document-count": 110.54999999999994,
+        "city": "Toronto",
+        "country": "Canada"
+    },
+    "60024697": {
+        "name": "Faculty of Medicine",
+        "document-count": 110.5,
+        "city": "Cairo",
+        "country": "Egypt"
+    },
+    "60019295": {
+        "name": "Karolinska Universitetssjukhuset",
+        "document-count": 108.36111111111111,
+        "city": "Stockholm",
+        "country": "Sweden"
+    },
+    "60025702": {
+        "name": "St. Vincent's Hospital Sydney",
+        "document-count": 107.96666666666664,
+        "city": "Sydney",
+        "country": "Australia"
+    },
+    "60001490": {
+        "name": "University of Glasgow",
+        "document-count": 106.0,
+        "city": "Glasgow",
+        "country": "United Kingdom"
+    },
+    "60022143": {
+        "name": "USC Norris Comprehensive Cancer Center",
+        "document-count": 105.5,
+        "city": "Los Angeles",
+        "country": "United States"
+    },
+    "60027621": {
+        "name": "Menzies Institute for Medical Research",
+        "document-count": 105.33333333333333,
+        "city": "Hobart",
+        "country": "Australia"
+    },
+    "60020469": {
+        "name": "UNC School of Medicine",
+        "document-count": 103.83333333333334,
+        "city": "Chapel Hill",
+        "country": "United States"
+    },
+    "60000762": {
+        "name": "Humboldt-Universit\u00e4t zu Berlin",
+        "document-count": 103.16666666666666,
+        "city": "Berlin",
+        "country": "Germany"
+    },
+    "60000905": {
+        "name": "Inserm",
+        "document-count": 103.16111111111111,
+        "city": "Paris",
+        "country": "France"
+    },
+    "60002947": {
+        "name": "National Technical University of Athens (NTUA)",
+        "document-count": 103.0,
+        "city": "Athens",
+        "country": "Greece"
+    },
+    "60013332": {
+        "name": "Det Sundhedsvidenskabelige Fakultet",
+        "document-count": 102.66666666666639,
+        "city": "Copenhagen",
+        "country": "Denmark"
+    },
+    "60012345": {
+        "name": "Christian-Albrechts-Universit\u00e4t zu Kiel",
+        "document-count": 102.63333333333334,
+        "city": "Kiel",
+        "country": "Germany"
+    },
+    "60106085": {
+        "name": "Centre de Recherche en \u00c9pid\u00e9miologie et Sant\u00e9 des Populations",
+        "document-count": 101.58333333333334,
+        "city": "Villejuif",
+        "country": "France"
+    },
+    "60029278": {
+        "name": "The University of Chicago",
+        "document-count": 101.46666666666665,
+        "city": "Chicago",
+        "country": "United States"
+    },
+    "60010348": {
+        "name": "Universitetet i Oslo",
+        "document-count": 101.08333333333321,
+        "city": "Oslo",
+        "country": "Norway"
+    },
+    "60015935": {
+        "name": "Universit\u00e4re Psychiatrische Kliniken Basel",
+        "document-count": 100.83333333333333,
+        "city": "Basel",
+        "country": "Switzerland"
+    },
+    "60004437": {
+        "name": "Westmead Hospital",
+        "document-count": 100.75,
+        "city": "Sydney",
+        "country": "Australia"
+    },
+    "60172345": {
+        "name": "Faculty of Biology, Medicine and Health",
+        "document-count": 100.64999999999996,
+        "city": "Manchester",
+        "country": "United Kingdom"
+    },
+    "60017246": {
+        "name": "Eberhard Karls Universit\u00e4t T\u00fcbingen",
+        "document-count": 100.55555555555546,
+        "city": "Tubingen",
+        "country": "Germany"
+    },
+    "60022756": {
+        "name": "Washington University School of Medicine in St. Louis",
+        "document-count": 100.24999999999999,
+        "city": "St. Louis",
+        "country": "United States"
+    },
+    "60005518": {
+        "name": "Guy's and St Thomas' NHS Foundation Trust",
+        "document-count": 100.16666666666663,
+        "city": "London",
+        "country": "United Kingdom"
+    },
+    "122092975": {
+        "name": "Human Cancer Genetics Programme and",
+        "document-count": 100.0,
+        "city": null,
+        "country": null
+    },
+    "60010571": {
+        "name": "The University of Newcastle, Australia",
+        "document-count": 99.36666666666665,
+        "city": "Callaghan",
+        "country": "Australia"
+    },
+    "60000401": {
+        "name": "University of M\u00fcnster",
+        "document-count": 99.16666666666667,
+        "city": "Munster",
+        "country": "Germany"
+    },
+    "60026952": {
+        "name": "Mayo Clinic Scottsdale-Phoenix, Arizona",
+        "document-count": 99.0,
+        "city": "Scottsdale",
+        "country": "United States"
+    }
+}

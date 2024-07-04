@@ -232,6 +232,28 @@ def fetch_authors_by_affiliation(affiliation, exclude=list(), store_dir=None):
 
     return scopus_results
 
+def get_affiliation_details(affiliation_id):
+    url = f'https://api.elsevier.com/content/affiliation/affiliation_id/{affiliation_id}'
+
+    try:
+        response = requests.get(url, headers={'X-ELS-APIKey': api_key, 'Accept': 'application/json'})
+        ensure_ratelimit(response)
+        response.raise_for_status()  # Raise an exception for HTTP errors (4xx or 5xx)
+        data = response.json().get('affiliation-retrieval-response', {})
+        affiliation_details = {
+            'affiliation_id': affiliation_id,
+            'name': data['affiliation-name'],
+            'author-count': int(data['coredata']['author-count']),
+            'document-count': int(data['coredata']['document-count']),
+            'country': data.get('country'),
+            'address': data.get('address'),
+            'city': data.get('city'),
+        }
+        return affiliation_details
+    except requests.exceptions.RequestException as e:
+        print(f'Error retrieving affiliation details: {e}')
+        return None
+
 if __name__ == '__main__':
     # Fetch the top 2% researchers in Computer Science
     # scopus_results=read_data(top_2pc_filepath)

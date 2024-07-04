@@ -1,0 +1,1202 @@
+{
+    "60031581": {
+        "name": "California Institute of Technology",
+        "document-count": 9833.333333333332,
+        "city": "Pasadena",
+        "country": "United States"
+    },
+    "60025038": {
+        "name": "University of California, Berkeley",
+        "document-count": 6435.499999999999,
+        "city": "Berkeley",
+        "country": "United States"
+    },
+    "60019778": {
+        "name": "Organisation Europ\u00e9enne pour la Recherche Nucl\u00e9aire",
+        "document-count": 4723.6500000000015,
+        "city": "Geneva",
+        "country": "Switzerland"
+    },
+    "60019702": {
+        "name": "University of Birmingham",
+        "document-count": 4530.866666666667,
+        "city": "Birmingham",
+        "country": "United Kingdom"
+    },
+    "60023579": {
+        "name": "Budker Institute of Nuclear Physics of the Siberian Branch of the RAS",
+        "document-count": 4214.0,
+        "city": "Novosibirsk",
+        "country": "Russian Federation"
+    },
+    "60007278": {
+        "name": "University of California, Irvine",
+        "document-count": 4085.5,
+        "city": "Irvine",
+        "country": "United States"
+    },
+    "60011901": {
+        "name": "Max-Planck-Institut f\u00fcr Gravitationsphysik (Albert-Einstein-Institut)",
+        "document-count": 3840.6666666666833,
+        "city": "Potsdam",
+        "country": "Germany"
+    },
+    "60001490": {
+        "name": "University of Glasgow",
+        "document-count": 3166.3333333333335,
+        "city": "Glasgow",
+        "country": "United Kingdom"
+    },
+    "60008123": {
+        "name": "LIGO Livingston",
+        "document-count": 2669.5,
+        "city": "Livingston",
+        "country": "United States"
+    },
+    "60030162": {
+        "name": "Columbia University",
+        "document-count": 2656.3333333333335,
+        "city": "New York",
+        "country": "United States"
+    },
+    "60004285": {
+        "name": "LIGO Hanford",
+        "document-count": 2504.6666666666665,
+        "city": "Richland",
+        "country": "United States"
+    },
+    "60019513": {
+        "name": "Universit\u00e9 Savoie Mont Blanc",
+        "document-count": 2313.7916666666665,
+        "city": "Chambery",
+        "country": "France"
+    },
+    "60010365": {
+        "name": "The University of British Columbia",
+        "document-count": 2268.166666666667,
+        "city": "Vancouver",
+        "country": "Canada"
+    },
+    "60085982": {
+        "name": "Santa Cruz Institute for Particle Physics",
+        "document-count": 2257.5,
+        "city": "Santa Cruz",
+        "country": "United States"
+    },
+    "60016908": {
+        "name": "Universit\u00e4t Heidelberg",
+        "document-count": 2220.5000000000014,
+        "city": "Heidelberg",
+        "country": "Germany"
+    },
+    "60073296": {
+        "name": "Laboratoire de l'Acc\u00e9l\u00e9rateur Lin\u00e9aire",
+        "document-count": 2214.0,
+        "city": "Orsay",
+        "country": "France"
+    },
+    "60005681": {
+        "name": "Tel Aviv University",
+        "document-count": 2191.5,
+        "city": "Tel Aviv-Yafo",
+        "country": "Israel"
+    },
+    "60005322": {
+        "name": "Ruhr-Universitat Bochum",
+        "document-count": 2173.0,
+        "city": "Bochum",
+        "country": "Germany"
+    },
+    "60110313": {
+        "name": "Instituto de F\u00edsica La Plata",
+        "document-count": 2154.5,
+        "city": "La Plata",
+        "country": "Argentina"
+    },
+    "60025171": {
+        "name": "Laboratoire d'Annecy-le-Vieux de Physique des Particules LAPP",
+        "document-count": 2002.0833333333333,
+        "city": "Annecy",
+        "country": "France"
+    },
+    "60003218": {
+        "name": "High Energy Accelerator Research Organization, Tsukuba",
+        "document-count": 1981.5,
+        "city": "Tsukuba",
+        "country": "Japan"
+    },
+    "60007174": {
+        "name": "Lawrence Berkeley National Laboratory",
+        "document-count": 1879.3333333333333,
+        "city": "Berkeley",
+        "country": "United States"
+    },
+    "60021660": {
+        "name": "Istituto Nazionale di Fisica Nucleare - INFN",
+        "document-count": 1859.3333333333285,
+        "city": "Rome",
+        "country": "Italy"
+    },
+    "60091926": {
+        "name": "Institute for Health Metrics and Evaluation",
+        "document-count": 1835.3333333333303,
+        "city": "Seattle",
+        "country": "United States"
+    },
+    "60031707": {
+        "name": "Michigan State University",
+        "document-count": 1716.1666666666665,
+        "city": "East Lansing",
+        "country": "United States"
+    },
+    "60022689": {
+        "name": "Laborat\u00f3rio de Instrumentacao e F\u00edsica Experimental de Part\u00edculas",
+        "document-count": 1690.0833333333296,
+        "city": "Lisbon",
+        "country": "Portugal"
+    },
+    "60004718": {
+        "name": "Universit\u00e9 de Gen\u00e8ve",
+        "document-count": 1678.1666666666667,
+        "city": "Geneva",
+        "country": "Switzerland"
+    },
+    "60114755": {
+        "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Milano",
+        "document-count": 1672.1666666666667,
+        "city": "Milan",
+        "country": "Italy"
+    },
+    "60023824": {
+        "name": "FOM-Institute of Subatomic Physics - NIKHEF",
+        "document-count": 1669.0,
+        "city": "Amsterdam",
+        "country": "Netherlands"
+    },
+    "60016247": {
+        "name": "Brandeis University",
+        "document-count": 1654.0,
+        "city": "Waltham",
+        "country": "United States"
+    },
+    "60113291": {
+        "name": "Laser Interferometer Gravitational-Wave Observatory",
+        "document-count": 1648.8333333333335,
+        "city": "Cambridge",
+        "country": "United States"
+    },
+    "60113231": {
+        "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Napoli",
+        "document-count": 1544.4166666666665,
+        "city": "Naples",
+        "country": "Italy"
+    },
+    "60029526": {
+        "name": "University of California, Riverside",
+        "document-count": 1533.0,
+        "city": "Riverside",
+        "country": "United States"
+    },
+    "60020650": {
+        "name": "University of Bristol",
+        "document-count": 1522.7,
+        "city": "Bristol",
+        "country": "United Kingdom"
+    },
+    "60016340": {
+        "name": "INFN, Laboratori Nazionali Di Frascati",
+        "document-count": 1510.0,
+        "city": "Frascati",
+        "country": "Italy"
+    },
+    "60025597": {
+        "name": "The Enrico Fermi Institute",
+        "document-count": 1497.5,
+        "city": "Chicago",
+        "country": "United States"
+    },
+    "60030931": {
+        "name": "The University of Oklahoma",
+        "document-count": 1410.0,
+        "city": "Norman",
+        "country": "United States"
+    },
+    "60113665": {
+        "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Pisa",
+        "document-count": 1355.5,
+        "city": "Pisa",
+        "country": "Italy"
+    },
+    "60019909": {
+        "name": "University of Wisconsin-Milwaukee",
+        "document-count": 1346.499999999996,
+        "city": "Milwaukee",
+        "country": "United States"
+    },
+    "60004935": {
+        "name": "Gottfried Wilhelm Leibniz Universit\u00e4t Hannover",
+        "document-count": 1310.4999999999982,
+        "city": "Hannover",
+        "country": "Germany"
+    },
+    "60105477": {
+        "name": "APC - AstroParticule et Cosmologie",
+        "document-count": 1300.5,
+        "city": "Paris",
+        "country": "France"
+    },
+    "60031226": {
+        "name": "Curtin University",
+        "document-count": 1297.583333333333,
+        "city": "Perth",
+        "country": "Australia"
+    },
+    "60020623": {
+        "name": "Brunel University London",
+        "document-count": 1280.6666666666665,
+        "city": "Uxbridge",
+        "country": "United Kingdom"
+    },
+    "60004764": {
+        "name": "Joint Institute for Nuclear Research, Dubna",
+        "document-count": 1244.5833333333335,
+        "city": "Dubna",
+        "country": "Russian Federation"
+    },
+    "60071956": {
+        "name": "Azerbaijan National Academy of Sciences",
+        "document-count": 1236.0833333333333,
+        "city": "Baku",
+        "country": "Azerbaijan"
+    },
+    "60029622": {
+        "name": "Universitetet i Bergen",
+        "document-count": 1202.9999999999998,
+        "city": "Bergen",
+        "country": "Norway"
+    },
+    "60005803": {
+        "name": "Bo\u011fazi\u00e7i \u00dcniversitesi",
+        "document-count": 1199.0833333333335,
+        "city": "Bebek",
+        "country": "Turkey"
+    },
+    "60030551": {
+        "name": "Syracuse University",
+        "document-count": 1189.0,
+        "city": "Syracuse",
+        "country": "United States"
+    },
+    "60031806": {
+        "name": "The University of Western Australia",
+        "document-count": 1181.750000000001,
+        "city": "Perth",
+        "country": "Australia"
+    },
+    "60025272": {
+        "name": "The University of Tokyo",
+        "document-count": 1148.0,
+        "city": "Tokyo",
+        "country": "Japan"
+    },
+    "60007566": {
+        "name": "Louisiana State University",
+        "document-count": 1143.3333333333335,
+        "city": "Baton Rouge",
+        "country": "United States"
+    },
+    "60029170": {
+        "name": "Lunds Universitet",
+        "document-count": 1135.7833333333333,
+        "city": "Lund",
+        "country": "Sweden"
+    },
+    "60025778": {
+        "name": "University of Michigan, Ann Arbor",
+        "document-count": 1128.75,
+        "city": "Ann Arbor",
+        "country": "United States"
+    },
+    "60012708": {
+        "name": "Stanford University",
+        "document-count": 1111.4166666666665,
+        "city": "Stanford",
+        "country": "United States"
+    },
+    "60002483": {
+        "name": "Universiteit van Amsterdam",
+        "document-count": 1107.5,
+        "city": "Amsterdam",
+        "country": "Netherlands"
+    },
+    "60013959": {
+        "name": "University of Florida",
+        "document-count": 1104.0,
+        "city": "Gainesville",
+        "country": "United States"
+    },
+    "60027631": {
+        "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+        "document-count": 1095.0,
+        "city": "Beijing",
+        "country": "China"
+    },
+    "60025641": {
+        "name": "Universit\u00e4t Freiburg",
+        "document-count": 1071.8500000000001,
+        "city": "Freiburg im Breisgau",
+        "country": "Germany"
+    },
+    "60113314": {
+        "name": "European Gravitational Observatory (EGO)",
+        "document-count": 1064.0,
+        "city": "Cascina",
+        "country": "Italy"
+    },
+    "60012317": {
+        "name": "University of Oregon",
+        "document-count": 1048.0,
+        "city": "Eugene",
+        "country": "United States"
+    },
+    "60000036": {
+        "name": "Universidade Federal do Rio de Janeiro",
+        "document-count": 1041.75,
+        "city": "Rio de Janeiro",
+        "country": "Brazil"
+    },
+    "60020661": {
+        "name": "University of Liverpool",
+        "document-count": 1025.8333333333335,
+        "city": "Liverpool",
+        "country": "United Kingdom"
+    },
+    "60017293": {
+        "name": "Universit\u00e0 degli Studi di Napoli Federico II",
+        "document-count": 1009.7500000000001,
+        "city": "Naples",
+        "country": "Italy"
+    },
+    "60267252": {
+        "name": "STFC Particle Physics Department",
+        "document-count": 1005.0,
+        "city": "Didcot",
+        "country": "United Kingdom"
+    },
+    "60003122": {
+        "name": "University of Victoria",
+        "document-count": 989.5,
+        "city": "Victoria",
+        "country": "Canada"
+    },
+    "60002947": {
+        "name": "National Technical University of Athens (NTUA)",
+        "document-count": 973.5,
+        "city": "Athens",
+        "country": "Greece"
+    },
+    "60029241": {
+        "name": "University of California, Santa Barbara",
+        "document-count": 958.0,
+        "city": "Santa Barbara",
+        "country": "United States"
+    },
+    "60107094": {
+        "name": "Centre de Physique des Particules de Marseille",
+        "document-count": 942.1666666666666,
+        "city": "Marseille",
+        "country": "France"
+    },
+    "60026851": {
+        "name": "University of Oxford",
+        "document-count": 941.1666666666666,
+        "city": "Oxford",
+        "country": "United Kingdom"
+    },
+    "60028900": {
+        "name": "National and Kapodistrian University of Athens",
+        "document-count": 937.5,
+        "city": "Athens",
+        "country": "Greece"
+    },
+    "60008950": {
+        "name": "The Australian National University",
+        "document-count": 928.5000000000003,
+        "city": "Canberra",
+        "country": "Australia"
+    },
+    "60016849": {
+        "name": "University of Toronto",
+        "document-count": 919.7,
+        "city": "Toronto",
+        "country": "Canada"
+    },
+    "60002644": {
+        "name": "Universitat de Val\u00e8ncia",
+        "document-count": 917.5000000000001,
+        "city": "Valencia",
+        "country": "Spain"
+    },
+    "60007361": {
+        "name": "Inter-University Centre for Astronomy and Astrophysics India",
+        "document-count": 913.5,
+        "city": "Pune",
+        "country": "India"
+    },
+    "60019578": {
+        "name": "Monash University",
+        "document-count": 903.2166666666673,
+        "city": "Clayton",
+        "country": "Australia"
+    },
+    "60028717": {
+        "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+        "document-count": 898.1666666666667,
+        "city": "Munich",
+        "country": "Germany"
+    },
+    "60015481": {
+        "name": "University of Washington",
+        "document-count": 880.0833333333333,
+        "city": "Seattle",
+        "country": "United States"
+    },
+    "60000497": {
+        "name": "California State University, Fullerton",
+        "document-count": 879.5,
+        "city": "Fullerton",
+        "country": "United States"
+    },
+    "60022195": {
+        "name": "Massachusetts Institute of Technology",
+        "document-count": 875.0500000000005,
+        "city": "Cambridge",
+        "country": "United States"
+    },
+    "60009114": {
+        "name": "P.N. Lebedev Physical Institute of the Russian Academy of Sciences",
+        "document-count": 873.0,
+        "city": "Moscow",
+        "country": "Russian Federation"
+    },
+    "60007512": {
+        "name": "Horia Hulubei National Institute for R&D in Physics and Nuclear Engineering",
+        "document-count": 870.8333333333333,
+        "city": "Magurele",
+        "country": null
+    },
+    "60031004": {
+        "name": "The University of Queensland",
+        "document-count": 865.7833333333349,
+        "city": "Brisbane",
+        "country": "Australia"
+    },
+    "60001881": {
+        "name": "The University of Sheffield",
+        "document-count": 865.5,
+        "city": "Sheffield",
+        "country": "United Kingdom"
+    },
+    "60017317": {
+        "name": "University of Sussex",
+        "document-count": 838.5,
+        "city": "Brighton",
+        "country": "United Kingdom"
+    },
+    "60008724": {
+        "name": "Duke University",
+        "document-count": 833.0,
+        "city": "Durham",
+        "country": "United States"
+    },
+    "60022403": {
+        "name": "Technion - Israel Institute of Technology",
+        "document-count": 809.5,
+        "city": "Haifa",
+        "country": "Israel"
+    },
+    "60017351": {
+        "name": "AGH University of Krakow",
+        "document-count": 795.1666666666666,
+        "city": "Krakow",
+        "country": "Poland"
+    },
+    "60022778": {
+        "name": "Universit\u00e0 degli studi di Bari Aldo Moro",
+        "document-count": 787.0,
+        "city": "Bari",
+        "country": "Italy"
+    },
+    "60017041": {
+        "name": "Niels Bohr Institutet",
+        "document-count": 770.0,
+        "city": "Copenhagen",
+        "country": "Denmark"
+    },
+    "60007493": {
+        "name": "Universit\u00e4t Bonn",
+        "document-count": 739.1785714285714,
+        "city": "Bonn",
+        "country": "Germany"
+    },
+    "60022109": {
+        "name": "Queen Mary University of London",
+        "document-count": 733.5,
+        "city": "London",
+        "country": "United Kingdom"
+    },
+    "60280405": {
+        "name": "College of Arts & Sciences",
+        "document-count": 724.3333333333334,
+        "city": "Boston",
+        "country": "United States"
+    },
+    "60001576": {
+        "name": "Universitat de Barcelona",
+        "document-count": 683.4166666666667,
+        "city": "Barcelona",
+        "country": "Spain"
+    },
+    "60068673": {
+        "name": "National Research Nuclear University MEPhI",
+        "document-count": 681.5,
+        "city": "Moscow",
+        "country": "Russian Federation"
+    },
+    "60102127": {
+        "name": "Aix Marseille Universit\u00e9",
+        "document-count": 679.5833333333333,
+        "city": "Marseille",
+        "country": "France"
+    },
+    "60028868": {
+        "name": "Universit\u00e0 di Pisa",
+        "document-count": 662.3333333333333,
+        "city": "Pisa",
+        "country": "Italy"
+    },
+    "60020486": {
+        "name": "University of Bern",
+        "document-count": 659.3333333333334,
+        "city": "Bern",
+        "country": "Switzerland"
+    },
+    "60009507": {
+        "name": "University of Montreal",
+        "document-count": 657.6388888888889,
+        "city": "Montreal",
+        "country": "Canada"
+    },
+    "60030318": {
+        "name": "Universit\u00e0 degli Studi di Milano",
+        "document-count": 655.8333333333334,
+        "city": "Milan",
+        "country": "Italy"
+    },
+    "60027550": {
+        "name": "University of California, Los Angeles",
+        "document-count": 652.8333333333334,
+        "city": "Los Angeles",
+        "country": "United States"
+    },
+    "60020595": {
+        "name": "Royal Holloway, University of London",
+        "document-count": 652.0,
+        "city": "Egham",
+        "country": "United Kingdom"
+    },
+    "60009550": {
+        "name": "Northern Illinois University",
+        "document-count": 650.0,
+        "city": "DeKalb",
+        "country": "United States"
+    },
+    "60007457": {
+        "name": "Lomonosov Moscow State University",
+        "document-count": 643.0,
+        "city": "Moscow",
+        "country": "Russian Federation"
+    },
+    "60104653": {
+        "name": "Universit\u00e9 Grenoble Alpes",
+        "document-count": 636.5,
+        "city": "Saint Martin d'Heres",
+        "country": "France"
+    },
+    "60003434": {
+        "name": "Hopital Haut-L\u00e9v\u00eaque C.H.U de Bordeaux",
+        "document-count": 614.3333333333333,
+        "city": "Pessac",
+        "country": "France"
+    },
+    "60026553": {
+        "name": "University of Melbourne",
+        "document-count": 607.8833333333332,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60027509": {
+        "name": "Universit\u00e0 degli Studi di Roma \"Tor Vergata\"",
+        "document-count": 590.3333333333334,
+        "city": "Rome",
+        "country": "Italy"
+    },
+    "60019616": {
+        "name": "Harbin Institute of Technology",
+        "document-count": 576.5,
+        "city": "Harbin",
+        "country": "China"
+    },
+    "60006221": {
+        "name": "Brookhaven National Laboratory",
+        "document-count": 573.1666666666667,
+        "city": "Upton",
+        "country": "United States"
+    },
+    "60123796": {
+        "name": "Universit\u00e9 Paris Cit\u00e9",
+        "document-count": 572.5,
+        "city": "Paris",
+        "country": "France"
+    },
+    "60025590": {
+        "name": "SLAC National Accelerator Laboratory",
+        "document-count": 556.5,
+        "city": "Menlo Park",
+        "country": "United States"
+    },
+    "60026357": {
+        "name": "Embry-Riddle Aeronautical University, Prescott",
+        "document-count": 553.0,
+        "city": "Prescott",
+        "country": "United States"
+    },
+    "60007061": {
+        "name": "Universit\u00e0 degli Studi di Salerno",
+        "document-count": 551.6666666666666,
+        "city": "Salerno",
+        "country": "Italy"
+    },
+    "60031216": {
+        "name": "Johannes Gutenberg-Universit\u00e4t Mainz",
+        "document-count": 540.5,
+        "city": "Mainz",
+        "country": "Germany"
+    },
+    "60019533": {
+        "name": "Tianjin University",
+        "document-count": 527.4166666666664,
+        "city": "Tianjin",
+        "country": "China"
+    },
+    "60012729": {
+        "name": "Instituto Nacional de Pesquisas Espaciais",
+        "document-count": 520.5,
+        "city": "Sao Jose dos Campos",
+        "country": "Brazil"
+    },
+    "60028378": {
+        "name": "Stockholms universitet",
+        "document-count": 503.3333333333333,
+        "city": "Stockholm",
+        "country": "Sweden"
+    },
+    "60026415": {
+        "name": "Stony Brook University",
+        "document-count": 494.0,
+        "city": "Stony Brook",
+        "country": "United States"
+    },
+    "60030612": {
+        "name": "University of California, San Diego",
+        "document-count": 484.0,
+        "city": "La Jolla",
+        "country": "United States"
+    },
+    "60031855": {
+        "name": "Tata Institute of Fundamental Research, Mumbai",
+        "document-count": 470.0,
+        "city": "Mumbai",
+        "country": "India"
+    },
+    "60236992": {
+        "name": "Oskar Klein Centre",
+        "document-count": 462.3333333333333,
+        "city": "Stockholm",
+        "country": "Sweden"
+    },
+    "60003771": {
+        "name": "The University of Manchester",
+        "document-count": 456.5,
+        "city": "Manchester",
+        "country": "United Kingdom"
+    },
+    "60027844": {
+        "name": "Universidad de Granada",
+        "document-count": 451.1190476190466,
+        "city": "Granada",
+        "country": "Spain"
+    },
+    "60018353": {
+        "name": "Technische Universit\u00e4t Dresden",
+        "document-count": 451.0,
+        "city": "Dresden",
+        "country": "Germany"
+    },
+    "60114688": {
+        "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Roma Tor Vergata",
+        "document-count": 448.0,
+        "city": "Rome",
+        "country": "Italy"
+    },
+    "60023998": {
+        "name": "Cardiff University",
+        "document-count": 443.1666666666664,
+        "city": "Cardiff",
+        "country": "United Kingdom"
+    },
+    "60024324": {
+        "name": "University of Iowa",
+        "document-count": 434.5,
+        "city": "Iowa City",
+        "country": "United States"
+    },
+    "60026070": {
+        "name": "Laboratoire de Physique Subatomique et de Cosmologie de Grenoble",
+        "document-count": 434.0,
+        "city": "Grenoble",
+        "country": "France"
+    },
+    "60068815": {
+        "name": "University of Belgrade",
+        "document-count": 433.0,
+        "city": "Belgrade",
+        "country": "Serbia"
+    },
+    "60027686": {
+        "name": "Nicolaus Copernicus Astronomical Center of the Polish Academy of Sciences",
+        "document-count": 432.0,
+        "city": "Warsaw",
+        "country": "Poland"
+    },
+    "60022522": {
+        "name": "Montana State University",
+        "document-count": 418.0,
+        "city": "Bozeman",
+        "country": "United States"
+    },
+    "60003548": {
+        "name": "Wigner Research Centre for Physics",
+        "document-count": 413.0,
+        "city": "Budapest",
+        "country": "Hungary"
+    },
+    "60030635": {
+        "name": "Deutsches Elektronen-Synchrotron (DESY)",
+        "document-count": 411.3333333333333,
+        "city": "Hamburg",
+        "country": "Germany"
+    },
+    "60006514": {
+        "name": "Oklahoma State University",
+        "document-count": 409.5,
+        "city": "Stillwater",
+        "country": "United States"
+    },
+    "60114762": {
+        "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Perugia",
+        "document-count": 406.0,
+        "city": "Perugia",
+        "country": "Italy"
+    },
+    "60016529": {
+        "name": "Radboud Universiteit",
+        "document-count": 401.5,
+        "city": "Nijmegen",
+        "country": "Netherlands"
+    },
+    "60114764": {
+        "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Trieste",
+        "document-count": 396.9166666666642,
+        "city": "Trieste",
+        "country": "Italy"
+    },
+    "60024724": {
+        "name": "University of Strathclyde",
+        "document-count": 395.0,
+        "city": "Glasgow",
+        "country": "United Kingdom"
+    },
+    "60019232": {
+        "name": "Institut de F\u00edsica d'Altes Energies, Bellaterra",
+        "document-count": 394.5,
+        "city": "Cerdanyola del Valles",
+        "country": "Spain"
+    },
+    "60031846": {
+        "name": "University of South Australia",
+        "document-count": 392.48333333333386,
+        "city": "Adelaide",
+        "country": "Australia"
+    },
+    "60157832": {
+        "name": "Yale School of Engineering & Applied Science",
+        "document-count": 388.0,
+        "city": "New Haven",
+        "country": "United States"
+    },
+    "60114720": {
+        "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Bologna",
+        "document-count": 385.1666666666667,
+        "city": "Bologna",
+        "country": "Italy"
+    },
+    "60019160": {
+        "name": "Syddansk Universitet",
+        "document-count": 379.3499999999996,
+        "city": "Odense",
+        "country": "Denmark"
+    },
+    "60011520": {
+        "name": "King's College London",
+        "document-count": 377.2499999999962,
+        "city": "London",
+        "country": "United Kingdom"
+    },
+    "60013323": {
+        "name": "Czech Technical University in Prague",
+        "document-count": 363.5,
+        "city": "Prague",
+        "country": "Czech Republic"
+    },
+    "60006589": {
+        "name": "LIP - Lisboa",
+        "document-count": 356.7857142857143,
+        "city": "Lisbon",
+        "country": "Portugal"
+    },
+    "60000762": {
+        "name": "Humboldt-Universit\u00e4t zu Berlin",
+        "document-count": 353.5,
+        "city": "Berlin",
+        "country": "Germany"
+    },
+    "60028218": {
+        "name": "Alma Mater Studiorum Universit\u00e0 di Bologna",
+        "document-count": 347.8333333333333,
+        "city": "Bologna",
+        "country": "Italy"
+    },
+    "60025152": {
+        "name": "University of Cincinnati",
+        "document-count": 346.5,
+        "city": "Cincinnati",
+        "country": "United States"
+    },
+    "60019021": {
+        "name": "Chennai Mathematical Institute",
+        "document-count": 344.0,
+        "city": "Kelambakkam",
+        "country": "India"
+    },
+    "60136210": {
+        "name": "Gran Sasso Science Institute",
+        "document-count": 343.8333333333332,
+        "city": "L'Aquila",
+        "country": "Italy"
+    },
+    "60010513": {
+        "name": "Observatoire de la C\u00f4te d'Azur",
+        "document-count": 340.0,
+        "city": "Nice",
+        "country": "France"
+    },
+    "60007906": {
+        "name": "Christopher Newport University",
+        "document-count": 339.0,
+        "city": "Newport News",
+        "country": "United States"
+    },
+    "60013094": {
+        "name": "Universit\u00e9 Mohammed Premier Oujda",
+        "document-count": 338.2,
+        "city": "Oujda",
+        "country": "Morocco"
+    },
+    "60017826": {
+        "name": "University of South Wales",
+        "document-count": 337.41666666666686,
+        "city": "Pontypridd",
+        "country": "United Kingdom"
+    },
+    "60031745": {
+        "name": "Abdus Salam International Centre for Theoretical Physics",
+        "document-count": 337.41666666666595,
+        "city": "Trieste",
+        "country": "Italy"
+    },
+    "60000745": {
+        "name": "University of Illinois Urbana-Champaign",
+        "document-count": 333.0,
+        "city": "Urbana",
+        "country": "United States"
+    },
+    "60008263": {
+        "name": "Raja Ramanna Centre for Advanced Technology",
+        "document-count": 330.0,
+        "city": "Indore",
+        "country": "India"
+    },
+    "60114732": {
+        "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Genova",
+        "document-count": 329.3333333333333,
+        "city": "Genoa",
+        "country": "Italy"
+    },
+    "60002494": {
+        "name": "Universit\u00e9 McGill",
+        "document-count": 316.83888888888896,
+        "city": "Montreal",
+        "country": "Canada"
+    },
+    "60029445": {
+        "name": "University of Minnesota Twin Cities",
+        "document-count": 315.5,
+        "city": "Minneapolis",
+        "country": "United States"
+    },
+    "60010330": {
+        "name": "Slovak Academy of Sciences",
+        "document-count": 315.5,
+        "city": "Bratislava",
+        "country": "Slovakia"
+    },
+    "60105210": {
+        "name": "Edith Cowan University",
+        "document-count": 314.49999999999994,
+        "city": "Perth",
+        "country": "Australia"
+    },
+    "60007363": {
+        "name": "Northwestern University",
+        "document-count": 309.5,
+        "city": "Evanston",
+        "country": "United States"
+    },
+    "60023020": {
+        "name": "Universitat Aut\u00f2noma de Barcelona",
+        "document-count": 308.5,
+        "city": "Cerdanyola del Valles",
+        "country": "Spain"
+    },
+    "60000221": {
+        "name": "University of Colorado Boulder",
+        "document-count": 305.33333333333326,
+        "city": "Boulder",
+        "country": "United States"
+    },
+    "60092867": {
+        "name": "Korea Institute of Science and Technology Information",
+        "document-count": 304.0,
+        "city": "Yusong",
+        "country": "South Korea"
+    },
+    "60021143": {
+        "name": "West Virginia University",
+        "document-count": 300.0,
+        "city": "Morgantown",
+        "country": "United States"
+    },
+    "60017563": {
+        "name": "Weizmann Institute of Science Israel",
+        "document-count": 300.0,
+        "city": "Rehovot",
+        "country": "Israel"
+    },
+    "60005245": {
+        "name": "Royal Melbourne Hospital",
+        "document-count": 297.00000000000006,
+        "city": "Melbourne",
+        "country": "Australia"
+    },
+    "60010491": {
+        "name": "University of Mississippi",
+        "document-count": 295.5,
+        "city": "University",
+        "country": "United States"
+    },
+    "60011001": {
+        "name": "Kyoto University",
+        "document-count": 287.5,
+        "city": "Kyoto",
+        "country": "Japan"
+    },
+    "60106017": {
+        "name": "Universit\u00e9 Paris-Saclay",
+        "document-count": 284.5,
+        "city": "Gif-sur-Yvette",
+        "country": "France"
+    },
+    "60031249": {
+        "name": "Hampton University",
+        "document-count": 281.5,
+        "city": "Hampton",
+        "country": "United States"
+    },
+    "60002769": {
+        "name": "Faculdade de Ci\u00eancias, Universidade de Lisboa",
+        "document-count": 281.2857142857144,
+        "city": "Lisbon",
+        "country": "Portugal"
+    },
+    "60013372": {
+        "name": "The University of Texas at Austin",
+        "document-count": 280.0,
+        "city": "Austin",
+        "country": "United States"
+    },
+    "60002049": {
+        "name": "Novosibirsk State University",
+        "document-count": 277.6666666666667,
+        "city": "Novosibirsk",
+        "country": "Russian Federation"
+    },
+    "60006297": {
+        "name": "University of Pennsylvania",
+        "document-count": 277.3333333333333,
+        "city": "Philadelphia",
+        "country": "United States"
+    },
+    "60068675": {
+        "name": "Institut fiziki vysokikh energii",
+        "document-count": 274.5,
+        "city": "Protvino",
+        "country": "Russian Federation"
+    },
+    "60014596": {
+        "name": "Universitatea Alexandru Ioan Cuza",
+        "document-count": 272.6666666666667,
+        "city": "Iasi",
+        "country": null
+    },
+    "60028609": {
+        "name": "Argonne National Laboratory",
+        "document-count": 267.5,
+        "city": "Lemont",
+        "country": "United States"
+    },
+    "60009415": {
+        "name": "The University of Texas at Dallas",
+        "document-count": 265.0,
+        "city": "Richardson",
+        "country": "United States"
+    },
+    "60006337": {
+        "name": "NASA Goddard Space Flight Center",
+        "document-count": 260.8333333333334,
+        "city": "Greenbelt",
+        "country": "United States"
+    },
+    "60031101": {
+        "name": "University of Cambridge",
+        "document-count": 258.4166666666667,
+        "city": "Cambridge",
+        "country": "United Kingdom"
+    },
+    "60026796": {
+        "name": "Universidad Aut\u00f3noma de Madrid",
+        "document-count": 255.3333333333334,
+        "city": "Madrid",
+        "country": "Spain"
+    },
+    "60002836": {
+        "name": "Hefei University of Technology",
+        "document-count": 253.0,
+        "city": "Hefei",
+        "country": "China"
+    },
+    "60017396": {
+        "name": "Academia Sinica, Institute Of Physics",
+        "document-count": 252.0,
+        "city": "Taipei",
+        "country": "Taiwan"
+    },
+    "60031514": {
+        "name": "Georg-August-Universit\u00e4t G\u00f6ttingen",
+        "document-count": 250.5,
+        "city": "Gottingen",
+        "country": "Germany"
+    },
+    "60029701": {
+        "name": "National Institutes of Natural Sciences - National Astronomical Observatory of Japan",
+        "document-count": 242.16666666666669,
+        "city": "Mitaka",
+        "country": "Japan"
+    },
+    "60021666": {
+        "name": "Nanjing University of Aeronautics and Astronautics",
+        "document-count": 242.0,
+        "city": "Nanjing",
+        "country": "China"
+    },
+    "60032114": {
+        "name": "Erasmus MC",
+        "document-count": 241.10000000000008,
+        "city": "Rotterdam",
+        "country": "Netherlands"
+    },
+    "60004300": {
+        "name": "Universit\u00e0 degli Studi del Sannio",
+        "document-count": 239.0,
+        "city": "Benevento",
+        "country": "Italy"
+    },
+    "60025995": {
+        "name": "IN2P3 - Institut National de Physique Nucl\u00e9aire et de Physique Des Particules",
+        "document-count": 238.5,
+        "city": "Paris",
+        "country": "France"
+    },
+    "60138276": {
+        "name": "Universit\u00e9 Clermont Auvergne",
+        "document-count": 238.0,
+        "city": "Clermont-Ferrand",
+        "country": "France"
+    },
+    "60020985": {
+        "name": "Universidade de Coimbra",
+        "document-count": 233.28571428571428,
+        "city": "Coimbra",
+        "country": "Portugal"
+    },
+    "60025709": {
+        "name": "The University of Sydney",
+        "document-count": 231.6000000000001,
+        "city": "Sydney",
+        "country": "Australia"
+    },
+    "60024854": {
+        "name": "Institute of Medical and Veterinary Science Australia",
+        "document-count": 227.33333333333334,
+        "city": "Adelaide",
+        "country": "Australia"
+    },
+    "60011666": {
+        "name": "State University of New York Albany",
+        "document-count": 224.95833333333334,
+        "city": "Albany",
+        "country": "United States"
+    },
+    "60028229": {
+        "name": "Universit\u00e4t Hamburg",
+        "document-count": 224.33333333333334,
+        "city": "Hamburg",
+        "country": "Germany"
+    },
+    "60003003": {
+        "name": "Universit\u00e0 degli Studi di Perugia",
+        "document-count": 224.0,
+        "city": "Perugia",
+        "country": "Italy"
+    }
+}
