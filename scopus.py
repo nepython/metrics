@@ -32,6 +32,15 @@ top_2pc_filepath = f'{data_dir}/top_CS_researcher_by_h_index.json'
 # Define the list of affiliations to search for authors
 affiliations = read_data(f'{data_dir}/affiliations.json')
 
+# Define external affiliations of collaborating co-authors
+external_affiliations = dict()
+# read existing data
+if os.path.exists('results/collaborators'):
+    for file in os.listdir('results/collaborators'):
+        if file.endswith('.json'):
+            data = read_data(f'results/collaborators/{file}')
+            external_affiliations.update(data)
+
 def ensure_ratelimit(response, debug=False):
     '''
     This method checks the rate limit headers in the response
@@ -233,6 +242,9 @@ def fetch_authors_by_affiliation(affiliation, exclude=list(), store_dir=None):
     return scopus_results
 
 def get_affiliation_details(affiliation_id):
+    if affiliation_id in external_affiliations:
+        return external_affiliations[affiliation_id]
+
     url = f'https://api.elsevier.com/content/affiliation/affiliation_id/{affiliation_id}'
 
     try:
