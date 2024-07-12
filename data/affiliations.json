@@ -5,7 +5,8 @@
             "60009512",
             "60189793",
             "60031564",
-            "60189792"
+            "60189792",
+            "60082335"
         ],
         "city": "Adelaide",
         "country": "Australia",
@@ -420,7 +421,11 @@
         "scopus_id": [
             "60008950",
             "60075989",
-            "60159889"
+            "60159889",
+            "60083392",
+            "60015827",
+            "60159801",
+            "60159820"
         ],
         "city": "Canberra",
         "country": "Australia",
@@ -825,7 +830,12 @@
             "60001522",
             "60118547",
             "60118635",
-            "60118642"
+            "60118642",
+            "60031124",
+            "60118549",
+            "60087990",
+            "60118647",
+            "60118566"
         ],
         "city": "Melbourne",
         "country": "Australia",
@@ -1202,7 +1212,18 @@
     "Monash University": {
         "affiliation": "Monash University",
         "scopus_id": [
-            "60019578"
+            "60019578",
+            "60012932",
+            "60134796",
+            "60023594",
+            "60191251",
+            "60015711",
+            "60006899",
+            "60189665",
+            "60018894",
+            "60082289",
+            "118075483",
+            "60116267"
         ],
         "city": "Melbourne",
         "country": "Australia",
@@ -1630,12 +1651,18 @@
         "url": "https://scholar.google.com.au/citations?view_op=view_org&hl=en&org=3918598370877205258",
         "data obtained on": "2024-07-12"
     },
-    "UNSW": {
-        "affiliation": "UNSW",
+    "University of New South Wales": {
+        "affiliation": "University of New South Wales",
         "scopus_id": [
             "60028333",
             "60082336",
-            "60011463"
+            "60011463",
+            "60089000",
+            "60190888",
+            "60190890",
+            "60082337",
+            "60026708",
+            "60136196"
         ],
         "city": "Sydney",
         "country": "Australia",
@@ -2027,7 +2054,11 @@
     "University of Queensland": {
         "affiliation": "University of Queensland",
         "scopus_id": [
-            "60031004"
+            "60031004",
+            "60170389",
+            "60088301",
+            "60082884",
+            "60110780"
         ],
         "city": "Brisbane",
         "country": "Australia",
@@ -2414,7 +2445,14 @@
             "60010710",
             "60089710",
             "101795658",
-            "60211917"
+            "60211917",
+            "60121699",
+            "60212023",
+            "60170546",
+            "60084429",
+            "60001491",
+            "60115067",
+            "60175856"
         ],
         "city": "Sydney",
         "country": "Australia",
@@ -2798,7 +2836,12 @@
     "University of Western Australia": {
         "affiliation": "University of Western Australia",
         "scopus_id": [
-            "60031806"
+            "60031806",
+            "60189720",
+            "60189723",
+            "60087991",
+            "60090568",
+            "60159821"
         ],
         "city": "Perth",
         "country": "Australia",

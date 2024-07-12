@@ -37,9 +37,9 @@ affiliations = read_data(affiliations_filepath)
 # Define external affiliations of collaborating co-authors
 external_affiliations_filepath = f'{data_dir}/scopus_affiliation_ids.json'
 if os.path.exists(external_affiliations_filepath):
-    external_affiliations = read_data(external_affiliations_filepath)
+    affiliation_scopus_details = read_data(external_affiliations_filepath)
 else:
-    external_affiliations = dict()
+    affiliation_scopus_details = dict()
 
 
 def ensure_ratelimit(response, debug=False):
@@ -245,8 +245,8 @@ def fetch_authors_by_affiliation(affiliation, exclude=list(), store_dir=None):
     return scopus_results
 
 def get_affiliation_details(affiliation_id, save=True):
-    if affiliation_id in external_affiliations:
-        return external_affiliations[affiliation_id]
+    if affiliation_id in affiliation_scopus_details:
+        return affiliation_scopus_details[affiliation_id]
 
     url = f'https://api.elsevier.com/content/affiliation/affiliation_id/{affiliation_id}'
 
@@ -264,9 +264,9 @@ def get_affiliation_details(affiliation_id, save=True):
             'address': data.get('address'),
             'city': data.get('city'),
         }
-        external_affiliations[affiliation_id] = affiliation_details
+        affiliation_scopus_details[affiliation_id] = affiliation_details
         if save:
-            store_data(external_affiliations, external_affiliations_filepath)
+            store_data(affiliation_scopus_details, external_affiliations_filepath)
         return affiliation_details
     except requests.exceptions.RequestException as e:
         print(f'Error retrieving affiliation details: {e}')
