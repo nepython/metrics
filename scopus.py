@@ -35,13 +35,12 @@ affiliations_filepath = f'{data_dir}/affiliations.json'
 affiliations = read_data(affiliations_filepath)
 
 # Define external affiliations of collaborating co-authors
-external_affiliations = dict()
-# read existing data
-if os.path.exists('results/collaborators'):
-    for file in os.listdir('results/collaborators'):
-        if file.endswith('.json'):
-            data = read_data(f'results/collaborators/{file}')
-            external_affiliations.update(data)
+external_affiliations_filepath = f'{data_dir}/scopus_affiliation_ids.json'
+if os.path.exists(external_affiliations_filepath):
+    external_affiliations = read_data(external_affiliations_filepath)
+else:
+    external_affiliations = dict()
+
 
 def ensure_ratelimit(response, debug=False):
     '''
@@ -245,7 +244,7 @@ def fetch_authors_by_affiliation(affiliation, exclude=list(), store_dir=None):
 
     return scopus_results
 
-def get_affiliation_details(affiliation_id):
+def get_affiliation_details(affiliation_id, save=True):
     if affiliation_id in external_affiliations:
         return external_affiliations[affiliation_id]
 
@@ -253,7 +252,7 @@ def get_affiliation_details(affiliation_id):
 
     try:
         response = requests.get(url, headers={'X-ELS-APIKey': api_key, 'Accept': 'application/json'})
-        ensure_ratelimit(response)
+        ensure_ratelimit(response, debug=True)
         response.raise_for_status()  # Raise an exception for HTTP errors (4xx or 5xx)
         data = response.json().get('affiliation-retrieval-response', {})
         affiliation_details = {
@@ -265,6 +264,9 @@ def get_affiliation_details(affiliation_id):
             'address': data.get('address'),
             'city': data.get('city'),
         }
+        external_affiliations[affiliation_id] = affiliation_details
+        if save:
+            store_data(external_affiliations, external_affiliations_filepath)
         return affiliation_details
     except requests.exceptions.RequestException as e:
         print(f'Error retrieving affiliation details: {e}')
