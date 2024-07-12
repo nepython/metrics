@@ -229,10 +229,12 @@ def fetch_authors_by_affiliation(affiliation, exclude=list(), store_dir=None):
                 country=country,
                 exclude=exclude
             )
-            author['c-score'] = get_cscore(first_name, last_name, affiliation_name, country)
+            # author['c-score'] = get_cscore(first_name, last_name, affiliation_name, country)
             scopus_results.append(author)
         except Exception as e:
             print(e)
+            with open('data/failures.txt', 'a') as f:
+                f.write(f'{affiliation_name}: {author_name}\n')
 
     if store_dir:
         for author in scopus_results:
