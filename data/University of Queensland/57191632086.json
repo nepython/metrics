@@ -705,7 +705,7 @@
                     ]
                 }
             ],
-            "citations": 9335,
+            "citations": 9344,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -1417,7 +1417,7 @@
                     ]
                 }
             ],
-            "citations": 8756,
+            "citations": 8787,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2018-11-10",
@@ -2132,7 +2132,7 @@
                     ]
                 }
             ],
-            "citations": 6900,
+            "citations": 6905,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-12-01",
@@ -2846,7 +2846,7 @@
                     ]
                 }
             ],
-            "citations": 6228,
+            "citations": 6234,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -3559,7 +3559,7 @@
                     ]
                 }
             ],
-            "citations": 5994,
+            "citations": 6008,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2015-01-10",
@@ -4291,7 +4291,7 @@
                     ]
                 }
             ],
-            "citations": 5480,
+            "citations": 5490,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -5025,7 +5025,7 @@
                     ]
                 }
             ],
-            "citations": 5425,
+            "citations": 5443,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2017-09-16",
@@ -5742,7 +5742,7 @@
                     ]
                 }
             ],
-            "citations": 5131,
+            "citations": 5135,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2015-08-22",
@@ -6459,7 +6459,7 @@
                     ]
                 }
             ],
-            "citations": 5072,
+            "citations": 5095,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2018-11-10",
@@ -7187,7 +7187,7 @@
                     ]
                 }
             ],
-            "citations": 4892,
+            "citations": 4907,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -7196,120 +7196,6 @@
             "issue": "10053",
             "page_range": "1459-1544",
             "doi": "10.1016/S0140-6736(16)31012-1"
-        },
-        {
-            "title": "Global burden of disease attributable to mental and substance use disorders: Findings from the Global Burden of Disease Study 2010",
-            "eid": "2-s2.0-84887259083",
-            "authors": [
-                {
-                    "scopus_id": "55906494000",
-                    "name": "Whiteford H.A.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7004040033",
-                    "name": "Degenhardt L.",
-                    "affiliation_id": [
-                        "60109564",
-                        "60118547"
-                    ]
-                },
-                {
-                    "scopus_id": "7102718648",
-                    "name": "Rehm J.",
-                    "affiliation_id": [
-                        "60015765",
-                        "60018353"
-                    ]
-                },
-                {
-                    "scopus_id": "36650484400",
-                    "name": "Baxter A.J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57195348907",
-                    "name": "Ferrari A.J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57202798676",
-                    "name": "Erskine H.E.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57191632086",
-                    "name": "Charlson F.J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57194839077",
-                    "name": "Norman R.E.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6602883567",
-                    "name": "Flaxman A.D.",
-                    "affiliation_id": [
-                        "60091926"
-                    ]
-                },
-                {
-                    "scopus_id": "59053068300",
-                    "name": "Johns N.",
-                    "affiliation_id": [
-                        "60091926"
-                    ]
-                },
-                {
-                    "scopus_id": "48660943500",
-                    "name": "Burstein R.",
-                    "affiliation_id": [
-                        "60091926"
-                    ]
-                },
-                {
-                    "scopus_id": "55481130700",
-                    "name": "Murray C.J.L.",
-                    "affiliation_id": [
-                        "60091926"
-                    ]
-                },
-                {
-                    "scopus_id": "57223885848",
-                    "name": "Vos T.",
-                    "affiliation_id": [
-                        "60091926"
-                    ]
-                }
-            ],
-            "citations": 4329,
-            "publication_name": "The Lancet",
-            "issn": "01406736",
-            "cover_date": "2013-01-01",
-            "venue": "Journal",
-            "volume": "382",
-            "issue": "9904",
-            "page_range": "1575-1586",
-            "doi": "10.1016/S0140-6736(13)61611-6"
         },
         {
             "title": "Global burden of 87 risk factors in 204 countries and territories, 1990\u20132019: a systematic analysis for the Global Burden of Disease Study 2019",
@@ -8244,7 +8130,7 @@
                     ]
                 }
             ],
-            "citations": 4305,
+            "citations": 4353,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2020-10-17",
@@ -8253,6 +8139,120 @@
             "issue": "10258",
             "page_range": "1223-1249",
             "doi": "10.1016/S0140-6736(20)30752-2"
+        },
+        {
+            "title": "Global burden of disease attributable to mental and substance use disorders: Findings from the Global Burden of Disease Study 2010",
+            "eid": "2-s2.0-84887259083",
+            "authors": [
+                {
+                    "scopus_id": "55906494000",
+                    "name": "Whiteford H.A.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7004040033",
+                    "name": "Degenhardt L.",
+                    "affiliation_id": [
+                        "60109564",
+                        "60118547"
+                    ]
+                },
+                {
+                    "scopus_id": "7102718648",
+                    "name": "Rehm J.",
+                    "affiliation_id": [
+                        "60015765",
+                        "60018353"
+                    ]
+                },
+                {
+                    "scopus_id": "36650484400",
+                    "name": "Baxter A.J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57195348907",
+                    "name": "Ferrari A.J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57202798676",
+                    "name": "Erskine H.E.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57191632086",
+                    "name": "Charlson F.J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57194839077",
+                    "name": "Norman R.E.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6602883567",
+                    "name": "Flaxman A.D.",
+                    "affiliation_id": [
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "59053068300",
+                    "name": "Johns N.",
+                    "affiliation_id": [
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "48660943500",
+                    "name": "Burstein R.",
+                    "affiliation_id": [
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "55481130700",
+                    "name": "Murray C.J.L.",
+                    "affiliation_id": [
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "57223885848",
+                    "name": "Vos T.",
+                    "affiliation_id": [
+                        "60091926"
+                    ]
+                }
+            ],
+            "citations": 4338,
+            "publication_name": "The Lancet",
+            "issn": "01406736",
+            "cover_date": "2013-01-01",
+            "venue": "Journal",
+            "volume": "382",
+            "issue": "9904",
+            "page_range": "1575-1586",
+            "doi": "10.1016/S0140-6736(13)61611-6"
         },
         {
             "title": "Global, regional, and national age-sex specific mortality for 264 causes of death, 1980\u20132016: a systematic analysis for the Global Burden of Disease Study 2016",
@@ -8982,7 +8982,7 @@
                     ]
                 }
             ],
-            "citations": 3661,
+            "citations": 3670,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2017-09-16",
@@ -9725,7 +9725,7 @@
                     ]
                 }
             ],
-            "citations": 3417,
+            "citations": 3420,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -10448,7 +10448,7 @@
                     ]
                 }
             ],
-            "citations": 3315,
+            "citations": 3321,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2018-11-10",
@@ -10524,7 +10524,7 @@
                     ]
                 }
             ],
-            "citations": 2278,
+            "citations": 2282,
             "publication_name": "PLoS Medicine",
             "issn": "15491277",
             "cover_date": "2013-11-01",
@@ -11248,7 +11248,7 @@
                     ]
                 }
             ],
-            "citations": 2155,
+            "citations": 2161,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2015-12-05",
@@ -11976,7 +11976,7 @@
                     ]
                 }
             ],
-            "citations": 2129,
+            "citations": 2139,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2018-11-10",
@@ -12718,7 +12718,7 @@
                     ]
                 }
             ],
-            "citations": 2087,
+            "citations": 2093,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2018-09-22",
@@ -13455,7 +13455,7 @@
                     ]
                 }
             ],
-            "citations": 1928,
+            "citations": 1931,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2017-09-16",
@@ -14193,7 +14193,7 @@
                     ]
                 }
             ],
-            "citations": 1671,
+            "citations": 1674,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -14919,7 +14919,7 @@
                     ]
                 }
             ],
-            "citations": 1593,
+            "citations": 1594,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2017-09-16",
@@ -16323,7 +16323,7 @@
                     ]
                 }
             ],
-            "citations": 987,
+            "citations": 991,
             "publication_name": "JAMA - Journal of the American Medical Association",
             "issn": "00987484",
             "cover_date": "2018-04-10",
@@ -17067,7 +17067,7 @@
                     ]
                 }
             ],
-            "citations": 971,
+            "citations": 980,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2020-10-17",
@@ -17254,7 +17254,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 869,
+            "citations": 873,
             "publication_name": "The Lancet Psychiatry",
             "issn": "22150366",
             "cover_date": "2018-12-01",
@@ -17338,7 +17338,7 @@
                     ]
                 }
             ],
-            "citations": 862,
+            "citations": 869,
             "publication_name": "Schizophrenia Bulletin",
             "issn": "05867614",
             "cover_date": "2018-10-17",
@@ -17399,7 +17399,7 @@
                     ]
                 }
             ],
-            "citations": 698,
+            "citations": 702,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2019-07-20",
@@ -17510,7 +17510,7 @@
                     ]
                 }
             ],
-            "citations": 643,
+            "citations": 645,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2013-01-01",
@@ -17666,7 +17666,7 @@
                     ]
                 }
             ],
-            "citations": 543,
+            "citations": 544,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-04-16",
@@ -17819,7 +17819,7 @@
                     ]
                 }
             ],
-            "citations": 481,
+            "citations": 484,
             "publication_name": "The Lancet Global Health",
             "issn": "",
             "cover_date": "2019-10-01",
@@ -19310,7 +19310,7 @@
                     ]
                 }
             ],
-            "citations": 467,
+            "citations": 468,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2017-07-15",
@@ -20268,7 +20268,7 @@
                     ]
                 }
             ],
-            "citations": 378,
+            "citations": 379,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -21012,7 +21012,7 @@
                     ]
                 }
             ],
-            "citations": 363,
+            "citations": 367,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2020-10-17",
@@ -21237,7 +21237,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 356,
+            "citations": 357,
             "publication_name": "The Lancet Psychiatry",
             "issn": "22150366",
             "cover_date": "2020-02-01",
@@ -21246,195 +21246,6 @@
             "issue": "2",
             "page_range": "148-161",
             "doi": "10.1016/S2215-0366(19)30475-4"
-        },
-        {
-            "title": "A comprehensive analysis of mortality-related health metrics associated with mental disorders: a nationwide, register-based cohort study",
-            "eid": "2-s2.0-85074788287",
-            "authors": [
-                {
-                    "scopus_id": "41662092800",
-                    "name": "Plana-Ripoll O.",
-                    "affiliation_id": [
-                        "60029616"
-                    ]
-                },
-                {
-                    "scopus_id": "7202774222",
-                    "name": "Pedersen C.B.",
-                    "affiliation_id": [
-                        "60029616",
-                        "60029616",
-                        "122647813"
-                    ]
-                },
-                {
-                    "scopus_id": "6603788071",
-                    "name": "Agerbo E.",
-                    "affiliation_id": [
-                        "60029616",
-                        "60029616",
-                        "122647813"
-                    ]
-                },
-                {
-                    "scopus_id": "55993394600",
-                    "name": "Holtz Y.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "9278179900",
-                    "name": "Erlangsen A.",
-                    "affiliation_id": [
-                        "122647813",
-                        "112616104",
-                        "60006183",
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "24470011300",
-                    "name": "Canudas-Romo V.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "56450052600",
-                    "name": "Andersen P.K.",
-                    "affiliation_id": [
-                        "60030840"
-                    ]
-                },
-                {
-                    "scopus_id": "57191632086",
-                    "name": "Charlson F.J.",
-                    "affiliation_id": [
-                        "60007963",
-                        "60031004",
-                        "60091926"
-                    ]
-                },
-                {
-                    "scopus_id": "57201674439",
-                    "name": "Christensen M.K.",
-                    "affiliation_id": [
-                        "60029616",
-                        "60029616"
-                    ]
-                },
-                {
-                    "scopus_id": "57202798676",
-                    "name": "Erskine H.E.",
-                    "affiliation_id": [
-                        "60007963",
-                        "60031004",
-                        "60091926"
-                    ]
-                },
-                {
-                    "scopus_id": "57195348907",
-                    "name": "Ferrari A.J.",
-                    "affiliation_id": [
-                        "60007963",
-                        "60031004",
-                        "60091926"
-                    ]
-                },
-                {
-                    "scopus_id": "57216814160",
-                    "name": "Iburg K.M.",
-                    "affiliation_id": [
-                        "60029616"
-                    ]
-                },
-                {
-                    "scopus_id": "56031437300",
-                    "name": "Momen N.",
-                    "affiliation_id": [
-                        "60029616"
-                    ]
-                },
-                {
-                    "scopus_id": "7102903327",
-                    "name": "Mortensen P.B.",
-                    "affiliation_id": [
-                        "60029616",
-                        "60029616",
-                        "122647813"
-                    ]
-                },
-                {
-                    "scopus_id": "7006191523",
-                    "name": "Nordentoft M.",
-                    "affiliation_id": [
-                        "122647813",
-                        "112616104"
-                    ]
-                },
-                {
-                    "scopus_id": "56912450700",
-                    "name": "Santomauro D.F.",
-                    "affiliation_id": [
-                        "60007963",
-                        "60031004",
-                        "60091926"
-                    ]
-                },
-                {
-                    "scopus_id": "57218307442",
-                    "name": "Scott J.G.",
-                    "affiliation_id": [
-                        "60007963",
-                        "60031004",
-                        "60031004",
-                        "60028435"
-                    ]
-                },
-                {
-                    "scopus_id": "55906494000",
-                    "name": "Whiteford H.A.",
-                    "affiliation_id": [
-                        "60007963",
-                        "60031004",
-                        "60091926"
-                    ]
-                },
-                {
-                    "scopus_id": "57204692825",
-                    "name": "Weye N.",
-                    "affiliation_id": [
-                        "60029616"
-                    ]
-                },
-                {
-                    "scopus_id": "57202560550",
-                    "name": "McGrath J.J.",
-                    "affiliation_id": [
-                        "60029616",
-                        "60031004",
-                        "60007963"
-                    ]
-                },
-                {
-                    "scopus_id": "57205492955",
-                    "name": "Laursen T.M.",
-                    "affiliation_id": [
-                        "60029616",
-                        "122647813"
-                    ]
-                }
-            ],
-            "citations": 330,
-            "publication_name": "The Lancet",
-            "issn": "01406736",
-            "cover_date": "2019-11-16",
-            "venue": "Journal",
-            "volume": "394",
-            "issue": "10211",
-            "page_range": "1827-1835",
-            "doi": "10.1016/S0140-6736(19)32316-5"
         },
         {
             "title": "Modeling COVID-19 scenarios for the United States",
@@ -22097,7 +21908,7 @@
                     ]
                 }
             ],
-            "citations": 329,
+            "citations": 331,
             "publication_name": "Nature Medicine",
             "issn": "10788956",
             "cover_date": "2021-01-01",
@@ -22106,6 +21917,195 @@
             "issue": "1",
             "page_range": "94-105",
             "doi": "10.1038/s41591-020-1132-9"
+        },
+        {
+            "title": "A comprehensive analysis of mortality-related health metrics associated with mental disorders: a nationwide, register-based cohort study",
+            "eid": "2-s2.0-85074788287",
+            "authors": [
+                {
+                    "scopus_id": "41662092800",
+                    "name": "Plana-Ripoll O.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7202774222",
+                    "name": "Pedersen C.B.",
+                    "affiliation_id": [
+                        "60029616",
+                        "60029616",
+                        "122647813"
+                    ]
+                },
+                {
+                    "scopus_id": "6603788071",
+                    "name": "Agerbo E.",
+                    "affiliation_id": [
+                        "60029616",
+                        "60029616",
+                        "122647813"
+                    ]
+                },
+                {
+                    "scopus_id": "55993394600",
+                    "name": "Holtz Y.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "9278179900",
+                    "name": "Erlangsen A.",
+                    "affiliation_id": [
+                        "122647813",
+                        "112616104",
+                        "60006183",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "24470011300",
+                    "name": "Canudas-Romo V.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "56450052600",
+                    "name": "Andersen P.K.",
+                    "affiliation_id": [
+                        "60030840"
+                    ]
+                },
+                {
+                    "scopus_id": "57191632086",
+                    "name": "Charlson F.J.",
+                    "affiliation_id": [
+                        "60007963",
+                        "60031004",
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "57201674439",
+                    "name": "Christensen M.K.",
+                    "affiliation_id": [
+                        "60029616",
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "57202798676",
+                    "name": "Erskine H.E.",
+                    "affiliation_id": [
+                        "60007963",
+                        "60031004",
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "57195348907",
+                    "name": "Ferrari A.J.",
+                    "affiliation_id": [
+                        "60007963",
+                        "60031004",
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "57216814160",
+                    "name": "Iburg K.M.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "56031437300",
+                    "name": "Momen N.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7102903327",
+                    "name": "Mortensen P.B.",
+                    "affiliation_id": [
+                        "60029616",
+                        "60029616",
+                        "122647813"
+                    ]
+                },
+                {
+                    "scopus_id": "7006191523",
+                    "name": "Nordentoft M.",
+                    "affiliation_id": [
+                        "122647813",
+                        "112616104"
+                    ]
+                },
+                {
+                    "scopus_id": "56912450700",
+                    "name": "Santomauro D.F.",
+                    "affiliation_id": [
+                        "60007963",
+                        "60031004",
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "57218307442",
+                    "name": "Scott J.G.",
+                    "affiliation_id": [
+                        "60007963",
+                        "60031004",
+                        "60031004",
+                        "60028435"
+                    ]
+                },
+                {
+                    "scopus_id": "55906494000",
+                    "name": "Whiteford H.A.",
+                    "affiliation_id": [
+                        "60007963",
+                        "60031004",
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "57204692825",
+                    "name": "Weye N.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "57202560550",
+                    "name": "McGrath J.J.",
+                    "affiliation_id": [
+                        "60029616",
+                        "60031004",
+                        "60007963"
+                    ]
+                },
+                {
+                    "scopus_id": "57205492955",
+                    "name": "Laursen T.M.",
+                    "affiliation_id": [
+                        "60029616",
+                        "122647813"
+                    ]
+                }
+            ],
+            "citations": 330,
+            "publication_name": "The Lancet",
+            "issn": "01406736",
+            "cover_date": "2019-11-16",
+            "venue": "Journal",
+            "volume": "394",
+            "issue": "10211",
+            "page_range": "1827-1835",
+            "doi": "10.1016/S0140-6736(19)32316-5"
         },
         {
             "title": "Child and adolescent health from 1990 to 2015: Findings from the global burden of diseases, injuries, and risk factors 2015 study",
@@ -22817,7 +22817,7 @@
                     ]
                 }
             ],
-            "citations": 288,
+            "citations": 289,
             "publication_name": "JAMA Pediatrics",
             "issn": "21686203",
             "cover_date": "2017-06-01",
@@ -22883,142 +22883,6 @@
             "issue": "10042",
             "page_range": "376-389",
             "doi": "10.1016/S0140-6736(16)30590-6"
-        },
-        {
-            "title": "The global epidemiology and burden of opioid dependence: Results from the global burden of disease 2010 study",
-            "eid": "2-s2.0-84903901233",
-            "authors": [
-                {
-                    "scopus_id": "7004040033",
-                    "name": "Degenhardt L.",
-                    "affiliation_id": [
-                        "60109564",
-                        "60118547",
-                        "60015481"
-                    ]
-                },
-                {
-                    "scopus_id": "57191632086",
-                    "name": "Charlson F.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "24830692500",
-                    "name": "Mathers B.",
-                    "affiliation_id": [
-                        "60026655"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.D.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "6602883567",
-                    "name": "Flaxman A.D.",
-                    "affiliation_id": [
-                        "60015481"
-                    ]
-                },
-                {
-                    "scopus_id": "59053068300",
-                    "name": "Johns N.",
-                    "affiliation_id": [
-                        "60015481"
-                    ]
-                },
-                {
-                    "scopus_id": "57223885848",
-                    "name": "Vos T.",
-                    "affiliation_id": [
-                        "60015481"
-                    ]
-                }
-            ],
-            "citations": 240,
-            "publication_name": "Addiction",
-            "issn": "09652140",
-            "cover_date": "2014-01-01",
-            "venue": "Journal",
-            "volume": "109",
-            "issue": "8",
-            "page_range": "1320-1333",
-            "doi": "10.1111/add.12551"
-        },
-        {
-            "title": "The Epidemiological Modelling of Major Depressive Disorder: Application for the Global Burden of Disease Study 2010",
-            "eid": "2-s2.0-84880824014",
-            "authors": [
-                {
-                    "scopus_id": "57195348907",
-                    "name": "Ferrari A.J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "106962795"
-                    ]
-                },
-                {
-                    "scopus_id": "57191632086",
-                    "name": "Charlson F.J.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57194839077",
-                    "name": "Norman R.E.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6602883567",
-                    "name": "Flaxman A.D.",
-                    "affiliation_id": [
-                        "60015481"
-                    ]
-                },
-                {
-                    "scopus_id": "57201492915",
-                    "name": "Patten S.B.",
-                    "affiliation_id": [
-                        "60002306"
-                    ]
-                },
-                {
-                    "scopus_id": "57223885848",
-                    "name": "Vos T.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60015481"
-                    ]
-                },
-                {
-                    "scopus_id": "55906494000",
-                    "name": "Whiteford H.A.",
-                    "affiliation_id": [
-                        "60031004",
-                        "106962795"
-                    ]
-                }
-            ],
-            "citations": 240,
-            "publication_name": "PLoS ONE",
-            "issn": "",
-            "cover_date": "2013-07-29",
-            "venue": "Journal",
-            "volume": "8",
-            "issue": "7",
-            "page_range": null,
-            "doi": "10.1371/journal.pone.0069637"
         },
         {
             "title": "Measuring progress and projecting attainment on the basis of past trends of the health-related Sustainable Development Goals in 188 countries: An analysis from the Global Burden of Disease Study 2016",
@@ -23742,7 +23606,7 @@
                     ]
                 }
             ],
-            "citations": 239,
+            "citations": 240,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2017-09-16",
@@ -23751,6 +23615,142 @@
             "issue": "10100",
             "page_range": "1423-1459",
             "doi": "10.1016/S0140-6736(17)32336-X"
+        },
+        {
+            "title": "The global epidemiology and burden of opioid dependence: Results from the global burden of disease 2010 study",
+            "eid": "2-s2.0-84903901233",
+            "authors": [
+                {
+                    "scopus_id": "7004040033",
+                    "name": "Degenhardt L.",
+                    "affiliation_id": [
+                        "60109564",
+                        "60118547",
+                        "60015481"
+                    ]
+                },
+                {
+                    "scopus_id": "57191632086",
+                    "name": "Charlson F.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "24830692500",
+                    "name": "Mathers B.",
+                    "affiliation_id": [
+                        "60026655"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.D.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "6602883567",
+                    "name": "Flaxman A.D.",
+                    "affiliation_id": [
+                        "60015481"
+                    ]
+                },
+                {
+                    "scopus_id": "59053068300",
+                    "name": "Johns N.",
+                    "affiliation_id": [
+                        "60015481"
+                    ]
+                },
+                {
+                    "scopus_id": "57223885848",
+                    "name": "Vos T.",
+                    "affiliation_id": [
+                        "60015481"
+                    ]
+                }
+            ],
+            "citations": 240,
+            "publication_name": "Addiction",
+            "issn": "09652140",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "109",
+            "issue": "8",
+            "page_range": "1320-1333",
+            "doi": "10.1111/add.12551"
+        },
+        {
+            "title": "The Epidemiological Modelling of Major Depressive Disorder: Application for the Global Burden of Disease Study 2010",
+            "eid": "2-s2.0-84880824014",
+            "authors": [
+                {
+                    "scopus_id": "57195348907",
+                    "name": "Ferrari A.J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "106962795"
+                    ]
+                },
+                {
+                    "scopus_id": "57191632086",
+                    "name": "Charlson F.J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57194839077",
+                    "name": "Norman R.E.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6602883567",
+                    "name": "Flaxman A.D.",
+                    "affiliation_id": [
+                        "60015481"
+                    ]
+                },
+                {
+                    "scopus_id": "57201492915",
+                    "name": "Patten S.B.",
+                    "affiliation_id": [
+                        "60002306"
+                    ]
+                },
+                {
+                    "scopus_id": "57223885848",
+                    "name": "Vos T.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60015481"
+                    ]
+                },
+                {
+                    "scopus_id": "55906494000",
+                    "name": "Whiteford H.A.",
+                    "affiliation_id": [
+                        "60031004",
+                        "106962795"
+                    ]
+                }
+            ],
+            "citations": 240,
+            "publication_name": "PLoS ONE",
+            "issn": "",
+            "cover_date": "2013-07-29",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "7",
+            "page_range": null,
+            "doi": "10.1371/journal.pone.0069637"
         },
         {
             "title": "Estimating the burden of disease attributable to injecting drug use as a risk factor for HIV, hepatitis C, and hepatitis B: findings from the Global Burden of Disease Study 2013",
@@ -23837,7 +23837,7 @@
                     ]
                 }
             ],
-            "citations": 229,
+            "citations": 230,
             "publication_name": "The Lancet Infectious Diseases",
             "issn": "14733099",
             "cover_date": "2016-12-01",
@@ -24587,7 +24587,7 @@
                     ]
                 }
             ],
-            "citations": 170,
+            "citations": 171,
             "publication_name": "JAMA Pediatrics",
             "issn": "21686203",
             "cover_date": "2019-06-01",
@@ -25793,7 +25793,7 @@
                     "scopus_id": "6603944414",
                     "name": "Steel Z.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
@@ -25808,21 +25808,21 @@
                     "scopus_id": "55943740200",
                     "name": "Chey T.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "7006647826",
                     "name": "Silove d.r.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "14020310900",
                     "name": "Marnane C.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
@@ -31288,6 +31288,5 @@
             "$": "Neuroscience (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:17:54",
-    "c-score": null
+    "date fetched": "2024-07-12 20:06:04"
 }

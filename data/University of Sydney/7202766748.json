@@ -526,7 +526,7 @@
                     ]
                 }
             ],
-            "citations": 2559,
+            "citations": 2561,
             "publication_name": "Physical Chemistry Chemical Physics",
             "issn": "14639076",
             "cover_date": "2006-07-04",
@@ -1271,7 +1271,7 @@
                     ]
                 }
             ],
-            "citations": 2468,
+            "citations": 2470,
             "publication_name": "Molecular Physics",
             "issn": "00268976",
             "cover_date": "2015-01-01",
@@ -2401,7 +2401,7 @@
                     ]
                 }
             ],
-            "citations": 556,
+            "citations": 559,
             "publication_name": "Journal of Chemical Physics",
             "issn": "00219606",
             "cover_date": "2021-08-28",
@@ -2437,7 +2437,7 @@
                     ]
                 }
             ],
-            "citations": 443,
+            "citations": 445,
             "publication_name": "Journal of Physical Chemistry A",
             "issn": "10895639",
             "cover_date": "2008-12-18",
@@ -2509,7 +2509,7 @@
                     ]
                 }
             ],
-            "citations": 433,
+            "citations": 434,
             "publication_name": "Chemical Physics Letters",
             "issn": "00092614",
             "cover_date": "1992-11-20",
@@ -2768,7 +2768,7 @@
                     ]
                 }
             ],
-            "citations": 243,
+            "citations": 244,
             "publication_name": "Molecular Physics",
             "issn": "00268976",
             "cover_date": "1996-10-01",
@@ -2815,28 +2815,6 @@
             "doi": "10.1002/qua.560560414"
         },
         {
-            "title": "Molecular integrals Over Gaussian Basis Functions",
-            "eid": "2-s2.0-0001045012",
-            "authors": [
-                {
-                    "scopus_id": "7202766748",
-                    "name": "Gill P.M.W.",
-                    "affiliation_id": [
-                        "60027950"
-                    ]
-                }
-            ],
-            "citations": 201,
-            "publication_name": "Advances in Quantum Chemistry",
-            "issn": "00653276",
-            "cover_date": "1994-01-01",
-            "venue": "Book Series",
-            "volume": "25",
-            "issue": "C",
-            "page_range": "141-205",
-            "doi": "10.1016/S0065-3276(08)60019-2"
-        },
-        {
             "title": "Coulomb-attenuated exchange energy density functionals",
             "eid": "2-s2.0-0000328386",
             "authors": [
@@ -2862,7 +2840,7 @@
                     ]
                 }
             ],
-            "citations": 201,
+            "citations": 202,
             "publication_name": "Molecular Physics",
             "issn": "00268976",
             "cover_date": "1996-01-01",
@@ -2871,6 +2849,28 @@
             "issue": "4",
             "page_range": "1005-1009",
             "doi": "10.1080/00268979609484488"
+        },
+        {
+            "title": "Molecular integrals Over Gaussian Basis Functions",
+            "eid": "2-s2.0-0001045012",
+            "authors": [
+                {
+                    "scopus_id": "7202766748",
+                    "name": "Gill P.M.W.",
+                    "affiliation_id": [
+                        "60027950"
+                    ]
+                }
+            ],
+            "citations": 201,
+            "publication_name": "Advances in Quantum Chemistry",
+            "issn": "00653276",
+            "cover_date": "1994-01-01",
+            "venue": "Book Series",
+            "volume": "25",
+            "issue": "C",
+            "page_range": "141-205",
+            "doi": "10.1016/S0065-3276(08)60019-2"
         },
         {
             "title": "Structures and Stabilities of Singly Charged Three-Electron Hemibonded Systems and Their Hydrogen-Bonded Isomers",
@@ -2994,7 +2994,7 @@
                     ]
                 }
             ],
-            "citations": 184,
+            "citations": 185,
             "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
             "issn": "00278424",
             "cover_date": "2005-05-10",
@@ -3094,7 +3094,7 @@
                     ]
                 }
             ],
-            "citations": 136,
+            "citations": 137,
             "publication_name": "Journal of Chemical Theory and Computation",
             "issn": "15499618",
             "cover_date": "2018-03-13",
@@ -3842,7 +3842,7 @@
                     "scopus_id": "8549353500",
                     "name": "Ruzsinszky A.",
                     "affiliation_id": [
-                        "60030398"
+                        "60149312"
                     ]
                 },
                 {
@@ -3944,7 +3944,7 @@
                     ]
                 }
             ],
-            "citations": 101,
+            "citations": 105,
             "publication_name": "Physical Chemistry Chemical Physics",
             "issn": "14639076",
             "cover_date": "2022-08-10",
@@ -7019,6 +7019,42 @@
             "doi": "10.1063/1.2746028"
         },
         {
+            "title": "Chemistry in one dimension",
+            "eid": "2-s2.0-84921684392",
+            "authors": [
+                {
+                    "scopus_id": "7004044473",
+                    "name": "Loos P.F.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "56291985500",
+                    "name": "Ball C.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7202766748",
+                    "name": "Gill P.M.W.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 17,
+            "publication_name": "Physical Chemistry Chemical Physics",
+            "issn": "14639076",
+            "cover_date": "2015-02-07",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "5",
+            "page_range": "3196-3206",
+            "doi": "10.1039/c4cp03571b"
+        },
+        {
             "title": "Decay behavior of least-squares coefficients in auxiliary basis expansions",
             "eid": "2-s2.0-24144435018",
             "authors": [
@@ -7189,42 +7225,6 @@
             "issue": "10",
             "page_range": "4915-4924",
             "doi": "10.1021/acs.jctc.6b00770"
-        },
-        {
-            "title": "Chemistry in one dimension",
-            "eid": "2-s2.0-84921684392",
-            "authors": [
-                {
-                    "scopus_id": "7004044473",
-                    "name": "Loos P.F.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "56291985500",
-                    "name": "Ball C.J.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7202766748",
-                    "name": "Gill P.M.W.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 16,
-            "publication_name": "Physical Chemistry Chemical Physics",
-            "issn": "14639076",
-            "cover_date": "2015-02-07",
-            "venue": "Journal",
-            "volume": "17",
-            "issue": "5",
-            "page_range": "3196-3206",
-            "doi": "10.1039/c4cp03571b"
         },
         {
             "title": "Modeling the potential of a charge distribution [3]",
@@ -8420,6 +8420,35 @@
             "doi": "10.1063/1.4935374"
         },
         {
+            "title": "Chem1D: A software package for electronic structure calculations on one-dimensional systems",
+            "eid": "2-s2.0-84937734968",
+            "authors": [
+                {
+                    "scopus_id": "56291985500",
+                    "name": "Ball C.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7202766748",
+                    "name": "Gill P.M.W.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Molecular Physics",
+            "issn": "00268976",
+            "cover_date": "2015-07-18",
+            "venue": "Journal",
+            "volume": "113",
+            "issue": "13-14",
+            "page_range": "1843-1857",
+            "doi": "10.1080/00268976.2015.1017018"
+        },
+        {
             "title": "MP2[V] - A simple approximation to second-order m\u00f8ller-plesset perturbation theory",
             "eid": "2-s2.0-84927922413",
             "authors": [
@@ -8548,35 +8577,6 @@
             "issue": "15",
             "page_range": "6348-6353",
             "doi": "10.1021/jp963467y"
-        },
-        {
-            "title": "Chem1D: A software package for electronic structure calculations on one-dimensional systems",
-            "eid": "2-s2.0-84937734968",
-            "authors": [
-                {
-                    "scopus_id": "56291985500",
-                    "name": "Ball C.J.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7202766748",
-                    "name": "Gill P.M.W.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 6,
-            "publication_name": "Molecular Physics",
-            "issn": "00268976",
-            "cover_date": "2015-07-18",
-            "venue": "Journal",
-            "volume": "113",
-            "issue": "13-14",
-            "page_range": "1843-1857",
-            "doi": "10.1080/00268976.2015.1017018"
         },
         {
             "title": "Basis functions for electronic structure calculations on spheres",
@@ -9566,6 +9566,5 @@
             "$": "Biochemistry, Genetics and Molecular Biology (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:41:31",
-    "c-score": null
+    "date fetched": "2024-07-12 22:36:49"
 }

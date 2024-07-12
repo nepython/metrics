@@ -70,7 +70,7 @@
                     ]
                 }
             ],
-            "citations": 7740,
+            "citations": 7745,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2002-03-28",
@@ -204,7 +204,7 @@
                     ]
                 }
             ],
-            "citations": 4248,
+            "citations": 4257,
             "publication_name": "Science (New York, N.Y.)",
             "issn": "",
             "cover_date": "2007-01-01",
@@ -339,7 +339,7 @@
                     ]
                 }
             ],
-            "citations": 2929,
+            "citations": 2935,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2003-08-15",
@@ -359,7 +359,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 2779,
+            "citations": 2783,
             "publication_name": "Marine and Freshwater Research",
             "issn": "13231650",
             "cover_date": "1999-01-01",
@@ -389,7 +389,7 @@
                     ]
                 }
             ],
-            "citations": 2118,
+            "citations": 2119,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2010-06-18",
@@ -480,7 +480,7 @@
                     ]
                 }
             ],
-            "citations": 1170,
+            "citations": 1171,
             "publication_name": "Current Biology",
             "issn": "09609822",
             "cover_date": "2007-02-20",
@@ -653,7 +653,7 @@
                     ]
                 }
             ],
-            "citations": 993,
+            "citations": 995,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2015-07-03",
@@ -767,7 +767,7 @@
                     ]
                 }
             ],
-            "citations": 709,
+            "citations": 710,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2008-07-18",
@@ -867,7 +867,7 @@
                     ]
                 }
             ],
-            "citations": 618,
+            "citations": 620,
             "publication_name": "Frontiers in Marine Science",
             "issn": "",
             "cover_date": "2016-01-01",
@@ -876,58 +876,6 @@
             "issue": "MAY",
             "page_range": null,
             "doi": "10.3389/fmars.2016.00062"
-        },
-        {
-            "title": "Fluorescent pigments in corals are photoprotective",
-            "eid": "2-s2.0-0034649665",
-            "authors": [
-                {
-                    "scopus_id": "7005551155",
-                    "name": "Salih A.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7003911527",
-                    "name": "Larkum A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "56223139000",
-                    "name": "Cox G.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7103086849",
-                    "name": "K\u00fchl M.",
-                    "affiliation_id": [
-                        "60030840"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 514,
-            "publication_name": "Nature",
-            "issn": "00280836",
-            "cover_date": "2000-12-14",
-            "venue": "Journal",
-            "volume": "408",
-            "issue": "6814",
-            "page_range": "850-853",
-            "doi": "10.1038/35048564"
         },
         {
             "title": "The human imperative of stabilizing global climate change at 1.5\u00b0C",
@@ -1085,7 +1033,7 @@
                     ]
                 }
             ],
-            "citations": 513,
+            "citations": 518,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2019-09-20",
@@ -1094,6 +1042,58 @@
             "issue": "6459",
             "page_range": null,
             "doi": "10.1126/science.aaw6974"
+        },
+        {
+            "title": "Fluorescent pigments in corals are photoprotective",
+            "eid": "2-s2.0-0034649665",
+            "authors": [
+                {
+                    "scopus_id": "7005551155",
+                    "name": "Salih A.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7003911527",
+                    "name": "Larkum A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "56223139000",
+                    "name": "Cox G.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7103086849",
+                    "name": "K\u00fchl M.",
+                    "affiliation_id": [
+                        "60030840"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 515,
+            "publication_name": "Nature",
+            "issn": "00280836",
+            "cover_date": "2000-12-14",
+            "venue": "Journal",
+            "volume": "408",
+            "issue": "6814",
+            "page_range": "850-853",
+            "doi": "10.1038/35048564"
         },
         {
             "title": "Temperature-induced bleaching of corals begins with impairment of the CO<inf>2</inf> fixation mechanism in zooxanthellae",
@@ -1176,7 +1176,7 @@
                     ]
                 }
             ],
-            "citations": 498,
+            "citations": 501,
             "publication_name": "Frontiers in Marine Science",
             "issn": "",
             "cover_date": "2017-05-29",
@@ -1227,7 +1227,7 @@
                     ]
                 }
             ],
-            "citations": 492,
+            "citations": 493,
             "publication_name": "Global Change Biology",
             "issn": "13541013",
             "cover_date": "2005-12-01",
@@ -1371,7 +1371,7 @@
                     ]
                 }
             ],
-            "citations": 490,
+            "citations": 492,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2013-12-03",
@@ -1401,7 +1401,7 @@
                     ]
                 }
             ],
-            "citations": 431,
+            "citations": 432,
             "publication_name": "Journal of Experimental Marine Biology and Ecology",
             "issn": "00220981",
             "cover_date": "1989-08-22",
@@ -1570,7 +1570,7 @@
                     ]
                 }
             ],
-            "citations": 420,
+            "citations": 421,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2014-01-01",
@@ -1616,7 +1616,7 @@
                     ]
                 }
             ],
-            "citations": 412,
+            "citations": 413,
             "publication_name": "Coral Reefs",
             "issn": "07224028",
             "cover_date": "2010-01-01",
@@ -1742,7 +1742,7 @@
                     ]
                 }
             ],
-            "citations": 388,
+            "citations": 390,
             "publication_name": "ISME Journal",
             "issn": "17517362",
             "cover_date": "2015-10-23",
@@ -2094,7 +2094,7 @@
                     ]
                 }
             ],
-            "citations": 348,
+            "citations": 349,
             "publication_name": "Current Opinion in Environmental Sustainability",
             "issn": "18773435",
             "cover_date": "2009-10-01",
@@ -2216,7 +2216,7 @@
                     ]
                 }
             ],
-            "citations": 333,
+            "citations": 334,
             "publication_name": "Nature Climate Change",
             "issn": "1758678X",
             "cover_date": "2013-02-01",
@@ -2302,7 +2302,7 @@
                     ]
                 }
             ],
-            "citations": 330,
+            "citations": 331,
             "publication_name": "Marine Pollution Bulletin",
             "issn": "0025326X",
             "cover_date": "2009-10-01",
@@ -2503,7 +2503,7 @@
                     ]
                 }
             ],
-            "citations": 287,
+            "citations": 288,
             "publication_name": "Journal of Biogeography",
             "issn": "03050270",
             "cover_date": "2010-05-01",
@@ -2576,7 +2576,7 @@
                     ]
                 }
             ],
-            "citations": 279,
+            "citations": 280,
             "publication_name": "Marine Ecology Progress Series",
             "issn": "01718630",
             "cover_date": "2004-12-21",
@@ -2727,7 +2727,7 @@
                     ]
                 }
             ],
-            "citations": 259,
+            "citations": 260,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2009-12-01",
@@ -2770,7 +2770,7 @@
                     ]
                 }
             ],
-            "citations": 254,
+            "citations": 255,
             "publication_name": "Coral Reefs",
             "issn": "07224028",
             "cover_date": "2006-08-01",
@@ -2820,7 +2820,7 @@
                     ]
                 }
             ],
-            "citations": 252,
+            "citations": 253,
             "publication_name": "Trends in Ecology and Evolution",
             "issn": "01695347",
             "cover_date": "2008-07-01",
@@ -3070,7 +3070,7 @@
                     ]
                 }
             ],
-            "citations": 229,
+            "citations": 230,
             "publication_name": "Journal of Experimental Marine Biology and Ecology",
             "issn": "00220981",
             "cover_date": "2007-06-15",
@@ -3142,7 +3142,7 @@
                     ]
                 }
             ],
-            "citations": 216,
+            "citations": 217,
             "publication_name": "Coral Reefs",
             "issn": "07224028",
             "cover_date": "2001-01-01",
@@ -3199,7 +3199,7 @@
                     ]
                 }
             ],
-            "citations": 213,
+            "citations": 214,
             "publication_name": "Marine Ecology Progress Series",
             "issn": "01718630",
             "cover_date": "2007-09-27",
@@ -3651,7 +3651,7 @@
                     ]
                 }
             ],
-            "citations": 187,
+            "citations": 188,
             "publication_name": "Limnology and Oceanography",
             "issn": "00243590",
             "cover_date": "2007-01-01",
@@ -3832,7 +3832,7 @@
                     ]
                 }
             ],
-            "citations": 180,
+            "citations": 181,
             "publication_name": "Ecology Letters",
             "issn": "1461023X",
             "cover_date": "2012-01-01",
@@ -3861,7 +3861,7 @@
                     ]
                 }
             ],
-            "citations": 171,
+            "citations": 172,
             "publication_name": "Plant, Cell and Environment",
             "issn": "01407791",
             "cover_date": "2001-02-19",
@@ -3988,7 +3988,7 @@
                     ]
                 }
             ],
-            "citations": 158,
+            "citations": 159,
             "publication_name": "Science Advances",
             "issn": "",
             "cover_date": "2017-02-01",
@@ -4346,7 +4346,7 @@
                     ]
                 }
             ],
-            "citations": 148,
+            "citations": 149,
             "publication_name": "Nature Microbiology",
             "issn": "",
             "cover_date": "2019-12-01",
@@ -4689,7 +4689,7 @@
                     ]
                 }
             ],
-            "citations": 140,
+            "citations": 141,
             "publication_name": "Conservation Letters",
             "issn": "",
             "cover_date": "2018-11-01",
@@ -4771,50 +4771,6 @@
             "issue": "6",
             "page_range": "332-344",
             "doi": "10.1016/j.tree.2010.02.002"
-        },
-        {
-            "title": "Niche partitioning of closely related symbiotic dinoflagellates",
-            "eid": "2-s2.0-34548533977",
-            "authors": [
-                {
-                    "scopus_id": "21733445400",
-                    "name": "Sampayo E.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "21733496800",
-                    "name": "Franceschinis L.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60008293"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7005822223",
-                    "name": "Dove S.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 135,
-            "publication_name": "Molecular Ecology",
-            "issn": "09621083",
-            "cover_date": "2007-09-01",
-            "venue": "Journal",
-            "volume": "16",
-            "issue": "17",
-            "page_range": "3721-3733",
-            "doi": "10.1111/j.1365-294X.2007.03403.x"
         },
         {
             "title": "The future of resilience-based management in coral reef ecosystems",
@@ -4974,7 +4930,7 @@
                     ]
                 }
             ],
-            "citations": 134,
+            "citations": 135,
             "publication_name": "Journal of Environmental Management",
             "issn": "03014797",
             "cover_date": "2019-03-01",
@@ -4983,6 +4939,50 @@
             "issue": "",
             "page_range": "291-301",
             "doi": "10.1016/j.jenvman.2018.11.034"
+        },
+        {
+            "title": "Niche partitioning of closely related symbiotic dinoflagellates",
+            "eid": "2-s2.0-34548533977",
+            "authors": [
+                {
+                    "scopus_id": "21733445400",
+                    "name": "Sampayo E.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "21733496800",
+                    "name": "Franceschinis L.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60008293"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7005822223",
+                    "name": "Dove S.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 135,
+            "publication_name": "Molecular Ecology",
+            "issn": "09621083",
+            "cover_date": "2007-09-01",
+            "venue": "Journal",
+            "volume": "16",
+            "issue": "17",
+            "page_range": "3721-3733",
+            "doi": "10.1111/j.1365-294X.2007.03403.x"
         },
         {
             "title": "The 2.2 \u00c5 crystal structure of a pocilloporin pigment reveals a nonplanar chromophore conformation",
@@ -5058,49 +5058,6 @@
             "doi": "10.1016/S0969-2126(03)00028-5"
         },
         {
-            "title": "Genetic variability of the symbiotic dinoflagellates from the wide ranging coral species Seriatopora hystrix and Acropora longicyathus in the Indo-West Pacific",
-            "eid": "2-s2.0-0035814009",
-            "authors": [
-                {
-                    "scopus_id": "7102037475",
-                    "name": "Loh W.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6603639245",
-                    "name": "Loi T.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "8535406900",
-                    "name": "Carter D.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 127,
-            "publication_name": "Marine Ecology Progress Series",
-            "issn": "01718630",
-            "cover_date": "2001-11-05",
-            "venue": "Journal",
-            "volume": "222",
-            "issue": "",
-            "page_range": "97-107",
-            "doi": "10.3354/meps222097"
-        },
-        {
             "title": "Securing a Long-term Future for Coral Reefs",
             "eid": "2-s2.0-85056597547",
             "authors": [
@@ -5145,7 +5102,7 @@
                     ]
                 }
             ],
-            "citations": 126,
+            "citations": 128,
             "publication_name": "Trends in Ecology and Evolution",
             "issn": "01695347",
             "cover_date": "2018-12-01",
@@ -5154,6 +5111,49 @@
             "issue": "12",
             "page_range": "936-944",
             "doi": "10.1016/j.tree.2018.09.006"
+        },
+        {
+            "title": "Genetic variability of the symbiotic dinoflagellates from the wide ranging coral species Seriatopora hystrix and Acropora longicyathus in the Indo-West Pacific",
+            "eid": "2-s2.0-0035814009",
+            "authors": [
+                {
+                    "scopus_id": "7102037475",
+                    "name": "Loh W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6603639245",
+                    "name": "Loi T.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "8535406900",
+                    "name": "Carter D.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 127,
+            "publication_name": "Marine Ecology Progress Series",
+            "issn": "01718630",
+            "cover_date": "2001-11-05",
+            "venue": "Journal",
+            "volume": "222",
+            "issue": "",
+            "page_range": "97-107",
+            "doi": "10.3354/meps222097"
         },
         {
             "title": "Australian politicians' beliefs about climate change: Political partisanship and political ideology",
@@ -5206,6 +5206,35 @@
             "doi": "10.1080/09644016.2012.698887"
         },
         {
+            "title": "Temperature, food availability, and the development of marine invertebrate larvae",
+            "eid": "2-s2.0-0029486256",
+            "authors": [
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "57206173297",
+                    "name": "Pearse J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 124,
+            "publication_name": "American Zoologist",
+            "issn": "00031569",
+            "cover_date": "1995-01-01",
+            "venue": "Journal",
+            "volume": "35",
+            "issue": "4",
+            "page_range": "415-425",
+            "doi": "10.1093/icb/35.4.415"
+        },
+        {
             "title": "Latitudinal variability in symbiont specificity within the widespread scleractinian coral Plesiastrea versipora",
             "eid": "2-s2.0-0034931145",
             "authors": [
@@ -5247,35 +5276,6 @@
             "issue": "6",
             "page_range": "1175-1181",
             "doi": "10.1007/s002270100536"
-        },
-        {
-            "title": "Temperature, food availability, and the development of marine invertebrate larvae",
-            "eid": "2-s2.0-0029486256",
-            "authors": [
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "57206173297",
-                    "name": "Pearse J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 123,
-            "publication_name": "American Zoologist",
-            "issn": "00031569",
-            "cover_date": "1995-01-01",
-            "venue": "Journal",
-            "volume": "35",
-            "issue": "4",
-            "page_range": "415-425",
-            "doi": "10.1093/icb/35.4.415"
         },
         {
             "title": "PAM chlorophyll fluorometry: A new in situ technique for stress assessment in scleractinian corals, used to examine the effects of cyanide from cyanide fishing",
@@ -5588,6 +5588,56 @@
             "doi": ""
         },
         {
+            "title": "Present limits to heat-adaptability in corals and population-level responses to climate extremes",
+            "eid": "2-s2.0-80052929351",
+            "authors": [
+                {
+                    "scopus_id": "7003294093",
+                    "name": "Riegl B.M.",
+                    "affiliation_id": [
+                        "60019600"
+                    ]
+                },
+                {
+                    "scopus_id": "6507258668",
+                    "name": "Purkis S.J.",
+                    "affiliation_id": [
+                        "60019600"
+                    ]
+                },
+                {
+                    "scopus_id": "48460927100",
+                    "name": "Al-Cibahy A.S.",
+                    "affiliation_id": [
+                        "60070798"
+                    ]
+                },
+                {
+                    "scopus_id": "6604059959",
+                    "name": "Abdel-Moati M.A.",
+                    "affiliation_id": [
+                        "108122483"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 117,
+            "publication_name": "PLoS ONE",
+            "issn": "",
+            "cover_date": "2011-09-20",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "9",
+            "page_range": null,
+            "doi": "10.1371/journal.pone.0024802"
+        },
+        {
             "title": "People and the changing nature of coral reefs",
             "eid": "2-s2.0-85062809074",
             "authors": [
@@ -5672,35 +5722,30 @@
             "doi": "10.1007/s00338-010-0647-9"
         },
         {
-            "title": "Present limits to heat-adaptability in corals and population-level responses to climate extremes",
-            "eid": "2-s2.0-80052929351",
+            "title": "The impact of benthic algae on the settlement of a reef-building coral",
+            "eid": "2-s2.0-76149088082",
             "authors": [
                 {
-                    "scopus_id": "7003294093",
-                    "name": "Riegl B.M.",
+                    "scopus_id": "6602495853",
+                    "name": "Diaz-Pulido G.",
                     "affiliation_id": [
-                        "60019600"
+                        "60031004"
                     ]
                 },
                 {
-                    "scopus_id": "6507258668",
-                    "name": "Purkis S.J.",
+                    "scopus_id": "6508150500",
+                    "name": "Harii S.",
                     "affiliation_id": [
-                        "60019600"
+                        "60031004",
+                        "60027792"
                     ]
                 },
                 {
-                    "scopus_id": "48460927100",
-                    "name": "Al-Cibahy A.S.",
+                    "scopus_id": "6701840015",
+                    "name": "McCook L.J.",
                     "affiliation_id": [
-                        "60070798"
-                    ]
-                },
-                {
-                    "scopus_id": "6604059959",
-                    "name": "Abdel-Moati M.A.",
-                    "affiliation_id": [
-                        "108122483"
+                        "60004317",
+                        "108084566"
                     ]
                 },
                 {
@@ -5712,14 +5757,14 @@
                 }
             ],
             "citations": 115,
-            "publication_name": "PLoS ONE",
-            "issn": "",
-            "cover_date": "2011-09-20",
+            "publication_name": "Coral Reefs",
+            "issn": "07224028",
+            "cover_date": "2010-02-01",
             "venue": "Journal",
-            "volume": "6",
-            "issue": "9",
-            "page_range": null,
-            "doi": "10.1371/journal.pone.0024802"
+            "volume": "29",
+            "issue": "1",
+            "page_range": "203-208",
+            "doi": "10.1007/s00338-009-0573-x"
         },
         {
             "title": "Resistance to thermal stress in corals without changes in symbiont composition",
@@ -5757,51 +5802,6 @@
             "issue": "1731",
             "page_range": "1100-1107",
             "doi": "10.1098/rspb.2011.1780"
-        },
-        {
-            "title": "The impact of benthic algae on the settlement of a reef-building coral",
-            "eid": "2-s2.0-76149088082",
-            "authors": [
-                {
-                    "scopus_id": "6602495853",
-                    "name": "Diaz-Pulido G.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6508150500",
-                    "name": "Harii S.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60027792"
-                    ]
-                },
-                {
-                    "scopus_id": "6701840015",
-                    "name": "McCook L.J.",
-                    "affiliation_id": [
-                        "60004317",
-                        "108084566"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 114,
-            "publication_name": "Coral Reefs",
-            "issn": "07224028",
-            "cover_date": "2010-02-01",
-            "venue": "Journal",
-            "volume": "29",
-            "issue": "1",
-            "page_range": "203-208",
-            "doi": "10.1007/s00338-009-0573-x"
         },
         {
             "title": "Dynamics of a temperature-related coral disease outbreak",
@@ -6104,7 +6104,7 @@
                     ]
                 }
             ],
-            "citations": 110,
+            "citations": 111,
             "publication_name": "ISME Journal",
             "issn": "17517362",
             "cover_date": "2015-09-19",
@@ -6294,7 +6294,7 @@
                     ]
                 }
             ],
-            "citations": 106,
+            "citations": 107,
             "publication_name": "Marine and Freshwater Research",
             "issn": "13231650",
             "cover_date": "2000-01-01",
@@ -6582,6 +6582,68 @@
             "doi": "10.1007/BF00300964"
         },
         {
+            "title": "Sponge biomass and bioerosion rates increase under ocean warming and acidification",
+            "eid": "2-s2.0-84887442076",
+            "authors": [
+                {
+                    "scopus_id": "24168119000",
+                    "name": "Fang J.K.H.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55893744100",
+                    "name": "Mello-Athayde M.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6602585081",
+                    "name": "Sch\u00f6nberg C.H.L.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7201356222",
+                    "name": "Kline D.I.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7005822223",
+                    "name": "Dove S.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 102,
+            "publication_name": "Global Change Biology",
+            "issn": "13541013",
+            "cover_date": "2013-12-01",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "12",
+            "page_range": "3581-3591",
+            "doi": "10.1111/gcb.12334"
+        },
+        {
             "title": "Coral bleaching following wintry weather",
             "eid": "2-s2.0-13444261357",
             "authors": [
@@ -6637,68 +6699,6 @@
             "issue": "1",
             "page_range": "265-271",
             "doi": "10.4319/lo.2005.50.1.0265"
-        },
-        {
-            "title": "Sponge biomass and bioerosion rates increase under ocean warming and acidification",
-            "eid": "2-s2.0-84887442076",
-            "authors": [
-                {
-                    "scopus_id": "24168119000",
-                    "name": "Fang J.K.H.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "55893744100",
-                    "name": "Mello-Athayde M.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6602585081",
-                    "name": "Sch\u00f6nberg C.H.L.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7201356222",
-                    "name": "Kline D.I.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7005822223",
-                    "name": "Dove S.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 101,
-            "publication_name": "Global Change Biology",
-            "issn": "13541013",
-            "cover_date": "2013-12-01",
-            "venue": "Journal",
-            "volume": "19",
-            "issue": "12",
-            "page_range": "3581-3591",
-            "doi": "10.1111/gcb.12334"
         },
         {
             "title": "Deep reefs of the Great Barrier Reef offer limited thermal refuge during mass coral bleaching",
@@ -7613,6 +7613,57 @@
             "doi": "10.3390/rs12030489"
         },
         {
+            "title": "Early cellular changes are indicators of pre-bleaching thermal stress in the coral host",
+            "eid": "2-s2.0-50849110829",
+            "authors": [
+                {
+                    "scopus_id": "13102957800",
+                    "name": "Ainsworth T.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7004098794",
+                    "name": "Heron S.",
+                    "affiliation_id": [
+                        "60027716"
+                    ]
+                },
+                {
+                    "scopus_id": "6601967743",
+                    "name": "Skirving W.",
+                    "affiliation_id": [
+                        "60027716"
+                    ]
+                },
+                {
+                    "scopus_id": "6505809982",
+                    "name": "Leggat W.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60019870"
+                    ]
+                }
+            ],
+            "citations": 86,
+            "publication_name": "Journal of Experimental Marine Biology and Ecology",
+            "issn": "00220981",
+            "cover_date": "2008-10-03",
+            "venue": "Journal",
+            "volume": "364",
+            "issue": "2",
+            "page_range": "63-71",
+            "doi": "10.1016/j.jembe.2008.06.032"
+        },
+        {
             "title": "Communicating arising ecology: Is coral bleaching really adaptive?",
             "eid": "2-s2.0-0037034008",
             "authors": [
@@ -7661,57 +7712,6 @@
             "issue": "6872",
             "page_range": "601-602",
             "doi": "10.1038/415601a"
-        },
-        {
-            "title": "Early cellular changes are indicators of pre-bleaching thermal stress in the coral host",
-            "eid": "2-s2.0-50849110829",
-            "authors": [
-                {
-                    "scopus_id": "13102957800",
-                    "name": "Ainsworth T.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7004098794",
-                    "name": "Heron S.",
-                    "affiliation_id": [
-                        "60027716"
-                    ]
-                },
-                {
-                    "scopus_id": "6601967743",
-                    "name": "Skirving W.",
-                    "affiliation_id": [
-                        "60027716"
-                    ]
-                },
-                {
-                    "scopus_id": "6505809982",
-                    "name": "Leggat W.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60019870"
-                    ]
-                }
-            ],
-            "citations": 85,
-            "publication_name": "Journal of Experimental Marine Biology and Ecology",
-            "issn": "00220981",
-            "cover_date": "2008-10-03",
-            "venue": "Journal",
-            "volume": "364",
-            "issue": "2",
-            "page_range": "63-71",
-            "doi": "10.1016/j.jembe.2008.06.032"
         },
         {
             "title": "Deep down on a Caribbean reef: Lower mesophotic depths harbor a specialized coral-endosymbiont community",
@@ -7954,7 +7954,7 @@
                     ]
                 }
             ],
-            "citations": 81,
+            "citations": 82,
             "publication_name": "Marine Biology",
             "issn": "00253162",
             "cover_date": "2007-03-01",
@@ -8123,7 +8123,7 @@
                     ]
                 }
             ],
-            "citations": 77,
+            "citations": 78,
             "publication_name": "BMC Evolutionary Biology",
             "issn": "",
             "cover_date": "2011-10-18",
@@ -8817,44 +8817,6 @@
             "doi": ""
         },
         {
-            "title": "Sources of energy for increased metabolic demand during metamorphosis of the abalone Haliotis rufescens (Mollusca)",
-            "eid": "2-s2.0-0030479429",
-            "authors": [
-                {
-                    "scopus_id": "6603915824",
-                    "name": "Shilling F.",
-                    "affiliation_id": [
-                        "60029311",
-                        "60014439"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60029311",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6603822926",
-                    "name": "Manahan D.",
-                    "affiliation_id": [
-                        "60029311"
-                    ]
-                }
-            ],
-            "citations": 68,
-            "publication_name": "Biological Bulletin",
-            "issn": "00063185",
-            "cover_date": "1996-01-01",
-            "venue": "Journal",
-            "volume": "191",
-            "issue": "3",
-            "page_range": "402-412",
-            "doi": "10.2307/1543013"
-        },
-        {
             "title": "Coral disease diagnostics: What's between a plague and a band?",
             "eid": "2-s2.0-33846940696",
             "authors": [
@@ -8895,7 +8857,7 @@
                     ]
                 }
             ],
-            "citations": 67,
+            "citations": 68,
             "publication_name": "Applied and Environmental Microbiology",
             "issn": "00992240",
             "cover_date": "2007-02-01",
@@ -8904,6 +8866,44 @@
             "issue": "3",
             "page_range": "981-992",
             "doi": "10.1128/AEM.02172-06"
+        },
+        {
+            "title": "Sources of energy for increased metabolic demand during metamorphosis of the abalone Haliotis rufescens (Mollusca)",
+            "eid": "2-s2.0-0030479429",
+            "authors": [
+                {
+                    "scopus_id": "6603915824",
+                    "name": "Shilling F.",
+                    "affiliation_id": [
+                        "60029311",
+                        "60014439"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60029311",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6603822926",
+                    "name": "Manahan D.",
+                    "affiliation_id": [
+                        "60029311"
+                    ]
+                }
+            ],
+            "citations": 68,
+            "publication_name": "Biological Bulletin",
+            "issn": "00063185",
+            "cover_date": "1996-01-01",
+            "venue": "Journal",
+            "volume": "191",
+            "issue": "3",
+            "page_range": "402-412",
+            "doi": "10.2307/1543013"
         },
         {
             "title": "Validation of Housekeeping Genes for Gene Expression Studies in Symbiodinium Exposed to Thermal and Light Stress",
@@ -8978,6 +8978,81 @@
             "issue": "7",
             "page_range": "1177-1189",
             "doi": "10.1046/j.1365-294X.2002.01511.x"
+        },
+        {
+            "title": "Estimating the global risk of anthropogenic climate change",
+            "eid": "2-s2.0-85116330097",
+            "authors": [
+                {
+                    "scopus_id": "57203056178",
+                    "name": "Magnan A.K.",
+                    "affiliation_id": [
+                        "60083821",
+                        "60013717"
+                    ]
+                },
+                {
+                    "scopus_id": "7006494177",
+                    "name": "P\u00f6rtner H.O.",
+                    "affiliation_id": [
+                        "60023131"
+                    ]
+                },
+                {
+                    "scopus_id": "22834349500",
+                    "name": "Duvat V.K.E.",
+                    "affiliation_id": [
+                        "60013717"
+                    ]
+                },
+                {
+                    "scopus_id": "25824815300",
+                    "name": "Garschagen M.",
+                    "affiliation_id": [
+                        "60028717"
+                    ]
+                },
+                {
+                    "scopus_id": "26649920500",
+                    "name": "Guinder V.A.",
+                    "affiliation_id": [
+                        "60004518"
+                    ]
+                },
+                {
+                    "scopus_id": "36652118200",
+                    "name": "Zommers Z.",
+                    "affiliation_id": [
+                        "126446245",
+                        "60033103"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7005742064",
+                    "name": "Gattuso J.P.",
+                    "affiliation_id": [
+                        "60083821",
+                        "60001422",
+                        "108071981"
+                    ]
+                }
+            ],
+            "citations": 64,
+            "publication_name": "Nature Climate Change",
+            "issn": "1758678X",
+            "cover_date": "2021-10-01",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "10",
+            "page_range": "879-885",
+            "doi": "10.1038/s41558-021-01156-w"
         },
         {
             "title": "The ReFuGe 2020 Consortium-using \"omics\" approaches to explore the adaptability and resilience of coral holobionts to environmental change",
@@ -9626,6 +9701,28 @@
             "doi": "10.1111/jpy.12232"
         },
         {
+            "title": "The impact of climate change on coral reef ecosystems",
+            "eid": "2-s2.0-84856971105",
+            "authors": [
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 62,
+            "publication_name": "Coral Reefs: An Ecosystem in Transition",
+            "issn": "",
+            "cover_date": "2011-12-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "391-403",
+            "doi": "10.1007/978-94-007-0114-4_22"
+        },
+        {
             "title": "Early transcriptional changes in the reef-building coral Acropora aspera in response to thermal and nutrient stress",
             "eid": "2-s2.0-84924288251",
             "authors": [
@@ -9792,28 +9889,6 @@
             "issue": "S2",
             "page_range": "184-198",
             "doi": "10.1002/aqc.2505"
-        },
-        {
-            "title": "The impact of climate change on coral reef ecosystems",
-            "eid": "2-s2.0-84856971105",
-            "authors": [
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 61,
-            "publication_name": "Coral Reefs: An Ecosystem in Transition",
-            "issn": "",
-            "cover_date": "2011-12-01",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "391-403",
-            "doi": "10.1007/978-94-007-0114-4_22"
         },
         {
             "title": "The big ecological questions inhibiting effective environmental management in Australia",
@@ -10123,81 +10198,6 @@
             "doi": "10.1111/gcb.16109"
         },
         {
-            "title": "Estimating the global risk of anthropogenic climate change",
-            "eid": "2-s2.0-85116330097",
-            "authors": [
-                {
-                    "scopus_id": "57203056178",
-                    "name": "Magnan A.K.",
-                    "affiliation_id": [
-                        "60083821",
-                        "60013717"
-                    ]
-                },
-                {
-                    "scopus_id": "7006494177",
-                    "name": "P\u00f6rtner H.O.",
-                    "affiliation_id": [
-                        "60023131"
-                    ]
-                },
-                {
-                    "scopus_id": "22834349500",
-                    "name": "Duvat V.K.E.",
-                    "affiliation_id": [
-                        "60013717"
-                    ]
-                },
-                {
-                    "scopus_id": "25824815300",
-                    "name": "Garschagen M.",
-                    "affiliation_id": [
-                        "60028717"
-                    ]
-                },
-                {
-                    "scopus_id": "26649920500",
-                    "name": "Guinder V.A.",
-                    "affiliation_id": [
-                        "60004518"
-                    ]
-                },
-                {
-                    "scopus_id": "36652118200",
-                    "name": "Zommers Z.",
-                    "affiliation_id": [
-                        "126446245",
-                        "60033103"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7005742064",
-                    "name": "Gattuso J.P.",
-                    "affiliation_id": [
-                        "60083821",
-                        "60001422",
-                        "108071981"
-                    ]
-                }
-            ],
-            "citations": 60,
-            "publication_name": "Nature Climate Change",
-            "issn": "1758678X",
-            "cover_date": "2021-10-01",
-            "venue": "Journal",
-            "volume": "11",
-            "issue": "10",
-            "page_range": "879-885",
-            "doi": "10.1038/s41558-021-01156-w"
-        },
-        {
             "title": "Coral reef sustainability through adaptation: Glimmer of hope or persistent mirage?",
             "eid": "2-s2.0-84896036818",
             "authors": [
@@ -10329,42 +10329,6 @@
             "doi": "10.1073/pnas.1505586112"
         },
         {
-            "title": "Panmixia in Pocillopora verrucosa from South Africa",
-            "eid": "2-s2.0-0034896274",
-            "authors": [
-                {
-                    "scopus_id": "7005936227",
-                    "name": "Ridgway T.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7004373570",
-                    "name": "Ayre D.",
-                    "affiliation_id": [
-                        "60011664"
-                    ]
-                }
-            ],
-            "citations": 58,
-            "publication_name": "Marine Biology",
-            "issn": "00253162",
-            "cover_date": "2001-08-15",
-            "venue": "Journal",
-            "volume": "139",
-            "issue": "1",
-            "page_range": "175-181",
-            "doi": "10.1007/s002270100573"
-        },
-        {
             "title": "Host-Specific Interactions with Environmental Factors Shape the Distribution of Symbiodinium across the Great Barrier Reef",
             "eid": "2-s2.0-84879747899",
             "authors": [
@@ -10406,7 +10370,7 @@
                     ]
                 }
             ],
-            "citations": 57,
+            "citations": 58,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2013-07-03",
@@ -10415,6 +10379,92 @@
             "issue": "7",
             "page_range": null,
             "doi": "10.1371/journal.pone.0068533"
+        },
+        {
+            "title": "Panmixia in Pocillopora verrucosa from South Africa",
+            "eid": "2-s2.0-0034896274",
+            "authors": [
+                {
+                    "scopus_id": "7005936227",
+                    "name": "Ridgway T.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7004373570",
+                    "name": "Ayre D.",
+                    "affiliation_id": [
+                        "60011664"
+                    ]
+                }
+            ],
+            "citations": 58,
+            "publication_name": "Marine Biology",
+            "issn": "00253162",
+            "cover_date": "2001-08-15",
+            "venue": "Journal",
+            "volume": "139",
+            "issue": "1",
+            "page_range": "175-181",
+            "doi": "10.1007/s002270100573"
+        },
+        {
+            "title": "A comparative study of methods for surface area and three dimensional shape measurement of coral skeletons",
+            "eid": "2-s2.0-85020149466",
+            "authors": [
+                {
+                    "scopus_id": "59095002700",
+                    "name": "Veal C.J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "23480092700",
+                    "name": "Holmes G.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7202233375",
+                    "name": "Nunez M.",
+                    "affiliation_id": [
+                        "60015356"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7202260062",
+                    "name": "Osborn J.",
+                    "affiliation_id": [
+                        "60015356"
+                    ]
+                }
+            ],
+            "citations": 57,
+            "publication_name": "Limnology and Oceanography: Methods",
+            "issn": "15415856",
+            "cover_date": "2010-01-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "MAY",
+            "page_range": "241-253",
+            "doi": "10.4319/lom.2010.8.241"
         },
         {
             "title": "Heating rate and symbiont productivity are key factors determining thermal stress in the reef-building coral Acropora formosa",
@@ -10567,28 +10617,71 @@
             "doi": ""
         },
         {
-            "title": "A comparative study of methods for surface area and three dimensional shape measurement of coral skeletons",
-            "eid": "2-s2.0-85020149466",
+            "title": "The ocean is key to achieving climate and societal goals",
+            "eid": "2-s2.0-85072693345",
             "authors": [
                 {
-                    "scopus_id": "59095002700",
-                    "name": "Veal C.J.",
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
                     "affiliation_id": [
                         "60031004"
                     ]
                 },
                 {
-                    "scopus_id": "23480092700",
-                    "name": "Holmes G.",
+                    "scopus_id": "57189350029",
+                    "name": "Northrop E.",
                     "affiliation_id": [
-                        "60031004"
+                        "60014872"
                     ]
                 },
                 {
-                    "scopus_id": "7202233375",
-                    "name": "Nunez M.",
+                    "scopus_id": "6701631227",
+                    "name": "Lubchenco J.",
                     "affiliation_id": [
-                        "60015356"
+                        "60013402"
+                    ]
+                }
+            ],
+            "citations": 56,
+            "publication_name": "Science",
+            "issn": "00368075",
+            "cover_date": "2019-09-27",
+            "venue": "Journal",
+            "volume": "365",
+            "issue": "6460",
+            "page_range": "1372-1374",
+            "doi": "10.1126/science.aaz4390"
+        },
+        {
+            "title": "Implications of the Paris agreement for the ocean",
+            "eid": "2-s2.0-84979739661",
+            "authors": [
+                {
+                    "scopus_id": "57203056178",
+                    "name": "Magnan A.K.",
+                    "affiliation_id": [
+                        "60083821"
+                    ]
+                },
+                {
+                    "scopus_id": "36090833100",
+                    "name": "Colombier M.",
+                    "affiliation_id": [
+                        "60083821"
+                    ]
+                },
+                {
+                    "scopus_id": "8146403800",
+                    "name": "Bill\u00e9 R.",
+                    "affiliation_id": [
+                        "106794155"
+                    ]
+                },
+                {
+                    "scopus_id": "7004423053",
+                    "name": "Joos F.",
+                    "affiliation_id": [
+                        "60020486"
                     ]
                 },
                 {
@@ -10599,22 +10692,45 @@
                     ]
                 },
                 {
-                    "scopus_id": "7202260062",
-                    "name": "Osborn J.",
+                    "scopus_id": "7006494177",
+                    "name": "P\u00f6rtner H.O.",
                     "affiliation_id": [
-                        "60015356"
+                        "60023131"
+                    ]
+                },
+                {
+                    "scopus_id": "36437804300",
+                    "name": "Waisman H.",
+                    "affiliation_id": [
+                        "60083821"
+                    ]
+                },
+                {
+                    "scopus_id": "58596615300",
+                    "name": "Spencer T.",
+                    "affiliation_id": [
+                        "60083821"
+                    ]
+                },
+                {
+                    "scopus_id": "7005742064",
+                    "name": "Gattuso J.P.",
+                    "affiliation_id": [
+                        "60083821",
+                        "60012355",
+                        "60001422"
                     ]
                 }
             ],
             "citations": 56,
-            "publication_name": "Limnology and Oceanography: Methods",
-            "issn": "15415856",
-            "cover_date": "2010-01-01",
+            "publication_name": "Nature Climate Change",
+            "issn": "1758678X",
+            "cover_date": "2016-08-01",
             "venue": "Journal",
-            "volume": "8",
-            "issue": "MAY",
-            "page_range": "241-253",
-            "doi": "10.4319/lom.2010.8.241"
+            "volume": "6",
+            "issue": "8",
+            "page_range": "732-735",
+            "doi": "10.1038/nclimate3038"
         },
         {
             "title": "Scaling up ecological measurements of coral reefs using semi-automated field image collection and analysis",
@@ -10701,122 +10817,6 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.3390/rs8010030"
-        },
-        {
-            "title": "The ocean is key to achieving climate and societal goals",
-            "eid": "2-s2.0-85072693345",
-            "authors": [
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57189350029",
-                    "name": "Northrop E.",
-                    "affiliation_id": [
-                        "60014872"
-                    ]
-                },
-                {
-                    "scopus_id": "6701631227",
-                    "name": "Lubchenco J.",
-                    "affiliation_id": [
-                        "60013402"
-                    ]
-                }
-            ],
-            "citations": 55,
-            "publication_name": "Science",
-            "issn": "00368075",
-            "cover_date": "2019-09-27",
-            "venue": "Journal",
-            "volume": "365",
-            "issue": "6460",
-            "page_range": "1372-1374",
-            "doi": "10.1126/science.aaz4390"
-        },
-        {
-            "title": "Implications of the Paris agreement for the ocean",
-            "eid": "2-s2.0-84979739661",
-            "authors": [
-                {
-                    "scopus_id": "57203056178",
-                    "name": "Magnan A.K.",
-                    "affiliation_id": [
-                        "60083821"
-                    ]
-                },
-                {
-                    "scopus_id": "36090833100",
-                    "name": "Colombier M.",
-                    "affiliation_id": [
-                        "60083821"
-                    ]
-                },
-                {
-                    "scopus_id": "8146403800",
-                    "name": "Bill\u00e9 R.",
-                    "affiliation_id": [
-                        "106794155"
-                    ]
-                },
-                {
-                    "scopus_id": "7004423053",
-                    "name": "Joos F.",
-                    "affiliation_id": [
-                        "60020486"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7006494177",
-                    "name": "P\u00f6rtner H.O.",
-                    "affiliation_id": [
-                        "60023131"
-                    ]
-                },
-                {
-                    "scopus_id": "36437804300",
-                    "name": "Waisman H.",
-                    "affiliation_id": [
-                        "60083821"
-                    ]
-                },
-                {
-                    "scopus_id": "58596615300",
-                    "name": "Spencer T.",
-                    "affiliation_id": [
-                        "60083821"
-                    ]
-                },
-                {
-                    "scopus_id": "7005742064",
-                    "name": "Gattuso J.P.",
-                    "affiliation_id": [
-                        "60083821",
-                        "60012355",
-                        "60001422"
-                    ]
-                }
-            ],
-            "citations": 55,
-            "publication_name": "Nature Climate Change",
-            "issn": "1758678X",
-            "cover_date": "2016-08-01",
-            "venue": "Journal",
-            "volume": "6",
-            "issue": "8",
-            "page_range": "732-735",
-            "doi": "10.1038/nclimate3038"
         },
         {
             "title": "Acquisition of symbiotic dinoflagellates (Symbiodinium) by juveniles of the coral Acropora longicyathus",
@@ -11186,6 +11186,114 @@
             "doi": "10.3354/meps309093"
         },
         {
+            "title": "Remote sensing of coral bleaching using temperature and light: Progress towards an operational algorithm",
+            "eid": "2-s2.0-85040641570",
+            "authors": [
+                {
+                    "scopus_id": "6601967743",
+                    "name": "Skirving W.",
+                    "affiliation_id": [
+                        "60027716",
+                        "109687522"
+                    ]
+                },
+                {
+                    "scopus_id": "7003654282",
+                    "name": "Enr\u00edquez S.",
+                    "affiliation_id": [
+                        "60032442"
+                    ]
+                },
+                {
+                    "scopus_id": "55232771300",
+                    "name": "Hedley J.D.",
+                    "affiliation_id": [
+                        "119704587",
+                        "60026479"
+                    ]
+                },
+                {
+                    "scopus_id": "7005822223",
+                    "name": "Dove S.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6602755408",
+                    "name": "Eakin C.M.",
+                    "affiliation_id": [
+                        "60027716"
+                    ]
+                },
+                {
+                    "scopus_id": "57203792677",
+                    "name": "Mason R.A.B.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "56429508600",
+                    "name": "Cour J.L.D.L.",
+                    "affiliation_id": [
+                        "60027716",
+                        "114142621"
+                    ]
+                },
+                {
+                    "scopus_id": "55706438900",
+                    "name": "Liu G.",
+                    "affiliation_id": [
+                        "60027716",
+                        "114142621"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7102215529",
+                    "name": "Strong A.E.",
+                    "affiliation_id": [
+                        "60027716"
+                    ]
+                },
+                {
+                    "scopus_id": "7003596162",
+                    "name": "Mumby P.J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6602185299",
+                    "name": "Iglesias-Prieto R.",
+                    "affiliation_id": [
+                        "60032442",
+                        "60001439"
+                    ]
+                }
+            ],
+            "citations": 52,
+            "publication_name": "Remote Sensing",
+            "issn": "",
+            "cover_date": "2018-01-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.3390/rs10010018"
+        },
+        {
             "title": "Linking fishes to multiple metrics of coral reef structural complexity using three-dimensional technology",
             "eid": "2-s2.0-85032212242",
             "authors": [
@@ -11318,114 +11426,6 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1186/1471-2164-14-228"
-        },
-        {
-            "title": "Remote sensing of coral bleaching using temperature and light: Progress towards an operational algorithm",
-            "eid": "2-s2.0-85040641570",
-            "authors": [
-                {
-                    "scopus_id": "6601967743",
-                    "name": "Skirving W.",
-                    "affiliation_id": [
-                        "60027716",
-                        "109687522"
-                    ]
-                },
-                {
-                    "scopus_id": "7003654282",
-                    "name": "Enr\u00edquez S.",
-                    "affiliation_id": [
-                        "60032442"
-                    ]
-                },
-                {
-                    "scopus_id": "55232771300",
-                    "name": "Hedley J.D.",
-                    "affiliation_id": [
-                        "119704587",
-                        "60026479"
-                    ]
-                },
-                {
-                    "scopus_id": "7005822223",
-                    "name": "Dove S.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6602755408",
-                    "name": "Eakin C.M.",
-                    "affiliation_id": [
-                        "60027716"
-                    ]
-                },
-                {
-                    "scopus_id": "57203792677",
-                    "name": "Mason R.A.B.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "56429508600",
-                    "name": "Cour J.L.D.L.",
-                    "affiliation_id": [
-                        "60027716",
-                        "114142621"
-                    ]
-                },
-                {
-                    "scopus_id": "55706438900",
-                    "name": "Liu G.",
-                    "affiliation_id": [
-                        "60027716",
-                        "114142621"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7102215529",
-                    "name": "Strong A.E.",
-                    "affiliation_id": [
-                        "60027716"
-                    ]
-                },
-                {
-                    "scopus_id": "7003596162",
-                    "name": "Mumby P.J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6602185299",
-                    "name": "Iglesias-Prieto R.",
-                    "affiliation_id": [
-                        "60032442",
-                        "60001439"
-                    ]
-                }
-            ],
-            "citations": 51,
-            "publication_name": "Remote Sensing",
-            "issn": "",
-            "cover_date": "2018-01-01",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.3390/rs10010018"
         },
         {
             "title": "Effects of ocean warming and acidification on the energy budget of an excavating sponge",
@@ -12140,6 +12140,96 @@
             "doi": "10.1007/s00338-006-0099-4"
         },
         {
+            "title": "Forecasting intensifying disturbance effects on coral reefs",
+            "eid": "2-s2.0-85082201832",
+            "authors": [
+                {
+                    "scopus_id": "54685223300",
+                    "name": "Vercelloni J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60011019",
+                        "60011019"
+                    ]
+                },
+                {
+                    "scopus_id": "23035264000",
+                    "name": "Liquet B.",
+                    "affiliation_id": [
+                        "60011019",
+                        "60027769"
+                    ]
+                },
+                {
+                    "scopus_id": "36456877700",
+                    "name": "Kennedy E.V.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "24765855100",
+                    "name": "Gonz\u00e1lez-Rivero M.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60014975"
+                    ]
+                },
+                {
+                    "scopus_id": "6603959205",
+                    "name": "Caley M.J.",
+                    "affiliation_id": [
+                        "60011019",
+                        "60011019"
+                    ]
+                },
+                {
+                    "scopus_id": "15045347500",
+                    "name": "Peterson E.E.",
+                    "affiliation_id": [
+                        "60011019",
+                        "60011019"
+                    ]
+                },
+                {
+                    "scopus_id": "6602768521",
+                    "name": "Puotinen M.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6603793565",
+                    "name": "Mengersen K.",
+                    "affiliation_id": [
+                        "60011019",
+                        "60011019",
+                        "60011019"
+                    ]
+                }
+            ],
+            "citations": 44,
+            "publication_name": "Global Change Biology",
+            "issn": "13541013",
+            "cover_date": "2020-05-01",
+            "venue": "Journal",
+            "volume": "26",
+            "issue": "5",
+            "page_range": "2785-2797",
+            "doi": "10.1111/gcb.15059"
+        },
+        {
             "title": "Importance of macro- versus microstructure in modulating light levels inside coral colonies",
             "eid": "2-s2.0-79960706892",
             "authors": [
@@ -12220,96 +12310,6 @@
             "doi": "10.1007/BF00381942"
         },
         {
-            "title": "Forecasting intensifying disturbance effects on coral reefs",
-            "eid": "2-s2.0-85082201832",
-            "authors": [
-                {
-                    "scopus_id": "54685223300",
-                    "name": "Vercelloni J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60011019",
-                        "60011019"
-                    ]
-                },
-                {
-                    "scopus_id": "23035264000",
-                    "name": "Liquet B.",
-                    "affiliation_id": [
-                        "60011019",
-                        "60027769"
-                    ]
-                },
-                {
-                    "scopus_id": "36456877700",
-                    "name": "Kennedy E.V.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "24765855100",
-                    "name": "Gonz\u00e1lez-Rivero M.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60014975"
-                    ]
-                },
-                {
-                    "scopus_id": "6603959205",
-                    "name": "Caley M.J.",
-                    "affiliation_id": [
-                        "60011019",
-                        "60011019"
-                    ]
-                },
-                {
-                    "scopus_id": "15045347500",
-                    "name": "Peterson E.E.",
-                    "affiliation_id": [
-                        "60011019",
-                        "60011019"
-                    ]
-                },
-                {
-                    "scopus_id": "6602768521",
-                    "name": "Puotinen M.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6603793565",
-                    "name": "Mengersen K.",
-                    "affiliation_id": [
-                        "60011019",
-                        "60011019",
-                        "60011019"
-                    ]
-                }
-            ],
-            "citations": 43,
-            "publication_name": "Global Change Biology",
-            "issn": "13541013",
-            "cover_date": "2020-05-01",
-            "venue": "Journal",
-            "volume": "26",
-            "issue": "5",
-            "page_range": "2785-2797",
-            "doi": "10.1111/gcb.15059"
-        },
-        {
             "title": "The dynamics of coral-algal interactions in space and time on the southern Great Barrier Reef",
             "eid": "2-s2.0-85047407083",
             "authors": [
@@ -12384,80 +12384,6 @@
             "issue": "MAY",
             "page_range": null,
             "doi": "10.3389/fmars.2018.00181"
-        },
-        {
-            "title": "Effects of ocean acidification on marine ecosystems: Introduction",
-            "eid": "2-s2.0-58849138762",
-            "authors": [
-                {
-                    "scopus_id": "7003426831",
-                    "name": "V\u00e9zina A.F.",
-                    "affiliation_id": [
-                        "60030602"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 43,
-            "publication_name": "Marine Ecology Progress Series",
-            "issn": "01718630",
-            "cover_date": "2008-12-23",
-            "venue": "Journal",
-            "volume": "373",
-            "issue": "",
-            "page_range": "199-201",
-            "doi": "10.3354/meps07868"
-        },
-        {
-            "title": "Genetic variation of the scleractinian coral Stylophora pistillata, from western Pacific reefs",
-            "eid": "2-s2.0-0038002843",
-            "authors": [
-                {
-                    "scopus_id": "7003753518",
-                    "name": "Takabayashi M.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60031004",
-                        "60027627"
-                    ]
-                },
-                {
-                    "scopus_id": "8535406900",
-                    "name": "Carter D.A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "56309350100",
-                    "name": "Lopez J.V.",
-                    "affiliation_id": [
-                        "60017450"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 43,
-            "publication_name": "Coral Reefs",
-            "issn": "07224028",
-            "cover_date": "2003-04-01",
-            "venue": "Journal",
-            "volume": "22",
-            "issue": "1",
-            "page_range": "17-22",
-            "doi": "10.1007/s00338-002-0272-3"
         },
         {
             "title": "Reconciling Development and Conservation under Coastal Squeeze from Rising Sea Level",
@@ -12594,7 +12520,7 @@
                     ]
                 }
             ],
-            "citations": 42,
+            "citations": 43,
             "publication_name": "Conservation Letters",
             "issn": "",
             "cover_date": "2016-09-01",
@@ -12603,6 +12529,80 @@
             "issue": "5",
             "page_range": "361-368",
             "doi": "10.1111/conl.12213"
+        },
+        {
+            "title": "Effects of ocean acidification on marine ecosystems: Introduction",
+            "eid": "2-s2.0-58849138762",
+            "authors": [
+                {
+                    "scopus_id": "7003426831",
+                    "name": "V\u00e9zina A.F.",
+                    "affiliation_id": [
+                        "60030602"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 43,
+            "publication_name": "Marine Ecology Progress Series",
+            "issn": "01718630",
+            "cover_date": "2008-12-23",
+            "venue": "Journal",
+            "volume": "373",
+            "issue": "",
+            "page_range": "199-201",
+            "doi": "10.3354/meps07868"
+        },
+        {
+            "title": "Genetic variation of the scleractinian coral Stylophora pistillata, from western Pacific reefs",
+            "eid": "2-s2.0-0038002843",
+            "authors": [
+                {
+                    "scopus_id": "7003753518",
+                    "name": "Takabayashi M.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60031004",
+                        "60027627"
+                    ]
+                },
+                {
+                    "scopus_id": "8535406900",
+                    "name": "Carter D.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "56309350100",
+                    "name": "Lopez J.V.",
+                    "affiliation_id": [
+                        "60017450"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 43,
+            "publication_name": "Coral Reefs",
+            "issn": "07224028",
+            "cover_date": "2003-04-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "1",
+            "page_range": "17-22",
+            "doi": "10.1007/s00338-002-0272-3"
         },
         {
             "title": "Transcriptomic characterization of the enzymatic antioxidants FeSOD, MnSOD, APX and KatG in the dinoflagellate genus Symbiodinium Genome evolution and evolutionary systems biology",
@@ -12940,7 +12940,7 @@
                     ]
                 }
             ],
-            "citations": 40,
+            "citations": 41,
             "publication_name": "Coral Reefs",
             "issn": "07224028",
             "cover_date": "2006-11-01",
@@ -13278,6 +13278,66 @@
             "doi": "10.3389/fmars.2020.00090"
         },
         {
+            "title": "Coral symbioses under prolonged environmental change: Living near tolerance range limits",
+            "eid": "2-s2.0-84994289058",
+            "authors": [
+                {
+                    "scopus_id": "21733445400",
+                    "name": "Sampayo E.M.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7005936227",
+                    "name": "Ridgway T.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "21733496800",
+                    "name": "Franceschinis L.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "13409006000",
+                    "name": "Roff G.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7005822223",
+                    "name": "Dove S.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 38,
+            "publication_name": "Scientific Reports",
+            "issn": "",
+            "cover_date": "2016-11-02",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1038/srep36271"
+        },
+        {
             "title": "Sponge bioerosion on changing reefs: Ocean warming poses physiological constraints to the success of a photosymbiotic excavating sponge",
             "eid": "2-s2.0-85028934827",
             "authors": [
@@ -13342,66 +13402,6 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1038/s41598-017-10947-1"
-        },
-        {
-            "title": "Coral symbioses under prolonged environmental change: Living near tolerance range limits",
-            "eid": "2-s2.0-84994289058",
-            "authors": [
-                {
-                    "scopus_id": "21733445400",
-                    "name": "Sampayo E.M.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7005936227",
-                    "name": "Ridgway T.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "21733496800",
-                    "name": "Franceschinis L.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "13409006000",
-                    "name": "Roff G.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7005822223",
-                    "name": "Dove S.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 37,
-            "publication_name": "Scientific Reports",
-            "issn": "",
-            "cover_date": "2016-11-02",
-            "venue": "Journal",
-            "volume": "6",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1038/srep36271"
         },
         {
             "title": "Climate change and coral reefs: Trojan horse or false prophecy?",
@@ -13481,6 +13481,42 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1038/s43247-020-00054-x"
+        },
+        {
+            "title": "Coral skeletons defend against ultraviolet radiation",
+            "eid": "2-s2.0-71049186865",
+            "authors": [
+                {
+                    "scopus_id": "8418802900",
+                    "name": "Reef R.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26663310200",
+                    "name": "Kaniewska P.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "PLoS ONE",
+            "issn": "",
+            "cover_date": "2009-11-25",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "11",
+            "page_range": null,
+            "doi": "10.1371/journal.pone.0007995"
         },
         {
             "title": "Morphological stasis masks ecologically divergent coral species on tropical reefs",
@@ -13747,42 +13783,6 @@
             "issue": "12",
             "page_range": null,
             "doi": "10.1371/journal.pone.0026829"
-        },
-        {
-            "title": "Coral skeletons defend against ultraviolet radiation",
-            "eid": "2-s2.0-71049186865",
-            "authors": [
-                {
-                    "scopus_id": "8418802900",
-                    "name": "Reef R.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "26663310200",
-                    "name": "Kaniewska P.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 35,
-            "publication_name": "PLoS ONE",
-            "issn": "",
-            "cover_date": "2009-11-25",
-            "venue": "Journal",
-            "volume": "4",
-            "issue": "11",
-            "page_range": null,
-            "doi": "10.1371/journal.pone.0007995"
         },
         {
             "title": "Cyclone damage at mesophotic depths on Myrmidon Reef (GBR)",
@@ -15215,6 +15215,52 @@
             "doi": "10.1007/s00227-003-1105-9"
         },
         {
+            "title": "Ecological changes over 90 years at Low Isles on the Great Barrier Reef",
+            "eid": "2-s2.0-85072700085",
+            "authors": [
+                {
+                    "scopus_id": "7202778352",
+                    "name": "Fine M.",
+                    "affiliation_id": [
+                        "60002765",
+                        "60072450"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "8239910300",
+                    "name": "Meroz-Fine E.",
+                    "affiliation_id": [
+                        "60072450"
+                    ]
+                },
+                {
+                    "scopus_id": "7005822223",
+                    "name": "Dove S.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "Nature Communications",
+            "issn": "",
+            "cover_date": "2019-12-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1038/s41467-019-12431-y"
+        },
+        {
             "title": "Thermal priming affects symbiont photosynthesis but does not alter bleaching susceptibility in Acropora millepora",
             "eid": "2-s2.0-84864542603",
             "authors": [
@@ -15413,52 +15459,6 @@
             "issue": "2",
             "page_range": "359-363",
             "doi": "10.1007/bf00346316"
-        },
-        {
-            "title": "Ecological changes over 90 years at Low Isles on the Great Barrier Reef",
-            "eid": "2-s2.0-85072700085",
-            "authors": [
-                {
-                    "scopus_id": "7202778352",
-                    "name": "Fine M.",
-                    "affiliation_id": [
-                        "60002765",
-                        "60072450"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "8239910300",
-                    "name": "Meroz-Fine E.",
-                    "affiliation_id": [
-                        "60072450"
-                    ]
-                },
-                {
-                    "scopus_id": "7005822223",
-                    "name": "Dove S.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 23,
-            "publication_name": "Nature Communications",
-            "issn": "",
-            "cover_date": "2019-12-01",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1038/s41467-019-12431-y"
         },
         {
             "title": "Symbiodinium biogeography tracks environmental patterns rather than host genetics in a key caribbean reef-builder, Orbicella annularis",
@@ -16593,50 +16593,6 @@
             "doi": "10.1016/j.ocecoaman.2013.08.007"
         },
         {
-            "title": "Broadcast spawning patterns of Favia species on the inshore reefs of Thailand",
-            "eid": "2-s2.0-76149097506",
-            "authors": [
-                {
-                    "scopus_id": "35085176400",
-                    "name": "Kongjandtre N.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7005936227",
-                    "name": "Ridgway T.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60001439"
-                    ]
-                },
-                {
-                    "scopus_id": "57199313746",
-                    "name": "Ward S.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 21,
-            "publication_name": "Coral Reefs",
-            "issn": "07224028",
-            "cover_date": "2010-02-01",
-            "venue": "Journal",
-            "volume": "29",
-            "issue": "1",
-            "page_range": "227-234",
-            "doi": "10.1007/s00338-009-0551-3"
-        },
-        {
             "title": "Climate variability of the Great Barrier Reef in relation to the tropical Pacific and El Ni\u00f1o-Southern Oscillation",
             "eid": "2-s2.0-84855570566",
             "authors": [
@@ -16679,7 +16635,7 @@
                     ]
                 }
             ],
-            "citations": 20,
+            "citations": 21,
             "publication_name": "Marine and Freshwater Research",
             "issn": "13231650",
             "cover_date": "2012-01-13",
@@ -16690,27 +16646,27 @@
             "doi": "10.1071/MF11151"
         },
         {
-            "title": "The production, purification and crystallization of a pocilloporin pigment from a reef-forming coral",
-            "eid": "2-s2.0-0037348368",
+            "title": "Broadcast spawning patterns of Favia species on the inshore reefs of Thailand",
+            "eid": "2-s2.0-76149097506",
             "authors": [
                 {
-                    "scopus_id": "6603390424",
-                    "name": "Beddoe T.",
+                    "scopus_id": "35085176400",
+                    "name": "Kongjandtre N.",
                     "affiliation_id": [
-                        "60019578",
-                        "60019578"
+                        "60031004"
                     ]
                 },
                 {
-                    "scopus_id": "57197698781",
-                    "name": "Ling M.",
+                    "scopus_id": "7005936227",
+                    "name": "Ridgway T.",
                     "affiliation_id": [
-                        "60019578"
+                        "60031004",
+                        "60001439"
                     ]
                 },
                 {
-                    "scopus_id": "7005822223",
-                    "name": "Dove S.",
+                    "scopus_id": "57199313746",
+                    "name": "Ward S.",
                     "affiliation_id": [
                         "60031004"
                     ]
@@ -16721,39 +16677,17 @@
                     "affiliation_id": [
                         "60031004"
                     ]
-                },
-                {
-                    "scopus_id": "55173970900",
-                    "name": "Devenish R.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "56225438300",
-                    "name": "Prescott M.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7004498521",
-                    "name": "Rossjohn J.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60019578"
-                    ]
                 }
             ],
-            "citations": 20,
-            "publication_name": "Acta Crystallographica - Section D Biological Crystallography",
-            "issn": "09074449",
-            "cover_date": "2003-03-01",
+            "citations": 21,
+            "publication_name": "Coral Reefs",
+            "issn": "07224028",
+            "cover_date": "2010-02-01",
             "venue": "Journal",
-            "volume": "59",
-            "issue": "3",
-            "page_range": "597-599",
-            "doi": "10.1107/S0907444902023466"
+            "volume": "29",
+            "issue": "1",
+            "page_range": "227-234",
+            "doi": "10.1007/s00338-009-0551-3"
         },
         {
             "title": "Formal recognition of host-generalist species of dinoflagellate (Cladocopium, Symbiodiniaceae) mutualistic with Indo-Pacific reef corals",
@@ -16833,7 +16767,7 @@
                     ]
                 }
             ],
-            "citations": 19,
+            "citations": 20,
             "publication_name": "Journal of Phycology",
             "issn": "00223646",
             "cover_date": "2023-08-01",
@@ -16842,6 +16776,72 @@
             "issue": "4",
             "page_range": "698-711",
             "doi": "10.1111/jpy.13340"
+        },
+        {
+            "title": "The production, purification and crystallization of a pocilloporin pigment from a reef-forming coral",
+            "eid": "2-s2.0-0037348368",
+            "authors": [
+                {
+                    "scopus_id": "6603390424",
+                    "name": "Beddoe T.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57197698781",
+                    "name": "Ling M.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7005822223",
+                    "name": "Dove S.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55173970900",
+                    "name": "Devenish R.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "56225438300",
+                    "name": "Prescott M.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7004498521",
+                    "name": "Rossjohn J.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 20,
+            "publication_name": "Acta Crystallographica - Section D Biological Crystallography",
+            "issn": "09074449",
+            "cover_date": "2003-03-01",
+            "venue": "Journal",
+            "volume": "59",
+            "issue": "3",
+            "page_range": "597-599",
+            "doi": "10.1107/S0907444902023466"
         },
         {
             "title": "Shallow-water wave lensing in coral reefs: A physical and biological case study",
@@ -19112,6 +19112,55 @@
             "doi": "10.1007/s00338-021-02104-y"
         },
         {
+            "title": "Seasonal shifts in the competitive ability of macroalgae influence the outcomes of coral-algal competition: Seasonal shifts in competitive ability",
+            "eid": "2-s2.0-85099551087",
+            "authors": [
+                {
+                    "scopus_id": "57190889700",
+                    "name": "Brown K.T.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60006297"
+                    ]
+                },
+                {
+                    "scopus_id": "57193950213",
+                    "name": "Bender-Champ D.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7005822223",
+                    "name": "Dove S.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "Royal Society Open Science",
+            "issn": "",
+            "cover_date": "2020-12-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "12",
+            "page_range": null,
+            "doi": "10.1098/rsos.201797"
+        },
+        {
             "title": "Bleaching and mortality of a photosymbiotic bioeroding sponge under future carbon dioxide emission scenarios",
             "eid": "2-s2.0-85044370349",
             "authors": [
@@ -19362,55 +19411,6 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1038/s41597-021-00871-5"
-        },
-        {
-            "title": "Seasonal shifts in the competitive ability of macroalgae influence the outcomes of coral-algal competition: Seasonal shifts in competitive ability",
-            "eid": "2-s2.0-85099551087",
-            "authors": [
-                {
-                    "scopus_id": "57190889700",
-                    "name": "Brown K.T.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60006297"
-                    ]
-                },
-                {
-                    "scopus_id": "57193950213",
-                    "name": "Bender-Champ D.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7005822223",
-                    "name": "Dove S.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 9,
-            "publication_name": "Royal Society Open Science",
-            "issn": "",
-            "cover_date": "2020-12-01",
-            "venue": "Journal",
-            "volume": "7",
-            "issue": "12",
-            "page_range": null,
-            "doi": "10.1098/rsos.201797"
         },
         {
             "title": "Biogeochemical niches and trophic plasticity of shallow and mesophotic corals recovering from mass bleaching",
@@ -19813,6 +19813,58 @@
             "doi": "10.1242/jeb.025106"
         },
         {
+            "title": "Acute Tissue Death (white syndrome) Affects the Microenvironment of Tabular Acropora Corals",
+            "eid": "2-s2.0-84862661994",
+            "authors": [
+                {
+                    "scopus_id": "34871299300",
+                    "name": "Andersen S.B.",
+                    "affiliation_id": [
+                        "60030840",
+                        "60030840"
+                    ]
+                },
+                {
+                    "scopus_id": "55753719200",
+                    "name": "Vestergaard M.L.",
+                    "affiliation_id": [
+                        "60030840"
+                    ]
+                },
+                {
+                    "scopus_id": "13102957800",
+                    "name": "Ainsworth T.D.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7103086849",
+                    "name": "K\u00fchl M.",
+                    "affiliation_id": [
+                        "60030840",
+                        "60023932"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Aquatic Biology",
+            "issn": "18647782",
+            "cover_date": "2010-07-27",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "1",
+            "page_range": "99-104",
+            "doi": "10.3354/ab00270"
+        },
+        {
             "title": "Imaging the fluorescence of marine invertebrates and their associated flora",
             "eid": "2-s2.0-55349096841",
             "authors": [
@@ -19963,58 +20015,6 @@
             "doi": "10.1111/jpy.12523"
         },
         {
-            "title": "Acute Tissue Death (white syndrome) Affects the Microenvironment of Tabular Acropora Corals",
-            "eid": "2-s2.0-84862661994",
-            "authors": [
-                {
-                    "scopus_id": "34871299300",
-                    "name": "Andersen S.B.",
-                    "affiliation_id": [
-                        "60030840",
-                        "60030840"
-                    ]
-                },
-                {
-                    "scopus_id": "55753719200",
-                    "name": "Vestergaard M.L.",
-                    "affiliation_id": [
-                        "60030840"
-                    ]
-                },
-                {
-                    "scopus_id": "13102957800",
-                    "name": "Ainsworth T.D.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7103086849",
-                    "name": "K\u00fchl M.",
-                    "affiliation_id": [
-                        "60030840",
-                        "60023932"
-                    ]
-                }
-            ],
-            "citations": 6,
-            "publication_name": "Aquatic Biology",
-            "issn": "18647782",
-            "cover_date": "2010-07-27",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "1",
-            "page_range": "99-104",
-            "doi": "10.3354/ab00270"
-        },
-        {
             "title": "Response",
             "eid": "2-s2.0-56449128902",
             "authors": [
@@ -20107,6 +20107,92 @@
             "issue": "4",
             "page_range": "659-664",
             "doi": "10.1007/s002270050506"
+        },
+        {
+            "title": "Coral reefs in peril in a record-breaking year",
+            "eid": "2-s2.0-85179900969",
+            "authors": [
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6601967743",
+                    "name": "Skirving W.",
+                    "affiliation_id": [
+                        "123349646",
+                        "60027716"
+                    ]
+                },
+                {
+                    "scopus_id": "7005822223",
+                    "name": "Dove S.G.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57190226921",
+                    "name": "Spady B.L.",
+                    "affiliation_id": [
+                        "123349646",
+                        "60027716",
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "58767243700",
+                    "name": "Norrie A.",
+                    "affiliation_id": [
+                        "123349646",
+                        "60027716"
+                    ]
+                },
+                {
+                    "scopus_id": "54782488100",
+                    "name": "Geiger E.F.",
+                    "affiliation_id": [
+                        "60027716",
+                        "60020304",
+                        "60020304"
+                    ]
+                },
+                {
+                    "scopus_id": "55706438900",
+                    "name": "Liu G.",
+                    "affiliation_id": [
+                        "60027716"
+                    ]
+                },
+                {
+                    "scopus_id": "56429508600",
+                    "name": "De La Cour J.L.",
+                    "affiliation_id": [
+                        "60027716",
+                        "60020304",
+                        "60020304"
+                    ]
+                },
+                {
+                    "scopus_id": "6506822604",
+                    "name": "Manzello D.P.",
+                    "affiliation_id": [
+                        "60027716"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Science",
+            "issn": "00368075",
+            "cover_date": "2023-12-01",
+            "venue": "Journal",
+            "volume": "382",
+            "issue": "6676",
+            "page_range": "1238-1241",
+            "doi": "10.1126/science.adk4532"
         },
         {
             "title": "Linking isotopic signatures of nitrogen in nearshore coral skeletons with sources in catchment runoff",
@@ -20431,92 +20517,6 @@
             "issue": "5",
             "page_range": "1214-1220",
             "doi": "10.4319/lo.2001.46.5.1214"
-        },
-        {
-            "title": "Coral reefs in peril in a record-breaking year",
-            "eid": "2-s2.0-85179900969",
-            "authors": [
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6601967743",
-                    "name": "Skirving W.",
-                    "affiliation_id": [
-                        "123349646",
-                        "60027716"
-                    ]
-                },
-                {
-                    "scopus_id": "7005822223",
-                    "name": "Dove S.G.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57190226921",
-                    "name": "Spady B.L.",
-                    "affiliation_id": [
-                        "123349646",
-                        "60027716",
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "58767243700",
-                    "name": "Norrie A.",
-                    "affiliation_id": [
-                        "123349646",
-                        "60027716"
-                    ]
-                },
-                {
-                    "scopus_id": "54782488100",
-                    "name": "Geiger E.F.",
-                    "affiliation_id": [
-                        "60027716",
-                        "60020304",
-                        "60020304"
-                    ]
-                },
-                {
-                    "scopus_id": "55706438900",
-                    "name": "Liu G.",
-                    "affiliation_id": [
-                        "60027716"
-                    ]
-                },
-                {
-                    "scopus_id": "56429508600",
-                    "name": "De La Cour J.L.",
-                    "affiliation_id": [
-                        "60027716",
-                        "60020304",
-                        "60020304"
-                    ]
-                },
-                {
-                    "scopus_id": "6506822604",
-                    "name": "Manzello D.P.",
-                    "affiliation_id": [
-                        "60027716"
-                    ]
-                }
-            ],
-            "citations": 4,
-            "publication_name": "Science",
-            "issn": "00368075",
-            "cover_date": "2023-12-01",
-            "venue": "Journal",
-            "volume": "382",
-            "issue": "6676",
-            "page_range": "1238-1241",
-            "doi": "10.1126/science.adk4532"
         },
         {
             "title": "Asymmetric physiological response of a reef-building coral to pulsed versus continuous addition of inorganic nutrients",
@@ -21207,6 +21207,91 @@
             "doi": "10.4337/9781781006160.00010"
         },
         {
+            "title": "HF ocean surface radar monitoring for coral bleaching in the Great Barrier Reef",
+            "eid": "2-s2.0-50949100445",
+            "authors": [
+                {
+                    "scopus_id": "35578707100",
+                    "name": "Heron M.L.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "7101749421",
+                    "name": "Willis B.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "6603057699",
+                    "name": "Prytz A.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "24764885100",
+                    "name": "Cetina-Heredia P.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "24399687900",
+                    "name": "Mao Y.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "26643606100",
+                    "name": "Hoegh-Guldberg O.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6601967743",
+                    "name": "Skirving W.J.",
+                    "affiliation_id": [
+                        "60020139"
+                    ]
+                },
+                {
+                    "scopus_id": "7004098794",
+                    "name": "Heron S.F.",
+                    "affiliation_id": [
+                        "60020139"
+                    ]
+                },
+                {
+                    "scopus_id": "6602755408",
+                    "name": "Eakin C.M.",
+                    "affiliation_id": [
+                        "60020139"
+                    ]
+                },
+                {
+                    "scopus_id": "35564989800",
+                    "name": "Steinberg C.R.",
+                    "affiliation_id": [
+                        "60014975"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "OCEANS 2006",
+            "issn": "",
+            "cover_date": "2006-12-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1109/OCEANS.2006.306966"
+        },
+        {
             "title": "Response",
             "eid": "2-s2.0-42349094086",
             "authors": [
@@ -21722,91 +21807,6 @@
             "doi": "10.1371/annotation/1fb24be5-4809-486e-ae46-0032c2a6c17d"
         },
         {
-            "title": "HF ocean surface radar monitoring for coral bleaching in the Great Barrier Reef",
-            "eid": "2-s2.0-50949100445",
-            "authors": [
-                {
-                    "scopus_id": "35578707100",
-                    "name": "Heron M.L.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "7101749421",
-                    "name": "Willis B.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "6603057699",
-                    "name": "Prytz A.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "24764885100",
-                    "name": "Cetina-Heredia P.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "24399687900",
-                    "name": "Mao Y.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "26643606100",
-                    "name": "Hoegh-Guldberg O.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6601967743",
-                    "name": "Skirving W.J.",
-                    "affiliation_id": [
-                        "60020139"
-                    ]
-                },
-                {
-                    "scopus_id": "7004098794",
-                    "name": "Heron S.F.",
-                    "affiliation_id": [
-                        "60020139"
-                    ]
-                },
-                {
-                    "scopus_id": "6602755408",
-                    "name": "Eakin C.M.",
-                    "affiliation_id": [
-                        "60020139"
-                    ]
-                },
-                {
-                    "scopus_id": "35564989800",
-                    "name": "Steinberg C.R.",
-                    "affiliation_id": [
-                        "60014975"
-                    ]
-                }
-            ],
-            "citations": 1,
-            "publication_name": "OCEANS 2006",
-            "issn": "",
-            "cover_date": "2006-12-01",
-            "venue": "Conference Proceeding",
-            "volume": "",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1109/OCEANS.2006.306966"
-        },
-        {
             "title": "An optimal strategy for sampling oocytes in female balmain bugs ibacus peronii leach (Decapoda: Scyllaridae)",
             "eid": "2-s2.0-0343470189",
             "authors": [
@@ -22140,6 +22140,5 @@
             "$": "Biochemistry, Genetics and Molecular Biology (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:21:41",
-    "c-score": null
+    "date fetched": "2024-07-12 20:09:59"
 }

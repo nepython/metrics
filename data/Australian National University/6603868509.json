@@ -197,7 +197,7 @@
                     ]
                 }
             ],
-            "citations": 27675,
+            "citations": 27724,
             "publication_name": "Nature Methods",
             "issn": "15487091",
             "cover_date": "2010-05-01",
@@ -856,7 +856,7 @@
                     "scopus_id": "14069482600",
                     "name": "Thompson L.R.",
                     "affiliation_id": [
-                        "60007027",
+                        "60280530",
                         "60027716"
                     ]
                 },
@@ -929,7 +929,7 @@
                     "scopus_id": "57209694095",
                     "name": "von Hippel M.",
                     "affiliation_id": [
-                        "60010065"
+                        "60150063"
                     ]
                 },
                 {
@@ -940,7 +940,7 @@
                     ]
                 }
             ],
-            "citations": 10465,
+            "citations": 10552,
             "publication_name": "Nature Biotechnology",
             "issn": "10870156",
             "cover_date": "2019-08-01",
@@ -1012,7 +1012,7 @@
                     ]
                 }
             ],
-            "citations": 2919,
+            "citations": 2950,
             "publication_name": "Microbiome",
             "issn": "",
             "cover_date": "2018-05-17",
@@ -1112,7 +1112,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 2222,
+            "citations": 2223,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "1996-09-27",
@@ -2033,7 +2033,7 @@
                     ]
                 }
             ],
-            "citations": 571,
+            "citations": 574,
             "publication_name": "Arthritis and Rheumatism",
             "issn": "00043591",
             "cover_date": "2010-01-01",
@@ -3040,7 +3040,7 @@
                     ]
                 }
             ],
-            "citations": 449,
+            "citations": 450,
             "publication_name": "American Journal of Human Genetics",
             "issn": "00029297",
             "cover_date": "1998-01-01",
@@ -3699,7 +3699,7 @@
                     "scopus_id": "14069482600",
                     "name": "Thompson L.R.",
                     "affiliation_id": [
-                        "60007027",
+                        "60280530",
                         "60027716"
                     ]
                 },
@@ -3772,7 +3772,7 @@
                     "scopus_id": "57209694095",
                     "name": "von Hippel M.",
                     "affiliation_id": [
-                        "60010065"
+                        "60150063"
                     ]
                 },
                 {
@@ -3783,7 +3783,7 @@
                     ]
                 }
             ],
-            "citations": 351,
+            "citations": 354,
             "publication_name": "Nature Biotechnology",
             "issn": "10870156",
             "cover_date": "2019-09-01",
@@ -4372,7 +4372,7 @@
                     ]
                 }
             ],
-            "citations": 106,
+            "citations": 107,
             "publication_name": "mBio",
             "issn": "21612129",
             "cover_date": "2014-07-15",
@@ -4430,7 +4430,7 @@
                     ]
                 }
             ],
-            "citations": 103,
+            "citations": 104,
             "publication_name": "Journal of Open Research Software",
             "issn": "",
             "cover_date": "2018-01-01",
@@ -4679,7 +4679,7 @@
                     ]
                 }
             ],
-            "citations": 85,
+            "citations": 86,
             "publication_name": "Nature Structural and Molecular Biology",
             "issn": "15459993",
             "cover_date": "2012-01-01",
@@ -4759,7 +4759,7 @@
                     ]
                 }
             ],
-            "citations": 76,
+            "citations": 77,
             "publication_name": "Nature Communications",
             "issn": "",
             "cover_date": "2012-10-08",
@@ -4821,7 +4821,7 @@
                     ]
                 }
             ],
-            "citations": 69,
+            "citations": 71,
             "publication_name": "Nature Communications",
             "issn": "",
             "cover_date": "2019-12-01",
@@ -8188,8 +8188,8 @@
             "doi": "10.1186/1745-6150-4-10"
         }
     ],
-    "affiliation": "ANU Research School of Biology",
-    "affiliation_id": "60159889",
+    "affiliation": "The Australian National University",
+    "affiliation_id": "60008950",
     "city": "Canberra",
     "country": "Australia",
     "document_count": 74,
@@ -8210,6 +8210,5 @@
             "$": "Medicine (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:41:07",
-    "c-score": null
+    "date fetched": "2024-07-12 18:56:44"
 }

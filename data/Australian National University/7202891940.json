@@ -21,7 +21,7 @@
                     ]
                 }
             ],
-            "citations": 884,
+            "citations": 886,
             "publication_name": "Annual Review of Astronomy and Astrophysics",
             "issn": "00664146",
             "cover_date": "2002-11-19",
@@ -416,7 +416,7 @@
                     ]
                 }
             ],
-            "citations": 721,
+            "citations": 722,
             "publication_name": "Astronomical Journal",
             "issn": "00046256",
             "cover_date": "2006-10-01",
@@ -618,7 +618,7 @@
                     ]
                 }
             ],
-            "citations": 689,
+            "citations": 690,
             "publication_name": "Astrophysical Journal",
             "issn": "0004637X",
             "cover_date": "2000-10-10",
@@ -1932,7 +1932,7 @@
                     ]
                 }
             ],
-            "citations": 409,
+            "citations": 410,
             "publication_name": "Astrophysical Journal",
             "issn": "0004637X",
             "cover_date": "2010-01-01",
@@ -2094,7 +2094,7 @@
                     ]
                 }
             ],
-            "citations": 380,
+            "citations": 382,
             "publication_name": "Astrophysical Journal",
             "issn": "0004637X",
             "cover_date": "1997-01-01",
@@ -2186,7 +2186,7 @@
                     ]
                 }
             ],
-            "citations": 345,
+            "citations": 346,
             "publication_name": "Publications of the Astronomical Society of Australia",
             "issn": "13233580",
             "cover_date": "1996-01-01",
@@ -2601,7 +2601,7 @@
                     ]
                 }
             ],
-            "citations": 272,
+            "citations": 273,
             "publication_name": "Astrophysical Journal",
             "issn": "0004637X",
             "cover_date": "2001-04-01",
@@ -2793,7 +2793,7 @@
                     ]
                 }
             ],
-            "citations": 225,
+            "citations": 227,
             "publication_name": "Astrophysical Journal, Supplement Series",
             "issn": "00670049",
             "cover_date": "2003-01-01",
@@ -2822,7 +2822,7 @@
                     ]
                 }
             ],
-            "citations": 224,
+            "citations": 225,
             "publication_name": "Vistas in Astronomy",
             "issn": "00836656",
             "cover_date": "1972-01-01",
@@ -3492,7 +3492,7 @@
                     ]
                 }
             ],
-            "citations": 196,
+            "citations": 197,
             "publication_name": "Astronomical Journal",
             "issn": "00046256",
             "cover_date": "2008-07-01",
@@ -3799,6 +3799,33 @@
             "doi": "10.1086/374944"
         },
         {
+            "title": "The nature of boxy/peanut-shaped bulges in spiral galaxies",
+            "eid": "2-s2.0-0001713284",
+            "authors": [
+                {
+                    "scopus_id": "55977290900",
+                    "name": "Bureau M.",
+                    "affiliation_id": [
+                        "60003878"
+                    ]
+                },
+                {
+                    "scopus_id": "7202891940",
+                    "name": "Freeman K.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 186,
+            "publication_name": "Astronomical Journal",
+            "issn": "00046256",
+            "cover_date": "1999-01-01",
+            "venue": "Journal",
+            "volume": "118",
+            "issue": "1",
+            "page_range": "126-138",
+            "doi": "10.1086/300922"
+        },
+        {
             "title": "Where does the disk stop and the halo begin? Kinematics in a rotation field",
             "eid": "2-s2.0-0001320154",
             "authors": [
@@ -3835,33 +3862,6 @@
             "issue": "4",
             "page_range": "1191-1222",
             "doi": "10.1086/115587"
-        },
-        {
-            "title": "The nature of boxy/peanut-shaped bulges in spiral galaxies",
-            "eid": "2-s2.0-0001713284",
-            "authors": [
-                {
-                    "scopus_id": "55977290900",
-                    "name": "Bureau M.",
-                    "affiliation_id": [
-                        "60003878"
-                    ]
-                },
-                {
-                    "scopus_id": "7202891940",
-                    "name": "Freeman K.",
-                    "affiliation_id": []
-                }
-            ],
-            "citations": 185,
-            "publication_name": "Astronomical Journal",
-            "issn": "00046256",
-            "cover_date": "1999-01-01",
-            "venue": "Journal",
-            "volume": "118",
-            "issue": "1",
-            "page_range": "126-138",
-            "doi": "10.1086/300922"
         },
         {
             "title": "Kinematic properties of early-type galaxy haloes using planetary nebulae",
@@ -5218,7 +5218,7 @@
                     ]
                 }
             ],
-            "citations": 152,
+            "citations": 153,
             "publication_name": "Astrophysical Journal",
             "issn": "0004637X",
             "cover_date": "1995-08-20",
@@ -6207,7 +6207,7 @@
                     "scopus_id": "57203103746",
                     "name": "Veilleux S.",
                     "affiliation_id": [
-                        "60020304",
+                        "60151558",
                         "125502249",
                         "60031581",
                         "60002312"
@@ -8344,6 +8344,44 @@
             "doi": "10.1086/178050"
         },
         {
+            "title": "The planetary nebula system and dynamics in the outer halo of NGC 5128",
+            "eid": "2-s2.0-2142809799",
+            "authors": [
+                {
+                    "scopus_id": "35311640100",
+                    "name": "Peng E.",
+                    "affiliation_id": [
+                        "60005248",
+                        "60119141"
+                    ]
+                },
+                {
+                    "scopus_id": "7201746765",
+                    "name": "Ford H.",
+                    "affiliation_id": [
+                        "60005248",
+                        "60008158"
+                    ]
+                },
+                {
+                    "scopus_id": "7202891940",
+                    "name": "Freeman K.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 113,
+            "publication_name": "Astrophysical Journal",
+            "issn": "0004637X",
+            "cover_date": "2004-02-20",
+            "venue": "Journal",
+            "volume": "602",
+            "issue": "2 I",
+            "page_range": "685-704",
+            "doi": "10.1086/381160"
+        },
+        {
             "title": "Direct detection of a microlens in the Milky Way",
             "eid": "2-s2.0-0035818996",
             "authors": [
@@ -8901,44 +8939,6 @@
             "doi": "10.1086/342225"
         },
         {
-            "title": "The planetary nebula system and dynamics in the outer halo of NGC 5128",
-            "eid": "2-s2.0-2142809799",
-            "authors": [
-                {
-                    "scopus_id": "35311640100",
-                    "name": "Peng E.",
-                    "affiliation_id": [
-                        "60005248",
-                        "60119141"
-                    ]
-                },
-                {
-                    "scopus_id": "7201746765",
-                    "name": "Ford H.",
-                    "affiliation_id": [
-                        "60005248",
-                        "60008158"
-                    ]
-                },
-                {
-                    "scopus_id": "7202891940",
-                    "name": "Freeman K.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 112,
-            "publication_name": "Astrophysical Journal",
-            "issn": "0004637X",
-            "cover_date": "2004-02-20",
-            "venue": "Journal",
-            "volume": "602",
-            "issue": "2 I",
-            "page_range": "685-704",
-            "doi": "10.1086/381160"
-        },
-        {
             "title": "Chemical homogeneity in collinder 261 and implications for chemical tagging",
             "eid": "2-s2.0-33947497200",
             "authors": [
@@ -9216,7 +9216,7 @@
                     ]
                 }
             ],
-            "citations": 106,
+            "citations": 108,
             "publication_name": "Astrophysical Journal",
             "issn": "0004637X",
             "cover_date": "2004-02-20",
@@ -13169,49 +13169,6 @@
             "doi": "10.1086/510149"
         },
         {
-            "title": "A wide-field survey of the Fornax dwarf spheroidal galaxy",
-            "eid": "2-s2.0-18544390523",
-            "authors": [
-                {
-                    "scopus_id": "7401677337",
-                    "name": "Coleman M.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7005278905",
-                    "name": "Da Costa G.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "56253801100",
-                    "name": "Bland-Hawthorn J.",
-                    "affiliation_id": [
-                        "60020669"
-                    ]
-                },
-                {
-                    "scopus_id": "7202891940",
-                    "name": "Freeman K.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 82,
-            "publication_name": "Astronomical Journal",
-            "issn": "00046256",
-            "cover_date": "2005-03-01",
-            "venue": "Journal",
-            "volume": "129",
-            "issue": "3",
-            "page_range": "1443-1464",
-            "doi": "10.1086/427966"
-        },
-        {
             "title": "Variability-selected quasars in MACHO project magellanic cloud fields",
             "eid": "2-s2.0-0041759997",
             "authors": [
@@ -13395,7 +13352,7 @@
                     ]
                 }
             ],
-            "citations": 82,
+            "citations": 83,
             "publication_name": "Astronomical Journal",
             "issn": "00046256",
             "cover_date": "2003-01-01",
@@ -13474,7 +13431,7 @@
                     ]
                 }
             ],
-            "citations": 81,
+            "citations": 82,
             "publication_name": "Astronomical Journal",
             "issn": "00046256",
             "cover_date": "2007-10-22",
@@ -13483,6 +13440,49 @@
             "issue": "4",
             "page_range": "1579-1595",
             "doi": "10.1086/521429"
+        },
+        {
+            "title": "A wide-field survey of the Fornax dwarf spheroidal galaxy",
+            "eid": "2-s2.0-18544390523",
+            "authors": [
+                {
+                    "scopus_id": "7401677337",
+                    "name": "Coleman M.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7005278905",
+                    "name": "Da Costa G.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "56253801100",
+                    "name": "Bland-Hawthorn J.",
+                    "affiliation_id": [
+                        "60020669"
+                    ]
+                },
+                {
+                    "scopus_id": "7202891940",
+                    "name": "Freeman K.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 82,
+            "publication_name": "Astronomical Journal",
+            "issn": "00046256",
+            "cover_date": "2005-03-01",
+            "venue": "Journal",
+            "volume": "129",
+            "issue": "3",
+            "page_range": "1443-1464",
+            "doi": "10.1086/427966"
         },
         {
             "title": "Intracluster stars in the Virgo Cluster core",
@@ -15330,7 +15330,7 @@
                     ]
                 }
             ],
-            "citations": 68,
+            "citations": 69,
             "publication_name": "Astrophysical Journal",
             "issn": "0004637X",
             "cover_date": "2009-01-01",
@@ -17332,6 +17332,214 @@
             "doi": "10.1111/j.1745-3933.2012.01310.x"
         },
         {
+            "title": "A search for new members of the \u03b2Pictoris, Tucana-Horologium and \u03b5Cha moving groups in the RAVE data base",
+            "eid": "2-s2.0-78751689898",
+            "authors": [
+                {
+                    "scopus_id": "35580599700",
+                    "name": "Kiss L.L.",
+                    "affiliation_id": [
+                        "60027811",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8725793500",
+                    "name": "Mo\u00f3r A.",
+                    "affiliation_id": [
+                        "60027811"
+                    ]
+                },
+                {
+                    "scopus_id": "14027514900",
+                    "name": "Szalai T.",
+                    "affiliation_id": [
+                        "60027332"
+                    ]
+                },
+                {
+                    "scopus_id": "58831513800",
+                    "name": "Kov\u00e1cs J.",
+                    "affiliation_id": [
+                        "60025187"
+                    ]
+                },
+                {
+                    "scopus_id": "16201701400",
+                    "name": "Bayliss D.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7103375960",
+                    "name": "Gilmore G.F.",
+                    "affiliation_id": [
+                        "60019598"
+                    ]
+                },
+                {
+                    "scopus_id": "6603077826",
+                    "name": "Bienaym\u00e9 O.",
+                    "affiliation_id": [
+                        "60000108"
+                    ]
+                },
+                {
+                    "scopus_id": "7004066158",
+                    "name": "Binney J.",
+                    "affiliation_id": [
+                        "60026851"
+                    ]
+                },
+                {
+                    "scopus_id": "56253801100",
+                    "name": "Bland-Hawthorn J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "59068612100",
+                    "name": "Campbell R.",
+                    "affiliation_id": [
+                        "60014611"
+                    ]
+                },
+                {
+                    "scopus_id": "7202891940",
+                    "name": "Freeman K.C.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7003405864",
+                    "name": "Fulbright J.P.",
+                    "affiliation_id": [
+                        "60005248"
+                    ]
+                },
+                {
+                    "scopus_id": "57203059498",
+                    "name": "Gibson B.K.",
+                    "affiliation_id": [
+                        "60031259"
+                    ]
+                },
+                {
+                    "scopus_id": "7006056290",
+                    "name": "Grebel E.K.",
+                    "affiliation_id": [
+                        "60072297"
+                    ]
+                },
+                {
+                    "scopus_id": "7004113296",
+                    "name": "Helmi A.",
+                    "affiliation_id": [
+                        "60011173"
+                    ]
+                },
+                {
+                    "scopus_id": "7006595542",
+                    "name": "Munari U.",
+                    "affiliation_id": [
+                        "60031125"
+                    ]
+                },
+                {
+                    "scopus_id": "7402580058",
+                    "name": "Navarro J.F.",
+                    "affiliation_id": [
+                        "60003122"
+                    ]
+                },
+                {
+                    "scopus_id": "7004681629",
+                    "name": "Parker Q.A.",
+                    "affiliation_id": [
+                        "60019544",
+                        "60105847"
+                    ]
+                },
+                {
+                    "scopus_id": "35619403300",
+                    "name": "Reid W.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
+                },
+                {
+                    "scopus_id": "15078368700",
+                    "name": "Seabroke G.M.",
+                    "affiliation_id": [
+                        "60084281"
+                    ]
+                },
+                {
+                    "scopus_id": "18038933400",
+                    "name": "Siebert A.",
+                    "affiliation_id": [
+                        "60000108"
+                    ]
+                },
+                {
+                    "scopus_id": "55880601100",
+                    "name": "Siviero A.",
+                    "affiliation_id": [
+                        "60031125",
+                        "60000677"
+                    ]
+                },
+                {
+                    "scopus_id": "7103256079",
+                    "name": "Steinmetz M.",
+                    "affiliation_id": [
+                        "60000677"
+                    ]
+                },
+                {
+                    "scopus_id": "7101670860",
+                    "name": "Watson F.G.",
+                    "affiliation_id": [
+                        "60105847"
+                    ]
+                },
+                {
+                    "scopus_id": "55475102500",
+                    "name": "Williams M.",
+                    "affiliation_id": [
+                        "60000677"
+                    ]
+                },
+                {
+                    "scopus_id": "7005269923",
+                    "name": "Wyse R.F.G.",
+                    "affiliation_id": [
+                        "60005248"
+                    ]
+                },
+                {
+                    "scopus_id": "6602133548",
+                    "name": "Zwitter T.",
+                    "affiliation_id": [
+                        "60031106",
+                        "110150164"
+                    ]
+                }
+            ],
+            "citations": 59,
+            "publication_name": "Monthly Notices of the Royal Astronomical Society",
+            "issn": "00358711",
+            "cover_date": "2011-01-01",
+            "venue": "Journal",
+            "volume": "411",
+            "issue": "1",
+            "page_range": "117-123",
+            "doi": "10.1111/j.1365-2966.2010.17660.x"
+        },
+        {
             "title": "The edge of the M 87 halo and the kinematics of the diffuse light in the Virgo cluster core",
             "eid": "2-s2.0-68649125847",
             "authors": [
@@ -17554,214 +17762,6 @@
             "issue": "5639",
             "page_range": "1508-1510",
             "doi": "10.1126/science.1088529"
-        },
-        {
-            "title": "A search for new members of the \u03b2Pictoris, Tucana-Horologium and \u03b5Cha moving groups in the RAVE data base",
-            "eid": "2-s2.0-78751689898",
-            "authors": [
-                {
-                    "scopus_id": "35580599700",
-                    "name": "Kiss L.L.",
-                    "affiliation_id": [
-                        "60027811",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "8725793500",
-                    "name": "Mo\u00f3r A.",
-                    "affiliation_id": [
-                        "60027811"
-                    ]
-                },
-                {
-                    "scopus_id": "14027514900",
-                    "name": "Szalai T.",
-                    "affiliation_id": [
-                        "60027332"
-                    ]
-                },
-                {
-                    "scopus_id": "58831513800",
-                    "name": "Kov\u00e1cs J.",
-                    "affiliation_id": [
-                        "60025187"
-                    ]
-                },
-                {
-                    "scopus_id": "16201701400",
-                    "name": "Bayliss D.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7103375960",
-                    "name": "Gilmore G.F.",
-                    "affiliation_id": [
-                        "60019598"
-                    ]
-                },
-                {
-                    "scopus_id": "6603077826",
-                    "name": "Bienaym\u00e9 O.",
-                    "affiliation_id": [
-                        "60000108"
-                    ]
-                },
-                {
-                    "scopus_id": "7004066158",
-                    "name": "Binney J.",
-                    "affiliation_id": [
-                        "60026851"
-                    ]
-                },
-                {
-                    "scopus_id": "56253801100",
-                    "name": "Bland-Hawthorn J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "59068612100",
-                    "name": "Campbell R.",
-                    "affiliation_id": [
-                        "60014611"
-                    ]
-                },
-                {
-                    "scopus_id": "7202891940",
-                    "name": "Freeman K.C.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7003405864",
-                    "name": "Fulbright J.P.",
-                    "affiliation_id": [
-                        "60005248"
-                    ]
-                },
-                {
-                    "scopus_id": "57203059498",
-                    "name": "Gibson B.K.",
-                    "affiliation_id": [
-                        "60031259"
-                    ]
-                },
-                {
-                    "scopus_id": "7006056290",
-                    "name": "Grebel E.K.",
-                    "affiliation_id": [
-                        "60072297"
-                    ]
-                },
-                {
-                    "scopus_id": "7004113296",
-                    "name": "Helmi A.",
-                    "affiliation_id": [
-                        "60011173"
-                    ]
-                },
-                {
-                    "scopus_id": "7006595542",
-                    "name": "Munari U.",
-                    "affiliation_id": [
-                        "60031125"
-                    ]
-                },
-                {
-                    "scopus_id": "7402580058",
-                    "name": "Navarro J.F.",
-                    "affiliation_id": [
-                        "60003122"
-                    ]
-                },
-                {
-                    "scopus_id": "7004681629",
-                    "name": "Parker Q.A.",
-                    "affiliation_id": [
-                        "60019544",
-                        "60105847"
-                    ]
-                },
-                {
-                    "scopus_id": "35619403300",
-                    "name": "Reid W.",
-                    "affiliation_id": [
-                        "60019544"
-                    ]
-                },
-                {
-                    "scopus_id": "15078368700",
-                    "name": "Seabroke G.M.",
-                    "affiliation_id": [
-                        "60084281"
-                    ]
-                },
-                {
-                    "scopus_id": "18038933400",
-                    "name": "Siebert A.",
-                    "affiliation_id": [
-                        "60000108"
-                    ]
-                },
-                {
-                    "scopus_id": "55880601100",
-                    "name": "Siviero A.",
-                    "affiliation_id": [
-                        "60031125",
-                        "60000677"
-                    ]
-                },
-                {
-                    "scopus_id": "7103256079",
-                    "name": "Steinmetz M.",
-                    "affiliation_id": [
-                        "60000677"
-                    ]
-                },
-                {
-                    "scopus_id": "7101670860",
-                    "name": "Watson F.G.",
-                    "affiliation_id": [
-                        "60105847"
-                    ]
-                },
-                {
-                    "scopus_id": "55475102500",
-                    "name": "Williams M.",
-                    "affiliation_id": [
-                        "60000677"
-                    ]
-                },
-                {
-                    "scopus_id": "7005269923",
-                    "name": "Wyse R.F.G.",
-                    "affiliation_id": [
-                        "60005248"
-                    ]
-                },
-                {
-                    "scopus_id": "6602133548",
-                    "name": "Zwitter T.",
-                    "affiliation_id": [
-                        "60031106",
-                        "110150164"
-                    ]
-                }
-            ],
-            "citations": 58,
-            "publication_name": "Monthly Notices of the Royal Astronomical Society",
-            "issn": "00358711",
-            "cover_date": "2011-01-01",
-            "venue": "Journal",
-            "volume": "411",
-            "issue": "1",
-            "page_range": "117-123",
-            "doi": "10.1111/j.1365-2966.2010.17660.x"
         },
         {
             "title": "The abundance gradient in the extremely faint outer disk of ngc 300",
@@ -18375,163 +18375,6 @@
             "doi": "10.1088/0004-6256/139/1/279"
         },
         {
-            "title": "Testing the surface brightness fluctuations method for dwarf elliptical galaxies in the Centaurus A group",
-            "eid": "2-s2.0-3042937553",
-            "authors": [
-                {
-                    "scopus_id": "6701493193",
-                    "name": "Jerjen H.",
-                    "affiliation_id": [
-                        "60015827"
-                    ]
-                },
-                {
-                    "scopus_id": "7202891940",
-                    "name": "Freeman K.",
-                    "affiliation_id": [
-                        "60015827"
-                    ]
-                },
-                {
-                    "scopus_id": "6603565494",
-                    "name": "Binggeli B.",
-                    "affiliation_id": [
-                        "60023588"
-                    ]
-                }
-            ],
-            "citations": 54,
-            "publication_name": "Astronomical Journal",
-            "issn": "00046256",
-            "cover_date": "2000-01-01",
-            "venue": "Journal",
-            "volume": "119",
-            "issue": "1",
-            "page_range": "166-176",
-            "doi": "10.1086/301188"
-        },
-        {
-            "title": "Tracing the star stream through M31 using planetary nebula kinematics",
-            "eid": "2-s2.0-0347577962",
-            "authors": [
-                {
-                    "scopus_id": "36868341500",
-                    "name": "Merrett H.R.",
-                    "affiliation_id": [
-                        "60015138"
-                    ]
-                },
-                {
-                    "scopus_id": "7003478641",
-                    "name": "Kuijken K.",
-                    "affiliation_id": [
-                        "60003878",
-                        "60011173"
-                    ]
-                },
-                {
-                    "scopus_id": "7005367611",
-                    "name": "Merrifield M.R.",
-                    "affiliation_id": [
-                        "60015138"
-                    ]
-                },
-                {
-                    "scopus_id": "6603542135",
-                    "name": "Romanowsky A.J.",
-                    "affiliation_id": [
-                        "60015138"
-                    ]
-                },
-                {
-                    "scopus_id": "7102661380",
-                    "name": "Douglas N.G.",
-                    "affiliation_id": [
-                        "60011173"
-                    ]
-                },
-                {
-                    "scopus_id": "6602116553",
-                    "name": "Napolitano N.R.",
-                    "affiliation_id": [
-                        "60011173"
-                    ]
-                },
-                {
-                    "scopus_id": "56275157900",
-                    "name": "Arnaboldi M.",
-                    "affiliation_id": [
-                        "100796140"
-                    ]
-                },
-                {
-                    "scopus_id": "7004156659",
-                    "name": "Capaccioli M.",
-                    "affiliation_id": [
-                        "100796140"
-                    ]
-                },
-                {
-                    "scopus_id": "7202891940",
-                    "name": "Freeman K.C.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7003457305",
-                    "name": "Gerhard O.",
-                    "affiliation_id": [
-                        "60023588"
-                    ]
-                },
-                {
-                    "scopus_id": "7401559479",
-                    "name": "Evans N.W.",
-                    "affiliation_id": [
-                        "60019598"
-                    ]
-                },
-                {
-                    "scopus_id": "57213452246",
-                    "name": "Wilkinson M.I.",
-                    "affiliation_id": [
-                        "60019598"
-                    ]
-                },
-                {
-                    "scopus_id": "6701691331",
-                    "name": "Halliday C.",
-                    "affiliation_id": [
-                        "60031125"
-                    ]
-                },
-                {
-                    "scopus_id": "7102693653",
-                    "name": "Bridges T.J.",
-                    "affiliation_id": [
-                        "60020669"
-                    ]
-                },
-                {
-                    "scopus_id": "7402372844",
-                    "name": "Carter D.",
-                    "affiliation_id": [
-                        "60028355"
-                    ]
-                }
-            ],
-            "citations": 54,
-            "publication_name": "Monthly Notices of the Royal Astronomical Society",
-            "issn": "00358711",
-            "cover_date": "2003-12-21",
-            "venue": "Journal",
-            "volume": "346",
-            "issue": "4",
-            "page_range": null,
-            "doi": "10.1111/j.1365-2966.2003.07367.x"
-        },
-        {
             "title": "Photometric and spectroscopic observations of SN 1990E in NGC 1035: Observational constraints for models of type II supernovae",
             "eid": "2-s2.0-4243939242",
             "authors": [
@@ -18802,7 +18645,7 @@
                     ]
                 }
             ],
-            "citations": 53,
+            "citations": 54,
             "publication_name": "Astronomical Journal",
             "issn": "00046256",
             "cover_date": "1993-01-01",
@@ -18811,6 +18654,163 @@
             "issue": "6",
             "page_range": "2236-2250",
             "doi": "10.1086/116602"
+        },
+        {
+            "title": "Testing the surface brightness fluctuations method for dwarf elliptical galaxies in the Centaurus A group",
+            "eid": "2-s2.0-3042937553",
+            "authors": [
+                {
+                    "scopus_id": "6701493193",
+                    "name": "Jerjen H.",
+                    "affiliation_id": [
+                        "60015827"
+                    ]
+                },
+                {
+                    "scopus_id": "7202891940",
+                    "name": "Freeman K.",
+                    "affiliation_id": [
+                        "60015827"
+                    ]
+                },
+                {
+                    "scopus_id": "6603565494",
+                    "name": "Binggeli B.",
+                    "affiliation_id": [
+                        "60023588"
+                    ]
+                }
+            ],
+            "citations": 54,
+            "publication_name": "Astronomical Journal",
+            "issn": "00046256",
+            "cover_date": "2000-01-01",
+            "venue": "Journal",
+            "volume": "119",
+            "issue": "1",
+            "page_range": "166-176",
+            "doi": "10.1086/301188"
+        },
+        {
+            "title": "Tracing the star stream through M31 using planetary nebula kinematics",
+            "eid": "2-s2.0-0347577962",
+            "authors": [
+                {
+                    "scopus_id": "36868341500",
+                    "name": "Merrett H.R.",
+                    "affiliation_id": [
+                        "60015138"
+                    ]
+                },
+                {
+                    "scopus_id": "7003478641",
+                    "name": "Kuijken K.",
+                    "affiliation_id": [
+                        "60003878",
+                        "60011173"
+                    ]
+                },
+                {
+                    "scopus_id": "7005367611",
+                    "name": "Merrifield M.R.",
+                    "affiliation_id": [
+                        "60015138"
+                    ]
+                },
+                {
+                    "scopus_id": "6603542135",
+                    "name": "Romanowsky A.J.",
+                    "affiliation_id": [
+                        "60015138"
+                    ]
+                },
+                {
+                    "scopus_id": "7102661380",
+                    "name": "Douglas N.G.",
+                    "affiliation_id": [
+                        "60011173"
+                    ]
+                },
+                {
+                    "scopus_id": "6602116553",
+                    "name": "Napolitano N.R.",
+                    "affiliation_id": [
+                        "60011173"
+                    ]
+                },
+                {
+                    "scopus_id": "56275157900",
+                    "name": "Arnaboldi M.",
+                    "affiliation_id": [
+                        "100796140"
+                    ]
+                },
+                {
+                    "scopus_id": "7004156659",
+                    "name": "Capaccioli M.",
+                    "affiliation_id": [
+                        "100796140"
+                    ]
+                },
+                {
+                    "scopus_id": "7202891940",
+                    "name": "Freeman K.C.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7003457305",
+                    "name": "Gerhard O.",
+                    "affiliation_id": [
+                        "60023588"
+                    ]
+                },
+                {
+                    "scopus_id": "7401559479",
+                    "name": "Evans N.W.",
+                    "affiliation_id": [
+                        "60019598"
+                    ]
+                },
+                {
+                    "scopus_id": "57213452246",
+                    "name": "Wilkinson M.I.",
+                    "affiliation_id": [
+                        "60019598"
+                    ]
+                },
+                {
+                    "scopus_id": "6701691331",
+                    "name": "Halliday C.",
+                    "affiliation_id": [
+                        "60031125"
+                    ]
+                },
+                {
+                    "scopus_id": "7102693653",
+                    "name": "Bridges T.J.",
+                    "affiliation_id": [
+                        "60020669"
+                    ]
+                },
+                {
+                    "scopus_id": "7402372844",
+                    "name": "Carter D.",
+                    "affiliation_id": [
+                        "60028355"
+                    ]
+                }
+            ],
+            "citations": 54,
+            "publication_name": "Monthly Notices of the Royal Astronomical Society",
+            "issn": "00358711",
+            "cover_date": "2003-12-21",
+            "venue": "Journal",
+            "volume": "346",
+            "issue": "4",
+            "page_range": null,
+            "doi": "10.1111/j.1365-2966.2003.07367.x"
         },
         {
             "title": "Mass-losing semiregular variable stars in Baade's windows",
@@ -22136,43 +22136,6 @@
             "doi": "10.1111/j.1365-2966.2003.07134.x"
         },
         {
-            "title": "A survey of planetary nebulae in the southern Galactic bulge",
-            "eid": "2-s2.0-0039526853",
-            "authors": [
-                {
-                    "scopus_id": "7005303125",
-                    "name": "Beaulieu S.F.",
-                    "affiliation_id": [
-                        "60015827",
-                        "60019598"
-                    ]
-                },
-                {
-                    "scopus_id": "7005630540",
-                    "name": "Dopita M.A.",
-                    "affiliation_id": [
-                        "60015827"
-                    ]
-                },
-                {
-                    "scopus_id": "7202891940",
-                    "name": "Freeman K.C.",
-                    "affiliation_id": [
-                        "60015827"
-                    ]
-                }
-            ],
-            "citations": 43,
-            "publication_name": "Astrophysical Journal",
-            "issn": "0004637X",
-            "cover_date": "1999-04-20",
-            "venue": "Journal",
-            "volume": "515",
-            "issue": "2 PART 1",
-            "page_range": "610-632",
-            "doi": "10.1086/307052"
-        },
-        {
             "title": "Mapping the Galactic halo. III. Simulated observations of tidal streams",
             "eid": "2-s2.0-0011966790",
             "authors": [
@@ -22233,7 +22196,7 @@
                     ]
                 }
             ],
-            "citations": 43,
+            "citations": 44,
             "publication_name": "Astronomical Journal",
             "issn": "00046256",
             "cover_date": "2001-09-01",
@@ -22242,6 +22205,43 @@
             "issue": "3",
             "page_range": "1397-1419",
             "doi": "10.1086/322995"
+        },
+        {
+            "title": "A survey of planetary nebulae in the southern Galactic bulge",
+            "eid": "2-s2.0-0039526853",
+            "authors": [
+                {
+                    "scopus_id": "7005303125",
+                    "name": "Beaulieu S.F.",
+                    "affiliation_id": [
+                        "60015827",
+                        "60019598"
+                    ]
+                },
+                {
+                    "scopus_id": "7005630540",
+                    "name": "Dopita M.A.",
+                    "affiliation_id": [
+                        "60015827"
+                    ]
+                },
+                {
+                    "scopus_id": "7202891940",
+                    "name": "Freeman K.C.",
+                    "affiliation_id": [
+                        "60015827"
+                    ]
+                }
+            ],
+            "citations": 43,
+            "publication_name": "Astrophysical Journal",
+            "issn": "0004637X",
+            "cover_date": "1999-04-20",
+            "venue": "Journal",
+            "volume": "515",
+            "issue": "2 PART 1",
+            "page_range": "610-632",
+            "doi": "10.1086/307052"
         },
         {
             "title": "New H I observations of the prototype polar ring galaxy NGC 4650A",
@@ -23156,7 +23156,7 @@
                     "scopus_id": "7004384269",
                     "name": "McGaugh S.S.",
                     "affiliation_id": [
-                        "60020304"
+                        "60151558"
                     ]
                 },
                 {
@@ -25678,63 +25678,6 @@
             "doi": "10.1086/116734"
         },
         {
-            "title": "High-resolution elemental abundance analysis of the Hyades supercluster",
-            "eid": "2-s2.0-79960109946",
-            "authors": [
-                {
-                    "scopus_id": "16024129500",
-                    "name": "de Silva G.M.",
-                    "affiliation_id": [
-                        "60105847"
-                    ]
-                },
-                {
-                    "scopus_id": "7202891940",
-                    "name": "Freeman K.C.",
-                    "affiliation_id": [
-                        "60015827"
-                    ]
-                },
-                {
-                    "scopus_id": "56253801100",
-                    "name": "Bland-Hawthorn J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7006763621",
-                    "name": "Asplund M.",
-                    "affiliation_id": [
-                        "60023091"
-                    ]
-                },
-                {
-                    "scopus_id": "55475102500",
-                    "name": "Williams M.",
-                    "affiliation_id": [
-                        "60000677"
-                    ]
-                },
-                {
-                    "scopus_id": "55040872800",
-                    "name": "Holmberg J.",
-                    "affiliation_id": [
-                        "60017041"
-                    ]
-                }
-            ],
-            "citations": 32,
-            "publication_name": "Monthly Notices of the Royal Astronomical Society",
-            "issn": "00358711",
-            "cover_date": "2011-01-01",
-            "venue": "Journal",
-            "volume": "415",
-            "issue": "1",
-            "page_range": "563-575",
-            "doi": "10.1111/j.1365-2966.2011.18728.x"
-        },
-        {
             "title": "The ANU wifes supernova programme (AWSNAP)",
             "eid": "2-s2.0-84994576010",
             "authors": [
@@ -25941,7 +25884,7 @@
                     ]
                 }
             ],
-            "citations": 31,
+            "citations": 32,
             "publication_name": "Publications of the Astronomical Society of Australia",
             "issn": "13233580",
             "cover_date": "2016-01-01",
@@ -25950,6 +25893,63 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1017/pasa.2016.47"
+        },
+        {
+            "title": "High-resolution elemental abundance analysis of the Hyades supercluster",
+            "eid": "2-s2.0-79960109946",
+            "authors": [
+                {
+                    "scopus_id": "16024129500",
+                    "name": "de Silva G.M.",
+                    "affiliation_id": [
+                        "60105847"
+                    ]
+                },
+                {
+                    "scopus_id": "7202891940",
+                    "name": "Freeman K.C.",
+                    "affiliation_id": [
+                        "60015827"
+                    ]
+                },
+                {
+                    "scopus_id": "56253801100",
+                    "name": "Bland-Hawthorn J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006763621",
+                    "name": "Asplund M.",
+                    "affiliation_id": [
+                        "60023091"
+                    ]
+                },
+                {
+                    "scopus_id": "55475102500",
+                    "name": "Williams M.",
+                    "affiliation_id": [
+                        "60000677"
+                    ]
+                },
+                {
+                    "scopus_id": "55040872800",
+                    "name": "Holmberg J.",
+                    "affiliation_id": [
+                        "60017041"
+                    ]
+                }
+            ],
+            "citations": 32,
+            "publication_name": "Monthly Notices of the Royal Astronomical Society",
+            "issn": "00358711",
+            "cover_date": "2011-01-01",
+            "venue": "Journal",
+            "volume": "415",
+            "issue": "1",
+            "page_range": "563-575",
+            "doi": "10.1111/j.1365-2966.2011.18728.x"
         },
         {
             "title": "The dark matter halo shape of edge-on disk galaxies: IV. UGC 7321",
@@ -38108,6 +38108,5 @@
             "$": "Engineering (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:41:21",
-    "c-score": null
+    "date fetched": "2024-07-12 18:57:16"
 }

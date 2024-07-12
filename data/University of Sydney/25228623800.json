@@ -29,7 +29,7 @@
                     ]
                 }
             ],
-            "citations": 2273,
+            "citations": 2276,
             "publication_name": "American Journal of Clinical Nutrition",
             "issn": "00029165",
             "cover_date": "2002-01-01",
@@ -100,7 +100,7 @@
                     ]
                 }
             ],
-            "citations": 1759,
+            "citations": 1761,
             "publication_name": "American Journal of Clinical Nutrition",
             "issn": "00029165",
             "cover_date": "2005-01-01",
@@ -136,7 +136,7 @@
                     ]
                 }
             ],
-            "citations": 1314,
+            "citations": 1317,
             "publication_name": "Diabetes Care",
             "issn": "01495992",
             "cover_date": "2008-12-01",
@@ -337,7 +337,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 505,
+            "citations": 507,
             "publication_name": "American Journal of Clinical Nutrition",
             "issn": "00029165",
             "cover_date": "2000-01-01",
@@ -578,7 +578,7 @@
                     ]
                 }
             ],
-            "citations": 421,
+            "citations": 422,
             "publication_name": "European Journal of Clinical Nutrition",
             "issn": "09543007",
             "cover_date": "1995-01-01",
@@ -635,7 +635,7 @@
                     ]
                 }
             ],
-            "citations": 416,
+            "citations": 415,
             "publication_name": "Archives of Dermatology",
             "issn": "0003987X",
             "cover_date": "2002-12-01",
@@ -707,7 +707,7 @@
                     ]
                 }
             ],
-            "citations": 375,
+            "citations": 376,
             "publication_name": "Diabetes Care",
             "issn": "01495992",
             "cover_date": "2004-09-01",
@@ -821,7 +821,7 @@
                     ]
                 }
             ],
-            "citations": 305,
+            "citations": 306,
             "publication_name": "European Journal of Clinical Nutrition",
             "issn": "09543007",
             "cover_date": "2003-11-01",
@@ -939,6 +939,56 @@
             "issue": "2",
             "page_range": "95-101",
             "doi": "10.2337/diacare.14.2.95"
+        },
+        {
+            "title": "The paradoxical nature of hunter-gatherer diets: Meat-based, yet non-atherogenic",
+            "eid": "2-s2.0-85047697297",
+            "authors": [
+                {
+                    "scopus_id": "7004663489",
+                    "name": "Cordain L.",
+                    "affiliation_id": [
+                        "60009226"
+                    ]
+                },
+                {
+                    "scopus_id": "7102181849",
+                    "name": "Eaton S.B.",
+                    "affiliation_id": [
+                        "60000928"
+                    ]
+                },
+                {
+                    "scopus_id": "25228623800",
+                    "name": "Miller J.B.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7102682496",
+                    "name": "Mann N.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                },
+                {
+                    "scopus_id": "7402618219",
+                    "name": "Hill K.",
+                    "affiliation_id": [
+                        "60033021"
+                    ]
+                }
+            ],
+            "citations": 269,
+            "publication_name": "European Journal of Clinical Nutrition",
+            "issn": "09543007",
+            "cover_date": "2002-01-01",
+            "venue": "Journal",
+            "volume": "56",
+            "issue": "",
+            "page_range": "S42-S52",
+            "doi": "10.1038/sj.ejcn.1601353"
         },
         {
             "title": "Comparison of 4 diets of varying glycemic load on weight loss and cardiovascular risk reduction in overweight and obese young adults: A randomized controlled trial",
@@ -1106,56 +1156,6 @@
             "doi": "10.1038/sj.ejcn.1601551"
         },
         {
-            "title": "The paradoxical nature of hunter-gatherer diets: Meat-based, yet non-atherogenic",
-            "eid": "2-s2.0-85047697297",
-            "authors": [
-                {
-                    "scopus_id": "7004663489",
-                    "name": "Cordain L.",
-                    "affiliation_id": [
-                        "60009226"
-                    ]
-                },
-                {
-                    "scopus_id": "7102181849",
-                    "name": "Eaton S.B.",
-                    "affiliation_id": [
-                        "60000928"
-                    ]
-                },
-                {
-                    "scopus_id": "25228623800",
-                    "name": "Miller J.B.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7102682496",
-                    "name": "Mann N.",
-                    "affiliation_id": [
-                        "60011362"
-                    ]
-                },
-                {
-                    "scopus_id": "7402618219",
-                    "name": "Hill K.",
-                    "affiliation_id": [
-                        "60033021"
-                    ]
-                }
-            ],
-            "citations": 267,
-            "publication_name": "European Journal of Clinical Nutrition",
-            "issn": "09543007",
-            "cover_date": "2002-01-01",
-            "venue": "Journal",
-            "volume": "56",
-            "issue": "",
-            "page_range": "S42-S52",
-            "doi": "10.1038/sj.ejcn.1601353"
-        },
-        {
             "title": "An insulin index of foods: The insulin demand generated by 1000-kJ portions of common foods",
             "eid": "2-s2.0-1842301673",
             "authors": [
@@ -1207,7 +1207,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 259,
+            "citations": 260,
             "publication_name": "American Journal of Clinical Nutrition",
             "issn": "00029165",
             "cover_date": "1992-01-01",
@@ -1286,7 +1286,7 @@
                     ]
                 }
             ],
-            "citations": 247,
+            "citations": 248,
             "publication_name": "American Journal of Clinical Nutrition",
             "issn": "00029165",
             "cover_date": "2007-02-01",
@@ -1754,7 +1754,7 @@
                     ]
                 }
             ],
-            "citations": 181,
+            "citations": 183,
             "publication_name": "Nutrients",
             "issn": "",
             "cover_date": "2018-06-01",
@@ -2380,7 +2380,7 @@
                     ]
                 }
             ],
-            "citations": 162,
+            "citations": 163,
             "publication_name": "American Journal of Clinical Nutrition",
             "issn": "00029165",
             "cover_date": "2003-01-01",
@@ -2431,7 +2431,7 @@
                     ]
                 }
             ],
-            "citations": 162,
+            "citations": 163,
             "publication_name": "Acta Ophthalmologica Scandinavica",
             "issn": "13953907",
             "cover_date": "2002-05-01",
@@ -2481,7 +2481,7 @@
                     ]
                 }
             ],
-            "citations": 161,
+            "citations": 162,
             "publication_name": "Quarterly Review of Biology",
             "issn": "00335770",
             "cover_date": "2015-09-01",
@@ -2684,7 +2684,7 @@
                     ]
                 }
             ],
-            "citations": 148,
+            "citations": 149,
             "publication_name": "American Journal of Clinical Nutrition",
             "issn": "00029165",
             "cover_date": "2010-07-01",
@@ -2786,7 +2786,7 @@
                     ]
                 }
             ],
-            "citations": 145,
+            "citations": 146,
             "publication_name": "American Journal of Clinical Nutrition",
             "issn": "00029165",
             "cover_date": "2021-11-01",
@@ -3464,7 +3464,7 @@
                     ]
                 }
             ],
-            "citations": 118,
+            "citations": 119,
             "publication_name": "Diabetes, Obesity and Metabolism",
             "issn": "14628902",
             "cover_date": "2018-12-01",
@@ -3723,7 +3723,7 @@
                     ]
                 }
             ],
-            "citations": 112,
+            "citations": 113,
             "publication_name": "Nutrients",
             "issn": "",
             "cover_date": "2019-06-01",
@@ -3873,7 +3873,7 @@
                     ]
                 }
             ],
-            "citations": 94,
+            "citations": 95,
             "publication_name": "Journal of Nutrition",
             "issn": "00223166",
             "cover_date": "2001-01-01",
@@ -4290,6 +4290,81 @@
             "doi": "10.3945/ajcn.110.009555"
         },
         {
+            "title": "Dietary glycemic index and the risk of age-related macular degeneration",
+            "eid": "2-s2.0-53849133097",
+            "authors": [
+                {
+                    "scopus_id": "16031338100",
+                    "name": "Kaushik S.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "6507672607",
+                    "name": "Flood V.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "16053726900",
+                    "name": "Tan J.S.L.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8525382000",
+                    "name": "Barclay A.W.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T.Y.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60017161"
+                    ]
+                },
+                {
+                    "scopus_id": "25228623800",
+                    "name": "Brand-Miller J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60004437"
+                    ]
+                }
+            ],
+            "citations": 81,
+            "publication_name": "American Journal of Clinical Nutrition",
+            "issn": "00029165",
+            "cover_date": "2008-10-01",
+            "venue": "Journal",
+            "volume": "88",
+            "issue": "4",
+            "page_range": "1104-1110",
+            "doi": "10.1093/ajcn/88.4.1104"
+        },
+        {
             "title": "Australian Aboriginal plant foods: A consideration of their nutritional composition and health implications",
             "eid": "2-s2.0-0343275152",
             "authors": [
@@ -4396,81 +4471,6 @@
             "doi": "10.1007/s00125-009-1629-8"
         },
         {
-            "title": "Dietary glycemic index and the risk of age-related macular degeneration",
-            "eid": "2-s2.0-53849133097",
-            "authors": [
-                {
-                    "scopus_id": "16031338100",
-                    "name": "Kaushik S.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "6507672607",
-                    "name": "Flood V.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "16053726900",
-                    "name": "Tan J.S.L.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "8525382000",
-                    "name": "Barclay A.W.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T.Y.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60017161"
-                    ]
-                },
-                {
-                    "scopus_id": "25228623800",
-                    "name": "Brand-Miller J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60004437"
-                    ]
-                }
-            ],
-            "citations": 80,
-            "publication_name": "American Journal of Clinical Nutrition",
-            "issn": "00029165",
-            "cover_date": "2008-10-01",
-            "venue": "Journal",
-            "volume": "88",
-            "issue": "4",
-            "page_range": "1104-1110",
-            "doi": "10.1093/ajcn/88.4.1104"
-        },
-        {
             "title": "Glycemic index of processed wheat products",
             "eid": "2-s2.0-0023513302",
             "authors": [
@@ -4571,71 +4571,6 @@
             "issue": "1",
             "page_range": "98-106",
             "doi": "10.1093/ajcn/45.1.98"
-        },
-        {
-            "title": "Declining consumption of added sugars and sugar-sweetened beverages in Australia: A challenge for obesity prevention",
-            "eid": "2-s2.0-85020542266",
-            "authors": [
-                {
-                    "scopus_id": "25228623800",
-                    "name": "Brand-Miller J.C.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "8525382000",
-                    "name": "Barclay A.W.",
-                    "affiliation_id": [
-                        "118648822"
-                    ]
-                }
-            ],
-            "citations": 75,
-            "publication_name": "American Journal of Clinical Nutrition",
-            "issn": "00029165",
-            "cover_date": "2017-04-01",
-            "venue": "Journal",
-            "volume": "105",
-            "issue": "4",
-            "page_range": "854-863",
-            "doi": "10.3945/ajcn.116.145318"
-        },
-        {
-            "title": "Glycemic effect of potatoes",
-            "eid": "2-s2.0-84859797907",
-            "authors": [
-                {
-                    "scopus_id": "51863489300",
-                    "name": "Ek K.L.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "25228623800",
-                    "name": "Brand-Miller J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7102081385",
-                    "name": "Copeland L.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 75,
-            "publication_name": "Food Chemistry",
-            "issn": "03088146",
-            "cover_date": "2012-08-15",
-            "venue": "Journal",
-            "volume": "133",
-            "issue": "4",
-            "page_range": "1230-1240",
-            "doi": "10.1016/j.foodchem.2011.09.004"
         },
         {
             "title": "PREVIEW: Prevention of diabetes through lifestyle intervention and population studies in Europe and around the world. design, methods, and baseline participant description of an adult cohort enrolled into a three-year randomised clinical trial",
@@ -4805,7 +4740,7 @@
                     ]
                 }
             ],
-            "citations": 74,
+            "citations": 75,
             "publication_name": "Nutrients",
             "issn": "",
             "cover_date": "2017-06-20",
@@ -4814,6 +4749,71 @@
             "issue": "6",
             "page_range": null,
             "doi": "10.3390/nu9060632"
+        },
+        {
+            "title": "Declining consumption of added sugars and sugar-sweetened beverages in Australia: A challenge for obesity prevention",
+            "eid": "2-s2.0-85020542266",
+            "authors": [
+                {
+                    "scopus_id": "25228623800",
+                    "name": "Brand-Miller J.C.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8525382000",
+                    "name": "Barclay A.W.",
+                    "affiliation_id": [
+                        "118648822"
+                    ]
+                }
+            ],
+            "citations": 75,
+            "publication_name": "American Journal of Clinical Nutrition",
+            "issn": "00029165",
+            "cover_date": "2017-04-01",
+            "venue": "Journal",
+            "volume": "105",
+            "issue": "4",
+            "page_range": "854-863",
+            "doi": "10.3945/ajcn.116.145318"
+        },
+        {
+            "title": "Glycemic effect of potatoes",
+            "eid": "2-s2.0-84859797907",
+            "authors": [
+                {
+                    "scopus_id": "51863489300",
+                    "name": "Ek K.L.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "25228623800",
+                    "name": "Brand-Miller J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7102081385",
+                    "name": "Copeland L.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 75,
+            "publication_name": "Food Chemistry",
+            "issn": "03088146",
+            "cover_date": "2012-08-15",
+            "venue": "Journal",
+            "volume": "133",
+            "issue": "4",
+            "page_range": "1230-1240",
+            "doi": "10.1016/j.foodchem.2011.09.004"
         },
         {
             "title": "The glycaemic index of foods containing sugars: Comparison of foods with naturally-occurring v. added sugars",
@@ -6139,7 +6139,7 @@
                     ]
                 }
             ],
-            "citations": 57,
+            "citations": 58,
             "publication_name": "Journal of Nutrition",
             "issn": "00223166",
             "cover_date": "2009-03-01",
@@ -6875,7 +6875,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 46,
+            "citations": 47,
             "publication_name": "British Journal of Nutrition",
             "issn": "00071145",
             "cover_date": "1999-01-01",
@@ -8159,6 +8159,49 @@
             "doi": ""
         },
         {
+            "title": "The physiologic and phenotypic significance of variation in human amylase gene copy number",
+            "eid": "2-s2.0-85055079172",
+            "authors": [
+                {
+                    "scopus_id": "14049947000",
+                    "name": "Atkinson F.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7102173488",
+                    "name": "Hancock D.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6603910170",
+                    "name": "Petocz P.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
+                },
+                {
+                    "scopus_id": "25228623800",
+                    "name": "Brand-Miller J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 35,
+            "publication_name": "American Journal of Clinical Nutrition",
+            "issn": "00029165",
+            "cover_date": "2018-10-01",
+            "venue": "Journal",
+            "volume": "108",
+            "issue": "4",
+            "page_range": "737-748",
+            "doi": "10.1093/ajcn/nqy164"
+        },
+        {
             "title": "Carbohydrate nutrition is associated with changes in the retinal vascular structure and branching pattern in children",
             "eid": "2-s2.0-84860313546",
             "authors": [
@@ -8339,49 +8382,6 @@
             "issue": "6",
             "page_range": "1589-1592",
             "doi": "10.1093/ajcn/72.6.1589"
-        },
-        {
-            "title": "The physiologic and phenotypic significance of variation in human amylase gene copy number",
-            "eid": "2-s2.0-85055079172",
-            "authors": [
-                {
-                    "scopus_id": "14049947000",
-                    "name": "Atkinson F.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7102173488",
-                    "name": "Hancock D.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6603910170",
-                    "name": "Petocz P.",
-                    "affiliation_id": [
-                        "60019544"
-                    ]
-                },
-                {
-                    "scopus_id": "25228623800",
-                    "name": "Brand-Miller J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 34,
-            "publication_name": "American Journal of Clinical Nutrition",
-            "issn": "00029165",
-            "cover_date": "2018-10-01",
-            "venue": "Journal",
-            "volume": "108",
-            "issue": "4",
-            "page_range": "737-748",
-            "doi": "10.1093/ajcn/nqy164"
         },
         {
             "title": "Dietary glycemic load is a predictor of age-related hearing loss in older adults",
@@ -9414,6 +9414,79 @@
             "doi": "10.1093/ajcn/46.2.282"
         },
         {
+            "title": "The carbohydrate threshold in pregnancy and gestational diabetes: How low can we go?",
+            "eid": "2-s2.0-85111380528",
+            "authors": [
+                {
+                    "scopus_id": "55771103700",
+                    "name": "Sweeting A.",
+                    "affiliation_id": [
+                        "60121699",
+                        "60025709",
+                        "60018150"
+                    ]
+                },
+                {
+                    "scopus_id": "57188649998",
+                    "name": "Mijatovic J.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6602895500",
+                    "name": "Brinkworth G.D.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60001491"
+                    ]
+                },
+                {
+                    "scopus_id": "56823623600",
+                    "name": "Markovic T.P.",
+                    "affiliation_id": [
+                        "60121699",
+                        "60025709",
+                        "60018150"
+                    ]
+                },
+                {
+                    "scopus_id": "8876222900",
+                    "name": "Ross G.P.",
+                    "affiliation_id": [
+                        "60121699",
+                        "60018150"
+                    ]
+                },
+                {
+                    "scopus_id": "25228623800",
+                    "name": "Brand-Miller J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7101904773",
+                    "name": "Hernandez T.L.",
+                    "affiliation_id": [
+                        "60028392",
+                        "60028421",
+                        "60092830"
+                    ]
+                }
+            ],
+            "citations": 26,
+            "publication_name": "Nutrients",
+            "issn": "",
+            "cover_date": "2021-08-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "8",
+            "page_range": null,
+            "doi": "10.3390/nu13082599"
+        },
+        {
             "title": "Carbohydrate nutrition, glycemic index, and the 10-y incidence of cataract",
             "eid": "2-s2.0-36249003482",
             "authors": [
@@ -9478,79 +9551,6 @@
             "issue": "5",
             "page_range": "1502-1508",
             "doi": "10.1093/ajcn/86.5.1502"
-        },
-        {
-            "title": "The carbohydrate threshold in pregnancy and gestational diabetes: How low can we go?",
-            "eid": "2-s2.0-85111380528",
-            "authors": [
-                {
-                    "scopus_id": "55771103700",
-                    "name": "Sweeting A.",
-                    "affiliation_id": [
-                        "60121699",
-                        "60025709",
-                        "60018150"
-                    ]
-                },
-                {
-                    "scopus_id": "57188649998",
-                    "name": "Mijatovic J.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6602895500",
-                    "name": "Brinkworth G.D.",
-                    "affiliation_id": [
-                        "60029470",
-                        "60001491"
-                    ]
-                },
-                {
-                    "scopus_id": "56823623600",
-                    "name": "Markovic T.P.",
-                    "affiliation_id": [
-                        "60121699",
-                        "60025709",
-                        "60018150"
-                    ]
-                },
-                {
-                    "scopus_id": "8876222900",
-                    "name": "Ross G.P.",
-                    "affiliation_id": [
-                        "60121699",
-                        "60018150"
-                    ]
-                },
-                {
-                    "scopus_id": "25228623800",
-                    "name": "Brand-Miller J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7101904773",
-                    "name": "Hernandez T.L.",
-                    "affiliation_id": [
-                        "60028392",
-                        "60028421",
-                        "60092830"
-                    ]
-                }
-            ],
-            "citations": 25,
-            "publication_name": "Nutrients",
-            "issn": "",
-            "cover_date": "2021-08-01",
-            "venue": "Journal",
-            "volume": "13",
-            "issue": "8",
-            "page_range": null,
-            "doi": "10.3390/nu13082599"
         },
         {
             "title": "Algorithms to improve the prediction of postprandial insulinaemia in response to common foods",
@@ -9704,130 +9704,6 @@
             "issue": "12",
             "page_range": "3363-3365",
             "doi": "10.2337/diacare.26.12.3363"
-        },
-        {
-            "title": "High-glycaemic index and -glycaemic load meals increase the availability of tryptophan in healthy volunteers",
-            "eid": "2-s2.0-79958771797",
-            "authors": [
-                {
-                    "scopus_id": "39863122900",
-                    "name": "Herrera C.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60105844"
-                    ]
-                },
-                {
-                    "scopus_id": "55574237511",
-                    "name": "Smith K.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "14049947000",
-                    "name": "Atkinson F.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6602973028",
-                    "name": "Ruell P.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7402578580",
-                    "name": "Chow C.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7005218737",
-                    "name": "O'Connor H.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "25228623800",
-                    "name": "Brand-Miller J.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 24,
-            "publication_name": "British Journal of Nutrition",
-            "issn": "00071145",
-            "cover_date": "2011-06-14",
-            "venue": "Journal",
-            "volume": "105",
-            "issue": "11",
-            "page_range": "1601-1606",
-            "doi": "10.1017/S0007114510005192"
-        },
-        {
-            "title": "Replacing starch with sucrose in a high glycaemic index breakfast cereal lowers glycaemic and insulin responses",
-            "eid": "2-s2.0-0028134703",
-            "authors": [
-                {
-                    "scopus_id": "25228623800",
-                    "name": "Brand Miller J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "57195080049",
-                    "name": "Lobbezoo I.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 24,
-            "publication_name": "European Journal of Clinical Nutrition",
-            "issn": "09543007",
-            "cover_date": "1994-10-28",
-            "venue": "Journal",
-            "volume": "48",
-            "issue": "10",
-            "page_range": "749-752",
-            "doi": ""
-        },
-        {
-            "title": "Relative effectiveness of milks with reduced amounts of lactose in alleviating milk intolerance",
-            "eid": "2-s2.0-0025744787",
-            "authors": [
-                {
-                    "scopus_id": "25228623800",
-                    "name": "Brand J.C.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "57206236251",
-                    "name": "Holt S.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 24,
-            "publication_name": "American Journal of Clinical Nutrition",
-            "issn": "00029165",
-            "cover_date": "1991-01-01",
-            "venue": "Journal",
-            "volume": "54",
-            "issue": "1",
-            "page_range": "148-151",
-            "doi": ""
         },
         {
             "title": "Compositional analysis of the associations between 24-h movement behaviours and cardio-metabolic risk factors in overweight and obese adults with pre-diabetes from the PREVIEW study: Cross-sectional baseline analysis",
@@ -10014,7 +9890,7 @@
                     ]
                 }
             ],
-            "citations": 23,
+            "citations": 24,
             "publication_name": "International Journal of Behavioral Nutrition and Physical Activity",
             "issn": "",
             "cover_date": "2020-03-04",
@@ -10023,6 +9899,130 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1186/s12966-020-00936-5"
+        },
+        {
+            "title": "High-glycaemic index and -glycaemic load meals increase the availability of tryptophan in healthy volunteers",
+            "eid": "2-s2.0-79958771797",
+            "authors": [
+                {
+                    "scopus_id": "39863122900",
+                    "name": "Herrera C.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60105844"
+                    ]
+                },
+                {
+                    "scopus_id": "55574237511",
+                    "name": "Smith K.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "14049947000",
+                    "name": "Atkinson F.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6602973028",
+                    "name": "Ruell P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7402578580",
+                    "name": "Chow C.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7005218737",
+                    "name": "O'Connor H.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "25228623800",
+                    "name": "Brand-Miller J.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "British Journal of Nutrition",
+            "issn": "00071145",
+            "cover_date": "2011-06-14",
+            "venue": "Journal",
+            "volume": "105",
+            "issue": "11",
+            "page_range": "1601-1606",
+            "doi": "10.1017/S0007114510005192"
+        },
+        {
+            "title": "Replacing starch with sucrose in a high glycaemic index breakfast cereal lowers glycaemic and insulin responses",
+            "eid": "2-s2.0-0028134703",
+            "authors": [
+                {
+                    "scopus_id": "25228623800",
+                    "name": "Brand Miller J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "57195080049",
+                    "name": "Lobbezoo I.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "European Journal of Clinical Nutrition",
+            "issn": "09543007",
+            "cover_date": "1994-10-28",
+            "venue": "Journal",
+            "volume": "48",
+            "issue": "10",
+            "page_range": "749-752",
+            "doi": ""
+        },
+        {
+            "title": "Relative effectiveness of milks with reduced amounts of lactose in alleviating milk intolerance",
+            "eid": "2-s2.0-0025744787",
+            "authors": [
+                {
+                    "scopus_id": "25228623800",
+                    "name": "Brand J.C.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "57206236251",
+                    "name": "Holt S.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "American Journal of Clinical Nutrition",
+            "issn": "00029165",
+            "cover_date": "1991-01-01",
+            "venue": "Journal",
+            "volume": "54",
+            "issue": "1",
+            "page_range": "148-151",
+            "doi": ""
         },
         {
             "title": "Effects of a modestly lower carbohydrate diet in gestational diabetes: A randomized controlled trial",
@@ -10293,6 +10293,42 @@
             "doi": "10.1016/j.jcf.2016.02.012"
         },
         {
+            "title": "Effect of added carbohydrates on glycemic and insulin responses to children's milk products",
+            "eid": "2-s2.0-84872849706",
+            "authors": [
+                {
+                    "scopus_id": "25228623800",
+                    "name": "Brand-Miller J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "14049947000",
+                    "name": "Atkinson F.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "9634480400",
+                    "name": "Rowan A.",
+                    "affiliation_id": [
+                        "60010900"
+                    ]
+                }
+            ],
+            "citations": 22,
+            "publication_name": "Nutrients",
+            "issn": "20726643",
+            "cover_date": "2013-01-10",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "1",
+            "page_range": "23-31",
+            "doi": "10.3390/nu5010023"
+        },
+        {
             "title": "Macronutrient intake, glycaemic index and glycaemic load of older Australian subjects with and without diabetes: Baseline data from the blue mountains eye study",
             "eid": "2-s2.0-33746766228",
             "authors": [
@@ -10364,42 +10400,6 @@
             "issue": "11",
             "page_range": "580-582",
             "doi": "10.5694/j.1326-5377.1986.tb112314.x"
-        },
-        {
-            "title": "Effect of added carbohydrates on glycemic and insulin responses to children's milk products",
-            "eid": "2-s2.0-84872849706",
-            "authors": [
-                {
-                    "scopus_id": "25228623800",
-                    "name": "Brand-Miller J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "14049947000",
-                    "name": "Atkinson F.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "9634480400",
-                    "name": "Rowan A.",
-                    "affiliation_id": [
-                        "60010900"
-                    ]
-                }
-            ],
-            "citations": 21,
-            "publication_name": "Nutrients",
-            "issn": "20726643",
-            "cover_date": "2013-01-10",
-            "venue": "Journal",
-            "volume": "5",
-            "issue": "1",
-            "page_range": "23-31",
-            "doi": "10.3390/nu5010023"
         },
         {
             "title": "The carnivore connection hypothesis: Revisited",
@@ -12686,6 +12686,35 @@
             "doi": "10.5694/j.1326-5377.1977.tb107779.x"
         },
         {
+            "title": "The relationship between glycemic index and health",
+            "eid": "2-s2.0-85079678238",
+            "authors": [
+                {
+                    "scopus_id": "25228623800",
+                    "name": "Brand-Miller J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "57190079189",
+                    "name": "Buyken A.E.",
+                    "affiliation_id": [
+                        "60020238"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Nutrients",
+            "issn": "",
+            "cover_date": "2020-02-01",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "2",
+            "page_range": null,
+            "doi": "10.3390/nu12020536"
+        },
+        {
             "title": "Hypoglycaemia in cystic fibrosis: An analysis of a single centre adult cystic fibrosis clinic",
             "eid": "2-s2.0-85039449620",
             "authors": [
@@ -12746,6 +12775,48 @@
             "issue": "4",
             "page_range": "542-547",
             "doi": "10.1016/j.jcf.2017.11.015"
+        },
+        {
+            "title": "Changes in dietary glycemic index and glycemic load in Australian adults from 1995 to 2012",
+            "eid": "2-s2.0-85021814030",
+            "authors": [
+                {
+                    "scopus_id": "57194724661",
+                    "name": "Kusnadi D.T.L.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8525382000",
+                    "name": "Barclay A.W.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "25228623800",
+                    "name": "Brand-Miller J.C.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "57406023700",
+                    "name": "Louie J.C.Y.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60006541"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "American Journal of Clinical Nutrition",
+            "issn": "00029165",
+            "cover_date": "2017-07-01",
+            "venue": "Journal",
+            "volume": "106",
+            "issue": "1",
+            "page_range": "189-198",
+            "doi": "10.3945/ajcn.116.150516"
         },
         {
             "title": "Glycemic index is as reliable as macronutrients on food labels",
@@ -13159,77 +13230,6 @@
             "issue": "7",
             "page_range": "1491-1498",
             "doi": "10.2337/DC21-0059"
-        },
-        {
-            "title": "The relationship between glycemic index and health",
-            "eid": "2-s2.0-85079678238",
-            "authors": [
-                {
-                    "scopus_id": "25228623800",
-                    "name": "Brand-Miller J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "57190079189",
-                    "name": "Buyken A.E.",
-                    "affiliation_id": [
-                        "60020238"
-                    ]
-                }
-            ],
-            "citations": 12,
-            "publication_name": "Nutrients",
-            "issn": "",
-            "cover_date": "2020-02-01",
-            "venue": "Journal",
-            "volume": "12",
-            "issue": "2",
-            "page_range": null,
-            "doi": "10.3390/nu12020536"
-        },
-        {
-            "title": "Changes in dietary glycemic index and glycemic load in Australian adults from 1995 to 2012",
-            "eid": "2-s2.0-85021814030",
-            "authors": [
-                {
-                    "scopus_id": "57194724661",
-                    "name": "Kusnadi D.T.L.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "8525382000",
-                    "name": "Barclay A.W.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "25228623800",
-                    "name": "Brand-Miller J.C.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "57406023700",
-                    "name": "Louie J.C.Y.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60006541"
-                    ]
-                }
-            ],
-            "citations": 12,
-            "publication_name": "American Journal of Clinical Nutrition",
-            "issn": "00029165",
-            "cover_date": "2017-07-01",
-            "venue": "Journal",
-            "volume": "106",
-            "issue": "1",
-            "page_range": "189-198",
-            "doi": "10.3945/ajcn.116.150516"
         },
         {
             "title": "Timing of peak blood glucose after breakfast meals of different glycemic index in women with gestational diabetes",
@@ -16185,6 +16185,106 @@
             "doi": "10.1080/10942919809524569"
         },
         {
+            "title": "Evidence that carbohydrate-to-fat ratio and taste, but not energy density or NOVA level of processing, are determinants of food liking and food reward",
+            "eid": "2-s2.0-85178371215",
+            "authors": [
+                {
+                    "scopus_id": "7402548710",
+                    "name": "Rogers P.J.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "57996062400",
+                    "name": "Vural Y.",
+                    "affiliation_id": [
+                        "60020650",
+                        "60023355"
+                    ]
+                },
+                {
+                    "scopus_id": "58738087000",
+                    "name": "Berridge-Burley N.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "58737282500",
+                    "name": "Butcher C.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "58736082800",
+                    "name": "Cawley E.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "58738499400",
+                    "name": "Gao Z.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "58737683500",
+                    "name": "Sutcliffe A.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "58736472400",
+                    "name": "Tinker L.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "58737282600",
+                    "name": "Zeng X.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "57219938606",
+                    "name": "Flynn A.N.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "7003392838",
+                    "name": "Brunstrom J.M.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "25228623800",
+                    "name": "Brand-Miller J.C.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Appetite",
+            "issn": "01956663",
+            "cover_date": "2024-02-01",
+            "venue": "Journal",
+            "volume": "193",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.appet.2023.107124"
+        },
+        {
             "title": "Glycemic index and insulin index after a standard carbohydrate meal consumed with live kombucha: A randomised, placebo-controlled, crossover trial",
             "eid": "2-s2.0-85149936368",
             "authors": [
@@ -17084,106 +17184,6 @@
             "issue": "10",
             "page_range": "1051",
             "doi": "10.1111/j.1651-2227.1994.tb12983.x"
-        },
-        {
-            "title": "Evidence that carbohydrate-to-fat ratio and taste, but not energy density or NOVA level of processing, are determinants of food liking and food reward",
-            "eid": "2-s2.0-85178371215",
-            "authors": [
-                {
-                    "scopus_id": "7402548710",
-                    "name": "Rogers P.J.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "57996062400",
-                    "name": "Vural Y.",
-                    "affiliation_id": [
-                        "60020650",
-                        "60023355"
-                    ]
-                },
-                {
-                    "scopus_id": "58738087000",
-                    "name": "Berridge-Burley N.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "58737282500",
-                    "name": "Butcher C.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "58736082800",
-                    "name": "Cawley E.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "58738499400",
-                    "name": "Gao Z.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "58737683500",
-                    "name": "Sutcliffe A.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "58736472400",
-                    "name": "Tinker L.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "58737282600",
-                    "name": "Zeng X.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "57219938606",
-                    "name": "Flynn A.N.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "7003392838",
-                    "name": "Brunstrom J.M.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "25228623800",
-                    "name": "Brand-Miller J.C.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 3,
-            "publication_name": "Appetite",
-            "issn": "01956663",
-            "cover_date": "2024-02-01",
-            "venue": "Journal",
-            "volume": "193",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.appet.2023.107124"
         },
         {
             "title": "Diabetes and insulin resistance",
@@ -18424,7 +18424,7 @@
             "volume": "14",
             "issue": "6",
             "page_range": "504",
-            "doi": "10.1002/(sici)1096-9136(199706)14:6<504::aid-dia392>3.0.co;2-4"
+            "doi": "10.1002/(SICI)1096-9136(199706)14:6<504::AID-DIA392>3.0.CO;2-4"
         },
         {
             "title": "L'index glyc\u00e9mique des aliments",
@@ -19921,6 +19921,174 @@
             "issue": "7",
             "page_range": "318-322",
             "doi": "10.5694/j.1326-5377.1986.tb113837.x"
+        },
+        {
+            "title": "Hybrid Evaluation of a Lifestyle Change Program to Prevent the Development of Type 2 Diabetes Among Individuals With Prediabetes: Intended and Observed Changes in Intervening Mechanisms",
+            "eid": "2-s2.0-85196991822",
+            "authors": [
+                {
+                    "scopus_id": "57204402434",
+                    "name": "Huttunen-Lenz M.",
+                    "affiliation_id": [
+                        "120289952"
+                    ]
+                },
+                {
+                    "scopus_id": "57190687128",
+                    "name": "Hansen S.",
+                    "affiliation_id": [
+                        "60024025"
+                    ]
+                },
+                {
+                    "scopus_id": "56147582400",
+                    "name": "Raben A.",
+                    "affiliation_id": [
+                        "60030840",
+                        "60016428"
+                    ]
+                },
+                {
+                    "scopus_id": "7005862688",
+                    "name": "Westerterp-Plantenga M.",
+                    "affiliation_id": [
+                        "60018869"
+                    ]
+                },
+                {
+                    "scopus_id": "8710261000",
+                    "name": "Adam T.",
+                    "affiliation_id": [
+                        "60018869"
+                    ]
+                },
+                {
+                    "scopus_id": "7202149264",
+                    "name": "Macdonald I.",
+                    "affiliation_id": [
+                        "60015138",
+                        "60027886"
+                    ]
+                },
+                {
+                    "scopus_id": "7006602321",
+                    "name": "Stratton G.",
+                    "affiliation_id": [
+                        "60004572"
+                    ]
+                },
+                {
+                    "scopus_id": "57195990223",
+                    "name": "Swindell N.",
+                    "affiliation_id": [
+                        "60004572"
+                    ]
+                },
+                {
+                    "scopus_id": "58277955800",
+                    "name": "Martinez J.A.",
+                    "affiliation_id": [
+                        "60033320",
+                        "60001602"
+                    ]
+                },
+                {
+                    "scopus_id": "22980708600",
+                    "name": "Navas-Carretero S.",
+                    "affiliation_id": [
+                        "60033320",
+                        "60001602",
+                        "60267265"
+                    ]
+                },
+                {
+                    "scopus_id": "35721965500",
+                    "name": "Handjieva-Darlenska T.",
+                    "affiliation_id": [
+                        "60028054"
+                    ]
+                },
+                {
+                    "scopus_id": "37021346900",
+                    "name": "Handjiev S.",
+                    "affiliation_id": [
+                        "60028054"
+                    ]
+                },
+                {
+                    "scopus_id": "7004592052",
+                    "name": "Poppitt S.D.",
+                    "affiliation_id": [
+                        "60005686"
+                    ]
+                },
+                {
+                    "scopus_id": "55075918200",
+                    "name": "Silvestre M.P.",
+                    "affiliation_id": [
+                        "60005686",
+                        "60031875"
+                    ]
+                },
+                {
+                    "scopus_id": "55796628952",
+                    "name": "Larsen T.M.",
+                    "affiliation_id": [
+                        "60030840"
+                    ]
+                },
+                {
+                    "scopus_id": "57215576313",
+                    "name": "Vestentoft P.S.",
+                    "affiliation_id": [
+                        "60030840"
+                    ]
+                },
+                {
+                    "scopus_id": "55866199300",
+                    "name": "Fogelholm M.",
+                    "affiliation_id": [
+                        "60002952"
+                    ]
+                },
+                {
+                    "scopus_id": "57194605239",
+                    "name": "Jalo E.",
+                    "affiliation_id": [
+                        "60002952"
+                    ]
+                },
+                {
+                    "scopus_id": "25228623800",
+                    "name": "Brand-Miller J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55747034600",
+                    "name": "Muirhead R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "13408328200",
+                    "name": "Schlicht W.",
+                    "affiliation_id": [
+                        "60015815"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Journal of primary care &amp; community health",
+            "issn": "",
+            "cover_date": "2024-01-01",
+            "venue": "Journal",
+            "volume": "15",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1177/21501319241248223"
         },
         {
             "title": "Combining diaries and accelerometers to explain change in physical activity during a lifestyle intervention for adults with prediabetes: A PREVIEW sub-study",
@@ -21775,11 +21943,11 @@
     "affiliation_id": "60025709",
     "city": "Sydney",
     "country": "Australia",
-    "document_count": 346,
+    "document_count": 347,
     "subject_area": [
         {
             "@abbrev": "MEDI",
-            "@frequency": "513",
+            "@frequency": "514",
             "$": "Medicine (all)"
         },
         {
@@ -21793,6 +21961,5 @@
             "$": "Nursing (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:41:52",
-    "c-score": null
+    "date fetched": "2024-07-12 20:40:45"
 }

@@ -61,7 +61,7 @@
                     ]
                 }
             ],
-            "citations": 1758,
+            "citations": 1762,
             "publication_name": "International Journal of Epidemiology",
             "issn": "03005771",
             "cover_date": "2014-01-01",
@@ -338,7 +338,7 @@
                     ]
                 }
             ],
-            "citations": 1720,
+            "citations": 1724,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-09-24",
@@ -396,7 +396,7 @@
                     ]
                 }
             ],
-            "citations": 1527,
+            "citations": 1532,
             "publication_name": "JAMA",
             "issn": "00987484",
             "cover_date": "2009-08-05",
@@ -774,7 +774,7 @@
                     ]
                 }
             ],
-            "citations": 679,
+            "citations": 681,
             "publication_name": "International Journal of Behavioral Nutrition and Physical Activity",
             "issn": "",
             "cover_date": "2009-03-31",
@@ -898,7 +898,7 @@
                     ]
                 }
             ],
-            "citations": 630,
+            "citations": 631,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2013-11-13",
@@ -1423,7 +1423,7 @@
                     ]
                 }
             ],
-            "citations": 237,
+            "citations": 238,
             "publication_name": "JAMA Internal Medicine",
             "issn": "21686106",
             "cover_date": "2015-06-01",
@@ -1534,7 +1534,7 @@
                     ]
                 }
             ],
-            "citations": 195,
+            "citations": 196,
             "publication_name": "Preventive Medicine",
             "issn": "00917435",
             "cover_date": "2012-03-01",
@@ -1733,7 +1733,7 @@
                     ]
                 }
             ],
-            "citations": 154,
+            "citations": 155,
             "publication_name": "Australian and New Zealand Journal of Public Health",
             "issn": "13260200",
             "cover_date": "2004-01-01",
@@ -1783,7 +1783,7 @@
                     ]
                 }
             ],
-            "citations": 145,
+            "citations": 146,
             "publication_name": "European Journal of Clinical Nutrition",
             "issn": "09543007",
             "cover_date": "2008-07-01",
@@ -2224,7 +2224,7 @@
                     ]
                 }
             ],
-            "citations": 76,
+            "citations": 78,
             "publication_name": "The Lancet Global Health",
             "issn": "",
             "cover_date": "2014-01-01",
@@ -2766,7 +2766,7 @@
                     ]
                 }
             ],
-            "citations": 45,
+            "citations": 46,
             "publication_name": "Preventive Medicine",
             "issn": "00917435",
             "cover_date": "2014-12-01",
@@ -2963,7 +2963,7 @@
                     "scopus_id": "6603944414",
                     "name": "Steel Z.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
@@ -2978,21 +2978,21 @@
                     "scopus_id": "55943740200",
                     "name": "Chey T.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "7006647826",
                     "name": "Silove d.r.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "14020310900",
                     "name": "Marnane C.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
@@ -3286,56 +3286,6 @@
             "doi": "10.1016/j.drugalcdep.2006.08.030"
         },
         {
-            "title": "Retention and use of personal health records: A population\u2010based study",
-            "eid": "2-s2.0-0028360704",
-            "authors": [
-                {
-                    "scopus_id": "57225267408",
-                    "name": "JEFFS D.",
-                    "affiliation_id": [
-                        "118887428"
-                    ]
-                },
-                {
-                    "scopus_id": "6603630447",
-                    "name": "NOSSAR V.",
-                    "affiliation_id": [
-                        "60029927"
-                    ]
-                },
-                {
-                    "scopus_id": "57197017943",
-                    "name": "BAILEY F.",
-                    "affiliation_id": [
-                        "60082306"
-                    ]
-                },
-                {
-                    "scopus_id": "7406472638",
-                    "name": "SMITH W.",
-                    "affiliation_id": [
-                        "101686509"
-                    ]
-                },
-                {
-                    "scopus_id": "55943740200",
-                    "name": "CHEY T.",
-                    "affiliation_id": [
-                        "101686509"
-                    ]
-                }
-            ],
-            "citations": 31,
-            "publication_name": "Journal of Paediatrics and Child Health",
-            "issn": "10344810",
-            "cover_date": "1994-01-01",
-            "venue": "Journal",
-            "volume": "30",
-            "issue": "3",
-            "page_range": "248-252",
-            "doi": "10.1111/j.1440-1754.1994.tb00627.x"
-        },
-        {
             "title": "Trauma exposure, PTSD and psychotic-like symptoms in post-conflict Timor Leste: An epidemiological survey",
             "eid": "2-s2.0-84871176009",
             "authors": [
@@ -3403,7 +3353,7 @@
                     ]
                 }
             ],
-            "citations": 30,
+            "citations": 31,
             "publication_name": "BMC Psychiatry",
             "issn": "",
             "cover_date": "2012-12-18",
@@ -3412,6 +3362,56 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1186/1471-244X-12-229"
+        },
+        {
+            "title": "Retention and use of personal health records: A population\u2010based study",
+            "eid": "2-s2.0-0028360704",
+            "authors": [
+                {
+                    "scopus_id": "57225267408",
+                    "name": "JEFFS D.",
+                    "affiliation_id": [
+                        "118887428"
+                    ]
+                },
+                {
+                    "scopus_id": "6603630447",
+                    "name": "NOSSAR V.",
+                    "affiliation_id": [
+                        "60029927"
+                    ]
+                },
+                {
+                    "scopus_id": "57197017943",
+                    "name": "BAILEY F.",
+                    "affiliation_id": [
+                        "60082306"
+                    ]
+                },
+                {
+                    "scopus_id": "7406472638",
+                    "name": "SMITH W.",
+                    "affiliation_id": [
+                        "101686509"
+                    ]
+                },
+                {
+                    "scopus_id": "55943740200",
+                    "name": "CHEY T.",
+                    "affiliation_id": [
+                        "101686509"
+                    ]
+                }
+            ],
+            "citations": 31,
+            "publication_name": "Journal of Paediatrics and Child Health",
+            "issn": "10344810",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "30",
+            "issue": "3",
+            "page_range": "248-252",
+            "doi": "10.1111/j.1440-1754.1994.tb00627.x"
         },
         {
             "title": "Weight change in control group participants in behavioural weight loss interventions: A systematic review and meta-regression study",
@@ -4277,7 +4277,7 @@
                     ]
                 }
             ],
-            "citations": 12,
+            "citations": 13,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2018-04-01",
@@ -5127,20 +5127,19 @@
     "subject_area": [
         {
             "@abbrev": "MEDI",
-            "@frequency": "101",
+            "@frequency": "132",
             "$": "Medicine (all)"
         },
         {
             "@abbrev": "HEAL",
-            "@frequency": "9",
+            "@frequency": "10",
             "$": "Health Professions  (all)"
         },
         {
-            "@abbrev": "AGRI",
-            "@frequency": "7",
-            "$": "Agricultural and Biological Sciences (all)"
+            "@abbrev": "BIOC",
+            "@frequency": "9",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:45:56",
-    "c-score": null
+    "date fetched": "2024-07-12 20:44:54"
 }

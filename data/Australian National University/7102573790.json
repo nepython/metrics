@@ -35,7 +35,7 @@
                     ]
                 }
             ],
-            "citations": 2826,
+            "citations": 2830,
             "publication_name": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
             "issn": "03029743",
             "cover_date": "2000-01-01",
@@ -57,7 +57,7 @@
                     ]
                 }
             ],
-            "citations": 1360,
+            "citations": 1361,
             "publication_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
             "issn": "01628828",
             "cover_date": "1997-12-01",
@@ -86,7 +86,7 @@
                     ]
                 }
             ],
-            "citations": 942,
+            "citations": 944,
             "publication_name": "Computer Vision and Image Understanding",
             "issn": "10773142",
             "cover_date": "1997-01-01",
@@ -230,7 +230,7 @@
                     ]
                 }
             ],
-            "citations": 430,
+            "citations": 431,
             "publication_name": "International Journal of Computer Vision",
             "issn": "09205691",
             "cover_date": "2013-07-01",
@@ -621,7 +621,7 @@
                     ]
                 }
             ],
-            "citations": 177,
+            "citations": 178,
             "publication_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
             "issn": "01628828",
             "cover_date": "2015-12-01",
@@ -829,7 +829,7 @@
                     ]
                 }
             ],
-            "citations": 153,
+            "citations": 154,
             "publication_name": "Proceedings of the IEEE International Conference on Computer Vision",
             "issn": "15505499",
             "cover_date": "2021-01-01",
@@ -2924,6 +2924,37 @@
             "doi": "10.1109/ICCV.2019.00314"
         },
         {
+            "title": "Convergence of iteratively re-weighted least squares to robust M-estimators",
+            "eid": "2-s2.0-84925433318",
+            "authors": [
+                {
+                    "scopus_id": "52263297400",
+                    "name": "Aftab K.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7102573790",
+                    "name": "Hartley R.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60029470"
+                    ]
+                }
+            ],
+            "citations": 38,
+            "publication_name": "Proceedings - 2015 IEEE Winter Conference on Applications of Computer Vision, WACV 2015",
+            "issn": "",
+            "cover_date": "2015-02-19",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "480-487",
+            "doi": "10.1109/WACV.2015.70"
+        },
+        {
             "title": "Generalized weiszfeld algorithms for Lq optimization",
             "eid": "2-s2.0-84924546298",
             "authors": [
@@ -3030,37 +3061,6 @@
             "issue": "11",
             "page_range": "2926-2943",
             "doi": "10.1109/TPAMI.2019.2916881"
-        },
-        {
-            "title": "Convergence of iteratively re-weighted least squares to robust M-estimators",
-            "eid": "2-s2.0-84925433318",
-            "authors": [
-                {
-                    "scopus_id": "52263297400",
-                    "name": "Aftab K.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "7102573790",
-                    "name": "Hartley R.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60029470"
-                    ]
-                }
-            ],
-            "citations": 37,
-            "publication_name": "Proceedings - 2015 IEEE Winter Conference on Applications of Computer Vision, WACV 2015",
-            "issn": "",
-            "cover_date": "2015-02-19",
-            "venue": "Conference Proceeding",
-            "volume": "",
-            "issue": "",
-            "page_range": "480-487",
-            "doi": "10.1109/WACV.2015.70"
         },
         {
             "title": "Face super-resolution guided by facial component heatmaps",
@@ -3357,6 +3357,67 @@
             "doi": "10.1109/43.3219"
         },
         {
+            "title": "High Frame Rate Video Reconstruction Based on an Event Camera",
+            "eid": "2-s2.0-85096840769",
+            "authors": [
+                {
+                    "scopus_id": "57201374774",
+                    "name": "Pan L.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60108693"
+                    ]
+                },
+                {
+                    "scopus_id": "7102573790",
+                    "name": "Hartley R.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60108693"
+                    ]
+                },
+                {
+                    "scopus_id": "57207943817",
+                    "name": "Scheerlinck C.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60108693"
+                    ]
+                },
+                {
+                    "scopus_id": "55923043600",
+                    "name": "Liu M.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60108693"
+                    ]
+                },
+                {
+                    "scopus_id": "57191429254",
+                    "name": "Yu X.",
+                    "affiliation_id": [
+                        "60023932"
+                    ]
+                },
+                {
+                    "scopus_id": "24829251300",
+                    "name": "Dai Y.",
+                    "affiliation_id": [
+                        "60003977"
+                    ]
+                }
+            ],
+            "citations": 33,
+            "publication_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+            "issn": "01628828",
+            "cover_date": "2022-05-01",
+            "venue": "Journal",
+            "volume": "44",
+            "issue": "5",
+            "page_range": "2519-2533",
+            "doi": "10.1109/TPAMI.2020.3036667"
+        },
+        {
             "title": "Computation of the quadrifocal tensor",
             "eid": "2-s2.0-84957707801",
             "authors": [
@@ -3436,67 +3497,6 @@
             "issue": "",
             "page_range": null,
             "doi": ""
-        },
-        {
-            "title": "High Frame Rate Video Reconstruction Based on an Event Camera",
-            "eid": "2-s2.0-85096840769",
-            "authors": [
-                {
-                    "scopus_id": "57201374774",
-                    "name": "Pan L.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60108693"
-                    ]
-                },
-                {
-                    "scopus_id": "7102573790",
-                    "name": "Hartley R.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60108693"
-                    ]
-                },
-                {
-                    "scopus_id": "57207943817",
-                    "name": "Scheerlinck C.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60108693"
-                    ]
-                },
-                {
-                    "scopus_id": "55923043600",
-                    "name": "Liu M.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60108693"
-                    ]
-                },
-                {
-                    "scopus_id": "57191429254",
-                    "name": "Yu X.",
-                    "affiliation_id": [
-                        "60023932"
-                    ]
-                },
-                {
-                    "scopus_id": "24829251300",
-                    "name": "Dai Y.",
-                    "affiliation_id": [
-                        "60003977"
-                    ]
-                }
-            ],
-            "citations": 32,
-            "publication_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-            "issn": "01628828",
-            "cover_date": "2022-05-01",
-            "venue": "Journal",
-            "volume": "44",
-            "issue": "5",
-            "page_range": "2519-2533",
-            "doi": "10.1109/TPAMI.2020.3036667"
         },
         {
             "title": "Rotation averaging with application to camera-rig calibration",
@@ -4397,6 +4397,66 @@
             "doi": ""
         },
         {
+            "title": "Dual Pixel Exploration: Simultaneous Depth Estimation and Image Restoration",
+            "eid": "2-s2.0-85118515003",
+            "authors": [
+                {
+                    "scopus_id": "57201374774",
+                    "name": "Pan L.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "55843332500",
+                    "name": "Chowdhury S.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7102573790",
+                    "name": "Hartley R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "55923043600",
+                    "name": "Liu M.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57207484117",
+                    "name": "Zhang H.",
+                    "affiliation_id": [
+                        "60008950",
+                        "127607245"
+                    ]
+                },
+                {
+                    "scopus_id": "55707613900",
+                    "name": "Li H.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 22,
+            "publication_name": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+            "issn": "10636919",
+            "cover_date": "2021-01-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "4338-4347",
+            "doi": "10.1109/CVPR46437.2021.00432"
+        },
+        {
             "title": "Sensitivity of calibration to principal point position",
             "eid": "2-s2.0-84948950947",
             "authors": [
@@ -4578,66 +4638,6 @@
             "issue": "9",
             "page_range": "1272-1282",
             "doi": "10.1109/PROC.1987.13879"
-        },
-        {
-            "title": "Dual Pixel Exploration: Simultaneous Depth Estimation and Image Restoration",
-            "eid": "2-s2.0-85118515003",
-            "authors": [
-                {
-                    "scopus_id": "57201374774",
-                    "name": "Pan L.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "55843332500",
-                    "name": "Chowdhury S.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "7102573790",
-                    "name": "Hartley R.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "55923043600",
-                    "name": "Liu M.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "57207484117",
-                    "name": "Zhang H.",
-                    "affiliation_id": [
-                        "60008950",
-                        "127607245"
-                    ]
-                },
-                {
-                    "scopus_id": "55707613900",
-                    "name": "Li H.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 21,
-            "publication_name": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
-            "issn": "10636919",
-            "cover_date": "2021-01-01",
-            "venue": "Conference Proceeding",
-            "volume": "",
-            "issue": "",
-            "page_range": "4338-4347",
-            "doi": "10.1109/CVPR46437.2021.00432"
         },
         {
             "title": "Deep Declarative Networks",
@@ -4929,6 +4929,49 @@
             "doi": "10.1007/978-3-540-75757-3_96"
         },
         {
+            "title": "EpO-Net: Exploiting geometric constraints on dense trajectories for motion saliency",
+            "eid": "2-s2.0-85085504427",
+            "authors": [
+                {
+                    "scopus_id": "57213840735",
+                    "name": "Faisal M.",
+                    "affiliation_id": [
+                        "60105219"
+                    ]
+                },
+                {
+                    "scopus_id": "35179076000",
+                    "name": "Akhter I.",
+                    "affiliation_id": [
+                        "124508813"
+                    ]
+                },
+                {
+                    "scopus_id": "57054179100",
+                    "name": "Ali M.",
+                    "affiliation_id": [
+                        "60105219"
+                    ]
+                },
+                {
+                    "scopus_id": "7102573790",
+                    "name": "Hartley R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 19,
+            "publication_name": "Proceedings - 2020 IEEE Winter Conference on Applications of Computer Vision, WACV 2020",
+            "issn": "",
+            "cover_date": "2020-03-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "1873-1882",
+            "doi": "10.1109/WACV45572.2020.9093589"
+        },
+        {
             "title": "Tracking by detection for interactive image augmentation in laparoscopy",
             "eid": "2-s2.0-84863993179",
             "authors": [
@@ -4971,49 +5014,6 @@
             "issue": "",
             "page_range": "246-255",
             "doi": "10.1007/978-3-642-31340-0_26"
-        },
-        {
-            "title": "EpO-Net: Exploiting geometric constraints on dense trajectories for motion saliency",
-            "eid": "2-s2.0-85085504427",
-            "authors": [
-                {
-                    "scopus_id": "57213840735",
-                    "name": "Faisal M.",
-                    "affiliation_id": [
-                        "60105219"
-                    ]
-                },
-                {
-                    "scopus_id": "35179076000",
-                    "name": "Akhter I.",
-                    "affiliation_id": [
-                        "124508813"
-                    ]
-                },
-                {
-                    "scopus_id": "57054179100",
-                    "name": "Ali M.",
-                    "affiliation_id": [
-                        "60105219"
-                    ]
-                },
-                {
-                    "scopus_id": "7102573790",
-                    "name": "Hartley R.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 18,
-            "publication_name": "Proceedings - 2020 IEEE Winter Conference on Applications of Computer Vision, WACV 2020",
-            "issn": "",
-            "cover_date": "2020-03-01",
-            "venue": "Conference Proceeding",
-            "volume": "",
-            "issue": "",
-            "page_range": "1873-1882",
-            "doi": "10.1109/WACV45572.2020.9093589"
         },
         {
             "title": "Digit-serial silicon compiler.",
@@ -6828,6 +6828,49 @@
             "doi": "10.1109/TMI.2009.2012556"
         },
         {
+            "title": "Fixed-Lens camera setup and calibrated image registration for multifocus multiview 3D reconstruction",
+            "eid": "2-s2.0-85103880630",
+            "authors": [
+                {
+                    "scopus_id": "55843332500",
+                    "name": "Chowdhury S.A.H.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "9840113400",
+                    "name": "Nguyen C.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "58204638300",
+                    "name": "Li H.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "7102573790",
+                    "name": "Hartley R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Neural Computing and Applications",
+            "issn": "09410643",
+            "cover_date": "2021-07-01",
+            "venue": "Journal",
+            "volume": "33",
+            "issue": "13",
+            "page_range": "7421-7440",
+            "doi": "10.1007/s00521-021-05926-7"
+        },
+        {
             "title": "Recovering faces from portraits with auxiliary facial attributes",
             "eid": "2-s2.0-85063570742",
             "authors": [
@@ -7075,49 +7118,6 @@
             "issue": "",
             "page_range": null,
             "doi": ""
-        },
-        {
-            "title": "Fixed-Lens camera setup and calibrated image registration for multifocus multiview 3D reconstruction",
-            "eid": "2-s2.0-85103880630",
-            "authors": [
-                {
-                    "scopus_id": "55843332500",
-                    "name": "Chowdhury S.A.H.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "9840113400",
-                    "name": "Nguyen C.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "58204638300",
-                    "name": "Li H.",
-                    "affiliation_id": [
-                        "60022148"
-                    ]
-                },
-                {
-                    "scopus_id": "7102573790",
-                    "name": "Hartley R.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 6,
-            "publication_name": "Neural Computing and Applications",
-            "issn": "09410643",
-            "cover_date": "2021-07-01",
-            "venue": "Journal",
-            "volume": "33",
-            "issue": "13",
-            "page_range": "7421-7440",
-            "doi": "10.1007/s00521-021-05926-7"
         },
         {
             "title": "Lq-Closest-Point to Affine Subspaces Using the Generalized Weiszfeld Algorithm",
@@ -7785,6 +7785,50 @@
             "doi": ""
         },
         {
+            "title": "RANP: Resource Aware Neuron Pruning at Initialization for 3D CNNs",
+            "eid": "2-s2.0-85101453887",
+            "authors": [
+                {
+                    "scopus_id": "57219689911",
+                    "name": "Xu Z.",
+                    "affiliation_id": [
+                        "60108693",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "56046009700",
+                    "name": "Ajanthan T.",
+                    "affiliation_id": [
+                        "60108693"
+                    ]
+                },
+                {
+                    "scopus_id": "24825459900",
+                    "name": "Vineet V.",
+                    "affiliation_id": [
+                        "60021726"
+                    ]
+                },
+                {
+                    "scopus_id": "7102573790",
+                    "name": "Hartley R.",
+                    "affiliation_id": [
+                        "60108693"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Proceedings - 2020 International Conference on 3D Vision, 3DV 2020",
+            "issn": "",
+            "cover_date": "2020-11-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "180-189",
+            "doi": "10.1109/3DV50981.2020.00028"
+        },
+        {
             "title": "How Useful is Projective Geometry?",
             "eid": "2-s2.0-85014506667",
             "authors": [
@@ -8186,50 +8230,6 @@
             "issue": "",
             "page_range": "722-738",
             "doi": "10.1007/978-3-031-20044-1_41"
-        },
-        {
-            "title": "RANP: Resource Aware Neuron Pruning at Initialization for 3D CNNs",
-            "eid": "2-s2.0-85101453887",
-            "authors": [
-                {
-                    "scopus_id": "57219689911",
-                    "name": "Xu Z.",
-                    "affiliation_id": [
-                        "60108693",
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "56046009700",
-                    "name": "Ajanthan T.",
-                    "affiliation_id": [
-                        "60108693"
-                    ]
-                },
-                {
-                    "scopus_id": "24825459900",
-                    "name": "Vineet V.",
-                    "affiliation_id": [
-                        "60021726"
-                    ]
-                },
-                {
-                    "scopus_id": "7102573790",
-                    "name": "Hartley R.",
-                    "affiliation_id": [
-                        "60108693"
-                    ]
-                }
-            ],
-            "citations": 2,
-            "publication_name": "Proceedings - 2020 International Conference on 3D Vision, 3DV 2020",
-            "issn": "",
-            "cover_date": "2020-11-01",
-            "venue": "Conference Proceeding",
-            "volume": "",
-            "issue": "",
-            "page_range": "180-189",
-            "doi": "10.1109/3DV50981.2020.00028"
         },
         {
             "title": "Memory Efficient Max Flow for Multi-Label Submodular MRFs",
@@ -9989,6 +9989,5 @@
             "$": "Mathematics (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:40:37",
-    "c-score": null
+    "date fetched": "2024-07-12 18:56:26"
 }

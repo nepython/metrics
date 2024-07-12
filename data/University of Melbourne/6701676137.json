@@ -1,0 +1,3966 @@
+{
+    "scopus_id": "6701676137",
+    "name": "Jehn, Karen A.",
+    "publications": [
+        {
+            "title": "Why differences make a difference: A field study of diversity, conflict, and performance in workgroups",
+            "eid": "2-s2.0-0033479307",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6701598619",
+                    "name": "Northcraft G.B.",
+                    "affiliation_id": [
+                        "60000745"
+                    ]
+                },
+                {
+                    "scopus_id": "7101888156",
+                    "name": "Neale M.A.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 2181,
+            "publication_name": "Administrative Science Quarterly",
+            "issn": "00018392",
+            "cover_date": "1999-01-01",
+            "venue": "Journal",
+            "volume": "44",
+            "issue": "4",
+            "page_range": "741-763",
+            "doi": "10.2307/2667054"
+        },
+        {
+            "title": "The dynamic nature of conflict: A longitudinal study of intragroup conflict and group performance",
+            "eid": "2-s2.0-0035591709",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60006297"
+                    ]
+                },
+                {
+                    "scopus_id": "7004024780",
+                    "name": "Mannix E.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 1647,
+            "publication_name": "Academy of Management Journal",
+            "issn": "00014273",
+            "cover_date": "2001-01-01",
+            "venue": "Journal",
+            "volume": "44",
+            "issue": "2",
+            "page_range": "238-251",
+            "doi": "10.2307/3069453"
+        },
+        {
+            "title": "A qualitative analysis of conflict types and dimensions in organizational groups",
+            "eid": "2-s2.0-0031287459",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 1410,
+            "publication_name": "Administrative Science Quarterly",
+            "issn": "00018392",
+            "cover_date": "1997-01-01",
+            "venue": "Journal",
+            "volume": "42",
+            "issue": "3",
+            "page_range": "530-557",
+            "doi": "10.2307/2393737"
+        },
+        {
+            "title": "The paradox of intragroup conflict: A meta-analysis",
+            "eid": "2-s2.0-84864504811",
+            "authors": [
+                {
+                    "scopus_id": "54785861400",
+                    "name": "De Wit F.R.C.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "23012345600",
+                    "name": "Greer L.L.",
+                    "affiliation_id": [
+                        "60002483"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 864,
+            "publication_name": "Journal of Applied Psychology",
+            "issn": "00219010",
+            "cover_date": "2012-12-01",
+            "venue": "Journal",
+            "volume": "97",
+            "issue": "2",
+            "page_range": "360-390",
+            "doi": "10.1037/a0024844"
+        },
+        {
+            "title": "The effects of diversity on business performance: Report of the diversity research network",
+            "eid": "2-s2.0-0345443187",
+            "authors": [
+                {
+                    "scopus_id": "6603929495",
+                    "name": "Kochan T.",
+                    "affiliation_id": [
+                        "60014228"
+                    ]
+                },
+                {
+                    "scopus_id": "6507209827",
+                    "name": "Bezrukova K.",
+                    "affiliation_id": [
+                        "60022452"
+                    ]
+                },
+                {
+                    "scopus_id": "7006116221",
+                    "name": "Ely R.",
+                    "affiliation_id": [
+                        "60019666"
+                    ]
+                },
+                {
+                    "scopus_id": "57208522560",
+                    "name": "Jackson S.",
+                    "affiliation_id": [
+                        "60120424"
+                    ]
+                },
+                {
+                    "scopus_id": "36106864700",
+                    "name": "Joshi A.",
+                    "affiliation_id": [
+                        "60000745"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60022452"
+                    ]
+                },
+                {
+                    "scopus_id": "7402283068",
+                    "name": "Leonard J.",
+                    "affiliation_id": [
+                        "60072522"
+                    ]
+                },
+                {
+                    "scopus_id": "7403166229",
+                    "name": "Levine D.",
+                    "affiliation_id": [
+                        "60072522"
+                    ]
+                },
+                {
+                    "scopus_id": "57220858426",
+                    "name": "Thomas D.",
+                    "affiliation_id": [
+                        "60019666"
+                    ]
+                }
+            ],
+            "citations": 688,
+            "publication_name": "Human Resource Management",
+            "issn": "00904848",
+            "cover_date": "2003-03-01",
+            "venue": "Journal",
+            "volume": "42",
+            "issue": "1",
+            "page_range": "3-21",
+            "doi": "10.1002/hrm.10061"
+        },
+        {
+            "title": "INTRAGROUP CONFLICT IN ORGANIZATIONS: A CONTINGENCY PERSPECTIVE ON THE CONFLICT-OUTCOME RELATIONSHIP",
+            "eid": "2-s2.0-25444438183",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6507445948",
+                    "name": "Bendersky C.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 565,
+            "publication_name": "Research in Organizational Behavior",
+            "issn": "01913085",
+            "cover_date": "2003-01-01",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "",
+            "page_range": "187-242",
+            "doi": "10.1016/S0191-3085(03)25005-X"
+        },
+        {
+            "title": "Enhancing effectiveness: An investigation of advantages and disadvantages of value-based intragroup conflict",
+            "eid": "2-s2.0-0000043018",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60022452"
+                    ]
+                }
+            ],
+            "citations": 504,
+            "publication_name": "International Journal of Conflict Management",
+            "issn": "10444068",
+            "cover_date": "1994-03-01",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "3",
+            "page_range": "223-238",
+            "doi": "10.1108/eb022744"
+        },
+        {
+            "title": "To agree or not to agree: The effects of value congruence, individual demographic dissimilarity, and conflict on workgroup outcomes",
+            "eid": "2-s2.0-0031318689",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60006297"
+                    ]
+                },
+                {
+                    "scopus_id": "7006657921",
+                    "name": "Chadwick C.",
+                    "affiliation_id": [
+                        "60006297"
+                    ]
+                },
+                {
+                    "scopus_id": "8143756700",
+                    "name": "Thatcher S.M.B.",
+                    "affiliation_id": [
+                        "60006297"
+                    ]
+                }
+            ],
+            "citations": 424,
+            "publication_name": "International Journal of Conflict Management",
+            "issn": "10444068",
+            "cover_date": "1997-01-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "4",
+            "page_range": "287-305",
+            "doi": "10.1108/eb022799"
+        },
+        {
+            "title": "Interpersonal relationships and task performance: An examination of mediating processes in friendship and acquaintance groups",
+            "eid": "2-s2.0-18644376039",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60006297",
+                        "60006297",
+                        "60022452"
+                    ]
+                },
+                {
+                    "scopus_id": "55430006800",
+                    "name": "Shah P.P.",
+                    "affiliation_id": [
+                        "60029445",
+                        "60029445"
+                    ]
+                }
+            ],
+            "citations": 372,
+            "publication_name": "Journal of Personality and Social Psychology",
+            "issn": "00223514",
+            "cover_date": "1997-01-01",
+            "venue": "Journal",
+            "volume": "72",
+            "issue": "4",
+            "page_range": "775-790",
+            "doi": "10.1037/0022-3514.72.4.775"
+        },
+        {
+            "title": "A meta-analytical integration of over 40 years of research on diversity training evaluation",
+            "eid": "2-s2.0-84986593079",
+            "authors": [
+                {
+                    "scopus_id": "6507209827",
+                    "name": "Bezrukova K.",
+                    "affiliation_id": [
+                        "60032083"
+                    ]
+                },
+                {
+                    "scopus_id": "6603541501",
+                    "name": "Spell C.S.",
+                    "affiliation_id": [
+                        "123285669"
+                    ]
+                },
+                {
+                    "scopus_id": "55574195253",
+                    "name": "Perry J.L.",
+                    "affiliation_id": [
+                        "60030638"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 350,
+            "publication_name": "Psychological Bulletin",
+            "issn": "00332909",
+            "cover_date": "2016-11-01",
+            "venue": "Journal",
+            "volume": "142",
+            "issue": "11",
+            "page_range": "1227-1274",
+            "doi": "10.1037/bul0000067"
+        },
+        {
+            "title": "Do workgroup faultlines help or hurt? A moderated model of faultlines, team identification, and group performance",
+            "eid": "2-s2.0-70350405114",
+            "authors": [
+                {
+                    "scopus_id": "6507209827",
+                    "name": "Bezrukova K.",
+                    "affiliation_id": [
+                        "60010451"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "6507352651",
+                    "name": "Zanutto E.L.",
+                    "affiliation_id": [
+                        "100463162"
+                    ]
+                },
+                {
+                    "scopus_id": "8143756700",
+                    "name": "Thatcher S.M.B.",
+                    "affiliation_id": [
+                        "60020633"
+                    ]
+                }
+            ],
+            "citations": 328,
+            "publication_name": "Organization Science",
+            "issn": "10477039",
+            "cover_date": "2009-01-01",
+            "venue": "Journal",
+            "volume": "20",
+            "issue": "1",
+            "page_range": "35-50",
+            "doi": "10.1287/orsc.1080.0379"
+        },
+        {
+            "title": "Cracks in Diversity Research: The Effects of Diversity Faultlines on Conflict and Performance",
+            "eid": "2-s2.0-0038027183",
+            "authors": [
+                {
+                    "scopus_id": "8143756700",
+                    "name": "Thatcher S.",
+                    "affiliation_id": [
+                        "60122739"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60006297"
+                    ]
+                },
+                {
+                    "scopus_id": "6507352651",
+                    "name": "Zanutto E.",
+                    "affiliation_id": [
+                        "60006297"
+                    ]
+                }
+            ],
+            "citations": 313,
+            "publication_name": "Group Decision and Negotiation",
+            "issn": "09262644",
+            "cover_date": "2003-05-01",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "3",
+            "page_range": "217-241",
+            "doi": "10.1023/A:1023325406946"
+        },
+        {
+            "title": "The effects of conflict types, dimensions, and emergent states on group outcomes",
+            "eid": "2-s2.0-64549154912",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "23012345600",
+                    "name": "Greer L.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "57192718964",
+                    "name": "Levine S.",
+                    "affiliation_id": [
+                        "60018933"
+                    ]
+                },
+                {
+                    "scopus_id": "6603055418",
+                    "name": "Szulanski G.",
+                    "affiliation_id": [
+                        "60078888"
+                    ]
+                }
+            ],
+            "citations": 273,
+            "publication_name": "Group Decision and Negotiation",
+            "issn": "09262644",
+            "cover_date": "2008-11-01",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "6",
+            "page_range": "465-495",
+            "doi": "10.1007/s10726-008-9107-0"
+        },
+        {
+            "title": "The effects of conflict asymmetry on work group and individual outcomes",
+            "eid": "2-s2.0-77953968049",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "26657586100",
+                    "name": "Rispens S.",
+                    "affiliation_id": [
+                        "60032882"
+                    ]
+                },
+                {
+                    "scopus_id": "8143756700",
+                    "name": "Thatcher S.",
+                    "affiliation_id": [
+                        "60020633"
+                    ]
+                }
+            ],
+            "citations": 238,
+            "publication_name": "Academy of Management Journal",
+            "issn": "00014273",
+            "cover_date": "2010-06-01",
+            "venue": "Journal",
+            "volume": "53",
+            "issue": "3",
+            "page_range": "596-616",
+            "doi": "10.5465/amj.2010.51468978"
+        },
+        {
+            "title": "The faultline activation process and the effects of activated faultlines on coalition formation, conflict, and group outcomes",
+            "eid": "2-s2.0-77949874898",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "6507209827",
+                    "name": "Bezrukova K.",
+                    "affiliation_id": [
+                        "60010451"
+                    ]
+                }
+            ],
+            "citations": 230,
+            "publication_name": "Organizational Behavior and Human Decision Processes",
+            "issn": "07495978",
+            "cover_date": "2010-05-01",
+            "venue": "Journal",
+            "volume": "112",
+            "issue": "1",
+            "page_range": "24-42",
+            "doi": "10.1016/j.obhdp.2009.11.008"
+        },
+        {
+            "title": "The influence of proportional and perceptual conflict composition on team performance",
+            "eid": "2-s2.0-0347486702",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60006297",
+                        "60022452",
+                        "60022452",
+                        "60138820"
+                    ]
+                },
+                {
+                    "scopus_id": "6602081284",
+                    "name": "Chatman J.A.",
+                    "affiliation_id": [
+                        "60025038",
+                        "60072522"
+                    ]
+                }
+            ],
+            "citations": 230,
+            "publication_name": "International Journal of Conflict Management",
+            "issn": "10444068",
+            "cover_date": "2000-01-01",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "1",
+            "page_range": "56-73",
+            "doi": "10.1108/eb022835"
+        },
+        {
+            "title": "Do friends perform better than acquaintances? the interaction of friendship, conflict, and task",
+            "eid": "2-s2.0-0001474063",
+            "authors": [
+                {
+                    "scopus_id": "55430006800",
+                    "name": "Shah P.P.",
+                    "affiliation_id": [
+                        "60138820"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60022452"
+                    ]
+                }
+            ],
+            "citations": 228,
+            "publication_name": "Group Decision and Negotiation",
+            "issn": "09262644",
+            "cover_date": "1993-06-01",
+            "venue": "Journal",
+            "volume": "2",
+            "issue": "2",
+            "page_range": "149-165",
+            "doi": "10.1007/BF01884769"
+        },
+        {
+            "title": "Using triangulation to validate themes in qualitative studies",
+            "eid": "2-s2.0-84993073513",
+            "authors": [
+                {
+                    "scopus_id": "26035952300",
+                    "name": "Jonsen K.",
+                    "affiliation_id": [
+                        "60067221"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                }
+            ],
+            "citations": 217,
+            "publication_name": "Qualitative Research in Organizations and Management: An International Journal",
+            "issn": "17465648",
+            "cover_date": "2009-08-21",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "2",
+            "page_range": "123-150",
+            "doi": "10.1108/17465640910978391"
+        },
+        {
+            "title": "A field study of group diversity, workgroup context, and performance",
+            "eid": "2-s2.0-10944240196",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60022452",
+                        "60022452"
+                    ]
+                },
+                {
+                    "scopus_id": "6507209827",
+                    "name": "Bezrukova K.",
+                    "affiliation_id": [
+                        "60022452",
+                        "60023184"
+                    ]
+                }
+            ],
+            "citations": 216,
+            "publication_name": "Journal of Organizational Behavior",
+            "issn": "08943796",
+            "cover_date": "2004-09-01",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "6",
+            "page_range": "703-729",
+            "doi": "10.1002/job.257"
+        },
+        {
+            "title": "Reviewing diversity training: Where we have been and where we should go",
+            "eid": "2-s2.0-84863112286",
+            "authors": [
+                {
+                    "scopus_id": "6507209827",
+                    "name": "Bezrukova K.",
+                    "affiliation_id": [
+                        "60010451"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "6603541501",
+                    "name": "Spell C.",
+                    "affiliation_id": [
+                        "60119141"
+                    ]
+                }
+            ],
+            "citations": 197,
+            "publication_name": "Academy of Management Learning and Education",
+            "issn": "1537260X",
+            "cover_date": "2012-06-01",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "2",
+            "page_range": "207-227",
+            "doi": "10.5465/amle.2008.0090"
+        },
+        {
+            "title": "Conflict transformation: A longitudinal investigation of the relationships between different types of intragroup conflict and the moderating role of conflict resolution",
+            "eid": "2-s2.0-43949124832",
+            "authors": [
+                {
+                    "scopus_id": "23012345600",
+                    "name": "Greer L.L.",
+                    "affiliation_id": [
+                        "60002483",
+                        "60002483"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "7004024780",
+                    "name": "Mannix E.A.",
+                    "affiliation_id": [
+                        "60007776"
+                    ]
+                }
+            ],
+            "citations": 188,
+            "publication_name": "Small Group Research",
+            "issn": "10464964",
+            "cover_date": "2008-06-01",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "3",
+            "page_range": "278-302",
+            "doi": "10.1177/1046496408317793"
+        },
+        {
+            "title": "Differential effects of strain on two forms of work performance: Individual employee sales and creativity",
+            "eid": "2-s2.0-0142059958",
+            "authors": [
+                {
+                    "scopus_id": "6603945507",
+                    "name": "Van Dyne L.",
+                    "affiliation_id": [
+                        "60122604"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60022452"
+                    ]
+                },
+                {
+                    "scopus_id": "7103256283",
+                    "name": "Cummings A.",
+                    "affiliation_id": [
+                        "60022452"
+                    ]
+                }
+            ],
+            "citations": 181,
+            "publication_name": "Journal of Organizational Behavior",
+            "issn": "08943796",
+            "cover_date": "2003-02-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "1",
+            "page_range": "57-74",
+            "doi": "10.1002/job.127"
+        },
+        {
+            "title": "Processes That Mediate the Relationship Between a Group Goal and Improved Group Performance",
+            "eid": "2-s2.0-0026235492",
+            "authors": [
+                {
+                    "scopus_id": "24455405500",
+                    "name": "Weldon E.",
+                    "affiliation_id": [
+                        "60138820"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60138820"
+                    ]
+                },
+                {
+                    "scopus_id": "55430006800",
+                    "name": "Pradhan P.",
+                    "affiliation_id": [
+                        "60138820"
+                    ]
+                }
+            ],
+            "citations": 158,
+            "publication_name": "Journal of Personality and Social Psychology",
+            "issn": "00223514",
+            "cover_date": "1991-01-01",
+            "venue": "Journal",
+            "volume": "61",
+            "issue": "4",
+            "page_range": "555-569",
+            "doi": "10.1037/0022-3514.61.4.555"
+        },
+        {
+            "title": "A review of perceived diversity in teams: Does how members perceive their team's composition affect team processes and outcomes?",
+            "eid": "2-s2.0-84911167139",
+            "authors": [
+                {
+                    "scopus_id": "37119593600",
+                    "name": "Shemla M.",
+                    "affiliation_id": [
+                        "60070152"
+                    ]
+                },
+                {
+                    "scopus_id": "16024959300",
+                    "name": "Meyer B.",
+                    "affiliation_id": [
+                        "60008069"
+                    ]
+                },
+                {
+                    "scopus_id": "23012345600",
+                    "name": "Greer L.",
+                    "affiliation_id": [
+                        "60020928"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 155,
+            "publication_name": "Journal of Organizational Behavior",
+            "issn": "08943796",
+            "cover_date": "2016-02-01",
+            "venue": "Journal",
+            "volume": "37",
+            "issue": "",
+            "page_range": "S89-S106",
+            "doi": "10.1002/job.1957"
+        },
+        {
+            "title": "Understanding the physical environment of work and employee behavior: An affective events perspective",
+            "eid": "2-s2.0-84910654103",
+            "authors": [
+                {
+                    "scopus_id": "35613977200",
+                    "name": "Ashkanasy N.M.",
+                    "affiliation_id": [
+                        "60160279"
+                    ]
+                },
+                {
+                    "scopus_id": "6507181361",
+                    "name": "Ayoko O.B.",
+                    "affiliation_id": [
+                        "60160279"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 149,
+            "publication_name": "Journal of Organizational Behavior",
+            "issn": "08943796",
+            "cover_date": "2014-11-01",
+            "venue": "Journal",
+            "volume": "35",
+            "issue": "8",
+            "page_range": "1169-1184",
+            "doi": "10.1002/job.1973"
+        },
+        {
+            "title": "The directness and oppositional intensity of conflict expression",
+            "eid": "2-s2.0-84929170094",
+            "authors": [
+                {
+                    "scopus_id": "6701921446",
+                    "name": "Weingart L.R.",
+                    "affiliation_id": [
+                        "60027950"
+                    ]
+                },
+                {
+                    "scopus_id": "6505977724",
+                    "name": "Behfar K.J.",
+                    "affiliation_id": [
+                        "60021918"
+                    ]
+                },
+                {
+                    "scopus_id": "6507445948",
+                    "name": "Bendersky C.",
+                    "affiliation_id": [
+                        "60027550"
+                    ]
+                },
+                {
+                    "scopus_id": "17436345600",
+                    "name": "Todorova G.",
+                    "affiliation_id": [
+                        "60029251"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 135,
+            "publication_name": "Academy of Management Review",
+            "issn": "03637425",
+            "cover_date": "2015-04-01",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "2",
+            "page_range": "235-262",
+            "doi": "10.5465/amr.2013-0124"
+        },
+        {
+            "title": "The effects of alignments: Examining group faultlines, organizational cultures, and performance",
+            "eid": "2-s2.0-84872475820",
+            "authors": [
+                {
+                    "scopus_id": "6507209827",
+                    "name": "Bezrukova K.",
+                    "affiliation_id": [
+                        "60010451"
+                    ]
+                },
+                {
+                    "scopus_id": "8143756700",
+                    "name": "Thatcher S.M.B.",
+                    "affiliation_id": [
+                        "60020633"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "6603541501",
+                    "name": "Spell C.S.",
+                    "affiliation_id": [
+                        "123285757"
+                    ]
+                }
+            ],
+            "citations": 120,
+            "publication_name": "Journal of Applied Psychology",
+            "issn": "00219010",
+            "cover_date": "2012-12-01",
+            "venue": "Journal",
+            "volume": "97",
+            "issue": "1",
+            "page_range": "77-92",
+            "doi": "10.1037/a0023684"
+        },
+        {
+            "title": "Task conflict, information processing, and decision-making: The damaging effect of relationship conflict",
+            "eid": "2-s2.0-84882614220",
+            "authors": [
+                {
+                    "scopus_id": "54785861400",
+                    "name": "de Wit F.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "6603304898",
+                    "name": "Scheepers D.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                }
+            ],
+            "citations": 111,
+            "publication_name": "Organizational Behavior and Human Decision Processes",
+            "issn": "07495978",
+            "cover_date": "2013-11-01",
+            "venue": "Journal",
+            "volume": "122",
+            "issue": "2",
+            "page_range": "177-189",
+            "doi": "10.1016/j.obhdp.2013.07.002"
+        },
+        {
+            "title": "The bigger they are, the harder they fall: Linking team power, team conflict, and performance",
+            "eid": "2-s2.0-79960847402",
+            "authors": [
+                {
+                    "scopus_id": "23012345600",
+                    "name": "Greer L.",
+                    "affiliation_id": [
+                        "60002483"
+                    ]
+                },
+                {
+                    "scopus_id": "24597737000",
+                    "name": "Caruso H.",
+                    "affiliation_id": [
+                        "60112748"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 104,
+            "publication_name": "Organizational Behavior and Human Decision Processes",
+            "issn": "07495978",
+            "cover_date": "2011-09-01",
+            "venue": "Journal",
+            "volume": "116",
+            "issue": "1",
+            "page_range": "116-128",
+            "doi": "10.1016/j.obhdp.2011.03.005"
+        },
+        {
+            "title": "In the short term we divide, in the long term we unite: Demographic crisscrossing and the effects of faultlines on subgroup polarization",
+            "eid": "2-s2.0-84877941049",
+            "authors": [
+                {
+                    "scopus_id": "23480101700",
+                    "name": "M\u00e4s M.",
+                    "affiliation_id": [
+                        "60025858"
+                    ]
+                },
+                {
+                    "scopus_id": "6603133214",
+                    "name": "Flache A.",
+                    "affiliation_id": [
+                        "60010023"
+                    ]
+                },
+                {
+                    "scopus_id": "18038619600",
+                    "name": "Tak\u00e1cs K.",
+                    "affiliation_id": [
+                        "60027811"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 93,
+            "publication_name": "Organization Science",
+            "issn": "10477039",
+            "cover_date": "2013-05-01",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "3",
+            "page_range": "716-736",
+            "doi": "10.1287/orsc.1120.0767"
+        },
+        {
+            "title": "Believing shapes seeing: The impact of diversity beliefs on the construal of group composition",
+            "eid": "2-s2.0-78049329855",
+            "authors": [
+                {
+                    "scopus_id": "8764319800",
+                    "name": "Homan A.",
+                    "affiliation_id": [
+                        "60008734"
+                    ]
+                },
+                {
+                    "scopus_id": "23012345600",
+                    "name": "Greer L.",
+                    "affiliation_id": [
+                        "60002483"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "23501717400",
+                    "name": "Koning L.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                }
+            ],
+            "citations": 89,
+            "publication_name": "Group Processes and Intergroup Relations",
+            "issn": "13684302",
+            "cover_date": "2010-07-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "4",
+            "page_range": "477-493",
+            "doi": "10.1177/1368430209350747"
+        },
+        {
+            "title": "What is happening under the surface? Power, conflict and the performance of medical teams",
+            "eid": "2-s2.0-84865304124",
+            "authors": [
+                {
+                    "scopus_id": "6507763364",
+                    "name": "Janss R.",
+                    "affiliation_id": [
+                        "60015618"
+                    ]
+                },
+                {
+                    "scopus_id": "26657586100",
+                    "name": "Rispens S.",
+                    "affiliation_id": [
+                        "60032882"
+                    ]
+                },
+                {
+                    "scopus_id": "7004861099",
+                    "name": "Segers M.",
+                    "affiliation_id": [
+                        "60018869"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 86,
+            "publication_name": "Medical Education",
+            "issn": "03080110",
+            "cover_date": "2012-09-01",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "9",
+            "page_range": "838-849",
+            "doi": "10.1111/j.1365-2923.2012.04322.x"
+        },
+        {
+            "title": "The functional perspective as a lens for understanding groups",
+            "eid": "2-s2.0-1642496775",
+            "authors": [
+                {
+                    "scopus_id": "6603810772",
+                    "name": "Wittenbaum G.",
+                    "affiliation_id": [
+                        "60031707"
+                    ]
+                },
+                {
+                    "scopus_id": "6603749252",
+                    "name": "Hollingshead A.",
+                    "affiliation_id": [
+                        "60000745"
+                    ]
+                },
+                {
+                    "scopus_id": "7005395138",
+                    "name": "Paulus P.",
+                    "affiliation_id": [
+                        "60003467"
+                    ]
+                },
+                {
+                    "scopus_id": "6701481444",
+                    "name": "Hirokawa R.",
+                    "affiliation_id": [
+                        "60024324"
+                    ]
+                },
+                {
+                    "scopus_id": "7003625866",
+                    "name": "Ancona D.",
+                    "affiliation_id": [
+                        "60014228"
+                    ]
+                },
+                {
+                    "scopus_id": "7403617217",
+                    "name": "Peterson R.",
+                    "affiliation_id": [
+                        "60010057"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "7401607536",
+                    "name": "Yoon K.",
+                    "affiliation_id": [
+                        "60000745"
+                    ]
+                }
+            ],
+            "citations": 75,
+            "publication_name": "Small Group Research",
+            "issn": "10464964",
+            "cover_date": "2004-02-01",
+            "venue": "Journal",
+            "volume": "35",
+            "issue": "1",
+            "page_range": "17-43",
+            "doi": "10.1177/1046496403259459"
+        },
+        {
+            "title": "Feeling misidentified: The consequences of internal identity asymmetries for individuals at work",
+            "eid": "2-s2.0-84907505962",
+            "authors": [
+                {
+                    "scopus_id": "56373170500",
+                    "name": "Meister A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "8143756700",
+                    "name": "Thatcher S.M.B.",
+                    "affiliation_id": [
+                        "60028089"
+                    ]
+                }
+            ],
+            "citations": 72,
+            "publication_name": "Academy of Management Review",
+            "issn": "03637425",
+            "cover_date": "2014-10-01",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "4",
+            "page_range": "488-512",
+            "doi": "10.5465/amr.2013.0102"
+        },
+        {
+            "title": "Conflict contagion: A temporal perspective on the development of conflict within teams",
+            "eid": "2-s2.0-84883402785",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "26657586100",
+                    "name": "Rispens S.",
+                    "affiliation_id": [
+                        "60032882"
+                    ]
+                },
+                {
+                    "scopus_id": "26035952300",
+                    "name": "Jonsen K.",
+                    "affiliation_id": [
+                        "60067221"
+                    ]
+                },
+                {
+                    "scopus_id": "23012345600",
+                    "name": "Greer L.",
+                    "affiliation_id": [
+                        "60002483"
+                    ]
+                }
+            ],
+            "citations": 71,
+            "publication_name": "International Journal of Conflict Management",
+            "issn": "10444068",
+            "cover_date": "2013-09-27",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "4",
+            "page_range": "352-373",
+            "doi": "10.1108/IJCMA-05-2011-0039"
+        },
+        {
+            "title": "It could be worse: A study on the alleviating roles of trust and connectedness in intragroup conflicts",
+            "eid": "2-s2.0-36448987910",
+            "authors": [
+                {
+                    "scopus_id": "26657586100",
+                    "name": "Rispens S.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "23012345600",
+                    "name": "Greer L.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                }
+            ],
+            "citations": 67,
+            "publication_name": "International Journal of Conflict Management",
+            "issn": "10444068",
+            "cover_date": "2007-12-03",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "4",
+            "page_range": "325-344",
+            "doi": "10.1108/10444060710833450"
+        },
+        {
+            "title": "Identities under scrutiny: How women leaders navigate feeling misidentified at work",
+            "eid": "2-s2.0-85010972398",
+            "authors": [
+                {
+                    "scopus_id": "56373170500",
+                    "name": "Meister A.",
+                    "affiliation_id": [
+                        "60052106"
+                    ]
+                },
+                {
+                    "scopus_id": "7202756213",
+                    "name": "Sinclair A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 63,
+            "publication_name": "Leadership Quarterly",
+            "issn": "10489843",
+            "cover_date": "2017-10-01",
+            "venue": "Journal",
+            "volume": "28",
+            "issue": "5",
+            "page_range": "672-690",
+            "doi": "10.1016/j.leaqua.2017.01.009"
+        },
+        {
+            "title": "Person-job fit applied to teamwork: A multilevel approach",
+            "eid": "2-s2.0-4644250035",
+            "authors": [
+                {
+                    "scopus_id": "55996143500",
+                    "name": "Molleman E.",
+                    "affiliation_id": [
+                        "60010023",
+                        "60010023"
+                    ]
+                },
+                {
+                    "scopus_id": "6603690286",
+                    "name": "Nauta A.",
+                    "affiliation_id": [
+                        "60019984"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60019816",
+                        "60006297",
+                        "60019816"
+                    ]
+                }
+            ],
+            "citations": 59,
+            "publication_name": "Small Group Research",
+            "issn": "10464964",
+            "cover_date": "2004-10-01",
+            "venue": "Journal",
+            "volume": "35",
+            "issue": "5",
+            "page_range": "515-539",
+            "doi": "10.1177/1046496404264361"
+        },
+        {
+            "title": "Analyzing harsh words in a sensitive setting: American expatriates in communist China",
+            "eid": "2-s2.0-0031521334",
+            "authors": [
+                {
+                    "scopus_id": "7004022197",
+                    "name": "Doucet L.",
+                    "affiliation_id": [
+                        "60022452"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60022452"
+                    ]
+                }
+            ],
+            "citations": 57,
+            "publication_name": "Journal of Organizational Behavior Management",
+            "issn": "01608061",
+            "cover_date": "1997-01-01",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "SPEC.ISS.",
+            "page_range": "559-582",
+            "doi": "10.1002/(sici)1099-1379(199711)18:1+<559::aid-job907>3.3.co;2-8"
+        },
+        {
+            "title": "Chapter 2 The Pivotal Role of Negative Affect in Understanding the Effects of Process Conflict on Group Performance",
+            "eid": "2-s2.0-34250738371",
+            "authors": [
+                {
+                    "scopus_id": "23012345600",
+                    "name": "Greer L.L.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 56,
+            "publication_name": "Research on Managing Groups and Teams",
+            "issn": "15340856",
+            "cover_date": "2007-06-27",
+            "venue": "Book Series",
+            "volume": "10",
+            "issue": "",
+            "page_range": "21-43",
+            "doi": "10.1016/S1534-0856(07)10002-5"
+        },
+        {
+            "title": "The effects of conflict asymmetry on mediation outcomes: Satisfaction, work motivation and absenteeism",
+            "eid": "2-s2.0-34047266191",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "16200040500",
+                    "name": "Rupert J.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "6603690286",
+                    "name": "Nauta A.",
+                    "affiliation_id": [
+                        "60019984"
+                    ]
+                }
+            ],
+            "citations": 49,
+            "publication_name": "International Journal of Conflict Management",
+            "issn": "10444068",
+            "cover_date": "2006-12-01",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "2",
+            "page_range": "96-109",
+            "doi": "10.1108/10444060610736594"
+        },
+        {
+            "title": "When Employees Stop Talking and Start Fighting: The Detrimental Effects of Pseudo Voice in Organizations",
+            "eid": "2-s2.0-82955212821",
+            "authors": [
+                {
+                    "scopus_id": "49863039000",
+                    "name": "de Vries G.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "26538407100",
+                    "name": "Terwel B.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                }
+            ],
+            "citations": 48,
+            "publication_name": "Journal of Business Ethics",
+            "issn": "01674544",
+            "cover_date": "2012-01-01",
+            "venue": "Journal",
+            "volume": "105",
+            "issue": "2",
+            "page_range": "221-230",
+            "doi": "10.1007/s10551-011-0960-4"
+        },
+        {
+            "title": "Revisiting faultline conceptualization: Measuring faultline strength and distance",
+            "eid": "2-s2.0-79952193947",
+            "authors": [
+                {
+                    "scopus_id": "6507352651",
+                    "name": "Zanutto E.",
+                    "affiliation_id": [
+                        "100463162"
+                    ]
+                },
+                {
+                    "scopus_id": "6507209827",
+                    "name": "Bezrukova K.",
+                    "affiliation_id": [
+                        "60010451"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 46,
+            "publication_name": "Quality and Quantity",
+            "issn": "00335177",
+            "cover_date": "2011-04-01",
+            "venue": "Journal",
+            "volume": "45",
+            "issue": "3",
+            "page_range": "701-714",
+            "doi": "10.1007/s11135-009-9299-7"
+        },
+        {
+            "title": "Not so bad after all: How relational closeness buffers the association between relationship conflict and helpful and deviant group behaviors",
+            "eid": "2-s2.0-84949117109",
+            "authors": [
+                {
+                    "scopus_id": "26657586100",
+                    "name": "Rispens S.",
+                    "affiliation_id": [
+                        "60032882"
+                    ]
+                },
+                {
+                    "scopus_id": "23012345600",
+                    "name": "Greer L.",
+                    "affiliation_id": [
+                        "60002483"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "8143756700",
+                    "name": "Thatcher S.M.B.",
+                    "affiliation_id": [
+                        "60020633"
+                    ]
+                }
+            ],
+            "citations": 45,
+            "publication_name": "Negotiation and Conflict Management Research",
+            "issn": "17504708",
+            "cover_date": "2011-01-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "4",
+            "page_range": "277-296",
+            "doi": "10.1111/j.1750-4716.2011.00083.x"
+        },
+        {
+            "title": "Personality traits and conflict management styles in predicting job performance and conflict",
+            "eid": "2-s2.0-85032205971",
+            "authors": [
+                {
+                    "scopus_id": "19933545500",
+                    "name": "Ayub N.",
+                    "affiliation_id": [
+                        "60004582"
+                    ]
+                },
+                {
+                    "scopus_id": "59016190400",
+                    "name": "AlQurashi S.M.",
+                    "affiliation_id": [
+                        "60004582"
+                    ]
+                },
+                {
+                    "scopus_id": "57196193997",
+                    "name": "Al-Yafi W.A.",
+                    "affiliation_id": [
+                        "60004582"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 41,
+            "publication_name": "International Journal of Conflict Management",
+            "issn": "10444068",
+            "cover_date": "2017-01-01",
+            "venue": "Journal",
+            "volume": "28",
+            "issue": "5",
+            "page_range": "671-694",
+            "doi": "10.1108/IJCMA-12-2016-0105"
+        },
+        {
+            "title": "Using triangulation to validate themes in qualitative studies",
+            "eid": "2-s2.0-84931033344",
+            "authors": [
+                {
+                    "scopus_id": "26035952300",
+                    "name": "Jonsen K.",
+                    "affiliation_id": [
+                        "60067221"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                }
+            ],
+            "citations": 40,
+            "publication_name": "Asia Pacific Journal of Marketing and Logistics",
+            "issn": "13555855",
+            "cover_date": "2009-01-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "2",
+            "page_range": "123-150",
+            "doi": "10.1108/17465640910978391"
+        },
+        {
+            "title": "A look at groups from the functional perspective",
+            "eid": "2-s2.0-33646458818",
+            "authors": [
+                {
+                    "scopus_id": "6603749252",
+                    "name": "Hollingshead A.",
+                    "affiliation_id": [
+                        "60029311"
+                    ]
+                },
+                {
+                    "scopus_id": "6603810772",
+                    "name": "Wittenbaum G.",
+                    "affiliation_id": [
+                        "60031707"
+                    ]
+                },
+                {
+                    "scopus_id": "7005395138",
+                    "name": "Paulus P.",
+                    "affiliation_id": [
+                        "60003467"
+                    ]
+                },
+                {
+                    "scopus_id": "6701481444",
+                    "name": "Hirokawa R.",
+                    "affiliation_id": [
+                        "60024324"
+                    ]
+                },
+                {
+                    "scopus_id": "7003625866",
+                    "name": "Ancona D.",
+                    "affiliation_id": [
+                        "60014228"
+                    ]
+                },
+                {
+                    "scopus_id": "7403617217",
+                    "name": "Peterson R.",
+                    "affiliation_id": [
+                        "60010057"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "7401607536",
+                    "name": "Yoon K.",
+                    "affiliation_id": [
+                        "60000745"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Theories of Small Groups: Interdisciplinary Perspectives",
+            "issn": "",
+            "cover_date": "2005-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "21-62",
+            "doi": "10.4135/9781483328935.n2"
+        },
+        {
+            "title": "Embedding the Organizational Culture Profile Into Schwartz's Theory of Universals in Values",
+            "eid": "2-s2.0-79953756864",
+            "authors": [
+                {
+                    "scopus_id": "7005933810",
+                    "name": "Borg I.",
+                    "affiliation_id": [
+                        "60106411"
+                    ]
+                },
+                {
+                    "scopus_id": "26643173600",
+                    "name": "Groenen P.J.F.",
+                    "affiliation_id": [
+                        "60022265"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "6603302681",
+                    "name": "Bilsky W.",
+                    "affiliation_id": [
+                        "60000401"
+                    ]
+                },
+                {
+                    "scopus_id": "7403606009",
+                    "name": "Schwartz S.H.",
+                    "affiliation_id": [
+                        "60007903"
+                    ]
+                }
+            ],
+            "citations": 35,
+            "publication_name": "Journal of Personnel Psychology",
+            "issn": "18665888",
+            "cover_date": "2011-04-12",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "1",
+            "page_range": "1-12",
+            "doi": "10.1027/1866-5888/a000028"
+        },
+        {
+            "title": "Being Different, But Close: How and When Faultlines Enhance Team Learning",
+            "eid": "2-s2.0-84992456248",
+            "authors": [
+                {
+                    "scopus_id": "16200040500",
+                    "name": "Rupert J.",
+                    "affiliation_id": [
+                        "113617065"
+                    ]
+                },
+                {
+                    "scopus_id": "24280469200",
+                    "name": "Blomme R.J.",
+                    "affiliation_id": [
+                        "113617065",
+                        "60024360"
+                    ]
+                },
+                {
+                    "scopus_id": "57192287663",
+                    "name": "Dragt M.J.",
+                    "affiliation_id": [
+                        "113617065"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 32,
+            "publication_name": "European Management Review",
+            "issn": "17404754",
+            "cover_date": "2016-12-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "4",
+            "page_range": "275-290",
+            "doi": "10.1111/emre.12083"
+        },
+        {
+            "title": "Investigating the Relation Between Team Learning and the Team Situation Model",
+            "eid": "2-s2.0-84920701472",
+            "authors": [
+                {
+                    "scopus_id": "26636181100",
+                    "name": "van der Haar S.",
+                    "affiliation_id": [
+                        "60018869"
+                    ]
+                },
+                {
+                    "scopus_id": "7004861099",
+                    "name": "Segers M.",
+                    "affiliation_id": [
+                        "60018869"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "8352759200",
+                    "name": "Van den Bossche P.",
+                    "affiliation_id": [
+                        "60012937"
+                    ]
+                }
+            ],
+            "citations": 32,
+            "publication_name": "Small Group Research",
+            "issn": "10464964",
+            "cover_date": "2015-02-14",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "1",
+            "page_range": "50-82",
+            "doi": "10.1177/1046496414558840"
+        },
+        {
+            "title": "Cardiovascular reactivity and resistance to opposing viewpoints during intragroup conflict",
+            "eid": "2-s2.0-84867704358",
+            "authors": [
+                {
+                    "scopus_id": "54785861400",
+                    "name": "de Wit F.R.C.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "6603304898",
+                    "name": "Scheepers D.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 32,
+            "publication_name": "Psychophysiology",
+            "issn": "00485772",
+            "cover_date": "2012-01-01",
+            "venue": "Journal",
+            "volume": "49",
+            "issue": "11",
+            "page_range": "1691-1699",
+            "doi": "10.1111/j.1469-8986.2012.01456.x"
+        },
+        {
+            "title": "A multimethod approach to the study of sensitive organizational issues",
+            "eid": "2-s2.0-77956865004",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "26035952300",
+                    "name": "Jonsen K.",
+                    "affiliation_id": [
+                        "60067221"
+                    ]
+                }
+            ],
+            "citations": 32,
+            "publication_name": "Journal of Mixed Methods Research",
+            "issn": "15586898",
+            "cover_date": "2010-09-24",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "4",
+            "page_range": "313-341",
+            "doi": "10.1177/1558689810380920"
+        },
+        {
+            "title": "Instigating, engaging in, and managing group conflict: A review of the literature addressing the critical role of the leader in group conflict",
+            "eid": "2-s2.0-85064183395",
+            "authors": [
+                {
+                    "scopus_id": "57201897259",
+                    "name": "Zhao E.Y.",
+                    "affiliation_id": [
+                        "60027950"
+                    ]
+                },
+                {
+                    "scopus_id": "8143756700",
+                    "name": "Thatcher S.M.B.",
+                    "affiliation_id": [
+                        "60018179"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 30,
+            "publication_name": "Academy of Management Annals",
+            "issn": "19416520",
+            "cover_date": "2019-01-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "1",
+            "page_range": "112-147",
+            "doi": "10.5465/annals.2016.0153"
+        },
+        {
+            "title": "Conflict, diversity, and faultlines in workgroups",
+            "eid": "2-s2.0-84920496561",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "6507209827",
+                    "name": "Bezrukova K.",
+                    "affiliation_id": [
+                        "60119141"
+                    ]
+                },
+                {
+                    "scopus_id": "8143756700",
+                    "name": "Thatcher S.",
+                    "affiliation_id": [
+                        "60122739"
+                    ]
+                }
+            ],
+            "citations": 30,
+            "publication_name": "The Psychology of Conflict and Conflict Management in Organizations",
+            "issn": "",
+            "cover_date": "2012-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "179-210",
+            "doi": "10.4324/9780203810125"
+        },
+        {
+            "title": "Commitment of cultural minorities in organizations: Effects of leadership and pressure to conform",
+            "eid": "2-s2.0-76649100104",
+            "authors": [
+                {
+                    "scopus_id": "16200040500",
+                    "name": "Rupert J.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "6507767123",
+                    "name": "van Engen M.",
+                    "affiliation_id": [
+                        "60017145"
+                    ]
+                },
+                {
+                    "scopus_id": "14420938300",
+                    "name": "de Reuver R.",
+                    "affiliation_id": [
+                        "60017145"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "Journal of Business and Psychology",
+            "issn": "08893268",
+            "cover_date": "2010-02-01",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "1",
+            "page_range": "25-37",
+            "doi": "10.1007/s10869-009-9131-3"
+        },
+        {
+            "title": "National diversity and conflict in multinational workgroups: The moderating effect of nationalism",
+            "eid": "2-s2.0-34548154003",
+            "authors": [
+                {
+                    "scopus_id": "19933545500",
+                    "name": "Ayub N.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "International Journal of Conflict Management",
+            "issn": "10444068",
+            "cover_date": "2006-08-01",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "3",
+            "page_range": "181-202",
+            "doi": "10.1108/10444060610742317"
+        },
+        {
+            "title": "Perceptions of deception: Making sense of responses to employee deceit",
+            "eid": "2-s2.0-43949093829",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "7402309312",
+                    "name": "Scott E.D.",
+                    "affiliation_id": [
+                        "60010096"
+                    ]
+                }
+            ],
+            "citations": 26,
+            "publication_name": "Journal of Business Ethics",
+            "issn": "01674544",
+            "cover_date": "2008-06-01",
+            "venue": "Journal",
+            "volume": "80",
+            "issue": "2",
+            "page_range": "327-347",
+            "doi": "10.1007/s10551-007-9423-3"
+        },
+        {
+            "title": "Examining cross-cultural differences in conflict management behavior: A strategy for future research",
+            "eid": "2-s2.0-84937293304",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60006297",
+                        "60024609"
+                    ]
+                }
+            ],
+            "citations": 25,
+            "publication_name": "International Journal of Conflict Management",
+            "issn": "10444068",
+            "cover_date": "1995-01-04",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "4",
+            "page_range": "387-403",
+            "doi": "10.1108/eb022771"
+        },
+        {
+            "title": "From the outside in: The negative spillover effects of boundary spanners' relations with members of other organizations",
+            "eid": "2-s2.0-79960249233",
+            "authors": [
+                {
+                    "scopus_id": "8715700000",
+                    "name": "Ramarajan L.",
+                    "affiliation_id": [
+                        "60019666"
+                    ]
+                },
+                {
+                    "scopus_id": "6507209827",
+                    "name": "Bezrukova K.",
+                    "affiliation_id": [
+                        "60010451"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "6603003263",
+                    "name": "Euwema M.",
+                    "affiliation_id": [
+                        "60025063"
+                    ]
+                }
+            ],
+            "citations": 25,
+            "publication_name": "Journal of Organizational Behavior",
+            "issn": "08943796",
+            "cover_date": "2011-08-01",
+            "venue": "Journal",
+            "volume": "32",
+            "issue": "6",
+            "page_range": "886-905",
+            "doi": "10.1002/job.723"
+        },
+        {
+            "title": "Ranking rank behaviors: A comprehensive situation-based definition of dishonesty",
+            "eid": "2-s2.0-79958042589",
+            "authors": [
+                {
+                    "scopus_id": "7402309312",
+                    "name": "Scott E.D.",
+                    "affiliation_id": [
+                        "60001439"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60022452"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "Business and Society",
+            "issn": "00076503",
+            "cover_date": "1999-12-01",
+            "venue": "Journal",
+            "volume": "38",
+            "issue": "3",
+            "page_range": "296-325",
+            "doi": "10.1177/000765039903800304"
+        },
+        {
+            "title": "Conflict in workgroups",
+            "eid": "2-s2.0-77954010312",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "26657586100",
+                    "name": "Rispens S.",
+                    "affiliation_id": [
+                        "60020599"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "The SAGE Handbook of Organizational Behavior: Volume I - Micro Approaches",
+            "issn": "",
+            "cover_date": "2008-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "262-276",
+            "doi": "10.4135/9781849200448.n15"
+        },
+        {
+            "title": "Towards a contextualized model of team learning processes and outcomes",
+            "eid": "2-s2.0-84877817461",
+            "authors": [
+                {
+                    "scopus_id": "26636181100",
+                    "name": "Van der Haar S.",
+                    "affiliation_id": [
+                        "60028163"
+                    ]
+                },
+                {
+                    "scopus_id": "7004861099",
+                    "name": "Segers M.",
+                    "affiliation_id": [
+                        "60028163"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 23,
+            "publication_name": "Educational Research Review",
+            "issn": "1747938X",
+            "cover_date": "2013-12-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "",
+            "page_range": "1-12",
+            "doi": "10.1016/j.edurev.2013.04.001"
+        },
+        {
+            "title": "LET'S NORM AND STORM, BUT NOT RIGHT NOW: INTEGRATING MODELS OF GROUP DEVELOPMENT AND PERFORMANCE",
+            "eid": "2-s2.0-34250782139",
+            "authors": [
+                {
+                    "scopus_id": "7004024780",
+                    "name": "Mannix E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 23,
+            "publication_name": "Research on Managing Groups and Teams",
+            "issn": "15340856",
+            "cover_date": "2003-01-01",
+            "venue": "Book Series",
+            "volume": "6",
+            "issue": "",
+            "page_range": "11-37",
+            "doi": "10.1016/S1534-0856(03)06002-X"
+        },
+        {
+            "title": "Reciprocal expertise affirmation and shared expertise perceptions in work teams: Their implications for coordinated action and team performance",
+            "eid": "2-s2.0-84877600092",
+            "authors": [
+                {
+                    "scopus_id": "54901972700",
+                    "name": "Grutterink H.",
+                    "affiliation_id": [
+                        "60010023"
+                    ]
+                },
+                {
+                    "scopus_id": "6602143445",
+                    "name": "Van der Vegt G.",
+                    "affiliation_id": [
+                        "60010023"
+                    ]
+                },
+                {
+                    "scopus_id": "55996143500",
+                    "name": "Molleman E.",
+                    "affiliation_id": [
+                        "60010023"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Applied Psychology",
+            "issn": "0269994X",
+            "cover_date": "2013-07-01",
+            "venue": "Journal",
+            "volume": "62",
+            "issue": "3",
+            "page_range": "359-381",
+            "doi": "10.1111/j.1464-0597.2012.00484.x"
+        },
+        {
+            "title": "Cross-cultural differences in conflict management: An inductive study of Chinese and American managers",
+            "eid": "2-s2.0-72049127572",
+            "authors": [
+                {
+                    "scopus_id": "7004022197",
+                    "name": "Doucet L.",
+                    "affiliation_id": [
+                        "60028843"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "24455405500",
+                    "name": "Weldon E.",
+                    "affiliation_id": [
+                        "60272608"
+                    ]
+                },
+                {
+                    "scopus_id": "57010543300",
+                    "name": "Chen X.",
+                    "affiliation_id": [
+                        "60022967"
+                    ]
+                },
+                {
+                    "scopus_id": "7410039409",
+                    "name": "Wang Z.",
+                    "affiliation_id": [
+                        "60003970"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "International Journal of Conflict Management",
+            "issn": "10444068",
+            "cover_date": "2009-10-02",
+            "venue": "Journal",
+            "volume": "20",
+            "issue": "4",
+            "page_range": "355-376",
+            "doi": "10.1108/10444060910991066"
+        },
+        {
+            "title": "THE DARK SIDE OF IDENTIFICATION: OVERCOMING IDENTIFICATION-INDUCED PERFORMANCE IMPEDIMENTS",
+            "eid": "2-s2.0-0742300504",
+            "authors": [
+                {
+                    "scopus_id": "57213904625",
+                    "name": "Michel A.A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.E.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Research on Managing Groups and Teams",
+            "issn": "15340856",
+            "cover_date": "2003-01-01",
+            "venue": "Book Series",
+            "volume": "5",
+            "issue": "",
+            "page_range": "189-219",
+            "doi": "10.1016/S1534-0856(02)05008-9"
+        },
+        {
+            "title": "Task conflict asymmetries: Effects on expectations and performance",
+            "eid": "2-s2.0-84928005349",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "54785861400",
+                    "name": "De Wit F.R.C.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "7004455398",
+                    "name": "Barreto M.",
+                    "affiliation_id": [
+                        "60026479"
+                    ]
+                },
+                {
+                    "scopus_id": "57219249131",
+                    "name": "Rink F.",
+                    "affiliation_id": [
+                        "60010023"
+                    ]
+                }
+            ],
+            "citations": 20,
+            "publication_name": "International Journal of Conflict Management",
+            "issn": "10444068",
+            "cover_date": "2015-04-13",
+            "venue": "Journal",
+            "volume": "26",
+            "issue": "2",
+            "page_range": "172-191",
+            "doi": "10.1108/IJCMA-03-2012-0023"
+        },
+        {
+            "title": "Identifying gaps between the conceptualization of conflict and its measurement",
+            "eid": "2-s2.0-84911014926",
+            "authors": [
+                {
+                    "scopus_id": "6507445948",
+                    "name": "Bendersky C.",
+                    "affiliation_id": [
+                        "60109559"
+                    ]
+                },
+                {
+                    "scopus_id": "41761049800",
+                    "name": "Bear J.",
+                    "affiliation_id": [
+                        "60026415"
+                    ]
+                },
+                {
+                    "scopus_id": "6505977724",
+                    "name": "Behfar K.",
+                    "affiliation_id": [
+                        "60116392"
+                    ]
+                },
+                {
+                    "scopus_id": "6701921446",
+                    "name": "Weingart L.R.",
+                    "affiliation_id": [
+                        "60116234"
+                    ]
+                },
+                {
+                    "scopus_id": "17436345600",
+                    "name": "Todorova G.",
+                    "affiliation_id": [
+                        "60029251"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 19,
+            "publication_name": "Handbook of Conflict Management Research",
+            "issn": "",
+            "cover_date": "2014-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "79-89",
+            "doi": "10.4337/9781781006948.00012"
+        },
+        {
+            "title": "Developing categories from interview data: Text analysis and multidimensional scaling. part 1",
+            "eid": "2-s2.0-0013216826",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60022452"
+                    ]
+                },
+                {
+                    "scopus_id": "7004022197",
+                    "name": "Doucet L.",
+                    "affiliation_id": [
+                        "60022452"
+                    ]
+                }
+            ],
+            "citations": 19,
+            "publication_name": "Field Methods",
+            "issn": "1525822X",
+            "cover_date": "1996-12-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "2",
+            "page_range": "15-16",
+            "doi": "10.1177/1525822X960080020401"
+        },
+        {
+            "title": "Measuring the effectiveness of emergency management teams: Scale development and validation",
+            "eid": "2-s2.0-84891886902",
+            "authors": [
+                {
+                    "scopus_id": "26636181100",
+                    "name": "Van Der Haar S.",
+                    "affiliation_id": [
+                        "60028163",
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "7004861099",
+                    "name": "Segers M.",
+                    "affiliation_id": [
+                        "60028163"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "International Journal of Emergency Management",
+            "issn": "14714825",
+            "cover_date": "2013-01-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "3",
+            "page_range": "258-275",
+            "doi": "10.1504/IJEM.2013.058547"
+        },
+        {
+            "title": "Diversity, conflict, and their consequences",
+            "eid": "2-s2.0-79955532066",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "23012345600",
+                    "name": "Greer L.L.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "16200040500",
+                    "name": "Rupert J.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Diversity at Work",
+            "issn": "",
+            "cover_date": "2008-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "127-174",
+            "doi": "10.1017/CBO9780511753725.007"
+        },
+        {
+            "title": "Managing conflict in groups and teams: Conflict about conflict",
+            "eid": "2-s2.0-84887257034",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "26657586100",
+                    "name": "Rispens S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "8143756700",
+                    "name": "Thatcher S.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 14,
+            "publication_name": "Research on Managing Groups and Teams",
+            "issn": "15340856",
+            "cover_date": "2012-12-01",
+            "venue": "Book Series",
+            "volume": "15",
+            "issue": "",
+            "page_range": "133-159",
+            "doi": "10.1108/S1534-0856(2012)0000015009"
+        },
+        {
+            "title": "Where perception meets reality: The effects of different types of faultline perceptions, asymmetries, and realities on intersubgroup conflict and workgroup outcomes",
+            "eid": "2-s2.0-85085782736",
+            "authors": [
+                {
+                    "scopus_id": "23012345600",
+                    "name": "Greer L.L.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Academy of Management 2007 Annual Meeting: Doing Well by Doing Good, AOM 2007",
+            "issn": "",
+            "cover_date": "2007-01-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.5465/ambpp.2007.26536344"
+        },
+        {
+            "title": "Work Goals and Work\u2010related Beliefs among Managers and Professionals in the United States and the People's Republic of China",
+            "eid": "2-s2.0-84977703193",
+            "authors": [
+                {
+                    "scopus_id": "24455405500",
+                    "name": "Weldon E.",
+                    "affiliation_id": [
+                        "60021121"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60006297"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Asia Pacific Journal of Human Resources",
+            "issn": "10384111",
+            "cover_date": "1993-01-01",
+            "venue": "Journal",
+            "volume": "31",
+            "issue": "1",
+            "page_range": "57-70",
+            "doi": "10.1177/103841119303100106"
+        },
+        {
+            "title": "Types of conflict: The history and future of conflict definitions and typologies",
+            "eid": "2-s2.0-84958628448",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Handbook of Conflict Management Research",
+            "issn": "",
+            "cover_date": "2014-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "3-18",
+            "doi": "10.4337/9781781006948.00007"
+        },
+        {
+            "title": "When diversity helps performance: Effects of diversity on conflict and performance in workgroups",
+            "eid": "2-s2.0-84898402883",
+            "authors": [
+                {
+                    "scopus_id": "19933545500",
+                    "name": "Ayub N.",
+                    "affiliation_id": [
+                        "60004582"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "International Journal of Conflict Management",
+            "issn": "10444068",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "2",
+            "page_range": "189-212",
+            "doi": "10.1108/IJCMA-04-2013-0023"
+        },
+        {
+            "title": "Towards a model for team learning in multidisciplinary crisis management teams",
+            "eid": "2-s2.0-66149143174",
+            "authors": [
+                {
+                    "scopus_id": "26636181100",
+                    "name": "van der Haar S.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "7004861099",
+                    "name": "Segers M.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "International Journal of Emergency Management",
+            "issn": "14714825",
+            "cover_date": "2008-01-01",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "3-4",
+            "page_range": "195-208",
+            "doi": "10.1504/IJEM.2008.025091"
+        },
+        {
+            "title": "Multiple Stakeholder Judgments of Employee Behaviors: A Contingent Prototype Model of Dishonesty",
+            "eid": "2-s2.0-0346040158",
+            "authors": [
+                {
+                    "scopus_id": "7402309312",
+                    "name": "Scott E.",
+                    "affiliation_id": [
+                        "60010096"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Journal of Business Ethics",
+            "issn": "01674544",
+            "cover_date": "2003-09-01",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "3",
+            "page_range": "235-250",
+            "doi": "10.1023/A:1025529504435"
+        },
+        {
+            "title": "Developing categories for interview data: Consequences of different coding and analysis strategies in understanding text: Part 2",
+            "eid": "2-s2.0-0010793822",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60022452"
+                    ]
+                },
+                {
+                    "scopus_id": "7004022197",
+                    "name": "Doucet L.",
+                    "affiliation_id": [
+                        "60022452"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Field Methods",
+            "issn": "1525822X",
+            "cover_date": "1997-12-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "1",
+            "page_range": "1-7",
+            "doi": "10.1177/1525822X970090010101"
+        },
+        {
+            "title": "Conflict Management Style Asymmetry in Short-Term Project Groups",
+            "eid": "2-s2.0-85079434665",
+            "authors": [
+                {
+                    "scopus_id": "26657586100",
+                    "name": "Rispens S.",
+                    "affiliation_id": [
+                        "60032882"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "56444278400",
+                    "name": "Steinel W.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Small Group Research",
+            "issn": "10464964",
+            "cover_date": "2021-04-01",
+            "venue": "Journal",
+            "volume": "52",
+            "issue": "2",
+            "page_range": "220-242",
+            "doi": "10.1177/1046496419894637"
+        },
+        {
+            "title": "Approaches to the study of employees\u2019 territoriality, conflict, emotions and well-being",
+            "eid": "2-s2.0-84910629302",
+            "authors": [
+                {
+                    "scopus_id": "6507181361",
+                    "name": "Ayoko O.B.",
+                    "affiliation_id": [
+                        "60160279"
+                    ]
+                },
+                {
+                    "scopus_id": "35613977200",
+                    "name": "Ashkanasy N.M.",
+                    "affiliation_id": [
+                        "60160279"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Handbook of Conflict Management Research",
+            "issn": "",
+            "cover_date": "2014-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "363-381",
+            "doi": "10.4337/9781781006948.00033"
+        },
+        {
+            "title": "Exploring diversity effects: nationality composition and nationality context in workgroups",
+            "eid": "2-s2.0-85052135399",
+            "authors": [
+                {
+                    "scopus_id": "19933545500",
+                    "name": "Ayub N.",
+                    "affiliation_id": [
+                        "60189772"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "European Journal of Work and Organizational Psychology",
+            "issn": "1359432X",
+            "cover_date": "2018-09-03",
+            "venue": "Journal",
+            "volume": "27",
+            "issue": "5",
+            "page_range": "616-628",
+            "doi": "10.1080/1359432X.2018.1502173"
+        },
+        {
+            "title": "Handbook of conflict management research",
+            "eid": "2-s2.0-84958655765",
+            "authors": [
+                {
+                    "scopus_id": "6507181361",
+                    "name": "Ayoko O.B.",
+                    "affiliation_id": [
+                        "60160279"
+                    ]
+                },
+                {
+                    "scopus_id": "35613977200",
+                    "name": "Ashkanasy N.M.",
+                    "affiliation_id": [
+                        "60160279"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "Handbook of Conflict Management Research",
+            "issn": "",
+            "cover_date": "2014-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "1-530",
+            "doi": "10.4337/9781781006948"
+        },
+        {
+            "title": "Evolving team cognition: The impact of team situation models on team effectiveness",
+            "eid": "2-s2.0-84929607089",
+            "authors": [
+                {
+                    "scopus_id": "26636181100",
+                    "name": "van der Haar S.",
+                    "affiliation_id": [
+                        "60019816",
+                        "60018869"
+                    ]
+                },
+                {
+                    "scopus_id": "56306730700",
+                    "name": "Li J.",
+                    "affiliation_id": [
+                        "60031514"
+                    ]
+                },
+                {
+                    "scopus_id": "7004861099",
+                    "name": "Segers M.",
+                    "affiliation_id": [
+                        "60018869"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "8352759200",
+                    "name": "Van den Bossche P.",
+                    "affiliation_id": [
+                        "60018869",
+                        "60012937"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "European Journal of Work and Organizational Psychology",
+            "issn": "1359432X",
+            "cover_date": "2015-07-04",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "4",
+            "page_range": "596-610",
+            "doi": "10.1080/1359432X.2014.942731"
+        },
+        {
+            "title": "Relationship between peacekeepers and NGO workers: The role of training and conflict management styles in international peacekeeping",
+            "eid": "2-s2.0-23744467056",
+            "authors": [
+                {
+                    "scopus_id": "8715700000",
+                    "name": "Ramarajan L.",
+                    "affiliation_id": [
+                        "60006297"
+                    ]
+                },
+                {
+                    "scopus_id": "6507209827",
+                    "name": "Bezrukova K.",
+                    "affiliation_id": [
+                        "60119141"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "6603003263",
+                    "name": "Euwema M.",
+                    "affiliation_id": [
+                        "60007989"
+                    ]
+                },
+                {
+                    "scopus_id": "6506824688",
+                    "name": "Kop N.",
+                    "affiliation_id": [
+                        "60007989"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "International Journal of Conflict Management",
+            "issn": "10444068",
+            "cover_date": "2004-01-01",
+            "venue": "Journal",
+            "volume": "15",
+            "issue": "2",
+            "page_range": "167-191",
+            "doi": "10.1108/eb022911"
+        },
+        {
+            "title": "Diversity Composition and Team Learning: The Moderating Role of Error Culture",
+            "eid": "2-s2.0-85067642085",
+            "authors": [
+                {
+                    "scopus_id": "16200040500",
+                    "name": "Rupert J.",
+                    "affiliation_id": [
+                        "60024797"
+                    ]
+                },
+                {
+                    "scopus_id": "8764319800",
+                    "name": "Homan A.",
+                    "affiliation_id": [
+                        "60002483"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "24280469200",
+                    "name": "Blomme R.",
+                    "affiliation_id": [
+                        "60024797"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "Group Decision and Negotiation",
+            "issn": "09262644",
+            "cover_date": "2019-08-15",
+            "venue": "Journal",
+            "volume": "28",
+            "issue": "4",
+            "page_range": "695-722",
+            "doi": "10.1007/s10726-019-09626-5"
+        },
+        {
+            "title": "High reliability teams: new directions for disaster management and conflict",
+            "eid": "2-s2.0-84912066877",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "56429597900",
+                    "name": "Techakesari P.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "International Journal of Conflict Management",
+            "issn": "10444068",
+            "cover_date": "2014-10-07",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "4",
+            "page_range": "407-430",
+            "doi": "10.1108/IJCMA-02-2014-0019"
+        },
+        {
+            "title": "Individual Task Conflict Asymmetry and Peer Ratings of Member Effectiveness",
+            "eid": "2-s2.0-85074327422",
+            "authors": [
+                {
+                    "scopus_id": "57209052738",
+                    "name": "Wang S.",
+                    "affiliation_id": [
+                        "60014612"
+                    ]
+                },
+                {
+                    "scopus_id": "8764319800",
+                    "name": "Homan A.C.",
+                    "affiliation_id": [
+                        "60002483"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Small Group Research",
+            "issn": "10464964",
+            "cover_date": "2020-06-01",
+            "venue": "Journal",
+            "volume": "51",
+            "issue": "3",
+            "page_range": "402-426",
+            "doi": "10.1177/1046496419876343"
+        },
+        {
+            "title": "Divided we fall, or United we Stand?: How Identity Processes Affect Faultline Perceptions and the Functioning of Diverse Teams",
+            "eid": "2-s2.0-84861691709",
+            "authors": [
+                {
+                    "scopus_id": "57219249131",
+                    "name": "Rink F.A.",
+                    "affiliation_id": [
+                        "60010023"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "The Psychology of Social and Cultural Diversity",
+            "issn": "",
+            "cover_date": "2010-07-15",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "281-296",
+            "doi": "10.1002/9781444325447.ch12"
+        },
+        {
+            "title": "Conflict management in US-Chinese joint ventures: An analytical framework",
+            "eid": "2-s2.0-85082487074",
+            "authors": [
+                {
+                    "scopus_id": "24455405500",
+                    "name": "Weldon E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Management Issues in China: Volume II: International Enterprises",
+            "issn": "",
+            "cover_date": "2018-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "89-105",
+            "doi": "10.4324/9780429430220-6"
+        },
+        {
+            "title": "Group faultlines and team learning: How to benefit from different perspectives",
+            "eid": "2-s2.0-84920488792",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "16200040500",
+                    "name": "Rupert J.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Work Group Learning: Understanding, Improving and Assessing How Groups Learn in Organizations",
+            "issn": "",
+            "cover_date": "2012-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "117-148",
+            "doi": "10.4324/9780203809747"
+        },
+        {
+            "title": "A psychological approach to third-party side-taking in interpersonal conflicts",
+            "eid": "2-s2.0-85055955713",
+            "authors": [
+                {
+                    "scopus_id": "16508404000",
+                    "name": "Yang H.",
+                    "affiliation_id": [
+                        "60020661"
+                    ]
+                },
+                {
+                    "scopus_id": "7004389273",
+                    "name": "van de Vliert E.",
+                    "affiliation_id": [
+                        "60010023"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Organizational Psychology Review",
+            "issn": "20413866",
+            "cover_date": "2018-05-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "2-3",
+            "page_range": "174-191",
+            "doi": "10.1177/2041386618798430"
+        },
+        {
+            "title": "Are Lifestyle Differences Beneficial? The Effects of Marital Diversity on Group Outcomes",
+            "eid": "2-s2.0-85041491870",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7006647953",
+                    "name": "Conlon D.",
+                    "affiliation_id": [
+                        "60031707"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Small Group Research",
+            "issn": "10464964",
+            "cover_date": "2018-08-01",
+            "venue": "Journal",
+            "volume": "49",
+            "issue": "4",
+            "page_range": "429-451",
+            "doi": "10.1177/1046496418755920"
+        },
+        {
+            "title": "Conflict in workgroups: Constructive, destructive, and asymmetric conflict",
+            "eid": "2-s2.0-84878959250",
+            "authors": [
+                {
+                    "scopus_id": "26657586100",
+                    "name": "Rispens S.",
+                    "affiliation_id": [
+                        "60032882"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Social Psychology and Organizations",
+            "issn": "",
+            "cover_date": "2011-01-07",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "185-209",
+            "doi": ""
+        },
+        {
+            "title": "An experience sampling study of employees\u2019 reactions to noise in the open-plan office",
+            "eid": "2-s2.0-85141945507",
+            "authors": [
+                {
+                    "scopus_id": "6507181361",
+                    "name": "Ayoko O.B.",
+                    "affiliation_id": [
+                        "60160279"
+                    ]
+                },
+                {
+                    "scopus_id": "35613977200",
+                    "name": "Ashkanasy N.M.",
+                    "affiliation_id": [
+                        "60160279"
+                    ]
+                },
+                {
+                    "scopus_id": "57224336947",
+                    "name": "Li Y.",
+                    "affiliation_id": [
+                        "60160279"
+                    ]
+                },
+                {
+                    "scopus_id": "57202452814",
+                    "name": "Dorris A.",
+                    "affiliation_id": [
+                        "60160279"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Journal of Business Research",
+            "issn": "01482963",
+            "cover_date": "2023-01-01",
+            "venue": "Journal",
+            "volume": "155",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.jbusres.2022.113445"
+        },
+        {
+            "title": "Chapter 9: Negotiating within groups: A psychophysiological approach",
+            "eid": "2-s2.0-84857552417",
+            "authors": [
+                {
+                    "scopus_id": "54785861400",
+                    "name": "de Wit F.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6603304898",
+                    "name": "Scheepers D.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Research on Managing Groups and Teams",
+            "issn": "15340856",
+            "cover_date": "2011-12-01",
+            "venue": "Book Series",
+            "volume": "14",
+            "issue": "",
+            "page_range": "207-238",
+            "doi": "10.1108/S1534-0856(2011)0000014012"
+        },
+        {
+            "title": "On alliance teams: Conceptualization, review, and future research agenda",
+            "eid": "2-s2.0-85132439354",
+            "authors": [
+                {
+                    "scopus_id": "57195202474",
+                    "name": "van der Kamp M.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "36192374400",
+                    "name": "Tjemkes B.",
+                    "affiliation_id": [
+                        "127865356"
+                    ]
+                },
+                {
+                    "scopus_id": "55471317700",
+                    "name": "Duplat V.",
+                    "affiliation_id": [
+                        "127865356"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Human Relations",
+            "issn": "00187267",
+            "cover_date": "2023-09-01",
+            "venue": "Journal",
+            "volume": "76",
+            "issue": "9",
+            "page_range": "1382-1413",
+            "doi": "10.1177/00187267221104985"
+        },
+        {
+            "title": "Hapax Legomenon II: Theory, a Thesaurus, and Word Frequency",
+            "eid": "2-s2.0-84973837185",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60022452"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Field Methods",
+            "issn": "1525822X",
+            "cover_date": "1993-01-01",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "1",
+            "page_range": "8-10",
+            "doi": "10.1177/1525822X9300500105"
+        },
+        {
+            "title": "Lies in the sky: Effects of employee dishonesty on organizational reputation in the airline industry",
+            "eid": "2-s2.0-84923839594",
+            "authors": [
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "115029935"
+                    ]
+                },
+                {
+                    "scopus_id": "7402309312",
+                    "name": "Scott E.D.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Business and Society Review",
+            "issn": "00453609",
+            "cover_date": "2015-03-01",
+            "venue": "Journal",
+            "volume": "120",
+            "issue": "1",
+            "page_range": "115-136",
+            "doi": "10.1111/basr.12050"
+        },
+        {
+            "title": "The diversity scenario in pakistani organizations",
+            "eid": "2-s2.0-84881954383",
+            "authors": [
+                {
+                    "scopus_id": "19933545500",
+                    "name": "Ayub N.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Managing Cultural Diversity in Asia: A Research Companion",
+            "issn": "",
+            "cover_date": "2010-12-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "110-129",
+            "doi": ""
+        },
+        {
+            "title": "Diversity and team learning: The effect of faultlines and psychological safety",
+            "eid": "2-s2.0-80052489810",
+            "authors": [
+                {
+                    "scopus_id": "16200040500",
+                    "name": "Rupert J.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Gedrag en Organisatie",
+            "issn": "09215077",
+            "cover_date": "2008-06-01",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "2",
+            "page_range": "184-206",
+            "doi": ""
+        },
+        {
+            "title": "Multiple system interfaces and task-based conflict: Technological and human factors in control crew performance",
+            "eid": "2-s2.0-9944246513",
+            "authors": [
+                {
+                    "scopus_id": "7103042574",
+                    "name": "Waller M.J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Research on Managing Groups and Teams",
+            "issn": "15340856",
+            "cover_date": "2000-01-01",
+            "venue": "Book Series",
+            "volume": "3",
+            "issue": "",
+            "page_range": "115-131",
+            "doi": ""
+        },
+        {
+            "title": "Coping with intragroup conflict",
+            "eid": "2-s2.0-84958654713",
+            "authors": [
+                {
+                    "scopus_id": "57218127129",
+                    "name": "Wit F.R.C.D.",
+                    "affiliation_id": [
+                        "60019816",
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "6603304898",
+                    "name": "Scheepers D.",
+                    "affiliation_id": [
+                        "60002483"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Handbook of Conflict Management Research",
+            "issn": "",
+            "cover_date": "2014-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "221-235",
+            "doi": "10.4337/9781781006948.00022"
+        },
+        {
+            "title": "How feeling misidentified can drive negative attitudes yet increase performance: The role of appraisals",
+            "eid": "2-s2.0-85158891800",
+            "authors": [
+                {
+                    "scopus_id": "56373170500",
+                    "name": "Meister A.",
+                    "affiliation_id": [
+                        "129101310"
+                    ]
+                },
+                {
+                    "scopus_id": "57201897259",
+                    "name": "Zhao E.",
+                    "affiliation_id": [
+                        "60021918"
+                    ]
+                },
+                {
+                    "scopus_id": "36948726700",
+                    "name": "Gill C.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "7202756213",
+                    "name": "Sinclair A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Journal of Applied Social Psychology",
+            "issn": "00219029",
+            "cover_date": "2023-09-01",
+            "venue": "Journal",
+            "volume": "53",
+            "issue": "9",
+            "page_range": "862-876",
+            "doi": "10.1111/jasp.12973"
+        },
+        {
+            "title": "Don't put me in that box!: Women leaders navigating identity asymmetries at work",
+            "eid": "2-s2.0-85026422207",
+            "authors": [
+                {
+                    "scopus_id": "56373170500",
+                    "name": "Meister A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "7202756213",
+                    "name": "Sinclair A.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "75th Annual Meeting of the Academy of Management, AOM 2015",
+            "issn": "",
+            "cover_date": "2015-01-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "49-54",
+            "doi": "10.5465/AMBPP.2015.90"
+        },
+        {
+            "title": "The versatility of intrateam conflict. construction and test of a Dutch instrument for measuring team conflict types and conflict dimensions",
+            "eid": "2-s2.0-84864024093",
+            "authors": [
+                {
+                    "scopus_id": "26657586100",
+                    "name": "Rispens S.",
+                    "affiliation_id": [
+                        "60032882"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Gedrag en Organisatie",
+            "issn": "09215077",
+            "cover_date": "2012-01-01",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "2",
+            "page_range": "177-191",
+            "doi": ""
+        },
+        {
+            "title": "About the \u201ci\u201d in the EI construct: A more social approach to intelligence and its performance implications",
+            "eid": "2-s2.0-84921317605",
+            "authors": [
+                {
+                    "scopus_id": "57213904625",
+                    "name": "Michel A.A.",
+                    "affiliation_id": [
+                        "60099658"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.A.",
+                    "affiliation_id": [
+                        "60019816"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Linking Emotional Intelligence and Performance at Work: Current Research Evidence with Individuals and Groups",
+            "issn": "",
+            "cover_date": "2013-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "185-222",
+            "doi": "10.4324/9780203763896"
+        },
+        {
+            "title": "Intra-and inter-cultural conflicts in China: An exploratory study",
+            "eid": "2-s2.0-84879941912",
+            "authors": [
+                {
+                    "scopus_id": "57708895100",
+                    "name": "Zhu G.",
+                    "affiliation_id": [
+                        "60017402"
+                    ]
+                },
+                {
+                    "scopus_id": "7004022197",
+                    "name": "Doucet L.",
+                    "affiliation_id": [
+                        "60028843"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60015271"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Frontiers of Business Research in China",
+            "issn": "16737326",
+            "cover_date": "2012-12-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "4",
+            "page_range": "475-495",
+            "doi": "10.3868/s070-001-012-0022-7"
+        },
+        {
+            "title": "Feeling known: A multi-level examination of perceived expertise affirmation in work teams",
+            "eid": "2-s2.0-84858636137",
+            "authors": [
+                {
+                    "scopus_id": "54901972700",
+                    "name": "Grutterink H.",
+                    "affiliation_id": [
+                        "60010023"
+                    ]
+                },
+                {
+                    "scopus_id": "6602143445",
+                    "name": "Van Der Vegt G.",
+                    "affiliation_id": [
+                        "60010023"
+                    ]
+                },
+                {
+                    "scopus_id": "55996143500",
+                    "name": "Molleman E.",
+                    "affiliation_id": [
+                        "60010023"
+                    ]
+                },
+                {
+                    "scopus_id": "6701676137",
+                    "name": "Jehn K.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Academy of Management 2010 Annual Meeting - Dare to Care: Passion and Compassion in Management Practice and Research, AOM 2010",
+            "issn": "",
+            "cover_date": "2010-12-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": ""
+        }
+    ],
+    "affiliation": "Melbourne Business School",
+    "affiliation_id": "60015271",
+    "city": "Melbourne",
+    "country": "Australia",
+    "document_count": 109,
+    "subject_area": [
+        {
+            "@abbrev": "BUSI",
+            "@frequency": "156",
+            "$": "Business, Management and Accounting (all)"
+        },
+        {
+            "@abbrev": "PSYC",
+            "@frequency": "62",
+            "$": "Psychology (all)"
+        },
+        {
+            "@abbrev": "SOCI",
+            "@frequency": "48",
+            "$": "Social Sciences (all)"
+        }
+    ],
+    "date fetched": "2024-07-12 19:13:56"
+}

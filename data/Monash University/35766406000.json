@@ -190,7 +190,7 @@
                     ]
                 }
             ],
-            "citations": 31257,
+            "citations": 31695,
             "publication_name": "The BMJ",
             "issn": "09598146",
             "cover_date": "2021-03-29",
@@ -400,7 +400,7 @@
                     ]
                 }
             ],
-            "citations": 4281,
+            "citations": 4338,
             "publication_name": "The BMJ",
             "issn": "09598146",
             "cover_date": "2021-03-29",
@@ -611,7 +611,7 @@
                     ]
                 }
             ],
-            "citations": 4041,
+            "citations": 4106,
             "publication_name": "International Journal of Surgery",
             "issn": "17439191",
             "cover_date": "2021-04-01",
@@ -808,7 +808,7 @@
                     ]
                 }
             ],
-            "citations": 3979,
+            "citations": 4033,
             "publication_name": "Systematic Reviews",
             "issn": "",
             "cover_date": "2021-12-01",
@@ -907,7 +907,7 @@
                     ]
                 }
             ],
-            "citations": 1662,
+            "citations": 1670,
             "publication_name": "The BMJ",
             "issn": "09598146",
             "cover_date": "2020-01-16",
@@ -1116,7 +1116,7 @@
                     ]
                 }
             ],
-            "citations": 1416,
+            "citations": 1434,
             "publication_name": "PLoS Medicine",
             "issn": "15491277",
             "cover_date": "2021-03-29",
@@ -1326,7 +1326,7 @@
                     ]
                 }
             ],
-            "citations": 1094,
+            "citations": 1105,
             "publication_name": "Journal of Clinical Epidemiology",
             "issn": "08954356",
             "cover_date": "2021-06-01",
@@ -1412,7 +1412,7 @@
                     ]
                 }
             ],
-            "citations": 219,
+            "citations": 221,
             "publication_name": "Cochrane Handbook for Systematic Reviews of Interventions",
             "issn": "",
             "cover_date": "2019-01-01",
@@ -1573,7 +1573,7 @@
                     ]
                 }
             ],
-            "citations": 194,
+            "citations": 196,
             "publication_name": "The BMJ",
             "issn": "09598146",
             "cover_date": "2022-01-01",
@@ -1623,7 +1623,7 @@
                     ]
                 }
             ],
-            "citations": 130,
+            "citations": 131,
             "publication_name": "Cochrane Handbook for Systematic Reviews of Interventions",
             "issn": "",
             "cover_date": "2019-01-01",
@@ -1673,7 +1673,7 @@
                     ]
                 }
             ],
-            "citations": 125,
+            "citations": 126,
             "publication_name": "Cochrane Handbook for Systematic Reviews of Interventions",
             "issn": "",
             "cover_date": "2019-01-01",
@@ -1717,7 +1717,7 @@
                     ]
                 }
             ],
-            "citations": 112,
+            "citations": 114,
             "publication_name": "Journal of Public Health (United Kingdom)",
             "issn": "17413842",
             "cover_date": "2022-12-01",
@@ -1804,7 +1804,7 @@
                     ]
                 }
             ],
-            "citations": 102,
+            "citations": 104,
             "publication_name": "Developmental Medicine and Child Neurology",
             "issn": "00121622",
             "cover_date": "2022-05-01",
@@ -2012,7 +2012,7 @@
                     ]
                 }
             ],
-            "citations": 79,
+            "citations": 80,
             "publication_name": "Social Science and Medicine",
             "issn": "02779536",
             "cover_date": "2015-07-01",
@@ -2166,7 +2166,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 66,
+            "citations": 68,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2019-03-01",
@@ -2226,7 +2226,7 @@
                     ]
                 }
             ],
-            "citations": 63,
+            "citations": 64,
             "publication_name": "Health Research Policy and Systems",
             "issn": "",
             "cover_date": "2018-04-10",
@@ -2436,7 +2436,7 @@
                     ]
                 }
             ],
-            "citations": 59,
+            "citations": 62,
             "publication_name": "Medicina Fluminensis",
             "issn": "18476864",
             "cover_date": "2021-12-01",
@@ -2633,7 +2633,7 @@
                     ]
                 }
             ],
-            "citations": 52,
+            "citations": 53,
             "publication_name": "Revista Panamericana de Salud Publica/Pan American Journal of Public Health",
             "issn": "10204989",
             "cover_date": "2022-01-01",
@@ -2679,42 +2679,6 @@
             "issue": "",
             "page_range": "20",
             "doi": "10.1186/1748-5908-8-20"
-        },
-        {
-            "title": "Use of hepatic MFO and blood enzyme biomarkers in sand flathead (Platycephalus bassensis) as indicators of pollution in Port Phillip Bay, Australia",
-            "eid": "2-s2.0-0028164238",
-            "authors": [
-                {
-                    "scopus_id": "7007052980",
-                    "name": "Holdway D.A.",
-                    "affiliation_id": [
-                        "60011362"
-                    ]
-                },
-                {
-                    "scopus_id": "35766406000",
-                    "name": "Brennan S.E.",
-                    "affiliation_id": [
-                        "60011362"
-                    ]
-                },
-                {
-                    "scopus_id": "7006308329",
-                    "name": "Ahokas J.T.",
-                    "affiliation_id": [
-                        "60011362"
-                    ]
-                }
-            ],
-            "citations": 48,
-            "publication_name": "Marine Pollution Bulletin",
-            "issn": "0025326X",
-            "cover_date": "1994-01-01",
-            "venue": "Journal",
-            "volume": "28",
-            "issue": "11",
-            "page_range": "683-695",
-            "doi": "10.1016/0025-326X(94)90304-2"
         },
         {
             "title": "Figuring out fidelity: A worked example of the methods used to identify, critique and revise the essential elements of a contextualised intervention in health policy agencies",
@@ -2765,7 +2729,7 @@
                     ]
                 }
             ],
-            "citations": 47,
+            "citations": 48,
             "publication_name": "Implementation Science",
             "issn": "",
             "cover_date": "2016-02-24",
@@ -2774,6 +2738,42 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1186/s13012-016-0378-6"
+        },
+        {
+            "title": "Use of hepatic MFO and blood enzyme biomarkers in sand flathead (Platycephalus bassensis) as indicators of pollution in Port Phillip Bay, Australia",
+            "eid": "2-s2.0-0028164238",
+            "authors": [
+                {
+                    "scopus_id": "7007052980",
+                    "name": "Holdway D.A.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                },
+                {
+                    "scopus_id": "35766406000",
+                    "name": "Brennan S.E.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                },
+                {
+                    "scopus_id": "7006308329",
+                    "name": "Ahokas J.T.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                }
+            ],
+            "citations": 48,
+            "publication_name": "Marine Pollution Bulletin",
+            "issn": "0025326X",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "28",
+            "issue": "11",
+            "page_range": "683-695",
+            "doi": "10.1016/0025-326X(94)90304-2"
         },
         {
             "title": "Developing a targeted, theory-informed implementation intervention using two theoretical frameworks to address health professional and organisational factors: A case study to improve the management of mild traumatic brain injury in the emergency department",
@@ -3280,57 +3280,6 @@
             "doi": "10.1136/bmjopen-2018-028397"
         },
         {
-            "title": "Overviews of reviews incompletely report methods for handling overlapping, discordant, and problematic data",
-            "eid": "2-s2.0-85076001101",
-            "authors": [
-                {
-                    "scopus_id": "36628864300",
-                    "name": "Lunny C.",
-                    "affiliation_id": [
-                        "60012932",
-                        "60010365"
-                    ]
-                },
-                {
-                    "scopus_id": "35766406000",
-                    "name": "Brennan S.E.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "55346812600",
-                    "name": "Reid J.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "7202569857",
-                    "name": "McDonald S.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "7202100187",
-                    "name": "McKenzie J.E.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                }
-            ],
-            "citations": 33,
-            "publication_name": "Journal of Clinical Epidemiology",
-            "issn": "08954356",
-            "cover_date": "2020-02-01",
-            "venue": "Journal",
-            "volume": "118",
-            "issue": "",
-            "page_range": "69-85",
-            "doi": "10.1016/j.jclinepi.2019.09.025"
-        },
-        {
             "title": "Protocol for the process evaluation of a complex intervention designed to increase the use of research in health policy and program organisations (the SPIRIT study)",
             "eid": "2-s2.0-84930200851",
             "authors": [
@@ -3387,7 +3336,7 @@
                     ]
                 }
             ],
-            "citations": 33,
+            "citations": 34,
             "publication_name": "Implementation Science",
             "issn": "",
             "cover_date": "2014-09-27",
@@ -3396,6 +3345,57 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1186/s13012-014-0113-0"
+        },
+        {
+            "title": "Overviews of reviews incompletely report methods for handling overlapping, discordant, and problematic data",
+            "eid": "2-s2.0-85076001101",
+            "authors": [
+                {
+                    "scopus_id": "36628864300",
+                    "name": "Lunny C.",
+                    "affiliation_id": [
+                        "60012932",
+                        "60010365"
+                    ]
+                },
+                {
+                    "scopus_id": "35766406000",
+                    "name": "Brennan S.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "55346812600",
+                    "name": "Reid J.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7202569857",
+                    "name": "McDonald S.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7202100187",
+                    "name": "McKenzie J.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 33,
+            "publication_name": "Journal of Clinical Epidemiology",
+            "issn": "08954356",
+            "cover_date": "2020-02-01",
+            "venue": "Journal",
+            "volume": "118",
+            "issue": "",
+            "page_range": "69-85",
+            "doi": "10.1016/j.jclinepi.2019.09.025"
         },
         {
             "title": "Evidence map of studies evaluating methods for conducting, interpreting and reporting overviews of systematic reviews of interventions: Rationale and design",
@@ -3439,56 +3439,6 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1186/s13643-015-0178-0"
-        },
-        {
-            "title": "Continuous quality improvement: Effects on professional practice and healthcare outcomes",
-            "eid": "2-s2.0-77950171980",
-            "authors": [
-                {
-                    "scopus_id": "35766406000",
-                    "name": "Brennan S.",
-                    "affiliation_id": [
-                        "60006899"
-                    ]
-                },
-                {
-                    "scopus_id": "7202100187",
-                    "name": "McKenzie J.",
-                    "affiliation_id": [
-                        "60006899"
-                    ]
-                },
-                {
-                    "scopus_id": "57206282799",
-                    "name": "Whitty P.",
-                    "affiliation_id": [
-                        "60026712"
-                    ]
-                },
-                {
-                    "scopus_id": "7004518441",
-                    "name": "Buchan H.",
-                    "affiliation_id": [
-                        "60088313"
-                    ]
-                },
-                {
-                    "scopus_id": "57203575537",
-                    "name": "Green S.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                }
-            ],
-            "citations": 31,
-            "publication_name": "Cochrane Database of Systematic Reviews",
-            "issn": "1469493X",
-            "cover_date": "2009-12-01",
-            "venue": "Journal",
-            "volume": "",
-            "issue": "4",
-            "page_range": null,
-            "doi": "10.1002/14651858.CD003319.pub2"
         },
         {
             "title": "The development methods of official GRADE articles and requirements for claiming the use of GRADE \u2013 A statement by the GRADE guidance group",
@@ -3604,7 +3554,7 @@
                     ]
                 }
             ],
-            "citations": 30,
+            "citations": 31,
             "publication_name": "Journal of Clinical Epidemiology",
             "issn": "08954356",
             "cover_date": "2023-07-01",
@@ -3688,7 +3638,7 @@
                     ]
                 }
             ],
-            "citations": 29,
+            "citations": 31,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2019-12-01",
@@ -3697,6 +3647,56 @@
             "issue": "12",
             "page_range": null,
             "doi": "10.1371/journal.pone.0225441"
+        },
+        {
+            "title": "Continuous quality improvement: Effects on professional practice and healthcare outcomes",
+            "eid": "2-s2.0-77950171980",
+            "authors": [
+                {
+                    "scopus_id": "35766406000",
+                    "name": "Brennan S.",
+                    "affiliation_id": [
+                        "60006899"
+                    ]
+                },
+                {
+                    "scopus_id": "7202100187",
+                    "name": "McKenzie J.",
+                    "affiliation_id": [
+                        "60006899"
+                    ]
+                },
+                {
+                    "scopus_id": "57206282799",
+                    "name": "Whitty P.",
+                    "affiliation_id": [
+                        "60026712"
+                    ]
+                },
+                {
+                    "scopus_id": "7004518441",
+                    "name": "Buchan H.",
+                    "affiliation_id": [
+                        "60088313"
+                    ]
+                },
+                {
+                    "scopus_id": "57203575537",
+                    "name": "Green S.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 31,
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "1469493X",
+            "cover_date": "2009-12-01",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "4",
+            "page_range": null,
+            "doi": "10.1002/14651858.CD003319.pub2"
         },
         {
             "title": "Long-term effects of alcohol consumption on cognitive function: A systematic review and dose-response analysis of evidence published between 2007 and 2018",
@@ -3752,7 +3752,7 @@
                     ]
                 }
             ],
-            "citations": 28,
+            "citations": 29,
             "publication_name": "Systematic Reviews",
             "issn": "",
             "cover_date": "2020-02-13",
@@ -3761,56 +3761,6 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1186/s13643-019-1220-4"
-        },
-        {
-            "title": "MFO activity in carp (Cyprinus carpio) exposed to treated pulp and paper mill effluent in lake coleman, Victoria, Australia, in relation to AOX, EOX, and muscle PCDD/PCDF",
-            "eid": "2-s2.0-0028036349",
-            "authors": [
-                {
-                    "scopus_id": "16165141700",
-                    "name": "Ahokas J.T.",
-                    "affiliation_id": [
-                        "60011362"
-                    ]
-                },
-                {
-                    "scopus_id": "7007052980",
-                    "name": "Holdway D.A.",
-                    "affiliation_id": [
-                        "60011362"
-                    ]
-                },
-                {
-                    "scopus_id": "35766406000",
-                    "name": "Brennan S.E.",
-                    "affiliation_id": [
-                        "60011362"
-                    ]
-                },
-                {
-                    "scopus_id": "6603127395",
-                    "name": "Goudey R.W.",
-                    "affiliation_id": [
-                        "60012836"
-                    ]
-                },
-                {
-                    "scopus_id": "6507081302",
-                    "name": "Bibrowska H.B.",
-                    "affiliation_id": [
-                        "60012836"
-                    ]
-                }
-            ],
-            "citations": 28,
-            "publication_name": "Environmental Toxicology and Chemistry",
-            "issn": "07307268",
-            "cover_date": "1994-01-01",
-            "venue": "Journal",
-            "volume": "13",
-            "issue": "1",
-            "page_range": "41-50",
-            "doi": "10.1002/etc.5620130108"
         },
         {
             "title": "The development of ORACLe: A measure of an organisation's capacity to engage in evidence-informed health policy",
@@ -3874,7 +3824,7 @@
                     ]
                 }
             ],
-            "citations": 27,
+            "citations": 28,
             "publication_name": "Health Research Policy and Systems",
             "issn": "",
             "cover_date": "2016-01-14",
@@ -3883,6 +3833,56 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1186/s12961-015-0069-9"
+        },
+        {
+            "title": "MFO activity in carp (Cyprinus carpio) exposed to treated pulp and paper mill effluent in lake coleman, Victoria, Australia, in relation to AOX, EOX, and muscle PCDD/PCDF",
+            "eid": "2-s2.0-0028036349",
+            "authors": [
+                {
+                    "scopus_id": "16165141700",
+                    "name": "Ahokas J.T.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                },
+                {
+                    "scopus_id": "7007052980",
+                    "name": "Holdway D.A.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                },
+                {
+                    "scopus_id": "35766406000",
+                    "name": "Brennan S.E.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                },
+                {
+                    "scopus_id": "6603127395",
+                    "name": "Goudey R.W.",
+                    "affiliation_id": [
+                        "60012836"
+                    ]
+                },
+                {
+                    "scopus_id": "6507081302",
+                    "name": "Bibrowska H.B.",
+                    "affiliation_id": [
+                        "60012836"
+                    ]
+                }
+            ],
+            "citations": 28,
+            "publication_name": "Environmental Toxicology and Chemistry",
+            "issn": "07307268",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "1",
+            "page_range": "41-50",
+            "doi": "10.1002/etc.5620130108"
         },
         {
             "title": "The development of SAGE: A tool to evaluate how policymakers\u2019 engage with and use research in health policymaking",
@@ -3931,7 +3931,7 @@
                     ]
                 }
             ],
-            "citations": 26,
+            "citations": 27,
             "publication_name": "Research Evaluation",
             "issn": "09582029",
             "cover_date": "2016-07-01",
@@ -4978,6 +4978,71 @@
             "doi": "10.1016/j.jclinepi.2020.10.017"
         },
         {
+            "title": "Policymakers' experience of a capacity-building intervention designed to increase their use of research: A realist process evaluation",
+            "eid": "2-s2.0-85035214653",
+            "authors": [
+                {
+                    "scopus_id": "36131235900",
+                    "name": "Haynes A.",
+                    "affiliation_id": [
+                        "60138870",
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "35766406000",
+                    "name": "Brennan S.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7005737922",
+                    "name": "Redman S.",
+                    "affiliation_id": [
+                        "60138870"
+                    ]
+                },
+                {
+                    "scopus_id": "57203079433",
+                    "name": "Williamson A.",
+                    "affiliation_id": [
+                        "60138870"
+                    ]
+                },
+                {
+                    "scopus_id": "56958664500",
+                    "name": "Makkar S.R.",
+                    "affiliation_id": [
+                        "60138870"
+                    ]
+                },
+                {
+                    "scopus_id": "16022121700",
+                    "name": "Gallego G.",
+                    "affiliation_id": [
+                        "60031487"
+                    ]
+                },
+                {
+                    "scopus_id": "7006662344",
+                    "name": "Butow P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Health Research Policy and Systems",
+            "issn": "",
+            "cover_date": "2017-11-23",
+            "venue": "Journal",
+            "volume": "15",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s12961-017-0234-4"
+        },
+        {
             "title": "Design and formative evaluation of the Policy Liaison Initiative: A long-term knowledge translation strategy to encourage and support the use of Cochrane systematic reviews for informing health policy",
             "eid": "2-s2.0-84958971087",
             "authors": [
@@ -5076,71 +5141,6 @@
             "issue": "",
             "page_range": "1-9",
             "doi": "10.12688/F1000RESEARCH.24469.1"
-        },
-        {
-            "title": "Policymakers' experience of a capacity-building intervention designed to increase their use of research: A realist process evaluation",
-            "eid": "2-s2.0-85035214653",
-            "authors": [
-                {
-                    "scopus_id": "36131235900",
-                    "name": "Haynes A.",
-                    "affiliation_id": [
-                        "60138870",
-                        "60089710"
-                    ]
-                },
-                {
-                    "scopus_id": "35766406000",
-                    "name": "Brennan S.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "7005737922",
-                    "name": "Redman S.",
-                    "affiliation_id": [
-                        "60138870"
-                    ]
-                },
-                {
-                    "scopus_id": "57203079433",
-                    "name": "Williamson A.",
-                    "affiliation_id": [
-                        "60138870"
-                    ]
-                },
-                {
-                    "scopus_id": "56958664500",
-                    "name": "Makkar S.R.",
-                    "affiliation_id": [
-                        "60138870"
-                    ]
-                },
-                {
-                    "scopus_id": "16022121700",
-                    "name": "Gallego G.",
-                    "affiliation_id": [
-                        "60031487"
-                    ]
-                },
-                {
-                    "scopus_id": "7006662344",
-                    "name": "Butow P.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 11,
-            "publication_name": "Health Research Policy and Systems",
-            "issn": "",
-            "cover_date": "2017-11-23",
-            "venue": "Journal",
-            "volume": "15",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1186/s12961-017-0234-4"
         },
         {
             "title": "Update on the JCE GRADE series and other GRADE article types",
@@ -6978,6 +6978,5 @@
             "$": "Environmental Science (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:06:53",
-    "c-score": null
+    "date fetched": "2024-07-12 19:35:18"
 }

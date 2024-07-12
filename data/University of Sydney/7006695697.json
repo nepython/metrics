@@ -28,7 +28,7 @@
                     ]
                 }
             ],
-            "citations": 2627,
+            "citations": 2628,
             "publication_name": "Applied Choice Analysis: A Primer",
             "issn": "",
             "cover_date": "2005-01-01",
@@ -57,7 +57,7 @@
                     ]
                 }
             ],
-            "citations": 1374,
+            "citations": 1380,
             "publication_name": "Transportation",
             "issn": "00494488",
             "cover_date": "2003-05-01",
@@ -86,7 +86,7 @@
                     ]
                 }
             ],
-            "citations": 1214,
+            "citations": 1218,
             "publication_name": "Transportation Research Part B: Methodological",
             "issn": "01912615",
             "cover_date": "2003-01-01",
@@ -120,7 +120,7 @@
                     ]
                 }
             ],
-            "citations": 879,
+            "citations": 885,
             "publication_name": "Applied Choice Analysis",
             "issn": "",
             "cover_date": "2015-01-01",
@@ -149,7 +149,7 @@
                     ]
                 }
             ],
-            "citations": 745,
+            "citations": 749,
             "publication_name": "Modeling Ordered Choices: A Primer",
             "issn": "",
             "cover_date": "2010-01-01",
@@ -185,7 +185,7 @@
                     ]
                 }
             ],
-            "citations": 477,
+            "citations": 478,
             "publication_name": "Accident Analysis and Prevention",
             "issn": "00014575",
             "cover_date": "2008-05-01",
@@ -294,7 +294,7 @@
                     ]
                 }
             ],
-            "citations": 366,
+            "citations": 367,
             "publication_name": "Transportation Research Part B: Methodological",
             "issn": "01912615",
             "cover_date": "2008-01-01",
@@ -359,7 +359,7 @@
                     ]
                 }
             ],
-            "citations": 345,
+            "citations": 347,
             "publication_name": "Transportation Research Part A: Policy and Practice",
             "issn": "09658564",
             "cover_date": "2003-01-01",
@@ -410,7 +410,7 @@
                     ]
                 }
             ],
-            "citations": 321,
+            "citations": 322,
             "publication_name": "Transport Policy",
             "issn": "0967070X",
             "cover_date": "2020-09-01",
@@ -432,7 +432,7 @@
                     ]
                 }
             ],
-            "citations": 308,
+            "citations": 309,
             "publication_name": "Journal of Applied Econometrics",
             "issn": "08837252",
             "cover_date": "2006-09-01",
@@ -468,7 +468,7 @@
                     ]
                 }
             ],
-            "citations": 305,
+            "citations": 306,
             "publication_name": "Transportation Research Part A: Policy and Practice",
             "issn": "09658564",
             "cover_date": "2013-01-01",
@@ -504,7 +504,7 @@
                     ]
                 }
             ],
-            "citations": 304,
+            "citations": 305,
             "publication_name": "Journal of Econometrics",
             "issn": "03044076",
             "cover_date": "1998-11-26",
@@ -540,7 +540,7 @@
                     ]
                 }
             ],
-            "citations": 280,
+            "citations": 281,
             "publication_name": "Transportation Research Part E: Logistics and Transportation Review",
             "issn": "13665545",
             "cover_date": "2010-01-01",
@@ -583,7 +583,7 @@
                     ]
                 }
             ],
-            "citations": 258,
+            "citations": 259,
             "publication_name": "European Review of Agricultural Economics",
             "issn": "01651587",
             "cover_date": "2009-06-01",
@@ -641,7 +641,7 @@
                     ]
                 }
             ],
-            "citations": 237,
+            "citations": 238,
             "publication_name": "Transport Policy",
             "issn": "0967070X",
             "cover_date": "2020-12-01",
@@ -848,7 +848,7 @@
                     ]
                 }
             ],
-            "citations": 200,
+            "citations": 202,
             "publication_name": "Journal of Transport Geography",
             "issn": "09666923",
             "cover_date": "2020-10-01",
@@ -877,7 +877,7 @@
                     ]
                 }
             ],
-            "citations": 196,
+            "citations": 197,
             "publication_name": "Transportation Research Part A: Policy and Practice",
             "issn": "09658564",
             "cover_date": "2011-01-01",
@@ -906,7 +906,7 @@
                     ]
                 }
             ],
-            "citations": 195,
+            "citations": 197,
             "publication_name": "Marketing Letters",
             "issn": "09230645",
             "cover_date": "1993-04-01",
@@ -985,7 +985,7 @@
                     ]
                 }
             ],
-            "citations": 188,
+            "citations": 190,
             "publication_name": "Transportation Research Part A: Policy and Practice",
             "issn": "09658564",
             "cover_date": "2018-11-01",
@@ -994,6 +994,35 @@
             "issue": "",
             "page_range": "302-318",
             "doi": "10.1016/j.tra.2018.08.025"
+        },
+        {
+            "title": "Hazard-based duration models and their application to transport analysis: Foreign summaries",
+            "eid": "2-s2.0-0027996303",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7005423388",
+                    "name": "Mannering F.L.",
+                    "affiliation_id": [
+                        "60015481"
+                    ]
+                }
+            ],
+            "citations": 188,
+            "publication_name": "Transport Reviews",
+            "issn": "01441647",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "1",
+            "page_range": "63-82",
+            "doi": "10.1080/01441649408716866"
         },
         {
             "title": "Trip chaining as a barrier to the propensity to use public transport",
@@ -1023,35 +1052,6 @@
             "issue": "4",
             "page_range": "341-361",
             "doi": "10.1023/A:1005246916731"
-        },
-        {
-            "title": "Hazard-based duration models and their application to transport analysis: Foreign summaries",
-            "eid": "2-s2.0-0027996303",
-            "authors": [
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7005423388",
-                    "name": "Mannering F.L.",
-                    "affiliation_id": [
-                        "60015481"
-                    ]
-                }
-            ],
-            "citations": 187,
-            "publication_name": "Transport Reviews",
-            "issn": "01441647",
-            "cover_date": "1994-01-01",
-            "venue": "Journal",
-            "volume": "14",
-            "issue": "1",
-            "page_range": "63-82",
-            "doi": "10.1080/01441649408716866"
         },
         {
             "title": "Mobility, social exclusion and well-being: Exploring the links",
@@ -1173,7 +1173,7 @@
                     ]
                 }
             ],
-            "citations": 170,
+            "citations": 173,
             "publication_name": "Transportation Research Part A: Policy and Practice",
             "issn": "09658564",
             "cover_date": "2020-01-01",
@@ -1690,6 +1690,42 @@
             "doi": "10.1080/09640568.2010.549367"
         },
         {
+            "title": "Public preferences for mobility as a service: Insights from stated preference surveys",
+            "eid": "2-s2.0-85072538087",
+            "authors": [
+                {
+                    "scopus_id": "56640319700",
+                    "name": "Ho C.Q.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "6603085894",
+                    "name": "Mulley C.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                }
+            ],
+            "citations": 125,
+            "publication_name": "Transportation Research Part A: Policy and Practice",
+            "issn": "09658564",
+            "cover_date": "2020-01-01",
+            "venue": "Journal",
+            "volume": "131",
+            "issue": "",
+            "page_range": "70-90",
+            "doi": "10.1016/j.tra.2019.09.031"
+        },
+        {
             "title": "Bus rapid transit systems: A comparative assessment",
             "eid": "2-s2.0-44949198343",
             "authors": [
@@ -1718,42 +1754,6 @@
             "issue": "4",
             "page_range": "501-518",
             "doi": "10.1007/s11116-008-9163-y"
-        },
-        {
-            "title": "Public preferences for mobility as a service: Insights from stated preference surveys",
-            "eid": "2-s2.0-85072538087",
-            "authors": [
-                {
-                    "scopus_id": "56640319700",
-                    "name": "Ho C.Q.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "6603085894",
-                    "name": "Mulley C.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                }
-            ],
-            "citations": 124,
-            "publication_name": "Transportation Research Part A: Policy and Practice",
-            "issn": "09658564",
-            "cover_date": "2020-01-01",
-            "venue": "Journal",
-            "volume": "131",
-            "issue": "",
-            "page_range": "70-90",
-            "doi": "10.1016/j.tra.2019.09.031"
         },
         {
             "title": "Efficient stated choice experiments for estimating nested logit models",
@@ -1875,7 +1875,7 @@
                     ]
                 }
             ],
-            "citations": 119,
+            "citations": 120,
             "publication_name": "Transportation Research Part A: Policy and Practice",
             "issn": "09658564",
             "cover_date": "2012-01-01",
@@ -1911,7 +1911,7 @@
                     ]
                 }
             ],
-            "citations": 112,
+            "citations": 113,
             "publication_name": "Transportation",
             "issn": "00494488",
             "cover_date": "2012-03-01",
@@ -1962,7 +1962,7 @@
                     ]
                 }
             ],
-            "citations": 105,
+            "citations": 106,
             "publication_name": "Environmental and Resource Economics",
             "issn": "09246460",
             "cover_date": "2006-05-01",
@@ -1971,6 +1971,35 @@
             "issue": "1",
             "page_range": "7-44",
             "doi": "10.1007/s10640-005-3782-y"
+        },
+        {
+            "title": "Performance-based quality contracts in bus service provision",
+            "eid": "2-s2.0-0038025998",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "26634470900",
+                    "name": "Stanley J.",
+                    "affiliation_id": [
+                        "100767968"
+                    ]
+                }
+            ],
+            "citations": 105,
+            "publication_name": "Transportation Research Part A: Policy and Practice",
+            "issn": "09658564",
+            "cover_date": "2003-01-01",
+            "venue": "Journal",
+            "volume": "37",
+            "issue": "6",
+            "page_range": "519-538",
+            "doi": "10.1016/S0965-8564(03)00006-5"
         },
         {
             "title": "Measuring total factor productivity of airports - An index number approach",
@@ -1998,35 +2027,6 @@
             "doi": "10.1016/S1366-5545(97)00033-1"
         },
         {
-            "title": "Performance-based quality contracts in bus service provision",
-            "eid": "2-s2.0-0038025998",
-            "authors": [
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "26634470900",
-                    "name": "Stanley J.",
-                    "affiliation_id": [
-                        "100767968"
-                    ]
-                }
-            ],
-            "citations": 104,
-            "publication_name": "Transportation Research Part A: Policy and Practice",
-            "issn": "09658564",
-            "cover_date": "2003-01-01",
-            "venue": "Journal",
-            "volume": "37",
-            "issue": "6",
-            "page_range": "519-538",
-            "doi": "10.1016/S0965-8564(03)00006-5"
-        },
-        {
             "title": "Crowding in public transport: A review of objective and subjective measures",
             "eid": "2-s2.0-84879914703",
             "authors": [
@@ -2045,7 +2045,7 @@
                     ]
                 }
             ],
-            "citations": 101,
+            "citations": 102,
             "publication_name": "Journal of Public Transportation",
             "issn": "1077291X",
             "cover_date": "2013-01-01",
@@ -2090,6 +2090,42 @@
             "issue": "7",
             "page_range": "729-748",
             "doi": "10.1016/j.trb.2009.02.002"
+        },
+        {
+            "title": "Road transport and climate change: Stepping off the greenhouse gas",
+            "eid": "2-s2.0-80054044328",
+            "authors": [
+                {
+                    "scopus_id": "26634470900",
+                    "name": "Stanley J.K.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "56771116600",
+                    "name": "Loader C.",
+                    "affiliation_id": [
+                        "100767968"
+                    ]
+                }
+            ],
+            "citations": 98,
+            "publication_name": "Transportation Research Part A: Policy and Practice",
+            "issn": "09658564",
+            "cover_date": "2011-01-01",
+            "venue": "Journal",
+            "volume": "45",
+            "issue": "10",
+            "page_range": "1020-1030",
+            "doi": "10.1016/j.tra.2009.04.005"
         },
         {
             "title": "Comparing operator and users costs of light rail, heavy rail and bus rapid transit over a radial public transport network",
@@ -2160,42 +2196,6 @@
             "doi": "10.1016/j.tranpol.2020.02.004"
         },
         {
-            "title": "Road transport and climate change: Stepping off the greenhouse gas",
-            "eid": "2-s2.0-80054044328",
-            "authors": [
-                {
-                    "scopus_id": "26634470900",
-                    "name": "Stanley J.K.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "56771116600",
-                    "name": "Loader C.",
-                    "affiliation_id": [
-                        "100767968"
-                    ]
-                }
-            ],
-            "citations": 97,
-            "publication_name": "Transportation Research Part A: Policy and Practice",
-            "issn": "09658564",
-            "cover_date": "2011-01-01",
-            "venue": "Journal",
-            "volume": "45",
-            "issue": "10",
-            "page_range": "1020-1030",
-            "doi": "10.1016/j.tra.2009.04.005"
-        },
-        {
             "title": "Measurement of travel time values and opportunity cost from a discrete-choice model.",
             "eid": "2-s2.0-0022180882",
             "authors": [
@@ -2250,7 +2250,7 @@
                     ]
                 }
             ],
-            "citations": 93,
+            "citations": 94,
             "publication_name": "Transportation Research Part A: Policy and Practice",
             "issn": "09658564",
             "cover_date": "2021-03-01",
@@ -2446,7 +2446,7 @@
                     ]
                 }
             ],
-            "citations": 88,
+            "citations": 89,
             "publication_name": "Journal of Transport Geography",
             "issn": "09666923",
             "cover_date": "2008-03-01",
@@ -2529,36 +2529,6 @@
             "doi": "10.1111/j.1475-4932.2006.00293.x"
         },
         {
-            "title": "Transacting under a performance-based contract: The role of negotiation and competitive tendering",
-            "eid": "2-s2.0-53649088153",
-            "authors": [
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "26634470900",
-                    "name": "Stanley J.",
-                    "affiliation_id": [
-                        "60025709",
-                        "126605732"
-                    ]
-                }
-            ],
-            "citations": 86,
-            "publication_name": "Transportation Research Part A: Policy and Practice",
-            "issn": "09658564",
-            "cover_date": "2008-01-01",
-            "venue": "Journal",
-            "volume": "42",
-            "issue": "9",
-            "page_range": "1143-1151",
-            "doi": "10.1016/j.tra.2008.05.004"
-        },
-        {
             "title": "Understanding Mobility as a Service (MaaS): Past, Present and Future",
             "eid": "2-s2.0-85141242824",
             "authors": [
@@ -2605,7 +2575,7 @@
                     ]
                 }
             ],
-            "citations": 85,
+            "citations": 86,
             "publication_name": "Understanding Mobility as a Service (MaaS): Past, Present and Future",
             "issn": "",
             "cover_date": "2020-01-01",
@@ -2614,6 +2584,65 @@
             "issue": "",
             "page_range": "1-188",
             "doi": "10.1016/C2019-0-00508-0"
+        },
+        {
+            "title": "Transacting under a performance-based contract: The role of negotiation and competitive tendering",
+            "eid": "2-s2.0-53649088153",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "26634470900",
+                    "name": "Stanley J.",
+                    "affiliation_id": [
+                        "60025709",
+                        "126605732"
+                    ]
+                }
+            ],
+            "citations": 86,
+            "publication_name": "Transportation Research Part A: Policy and Practice",
+            "issn": "09658564",
+            "cover_date": "2008-01-01",
+            "venue": "Journal",
+            "volume": "42",
+            "issue": "9",
+            "page_range": "1143-1151",
+            "doi": "10.1016/j.tra.2008.05.004"
+        },
+        {
+            "title": "The trip chaining activity of Sydney residents: A cross-section assessment by age group with a focus on seniors",
+            "eid": "2-s2.0-34248532508",
+            "authors": [
+                {
+                    "scopus_id": "7005267082",
+                    "name": "Golob T.F.",
+                    "affiliation_id": [
+                        "60007278"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 86,
+            "publication_name": "Journal of Transport Geography",
+            "issn": "09666923",
+            "cover_date": "2007-07-01",
+            "venue": "Journal",
+            "volume": "15",
+            "issue": "4",
+            "page_range": "298-312",
+            "doi": "10.1016/j.jtrangeo.2006.09.005"
         },
         {
             "title": "What might Covid-19 mean for mobility as a service (MaaS)?",
@@ -2636,57 +2665,6 @@
             "issue": "5",
             "page_range": "551-556",
             "doi": "10.1080/01441647.2020.1770487"
-        },
-        {
-            "title": "The trip chaining activity of Sydney residents: A cross-section assessment by age group with a focus on seniors",
-            "eid": "2-s2.0-34248532508",
-            "authors": [
-                {
-                    "scopus_id": "7005267082",
-                    "name": "Golob T.F.",
-                    "affiliation_id": [
-                        "60007278"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 85,
-            "publication_name": "Journal of Transport Geography",
-            "issn": "09666923",
-            "cover_date": "2007-07-01",
-            "venue": "Journal",
-            "volume": "15",
-            "issue": "4",
-            "page_range": "298-312",
-            "doi": "10.1016/j.jtrangeo.2006.09.005"
-        },
-        {
-            "title": "Sustainable public transport systems: Moving towards a value for money and network-based approach and away from blind commitment",
-            "eid": "2-s2.0-33845651343",
-            "authors": [
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 85,
-            "publication_name": "Transport Policy",
-            "issn": "0967070X",
-            "cover_date": "2007-01-01",
-            "venue": "Journal",
-            "volume": "14",
-            "issue": "1",
-            "page_range": "98-102",
-            "doi": "10.1016/j.tranpol.2006.10.004"
         },
         {
             "title": "Identifying commuter preferences for existing modes and a proposed Metro in Sydney, Australia with special reference to crowding",
@@ -2714,7 +2692,7 @@
                     ]
                 }
             ],
-            "citations": 84,
+            "citations": 85,
             "publication_name": "Public Transport",
             "issn": "1866749X",
             "cover_date": "2011-06-01",
@@ -2723,6 +2701,28 @@
             "issue": "2",
             "page_range": "109-147",
             "doi": "10.1007/s12469-010-0035-4"
+        },
+        {
+            "title": "Sustainable public transport systems: Moving towards a value for money and network-based approach and away from blind commitment",
+            "eid": "2-s2.0-33845651343",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 85,
+            "publication_name": "Transport Policy",
+            "issn": "0967070X",
+            "cover_date": "2007-01-01",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "1",
+            "page_range": "98-102",
+            "doi": "10.1016/j.tranpol.2006.10.004"
         },
         {
             "title": "Estimating the willingness to pay and value of risk reduction for car occupants in the road environment",
@@ -2815,7 +2815,7 @@
                     ]
                 }
             ],
-            "citations": 81,
+            "citations": 82,
             "publication_name": "Transportation Research Part A: Policy and Practice",
             "issn": "09658564",
             "cover_date": "2021-06-01",
@@ -2977,33 +2977,6 @@
             "doi": "10.1016/j.trb.2011.05.023"
         },
         {
-            "title": "Greenhouse gas emissions and Australian commuters' attitudes and behavior concerning abatement policies and personal involvement",
-            "eid": "2-s2.0-0031594036",
-            "authors": [
-                {
-                    "scopus_id": "7005267082",
-                    "name": "Golob T.F.",
-                    "affiliation_id": [
-                        "60007278"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": []
-                }
-            ],
-            "citations": 80,
-            "publication_name": "Transportation Research Part D: Transport and Environment",
-            "issn": "13619209",
-            "cover_date": "1998-01-01",
-            "venue": "Journal",
-            "volume": "3",
-            "issue": "1",
-            "page_range": "1-18",
-            "doi": "10.1016/S1361-9209(97)00006-0"
-        },
-        {
             "title": "Airport ground access mode choice behavior after the introduction of a new mode: A case study of Taoyuan International Airport in Taiwan",
             "eid": "2-s2.0-79251639034",
             "authors": [
@@ -3029,7 +3002,7 @@
                     ]
                 }
             ],
-            "citations": 79,
+            "citations": 80,
             "publication_name": "Transportation Research Part E: Logistics and Transportation Review",
             "issn": "13665545",
             "cover_date": "2011-01-01",
@@ -3038,6 +3011,33 @@
             "issue": "3",
             "page_range": "371-381",
             "doi": "10.1016/j.tre.2010.11.008"
+        },
+        {
+            "title": "Greenhouse gas emissions and Australian commuters' attitudes and behavior concerning abatement policies and personal involvement",
+            "eid": "2-s2.0-0031594036",
+            "authors": [
+                {
+                    "scopus_id": "7005267082",
+                    "name": "Golob T.F.",
+                    "affiliation_id": [
+                        "60007278"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 80,
+            "publication_name": "Transportation Research Part D: Transport and Environment",
+            "issn": "13619209",
+            "cover_date": "1998-01-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "1",
+            "page_range": "1-18",
+            "doi": "10.1016/S1361-9209(97)00006-0"
         },
         {
             "title": "Valuation of travel time savings in WTP and preference space in the presence of taste and scale heterogeneity",
@@ -3376,6 +3376,28 @@
             "doi": "10.1080/01441647.2010.498589"
         },
         {
+            "title": "A practical approach to identifying the market potential for high speed rail: A case study in the Sydney-Canberra Corridor",
+            "eid": "2-s2.0-0031277767",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 72,
+            "publication_name": "Transportation Research Part A: Policy and Practice",
+            "issn": "09658564",
+            "cover_date": "1997-01-01",
+            "venue": "Journal",
+            "volume": "31",
+            "issue": "6",
+            "page_range": "431-446",
+            "doi": "10.1016/S0965-8564(97)00001-3"
+        },
+        {
             "title": "Analyzing loss aversion and diminishing sensitivity in a freight transport stated choice experiment",
             "eid": "2-s2.0-77952334521",
             "authors": [
@@ -3404,28 +3426,6 @@
             "issue": "5",
             "page_range": "349-358",
             "doi": "10.1016/j.tra.2010.03.006"
-        },
-        {
-            "title": "A practical approach to identifying the market potential for high speed rail: A case study in the Sydney-Canberra Corridor",
-            "eid": "2-s2.0-0031277767",
-            "authors": [
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 71,
-            "publication_name": "Transportation Research Part A: Policy and Practice",
-            "issn": "09658564",
-            "cover_date": "1997-01-01",
-            "venue": "Journal",
-            "volume": "31",
-            "issue": "6",
-            "page_range": "431-446",
-            "doi": "10.1016/S0965-8564(97)00001-3"
         },
         {
             "title": "Passenger experience with quality-enhanced bus service: The tyne and wear 'superoute' services",
@@ -3598,7 +3598,7 @@
                     ]
                 }
             ],
-            "citations": 66,
+            "citations": 67,
             "publication_name": "Transportation Research Part B: Methodological",
             "issn": "01912615",
             "cover_date": "2004-01-01",
@@ -3811,6 +3811,35 @@
             "doi": "10.1016/j.tra.2013.01.015"
         },
         {
+            "title": "Toll roads in Australia: An overview of characteristics and accuracy of demand forecasts",
+            "eid": "2-s2.0-77955740622",
+            "authors": [
+                {
+                    "scopus_id": "57202960985",
+                    "name": "Li Z.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 63,
+            "publication_name": "Transport Reviews",
+            "issn": "01441647",
+            "cover_date": "2010-09-01",
+            "venue": "Journal",
+            "volume": "30",
+            "issue": "5",
+            "page_range": "541-569",
+            "doi": "10.1080/01441640903211173"
+        },
+        {
             "title": "Establishing a fare elasticity regime for urban passenger transport",
             "eid": "2-s2.0-0001223665",
             "authors": [
@@ -3831,35 +3860,6 @@
             "issue": "2",
             "page_range": "221-246",
             "doi": ""
-        },
-        {
-            "title": "Toll roads in Australia: An overview of characteristics and accuracy of demand forecasts",
-            "eid": "2-s2.0-77955740622",
-            "authors": [
-                {
-                    "scopus_id": "57202960985",
-                    "name": "Li Z.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 62,
-            "publication_name": "Transport Reviews",
-            "issn": "01441647",
-            "cover_date": "2010-09-01",
-            "venue": "Journal",
-            "volume": "30",
-            "issue": "5",
-            "page_range": "541-569",
-            "doi": "10.1080/01441640903211173"
         },
         {
             "title": "TRESIS: A transportation, land use and environmental strategy impact simulator for urban areas",
@@ -4203,35 +4203,6 @@
             "doi": "10.1177/0042098012447002"
         },
         {
-            "title": "Modelling corporate failure: A multinomial nested logit analysis for unordered outcomes",
-            "eid": "2-s2.0-33847046461",
-            "authors": [
-                {
-                    "scopus_id": "7405935292",
-                    "name": "Jones S.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 52,
-            "publication_name": "British Accounting Review",
-            "issn": "08908389",
-            "cover_date": "2007-03-01",
-            "venue": "Journal",
-            "volume": "39",
-            "issue": "1",
-            "page_range": "89-107",
-            "doi": "10.1016/j.bar.2006.12.003"
-        },
-        {
             "title": "Impact of COVID-19 on the number of days working from home and commuting travel: A cross-cultural comparison between Australia, South America and South Africa",
             "eid": "2-s2.0-85114686647",
             "authors": [
@@ -4285,7 +4256,7 @@
                     ]
                 }
             ],
-            "citations": 51,
+            "citations": 52,
             "publication_name": "Journal of Transport Geography",
             "issn": "09666923",
             "cover_date": "2021-10-01",
@@ -4321,7 +4292,7 @@
                     ]
                 }
             ],
-            "citations": 51,
+            "citations": 52,
             "publication_name": "Transport Policy",
             "issn": "0967070X",
             "cover_date": "2021-09-01",
@@ -4346,7 +4317,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 51,
+            "citations": 52,
             "publication_name": "Applied Discrete-Choice Modelling",
             "issn": "",
             "cover_date": "2018-04-09",
@@ -4355,6 +4326,35 @@
             "issue": "",
             "page_range": "1-468",
             "doi": "10.4324/9781351140768"
+        },
+        {
+            "title": "Modelling corporate failure: A multinomial nested logit analysis for unordered outcomes",
+            "eid": "2-s2.0-33847046461",
+            "authors": [
+                {
+                    "scopus_id": "7405935292",
+                    "name": "Jones S.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 52,
+            "publication_name": "British Accounting Review",
+            "issn": "08908389",
+            "cover_date": "2007-03-01",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "1",
+            "page_range": "89-107",
+            "doi": "10.1016/j.bar.2006.12.003"
         },
         {
             "title": "Refocusing the modelling of freight distribution: Development of an economic-based framework to ervaluate supply chain behaviour in response to congestion charging",
@@ -4413,6 +4413,43 @@
             "issue": "3",
             "page_range": "237-261",
             "doi": ""
+        },
+        {
+            "title": "MaaS bundle design",
+            "eid": "2-s2.0-85093672391",
+            "authors": [
+                {
+                    "scopus_id": "57215858508",
+                    "name": "Reck D.J.",
+                    "affiliation_id": [
+                        "60025858",
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "56640319700",
+                    "name": "Ho C.Q.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                }
+            ],
+            "citations": 50,
+            "publication_name": "Transportation Research Part A: Policy and Practice",
+            "issn": "09658564",
+            "cover_date": "2020-11-01",
+            "venue": "Journal",
+            "volume": "141",
+            "issue": "",
+            "page_range": "485-501",
+            "doi": "10.1016/j.tra.2020.09.021"
         },
         {
             "title": "An error component logit analysis of corporate bankruptcy and insolvency risk in Australia",
@@ -4507,43 +4544,6 @@
             "issue": "2-3",
             "page_range": "129-142",
             "doi": "10.1016/S1366-5545(00)00015-6"
-        },
-        {
-            "title": "MaaS bundle design",
-            "eid": "2-s2.0-85093672391",
-            "authors": [
-                {
-                    "scopus_id": "57215858508",
-                    "name": "Reck D.J.",
-                    "affiliation_id": [
-                        "60025858",
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "56640319700",
-                    "name": "Ho C.Q.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                }
-            ],
-            "citations": 49,
-            "publication_name": "Transportation Research Part A: Policy and Practice",
-            "issn": "09658564",
-            "cover_date": "2020-11-01",
-            "venue": "Journal",
-            "volume": "141",
-            "issue": "",
-            "page_range": "485-501",
-            "doi": "10.1016/j.tra.2020.09.021"
         },
         {
             "title": "Making use of respondent reported processing information to understand attribute importance: A latent variable scaling approach",
@@ -5008,180 +5008,6 @@
             "doi": "10.1016/j.trc.2020.102932"
         },
         {
-            "title": "Preferences for alternative short sea shipping opportunities",
-            "eid": "2-s2.0-78650305454",
-            "authors": [
-                {
-                    "scopus_id": "9841895600",
-                    "name": "Puckett S.M.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7201998544",
-                    "name": "Brooks M.R.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60015913"
-                    ]
-                },
-                {
-                    "scopus_id": "6508071864",
-                    "name": "Trifts V.",
-                    "affiliation_id": [
-                        "60015913"
-                    ]
-                }
-            ],
-            "citations": 41,
-            "publication_name": "Transportation Research Part E: Logistics and Transportation Review",
-            "issn": "13665545",
-            "cover_date": "2011-01-01",
-            "venue": "Journal",
-            "volume": "47",
-            "issue": "2",
-            "page_range": "182-189",
-            "doi": "10.1016/j.tre.2010.10.002"
-        },
-        {
-            "title": "Forecasting automobile petrol demand in Australia: An evaluation of empirical models",
-            "eid": "2-s2.0-71849108485",
-            "authors": [
-                {
-                    "scopus_id": "57202960985",
-                    "name": "Li Z.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7404390899",
-                    "name": "Rose J.M.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 41,
-            "publication_name": "Transportation Research Part A: Policy and Practice",
-            "issn": "09658564",
-            "cover_date": "2010-01-01",
-            "venue": "Journal",
-            "volume": "44",
-            "issue": "1",
-            "page_range": "16-38",
-            "doi": "10.1016/j.tra.2009.09.003"
-        },
-        {
-            "title": "Upgrading informal settlements in south africa: Policy, rhetoric and what residents really value",
-            "eid": "2-s2.0-70449413805",
-            "authors": [
-                {
-                    "scopus_id": "6507404931",
-                    "name": "del Mistro R.",
-                    "affiliation_id": [
-                        "60000356"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 41,
-            "publication_name": "Housing Studies",
-            "issn": "02673037",
-            "cover_date": "2009-05-01",
-            "venue": "Journal",
-            "volume": "24",
-            "issue": "3",
-            "page_range": "333-354",
-            "doi": "10.1080/02673030902869279"
-        },
-        {
-            "title": "An analytical framework for joint vs separate decisions by couples in choice experiments: The case of coastal water quality in tobago",
-            "eid": "2-s2.0-67349189477",
-            "authors": [
-                {
-                    "scopus_id": "26533770400",
-                    "name": "Beharry-Borg N.",
-                    "affiliation_id": [
-                        "60012070"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7101679887",
-                    "name": "Scarpa R.",
-                    "affiliation_id": [
-                        "60211934"
-                    ]
-                }
-            ],
-            "citations": 41,
-            "publication_name": "Environmental and Resource Economics",
-            "issn": "09246460",
-            "cover_date": "2009-01-01",
-            "venue": "Journal",
-            "volume": "43",
-            "issue": "1",
-            "page_range": "95-117",
-            "doi": "10.1007/s10640-009-9283-7"
-        },
-        {
-            "title": "Discrete/continuous econometric models and their application to transport analysis: Foreign summaries",
-            "eid": "2-s2.0-0023468040",
-            "authors": [
-                {
-                    "scopus_id": "7005423388",
-                    "name": "Mannering F.",
-                    "affiliation_id": [
-                        "60147936"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60019544"
-                    ]
-                }
-            ],
-            "citations": 41,
-            "publication_name": "Transport Reviews",
-            "issn": "01441647",
-            "cover_date": "1987-01-01",
-            "venue": "Journal",
-            "volume": "7",
-            "issue": "3",
-            "page_range": "227-244",
-            "doi": "10.1080/01441648708716657"
-        },
-        {
             "title": "Impact of vehicle automation and electric propulsion on production costs for mobility services worldwide",
             "eid": "2-s2.0-85086566813",
             "authors": [
@@ -5376,7 +5202,7 @@
                     ]
                 }
             ],
-            "citations": 40,
+            "citations": 41,
             "publication_name": "Transportation Research Part A: Policy and Practice",
             "issn": "09658564",
             "cover_date": "2020-08-01",
@@ -5385,6 +5211,180 @@
             "issue": "",
             "page_range": "105-126",
             "doi": "10.1016/j.tra.2020.04.021"
+        },
+        {
+            "title": "Preferences for alternative short sea shipping opportunities",
+            "eid": "2-s2.0-78650305454",
+            "authors": [
+                {
+                    "scopus_id": "9841895600",
+                    "name": "Puckett S.M.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7201998544",
+                    "name": "Brooks M.R.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60015913"
+                    ]
+                },
+                {
+                    "scopus_id": "6508071864",
+                    "name": "Trifts V.",
+                    "affiliation_id": [
+                        "60015913"
+                    ]
+                }
+            ],
+            "citations": 41,
+            "publication_name": "Transportation Research Part E: Logistics and Transportation Review",
+            "issn": "13665545",
+            "cover_date": "2011-01-01",
+            "venue": "Journal",
+            "volume": "47",
+            "issue": "2",
+            "page_range": "182-189",
+            "doi": "10.1016/j.tre.2010.10.002"
+        },
+        {
+            "title": "Forecasting automobile petrol demand in Australia: An evaluation of empirical models",
+            "eid": "2-s2.0-71849108485",
+            "authors": [
+                {
+                    "scopus_id": "57202960985",
+                    "name": "Li Z.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7404390899",
+                    "name": "Rose J.M.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 41,
+            "publication_name": "Transportation Research Part A: Policy and Practice",
+            "issn": "09658564",
+            "cover_date": "2010-01-01",
+            "venue": "Journal",
+            "volume": "44",
+            "issue": "1",
+            "page_range": "16-38",
+            "doi": "10.1016/j.tra.2009.09.003"
+        },
+        {
+            "title": "Upgrading informal settlements in south africa: Policy, rhetoric and what residents really value",
+            "eid": "2-s2.0-70449413805",
+            "authors": [
+                {
+                    "scopus_id": "6507404931",
+                    "name": "del Mistro R.",
+                    "affiliation_id": [
+                        "60000356"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 41,
+            "publication_name": "Housing Studies",
+            "issn": "02673037",
+            "cover_date": "2009-05-01",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "3",
+            "page_range": "333-354",
+            "doi": "10.1080/02673030902869279"
+        },
+        {
+            "title": "An analytical framework for joint vs separate decisions by couples in choice experiments: The case of coastal water quality in tobago",
+            "eid": "2-s2.0-67349189477",
+            "authors": [
+                {
+                    "scopus_id": "26533770400",
+                    "name": "Beharry-Borg N.",
+                    "affiliation_id": [
+                        "60012070"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7101679887",
+                    "name": "Scarpa R.",
+                    "affiliation_id": [
+                        "60211934"
+                    ]
+                }
+            ],
+            "citations": 41,
+            "publication_name": "Environmental and Resource Economics",
+            "issn": "09246460",
+            "cover_date": "2009-01-01",
+            "venue": "Journal",
+            "volume": "43",
+            "issue": "1",
+            "page_range": "95-117",
+            "doi": "10.1007/s10640-009-9283-7"
+        },
+        {
+            "title": "Discrete/continuous econometric models and their application to transport analysis: Foreign summaries",
+            "eid": "2-s2.0-0023468040",
+            "authors": [
+                {
+                    "scopus_id": "7005423388",
+                    "name": "Mannering F.",
+                    "affiliation_id": [
+                        "60147936"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
+                }
+            ],
+            "citations": 41,
+            "publication_name": "Transport Reviews",
+            "issn": "01441647",
+            "cover_date": "1987-01-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "3",
+            "page_range": "227-244",
+            "doi": "10.1080/01441648708716657"
         },
         {
             "title": "Safety in the road environment: A driver behavioural response perspective",
@@ -5448,7 +5448,7 @@
                     ]
                 }
             ],
-            "citations": 38,
+            "citations": 39,
             "publication_name": "Journal of Choice Modelling",
             "issn": "17555345",
             "cover_date": "2008-01-01",
@@ -5533,6 +5533,28 @@
             "doi": "10.1016/j.tre.2013.05.001"
         },
         {
+            "title": "The Relationship Between Bus Contract Costs, User Perceived Service Quality and Performance Assessment",
+            "eid": "2-s2.0-84879646870",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                }
+            ],
+            "citations": 37,
+            "publication_name": "International Journal of Sustainable Transportation",
+            "issn": "15568318",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "1",
+            "page_range": "5-27",
+            "doi": "10.1080/15568318.2012.758454"
+        },
+        {
             "title": "Revealing the extent of process heterogeneity in choice analysis: An empirical assessment",
             "eid": "2-s2.0-58149382458",
             "authors": [
@@ -5597,28 +5619,6 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1016/j.jocm.2021.100303"
-        },
-        {
-            "title": "The Relationship Between Bus Contract Costs, User Perceived Service Quality and Performance Assessment",
-            "eid": "2-s2.0-84879646870",
-            "authors": [
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                }
-            ],
-            "citations": 36,
-            "publication_name": "International Journal of Sustainable Transportation",
-            "issn": "15568318",
-            "cover_date": "2014-01-01",
-            "venue": "Journal",
-            "volume": "8",
-            "issue": "1",
-            "page_range": "5-27",
-            "doi": "10.1080/15568318.2012.758454"
         },
         {
             "title": "Preferences for tap water attributes within couples: An exploration of alternative mixed logit parameterizations",
@@ -5712,6 +5712,28 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1016/j.trd.2021.103130"
+        },
+        {
+            "title": "Valuation of travel time savings",
+            "eid": "2-s2.0-84861811070",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 35,
+            "publication_name": "A Handbook of Transport Economics",
+            "issn": "",
+            "cover_date": "2011-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "135-159",
+            "doi": "10.4337/9780857930873.00014"
         },
         {
             "title": "Empirical approaches to combining revealed and stated preference data: Some recent developments with reference to urban mode choice",
@@ -5835,28 +5857,6 @@
             "issue": "",
             "page_range": "234-253",
             "doi": "10.1016/j.trb.2013.08.001"
-        },
-        {
-            "title": "Valuation of travel time savings",
-            "eid": "2-s2.0-84861811070",
-            "authors": [
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 34,
-            "publication_name": "A Handbook of Transport Economics",
-            "issn": "",
-            "cover_date": "2011-01-01",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "135-159",
-            "doi": "10.4337/9780857930873.00014"
         },
         {
             "title": "Multimodal Transport Pricing: First Best, Second Best and Extensions to Non-motorized Transport",
@@ -6361,7 +6361,7 @@
                     ]
                 }
             ],
-            "citations": 29,
+            "citations": 30,
             "publication_name": "Transport Policy",
             "issn": "0967070X",
             "cover_date": "2022-11-01",
@@ -6370,6 +6370,31 @@
             "issue": "",
             "page_range": "274-285",
             "doi": "10.1016/j.tranpol.2021.06.005"
+        },
+        {
+            "title": "Behavioural travel modelling",
+            "eid": "2-s2.0-85110381875",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7005786596",
+                    "name": "Stopher P.R.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 29,
+            "publication_name": "Behavioural Travel Modelling",
+            "issn": "",
+            "cover_date": "2021-05-12",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "1-871",
+            "doi": "10.4324/9781003156055"
         },
         {
             "title": "Risk Management in Public-Private Partnerships",
@@ -6435,6 +6460,28 @@
             "issue": "2",
             "page_range": "170-188",
             "doi": "10.1287/trsc.1110.0389"
+        },
+        {
+            "title": "Accounting for scale heterogeneity within and between pooled data sources",
+            "eid": "2-s2.0-84255194312",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "Transportation Research Part A: Policy and Practice",
+            "issn": "09658564",
+            "cover_date": "2012-01-01",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "3",
+            "page_range": "480-486",
+            "doi": "10.1016/j.tra.2011.11.007"
         },
         {
             "title": "Delivering value for money to government through efficient and effective public transit service continuity: Some thoughts",
@@ -6585,31 +6632,6 @@
             "doi": ""
         },
         {
-            "title": "Behavioural travel modelling",
-            "eid": "2-s2.0-85110381875",
-            "authors": [
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7005786596",
-                    "name": "Stopher P.R.",
-                    "affiliation_id": []
-                }
-            ],
-            "citations": 28,
-            "publication_name": "Behavioural Travel Modelling",
-            "issn": "",
-            "cover_date": "2021-05-12",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "1-871",
-            "doi": "10.4324/9781003156055"
-        },
-        {
             "title": "Social exclusion: The roles of mobility and bridging social capital in regional Australia",
             "eid": "2-s2.0-85047528658",
             "authors": [
@@ -6682,28 +6704,6 @@
             "doi": "10.1016/S1755-5345(13)70019-8"
         },
         {
-            "title": "Accounting for scale heterogeneity within and between pooled data sources",
-            "eid": "2-s2.0-84255194312",
-            "authors": [
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                }
-            ],
-            "citations": 28,
-            "publication_name": "Transportation Research Part A: Policy and Practice",
-            "issn": "09658564",
-            "cover_date": "2012-01-01",
-            "venue": "Journal",
-            "volume": "46",
-            "issue": "3",
-            "page_range": "480-486",
-            "doi": "10.1016/j.tra.2011.11.007"
-        },
-        {
             "title": "Towards a practical method to establish comparable values of travel time savings from stated choice experiments with differing design dimensions",
             "eid": "2-s2.0-33745865896",
             "authors": [
@@ -6773,6 +6773,56 @@
             "issue": "",
             "page_range": "286-298",
             "doi": "10.1016/j.tranpol.2021.06.006"
+        },
+        {
+            "title": "MaaS bundle design and implementation: Lessons from the Sydney MaaS trial",
+            "eid": "2-s2.0-85107640026",
+            "authors": [
+                {
+                    "scopus_id": "56640319700",
+                    "name": "Ho C.Q.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "57215858508",
+                    "name": "Reck D.J.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "57224472543",
+                    "name": "Lorimer S.",
+                    "affiliation_id": [
+                        "60113232"
+                    ]
+                },
+                {
+                    "scopus_id": "57224464779",
+                    "name": "Lu I.",
+                    "affiliation_id": [
+                        "60113232"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "Transportation Research Part A: Policy and Practice",
+            "issn": "09658564",
+            "cover_date": "2021-07-01",
+            "venue": "Journal",
+            "volume": "149",
+            "issue": "",
+            "page_range": "339-376",
+            "doi": "10.1016/j.tra.2021.05.010"
         },
         {
             "title": "What might the changing incidence of Working from Home (WFH) tell us about future transport and land use agendas",
@@ -7043,16 +7093,9 @@
             "doi": "10.1016/0167-4870(82)90035-6"
         },
         {
-            "title": "MaaS bundle design and implementation: Lessons from the Sydney MaaS trial",
-            "eid": "2-s2.0-85107640026",
+            "title": "Efficient contracting and incentive agreements between regulators and bus operators: The influence of risk preferences of contracting agents on contract choice",
+            "eid": "2-s2.0-84961226023",
             "authors": [
-                {
-                    "scopus_id": "56640319700",
-                    "name": "Ho C.Q.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
                 {
                     "scopus_id": "7006695697",
                     "name": "Hensher D.A.",
@@ -7061,36 +7104,29 @@
                     ]
                 },
                 {
-                    "scopus_id": "57215858508",
-                    "name": "Reck D.J.",
+                    "scopus_id": "56640319700",
+                    "name": "Ho C.",
                     "affiliation_id": [
                         "60212023"
                     ]
                 },
                 {
-                    "scopus_id": "57224472543",
-                    "name": "Lorimer S.",
+                    "scopus_id": "57185212000",
+                    "name": "Knowles L.",
                     "affiliation_id": [
-                        "60113232"
-                    ]
-                },
-                {
-                    "scopus_id": "57224464779",
-                    "name": "Lu I.",
-                    "affiliation_id": [
-                        "60113232"
+                        "60212023"
                     ]
                 }
             ],
             "citations": 26,
             "publication_name": "Transportation Research Part A: Policy and Practice",
             "issn": "09658564",
-            "cover_date": "2021-07-01",
+            "cover_date": "2016-05-01",
             "venue": "Journal",
-            "volume": "149",
+            "volume": "87",
             "issue": "",
-            "page_range": "339-376",
-            "doi": "10.1016/j.tra.2021.05.010"
+            "page_range": "22-40",
+            "doi": "10.1016/j.tra.2016.02.013"
         },
         {
             "title": "Are there specific design elements of choice experiments and types of people that influence choice response certainty?",
@@ -7278,42 +7314,6 @@
             "doi": "10.1007/s11116-020-10113-z"
         },
         {
-            "title": "Efficient contracting and incentive agreements between regulators and bus operators: The influence of risk preferences of contracting agents on contract choice",
-            "eid": "2-s2.0-84961226023",
-            "authors": [
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "56640319700",
-                    "name": "Ho C.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "57185212000",
-                    "name": "Knowles L.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                }
-            ],
-            "citations": 25,
-            "publication_name": "Transportation Research Part A: Policy and Practice",
-            "issn": "09658564",
-            "cover_date": "2016-05-01",
-            "venue": "Journal",
-            "volume": "87",
-            "issue": "",
-            "page_range": "22-40",
-            "doi": "10.1016/j.tra.2016.02.013"
-        },
-        {
             "title": "Accounting for travel time variability in the optimal pricing of cars and buses",
             "eid": "2-s2.0-84920258807",
             "authors": [
@@ -7401,6 +7401,35 @@
             "doi": "10.1016/0191-2615(85)90038-4"
         },
         {
+            "title": "Identifying individual preferences for international air fares. An application of functional measurement theory.",
+            "eid": "2-s2.0-0021064490",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
+                },
+                {
+                    "scopus_id": "7004145149",
+                    "name": "Louviere J.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
+                }
+            ],
+            "citations": 25,
+            "publication_name": "Journal of Transport Economics &amp; Policy",
+            "issn": "",
+            "cover_date": "1983-01-01",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "3",
+            "page_range": "225-245",
+            "doi": ""
+        },
+        {
             "title": "Reducing Australian motor vehicle greenhouse gas emissions",
             "eid": "2-s2.0-85044868489",
             "authors": [
@@ -7485,6 +7514,35 @@
             "issue": "PART3",
             "page_range": "475-492",
             "doi": ""
+        },
+        {
+            "title": "Embedding multiple heuristics into choice models: An exploratory analysis",
+            "eid": "2-s2.0-84880564679",
+            "authors": [
+                {
+                    "scopus_id": "57192238539",
+                    "name": "Leong W.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "Journal of Choice Modelling",
+            "issn": "17555345",
+            "cover_date": "2012-01-01",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "3",
+            "page_range": "131-144",
+            "doi": "10.1016/j.jocm.2013.03.001"
         },
         {
             "title": "Valuing travel time variability within a rank-dependent utility framework and an investigation of unobserved taste heterogeneity",
@@ -7595,35 +7653,6 @@
             "doi": "10.1111/j.1475-4932.1990.tb01714.x"
         },
         {
-            "title": "Identifying individual preferences for international air fares. An application of functional measurement theory.",
-            "eid": "2-s2.0-0021064490",
-            "authors": [
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.",
-                    "affiliation_id": [
-                        "60019544"
-                    ]
-                },
-                {
-                    "scopus_id": "7004145149",
-                    "name": "Louviere J.",
-                    "affiliation_id": [
-                        "60019544"
-                    ]
-                }
-            ],
-            "citations": 24,
-            "publication_name": "Journal of Transport Economics &amp; Policy",
-            "issn": "",
-            "cover_date": "1983-01-01",
-            "venue": "Journal",
-            "volume": "17",
-            "issue": "3",
-            "page_range": "225-245",
-            "doi": ""
-        },
-        {
             "title": "Firm-specific and location-specific drivers of business location and relocation decisions",
             "eid": "2-s2.0-85059059281",
             "authors": [
@@ -7716,35 +7745,6 @@
             "issue": "3",
             "page_range": "463-493",
             "doi": "10.1007/s11116-013-9480-7"
-        },
-        {
-            "title": "Embedding multiple heuristics into choice models: An exploratory analysis",
-            "eid": "2-s2.0-84880564679",
-            "authors": [
-                {
-                    "scopus_id": "57192238539",
-                    "name": "Leong W.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                }
-            ],
-            "citations": 23,
-            "publication_name": "Journal of Choice Modelling",
-            "issn": "17555345",
-            "cover_date": "2012-01-01",
-            "venue": "Journal",
-            "volume": "5",
-            "issue": "3",
-            "page_range": "131-144",
-            "doi": "10.1016/j.jocm.2013.03.001"
         },
         {
             "title": "The influence of alternative acceptability, Attribute thresholds and choice response certainty on automobile purchase preferences",
@@ -8052,6 +8052,89 @@
             "doi": "10.1016/0191-2607(91)90151-F"
         },
         {
+            "title": "Characterising public transport shifting to active and private modes in South American capitals during the COVID-19 pandemic",
+            "eid": "2-s2.0-85136111779",
+            "authors": [
+                {
+                    "scopus_id": "57217057120",
+                    "name": "Vallejo-Borda J.A.",
+                    "affiliation_id": [
+                        "125029035",
+                        "60029681",
+                        "60111722",
+                        "60055678"
+                    ]
+                },
+                {
+                    "scopus_id": "6603668453",
+                    "name": "Giesen R.",
+                    "affiliation_id": [
+                        "125029035",
+                        "60029681"
+                    ]
+                },
+                {
+                    "scopus_id": "57218993352",
+                    "name": "Basnak P.",
+                    "affiliation_id": [
+                        "125029035",
+                        "60029681"
+                    ]
+                },
+                {
+                    "scopus_id": "57848677300",
+                    "name": "Reyes J.P.",
+                    "affiliation_id": [
+                        "125029035",
+                        "60029681"
+                    ]
+                },
+                {
+                    "scopus_id": "57201989406",
+                    "name": "Mella Lira B.",
+                    "affiliation_id": [
+                        "125029035",
+                        "60029681",
+                        "114837749",
+                        "60002636"
+                    ]
+                },
+                {
+                    "scopus_id": "36561141700",
+                    "name": "Beck M.J.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "125029035",
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "6603795051",
+                    "name": "Ort\u00fazar J.d.D.",
+                    "affiliation_id": [
+                        "125029035",
+                        "60029681",
+                        "60029681"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Transportation Research Part A: Policy and Practice",
+            "issn": "09658564",
+            "cover_date": "2022-10-01",
+            "venue": "Journal",
+            "volume": "164",
+            "issue": "",
+            "page_range": "186-205",
+            "doi": "10.1016/j.tra.2022.08.010"
+        },
+        {
             "title": "Electric car sharing as a service (ECSaaS) \u2013 Acknowledging the role of the car in the public mobility ecosystem and what it might mean for MaaS as eMaaS?",
             "eid": "2-s2.0-85120944132",
             "authors": [
@@ -8115,6 +8198,42 @@
             "issue": "",
             "page_range": "1-4",
             "doi": "10.1016/j.tra.2019.09.039"
+        },
+        {
+            "title": "How to better represent preferences in choice models: The contributions to preference heterogeneity attributable to the presence of process heterogeneity",
+            "eid": "2-s2.0-85062213109",
+            "authors": [
+                {
+                    "scopus_id": "57192207351",
+                    "name": "Balbontin C.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "16743927400",
+                    "name": "Collins A.T.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Transportation Research Part B: Methodological",
+            "issn": "01912615",
+            "cover_date": "2019-04-01",
+            "venue": "Journal",
+            "volume": "122",
+            "issue": "",
+            "page_range": "218-248",
+            "doi": "10.1016/j.trb.2019.02.007"
         },
         {
             "title": "Freight transport distance and weight as utility conditioning effects on a stated choice experiment",
@@ -8321,42 +8440,6 @@
             "doi": "10.1007/BF00148379"
         },
         {
-            "title": "How to better represent preferences in choice models: The contributions to preference heterogeneity attributable to the presence of process heterogeneity",
-            "eid": "2-s2.0-85062213109",
-            "authors": [
-                {
-                    "scopus_id": "57192207351",
-                    "name": "Balbontin C.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "16743927400",
-                    "name": "Collins A.T.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                }
-            ],
-            "citations": 20,
-            "publication_name": "Transportation Research Part B: Methodological",
-            "issn": "01912615",
-            "cover_date": "2019-04-01",
-            "venue": "Journal",
-            "volume": "122",
-            "issue": "",
-            "page_range": "218-248",
-            "doi": "10.1016/j.trb.2019.02.007"
-        },
-        {
             "title": "Random regret minimization and random utility maximization in the presence of preference heterogeneity: An empirical contrast",
             "eid": "2-s2.0-84961117599",
             "authors": [
@@ -8486,89 +8569,6 @@
             "issue": "3",
             "page_range": "205-222",
             "doi": "10.1007/s11116-005-2302-9"
-        },
-        {
-            "title": "Characterising public transport shifting to active and private modes in South American capitals during the COVID-19 pandemic",
-            "eid": "2-s2.0-85136111779",
-            "authors": [
-                {
-                    "scopus_id": "57217057120",
-                    "name": "Vallejo-Borda J.A.",
-                    "affiliation_id": [
-                        "125029035",
-                        "60029681",
-                        "60111722",
-                        "60055678"
-                    ]
-                },
-                {
-                    "scopus_id": "6603668453",
-                    "name": "Giesen R.",
-                    "affiliation_id": [
-                        "125029035",
-                        "60029681"
-                    ]
-                },
-                {
-                    "scopus_id": "57218993352",
-                    "name": "Basnak P.",
-                    "affiliation_id": [
-                        "125029035",
-                        "60029681"
-                    ]
-                },
-                {
-                    "scopus_id": "57848677300",
-                    "name": "Reyes J.P.",
-                    "affiliation_id": [
-                        "125029035",
-                        "60029681"
-                    ]
-                },
-                {
-                    "scopus_id": "57201989406",
-                    "name": "Mella Lira B.",
-                    "affiliation_id": [
-                        "125029035",
-                        "60029681",
-                        "114837749",
-                        "60002636"
-                    ]
-                },
-                {
-                    "scopus_id": "36561141700",
-                    "name": "Beck M.J.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "125029035",
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "6603795051",
-                    "name": "Ort\u00fazar J.d.D.",
-                    "affiliation_id": [
-                        "125029035",
-                        "60029681",
-                        "60029681"
-                    ]
-                }
-            ],
-            "citations": 19,
-            "publication_name": "Transportation Research Part A: Policy and Practice",
-            "issn": "09658564",
-            "cover_date": "2022-10-01",
-            "venue": "Journal",
-            "volume": "164",
-            "issue": "",
-            "page_range": "186-205",
-            "doi": "10.1016/j.tra.2022.08.010"
         },
         {
             "title": "Advances in the modelling of credit risk and corporate bankruptcy: Introduction",
@@ -8951,6 +8951,42 @@
             "doi": "10.1080/01441647.2012.760671"
         },
         {
+            "title": "Towards a simplified performance-linked value for money model as a reference point for bus contract payments",
+            "eid": "2-s2.0-84870289657",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "6603085894",
+                    "name": "Mulley C.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "57660937600",
+                    "name": "Smith N.",
+                    "affiliation_id": [
+                        "106306872"
+                    ]
+                }
+            ],
+            "citations": 18,
+            "publication_name": "Research in Transportation Economics",
+            "issn": "07398859",
+            "cover_date": "2013-03-01",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "1",
+            "page_range": "232-238",
+            "doi": "10.1016/j.retrec.2012.06.018"
+        },
+        {
             "title": "Does the choice model method and/or the data matter?",
             "eid": "2-s2.0-84856731922",
             "authors": [
@@ -9117,6 +9153,43 @@
             "doi": "10.1016/0191-2607(79)90071-2"
         },
         {
+            "title": "Advanced modelling of commuter choice model and work from home during COVID-19 restrictions in Australia",
+            "eid": "2-s2.0-85129976934",
+            "authors": [
+                {
+                    "scopus_id": "57192207351",
+                    "name": "Balbontin C.",
+                    "affiliation_id": [
+                        "60003942",
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "36561141700",
+                    "name": "Beck M.J.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                }
+            ],
+            "citations": 17,
+            "publication_name": "Transportation Research Part E: Logistics and Transportation Review",
+            "issn": "13665545",
+            "cover_date": "2022-06-01",
+            "venue": "Journal",
+            "volume": "162",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.tre.2022.102718"
+        },
+        {
             "title": "Battery electric vehicles in cities: Measurement of some impacts on traffic and government revenue recovery",
             "eid": "2-s2.0-85107945322",
             "authors": [
@@ -9153,9 +9226,16 @@
             "doi": "10.1016/j.jtrangeo.2021.103121"
         },
         {
-            "title": "Towards a simplified performance-linked value for money model as a reference point for bus contract payments",
-            "eid": "2-s2.0-84870289657",
+            "title": "Endogenous treatment of residential location choices in transport and land use models: Introducing the MetroScan framework",
+            "eid": "2-s2.0-85032676371",
             "authors": [
+                {
+                    "scopus_id": "56640319700",
+                    "name": "Ho C.Q.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
                 {
                     "scopus_id": "7006695697",
                     "name": "Hensher D.A.",
@@ -9164,29 +9244,22 @@
                     ]
                 },
                 {
-                    "scopus_id": "6603085894",
-                    "name": "Mulley C.",
+                    "scopus_id": "36937525500",
+                    "name": "Ellison R.",
                     "affiliation_id": [
                         "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "57660937600",
-                    "name": "Smith N.",
-                    "affiliation_id": [
-                        "106306872"
                     ]
                 }
             ],
             "citations": 17,
-            "publication_name": "Research in Transportation Economics",
-            "issn": "07398859",
-            "cover_date": "2013-03-01",
+            "publication_name": "Journal of Transport Geography",
+            "issn": "09666923",
+            "cover_date": "2017-10-01",
             "venue": "Journal",
-            "volume": "39",
-            "issue": "1",
-            "page_range": "232-238",
-            "doi": "10.1016/j.retrec.2012.06.018"
+            "volume": "64",
+            "issue": "",
+            "page_range": "120-131",
+            "doi": "10.1016/j.jtrangeo.2017.08.021"
         },
         {
             "title": "Conjoint preference elicitation methods in the broader context of random utility theory preference elicitation methods",
@@ -9330,17 +9403,9 @@
             "doi": "10.1007/BF01099973"
         },
         {
-            "title": "Advanced modelling of commuter choice model and work from home during COVID-19 restrictions in Australia",
-            "eid": "2-s2.0-85129976934",
+            "title": "Mobility as a feature (MaaF): rethinking the focus of the second generation of mobility as a service (MaaS)",
+            "eid": "2-s2.0-85145030263",
             "authors": [
-                {
-                    "scopus_id": "57192207351",
-                    "name": "Balbontin C.",
-                    "affiliation_id": [
-                        "60003942",
-                        "60212023"
-                    ]
-                },
                 {
                     "scopus_id": "7006695697",
                     "name": "Hensher D.A.",
@@ -9349,22 +9414,22 @@
                     ]
                 },
                 {
-                    "scopus_id": "36561141700",
-                    "name": "Beck M.J.",
+                    "scopus_id": "58035842300",
+                    "name": "Hietanen S.",
                     "affiliation_id": [
-                        "60212023"
+                        "129023083"
                     ]
                 }
             ],
             "citations": 16,
-            "publication_name": "Transportation Research Part E: Logistics and Transportation Review",
-            "issn": "13665545",
-            "cover_date": "2022-06-01",
+            "publication_name": "Transport Reviews",
+            "issn": "01441647",
+            "cover_date": "2023-01-01",
             "venue": "Journal",
-            "volume": "162",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.tre.2022.102718"
+            "volume": "43",
+            "issue": "3",
+            "page_range": "325-329",
+            "doi": "10.1080/01441647.2022.2159122"
         },
         {
             "title": "Understanding risky choice behaviour with travel time variability: a review of recent empirical contributions of alternative behavioural theories",
@@ -9394,42 +9459,6 @@
             "issue": "8",
             "page_range": "580-590",
             "doi": "10.1080/19427867.2019.1662562"
-        },
-        {
-            "title": "Endogenous treatment of residential location choices in transport and land use models: Introducing the MetroScan framework",
-            "eid": "2-s2.0-85032676371",
-            "authors": [
-                {
-                    "scopus_id": "56640319700",
-                    "name": "Ho C.Q.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "36937525500",
-                    "name": "Ellison R.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                }
-            ],
-            "citations": 16,
-            "publication_name": "Journal of Transport Geography",
-            "issn": "09666923",
-            "cover_date": "2017-10-01",
-            "venue": "Journal",
-            "volume": "64",
-            "issue": "",
-            "page_range": "120-131",
-            "doi": "10.1016/j.jtrangeo.2017.08.021"
         },
         {
             "title": "Recognising the complementary contributions of cost benefit analysis and economic impact analysis to an understanding of the worth of\u00a0public transport investment: A case study of bus rapid transit in\u00a0Sydney, Australia",
@@ -9582,35 +9611,6 @@
             "issue": "6",
             "page_range": "523-532",
             "doi": "10.1016/j.tranpol.2007.09.002"
-        },
-        {
-            "title": "Mobility as a feature (MaaF): rethinking the focus of the second generation of mobility as a service (MaaS)",
-            "eid": "2-s2.0-85145030263",
-            "authors": [
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "58035842300",
-                    "name": "Hietanen S.",
-                    "affiliation_id": [
-                        "129023083"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Transport Reviews",
-            "issn": "01441647",
-            "cover_date": "2023-01-01",
-            "venue": "Journal",
-            "volume": "43",
-            "issue": "3",
-            "page_range": "325-329",
-            "doi": "10.1080/01441647.2022.2159122"
         },
         {
             "title": "An empirical investigation of values of travel time savings from stated preference data and revealed preference data",
@@ -10697,6 +10697,35 @@
             "doi": "10.1016/S0969-6997(02)00010-8"
         },
         {
+            "title": "Behavioural response and form of the representative component of the indirect utility function in travel choice models",
+            "eid": "2-s2.0-0019707542",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
+                },
+                {
+                    "scopus_id": "7404800017",
+                    "name": "Johnson L.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Regional Science and Urban Economics",
+            "issn": "01660462",
+            "cover_date": "1981-01-01",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "4",
+            "page_range": "559-572",
+            "doi": "10.1016/0166-0462(81)90038-7"
+        },
+        {
             "title": "Individual Choice Modelling with Discrete Commodities: Theory and Application to the Tasman Bridge Reopening",
             "eid": "2-s2.0-0018733648",
             "authors": [
@@ -10957,35 +10986,6 @@
             "doi": "10.1016/0167-6245(93)90011-5"
         },
         {
-            "title": "Behavioural response and form of the representative component of the indirect utility function in travel choice models",
-            "eid": "2-s2.0-0019707542",
-            "authors": [
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.",
-                    "affiliation_id": [
-                        "60019544"
-                    ]
-                },
-                {
-                    "scopus_id": "7404800017",
-                    "name": "Johnson L.",
-                    "affiliation_id": [
-                        "60019544"
-                    ]
-                }
-            ],
-            "citations": 11,
-            "publication_name": "Regional Science and Urban Economics",
-            "issn": "01660462",
-            "cover_date": "1981-01-01",
-            "venue": "Journal",
-            "volume": "11",
-            "issue": "4",
-            "page_range": "559-572",
-            "doi": "10.1016/0166-0462(81)90038-7"
-        },
-        {
             "title": "Private tollroads in urban areas - Some thoughts on the economic and financial issues",
             "eid": "2-s2.0-8644261377",
             "authors": [
@@ -11129,6 +11129,42 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1016/j.tre.2022.102823"
+        },
+        {
+            "title": "Place-based disadvantage, social exclusion and the value of mobility",
+            "eid": "2-s2.0-85128416664",
+            "authors": [
+                {
+                    "scopus_id": "26634470900",
+                    "name": "Stanley J.K.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "22955043100",
+                    "name": "Stanley J.R.",
+                    "affiliation_id": [
+                        "60118637"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "Transportation Research Part A: Policy and Practice",
+            "issn": "09658564",
+            "cover_date": "2022-06-01",
+            "venue": "Journal",
+            "volume": "160",
+            "issue": "",
+            "page_range": "101-113",
+            "doi": "10.1016/j.tra.2022.04.005"
         },
         {
             "title": "Productivity foregone and leisure time corrections of the value of business travel time savings for land passenger transport in Australia",
@@ -11440,42 +11476,6 @@
             "doi": "10.1016/j.tra.2023.103675"
         },
         {
-            "title": "Place-based disadvantage, social exclusion and the value of mobility",
-            "eid": "2-s2.0-85128416664",
-            "authors": [
-                {
-                    "scopus_id": "26634470900",
-                    "name": "Stanley J.K.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "22955043100",
-                    "name": "Stanley J.R.",
-                    "affiliation_id": [
-                        "60118637"
-                    ]
-                }
-            ],
-            "citations": 9,
-            "publication_name": "Transportation Research Part A: Policy and Practice",
-            "issn": "09658564",
-            "cover_date": "2022-06-01",
-            "venue": "Journal",
-            "volume": "160",
-            "issue": "",
-            "page_range": "101-113",
-            "doi": "10.1016/j.tra.2022.04.005"
-        },
-        {
             "title": "The case for negotiated contracts under the transition to a green bus fleet",
             "eid": "2-s2.0-85118339617",
             "authors": [
@@ -11643,6 +11643,42 @@
             "doi": "10.1080/13504620220128257"
         },
         {
+            "title": "Transport and logistics challenges for China: Drivers of growth, and bottlenecks constraining development",
+            "eid": "2-s2.0-84945573350",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "35728022300",
+                    "name": "Zhang Z.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7404390899",
+                    "name": "Rose J.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "Road and Transport Research",
+            "issn": "10375783",
+            "cover_date": "2015-06-01",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "2",
+            "page_range": "32-41",
+            "doi": ""
+        },
+        {
             "title": "Accommodating perceptual conditioning in the valuation of expected travel time savings for cars and public transport",
             "eid": "2-s2.0-84870300063",
             "authors": [
@@ -11735,6 +11771,63 @@
             "issue": "2",
             "page_range": "131-145",
             "doi": "10.1007/s11116-009-9188-x"
+        },
+        {
+            "title": "The ideal contract roundtable",
+            "eid": "2-s2.0-52949085407",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.",
+                    "affiliation_id": [
+                        "60012070"
+                    ]
+                },
+                {
+                    "scopus_id": "6602139195",
+                    "name": "Gwilliam K.",
+                    "affiliation_id": [
+                        "60012070"
+                    ]
+                },
+                {
+                    "scopus_id": "25031416000",
+                    "name": "Burton M.",
+                    "affiliation_id": [
+                        "106306743"
+                    ]
+                },
+                {
+                    "scopus_id": "57660937600",
+                    "name": "Smith N.",
+                    "affiliation_id": [
+                        "106306872"
+                    ]
+                },
+                {
+                    "scopus_id": "24436466800",
+                    "name": "Van de Velde D.",
+                    "affiliation_id": [
+                        "60006288"
+                    ]
+                },
+                {
+                    "scopus_id": "6602428222",
+                    "name": "Fridstrom L.",
+                    "affiliation_id": [
+                        "60016963"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "Research in Transportation Economics",
+            "issn": "07398859",
+            "cover_date": "2008-01-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "1",
+            "page_range": "188-194",
+            "doi": "10.1016/j.retrec.2008.05.016"
         },
         {
             "title": "Extending stated choice analysis to recognise agent-specific attribute endogeneity in bilateral group negotiation and choice: A think piece",
@@ -11926,42 +12019,6 @@
             "doi": "10.1016/j.tra.2016.03.016"
         },
         {
-            "title": "Transport and logistics challenges for China: Drivers of growth, and bottlenecks constraining development",
-            "eid": "2-s2.0-84945573350",
-            "authors": [
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "35728022300",
-                    "name": "Zhang Z.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7404390899",
-                    "name": "Rose J.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                }
-            ],
-            "citations": 8,
-            "publication_name": "Road and Transport Research",
-            "issn": "10375783",
-            "cover_date": "2015-06-01",
-            "venue": "Journal",
-            "volume": "24",
-            "issue": "2",
-            "page_range": "32-41",
-            "doi": ""
-        },
-        {
             "title": "Bus Rapid Transit versus Heavy Rail in suburban Sydney - Comparing successive iterations of a proposed heavy rail line project to the pre-existing BRT network",
             "eid": "2-s2.0-84919875722",
             "authors": [
@@ -12025,63 +12082,6 @@
             "issue": "33",
             "page_range": "42-50",
             "doi": "10.1111/j.1835-2561.2004.tb00228.x"
-        },
-        {
-            "title": "The ideal contract roundtable",
-            "eid": "2-s2.0-52949085407",
-            "authors": [
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.",
-                    "affiliation_id": [
-                        "60012070"
-                    ]
-                },
-                {
-                    "scopus_id": "6602139195",
-                    "name": "Gwilliam K.",
-                    "affiliation_id": [
-                        "60012070"
-                    ]
-                },
-                {
-                    "scopus_id": "25031416000",
-                    "name": "Burton M.",
-                    "affiliation_id": [
-                        "106306743"
-                    ]
-                },
-                {
-                    "scopus_id": "57660937600",
-                    "name": "Smith N.",
-                    "affiliation_id": [
-                        "106306872"
-                    ]
-                },
-                {
-                    "scopus_id": "24436466800",
-                    "name": "Van de Velde D.",
-                    "affiliation_id": [
-                        "60006288"
-                    ]
-                },
-                {
-                    "scopus_id": "6602428222",
-                    "name": "Fridstrom L.",
-                    "affiliation_id": [
-                        "60016963"
-                    ]
-                }
-            ],
-            "citations": 8,
-            "publication_name": "Research in Transportation Economics",
-            "issn": "07398859",
-            "cover_date": "2008-01-01",
-            "venue": "Journal",
-            "volume": "22",
-            "issue": "1",
-            "page_range": "188-194",
-            "doi": "10.1016/j.retrec.2008.05.016"
         },
         {
             "title": "Reducing sign violation for VTTS distributions through endogenous recognition of an individual's attribute processing strategy",
@@ -12269,6 +12269,35 @@
             "issue": "",
             "page_range": "119-147",
             "doi": "10.1016/j.trb.2023.02.011"
+        },
+        {
+            "title": "Exploring how worthwhile the things that you do in life are during COVID-19 and links to well-being and working from home",
+            "eid": "2-s2.0-85146638442",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "36561141700",
+                    "name": "Beck M.J.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Transportation Research Part A: Policy and Practice",
+            "issn": "09658564",
+            "cover_date": "2023-02-01",
+            "venue": "Journal",
+            "volume": "168",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.tra.2022.103579"
         },
         {
             "title": "How COVID-19 transformed the landscape of transportation research: an integrative scoping review and roadmap for future research",
@@ -12772,8 +12801,8 @@
             "doi": "10.1016/0038-0121(79)90043-0"
         },
         {
-            "title": "Exploring how worthwhile the things that you do in life are during COVID-19 and links to well-being and working from home",
-            "eid": "2-s2.0-85146638442",
+            "title": "What have we learned about long-term structural change brought about by COVID-19 and working from home?",
+            "eid": "2-s2.0-85165463850",
             "authors": [
                 {
                     "scopus_id": "7006695697",
@@ -12788,17 +12817,24 @@
                     "affiliation_id": [
                         "60212023"
                     ]
+                },
+                {
+                    "scopus_id": "56100484200",
+                    "name": "Nelson J.D.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
                 }
             ],
             "citations": 6,
-            "publication_name": "Transportation Research Part A: Policy and Practice",
-            "issn": "09658564",
-            "cover_date": "2023-02-01",
+            "publication_name": "Transportation Letters",
+            "issn": "19427867",
+            "cover_date": "2023-01-01",
             "venue": "Journal",
-            "volume": "168",
+            "volume": "",
             "issue": "",
             "page_range": null,
-            "doi": "10.1016/j.tra.2022.103579"
+            "doi": "10.1080/19427867.2023.2237269"
         },
         {
             "title": "Time Allocation of Reduced Commuting Time During COVID-19 Under Working from Home",
@@ -12835,6 +12871,49 @@
             "issue": "4",
             "page_range": "399-428",
             "doi": ""
+        },
+        {
+            "title": "Major urban transport expenditure initiatives: Where are the returns likely to be strongest and how significant is social exclusion in making the case",
+            "eid": "2-s2.0-85119176220",
+            "authors": [
+                {
+                    "scopus_id": "26634470900",
+                    "name": "Stanley J.K.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "57218686237",
+                    "name": "Wei E.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "56442884300",
+                    "name": "Liu W.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Research in Transportation Business and Management",
+            "issn": "22105395",
+            "cover_date": "2022-06-01",
+            "venue": "Journal",
+            "volume": "43",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.rtbm.2021.100731"
         },
         {
             "title": "COMPETITIVE TENDERING POLICIES IN THE PUBLIC AND PRIVATE SECTORS",
@@ -13198,42 +13277,6 @@
             "doi": "10.1016/0191-2607(90)90033-3"
         },
         {
-            "title": "What have we learned about long-term structural change brought about by COVID-19 and working from home?",
-            "eid": "2-s2.0-85165463850",
-            "authors": [
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "36561141700",
-                    "name": "Beck M.J.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "56100484200",
-                    "name": "Nelson J.D.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                }
-            ],
-            "citations": 5,
-            "publication_name": "Transportation Letters",
-            "issn": "19427867",
-            "cover_date": "2023-01-01",
-            "venue": "Journal",
-            "volume": "",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1080/19427867.2023.2237269"
-        },
-        {
             "title": "REDUCING CONGESTION AND CROWDING WITH WORKING FROM HOME",
             "eid": "2-s2.0-85139504254",
             "authors": [
@@ -13274,7 +13317,7 @@
             "volume": "17",
             "issue": "",
             "page_range": "235-255",
-            "doi": "10.1108/S2044-994120220000017013 235"
+            "doi": "10.1108/S2044-994120220000017013"
         },
         {
             "title": "Is it time for a new bus contract procurement model under a zero emissions bus setting?",
@@ -13341,49 +13384,6 @@
             "issue": "",
             "page_range": "155-169",
             "doi": "10.1016/j.tbs.2022.03.006"
-        },
-        {
-            "title": "Major urban transport expenditure initiatives: Where are the returns likely to be strongest and how significant is social exclusion in making the case",
-            "eid": "2-s2.0-85119176220",
-            "authors": [
-                {
-                    "scopus_id": "26634470900",
-                    "name": "Stanley J.K.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "57218686237",
-                    "name": "Wei E.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "56442884300",
-                    "name": "Liu W.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                }
-            ],
-            "citations": 5,
-            "publication_name": "Research in Transportation Business and Management",
-            "issn": "22105395",
-            "cover_date": "2022-06-01",
-            "venue": "Journal",
-            "volume": "43",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.rtbm.2021.100731"
         },
         {
             "title": "A commodity-based production and distribution road freight model with application to urban and regional New South Wales",
@@ -13999,6 +13999,44 @@
             "doi": "10.1080/01441649808717022"
         },
         {
+            "title": "How are life satisfaction, concern towards the use of public transport and other underlying attitudes affecting mode choice for commuting trips? a case study in Sydney from 2020 to 2022",
+            "eid": "2-s2.0-85170647145",
+            "authors": [
+                {
+                    "scopus_id": "57192207351",
+                    "name": "Balbontin C.",
+                    "affiliation_id": [
+                        "100613107",
+                        "60029681",
+                        "125028987"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "100613107"
+                    ]
+                },
+                {
+                    "scopus_id": "36561141700",
+                    "name": "Beck M.J.",
+                    "affiliation_id": [
+                        "100613107"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Transportation Research Part A: Policy and Practice",
+            "issn": "09658564",
+            "cover_date": "2023-10-01",
+            "venue": "Journal",
+            "volume": "176",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.tra.2023.103827"
+        },
+        {
             "title": "Kicking the habit is hard: A hybrid choice model investigation into the role of addiction in smoking behavior",
             "eid": "2-s2.0-85094671917",
             "authors": [
@@ -14251,6 +14289,42 @@
             "doi": ""
         },
         {
+            "title": "R-Tresis: developing a transport model system for regional New South Wales",
+            "eid": "2-s2.0-79957525365",
+            "authors": [
+                {
+                    "scopus_id": "7004987123",
+                    "name": "Bain S.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "57202960985",
+                    "name": "Li Z.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Journal of Transport Geography",
+            "issn": "09666923",
+            "cover_date": "2011-07-01",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "4",
+            "page_range": "615-622",
+            "doi": "10.1016/j.jtrangeo.2010.06.018"
+        },
+        {
             "title": "Towards a design of consumer durables",
             "eid": "2-s2.0-49049148350",
             "authors": [
@@ -14395,44 +14469,6 @@
             "doi": "10.1080/01441649608716954"
         },
         {
-            "title": "How are life satisfaction, concern towards the use of public transport and other underlying attitudes affecting mode choice for commuting trips? a case study in Sydney from 2020 to 2022",
-            "eid": "2-s2.0-85170647145",
-            "authors": [
-                {
-                    "scopus_id": "57192207351",
-                    "name": "Balbontin C.",
-                    "affiliation_id": [
-                        "100613107",
-                        "60029681",
-                        "125028987"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "100613107"
-                    ]
-                },
-                {
-                    "scopus_id": "36561141700",
-                    "name": "Beck M.J.",
-                    "affiliation_id": [
-                        "100613107"
-                    ]
-                }
-            ],
-            "citations": 3,
-            "publication_name": "Transportation Research Part A: Policy and Practice",
-            "issn": "09658564",
-            "cover_date": "2023-10-01",
-            "venue": "Journal",
-            "volume": "176",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.tra.2023.103827"
-        },
-        {
             "title": "Relationship between commuting and non-commuting travel activity under the growing incidence of working from home and people\u2019s attitudes towards COVID-19",
             "eid": "2-s2.0-85163706187",
             "authors": [
@@ -14469,6 +14505,42 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1007/s11116-023-10403-2"
+        },
+        {
+            "title": "Accounting for the spatial incidence of working from home in an integrated transport and land model system",
+            "eid": "2-s2.0-85160017009",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "57218686237",
+                    "name": "Wei E.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "56442884300",
+                    "name": "Liu W.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Transportation Research Part A: Policy and Practice",
+            "issn": "09658564",
+            "cover_date": "2023-07-01",
+            "venue": "Journal",
+            "volume": "173",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.tra.2023.103703"
         },
         {
             "title": "Working from home 22 months on from the beginning of COVID-19: What have we learned for the future provision of transport services?",
@@ -14777,42 +14849,6 @@
             "issue": "1",
             "page_range": "14-22",
             "doi": "10.1179/1942787513Y.0000000007"
-        },
-        {
-            "title": "R-Tresis: developing a transport model system for regional New South Wales",
-            "eid": "2-s2.0-79957525365",
-            "authors": [
-                {
-                    "scopus_id": "7004987123",
-                    "name": "Bain S.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "57202960985",
-                    "name": "Li Z.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 3,
-            "publication_name": "Journal of Transport Geography",
-            "issn": "09666923",
-            "cover_date": "2011-07-01",
-            "venue": "Journal",
-            "volume": "19",
-            "issue": "4",
-            "page_range": "615-622",
-            "doi": "10.1016/j.jtrangeo.2010.06.018"
         },
         {
             "title": "The willingness-to-accept in time compensation for turning off the idling engine of motorcycles at red lights in Taiwan: A short note",
@@ -15192,9 +15228,23 @@
             "doi": "10.1016/j.tra.2024.103980"
         },
         {
-            "title": "Accounting for the spatial incidence of working from home in an integrated transport and land model system",
-            "eid": "2-s2.0-85160017009",
+            "title": "Effects of proactive and reactive health control measures on public transport preferences of passengers \u2013 A stated preference study during the COVID-19 pandemic",
+            "eid": "2-s2.0-85179009240",
             "authors": [
+                {
+                    "scopus_id": "57211515071",
+                    "name": "Chen T.",
+                    "affiliation_id": [
+                        "60032144"
+                    ]
+                },
+                {
+                    "scopus_id": "35264384400",
+                    "name": "Fu X.",
+                    "affiliation_id": [
+                        "60008928"
+                    ]
+                },
                 {
                     "scopus_id": "7006695697",
                     "name": "Hensher D.A.",
@@ -15203,29 +15253,29 @@
                     ]
                 },
                 {
-                    "scopus_id": "57218686237",
-                    "name": "Wei E.",
+                    "scopus_id": "26643300400",
+                    "name": "Li Z.C.",
                     "affiliation_id": [
-                        "60212023"
+                        "60025761"
                     ]
                 },
                 {
-                    "scopus_id": "56442884300",
-                    "name": "Liu W.",
+                    "scopus_id": "8412831200",
+                    "name": "Sze N.N.",
                     "affiliation_id": [
-                        "60212023"
+                        "60008928"
                     ]
                 }
             ],
             "citations": 2,
-            "publication_name": "Transportation Research Part A: Policy and Practice",
-            "issn": "09658564",
-            "cover_date": "2023-07-01",
+            "publication_name": "Transport Policy",
+            "issn": "0967070X",
+            "cover_date": "2024-02-01",
             "venue": "Journal",
-            "volume": "173",
+            "volume": "146",
             "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.tra.2023.103703"
+            "page_range": "175-192",
+            "doi": "10.1016/j.tranpol.2023.11.011"
         },
         {
             "title": "The Role of Green Logistics and Transportation in Sustainable Supply Chains",
@@ -16322,56 +16372,6 @@
             "doi": "10.1016/j.tra.2023.103937"
         },
         {
-            "title": "Effects of proactive and reactive health control measures on public transport preferences of passengers \u2013 A stated preference study during the COVID-19 pandemic",
-            "eid": "2-s2.0-85179009240",
-            "authors": [
-                {
-                    "scopus_id": "57211515071",
-                    "name": "Chen T.",
-                    "affiliation_id": [
-                        "60032144"
-                    ]
-                },
-                {
-                    "scopus_id": "35264384400",
-                    "name": "Fu X.",
-                    "affiliation_id": [
-                        "60008928"
-                    ]
-                },
-                {
-                    "scopus_id": "7006695697",
-                    "name": "Hensher D.A.",
-                    "affiliation_id": [
-                        "60212023"
-                    ]
-                },
-                {
-                    "scopus_id": "26643300400",
-                    "name": "Li Z.C.",
-                    "affiliation_id": [
-                        "60025761"
-                    ]
-                },
-                {
-                    "scopus_id": "8412831200",
-                    "name": "Sze N.N.",
-                    "affiliation_id": [
-                        "60008928"
-                    ]
-                }
-            ],
-            "citations": 1,
-            "publication_name": "Transport Policy",
-            "issn": "0967070X",
-            "cover_date": "2024-02-01",
-            "venue": "Journal",
-            "volume": "146",
-            "issue": "",
-            "page_range": "175-192",
-            "doi": "10.1016/j.tranpol.2023.11.011"
-        },
-        {
             "title": "COVID-19 and public transport response and challenges",
             "eid": "2-s2.0-85166010001",
             "authors": [
@@ -17403,6 +17403,42 @@
             "doi": ""
         },
         {
+            "title": "Development, practical challenges, and application of a state-wide transport model system in Australia",
+            "eid": "2-s2.0-85197207152",
+            "authors": [
+                {
+                    "scopus_id": "7006695697",
+                    "name": "Hensher D.A.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "56640319700",
+                    "name": "Ho C.Q.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                },
+                {
+                    "scopus_id": "57218686237",
+                    "name": "Wei E.",
+                    "affiliation_id": [
+                        "60212023"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Transportation Planning and Technology",
+            "issn": "03081060",
+            "cover_date": "2024-01-01",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1080/03081060.2024.2367757"
+        },
+        {
             "title": "Parking preferences of tourists in Sun Moon Lake scenic area",
             "eid": "2-s2.0-85196479021",
             "authors": [
@@ -17484,9 +17520,9 @@
             "issn": "03081060",
             "cover_date": "2024-01-01",
             "venue": "Journal",
-            "volume": "",
-            "issue": "",
-            "page_range": null,
+            "volume": "47",
+            "issue": "5",
+            "page_range": "624-627",
             "doi": "10.1080/03081060.2024.2356619"
         },
         {
@@ -19320,11 +19356,11 @@
     "affiliation_id": "60212023",
     "city": "Sydney",
     "country": "Australia",
-    "document_count": 580,
+    "document_count": 581,
     "subject_area": [
         {
             "@abbrev": "SOCI",
-            "@frequency": "627",
+            "@frequency": "629",
             "$": "Social Sciences (all)"
         },
         {
@@ -19338,6 +19374,5 @@
             "$": "Business, Management and Accounting (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:46:16",
-    "c-score": null
+    "date fetched": "2024-07-12 20:45:16"
 }

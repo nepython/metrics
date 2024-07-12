@@ -705,7 +705,7 @@
                     ]
                 }
             ],
-            "citations": 9335,
+            "citations": 9344,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -1420,7 +1420,7 @@
                     ]
                 }
             ],
-            "citations": 6900,
+            "citations": 6905,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-12-01",
@@ -2134,7 +2134,7 @@
                     ]
                 }
             ],
-            "citations": 6228,
+            "citations": 6234,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -2866,7 +2866,7 @@
                     ]
                 }
             ],
-            "citations": 5480,
+            "citations": 5490,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -3594,7 +3594,7 @@
                     ]
                 }
             ],
-            "citations": 4892,
+            "citations": 4907,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -4337,7 +4337,7 @@
                     ]
                 }
             ],
-            "citations": 3417,
+            "citations": 3420,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -5079,7 +5079,7 @@
                     ]
                 }
             ],
-            "citations": 2087,
+            "citations": 2093,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2018-09-22",
@@ -5817,7 +5817,7 @@
                     ]
                 }
             ],
-            "citations": 1671,
+            "citations": 1674,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -6535,7 +6535,7 @@
                     ]
                 }
             ],
-            "citations": 1005,
+            "citations": 1007,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -6897,7 +6897,7 @@
                     ]
                 }
             ],
-            "citations": 88,
+            "citations": 89,
             "publication_name": "Addictive Behaviors",
             "issn": "03064603",
             "cover_date": "2010-08-01",
@@ -7828,7 +7828,7 @@
                     ]
                 }
             ],
-            "citations": 13,
+            "citations": 15,
             "publication_name": "BMC Public Health",
             "issn": "",
             "cover_date": "2021-12-01",
@@ -7993,59 +7993,6 @@
             "doi": "10.1016/j.comppsych.2019.06.002"
         },
         {
-            "title": "The relationship between illicit amphetamine use and psychiatric symptom profiles in schizophrenia and affective psychoses",
-            "eid": "2-s2.0-85045578130",
-            "authors": [
-                {
-                    "scopus_id": "56845555200",
-                    "name": "Voce A.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "6602587507",
-                    "name": "McKetin R.",
-                    "affiliation_id": [
-                        "60019694",
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "55682654356",
-                    "name": "Burns R.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "16149153500",
-                    "name": "Castle D.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57205464614",
-                    "name": "Calabria B.",
-                    "affiliation_id": [
-                        "60109564",
-                        "60075989"
-                    ]
-                }
-            ],
-            "citations": 9,
-            "publication_name": "Psychiatry Research",
-            "issn": "01651781",
-            "cover_date": "2018-07-01",
-            "venue": "Journal",
-            "volume": "265",
-            "issue": "",
-            "page_range": "19-24",
-            "doi": "10.1016/j.psychres.2018.04.015"
-        },
-        {
             "title": "Developing Aboriginal and Torres Strait Islander cultural indicators: an overview from Mayi Kuwayu, the National Study of Aboriginal and Torres Strait Islander Wellbeing",
             "eid": "2-s2.0-85135990316",
             "authors": [
@@ -8117,7 +8064,7 @@
                     ]
                 }
             ],
-            "citations": 8,
+            "citations": 9,
             "publication_name": "International Journal for Equity in Health",
             "issn": "",
             "cover_date": "2022-12-01",
@@ -8126,6 +8073,59 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1186/s12939-022-01710-8"
+        },
+        {
+            "title": "The relationship between illicit amphetamine use and psychiatric symptom profiles in schizophrenia and affective psychoses",
+            "eid": "2-s2.0-85045578130",
+            "authors": [
+                {
+                    "scopus_id": "56845555200",
+                    "name": "Voce A.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6602587507",
+                    "name": "McKetin R.",
+                    "affiliation_id": [
+                        "60019694",
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "55682654356",
+                    "name": "Burns R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "16149153500",
+                    "name": "Castle D.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57205464614",
+                    "name": "Calabria B.",
+                    "affiliation_id": [
+                        "60109564",
+                        "60075989"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "Psychiatry Research",
+            "issn": "01651781",
+            "cover_date": "2018-07-01",
+            "venue": "Journal",
+            "volume": "265",
+            "issue": "",
+            "page_range": "19-24",
+            "doi": "10.1016/j.psychres.2018.04.015"
         },
         {
             "title": "Reducing drug and alcohol use and improving well-being for Indigenous and non-Indigenous Australians using the Community Reinforcement Approach: A feasibility and acceptability study",
@@ -8941,7 +8941,7 @@
     "subject_area": [
         {
             "@abbrev": "MEDI",
-            "@frequency": "83",
+            "@frequency": "84",
             "$": "Medicine (all)"
         },
         {
@@ -8955,6 +8955,5 @@
             "$": "Social Sciences (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:41:25",
-    "c-score": null
+    "date fetched": "2024-07-12 18:57:21"
 }

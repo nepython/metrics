@@ -29,7 +29,7 @@
                     ]
                 }
             ],
-            "citations": 5944,
+            "citations": 5950,
             "publication_name": "Journal of Econometrics",
             "issn": "03044076",
             "cover_date": "1977-01-01",
@@ -72,7 +72,7 @@
                     ]
                 }
             ],
-            "citations": 2035,
+            "citations": 2038,
             "publication_name": "Journal of Econometrics",
             "issn": "03044076",
             "cover_date": "1982-01-01",
@@ -144,7 +144,7 @@
                     ]
                 }
             ],
-            "citations": 757,
+            "citations": 759,
             "publication_name": "Journal of Economic Theory",
             "issn": "00220531",
             "cover_date": "1978-01-01",
@@ -187,7 +187,7 @@
                     ]
                 }
             ],
-            "citations": 628,
+            "citations": 629,
             "publication_name": "Journal of Productivity Analysis",
             "issn": "0895562X",
             "cover_date": "2002-12-01",
@@ -216,7 +216,7 @@
                     ]
                 }
             ],
-            "citations": 604,
+            "citations": 605,
             "publication_name": "Journal of Econometrics",
             "issn": "03044076",
             "cover_date": "1990-01-01",
@@ -245,7 +245,7 @@
                     ]
                 }
             ],
-            "citations": 550,
+            "citations": 551,
             "publication_name": "Economics Letters",
             "issn": "01651765",
             "cover_date": "2005-08-01",
@@ -353,7 +353,7 @@
                     ]
                 }
             ],
-            "citations": 479,
+            "citations": 480,
             "publication_name": "European Journal of Operational Research",
             "issn": "03772217",
             "cover_date": "2000-03-01",
@@ -389,7 +389,7 @@
                     ]
                 }
             ],
-            "citations": 431,
+            "citations": 433,
             "publication_name": "European Journal of Operational Research",
             "issn": "03772217",
             "cover_date": "1997-04-16",
@@ -425,7 +425,7 @@
                     ]
                 }
             ],
-            "citations": 348,
+            "citations": 349,
             "publication_name": "European Journal of Operational Research",
             "issn": "03772217",
             "cover_date": "1995-12-21",
@@ -522,7 +522,7 @@
                     ]
                 }
             ],
-            "citations": 280,
+            "citations": 282,
             "publication_name": "Managerial and Decision Economics",
             "issn": "01436570",
             "cover_date": "1993-01-01",
@@ -609,7 +609,7 @@
                     ]
                 }
             ],
-            "citations": 242,
+            "citations": 243,
             "publication_name": "European Journal of Operational Research",
             "issn": "03772217",
             "cover_date": "1999-10-01",
@@ -724,7 +724,7 @@
                     ]
                 }
             ],
-            "citations": 176,
+            "citations": 177,
             "publication_name": "Journal of Banking and Finance",
             "issn": "03784266",
             "cover_date": "1993-01-01",
@@ -958,7 +958,7 @@
                     ]
                 }
             ],
-            "citations": 111,
+            "citations": 112,
             "publication_name": "Socio-Economic Planning Sciences",
             "issn": "00380121",
             "cover_date": "2011-03-01",
@@ -1176,6 +1176,28 @@
             "doi": "10.1007/BF02574810"
         },
         {
+            "title": "Measuring the macroeconomic performance of the Taiwanese economy",
+            "eid": "2-s2.0-0040404059",
+            "authors": [
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Knox Lovell C.A.",
+                    "affiliation_id": [
+                        "60134793"
+                    ]
+                }
+            ],
+            "citations": 86,
+            "publication_name": "International Journal of Production Economics",
+            "issn": "09255273",
+            "cover_date": "1995-01-01",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "1-2",
+            "page_range": "165-178",
+            "doi": "10.1016/0925-5273(94)00067-K"
+        },
+        {
             "title": "Scale economies and inefficiency of U.S. dairy farms",
             "eid": "2-s2.0-67049116267",
             "authors": [
@@ -1204,28 +1226,6 @@
             "issue": "3",
             "page_range": "777-794",
             "doi": "10.1111/j.1467-8276.2009.01269.x"
-        },
-        {
-            "title": "Measuring the macroeconomic performance of the Taiwanese economy",
-            "eid": "2-s2.0-0040404059",
-            "authors": [
-                {
-                    "scopus_id": "7102652654",
-                    "name": "Knox Lovell C.A.",
-                    "affiliation_id": [
-                        "60134793"
-                    ]
-                }
-            ],
-            "citations": 85,
-            "publication_name": "International Journal of Production Economics",
-            "issn": "09255273",
-            "cover_date": "1995-01-01",
-            "venue": "Journal",
-            "volume": "39",
-            "issue": "1-2",
-            "page_range": "165-178",
-            "doi": "10.1016/0925-5273(94)00067-K"
         },
         {
             "title": "The impact of mergers on credit union service provision",
@@ -1340,7 +1340,7 @@
                     ]
                 }
             ],
-            "citations": 67,
+            "citations": 68,
             "publication_name": "Journal of Productivity Analysis",
             "issn": "0895562X",
             "cover_date": "1996-01-01",
@@ -1383,7 +1383,7 @@
                     ]
                 }
             ],
-            "citations": 63,
+            "citations": 64,
             "publication_name": "Journal of Agricultural and Resource Economics",
             "issn": "10685502",
             "cover_date": "2004-12-01",
@@ -1719,6 +1719,42 @@
             "doi": "10.1007/s00199-006-0169-4"
         },
         {
+            "title": "Defining a new graph inefficiency measure for the proportional directional distance function and introducing a new Malmquist productivity index",
+            "eid": "2-s2.0-85071126867",
+            "authors": [
+                {
+                    "scopus_id": "7201639631",
+                    "name": "Pastor J.T.",
+                    "affiliation_id": [
+                        "60029767"
+                    ]
+                },
+                {
+                    "scopus_id": "7102652654",
+                    "name": "Lovell C.A.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7103110235",
+                    "name": "Aparicio J.",
+                    "affiliation_id": [
+                        "60029767"
+                    ]
+                }
+            ],
+            "citations": 31,
+            "publication_name": "European Journal of Operational Research",
+            "issn": "03772217",
+            "cover_date": "2020-02-16",
+            "venue": "Journal",
+            "volume": "281",
+            "issue": "1",
+            "page_range": "222-230",
+            "doi": "10.1016/j.ejor.2019.08.021"
+        },
+        {
             "title": "World health system performance revisited: The impact of varying the relative importance of health system goals",
             "eid": "2-s2.0-4544354477",
             "authors": [
@@ -1796,42 +1832,6 @@
             "issue": "4",
             "page_range": "375-384",
             "doi": "10.1016/0305-0548(95)00045-3"
-        },
-        {
-            "title": "Defining a new graph inefficiency measure for the proportional directional distance function and introducing a new Malmquist productivity index",
-            "eid": "2-s2.0-85071126867",
-            "authors": [
-                {
-                    "scopus_id": "7201639631",
-                    "name": "Pastor J.T.",
-                    "affiliation_id": [
-                        "60029767"
-                    ]
-                },
-                {
-                    "scopus_id": "7102652654",
-                    "name": "Lovell C.A.K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7103110235",
-                    "name": "Aparicio J.",
-                    "affiliation_id": [
-                        "60029767"
-                    ]
-                }
-            ],
-            "citations": 30,
-            "publication_name": "European Journal of Operational Research",
-            "issn": "03772217",
-            "cover_date": "2020-02-16",
-            "venue": "Journal",
-            "volume": "281",
-            "issue": "1",
-            "page_range": "222-230",
-            "doi": "10.1016/j.ejor.2019.08.021"
         },
         {
             "title": "An indirect approach to the evaluation of producer performance",
@@ -3728,6 +3728,5 @@
             "$": "Business, Management and Accounting (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:24:49",
-    "c-score": null
+    "date fetched": "2024-07-12 20:13:13"
 }

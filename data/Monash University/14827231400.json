@@ -28,7 +28,7 @@
                     ]
                 }
             ],
-            "citations": 7294,
+            "citations": 7301,
             "publication_name": "Journal of High Energy Physics",
             "issn": "11266708",
             "cover_date": "2006-12-01",
@@ -53,7 +53,7 @@
                     "scopus_id": "6603753417",
                     "name": "Agashe K.",
                     "affiliation_id": [
-                        "60020304"
+                        "60151558"
                     ]
                 },
                 {
@@ -754,7 +754,7 @@
                     ]
                 }
             ],
-            "citations": 6865,
+            "citations": 6867,
             "publication_name": "Chinese Physics C",
             "issn": "16741137",
             "cover_date": "2014-08-01",
@@ -823,7 +823,7 @@
                     "scopus_id": "6603753417",
                     "name": "Agashe K.",
                     "affiliation_id": [
-                        "60020304"
+                        "60151558"
                     ]
                 },
                 {
@@ -1485,7 +1485,7 @@
                     ]
                 }
             ],
-            "citations": 6150,
+            "citations": 6151,
             "publication_name": "Physical Review D",
             "issn": "24700010",
             "cover_date": "2018-08-01",
@@ -1510,7 +1510,7 @@
                     "scopus_id": "6603753417",
                     "name": "Agashe K.",
                     "affiliation_id": [
-                        "60020304"
+                        "60151558"
                     ]
                 },
                 {
@@ -2214,7 +2214,7 @@
                     ]
                 }
             ],
-            "citations": 5099,
+            "citations": 5101,
             "publication_name": "Chinese Physics C",
             "issn": "16741137",
             "cover_date": "2016-10-01",
@@ -2252,7 +2252,7 @@
                     ]
                 }
             ],
-            "citations": 4027,
+            "citations": 4036,
             "publication_name": "Computer Physics Communications",
             "issn": "00104655",
             "cover_date": "2008-06-01",
@@ -2355,7 +2355,7 @@
                     "scopus_id": "6603753417",
                     "name": "Agashe K.",
                     "affiliation_id": [
-                        "60020304"
+                        "60151558"
                     ]
                 },
                 {
@@ -2987,7 +2987,7 @@
                     ]
                 }
             ],
-            "citations": 3701,
+            "citations": 3710,
             "publication_name": "Progress of Theoretical and Experimental Physics",
             "issn": "",
             "cover_date": "2020-01-01",
@@ -3076,7 +3076,7 @@
                     ]
                 }
             ],
-            "citations": 3423,
+            "citations": 3440,
             "publication_name": "Computer Physics Communications",
             "issn": "00104655",
             "cover_date": "2015-01-01",
@@ -3136,7 +3136,7 @@
                     "scopus_id": "6603753417",
                     "name": "Agashe K.",
                     "affiliation_id": [
-                        "60020304"
+                        "60151558"
                     ]
                 },
                 {
@@ -3469,7 +3469,7 @@
                     "scopus_id": "57207892988",
                     "name": "Eno S.C.",
                     "affiliation_id": [
-                        "60020304"
+                        "60151558"
                     ]
                 },
                 {
@@ -3808,7 +3808,7 @@
                     ]
                 }
             ],
-            "citations": 2336,
+            "citations": 2357,
             "publication_name": "Progress of Theoretical and Experimental Physics",
             "issn": "",
             "cover_date": "2022-08-01",
@@ -3867,7 +3867,7 @@
                     ]
                 }
             ],
-            "citations": 695,
+            "citations": 697,
             "publication_name": "European Physical Journal C",
             "issn": "14346044",
             "cover_date": "2014-08-01",
@@ -6069,7 +6069,7 @@
                     ]
                 }
             ],
-            "citations": 477,
+            "citations": 478,
             "publication_name": "European Physical Journal: Special Topics",
             "issn": "19516355",
             "cover_date": "2019-07-01",
@@ -6370,7 +6370,7 @@
                     ]
                 }
             ],
-            "citations": 341,
+            "citations": 342,
             "publication_name": "Physics Reports",
             "issn": "03701573",
             "cover_date": "2011-07-01",
@@ -6629,7 +6629,7 @@
                     ]
                 }
             ],
-            "citations": 330,
+            "citations": 331,
             "publication_name": "Computer Physics Communications",
             "issn": "00104655",
             "cover_date": "2009-01-01",
@@ -7728,7 +7728,7 @@
                     ]
                 }
             ],
-            "citations": 188,
+            "citations": 189,
             "publication_name": "Journal of High Energy Physics",
             "issn": "",
             "cover_date": "2015-08-07",
@@ -9680,7 +9680,7 @@
                     ]
                 }
             ],
-            "citations": 64,
+            "citations": 65,
             "publication_name": "Physical Review D",
             "issn": "24700010",
             "cover_date": "2016-10-03",
@@ -10037,6 +10037,35 @@
             "doi": "10.1016/j.cpc.2013.10.020"
         },
         {
+            "title": "A framework for second-order parton showers",
+            "eid": "2-s2.0-85025109497",
+            "authors": [
+                {
+                    "scopus_id": "55537756300",
+                    "name": "Li H.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "14827231400",
+                    "name": "Skands P.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 52,
+            "publication_name": "Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics",
+            "issn": "03702693",
+            "cover_date": "2017-08-10",
+            "venue": "Journal",
+            "volume": "771",
+            "issue": "",
+            "page_range": "59-66",
+            "doi": "10.1016/j.physletb.2017.05.011"
+        },
+        {
             "title": "Antenna showers with one-loop matrix elements",
             "eid": "2-s2.0-84892735776",
             "authors": [
@@ -10073,35 +10102,6 @@
             "issue": "10",
             "page_range": null,
             "doi": "10.1007/Jhep10(2013)127"
-        },
-        {
-            "title": "A framework for second-order parton showers",
-            "eid": "2-s2.0-85025109497",
-            "authors": [
-                {
-                    "scopus_id": "55537756300",
-                    "name": "Li H.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "14827231400",
-                    "name": "Skands P.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                }
-            ],
-            "citations": 51,
-            "publication_name": "Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics",
-            "issn": "03702693",
-            "cover_date": "2017-08-10",
-            "venue": "Journal",
-            "volume": "771",
-            "issue": "",
-            "page_range": "59-66",
-            "doi": "10.1016/j.physletb.2017.05.011"
         },
         {
             "title": "VINCIA for hadron colliders",
@@ -11183,7 +11183,7 @@
                     "scopus_id": "55444710200",
                     "name": "Varnes E.",
                     "affiliation_id": [
-                        "60010065"
+                        "60150063"
                     ]
                 },
                 {
@@ -11263,7 +11263,7 @@
                     "name": "Mijovic L.",
                     "affiliation_id": [
                         "60030635",
-                        "60019615"
+                        "60106133"
                     ]
                 },
                 {
@@ -11786,43 +11786,6 @@
             "doi": "10.1016/j.cpc.2009.08.008"
         },
         {
-            "title": "Helicity antenna showers for hadron colliders",
-            "eid": "2-s2.0-85032583661",
-            "authors": [
-                {
-                    "scopus_id": "56166149300",
-                    "name": "Fischer N.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "57196298675",
-                    "name": "Lifson A.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60025858"
-                    ]
-                },
-                {
-                    "scopus_id": "14827231400",
-                    "name": "Skands P.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                }
-            ],
-            "citations": 14,
-            "publication_name": "European Physical Journal C",
-            "issn": "14346044",
-            "cover_date": "2017-10-01",
-            "venue": "Journal",
-            "volume": "77",
-            "issue": "10",
-            "page_range": null,
-            "doi": "10.1140/epjc/s10052-017-5306-7"
-        },
-        {
             "title": "Towards NNLO+PS matching with sector showers",
             "eid": "2-s2.0-85144348021",
             "authors": [
@@ -11863,7 +11826,7 @@
                     ]
                 }
             ],
-            "citations": 13,
+            "citations": 14,
             "publication_name": "Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics",
             "issn": "03702693",
             "cover_date": "2023-01-10",
@@ -11872,6 +11835,43 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1016/j.physletb.2022.137614"
+        },
+        {
+            "title": "Helicity antenna showers for hadron colliders",
+            "eid": "2-s2.0-85032583661",
+            "authors": [
+                {
+                    "scopus_id": "56166149300",
+                    "name": "Fischer N.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57196298675",
+                    "name": "Lifson A.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60025858"
+                    ]
+                },
+                {
+                    "scopus_id": "14827231400",
+                    "name": "Skands P.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 14,
+            "publication_name": "European Physical Journal C",
+            "issn": "14346044",
+            "cover_date": "2017-10-01",
+            "venue": "Journal",
+            "volume": "77",
+            "issue": "10",
+            "page_range": null,
+            "doi": "10.1140/epjc/s10052-017-5306-7"
         },
         {
             "title": "BOINC service for volunteer cloud computing",
@@ -15449,6 +15449,5 @@
             "$": "Multidisciplinary"
         }
     ],
-    "date fetched": "2024-06-30 09:02:01",
-    "c-score": null
+    "date fetched": "2024-07-12 19:30:49"
 }

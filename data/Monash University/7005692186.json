@@ -227,7 +227,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 1795,
+            "citations": 1798,
             "publication_name": "Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation: Special Report of the Intergovernmental Panel on Climate Change",
             "issn": "",
             "cover_date": "2012-01-01",
@@ -363,7 +363,7 @@
                     ]
                 }
             ],
-            "citations": 936,
+            "citations": 939,
             "publication_name": "Hydrological Sciences Journal",
             "issn": "02626667",
             "cover_date": "2014-01-01",
@@ -724,7 +724,7 @@
                     ]
                 }
             ],
-            "citations": 586,
+            "citations": 587,
             "publication_name": "International Journal of Climatology",
             "issn": "08998418",
             "cover_date": "2001-03-15",
@@ -789,7 +789,7 @@
                     ]
                 }
             ],
-            "citations": 502,
+            "citations": 504,
             "publication_name": "Climatic Change",
             "issn": "01650009",
             "cover_date": "1999-01-01",
@@ -925,7 +925,7 @@
                     ]
                 }
             ],
-            "citations": 256,
+            "citations": 258,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "1997-05-29",
@@ -1053,7 +1053,7 @@
                     ]
                 }
             ],
-            "citations": 246,
+            "citations": 247,
             "publication_name": "Atmospheric Environment",
             "issn": "13522310",
             "cover_date": "2011-02-01",
@@ -1331,7 +1331,7 @@
                     ]
                 }
             ],
-            "citations": 190,
+            "citations": 193,
             "publication_name": "Geophysical Research Letters",
             "issn": "00948276",
             "cover_date": "2012-05-28",
@@ -1367,7 +1367,7 @@
                     ]
                 }
             ],
-            "citations": 184,
+            "citations": 185,
             "publication_name": "Climate Dynamics",
             "issn": "09307575",
             "cover_date": "2006-06-01",
@@ -2300,7 +2300,7 @@
                     ]
                 }
             ],
-            "citations": 78,
+            "citations": 79,
             "publication_name": "Crop and Pasture Science",
             "issn": "18360947",
             "cover_date": "2016-01-01",
@@ -2804,42 +2804,6 @@
             "doi": "10.1002/joc.4109"
         },
         {
-            "title": "The effects of summer temperature, age and socioeconomic circumstance on Acute Myocardial Infarction admissions in Melbourne, Australia",
-            "eid": "2-s2.0-77955357684",
-            "authors": [
-                {
-                    "scopus_id": "23019258000",
-                    "name": "Loughnan M.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7005692186",
-                    "name": "Nicholls N.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "6701744876",
-                    "name": "Tapper N.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                }
-            ],
-            "citations": 57,
-            "publication_name": "International Journal of Health Geographics",
-            "issn": "",
-            "cover_date": "2010-08-11",
-            "venue": "Journal",
-            "volume": "9",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1186/1476-072X-9-41"
-        },
-        {
             "title": "Long-term climate monitoring and extreme events",
             "eid": "2-s2.0-0029510870",
             "authors": [
@@ -2851,7 +2815,7 @@
                     ]
                 }
             ],
-            "citations": 57,
+            "citations": 58,
             "publication_name": "Climatic Change",
             "issn": "01650009",
             "cover_date": "1995-12-01",
@@ -2908,7 +2872,7 @@
                     ]
                 }
             ],
-            "citations": 56,
+            "citations": 57,
             "publication_name": "Atmospheric Environment",
             "issn": "13522310",
             "cover_date": "2011-01-01",
@@ -2917,6 +2881,42 @@
             "issue": "1",
             "page_range": "128-136",
             "doi": "10.1016/j.atmosenv.2010.09.032"
+        },
+        {
+            "title": "The effects of summer temperature, age and socioeconomic circumstance on Acute Myocardial Infarction admissions in Melbourne, Australia",
+            "eid": "2-s2.0-77955357684",
+            "authors": [
+                {
+                    "scopus_id": "23019258000",
+                    "name": "Loughnan M.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7005692186",
+                    "name": "Nicholls N.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "6701744876",
+                    "name": "Tapper N.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 57,
+            "publication_name": "International Journal of Health Geographics",
+            "issn": "",
+            "cover_date": "2010-08-11",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1186/1476-072X-9-41"
         },
         {
             "title": "Development of a predictive model for Ross River virus disease in Brisbane, Australia",
@@ -3320,7 +3320,7 @@
                     ]
                 }
             ],
-            "citations": 48,
+            "citations": 49,
             "publication_name": "Geophysical Research Letters",
             "issn": "00948276",
             "cover_date": "2005-08-28",
@@ -3381,6 +3381,53 @@
             "doi": "10.1071/WF06125"
         },
         {
+            "title": "Modes of climate variability and heat waves in Victoria, southeastern Australia",
+            "eid": "2-s2.0-84911164247",
+            "authors": [
+                {
+                    "scopus_id": "55944641400",
+                    "name": "Parker T.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "8588658600",
+                    "name": "Berry G.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7007099717",
+                    "name": "Reeder M.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7005692186",
+                    "name": "Nicholls N.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 46,
+            "publication_name": "Geophysical Research Letters",
+            "issn": "00948276",
+            "cover_date": "2014-10-16",
+            "venue": "Journal",
+            "volume": "41",
+            "issue": "19",
+            "page_range": "6926-6934",
+            "doi": "10.1002/2014GL061736"
+        },
+        {
             "title": "Historical thermometer exposures in Australia",
             "eid": "2-s2.0-0030425215",
             "authors": [
@@ -3424,75 +3471,6 @@
             "doi": "10.1002/(SICI)1097-0088(199606)16:6<705::AID-JOC30>3.0.CO;2-S"
         },
         {
-            "title": "Modes of climate variability and heat waves in Victoria, southeastern Australia",
-            "eid": "2-s2.0-84911164247",
-            "authors": [
-                {
-                    "scopus_id": "55944641400",
-                    "name": "Parker T.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "8588658600",
-                    "name": "Berry G.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7007099717",
-                    "name": "Reeder M.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7005692186",
-                    "name": "Nicholls N.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60019578"
-                    ]
-                }
-            ],
-            "citations": 45,
-            "publication_name": "Geophysical Research Letters",
-            "issn": "00948276",
-            "cover_date": "2014-10-16",
-            "venue": "Journal",
-            "volume": "41",
-            "issue": "19",
-            "page_range": "6926-6934",
-            "doi": "10.1002/2014GL061736"
-        },
-        {
-            "title": "More on early ENSOs: evidence from Australian documentary sources",
-            "eid": "2-s2.0-0023808348",
-            "authors": [
-                {
-                    "scopus_id": "7005692186",
-                    "name": "Nicholls N.",
-                    "affiliation_id": [
-                        "60023144"
-                    ]
-                }
-            ],
-            "citations": 45,
-            "publication_name": "Bulletin - American Meteorological Society",
-            "issn": "",
-            "cover_date": "1988-01-01",
-            "venue": "Journal",
-            "volume": "69",
-            "issue": "1",
-            "page_range": "4-6",
-            "doi": "10.1175/1520-0477(1988)069<0004:MOEEEF>2.0.CO;2"
-        },
-        {
             "title": "Atmospheric fronts in current and future climates",
             "eid": "2-s2.0-84912072679",
             "authors": [
@@ -3525,7 +3503,7 @@
                     ]
                 }
             ],
-            "citations": 44,
+            "citations": 45,
             "publication_name": "Geophysical Research Letters",
             "issn": "00948276",
             "cover_date": "2014-11-16",
@@ -3534,6 +3512,28 @@
             "issue": "21",
             "page_range": "7642-7650",
             "doi": "10.1002/2014GL061943"
+        },
+        {
+            "title": "More on early ENSOs: evidence from Australian documentary sources",
+            "eid": "2-s2.0-0023808348",
+            "authors": [
+                {
+                    "scopus_id": "7005692186",
+                    "name": "Nicholls N.",
+                    "affiliation_id": [
+                        "60023144"
+                    ]
+                }
+            ],
+            "citations": 45,
+            "publication_name": "Bulletin - American Meteorological Society",
+            "issn": "",
+            "cover_date": "1988-01-01",
+            "venue": "Journal",
+            "volume": "69",
+            "issue": "1",
+            "page_range": "4-6",
+            "doi": "10.1175/1520-0477(1988)069<0004:MOEEEF>2.0.CO;2"
         },
         {
             "title": "All-India summer monsoon rainfall and sea surface temperatures around northern Australia and Indonesia",
@@ -4043,26 +4043,6 @@
             "doi": "10.1175/1520-0450(1984)023<0143:TSOELR>2.0.CO;2"
         },
         {
-            "title": "Long\u2010range weather forecasting: Value, status, and prospects",
-            "eid": "2-s2.0-0019228129",
-            "authors": [
-                {
-                    "scopus_id": "7005692186",
-                    "name": "Nicholls N.",
-                    "affiliation_id": []
-                }
-            ],
-            "citations": 36,
-            "publication_name": "Reviews of Geophysics",
-            "issn": "87551209",
-            "cover_date": "1980-01-01",
-            "venue": "Journal",
-            "volume": "18",
-            "issue": "4",
-            "page_range": "771-788",
-            "doi": "10.1029/RG018i004p00771"
-        },
-        {
             "title": "A global evaluation of fronts and precipitation in the ACCESS model",
             "eid": "2-s2.0-84882326831",
             "authors": [
@@ -4088,7 +4068,7 @@
                     ]
                 }
             ],
-            "citations": 35,
+            "citations": 37,
             "publication_name": "Australian Meteorological and Oceanographic Journal",
             "issn": "1836716X",
             "cover_date": "2013-01-01",
@@ -4097,6 +4077,26 @@
             "issue": "1",
             "page_range": "191-203",
             "doi": "10.22499/2.6301.012"
+        },
+        {
+            "title": "Long\u2010range weather forecasting: Value, status, and prospects",
+            "eid": "2-s2.0-0019228129",
+            "authors": [
+                {
+                    "scopus_id": "7005692186",
+                    "name": "Nicholls N.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Reviews of Geophysics",
+            "issn": "87551209",
+            "cover_date": "1980-01-01",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "4",
+            "page_range": "771-788",
+            "doi": "10.1029/RG018i004p00771"
         },
         {
             "title": "The relationship between the monsoonal summer rain and dry-season fire activity of northern Australia",
@@ -6559,6 +6559,5 @@
             "$": "Agricultural and Biological Sciences (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:05:52",
-    "c-score": null
+    "date fetched": "2024-07-12 19:34:18"
 }

@@ -57,7 +57,7 @@
                     ]
                 }
             ],
-            "citations": 1921,
+            "citations": 1924,
             "publication_name": "Coordination Chemistry Reviews",
             "issn": "00108545",
             "cover_date": "2005-09-01",
@@ -95,7 +95,7 @@
                     ]
                 }
             ],
-            "citations": 1830,
+            "citations": 1831,
             "publication_name": "Langmuir",
             "issn": "07437463",
             "cover_date": "1996-09-04",
@@ -131,7 +131,7 @@
                     ]
                 }
             ],
-            "citations": 1795,
+            "citations": 1798,
             "publication_name": "Review of Scientific Instruments",
             "issn": "00346748",
             "cover_date": "1999-01-01",
@@ -174,7 +174,7 @@
                     ]
                 }
             ],
-            "citations": 1744,
+            "citations": 1745,
             "publication_name": "Chemical Society Reviews",
             "issn": "03060012",
             "cover_date": "2008-08-15",
@@ -238,7 +238,7 @@
                     ]
                 }
             ],
-            "citations": 1617,
+            "citations": 1618,
             "publication_name": "Physical Review Letters",
             "issn": "00319007",
             "cover_date": "2002-02-18",
@@ -309,7 +309,7 @@
                     ]
                 }
             ],
-            "citations": 1056,
+            "citations": 1057,
             "publication_name": "Chemical Society Reviews",
             "issn": "03060012",
             "cover_date": "2008-08-15",
@@ -951,7 +951,7 @@
                     ]
                 }
             ],
-            "citations": 987,
+            "citations": 992,
             "publication_name": "ACS Nano",
             "issn": "19360851",
             "cover_date": "2017-03-28",
@@ -1178,7 +1178,7 @@
                     ]
                 }
             ],
-            "citations": 581,
+            "citations": 582,
             "publication_name": "Journal of Physical Chemistry B",
             "issn": "15206106",
             "cover_date": "2001-05-03",
@@ -1333,7 +1333,7 @@
                     ]
                 }
             ],
-            "citations": 535,
+            "citations": 537,
             "publication_name": "Nature Nanotechnology",
             "issn": "17483387",
             "cover_date": "2011-01-01",
@@ -1465,7 +1465,7 @@
                     ]
                 }
             ],
-            "citations": 509,
+            "citations": 510,
             "publication_name": "Journal of Physical Chemistry C",
             "issn": "19327447",
             "cover_date": "2009-11-20",
@@ -1630,7 +1630,7 @@
                     ]
                 }
             ],
-            "citations": 444,
+            "citations": 445,
             "publication_name": "Journal of Materials Chemistry",
             "issn": "09599428",
             "cover_date": "2008-04-23",
@@ -1803,7 +1803,7 @@
                     ]
                 }
             ],
-            "citations": 351,
+            "citations": 352,
             "publication_name": "Journal of the American Chemical Society",
             "issn": "00027863",
             "cover_date": "2007-03-14",
@@ -1846,7 +1846,7 @@
                     ]
                 }
             ],
-            "citations": 321,
+            "citations": 322,
             "publication_name": "Journal of Physical Chemistry B",
             "issn": "15206106",
             "cover_date": "2005-08-04",
@@ -1927,7 +1927,7 @@
                     ]
                 }
             ],
-            "citations": 306,
+            "citations": 307,
             "publication_name": "Journal of Applied Physics",
             "issn": "00218979",
             "cover_date": "2000-04-15",
@@ -2715,7 +2715,7 @@
                     ]
                 }
             ],
-            "citations": 231,
+            "citations": 233,
             "publication_name": "Review of Scientific Instruments",
             "issn": "00346748",
             "cover_date": "2012-10-01",
@@ -2908,6 +2908,222 @@
             "issue": "8",
             "page_range": "6636-6648",
             "doi": "10.1021/nn401775e"
+        },
+        {
+            "title": "The Future of Layer-by-Layer Assembly: A Tribute to ACS Nano Associate Editor Helmuth Mohwald",
+            "eid": "2-s2.0-85066411187",
+            "authors": [
+                {
+                    "scopus_id": "57730964900",
+                    "name": "Zhao S.",
+                    "affiliation_id": [
+                        "60028229"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55888056800",
+                    "name": "Dahne L.",
+                    "affiliation_id": [
+                        "60116331"
+                    ]
+                },
+                {
+                    "scopus_id": "7003937786",
+                    "name": "Decher G.",
+                    "affiliation_id": [
+                        "60103368",
+                        "60002414"
+                    ]
+                },
+                {
+                    "scopus_id": "9637217200",
+                    "name": "De Geest B.G.",
+                    "affiliation_id": [
+                        "60033316"
+                    ]
+                },
+                {
+                    "scopus_id": "54683952700",
+                    "name": "Fan J.",
+                    "affiliation_id": [
+                        "60025778"
+                    ]
+                },
+                {
+                    "scopus_id": "36662167800",
+                    "name": "Feliu N.",
+                    "affiliation_id": [
+                        "60028229"
+                    ]
+                },
+                {
+                    "scopus_id": "7007093973",
+                    "name": "Gogotsi Y.",
+                    "affiliation_id": [
+                        "60139971"
+                    ]
+                },
+                {
+                    "scopus_id": "7202553827",
+                    "name": "Hammond P.T.",
+                    "affiliation_id": [
+                        "60140949"
+                    ]
+                },
+                {
+                    "scopus_id": "7004251316",
+                    "name": "Hersam M.C.",
+                    "affiliation_id": [
+                        "60147353"
+                    ]
+                },
+                {
+                    "scopus_id": "6602921939",
+                    "name": "Khademhosseini A.",
+                    "affiliation_id": [
+                        "60153950"
+                    ]
+                },
+                {
+                    "scopus_id": "22135180200",
+                    "name": "Kotov N.",
+                    "affiliation_id": [
+                        "60025778",
+                        "122025849"
+                    ]
+                },
+                {
+                    "scopus_id": "6603690329",
+                    "name": "Leporatti S.",
+                    "affiliation_id": [
+                        "60021199"
+                    ]
+                },
+                {
+                    "scopus_id": "55904685600",
+                    "name": "Li Y.",
+                    "affiliation_id": [
+                        "60103141"
+                    ]
+                },
+                {
+                    "scopus_id": "7004392170",
+                    "name": "Lisdat F.",
+                    "affiliation_id": [
+                        "114456102"
+                    ]
+                },
+                {
+                    "scopus_id": "57195195158",
+                    "name": "Liz-Marzan L.M.",
+                    "affiliation_id": [
+                        "60108641",
+                        "60104285"
+                    ]
+                },
+                {
+                    "scopus_id": "7005106249",
+                    "name": "Moya S.",
+                    "affiliation_id": [
+                        "60108641"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7006264796",
+                    "name": "Rogach A.L.",
+                    "affiliation_id": [
+                        "60013983"
+                    ]
+                },
+                {
+                    "scopus_id": "57169459000",
+                    "name": "Roy S.",
+                    "affiliation_id": [
+                        "60028229"
+                    ]
+                },
+                {
+                    "scopus_id": "7004066676",
+                    "name": "Shchukin D.G.",
+                    "affiliation_id": [
+                        "60020661"
+                    ]
+                },
+                {
+                    "scopus_id": "16239541900",
+                    "name": "Skirtach A.G.",
+                    "affiliation_id": [
+                        "60033316"
+                    ]
+                },
+                {
+                    "scopus_id": "7402243195",
+                    "name": "Stevens M.M.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "7006255547",
+                    "name": "Sukhorukov G.B.",
+                    "affiliation_id": [
+                        "60022109"
+                    ]
+                },
+                {
+                    "scopus_id": "57188839861",
+                    "name": "Weiss P.S.",
+                    "affiliation_id": [
+                        "60153950",
+                        "60153950"
+                    ]
+                },
+                {
+                    "scopus_id": "7102782391",
+                    "name": "Yue Z.",
+                    "affiliation_id": [
+                        "60018038"
+                    ]
+                },
+                {
+                    "scopus_id": "57007483000",
+                    "name": "Zhu D.",
+                    "affiliation_id": [
+                        "60028229"
+                    ]
+                },
+                {
+                    "scopus_id": "6701351363",
+                    "name": "Parak W.J.",
+                    "affiliation_id": [
+                        "60028229",
+                        "60108641"
+                    ]
+                }
+            ],
+            "citations": 211,
+            "publication_name": "ACS Nano",
+            "issn": "19360851",
+            "cover_date": "2019-06-25",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "6",
+            "page_range": "6151-6169",
+            "doi": "10.1021/acsnano.9b03326"
         },
         {
             "title": "The state of nanoparticle-based nanoscience and biotechnology: Progress, promises, and challenges",
@@ -3117,222 +3333,6 @@
             "issue": "",
             "page_range": "2844-2845",
             "doi": "10.1039/b208992k"
-        },
-        {
-            "title": "The Future of Layer-by-Layer Assembly: A Tribute to ACS Nano Associate Editor Helmuth Mohwald",
-            "eid": "2-s2.0-85066411187",
-            "authors": [
-                {
-                    "scopus_id": "57730964900",
-                    "name": "Zhao S.",
-                    "affiliation_id": [
-                        "60028229"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55888056800",
-                    "name": "Dahne L.",
-                    "affiliation_id": [
-                        "60116331"
-                    ]
-                },
-                {
-                    "scopus_id": "7003937786",
-                    "name": "Decher G.",
-                    "affiliation_id": [
-                        "60103368",
-                        "60002414"
-                    ]
-                },
-                {
-                    "scopus_id": "9637217200",
-                    "name": "De Geest B.G.",
-                    "affiliation_id": [
-                        "60033316"
-                    ]
-                },
-                {
-                    "scopus_id": "54683952700",
-                    "name": "Fan J.",
-                    "affiliation_id": [
-                        "60025778"
-                    ]
-                },
-                {
-                    "scopus_id": "36662167800",
-                    "name": "Feliu N.",
-                    "affiliation_id": [
-                        "60028229"
-                    ]
-                },
-                {
-                    "scopus_id": "7007093973",
-                    "name": "Gogotsi Y.",
-                    "affiliation_id": [
-                        "60139971"
-                    ]
-                },
-                {
-                    "scopus_id": "7202553827",
-                    "name": "Hammond P.T.",
-                    "affiliation_id": [
-                        "60140949"
-                    ]
-                },
-                {
-                    "scopus_id": "7004251316",
-                    "name": "Hersam M.C.",
-                    "affiliation_id": [
-                        "60147353"
-                    ]
-                },
-                {
-                    "scopus_id": "6602921939",
-                    "name": "Khademhosseini A.",
-                    "affiliation_id": [
-                        "60153950"
-                    ]
-                },
-                {
-                    "scopus_id": "22135180200",
-                    "name": "Kotov N.",
-                    "affiliation_id": [
-                        "60025778",
-                        "122025849"
-                    ]
-                },
-                {
-                    "scopus_id": "6603690329",
-                    "name": "Leporatti S.",
-                    "affiliation_id": [
-                        "60021199"
-                    ]
-                },
-                {
-                    "scopus_id": "55904685600",
-                    "name": "Li Y.",
-                    "affiliation_id": [
-                        "60103141"
-                    ]
-                },
-                {
-                    "scopus_id": "7004392170",
-                    "name": "Lisdat F.",
-                    "affiliation_id": [
-                        "114456102"
-                    ]
-                },
-                {
-                    "scopus_id": "57195195158",
-                    "name": "Liz-Marzan L.M.",
-                    "affiliation_id": [
-                        "60108641",
-                        "60104285"
-                    ]
-                },
-                {
-                    "scopus_id": "7005106249",
-                    "name": "Moya S.",
-                    "affiliation_id": [
-                        "60108641"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7006264796",
-                    "name": "Rogach A.L.",
-                    "affiliation_id": [
-                        "60013983"
-                    ]
-                },
-                {
-                    "scopus_id": "57169459000",
-                    "name": "Roy S.",
-                    "affiliation_id": [
-                        "60028229"
-                    ]
-                },
-                {
-                    "scopus_id": "7004066676",
-                    "name": "Shchukin D.G.",
-                    "affiliation_id": [
-                        "60020661"
-                    ]
-                },
-                {
-                    "scopus_id": "16239541900",
-                    "name": "Skirtach A.G.",
-                    "affiliation_id": [
-                        "60033316"
-                    ]
-                },
-                {
-                    "scopus_id": "7402243195",
-                    "name": "Stevens M.M.",
-                    "affiliation_id": [
-                        "60015150"
-                    ]
-                },
-                {
-                    "scopus_id": "7006255547",
-                    "name": "Sukhorukov G.B.",
-                    "affiliation_id": [
-                        "60022109"
-                    ]
-                },
-                {
-                    "scopus_id": "57188839861",
-                    "name": "Weiss P.S.",
-                    "affiliation_id": [
-                        "60153950",
-                        "60153950"
-                    ]
-                },
-                {
-                    "scopus_id": "7102782391",
-                    "name": "Yue Z.",
-                    "affiliation_id": [
-                        "60018038"
-                    ]
-                },
-                {
-                    "scopus_id": "57007483000",
-                    "name": "Zhu D.",
-                    "affiliation_id": [
-                        "60028229"
-                    ]
-                },
-                {
-                    "scopus_id": "6701351363",
-                    "name": "Parak W.J.",
-                    "affiliation_id": [
-                        "60028229",
-                        "60108641"
-                    ]
-                }
-            ],
-            "citations": 210,
-            "publication_name": "ACS Nano",
-            "issn": "19360851",
-            "cover_date": "2019-06-25",
-            "venue": "Journal",
-            "volume": "13",
-            "issue": "6",
-            "page_range": "6151-6169",
-            "doi": "10.1021/acsnano.9b03326"
         },
         {
             "title": "Au@SnO<inf>2</inf> core-shell nanocapachors",
@@ -4406,42 +4406,6 @@
             "doi": "10.1016/S1359-0294(00)00050-9"
         },
         {
-            "title": "Laser writing in polarized silver nanorod films",
-            "eid": "2-s2.0-0037019387",
-            "authors": [
-                {
-                    "scopus_id": "35611287600",
-                    "name": "Wilson O.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7404530435",
-                    "name": "Wilson G.J.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 152,
-            "publication_name": "Advanced Materials",
-            "issn": "09359648",
-            "cover_date": "2002-07-04",
-            "venue": "Journal",
-            "volume": "14",
-            "issue": "13-14",
-            "page_range": "1000-1004",
-            "doi": "10.1002/1521-4095(20020704)14:13/14<1000::AID-ADMA1000>3.0.CO;2-H"
-        },
-        {
             "title": "Two Mechanisms Determine Quantum Dot Blinking",
             "eid": "2-s2.0-85045894490",
             "authors": [
@@ -4481,7 +4445,7 @@
                     ]
                 }
             ],
-            "citations": 151,
+            "citations": 153,
             "publication_name": "ACS Nano",
             "issn": "19360851",
             "cover_date": "2018-04-24",
@@ -4490,6 +4454,42 @@
             "issue": "4",
             "page_range": "3397-3405",
             "doi": "10.1021/acsnano.7b09052"
+        },
+        {
+            "title": "Laser writing in polarized silver nanorod films",
+            "eid": "2-s2.0-0037019387",
+            "authors": [
+                {
+                    "scopus_id": "35611287600",
+                    "name": "Wilson O.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7404530435",
+                    "name": "Wilson G.J.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 152,
+            "publication_name": "Advanced Materials",
+            "issn": "09359648",
+            "cover_date": "2002-07-04",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "13-14",
+            "page_range": "1000-1004",
+            "doi": "10.1002/1521-4095(20020704)14:13/14<1000::AID-ADMA1000>3.0.CO;2-H"
         },
         {
             "title": "Drastic surface plasmon mode shifts in gold nanorods due to electron charging",
@@ -4812,7 +4812,7 @@
                     ]
                 }
             ],
-            "citations": 139,
+            "citations": 140,
             "publication_name": "Nature Nanotechnology",
             "issn": "17483387",
             "cover_date": "2015-04-09",
@@ -4821,6 +4821,49 @@
             "issue": "4",
             "page_range": "339-344",
             "doi": "10.1038/nnano.2015.32"
+        },
+        {
+            "title": "Rheological measurements using microcantilevers",
+            "eid": "2-s2.0-0036631036",
+            "authors": [
+                {
+                    "scopus_id": "7006859339",
+                    "name": "Boskovic S.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "7003326013",
+                    "name": "Chon J.W.M.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7004148374",
+                    "name": "Sader J.E.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 136,
+            "publication_name": "Journal of Rheology",
+            "issn": "01486055",
+            "cover_date": "2002-07-01",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "4",
+            "page_range": "891-899",
+            "doi": "10.1122/1.1475978"
         },
         {
             "title": "All-inorganic quantum-dot light-emitting devices formed via low-cost, wet-chemical processing",
@@ -4864,49 +4907,6 @@
             "issue": "1",
             "page_range": "167-172",
             "doi": "10.1039/b905256a"
-        },
-        {
-            "title": "Rheological measurements using microcantilevers",
-            "eid": "2-s2.0-0036631036",
-            "authors": [
-                {
-                    "scopus_id": "7006859339",
-                    "name": "Boskovic S.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "7003326013",
-                    "name": "Chon J.W.M.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7004148374",
-                    "name": "Sader J.E.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 135,
-            "publication_name": "Journal of Rheology",
-            "issn": "01486055",
-            "cover_date": "2002-07-01",
-            "venue": "Journal",
-            "volume": "46",
-            "issue": "4",
-            "page_range": "891-899",
-            "doi": "10.1122/1.1475978"
         },
         {
             "title": "Exciton-trion transitions in single CdSe-CdS core-shell nanocrystals",
@@ -5174,7 +5174,7 @@
                     ]
                 }
             ],
-            "citations": 124,
+            "citations": 125,
             "publication_name": "Physical Chemistry Chemical Physics",
             "issn": "14639076",
             "cover_date": "2009-12-01",
@@ -5234,7 +5234,7 @@
                     ]
                 }
             ],
-            "citations": 122,
+            "citations": 123,
             "publication_name": "Nano Letters",
             "issn": "15306984",
             "cover_date": "2011-01-12",
@@ -5575,6 +5575,35 @@
             "doi": "10.1071/CH07046"
         },
         {
+            "title": "Long-lived nonmetallic silver clusters in aqueous solution: A pulse radiolysis study of their formation",
+            "eid": "2-s2.0-33751553147",
+            "authors": [
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60004017"
+                    ]
+                },
+                {
+                    "scopus_id": "7005227289",
+                    "name": "Henglein A.",
+                    "affiliation_id": [
+                        "60004017"
+                    ]
+                }
+            ],
+            "citations": 117,
+            "publication_name": "Journal of Physical Chemistry\u00ae",
+            "issn": "00223654",
+            "cover_date": "1990-01-01",
+            "venue": "Journal",
+            "volume": "94",
+            "issue": "10",
+            "page_range": "4182-4188",
+            "doi": "10.1021/j100373a056"
+        },
+        {
             "title": "Double-layer interactions between self-assembled monolayers of \u03c9-mercaptoundecanoic acid on gold surfaces",
             "eid": "2-s2.0-0032499605",
             "authors": [
@@ -5602,35 +5631,6 @@
             "issue": "12",
             "page_range": "3303-3311",
             "doi": "10.1021/la971296y"
-        },
-        {
-            "title": "Long-lived nonmetallic silver clusters in aqueous solution: A pulse radiolysis study of their formation",
-            "eid": "2-s2.0-33751553147",
-            "authors": [
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60004017"
-                    ]
-                },
-                {
-                    "scopus_id": "7005227289",
-                    "name": "Henglein A.",
-                    "affiliation_id": [
-                        "60004017"
-                    ]
-                }
-            ],
-            "citations": 116,
-            "publication_name": "Journal of Physical Chemistry\u00ae",
-            "issn": "00223654",
-            "cover_date": "1990-01-01",
-            "venue": "Journal",
-            "volume": "94",
-            "issue": "10",
-            "page_range": "4182-4188",
-            "doi": "10.1021/j100373a056"
         },
         {
             "title": "Optical properties of metal nanoparticle coated silica spheres: A simple effective medium approach",
@@ -5731,7 +5731,7 @@
                     ]
                 }
             ],
-            "citations": 114,
+            "citations": 115,
             "publication_name": "Journal of Physical Chemistry C",
             "issn": "19327447",
             "cover_date": "2018-06-28",
@@ -6199,7 +6199,7 @@
                     ]
                 }
             ],
-            "citations": 105,
+            "citations": 106,
             "publication_name": "Journal of Physical Chemistry Letters",
             "issn": "",
             "cover_date": "2016-10-20",
@@ -7659,14 +7659,14 @@
                     "scopus_id": "22936074200",
                     "name": "Wei X.",
                     "affiliation_id": [
-                        "60103600"
+                        "60118635"
                     ]
                 },
                 {
                     "scopus_id": "53979391300",
                     "name": "Barrow S.",
                     "affiliation_id": [
-                        "60103600"
+                        "60118635"
                     ]
                 },
                 {
@@ -8547,6 +8547,99 @@
             "doi": "10.1021/j100185a006"
         },
         {
+            "title": "Cells as factories for humanized encapsulation",
+            "eid": "2-s2.0-79955883519",
+            "authors": [
+                {
+                    "scopus_id": "7202633781",
+                    "name": "Mao Z.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "57196754407",
+                    "name": "Cartier R.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "38661338700",
+                    "name": "Hohl A.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "56838899500",
+                    "name": "Farinacci M.",
+                    "affiliation_id": [
+                        "60022344"
+                    ]
+                },
+                {
+                    "scopus_id": "30467476700",
+                    "name": "Dorhoi A.",
+                    "affiliation_id": [
+                        "60022344"
+                    ]
+                },
+                {
+                    "scopus_id": "25623558600",
+                    "name": "Nguyen T.",
+                    "affiliation_id": [
+                        "60103600"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60103600"
+                    ]
+                },
+                {
+                    "scopus_id": "7102501676",
+                    "name": "Ralston J.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "9942450300",
+                    "name": "Kaufmann S.",
+                    "affiliation_id": [
+                        "60022344"
+                    ]
+                },
+                {
+                    "scopus_id": "35511455300",
+                    "name": "M\u00f6hwald H.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "55576615800",
+                    "name": "Wang D.",
+                    "affiliation_id": [
+                        "60006384",
+                        "60031846"
+                    ]
+                }
+            ],
+            "citations": 62,
+            "publication_name": "Nano Letters",
+            "issn": "15306984",
+            "cover_date": "2011-05-11",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "5",
+            "page_range": "2152-2156",
+            "doi": "10.1021/nl200801n"
+        },
+        {
             "title": "Colloidal gold-catalyzed reduction of ferrocyanate (III) by borohydride ions: A model system for redox catalysis",
             "eid": "2-s2.0-74249094933",
             "authors": [
@@ -8711,99 +8804,6 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1088/1367-2630/15/7/073042"
-        },
-        {
-            "title": "Cells as factories for humanized encapsulation",
-            "eid": "2-s2.0-79955883519",
-            "authors": [
-                {
-                    "scopus_id": "7202633781",
-                    "name": "Mao Z.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "57196754407",
-                    "name": "Cartier R.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "38661338700",
-                    "name": "Hohl A.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "56838899500",
-                    "name": "Farinacci M.",
-                    "affiliation_id": [
-                        "60022344"
-                    ]
-                },
-                {
-                    "scopus_id": "30467476700",
-                    "name": "Dorhoi A.",
-                    "affiliation_id": [
-                        "60022344"
-                    ]
-                },
-                {
-                    "scopus_id": "25623558600",
-                    "name": "Nguyen T.",
-                    "affiliation_id": [
-                        "60103600"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60103600"
-                    ]
-                },
-                {
-                    "scopus_id": "7102501676",
-                    "name": "Ralston J.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "9942450300",
-                    "name": "Kaufmann S.",
-                    "affiliation_id": [
-                        "60022344"
-                    ]
-                },
-                {
-                    "scopus_id": "35511455300",
-                    "name": "M\u00f6hwald H.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "55576615800",
-                    "name": "Wang D.",
-                    "affiliation_id": [
-                        "60006384",
-                        "60031846"
-                    ]
-                }
-            ],
-            "citations": 61,
-            "publication_name": "Nano Letters",
-            "issn": "15306984",
-            "cover_date": "2011-05-11",
-            "venue": "Journal",
-            "volume": "11",
-            "issue": "5",
-            "page_range": "2152-2156",
-            "doi": "10.1021/nl200801n"
         },
         {
             "title": "Filling schemes at submicron scale: Development of submicron sized plasmonic colour filters",
@@ -9069,7 +9069,7 @@
                     ]
                 }
             ],
-            "citations": 57,
+            "citations": 58,
             "publication_name": "Journal of Physical Chemistry Letters",
             "issn": "",
             "cover_date": "2012-06-21",
@@ -9367,7 +9367,7 @@
                     "scopus_id": "7006142548",
                     "name": "Mulvaney P.",
                     "affiliation_id": [
-                        "60103600"
+                        "60118635"
                     ]
                 },
                 {
@@ -9714,28 +9714,28 @@
                     "scopus_id": "25027639300",
                     "name": "Jaber S.",
                     "affiliation_id": [
-                        "60103600"
+                        "60118635"
                     ]
                 },
                 {
                     "scopus_id": "15071108400",
                     "name": "Karg M.",
                     "affiliation_id": [
-                        "60103600"
+                        "60118635"
                     ]
                 },
                 {
                     "scopus_id": "23988999800",
                     "name": "Morfa A.",
                     "affiliation_id": [
-                        "60103600"
+                        "60118635"
                     ]
                 },
                 {
                     "scopus_id": "7006142548",
                     "name": "Mulvaney P.",
                     "affiliation_id": [
-                        "60103600"
+                        "60118635"
                     ]
                 }
             ],
@@ -10327,6 +10327,70 @@
             "doi": "10.1039/b817668j"
         },
         {
+            "title": "Plasmonic gold-poly(N-isopropylacrylamide) core-shell colloids with homogeneous density profiles: A small angle scattering study",
+            "eid": "2-s2.0-84916623338",
+            "authors": [
+                {
+                    "scopus_id": "35219931700",
+                    "name": "Dulle M.",
+                    "affiliation_id": [
+                        "60023208"
+                    ]
+                },
+                {
+                    "scopus_id": "25027639300",
+                    "name": "Jaber S.",
+                    "affiliation_id": [
+                        "60103600"
+                    ]
+                },
+                {
+                    "scopus_id": "6602949622",
+                    "name": "Rosenfeldt S.",
+                    "affiliation_id": [
+                        "60023208"
+                    ]
+                },
+                {
+                    "scopus_id": "55885242500",
+                    "name": "Radulescu A.",
+                    "affiliation_id": [
+                        "60007774"
+                    ]
+                },
+                {
+                    "scopus_id": "7101707557",
+                    "name": "F\u00f6rster S.",
+                    "affiliation_id": [
+                        "60023208"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60103600"
+                    ]
+                },
+                {
+                    "scopus_id": "15071108400",
+                    "name": "Karg M.",
+                    "affiliation_id": [
+                        "60023208"
+                    ]
+                }
+            ],
+            "citations": 45,
+            "publication_name": "Physical Chemistry Chemical Physics",
+            "issn": "14639076",
+            "cover_date": "2015-01-14",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "2",
+            "page_range": "1354-1367",
+            "doi": "10.1039/c4cp04816d"
+        },
+        {
             "title": "Coherent superposition of exciton states in quantum dots induced by surface plasmons",
             "eid": "2-s2.0-77249092620",
             "authors": [
@@ -10545,70 +10609,6 @@
             "doi": "10.1021/j100384a063"
         },
         {
-            "title": "Plasmonic gold-poly(N-isopropylacrylamide) core-shell colloids with homogeneous density profiles: A small angle scattering study",
-            "eid": "2-s2.0-84916623338",
-            "authors": [
-                {
-                    "scopus_id": "35219931700",
-                    "name": "Dulle M.",
-                    "affiliation_id": [
-                        "60023208"
-                    ]
-                },
-                {
-                    "scopus_id": "25027639300",
-                    "name": "Jaber S.",
-                    "affiliation_id": [
-                        "60103600"
-                    ]
-                },
-                {
-                    "scopus_id": "6602949622",
-                    "name": "Rosenfeldt S.",
-                    "affiliation_id": [
-                        "60023208"
-                    ]
-                },
-                {
-                    "scopus_id": "55885242500",
-                    "name": "Radulescu A.",
-                    "affiliation_id": [
-                        "60007774"
-                    ]
-                },
-                {
-                    "scopus_id": "7101707557",
-                    "name": "F\u00f6rster S.",
-                    "affiliation_id": [
-                        "60023208"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60103600"
-                    ]
-                },
-                {
-                    "scopus_id": "15071108400",
-                    "name": "Karg M.",
-                    "affiliation_id": [
-                        "60023208"
-                    ]
-                }
-            ],
-            "citations": 44,
-            "publication_name": "Physical Chemistry Chemical Physics",
-            "issn": "14639076",
-            "cover_date": "2015-01-14",
-            "venue": "Journal",
-            "volume": "17",
-            "issue": "2",
-            "page_range": "1354-1367",
-            "doi": "10.1039/c4cp04816d"
-        },
-        {
             "title": "Defect-mediated energy transfer between ZnO nanocrystals and a conjugated dye",
             "eid": "2-s2.0-84856888166",
             "authors": [
@@ -10679,78 +10679,6 @@
             "issue": "3-4",
             "page_range": "391-394",
             "doi": "10.1016/0009-2614(90)85630-U"
-        },
-        {
-            "title": "Effect of cantilever geometry on the optical lever sensitivities and thermal noise method of the atomic force microscope",
-            "eid": "2-s2.0-84922449466",
-            "authors": [
-                {
-                    "scopus_id": "7004148374",
-                    "name": "Sader J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56508566100",
-                    "name": "Lu J.",
-                    "affiliation_id": [
-                        "60103600"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60103600"
-                    ]
-                }
-            ],
-            "citations": 41,
-            "publication_name": "Review of Scientific Instruments",
-            "issn": "00346748",
-            "cover_date": "2014-11-01",
-            "venue": "Journal",
-            "volume": "85",
-            "issue": "11",
-            "page_range": null,
-            "doi": "10.1063/1.4900864"
-        },
-        {
-            "title": "Theory of acoustic breathing modes of core-shell nanoparticles",
-            "eid": "2-s2.0-0037075415",
-            "authors": [
-                {
-                    "scopus_id": "7004148374",
-                    "name": "Sader J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7003732775",
-                    "name": "Hartland G.",
-                    "affiliation_id": [
-                        "60021508"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 41,
-            "publication_name": "Journal of Physical Chemistry B",
-            "issn": "10895647",
-            "cover_date": "2002-02-14",
-            "venue": "Journal",
-            "volume": "106",
-            "issue": "6",
-            "page_range": "1399-1402",
-            "doi": "10.1021/jp014068s"
         },
         {
             "title": "High-Performance Large-Area Luminescence Solar Concentrator Incorporating a Donor-Emitter Fluorophore System",
@@ -10824,7 +10752,7 @@
                     ]
                 }
             ],
-            "citations": 40,
+            "citations": 42,
             "publication_name": "ACS Energy Letters",
             "issn": "",
             "cover_date": "2019-08-09",
@@ -10833,6 +10761,78 @@
             "issue": "8",
             "page_range": "1839-1844",
             "doi": "10.1021/acsenergylett.9b01224"
+        },
+        {
+            "title": "Effect of cantilever geometry on the optical lever sensitivities and thermal noise method of the atomic force microscope",
+            "eid": "2-s2.0-84922449466",
+            "authors": [
+                {
+                    "scopus_id": "7004148374",
+                    "name": "Sader J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56508566100",
+                    "name": "Lu J.",
+                    "affiliation_id": [
+                        "60103600"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60103600"
+                    ]
+                }
+            ],
+            "citations": 41,
+            "publication_name": "Review of Scientific Instruments",
+            "issn": "00346748",
+            "cover_date": "2014-11-01",
+            "venue": "Journal",
+            "volume": "85",
+            "issue": "11",
+            "page_range": null,
+            "doi": "10.1063/1.4900864"
+        },
+        {
+            "title": "Theory of acoustic breathing modes of core-shell nanoparticles",
+            "eid": "2-s2.0-0037075415",
+            "authors": [
+                {
+                    "scopus_id": "7004148374",
+                    "name": "Sader J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7003732775",
+                    "name": "Hartland G.",
+                    "affiliation_id": [
+                        "60021508"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 41,
+            "publication_name": "Journal of Physical Chemistry B",
+            "issn": "10895647",
+            "cover_date": "2002-02-14",
+            "venue": "Journal",
+            "volume": "106",
+            "issue": "6",
+            "page_range": "1399-1402",
+            "doi": "10.1021/jp014068s"
         },
         {
             "title": "Standardizing Nanomaterials",
@@ -11562,6 +11562,49 @@
             "doi": "10.1103/PhysRevLett.105.167402"
         },
         {
+            "title": "Using hydrogels to accommodate hydrophobic nanoparticles in aqueous media via solvent exchange",
+            "eid": "2-s2.0-77955384585",
+            "authors": [
+                {
+                    "scopus_id": "7202050585",
+                    "name": "Bai S.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "25623558600",
+                    "name": "Nguyen T.L.",
+                    "affiliation_id": [
+                        "60103600"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60103600"
+                    ]
+                },
+                {
+                    "scopus_id": "55576615800",
+                    "name": "Wang D.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                }
+            ],
+            "citations": 34,
+            "publication_name": "Advanced Materials",
+            "issn": "09359648",
+            "cover_date": "2010-08-10",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "30",
+            "page_range": "3247-3250",
+            "doi": "10.1002/adma.201000336"
+        },
+        {
             "title": "Dynamics of interfacial charge transfer in iron(III) oxide colloids",
             "eid": "2-s2.0-0038003138",
             "authors": [
@@ -11750,49 +11793,6 @@
             "doi": "10.1021/acs.jpclett.6b01038"
         },
         {
-            "title": "Using hydrogels to accommodate hydrophobic nanoparticles in aqueous media via solvent exchange",
-            "eid": "2-s2.0-77955384585",
-            "authors": [
-                {
-                    "scopus_id": "7202050585",
-                    "name": "Bai S.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "25623558600",
-                    "name": "Nguyen T.L.",
-                    "affiliation_id": [
-                        "60103600"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60103600"
-                    ]
-                },
-                {
-                    "scopus_id": "55576615800",
-                    "name": "Wang D.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                }
-            ],
-            "citations": 33,
-            "publication_name": "Advanced Materials",
-            "issn": "09359648",
-            "cover_date": "2010-08-10",
-            "venue": "Journal",
-            "volume": "22",
-            "issue": "30",
-            "page_range": "3247-3250",
-            "doi": "10.1002/adma.201000336"
-        },
-        {
             "title": "The topography of soft, adhesive diatom 'trails' as observed by atomic force microscopy",
             "eid": "2-s2.0-0034486204",
             "authors": [
@@ -11940,113 +11940,6 @@
             "issue": "1",
             "page_range": "1454-1464",
             "doi": "10.1021/acsnano.0c08794"
-        },
-        {
-            "title": "Synthesis of quantum dot doped chalcogenide glasses via sol-gel processing",
-            "eid": "2-s2.0-79959511744",
-            "authors": [
-                {
-                    "scopus_id": "58310508600",
-                    "name": "Mashford B.",
-                    "affiliation_id": [
-                        "60103600"
-                    ]
-                },
-                {
-                    "scopus_id": "42561050700",
-                    "name": "Baldauf J.",
-                    "affiliation_id": [
-                        "60103600"
-                    ]
-                },
-                {
-                    "scopus_id": "25623558600",
-                    "name": "Nguyen T.L.",
-                    "affiliation_id": [
-                        "60103600"
-                    ]
-                },
-                {
-                    "scopus_id": "6603400164",
-                    "name": "Funston A.M.",
-                    "affiliation_id": [
-                        "60103600"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60103600"
-                    ]
-                }
-            ],
-            "citations": 31,
-            "publication_name": "Journal of Applied Physics",
-            "issn": "00218979",
-            "cover_date": "2011-05-01",
-            "venue": "Journal",
-            "volume": "109",
-            "issue": "9",
-            "page_range": null,
-            "doi": "10.1063/1.3579442"
-        },
-        {
-            "title": "Interaction forces and zeta potentials of cationic polyelectrolyte coated silica surfaces in water and in ethanol: Effects of chain length and concentration of perfluorinated anionic surfactants on their binding to the surface",
-            "eid": "2-s2.0-0035797999",
-            "authors": [
-                {
-                    "scopus_id": "7004547182",
-                    "name": "McNamee C.E.",
-                    "affiliation_id": [
-                        "60011001"
-                    ]
-                },
-                {
-                    "scopus_id": "7404939689",
-                    "name": "Matsumoto M.",
-                    "affiliation_id": [
-                        "60011001"
-                    ]
-                },
-                {
-                    "scopus_id": "7103232443",
-                    "name": "Hartley P.G.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7006371900",
-                    "name": "Tsujii Y.",
-                    "affiliation_id": [
-                        "60011001"
-                    ]
-                },
-                {
-                    "scopus_id": "7202063532",
-                    "name": "Nakahara M.",
-                    "affiliation_id": [
-                        "60011001"
-                    ]
-                }
-            ],
-            "citations": 31,
-            "publication_name": "Langmuir",
-            "issn": "07437463",
-            "cover_date": "2001-10-02",
-            "venue": "Journal",
-            "volume": "17",
-            "issue": "20",
-            "page_range": "6220-6227",
-            "doi": "10.1021/la010282w"
         },
         {
             "title": "Best Practices for Using AI When Writing Scientific Manuscripts",
@@ -12273,7 +12166,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 30,
+            "citations": 31,
             "publication_name": "ACS Nano",
             "issn": "19360851",
             "cover_date": "2023-03-14",
@@ -12282,6 +12175,113 @@
             "issue": "5",
             "page_range": "4091-4093",
             "doi": "10.1021/acsnano.3c01544"
+        },
+        {
+            "title": "Synthesis of quantum dot doped chalcogenide glasses via sol-gel processing",
+            "eid": "2-s2.0-79959511744",
+            "authors": [
+                {
+                    "scopus_id": "58310508600",
+                    "name": "Mashford B.",
+                    "affiliation_id": [
+                        "60103600"
+                    ]
+                },
+                {
+                    "scopus_id": "42561050700",
+                    "name": "Baldauf J.",
+                    "affiliation_id": [
+                        "60103600"
+                    ]
+                },
+                {
+                    "scopus_id": "25623558600",
+                    "name": "Nguyen T.L.",
+                    "affiliation_id": [
+                        "60103600"
+                    ]
+                },
+                {
+                    "scopus_id": "6603400164",
+                    "name": "Funston A.M.",
+                    "affiliation_id": [
+                        "60103600"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60103600"
+                    ]
+                }
+            ],
+            "citations": 31,
+            "publication_name": "Journal of Applied Physics",
+            "issn": "00218979",
+            "cover_date": "2011-05-01",
+            "venue": "Journal",
+            "volume": "109",
+            "issue": "9",
+            "page_range": null,
+            "doi": "10.1063/1.3579442"
+        },
+        {
+            "title": "Interaction forces and zeta potentials of cationic polyelectrolyte coated silica surfaces in water and in ethanol: Effects of chain length and concentration of perfluorinated anionic surfactants on their binding to the surface",
+            "eid": "2-s2.0-0035797999",
+            "authors": [
+                {
+                    "scopus_id": "7004547182",
+                    "name": "McNamee C.E.",
+                    "affiliation_id": [
+                        "60011001"
+                    ]
+                },
+                {
+                    "scopus_id": "7404939689",
+                    "name": "Matsumoto M.",
+                    "affiliation_id": [
+                        "60011001"
+                    ]
+                },
+                {
+                    "scopus_id": "7103232443",
+                    "name": "Hartley P.G.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7006371900",
+                    "name": "Tsujii Y.",
+                    "affiliation_id": [
+                        "60011001"
+                    ]
+                },
+                {
+                    "scopus_id": "7202063532",
+                    "name": "Nakahara M.",
+                    "affiliation_id": [
+                        "60011001"
+                    ]
+                }
+            ],
+            "citations": 31,
+            "publication_name": "Langmuir",
+            "issn": "07437463",
+            "cover_date": "2001-10-02",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "20",
+            "page_range": "6220-6227",
+            "doi": "10.1021/la010282w"
         },
         {
             "title": "Advances in the Surface Functionalization of Nanodiamonds for Biological Applications: A Review",
@@ -13892,6 +13892,43 @@
             "doi": "10.1016/j.cej.2020.126063"
         },
         {
+            "title": "Transient overshoot and storage of charge carriers on ligands in quantum dot LEDs",
+            "eid": "2-s2.0-85070746388",
+            "authors": [
+                {
+                    "scopus_id": "57208898179",
+                    "name": "Blauth C.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55114979500",
+                    "name": "Hirai T.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                }
+            ],
+            "citations": 20,
+            "publication_name": "Journal of Applied Physics",
+            "issn": "00218979",
+            "cover_date": "2019-08-21",
+            "venue": "Journal",
+            "volume": "126",
+            "issue": "7",
+            "page_range": null,
+            "doi": "10.1063/1.5100195"
+        },
+        {
             "title": "Ostwald ripening of comb polymer stabilised Ag salt nanoparticles",
             "eid": "2-s2.0-84904359177",
             "authors": [
@@ -14156,43 +14193,6 @@
             "issue": "4",
             "page_range": "1353-1362",
             "doi": "10.1021/acs.chemmater.0c04416"
-        },
-        {
-            "title": "Transient overshoot and storage of charge carriers on ligands in quantum dot LEDs",
-            "eid": "2-s2.0-85070746388",
-            "authors": [
-                {
-                    "scopus_id": "57208898179",
-                    "name": "Blauth C.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55114979500",
-                    "name": "Hirai T.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                }
-            ],
-            "citations": 19,
-            "publication_name": "Journal of Applied Physics",
-            "issn": "00218979",
-            "cover_date": "2019-08-21",
-            "venue": "Journal",
-            "volume": "126",
-            "issue": "7",
-            "page_range": null,
-            "doi": "10.1063/1.5100195"
         },
         {
             "title": "Repetitive Hole-Mask Colloidal Lithography for the Fabrication of Large-Area Low-Cost Plasmonic Multishape Single-Layer Metasurfaces",
@@ -14852,138 +14852,6 @@
             "doi": "10.1504/IJNT.2007.013468"
         },
         {
-            "title": "Growth of Gold Nanorods: A SAXS Study",
-            "eid": "2-s2.0-85115115069",
-            "authors": [
-                {
-                    "scopus_id": "55520235400",
-                    "name": "Seibt S.",
-                    "affiliation_id": [
-                        "60105848",
-                        "60023208",
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "55331850000",
-                    "name": "Zhang H.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "6602959688",
-                    "name": "Mudie S.",
-                    "affiliation_id": [
-                        "60105848"
-                    ]
-                },
-                {
-                    "scopus_id": "7101707557",
-                    "name": "F\u00f6rster S.",
-                    "affiliation_id": [
-                        "60007774"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Journal of Physical Chemistry C",
-            "issn": "19327447",
-            "cover_date": "2021-09-16",
-            "venue": "Journal",
-            "volume": "125",
-            "issue": "36",
-            "page_range": "19947-19960",
-            "doi": "10.1021/acs.jpcc.1c06778"
-        },
-        {
-            "title": "Dynamic similarity of oscillatory flows induced by nanomechanical resonators",
-            "eid": "2-s2.0-84892395497",
-            "authors": [
-                {
-                    "scopus_id": "55341323800",
-                    "name": "Bullard E.",
-                    "affiliation_id": [
-                        "60031581"
-                    ]
-                },
-                {
-                    "scopus_id": "56002205600",
-                    "name": "Li J.",
-                    "affiliation_id": [
-                        "60103600"
-                    ]
-                },
-                {
-                    "scopus_id": "7004689314",
-                    "name": "Lilley C.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60103600"
-                    ]
-                },
-                {
-                    "scopus_id": "7003667787",
-                    "name": "Roukes M.",
-                    "affiliation_id": [
-                        "60031581"
-                    ]
-                },
-                {
-                    "scopus_id": "7004148374",
-                    "name": "Sader J.",
-                    "affiliation_id": [
-                        "60031581",
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Physical Review Letters",
-            "issn": "00319007",
-            "cover_date": "2014-01-07",
-            "venue": "Journal",
-            "volume": "112",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1103/PhysRevLett.112.015501"
-        },
-        {
-            "title": "Spectroscopy of metal colloids\u2014Some comparisons with semiconductor colloids",
-            "eid": "2-s2.0-18144399799",
-            "authors": [
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Studies in Surface Science and Catalysis",
-            "issn": "01672991",
-            "cover_date": "1997-01-01",
-            "venue": "Book Series",
-            "volume": "103",
-            "issue": "C",
-            "page_range": "99-123",
-            "doi": "10.1016/S0167-2991(97)81100-7"
-        },
-        {
             "title": "CuSCN Modified Back Contacts for High Performance CZTSSe Solar Cells",
             "eid": "2-s2.0-85145732677",
             "authors": [
@@ -15081,7 +14949,7 @@
                     ]
                 }
             ],
-            "citations": 14,
+            "citations": 15,
             "publication_name": "Advanced Functional Materials",
             "issn": "1616301X",
             "cover_date": "2023-03-09",
@@ -15090,6 +14958,175 @@
             "issue": "11",
             "page_range": null,
             "doi": "10.1002/adfm.202211421"
+        },
+        {
+            "title": "Growth of Gold Nanorods: A SAXS Study",
+            "eid": "2-s2.0-85115115069",
+            "authors": [
+                {
+                    "scopus_id": "55520235400",
+                    "name": "Seibt S.",
+                    "affiliation_id": [
+                        "60105848",
+                        "60023208",
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "55331850000",
+                    "name": "Zhang H.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "6602959688",
+                    "name": "Mudie S.",
+                    "affiliation_id": [
+                        "60105848"
+                    ]
+                },
+                {
+                    "scopus_id": "7101707557",
+                    "name": "F\u00f6rster S.",
+                    "affiliation_id": [
+                        "60007774"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Journal of Physical Chemistry C",
+            "issn": "19327447",
+            "cover_date": "2021-09-16",
+            "venue": "Journal",
+            "volume": "125",
+            "issue": "36",
+            "page_range": "19947-19960",
+            "doi": "10.1021/acs.jpcc.1c06778"
+        },
+        {
+            "title": "Negative capacitance as a diagnostic tool for recombination in purple quantum dot LEDs",
+            "eid": "2-s2.0-85066074874",
+            "authors": [
+                {
+                    "scopus_id": "57208898179",
+                    "name": "Blauth C.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55114979500",
+                    "name": "Hirai T.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Journal of Applied Physics",
+            "issn": "00218979",
+            "cover_date": "2019-05-21",
+            "venue": "Journal",
+            "volume": "125",
+            "issue": "19",
+            "page_range": null,
+            "doi": "10.1063/1.5088177"
+        },
+        {
+            "title": "Dynamic similarity of oscillatory flows induced by nanomechanical resonators",
+            "eid": "2-s2.0-84892395497",
+            "authors": [
+                {
+                    "scopus_id": "55341323800",
+                    "name": "Bullard E.",
+                    "affiliation_id": [
+                        "60031581"
+                    ]
+                },
+                {
+                    "scopus_id": "56002205600",
+                    "name": "Li J.",
+                    "affiliation_id": [
+                        "60103600"
+                    ]
+                },
+                {
+                    "scopus_id": "7004689314",
+                    "name": "Lilley C.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60103600"
+                    ]
+                },
+                {
+                    "scopus_id": "7003667787",
+                    "name": "Roukes M.",
+                    "affiliation_id": [
+                        "60031581"
+                    ]
+                },
+                {
+                    "scopus_id": "7004148374",
+                    "name": "Sader J.",
+                    "affiliation_id": [
+                        "60031581",
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Physical Review Letters",
+            "issn": "00319007",
+            "cover_date": "2014-01-07",
+            "venue": "Journal",
+            "volume": "112",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1103/PhysRevLett.112.015501"
+        },
+        {
+            "title": "Spectroscopy of metal colloids\u2014Some comparisons with semiconductor colloids",
+            "eid": "2-s2.0-18144399799",
+            "authors": [
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Studies in Surface Science and Catalysis",
+            "issn": "01672991",
+            "cover_date": "1997-01-01",
+            "venue": "Book Series",
+            "volume": "103",
+            "issue": "C",
+            "page_range": "99-123",
+            "doi": "10.1016/S0167-2991(97)81100-7"
         },
         {
             "title": "A luminescent solar concentrator ray tracing simulator with a graphical user interface: Features and applications",
@@ -15222,43 +15259,6 @@
             "issue": "5",
             "page_range": "4862-4864",
             "doi": "10.1021/acsnano.9b03753"
-        },
-        {
-            "title": "Negative capacitance as a diagnostic tool for recombination in purple quantum dot LEDs",
-            "eid": "2-s2.0-85066074874",
-            "authors": [
-                {
-                    "scopus_id": "57208898179",
-                    "name": "Blauth C.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55114979500",
-                    "name": "Hirai T.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                }
-            ],
-            "citations": 14,
-            "publication_name": "Journal of Applied Physics",
-            "issn": "00218979",
-            "cover_date": "2019-05-21",
-            "venue": "Journal",
-            "volume": "125",
-            "issue": "19",
-            "page_range": null,
-            "doi": "10.1063/1.5088177"
         },
         {
             "title": "Millisecond CdS nanocrystal nucleation and growth studied by microfluidics with in situ spectroscopy",
@@ -15563,6 +15563,70 @@
             "issue": "3",
             "page_range": "555-559",
             "doi": "10.1021/la00093a006"
+        },
+        {
+            "title": "The fuzzy sphere morphology is responsible for the increase in light scattering during the shrinkage of thermoresponsive microgels",
+            "eid": "2-s2.0-85123686950",
+            "authors": [
+                {
+                    "scopus_id": "57219969291",
+                    "name": "Ponomareva E.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                },
+                {
+                    "scopus_id": "57221731042",
+                    "name": "Tadgell B.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "57210430372",
+                    "name": "Hildebrandt M.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                },
+                {
+                    "scopus_id": "57223102780",
+                    "name": "Kr\u00fcsmann M.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                },
+                {
+                    "scopus_id": "24577174900",
+                    "name": "Pr\u00e9vost S.",
+                    "affiliation_id": [
+                        "60007109"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "15071108400",
+                    "name": "Karg M.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Soft Matter",
+            "issn": "1744683X",
+            "cover_date": "2022-01-28",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "4",
+            "page_range": "807-825",
+            "doi": "10.1039/d1sm01473k"
         },
         {
             "title": "On the Stiffness of Gold at the Nanoscale",
@@ -15975,6 +16039,71 @@
             "doi": "10.1021/acs.jpcc.3c00998"
         },
         {
+            "title": "A Tunable Polymer\u2013Metal Based Anti-Reflective Metasurface",
+            "eid": "2-s2.0-85075731375",
+            "authors": [
+                {
+                    "scopus_id": "57200391123",
+                    "name": "Brasse Y.",
+                    "affiliation_id": [
+                        "60008583"
+                    ]
+                },
+                {
+                    "scopus_id": "59100323300",
+                    "name": "Ng C.",
+                    "affiliation_id": [
+                        "60008583"
+                    ]
+                },
+                {
+                    "scopus_id": "57191621543",
+                    "name": "Magnozzi M.",
+                    "affiliation_id": [
+                        "60114732",
+                        "60025153"
+                    ]
+                },
+                {
+                    "scopus_id": "55331850000",
+                    "name": "Zhang H.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7004680938",
+                    "name": "Fery A.",
+                    "affiliation_id": [
+                        "60018353"
+                    ]
+                },
+                {
+                    "scopus_id": "8727189300",
+                    "name": "G\u00f3mez D.E.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Macromolecular Rapid Communications",
+            "issn": "10221336",
+            "cover_date": "2020-01-01",
+            "venue": "Journal",
+            "volume": "41",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1002/marc.201900415"
+        },
+        {
             "title": "Optical properties of strongly coupled plasmonic nanoparticle clusters",
             "eid": "2-s2.0-84908506735",
             "authors": [
@@ -16055,133 +16184,85 @@
             "doi": "10.1021/jp900887r"
         },
         {
-            "title": "The fuzzy sphere morphology is responsible for the increase in light scattering during the shrinkage of thermoresponsive microgels",
-            "eid": "2-s2.0-85123686950",
+            "title": "Room Temperature Bias-Selectable, Dual-Band Infrared Detectors Based on Lead Sulfide Colloidal Quantum Dots and Black Phosphorus",
+            "eid": "2-s2.0-85163548782",
             "authors": [
                 {
-                    "scopus_id": "57219969291",
-                    "name": "Ponomareva E.",
+                    "scopus_id": "57279350600",
+                    "name": "Wang S.",
                     "affiliation_id": [
-                        "60025310"
+                        "60118849"
                     ]
                 },
                 {
-                    "scopus_id": "57221731042",
-                    "name": "Tadgell B.",
+                    "scopus_id": "57193891992",
+                    "name": "Ashokan A.",
                     "affiliation_id": [
                         "60118635"
                     ]
                 },
                 {
-                    "scopus_id": "57210430372",
-                    "name": "Hildebrandt M.",
+                    "scopus_id": "57202956512",
+                    "name": "Balendhran S.",
                     "affiliation_id": [
-                        "60025310"
-                    ]
-                },
-                {
-                    "scopus_id": "57223102780",
-                    "name": "Kr\u00fcsmann M.",
-                    "affiliation_id": [
-                        "60025310"
-                    ]
-                },
-                {
-                    "scopus_id": "24577174900",
-                    "name": "Pr\u00e9vost S.",
-                    "affiliation_id": [
-                        "60007109"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "15071108400",
-                    "name": "Karg M.",
-                    "affiliation_id": [
-                        "60025310"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "Soft Matter",
-            "issn": "1744683X",
-            "cover_date": "2022-01-28",
-            "venue": "Journal",
-            "volume": "18",
-            "issue": "4",
-            "page_range": "807-825",
-            "doi": "10.1039/d1sm01473k"
-        },
-        {
-            "title": "A Tunable Polymer\u2013Metal Based Anti-Reflective Metasurface",
-            "eid": "2-s2.0-85075731375",
-            "authors": [
-                {
-                    "scopus_id": "57200391123",
-                    "name": "Brasse Y.",
-                    "affiliation_id": [
-                        "60008583"
-                    ]
-                },
-                {
-                    "scopus_id": "59100323300",
-                    "name": "Ng C.",
-                    "affiliation_id": [
-                        "60008583"
-                    ]
-                },
-                {
-                    "scopus_id": "57191621543",
-                    "name": "Magnozzi M.",
-                    "affiliation_id": [
-                        "60114732",
-                        "60025153"
-                    ]
-                },
-                {
-                    "scopus_id": "55331850000",
-                    "name": "Zhang H.",
-                    "affiliation_id": [
+                        "60087990",
                         "60026553"
                     ]
                 },
                 {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
+                    "scopus_id": "57219731142",
+                    "name": "Yan W.",
                     "affiliation_id": [
-                        "60026553"
+                        "60118849"
                     ]
                 },
                 {
-                    "scopus_id": "7004680938",
-                    "name": "Fery A.",
-                    "affiliation_id": [
-                        "60018353"
-                    ]
-                },
-                {
-                    "scopus_id": "8727189300",
-                    "name": "G\u00f3mez D.E.",
+                    "scopus_id": "55019498600",
+                    "name": "Johnson B.C.",
                     "affiliation_id": [
                         "60011362"
                     ]
+                },
+                {
+                    "scopus_id": "35173474500",
+                    "name": "Peruzzo A.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                },
+                {
+                    "scopus_id": "56034365600",
+                    "name": "Crozier K.B.",
+                    "affiliation_id": [
+                        "60118849",
+                        "60087990",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "55763642700",
+                    "name": "Bullock J.",
+                    "affiliation_id": [
+                        "60118849"
+                    ]
                 }
             ],
-            "citations": 10,
-            "publication_name": "Macromolecular Rapid Communications",
-            "issn": "10221336",
-            "cover_date": "2020-01-01",
+            "citations": 8,
+            "publication_name": "ACS Nano",
+            "issn": "19360851",
+            "cover_date": "2023-06-27",
             "venue": "Journal",
-            "volume": "41",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1002/marc.201900415"
+            "volume": "17",
+            "issue": "12",
+            "page_range": "11771-11782",
+            "doi": "10.1021/acsnano.3c02617"
         },
         {
             "title": "Silver Nanoparticle Gradient Arrays: Fluorescence Enhancement of Organic Dyes",
@@ -16319,87 +16400,6 @@
             "issue": "2",
             "page_range": "1010-1017",
             "doi": "10.1021/acs.nanolett.7b04482"
-        },
-        {
-            "title": "Room Temperature Bias-Selectable, Dual-Band Infrared Detectors Based on Lead Sulfide Colloidal Quantum Dots and Black Phosphorus",
-            "eid": "2-s2.0-85163548782",
-            "authors": [
-                {
-                    "scopus_id": "57279350600",
-                    "name": "Wang S.",
-                    "affiliation_id": [
-                        "60118849"
-                    ]
-                },
-                {
-                    "scopus_id": "57193891992",
-                    "name": "Ashokan A.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "57202956512",
-                    "name": "Balendhran S.",
-                    "affiliation_id": [
-                        "60087990",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57219731142",
-                    "name": "Yan W.",
-                    "affiliation_id": [
-                        "60118849"
-                    ]
-                },
-                {
-                    "scopus_id": "55019498600",
-                    "name": "Johnson B.C.",
-                    "affiliation_id": [
-                        "60011362"
-                    ]
-                },
-                {
-                    "scopus_id": "35173474500",
-                    "name": "Peruzzo A.",
-                    "affiliation_id": [
-                        "60011362"
-                    ]
-                },
-                {
-                    "scopus_id": "56034365600",
-                    "name": "Crozier K.B.",
-                    "affiliation_id": [
-                        "60118849",
-                        "60087990",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "55763642700",
-                    "name": "Bullock J.",
-                    "affiliation_id": [
-                        "60118849"
-                    ]
-                }
-            ],
-            "citations": 7,
-            "publication_name": "ACS Nano",
-            "issn": "19360851",
-            "cover_date": "2023-06-27",
-            "venue": "Journal",
-            "volume": "17",
-            "issue": "12",
-            "page_range": "11771-11782",
-            "doi": "10.1021/acsnano.3c02617"
         },
         {
             "title": "Sedimentation of C<inf>60</inf> and C<inf>70</inf>: Testing the Limits of Stokes' Law",
@@ -16562,6 +16562,49 @@
             "issue": "17",
             "page_range": null,
             "doi": "10.1063/5.0147609"
+        },
+        {
+            "title": "Temperature-Jump Spectroscopy of Gold-Poly(N-isopropylacrylamide) Core-Shell Microgels",
+            "eid": "2-s2.0-85125892117",
+            "authors": [
+                {
+                    "scopus_id": "57221731042",
+                    "name": "Tadgell B.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "57219969291",
+                    "name": "Ponomareva E.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                },
+                {
+                    "scopus_id": "15071108400",
+                    "name": "Karg M.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Journal of Physical Chemistry C",
+            "issn": "19327447",
+            "cover_date": "2022-03-03",
+            "venue": "Journal",
+            "volume": "126",
+            "issue": "8",
+            "page_range": "4118-4131",
+            "doi": "10.1021/acs.jpcc.2c00062"
         },
         {
             "title": "Green and red electroluminescence from CdS powder electrodes in aqueous solutions",
@@ -17036,49 +17079,6 @@
             "issue": "14",
             "page_range": null,
             "doi": "10.1002/adom.202200179"
-        },
-        {
-            "title": "Temperature-Jump Spectroscopy of Gold-Poly(N-isopropylacrylamide) Core-Shell Microgels",
-            "eid": "2-s2.0-85125892117",
-            "authors": [
-                {
-                    "scopus_id": "57221731042",
-                    "name": "Tadgell B.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "57219969291",
-                    "name": "Ponomareva E.",
-                    "affiliation_id": [
-                        "60025310"
-                    ]
-                },
-                {
-                    "scopus_id": "15071108400",
-                    "name": "Karg M.",
-                    "affiliation_id": [
-                        "60025310"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                }
-            ],
-            "citations": 5,
-            "publication_name": "Journal of Physical Chemistry C",
-            "issn": "19327447",
-            "cover_date": "2022-03-03",
-            "venue": "Journal",
-            "volume": "126",
-            "issue": "8",
-            "page_range": "4118-4131",
-            "doi": "10.1021/acs.jpcc.2c00062"
         },
         {
             "title": "Correlation between Spectroscopic and Mechanical Properties of Gold Nanocrystals under Pressure",
@@ -18349,6 +18349,49 @@
             "doi": "10.1007/BF01282291"
         },
         {
+            "title": "Scattering of Visible Light by Au-PNIPAM Core-Shell Microgels",
+            "eid": "2-s2.0-85138105077",
+            "authors": [
+                {
+                    "scopus_id": "57221731042",
+                    "name": "Tadgell B.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "57219969291",
+                    "name": "Ponomareva E.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                },
+                {
+                    "scopus_id": "15071108400",
+                    "name": "Karg M.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Journal of Physical Chemistry C",
+            "issn": "19327447",
+            "cover_date": "2022-09-15",
+            "venue": "Journal",
+            "volume": "126",
+            "issue": "36",
+            "page_range": "15336-15347",
+            "doi": "10.1021/acs.jpcc.2c03086"
+        },
+        {
             "title": "Evaluation of a lanthanide nanoparticle-based contrast agent for microcomputed tomography of porous channels in subchondral bone",
             "eid": "2-s2.0-85130216113",
             "authors": [
@@ -18799,28 +18842,112 @@
             "doi": "10.1021/acsnano.3c07334"
         },
         {
-            "title": "Scattering of Visible Light by Au-PNIPAM Core-Shell Microgels",
-            "eid": "2-s2.0-85138105077",
+            "title": "An ITO-Free Kesterite Solar Cell",
+            "eid": "2-s2.0-85172475702",
             "authors": [
                 {
-                    "scopus_id": "57221731042",
-                    "name": "Tadgell B.",
+                    "scopus_id": "57191898404",
+                    "name": "Ji Y.",
                     "affiliation_id": [
                         "60118635"
                     ]
                 },
                 {
-                    "scopus_id": "57219969291",
-                    "name": "Ponomareva E.",
+                    "scopus_id": "58171442100",
+                    "name": "Chen W.",
                     "affiliation_id": [
-                        "60025310"
+                        "60017060"
                     ]
                 },
                 {
-                    "scopus_id": "15071108400",
-                    "name": "Karg M.",
+                    "scopus_id": "55577118000",
+                    "name": "Yan D.",
                     "affiliation_id": [
-                        "60025310"
+                        "60118849"
+                    ]
+                },
+                {
+                    "scopus_id": "55763642700",
+                    "name": "Bullock J.",
+                    "affiliation_id": [
+                        "60118849"
+                    ]
+                },
+                {
+                    "scopus_id": "59051789600",
+                    "name": "Xu Y.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "54891702500",
+                    "name": "Su Z.",
+                    "affiliation_id": [
+                        "60000937"
+                    ]
+                },
+                {
+                    "scopus_id": "58172031500",
+                    "name": "Yang W.",
+                    "affiliation_id": [
+                        "60017060"
+                    ]
+                },
+                {
+                    "scopus_id": "7102409709",
+                    "name": "Laird J.S.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "57191538329",
+                    "name": "Zheng T.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "57216541486",
+                    "name": "Wu N.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "57211432748",
+                    "name": "Zha W.",
+                    "affiliation_id": [
+                        "60117396"
+                    ]
+                },
+                {
+                    "scopus_id": "56248051200",
+                    "name": "Luo Q.",
+                    "affiliation_id": [
+                        "60117396"
+                    ]
+                },
+                {
+                    "scopus_id": "16304564900",
+                    "name": "Ma C.Q.",
+                    "affiliation_id": [
+                        "60117396"
+                    ]
+                },
+                {
+                    "scopus_id": "7405501313",
+                    "name": "Smith T.A.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "25958249300",
+                    "name": "Liu F.",
+                    "affiliation_id": [
+                        "60017060"
                     ]
                 },
                 {
@@ -18832,14 +18959,14 @@
                 }
             ],
             "citations": 2,
-            "publication_name": "Journal of Physical Chemistry C",
-            "issn": "19327447",
-            "cover_date": "2022-09-15",
+            "publication_name": "Small",
+            "issn": "16136810",
+            "cover_date": "2024-02-08",
             "venue": "Journal",
-            "volume": "126",
-            "issue": "36",
-            "page_range": "15336-15347",
-            "doi": "10.1021/acs.jpcc.2c03086"
+            "volume": "20",
+            "issue": "6",
+            "page_range": null,
+            "doi": "10.1002/smll.202307242"
         },
         {
             "title": "Nanoscience and Entrepreneurship",
@@ -19411,133 +19538,6 @@
             "issue": "20",
             "page_range": "9287-9294",
             "doi": "10.1021/acs.nanolett.3c02368"
-        },
-        {
-            "title": "An ITO-Free Kesterite Solar Cell",
-            "eid": "2-s2.0-85172475702",
-            "authors": [
-                {
-                    "scopus_id": "57191898404",
-                    "name": "Ji Y.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "58171442100",
-                    "name": "Chen W.",
-                    "affiliation_id": [
-                        "60017060"
-                    ]
-                },
-                {
-                    "scopus_id": "55577118000",
-                    "name": "Yan D.",
-                    "affiliation_id": [
-                        "60118849"
-                    ]
-                },
-                {
-                    "scopus_id": "55763642700",
-                    "name": "Bullock J.",
-                    "affiliation_id": [
-                        "60118849"
-                    ]
-                },
-                {
-                    "scopus_id": "59051789600",
-                    "name": "Xu Y.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "54891702500",
-                    "name": "Su Z.",
-                    "affiliation_id": [
-                        "60000937"
-                    ]
-                },
-                {
-                    "scopus_id": "58172031500",
-                    "name": "Yang W.",
-                    "affiliation_id": [
-                        "60017060"
-                    ]
-                },
-                {
-                    "scopus_id": "7102409709",
-                    "name": "Laird J.S.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "57191538329",
-                    "name": "Zheng T.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "57216541486",
-                    "name": "Wu N.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "57211432748",
-                    "name": "Zha W.",
-                    "affiliation_id": [
-                        "60117396"
-                    ]
-                },
-                {
-                    "scopus_id": "56248051200",
-                    "name": "Luo Q.",
-                    "affiliation_id": [
-                        "60117396"
-                    ]
-                },
-                {
-                    "scopus_id": "16304564900",
-                    "name": "Ma C.Q.",
-                    "affiliation_id": [
-                        "60117396"
-                    ]
-                },
-                {
-                    "scopus_id": "7405501313",
-                    "name": "Smith T.A.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "25958249300",
-                    "name": "Liu F.",
-                    "affiliation_id": [
-                        "60017060"
-                    ]
-                },
-                {
-                    "scopus_id": "7006142548",
-                    "name": "Mulvaney P.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                }
-            ],
-            "citations": 1,
-            "publication_name": "Small",
-            "issn": "16136810",
-            "cover_date": "2024-02-08",
-            "venue": "Journal",
-            "volume": "20",
-            "issue": "6",
-            "page_range": null,
-            "doi": "10.1002/smll.202307242"
         },
         {
             "title": "Memory in quantum dot blinking",
@@ -20343,6 +20343,73 @@
             "doi": "10.1117/12.471958"
         },
         {
+            "title": "Nanoparticle-mediated thermal Cancer therapies: Strategies to improve clinical translatability",
+            "eid": "2-s2.0-85197455603",
+            "authors": [
+                {
+                    "scopus_id": "57322010900",
+                    "name": "Bravo M.",
+                    "affiliation_id": [
+                        "60118635",
+                        "60025063"
+                    ]
+                },
+                {
+                    "scopus_id": "57194773234",
+                    "name": "Fortuni B.",
+                    "affiliation_id": [
+                        "60025063"
+                    ]
+                },
+                {
+                    "scopus_id": "7006142548",
+                    "name": "Mulvaney P.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "7006657754",
+                    "name": "Hofkens J.",
+                    "affiliation_id": [
+                        "60025063",
+                        "60030637"
+                    ]
+                },
+                {
+                    "scopus_id": "6603464580",
+                    "name": "Uji-i H.",
+                    "affiliation_id": [
+                        "60025063",
+                        "60014652"
+                    ]
+                },
+                {
+                    "scopus_id": "25226025200",
+                    "name": "Rocha S.",
+                    "affiliation_id": [
+                        "60025063"
+                    ]
+                },
+                {
+                    "scopus_id": "7202493146",
+                    "name": "Hutchison J.A.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Journal of Controlled Release",
+            "issn": "01683659",
+            "cover_date": "2024-08-01",
+            "venue": "Journal",
+            "volume": "372",
+            "issue": "",
+            "page_range": "751-777",
+            "doi": "10.1016/j.jconrel.2024.06.055"
+        },
+        {
             "title": "Bio-catalytic nanoparticle shaping for preparing mesoscopic assemblies of semiconductor quantum dots and organic molecules",
             "eid": "2-s2.0-85194035433",
             "authors": [
@@ -20417,11 +20484,11 @@
             "citations": 0,
             "publication_name": "Nanoscale Horizons",
             "issn": "20556756",
-            "cover_date": "2024-01-01",
+            "cover_date": "2024-05-23",
             "venue": "Journal",
-            "volume": "",
-            "issue": "",
-            "page_range": null,
+            "volume": "9",
+            "issue": "7",
+            "page_range": "1128-1136",
             "doi": "10.1039/d4nh00134f"
         },
         {
@@ -20774,7 +20841,7 @@
                     "scopus_id": "37107826600",
                     "name": "Kirkwood N.",
                     "affiliation_id": [
-                        "60026553"
+                        "60118635"
                     ]
                 },
                 {
@@ -20802,7 +20869,7 @@
                     "scopus_id": "7006142548",
                     "name": "Mulvaney P.",
                     "affiliation_id": [
-                        "60026553"
+                        "60118635"
                     ]
                 },
                 {
@@ -23342,7 +23409,7 @@
     "affiliation_id": "60118635",
     "city": "Melbourne",
     "country": "Australia",
-    "document_count": 394,
+    "document_count": 395,
     "subject_area": [
         {
             "@abbrev": "MATE",
@@ -23360,6 +23427,5 @@
             "$": "Physics and Astronomy (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:49:34",
-    "c-score": null
+    "date fetched": "2024-07-12 19:11:18"
 }

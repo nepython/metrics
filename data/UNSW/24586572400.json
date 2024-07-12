@@ -767,7 +767,7 @@
                     ]
                 }
             ],
-            "citations": 6808,
+            "citations": 6816,
             "publication_name": "Astronomy and Astrophysics",
             "issn": "00046361",
             "cover_date": "2016-10-01",
@@ -1528,7 +1528,7 @@
                     ]
                 }
             ],
-            "citations": 6184,
+            "citations": 6212,
             "publication_name": "Astronomy and Astrophysics",
             "issn": "00046361",
             "cover_date": "2020-09-01",
@@ -2271,7 +2271,7 @@
                     ]
                 }
             ],
-            "citations": 3473,
+            "citations": 3475,
             "publication_name": "Astronomy and Astrophysics",
             "issn": "00046361",
             "cover_date": "2014-11-01",
@@ -3789,7 +3789,7 @@
                     ]
                 }
             ],
-            "citations": 1390,
+            "citations": 1394,
             "publication_name": "Astronomy and Astrophysics",
             "issn": "00046361",
             "cover_date": "2020-09-01",
@@ -4562,7 +4562,7 @@
                     ]
                 }
             ],
-            "citations": 1327,
+            "citations": 1328,
             "publication_name": "Astronomy and Astrophysics",
             "issn": "00046361",
             "cover_date": "2016-10-01",
@@ -6085,7 +6085,7 @@
                     ]
                 }
             ],
-            "citations": 732,
+            "citations": 736,
             "publication_name": "Astronomy and Astrophysics",
             "issn": "00046361",
             "cover_date": "2021-08-01",
@@ -6845,7 +6845,7 @@
                     ]
                 }
             ],
-            "citations": 510,
+            "citations": 514,
             "publication_name": "Astronomy and Astrophysics",
             "issn": "00046361",
             "cover_date": "2020-09-01",
@@ -7615,7 +7615,7 @@
                     ]
                 }
             ],
-            "citations": 507,
+            "citations": 508,
             "publication_name": "Astronomy and Astrophysics",
             "issn": "00046361",
             "cover_date": "2016-10-01",
@@ -9147,7 +9147,7 @@
                     ]
                 }
             ],
-            "citations": 497,
+            "citations": 498,
             "publication_name": "Astronomy and Astrophysics",
             "issn": "00046361",
             "cover_date": "2020-09-01",
@@ -13125,7 +13125,7 @@
                     ]
                 }
             ],
-            "citations": 131,
+            "citations": 132,
             "publication_name": "Astronomy and Astrophysics",
             "issn": "00046361",
             "cover_date": "2020-09-01",
@@ -14634,6 +14634,5 @@
             "$": "Computer Science (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:16:28",
-    "c-score": null
+    "date fetched": "2024-07-12 19:56:36"
 }

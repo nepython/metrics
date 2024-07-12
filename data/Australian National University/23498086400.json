@@ -1,0 +1,3186 @@
+{
+    "scopus_id": "23498086400",
+    "name": "Minh, Bui Quang",
+    "publications": [
+        {
+            "title": "IQ-TREE: A fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies",
+            "eid": "2-s2.0-84922362345",
+            "authors": [
+                {
+                    "scopus_id": "56506293200",
+                    "name": "Nguyen L.T.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "7404730590",
+                    "name": "Schmidt H.A.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                }
+            ],
+            "citations": 14610,
+            "publication_name": "Molecular Biology and Evolution",
+            "issn": "07374038",
+            "cover_date": "2015-01-01",
+            "venue": "Journal",
+            "volume": "32",
+            "issue": "1",
+            "page_range": "268-274",
+            "doi": "10.1093/molbev/msu300"
+        },
+        {
+            "title": "ModelFinder: Fast model selection for accurate phylogenetic estimates",
+            "eid": "2-s2.0-85019875027",
+            "authors": [
+                {
+                    "scopus_id": "48161552600",
+                    "name": "Kalyaanamoorthy S.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60030835"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "25423289800",
+                    "name": "Wong T.K.F.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "6701658149",
+                    "name": "Jermiin L.S.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 8581,
+            "publication_name": "Nature Methods",
+            "issn": "15487091",
+            "cover_date": "2017-05-30",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "6",
+            "page_range": "587-589",
+            "doi": "10.1038/nmeth.4285"
+        },
+        {
+            "title": "IQ-TREE 2: New Models and Efficient Methods for Phylogenetic Inference in the Genomic Era",
+            "eid": "2-s2.0-85084101286",
+            "authors": [
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7404730590",
+                    "name": "Schmidt H.A.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "55250016600",
+                    "name": "Chernomor O.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "55512364700",
+                    "name": "Schrempf D.",
+                    "affiliation_id": [
+                        "60025988",
+                        "60025187"
+                    ]
+                },
+                {
+                    "scopus_id": "6506911785",
+                    "name": "Woodhams M.D.",
+                    "affiliation_id": [
+                        "60015356"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60025988",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "25228756200",
+                    "name": "Lanfear R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "6603452240",
+                    "name": "Teeling E.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 5150,
+            "publication_name": "Molecular Biology and Evolution",
+            "issn": "07374038",
+            "cover_date": "2020-05-01",
+            "venue": "Journal",
+            "volume": "37",
+            "issue": "5",
+            "page_range": "1530-1534",
+            "doi": "10.1093/molbev/msaa015"
+        },
+        {
+            "title": "UFBoot2: Improving the ultrafast bootstrap approximation",
+            "eid": "2-s2.0-85041125468",
+            "authors": [
+                {
+                    "scopus_id": "57192639918",
+                    "name": "Hoang D.T.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "55250016600",
+                    "name": "Chernomor O.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60025988",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "56259833800",
+                    "name": "Vinh L.S.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                }
+            ],
+            "citations": 5110,
+            "publication_name": "Molecular Biology and Evolution",
+            "issn": "07374038",
+            "cover_date": "2018-02-01",
+            "venue": "Journal",
+            "volume": "35",
+            "issue": "2",
+            "page_range": "518-522",
+            "doi": "10.1093/molbev/msx281"
+        },
+        {
+            "title": "W-IQ-TREE: a fast online phylogenetic tool for maximum likelihood analysis",
+            "eid": "2-s2.0-84982927997",
+            "authors": [
+                {
+                    "scopus_id": "56604176500",
+                    "name": "Trifinopoulos J.",
+                    "affiliation_id": [
+                        "60018597"
+                    ]
+                },
+                {
+                    "scopus_id": "56506293200",
+                    "name": "Nguyen L.T.",
+                    "affiliation_id": [
+                        "60018597"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "von Haeseler A.",
+                    "affiliation_id": [
+                        "60018597",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60018597"
+                    ]
+                }
+            ],
+            "citations": 3071,
+            "publication_name": "Nucleic Acids Research",
+            "issn": "03051048",
+            "cover_date": "2016-07-08",
+            "venue": "Journal",
+            "volume": "44",
+            "issue": "W1",
+            "page_range": "W232-W235",
+            "doi": "10.1093/NAR/GKW256"
+        },
+        {
+            "title": "Ultrafast approximation for phylogenetic bootstrap",
+            "eid": "2-s2.0-84876519306",
+            "authors": [
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "57217347059",
+                    "name": "Nguyen M.A.T.",
+                    "affiliation_id": [
+                        "60010023"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                }
+            ],
+            "citations": 2827,
+            "publication_name": "Molecular Biology and Evolution",
+            "issn": "07374038",
+            "cover_date": "2013-05-01",
+            "venue": "Journal",
+            "volume": "30",
+            "issue": "5",
+            "page_range": "1188-1195",
+            "doi": "10.1093/molbev/mst024"
+        },
+        {
+            "title": "Terrace Aware Data Structure for Phylogenomic Inference from Supermatrices",
+            "eid": "2-s2.0-84994448773",
+            "authors": [
+                {
+                    "scopus_id": "55250016600",
+                    "name": "Chernomor O.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                }
+            ],
+            "citations": 1281,
+            "publication_name": "Systematic Biology",
+            "issn": "10635157",
+            "cover_date": "2016-11-01",
+            "venue": "Journal",
+            "volume": "65",
+            "issue": "6",
+            "page_range": "997-1008",
+            "doi": "10.1093/sysbio/syw037"
+        },
+        {
+            "title": "New methods to calculate concordance factors for phylogenomic datasets",
+            "eid": "2-s2.0-85090506355",
+            "authors": [
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7201578309",
+                    "name": "Hahn M.W.",
+                    "affiliation_id": [
+                        "60021121",
+                        "60021121"
+                    ]
+                },
+                {
+                    "scopus_id": "25228756200",
+                    "name": "Lanfear R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 296,
+            "publication_name": "Molecular Biology and Evolution",
+            "issn": "07374038",
+            "cover_date": "2020-09-01",
+            "venue": "Journal",
+            "volume": "37",
+            "issue": "9",
+            "page_range": "2727-2733",
+            "doi": "10.1093/molbev/msaa106"
+        },
+        {
+            "title": "Modeling Site Heterogeneity with Posterior Mean Site Frequency Profiles Accelerates Accurate Phylogenomic Estimation",
+            "eid": "2-s2.0-85041590310",
+            "authors": [
+                {
+                    "scopus_id": "12761392900",
+                    "name": "Wang H.C.",
+                    "affiliation_id": [
+                        "60023750",
+                        "60190871"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "6603506758",
+                    "name": "Susko E.",
+                    "affiliation_id": [
+                        "60190871"
+                    ]
+                },
+                {
+                    "scopus_id": "7004844245",
+                    "name": "Roger A.J.",
+                    "affiliation_id": [
+                        "60023750",
+                        "60190871"
+                    ]
+                }
+            ],
+            "citations": 242,
+            "publication_name": "Systematic Biology",
+            "issn": "10635157",
+            "cover_date": "2018-03-01",
+            "venue": "Journal",
+            "volume": "67",
+            "issue": "2",
+            "page_range": "216-235",
+            "doi": "10.1093/sysbio/syx068"
+        },
+        {
+            "title": "Unifying the global phylogeny and environmental distribution of ammonia-oxidising archaea based on amoA genes",
+            "eid": "2-s2.0-85045742687",
+            "authors": [
+                {
+                    "scopus_id": "36894024700",
+                    "name": "Alves R.J.E.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "8295611200",
+                    "name": "Urich T.",
+                    "affiliation_id": [
+                        "60021311"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "6701472914",
+                    "name": "Schleper C.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                }
+            ],
+            "citations": 215,
+            "publication_name": "Nature Communications",
+            "issn": "",
+            "cover_date": "2018-12-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1038/s41467-018-03861-1"
+        },
+        {
+            "title": "Untangling the early diversification of eukaryotes: A phylogenomic study of the evolutionary origins of centrohelida, haptophyta and cryptista",
+            "eid": "2-s2.0-84955615557",
+            "authors": [
+                {
+                    "scopus_id": "57191566814",
+                    "name": "Burki F.",
+                    "affiliation_id": [
+                        "60010365"
+                    ]
+                },
+                {
+                    "scopus_id": "57077658300",
+                    "name": "Kaplan M.",
+                    "affiliation_id": [
+                        "60010365"
+                    ]
+                },
+                {
+                    "scopus_id": "13606326600",
+                    "name": "Tikhonenkov D.V.",
+                    "affiliation_id": [
+                        "60010365",
+                        "60026225"
+                    ]
+                },
+                {
+                    "scopus_id": "35390686200",
+                    "name": "Zlatogursky V.",
+                    "affiliation_id": [
+                        "60031888"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "57079093900",
+                    "name": "Radaykina L.V.",
+                    "affiliation_id": [
+                        "60026225"
+                    ]
+                },
+                {
+                    "scopus_id": "57213379790",
+                    "name": "Smirnov A.",
+                    "affiliation_id": [
+                        "60031888"
+                    ]
+                },
+                {
+                    "scopus_id": "6602941459",
+                    "name": "Mylnikov A.P.",
+                    "affiliation_id": [
+                        "60026225"
+                    ]
+                },
+                {
+                    "scopus_id": "35552607600",
+                    "name": "Keeling P.J.",
+                    "affiliation_id": [
+                        "60010365",
+                        "60082875"
+                    ]
+                }
+            ],
+            "citations": 210,
+            "publication_name": "Proceedings of the Royal Society B: Biological Sciences",
+            "issn": "09628452",
+            "cover_date": "2016-01-27",
+            "venue": "Journal",
+            "volume": "283",
+            "issue": "1823",
+            "page_range": null,
+            "doi": "10.1098/rspb.2015.2802"
+        },
+        {
+            "title": "Erratum: IQ-TREE 2: New models and efficient methods for phylogenetic inference in the genomic era (Molecular Biology and Evolution DOI: 10.1093/molbev/msaa015)",
+            "eid": "2-s2.0-85089206566",
+            "authors": [
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7404730590",
+                    "name": "Schmidt H.A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55250016600",
+                    "name": "Chernomor O.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55512364700",
+                    "name": "Schrempf D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6506911785",
+                    "name": "Woodhams M.D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "von Haeseler A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "25228756200",
+                    "name": "Lanfear R.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 139,
+            "publication_name": "Molecular Biology and Evolution",
+            "issn": "07374038",
+            "cover_date": "2020-05-01",
+            "venue": "Journal",
+            "volume": "37",
+            "issue": "8",
+            "page_range": "2461",
+            "doi": "10.1093/MOLBEV/MSAA131"
+        },
+        {
+            "title": "MPBoot: Fast phylogenetic maximum parsimony tree inference and bootstrap approximation",
+            "eid": "2-s2.0-85041311344",
+            "authors": [
+                {
+                    "scopus_id": "57192639918",
+                    "name": "Hoang D.T.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "56259833800",
+                    "name": "Vinh L.S.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "35203239100",
+                    "name": "Flouri T.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "6602125055",
+                    "name": "Stamatakis A.",
+                    "affiliation_id": [
+                        "60113322",
+                        "60102538"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                }
+            ],
+            "citations": 120,
+            "publication_name": "BMC Evolutionary Biology",
+            "issn": "",
+            "cover_date": "2018-02-02",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s12862-018-1131-3"
+        },
+        {
+            "title": "The phylogenetic likelihood library",
+            "eid": "2-s2.0-84927675233",
+            "authors": [
+                {
+                    "scopus_id": "35203239100",
+                    "name": "Flouri T.",
+                    "affiliation_id": [
+                        "60113322"
+                    ]
+                },
+                {
+                    "scopus_id": "52263662000",
+                    "name": "Izquierdo-Carrasco F.",
+                    "affiliation_id": [
+                        "60113322"
+                    ]
+                },
+                {
+                    "scopus_id": "37088309000",
+                    "name": "Darriba D.",
+                    "affiliation_id": [
+                        "60113322"
+                    ]
+                },
+                {
+                    "scopus_id": "36095900100",
+                    "name": "Aberer A.J.",
+                    "affiliation_id": [
+                        "60113322"
+                    ]
+                },
+                {
+                    "scopus_id": "56506293200",
+                    "name": "Nguyen L.T.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "6602125055",
+                    "name": "Stamatakis A.",
+                    "affiliation_id": [
+                        "60113322",
+                        "60102538"
+                    ]
+                }
+            ],
+            "citations": 110,
+            "publication_name": "Systematic Biology",
+            "issn": "10635157",
+            "cover_date": "2015-03-01",
+            "venue": "Journal",
+            "volume": "64",
+            "issue": "2",
+            "page_range": "356-362",
+            "doi": "10.1093/sysbio/syu084"
+        },
+        {
+            "title": "Decisive data sets in phylogenomics: Lessons from studies on the phylogenetic relationships of primarily wingless insects",
+            "eid": "2-s2.0-84891755492",
+            "authors": [
+                {
+                    "scopus_id": "6506267279",
+                    "name": "Dell'Ampio E.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "26653672900",
+                    "name": "Meusemann K.",
+                    "affiliation_id": [
+                        "60072346",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "6507648264",
+                    "name": "Szucsich N.U.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "35799773900",
+                    "name": "Peters R.S.",
+                    "affiliation_id": [
+                        "60072346"
+                    ]
+                },
+                {
+                    "scopus_id": "50361883200",
+                    "name": "Meyer B.",
+                    "affiliation_id": [
+                        "60005036"
+                    ]
+                },
+                {
+                    "scopus_id": "34867903900",
+                    "name": "Borner J.",
+                    "affiliation_id": [
+                        "60028229"
+                    ]
+                },
+                {
+                    "scopus_id": "55248400100",
+                    "name": "Petersen M.",
+                    "affiliation_id": [
+                        "60072346"
+                    ]
+                },
+                {
+                    "scopus_id": "36095900100",
+                    "name": "Aberer A.J.",
+                    "affiliation_id": [
+                        "60113322"
+                    ]
+                },
+                {
+                    "scopus_id": "6602125055",
+                    "name": "Stamatakis A.",
+                    "affiliation_id": [
+                        "60113322",
+                        "60102538"
+                    ]
+                },
+                {
+                    "scopus_id": "36802311500",
+                    "name": "Walzl M.G.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "6506338819",
+                    "name": "Ebersberger I.",
+                    "affiliation_id": [
+                        "60007762"
+                    ]
+                },
+                {
+                    "scopus_id": "6701671159",
+                    "name": "Pass G.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "6603758213",
+                    "name": "Misof B.",
+                    "affiliation_id": [
+                        "60072346"
+                    ]
+                }
+            ],
+            "citations": 100,
+            "publication_name": "Molecular Biology and Evolution",
+            "issn": "07374038",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "31",
+            "issue": "1",
+            "page_range": "239-249",
+            "doi": "10.1093/molbev/mst196"
+        },
+        {
+            "title": "GHOST: Recovering Historical Signal from Heterotachously Evolved Sequence Alignments",
+            "eid": "2-s2.0-85070740881",
+            "authors": [
+                {
+                    "scopus_id": "57215127802",
+                    "name": "Crotty S.M.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006628478",
+                    "name": "Bean N.G.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7102232762",
+                    "name": "Holland B.R.",
+                    "affiliation_id": [
+                        "60015356"
+                    ]
+                },
+                {
+                    "scopus_id": "20435156700",
+                    "name": "Tuke J.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "6701658149",
+                    "name": "Jermiin L.S.",
+                    "affiliation_id": [
+                        "60159889",
+                        "60029470",
+                        "60005141",
+                        "60005141"
+                    ]
+                },
+                {
+                    "scopus_id": "24471378400",
+                    "name": "Haeseler A.V.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60025988"
+                    ]
+                }
+            ],
+            "citations": 98,
+            "publication_name": "Systematic Biology",
+            "issn": "10635157",
+            "cover_date": "2020-03-01",
+            "venue": "Journal",
+            "volume": "69",
+            "issue": "2",
+            "page_range": "249-264",
+            "doi": "10.1093/sysbio/syz051"
+        },
+        {
+            "title": "Distribution and phylogeny of light-oxygen-voltage-blue-light-signaling proteins in the three kingdoms of life",
+            "eid": "2-s2.0-72249087161",
+            "authors": [
+                {
+                    "scopus_id": "12776651400",
+                    "name": "Krauss U.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "55815516100",
+                    "name": "Losi A.",
+                    "affiliation_id": [
+                        "60004969"
+                    ]
+                },
+                {
+                    "scopus_id": "7006584462",
+                    "name": "G\u00e4rtner W.",
+                    "affiliation_id": [
+                        "60072285"
+                    ]
+                },
+                {
+                    "scopus_id": "55164685200",
+                    "name": "Eggert T.",
+                    "affiliation_id": [
+                        "101958240"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "7103288943",
+                    "name": "Jaeger K.E.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                }
+            ],
+            "citations": 94,
+            "publication_name": "Journal of Bacteriology",
+            "issn": "00219193",
+            "cover_date": "2009-01-01",
+            "venue": "Journal",
+            "volume": "191",
+            "issue": "23",
+            "page_range": "7234-7242",
+            "doi": "10.1128/JB.00923-09"
+        },
+        {
+            "title": "The Prevalence and Impact of Model Violations in Phylogenetic Analysis",
+            "eid": "2-s2.0-85076124467",
+            "authors": [
+                {
+                    "scopus_id": "57212176940",
+                    "name": "Naser-Khdour S.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60159889",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57212176559",
+                    "name": "Zhang W.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "35265221900",
+                    "name": "Stone E.A.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "25228756200",
+                    "name": "Lanfear R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7202225613",
+                    "name": "Bryant D.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 80,
+            "publication_name": "Genome Biology and Evolution",
+            "issn": "",
+            "cover_date": "2019-11-19",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "12",
+            "page_range": "3341-3352",
+            "doi": "10.1093/gbe/evz193"
+        },
+        {
+            "title": "pIQPNNI: Parallel reconstruction of large maximum likelihood phylogenies",
+            "eid": "2-s2.0-27144503359",
+            "authors": [
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60025641"
+                    ]
+                },
+                {
+                    "scopus_id": "56259833800",
+                    "name": "Vinh L.S.",
+                    "affiliation_id": [
+                        "60007774"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "von Haeseler A.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                },
+                {
+                    "scopus_id": "7404730590",
+                    "name": "Schmidt H.A.",
+                    "affiliation_id": [
+                        "60007774"
+                    ]
+                }
+            ],
+            "citations": 63,
+            "publication_name": "Bioinformatics",
+            "issn": "13674803",
+            "cover_date": "2005-01-01",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "19",
+            "page_range": "3794-3796",
+            "doi": "10.1093/bioinformatics/bti594"
+        },
+        {
+            "title": "Want to track pandemic variants faster? Fix the bioinformatics bottleneck",
+            "eid": "2-s2.0-85102066958",
+            "authors": [
+                {
+                    "scopus_id": "55917364500",
+                    "name": "Hodcroft E.B.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "36871720000",
+                    "name": "De Maio N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "25228756200",
+                    "name": "Lanfear R.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "24765353300",
+                    "name": "MacCannell D.R.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7404730590",
+                    "name": "Schmidt H.A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6602125055",
+                    "name": "Stamatakis A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35352621700",
+                    "name": "Goldman N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "11739647400",
+                    "name": "Dessimoz C.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 56,
+            "publication_name": "Nature",
+            "issn": "00280836",
+            "cover_date": "2021-03-04",
+            "venue": "Journal",
+            "volume": "591",
+            "issue": "7848",
+            "page_range": "30-33",
+            "doi": "10.1038/d41586-021-00525-x"
+        },
+        {
+            "title": "Undinarchaeota illuminate DPANN phylogeny and the impact of gene transfer on archaeal evolution",
+            "eid": "2-s2.0-85089176916",
+            "authors": [
+                {
+                    "scopus_id": "56006733400",
+                    "name": "Dombrowski N.",
+                    "affiliation_id": [
+                        "60007989"
+                    ]
+                },
+                {
+                    "scopus_id": "56281718900",
+                    "name": "Williams T.A.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "57218437084",
+                    "name": "Sun J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "24451582800",
+                    "name": "Woodcroft B.J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "54787940200",
+                    "name": "Lee J.H.",
+                    "affiliation_id": [
+                        "60003858"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "56154340600",
+                    "name": "Rinke C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "36629540700",
+                    "name": "Spang A.",
+                    "affiliation_id": [
+                        "60007989",
+                        "60003858"
+                    ]
+                }
+            ],
+            "citations": 55,
+            "publication_name": "Nature Communications",
+            "issn": "",
+            "cover_date": "2020-12-01",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1038/s41467-020-17408-w"
+        },
+        {
+            "title": "Reversible polymorphism-aware phylogenetic models and their application to tree inference",
+            "eid": "2-s2.0-84982796242",
+            "authors": [
+                {
+                    "scopus_id": "55512364700",
+                    "name": "Schrempf D.",
+                    "affiliation_id": [
+                        "113546913",
+                        "111385015"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "36871720000",
+                    "name": "De Maio N.",
+                    "affiliation_id": [
+                        "60008936",
+                        "60175816"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "von Haeseler A.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "16239349000",
+                    "name": "Kosiol C.",
+                    "affiliation_id": [
+                        "113546913"
+                    ]
+                }
+            ],
+            "citations": 52,
+            "publication_name": "Journal of Theoretical Biology",
+            "issn": "00225193",
+            "cover_date": "2016-10-21",
+            "venue": "Journal",
+            "volume": "407",
+            "issue": "",
+            "page_range": "362-370",
+            "doi": "10.1016/j.jtbi.2016.07.042"
+        },
+        {
+            "title": "Primate phylogenomics uncovers multiple rapid radiations and ancient interspecific introgression",
+            "eid": "2-s2.0-85097318133",
+            "authors": [
+                {
+                    "scopus_id": "14026221000",
+                    "name": "Vanderpool D.",
+                    "affiliation_id": [
+                        "60021121"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "25228756200",
+                    "name": "Lanfear R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "57193414811",
+                    "name": "Hughes D.",
+                    "affiliation_id": [
+                        "60002441"
+                    ]
+                },
+                {
+                    "scopus_id": "56106240200",
+                    "name": "Murali S.",
+                    "affiliation_id": [
+                        "60002441"
+                    ]
+                },
+                {
+                    "scopus_id": "55507074100",
+                    "name": "Alan Harris R.",
+                    "affiliation_id": [
+                        "60002441",
+                        "60002441"
+                    ]
+                },
+                {
+                    "scopus_id": "56561953200",
+                    "name": "Raveendran M.",
+                    "affiliation_id": [
+                        "60002441"
+                    ]
+                },
+                {
+                    "scopus_id": "6603763638",
+                    "name": "Muzny D.M.",
+                    "affiliation_id": [
+                        "60002441",
+                        "60002441"
+                    ]
+                },
+                {
+                    "scopus_id": "57205083400",
+                    "name": "Hibbins M.S.",
+                    "affiliation_id": [
+                        "60021121"
+                    ]
+                },
+                {
+                    "scopus_id": "36798000600",
+                    "name": "Williamson R.J.",
+                    "affiliation_id": [
+                        "60018625"
+                    ]
+                },
+                {
+                    "scopus_id": "7202068919",
+                    "name": "Gibbs R.A.",
+                    "affiliation_id": [
+                        "60002441",
+                        "60002441"
+                    ]
+                },
+                {
+                    "scopus_id": "7003921209",
+                    "name": "Worley K.C.",
+                    "affiliation_id": [
+                        "60002441",
+                        "60002441"
+                    ]
+                },
+                {
+                    "scopus_id": "7404268692",
+                    "name": "Rogers J.",
+                    "affiliation_id": [
+                        "60002441",
+                        "60002441"
+                    ]
+                },
+                {
+                    "scopus_id": "7201578309",
+                    "name": "Hahn M.W.",
+                    "affiliation_id": [
+                        "60021121"
+                    ]
+                }
+            ],
+            "citations": 44,
+            "publication_name": "PLoS Biology",
+            "issn": "15449173",
+            "cover_date": "2020-12-03",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "12",
+            "page_range": null,
+            "doi": "10.1371/journal.pbio.3000954"
+        },
+        {
+            "title": "Combined transcriptome and proteome profiling reveals specific molecular brain signatures for sex, maturation and circalunar clock phase",
+            "eid": "2-s2.0-85061580912",
+            "authors": [
+                {
+                    "scopus_id": "12140169500",
+                    "name": "Schenk S.",
+                    "affiliation_id": [
+                        "60025988",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "23491644800",
+                    "name": "Bannister S.C.",
+                    "affiliation_id": [
+                        "60025988",
+                        "60025988",
+                        "60025888"
+                    ]
+                },
+                {
+                    "scopus_id": "55246029800",
+                    "name": "Sedlazeck F.J.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60002441"
+                    ]
+                },
+                {
+                    "scopus_id": "6507629336",
+                    "name": "Anrather D.",
+                    "affiliation_id": [
+                        "60025988",
+                        "60018597"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60159889",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "56032664400",
+                    "name": "Bileck A.",
+                    "affiliation_id": [
+                        "60025988",
+                        "60025988",
+                        "60010987"
+                    ]
+                },
+                {
+                    "scopus_id": "36930295000",
+                    "name": "Hartl M.",
+                    "affiliation_id": [
+                        "60025988",
+                        "60018597"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "von Haeseler A.",
+                    "affiliation_id": [
+                        "60025988",
+                        "60011394",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "7003781554",
+                    "name": "Gerner C.",
+                    "affiliation_id": [
+                        "60025988",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "9537174900",
+                    "name": "Raible F.",
+                    "affiliation_id": [
+                        "60025988",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "57203496828",
+                    "name": "Tessmar-Raible K.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                }
+            ],
+            "citations": 40,
+            "publication_name": "eLife",
+            "issn": "",
+            "cover_date": "2019-02-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.7554/eLife.41556"
+        },
+        {
+            "title": "Discovery of the first light-dependent protochlorophyllide oxidoreductase in anoxygenic phototrophic bacteria",
+            "eid": "2-s2.0-84906934333",
+            "authors": [
+                {
+                    "scopus_id": "54682044300",
+                    "name": "Kaschner M.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                },
+                {
+                    "scopus_id": "54941059900",
+                    "name": "Loeschcke A.",
+                    "affiliation_id": [
+                        "60025310",
+                        "60121291"
+                    ]
+                },
+                {
+                    "scopus_id": "56304628700",
+                    "name": "Krause J.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "18037010800",
+                    "name": "Heck A.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                },
+                {
+                    "scopus_id": "56178400600",
+                    "name": "Endres S.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                },
+                {
+                    "scopus_id": "22955068000",
+                    "name": "Svensson V.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                },
+                {
+                    "scopus_id": "36884037100",
+                    "name": "Wirtz A.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "von Haeseler A.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "7103288943",
+                    "name": "Jaeger K.E.",
+                    "affiliation_id": [
+                        "60025310",
+                        "60121291"
+                    ]
+                },
+                {
+                    "scopus_id": "6506352901",
+                    "name": "Drepper T.",
+                    "affiliation_id": [
+                        "60025310",
+                        "60121291"
+                    ]
+                },
+                {
+                    "scopus_id": "12776651400",
+                    "name": "Krauss U.",
+                    "affiliation_id": [
+                        "60025310"
+                    ]
+                }
+            ],
+            "citations": 39,
+            "publication_name": "Molecular Microbiology",
+            "issn": "0950382X",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "93",
+            "issue": "5",
+            "page_range": "1066-1078",
+            "doi": "10.1111/mmi.12719"
+        },
+        {
+            "title": "Split diversity in constrained conservation prioritization using integer linear programming",
+            "eid": "2-s2.0-84921616245",
+            "authors": [
+                {
+                    "scopus_id": "55250016600",
+                    "name": "Chernomor O.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "15922773000",
+                    "name": "Forest F.",
+                    "affiliation_id": [
+                        "60005324"
+                    ]
+                },
+                {
+                    "scopus_id": "23497541200",
+                    "name": "Klaere S.",
+                    "affiliation_id": [
+                        "60115431"
+                    ]
+                },
+                {
+                    "scopus_id": "24338489500",
+                    "name": "Ingram T.",
+                    "affiliation_id": [
+                        "60017311"
+                    ]
+                },
+                {
+                    "scopus_id": "55910682000",
+                    "name": "Henzinger M.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "von Haeseler A.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60025988"
+                    ]
+                }
+            ],
+            "citations": 34,
+            "publication_name": "Methods in Ecology and Evolution",
+            "issn": "",
+            "cover_date": "2015-01-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "1",
+            "page_range": "83-91",
+            "doi": "10.1111/2041-210X.12299"
+        },
+        {
+            "title": "QMaker: Fast and Accurate Method to Estimate Empirical Models of Protein Evolution",
+            "eid": "2-s2.0-85115351284",
+            "authors": [
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "36086098000",
+                    "name": "Dang C.C.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "56259833800",
+                    "name": "Vinh L.S.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "25228756200",
+                    "name": "Lanfear R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 33,
+            "publication_name": "Systematic Biology",
+            "issn": "10635157",
+            "cover_date": "2021-09-01",
+            "venue": "Journal",
+            "volume": "70",
+            "issue": "5",
+            "page_range": "1046-1060",
+            "doi": "10.1093/sysbio/syab010"
+        },
+        {
+            "title": "Phylogenetic diversity within seconds",
+            "eid": "2-s2.0-37549020940",
+            "authors": [
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "23497541200",
+                    "name": "Klaere S.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                }
+            ],
+            "citations": 31,
+            "publication_name": "Systematic Biology",
+            "issn": "10635157",
+            "cover_date": "2006-10-01",
+            "venue": "Journal",
+            "volume": "55",
+            "issue": "5",
+            "page_range": "769-773",
+            "doi": "10.1080/10635150600981604"
+        },
+        {
+            "title": "A Comprehensive Phylogenetic Analysis of the Serpin Superfamily",
+            "eid": "2-s2.0-85107273067",
+            "authors": [
+                {
+                    "scopus_id": "57206937030",
+                    "name": "Spence M.A.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57222501304",
+                    "name": "Mortimer M.D.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "35547911900",
+                    "name": "Buckle A.M.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "35546487200",
+                    "name": "Jackson C.J.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60008950",
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "Molecular Biology and Evolution",
+            "issn": "07374038",
+            "cover_date": "2021-07-01",
+            "venue": "Journal",
+            "volume": "38",
+            "issue": "7",
+            "page_range": "2915-2929",
+            "doi": "10.1093/molbev/msab081"
+        },
+        {
+            "title": "Taxon selection under split diversity",
+            "eid": "2-s2.0-72849134544",
+            "authors": [
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60018597",
+                        "60025988",
+                        "60011394",
+                        "60003417"
+                    ]
+                },
+                {
+                    "scopus_id": "23497541200",
+                    "name": "Klaere S.",
+                    "affiliation_id": [
+                        "60018597",
+                        "60025988",
+                        "60011394",
+                        "60003417",
+                        "60005686"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60018597",
+                        "60025988",
+                        "60011394",
+                        "60003417"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "Systematic Biology",
+            "issn": "10635157",
+            "cover_date": "2009-12-01",
+            "venue": "Journal",
+            "volume": "58",
+            "issue": "6",
+            "page_range": "586-594",
+            "doi": "10.1093/sysbio/syp058"
+        },
+        {
+            "title": "Quantitative detection and typing of hepatitis D virus in human serum by real-time polymerase chain reaction and melting curve analysis",
+            "eid": "2-s2.0-77952693891",
+            "authors": [
+                {
+                    "scopus_id": "7103042984",
+                    "name": "Hofmann J.",
+                    "affiliation_id": [
+                        "60026245"
+                    ]
+                },
+                {
+                    "scopus_id": "6701805827",
+                    "name": "Frenzel K.",
+                    "affiliation_id": [
+                        "60026245"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "von Haeseler A.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "56417553400",
+                    "name": "Edelmann A.",
+                    "affiliation_id": [
+                        "60026245"
+                    ]
+                },
+                {
+                    "scopus_id": "59157937300",
+                    "name": "Ross S.R.",
+                    "affiliation_id": [
+                        "60014264"
+                    ]
+                },
+                {
+                    "scopus_id": "15833772800",
+                    "name": "Berg T.",
+                    "affiliation_id": [
+                        "60004692"
+                    ]
+                },
+                {
+                    "scopus_id": "16503548800",
+                    "name": "Kr\u00fcger D.H.",
+                    "affiliation_id": [
+                        "60026245"
+                    ]
+                },
+                {
+                    "scopus_id": "57207907726",
+                    "name": "Meisel H.",
+                    "affiliation_id": [
+                        "60026245"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Diagnostic Microbiology and Infectious Disease",
+            "issn": "07328893",
+            "cover_date": "2010-06-01",
+            "venue": "Journal",
+            "volume": "67",
+            "issue": "2",
+            "page_range": "172-179",
+            "doi": "10.1016/j.diagmicrobio.2010.02.003"
+        },
+        {
+            "title": "AliSim: A Fast and Versatile Phylogenetic Sequence Simulator for the Genomic Era",
+            "eid": "2-s2.0-85130642639",
+            "authors": [
+                {
+                    "scopus_id": "57200527601",
+                    "name": "Ly-Trong N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57212176940",
+                    "name": "Naser-Khdour S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "25228756200",
+                    "name": "Lanfear R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 19,
+            "publication_name": "Molecular Biology and Evolution",
+            "issn": "07374038",
+            "cover_date": "2022-05-01",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "5",
+            "page_range": null,
+            "doi": "10.1093/molbev/msac092"
+        },
+        {
+            "title": "Polymorphism-aware species trees with advanced mutation models, bootstrap, and rate heterogeneity",
+            "eid": "2-s2.0-85066425176",
+            "authors": [
+                {
+                    "scopus_id": "55512364700",
+                    "name": "Schrempf D.",
+                    "affiliation_id": [
+                        "60025187",
+                        "60022132",
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60159889",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "16239349000",
+                    "name": "Kosiol C.",
+                    "affiliation_id": [
+                        "60022132",
+                        "100614519"
+                    ]
+                }
+            ],
+            "citations": 18,
+            "publication_name": "Molecular Biology and Evolution",
+            "issn": "07374038",
+            "cover_date": "2019-06-01",
+            "venue": "Journal",
+            "volume": "36",
+            "issue": "6",
+            "page_range": "1294-1301",
+            "doi": "10.1093/molbev/msz043"
+        },
+        {
+            "title": "HIV-1 Full-Genome Phylogenetics of Generalized Epidemics in Sub-Saharan Africa: Impact of Missing Nucleotide Characters in Next-Generation Sequences",
+            "eid": "2-s2.0-85032619182",
+            "authors": [
+                {
+                    "scopus_id": "57557275400",
+                    "name": "Ratmann O.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "51162064600",
+                    "name": "Wymant C.",
+                    "affiliation_id": [
+                        "60008936"
+                    ]
+                },
+                {
+                    "scopus_id": "16416871500",
+                    "name": "Colijn C.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "55540068500",
+                    "name": "Danaviah S.",
+                    "affiliation_id": [
+                        "60138826"
+                    ]
+                },
+                {
+                    "scopus_id": "7103043787",
+                    "name": "Essex M.",
+                    "affiliation_id": [
+                        "60032499",
+                        "60107841"
+                    ]
+                },
+                {
+                    "scopus_id": "7102366418",
+                    "name": "Frost S.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "25122255900",
+                    "name": "Gall A.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "8891498400",
+                    "name": "Gaseitsiwe S.",
+                    "affiliation_id": [
+                        "60107841"
+                    ]
+                },
+                {
+                    "scopus_id": "26767777800",
+                    "name": "Grabowski M.K.",
+                    "affiliation_id": [
+                        "60006183",
+                        "60138712"
+                    ]
+                },
+                {
+                    "scopus_id": "8781712900",
+                    "name": "Gray R.",
+                    "affiliation_id": [
+                        "60006183",
+                        "60138712"
+                    ]
+                },
+                {
+                    "scopus_id": "6507773127",
+                    "name": "Guindon S.",
+                    "affiliation_id": [
+                        "60005686",
+                        "60008134"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "16211587900",
+                    "name": "Kaleebu P.",
+                    "affiliation_id": [
+                        "60015879"
+                    ]
+                },
+                {
+                    "scopus_id": "55446715400",
+                    "name": "Kendall M.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "56450097300",
+                    "name": "Kozlov A.",
+                    "affiliation_id": [
+                        "60113322"
+                    ]
+                },
+                {
+                    "scopus_id": "16203536400",
+                    "name": "Manasa J.",
+                    "affiliation_id": [
+                        "60138826"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "13407981700",
+                    "name": "Moyo S.",
+                    "affiliation_id": [
+                        "60107841"
+                    ]
+                },
+                {
+                    "scopus_id": "7004689873",
+                    "name": "Novitsky V.",
+                    "affiliation_id": [
+                        "60032499",
+                        "60107841"
+                    ]
+                },
+                {
+                    "scopus_id": "36806561500",
+                    "name": "Nsubuga R.",
+                    "affiliation_id": [
+                        "60015879"
+                    ]
+                },
+                {
+                    "scopus_id": "57197465106",
+                    "name": "Pillay S.",
+                    "affiliation_id": [
+                        "60138826"
+                    ]
+                },
+                {
+                    "scopus_id": "7402748962",
+                    "name": "Quinn T.C.",
+                    "affiliation_id": [
+                        "60138712",
+                        "60017336",
+                        "60006183"
+                    ]
+                },
+                {
+                    "scopus_id": "7003660739",
+                    "name": "Serwadda D.",
+                    "affiliation_id": [
+                        "60138712",
+                        "60071677"
+                    ]
+                },
+                {
+                    "scopus_id": "36769305000",
+                    "name": "Ssemwanga D.",
+                    "affiliation_id": [
+                        "60015879"
+                    ]
+                },
+                {
+                    "scopus_id": "6602125055",
+                    "name": "Stamatakis A.",
+                    "affiliation_id": [
+                        "60113322",
+                        "60102538"
+                    ]
+                },
+                {
+                    "scopus_id": "56604176500",
+                    "name": "Trifinopoulos J.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "7005336689",
+                    "name": "Wawer M.",
+                    "affiliation_id": [
+                        "60006183",
+                        "60138712"
+                    ]
+                },
+                {
+                    "scopus_id": "7003531603",
+                    "name": "Brown A.L.",
+                    "affiliation_id": [
+                        "60027272"
+                    ]
+                },
+                {
+                    "scopus_id": "8897715800",
+                    "name": "De Oliveira T.",
+                    "affiliation_id": [
+                        "60017135"
+                    ]
+                },
+                {
+                    "scopus_id": "56839023100",
+                    "name": "Kellam P.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "7201727367",
+                    "name": "Pillay D.",
+                    "affiliation_id": [
+                        "60138826",
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "35460815100",
+                    "name": "Fraser C.",
+                    "affiliation_id": [
+                        "60008936"
+                    ]
+                }
+            ],
+            "citations": 18,
+            "publication_name": "AIDS Research and Human Retroviruses",
+            "issn": "08892229",
+            "cover_date": "2017-11-01",
+            "venue": "Journal",
+            "volume": "33",
+            "issue": "11",
+            "page_range": "1083-1098",
+            "doi": "10.1089/aid.2017.0061"
+        },
+        {
+            "title": "Updated site concordance factors minimize effects of homoplasy and taxon sampling",
+            "eid": "2-s2.0-85145424506",
+            "authors": [
+                {
+                    "scopus_id": "57938994400",
+                    "name": "Mo Y.K.",
+                    "affiliation_id": [
+                        "60021121"
+                    ]
+                },
+                {
+                    "scopus_id": "25228756200",
+                    "name": "Lanfear R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7201578309",
+                    "name": "Hahn M.W.",
+                    "affiliation_id": [
+                        "60021121"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Bioinformatics",
+            "issn": "13674803",
+            "cover_date": "2023-01-01",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1093/bioinformatics/btac741"
+        },
+        {
+            "title": "Consequences of common topological rearrangements for partition trees in phylogenomic inference",
+            "eid": "2-s2.0-84948737875",
+            "authors": [
+                {
+                    "scopus_id": "55250016600",
+                    "name": "Chernomor O.",
+                    "affiliation_id": [
+                        "60025988",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60025988",
+                        "60025988"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Journal of Computational Biology",
+            "issn": "10665277",
+            "cover_date": "2015-12-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "12",
+            "page_range": "1129-1142",
+            "doi": "10.1089/cmb.2015.0146"
+        },
+        {
+            "title": "Maximum likelihood pandemic-scale phylogenetics",
+            "eid": "2-s2.0-85152638353",
+            "authors": [
+                {
+                    "scopus_id": "36871720000",
+                    "name": "De Maio N.",
+                    "affiliation_id": [
+                        "60026124"
+                    ]
+                },
+                {
+                    "scopus_id": "36613164200",
+                    "name": "Kalaghatgi P.",
+                    "affiliation_id": [
+                        "60030619"
+                    ]
+                },
+                {
+                    "scopus_id": "55787146700",
+                    "name": "Turakhia Y.",
+                    "affiliation_id": [
+                        "60121655"
+                    ]
+                },
+                {
+                    "scopus_id": "54386585100",
+                    "name": "Corbett-Detig R.",
+                    "affiliation_id": [
+                        "60137794",
+                        "60137794"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "35352621700",
+                    "name": "Goldman N.",
+                    "affiliation_id": [
+                        "60026124"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "Nature Genetics",
+            "issn": "10614036",
+            "cover_date": "2023-05-01",
+            "venue": "Journal",
+            "volume": "55",
+            "issue": "5",
+            "page_range": "746-752",
+            "doi": "10.1038/s41588-023-01368-0"
+        },
+        {
+            "title": "Complex models of sequence evolution require accurate estimators as exemplified with the invariable site plus gamma model",
+            "eid": "2-s2.0-85050766211",
+            "authors": [
+                {
+                    "scopus_id": "56506293200",
+                    "name": "Nguyen L.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60025888"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Systematic Biology",
+            "issn": "10635157",
+            "cover_date": "2018-05-01",
+            "venue": "Journal",
+            "volume": "67",
+            "issue": "3",
+            "page_range": "552-558",
+            "doi": "10.1093/sysbio/syx092"
+        },
+        {
+            "title": "nQMaker: Estimating Time Nonreversible Amino Acid Substitution Models",
+            "eid": "2-s2.0-85136060284",
+            "authors": [
+                {
+                    "scopus_id": "36086098000",
+                    "name": "Dang C.C.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57193953487",
+                    "name": "McShea H.",
+                    "affiliation_id": [
+                        "60012708"
+                    ]
+                },
+                {
+                    "scopus_id": "7003917641",
+                    "name": "Masel J.",
+                    "affiliation_id": [
+                        "60150063"
+                    ]
+                },
+                {
+                    "scopus_id": "57007644400",
+                    "name": "James J.E.",
+                    "affiliation_id": [
+                        "60009951"
+                    ]
+                },
+                {
+                    "scopus_id": "56259833800",
+                    "name": "Vinh L.S.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "25228756200",
+                    "name": "Lanfear R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Systematic Biology",
+            "issn": "10635157",
+            "cover_date": "2022-09-01",
+            "venue": "Journal",
+            "volume": "71",
+            "issue": "5",
+            "page_range": "1110-1123",
+            "doi": "10.1093/sysbio/syac007"
+        },
+        {
+            "title": "A novel Fibroblast Growth Factor Receptor family member promotes neuronal outgrowth and synaptic plasticity in Aplysia",
+            "eid": "2-s2.0-84933513273",
+            "authors": [
+                {
+                    "scopus_id": "6603214538",
+                    "name": "Pollak D.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "56047726200",
+                    "name": "Cicvaric A.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "6701456704",
+                    "name": "Monje F.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Amino Acids",
+            "issn": "09394451",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "11",
+            "page_range": "2477-2488",
+            "doi": "10.1007/s00726-014-1803-2"
+        },
+        {
+            "title": "Budgeted phylogenetic diversity on circular split systems",
+            "eid": "2-s2.0-59649088067",
+            "authors": [
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60018597"
+                    ]
+                },
+                {
+                    "scopus_id": "14052673800",
+                    "name": "Pardi F.",
+                    "affiliation_id": [
+                        "60022106"
+                    ]
+                },
+                {
+                    "scopus_id": "23497541200",
+                    "name": "Klaere S.",
+                    "affiliation_id": [
+                        "60018597"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60018597"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+            "issn": "15455963",
+            "cover_date": "2009-01-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "1",
+            "page_range": "22-29",
+            "doi": "10.1109/TCBB.2008.54"
+        },
+        {
+            "title": "Whole genome analysis of a Vietnamese trio",
+            "eid": "2-s2.0-84939941378",
+            "authors": [
+                {
+                    "scopus_id": "59122059600",
+                    "name": "Hai D.T.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "56537999000",
+                    "name": "Thanh N.D.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "56538233400",
+                    "name": "Trang P.T.M.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "36917440500",
+                    "name": "Quang L.S.",
+                    "affiliation_id": [
+                        "60099539"
+                    ]
+                },
+                {
+                    "scopus_id": "58352287700",
+                    "name": "Hang P.T.T.",
+                    "affiliation_id": [
+                        "60099539"
+                    ]
+                },
+                {
+                    "scopus_id": "36086098000",
+                    "name": "Cuong D.C.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "57212692444",
+                    "name": "Phuc H.K.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "7006477102",
+                    "name": "Duc N.H.",
+                    "affiliation_id": [
+                        "60071354"
+                    ]
+                },
+                {
+                    "scopus_id": "56537696800",
+                    "name": "Dong D.D.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "56538121300",
+                    "name": "Son P.B.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "56259833800",
+                    "name": "Vinh L.S.",
+                    "affiliation_id": [
+                        "60071364",
+                        "60071364"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Journal of Biosciences",
+            "issn": "02505991",
+            "cover_date": "2015-03-01",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "1",
+            "page_range": "113-124",
+            "doi": "10.1007/s12038-015-9501-0"
+        },
+        {
+            "title": "Building Population-Specific Reference Genomes: A Case Study of Vietnamese Reference Genome",
+            "eid": "2-s2.0-84964703086",
+            "authors": [
+                {
+                    "scopus_id": "56537999000",
+                    "name": "Thanh N.D.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "56538233400",
+                    "name": "Trang P.T.M.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "59122059600",
+                    "name": "Hai D.T.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "54887822300",
+                    "name": "Tuan N.H.A.",
+                    "affiliation_id": [
+                        "60004956"
+                    ]
+                },
+                {
+                    "scopus_id": "36917440500",
+                    "name": "Quang L.S.",
+                    "affiliation_id": [
+                        "60099539"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "57189026094",
+                    "name": "Minh D.Q.",
+                    "affiliation_id": [
+                        "60071354"
+                    ]
+                },
+                {
+                    "scopus_id": "56538121300",
+                    "name": "Son P.B.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "56259833800",
+                    "name": "Vinh L.S.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Proceedings - 2015 IEEE International Conference on Knowledge and Systems Engineering, KSE 2015",
+            "issn": "",
+            "cover_date": "2016-01-04",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "97-102",
+            "doi": "10.1109/KSE.2015.49"
+        },
+        {
+            "title": "A new phylogenetic tree sampling method for maximum parsimony bootstrapping and proof-of-concept implementation",
+            "eid": "2-s2.0-85006985690",
+            "authors": [
+                {
+                    "scopus_id": "57192639918",
+                    "name": "Hoang D.T.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "56259833800",
+                    "name": "Vinh L.S.",
+                    "affiliation_id": [
+                        "60071364"
+                    ]
+                },
+                {
+                    "scopus_id": "35203239100",
+                    "name": "Flouri T.",
+                    "affiliation_id": [
+                        "60113322",
+                        "60102538"
+                    ]
+                },
+                {
+                    "scopus_id": "6602125055",
+                    "name": "Stamatakis A.",
+                    "affiliation_id": [
+                        "60113322",
+                        "60102538"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60011394",
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Proceedings - 2016 8th International Conference on Knowledge and Systems Engineering, KSE 2016",
+            "issn": "",
+            "cover_date": "2016-11-28",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "1-6",
+            "doi": "10.1109/KSE.2016.7758020"
+        },
+        {
+            "title": "SDA*: A simple and unifying solution to recent bioinformatic challenges for conservation genetics",
+            "eid": "2-s2.0-79951938937",
+            "authors": [
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                },
+                {
+                    "scopus_id": "23497541200",
+                    "name": "Klaere S.",
+                    "affiliation_id": [
+                        "60005686"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60025988"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Proceedings - 2nd International Conference on Knowledge and Systems Engineering, KSE 2010",
+            "issn": "",
+            "cover_date": "2010-12-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "33-37",
+            "doi": "10.1109/KSE.2010.24"
+        },
+        {
+            "title": "Perianth evolution and implications for generic delimitation in the eucalypts (Myrtaceae), including the description of the new genus, Blakella",
+            "eid": "2-s2.0-85183032728",
+            "authors": [
+                {
+                    "scopus_id": "55666188000",
+                    "name": "Crisp M.D.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57209002042",
+                    "name": "Choi B.",
+                    "affiliation_id": [
+                        "60159889",
+                        "60022417"
+                    ]
+                },
+                {
+                    "scopus_id": "16444180900",
+                    "name": "Edwards R.D.",
+                    "affiliation_id": [
+                        "60159889",
+                        "60093250"
+                    ]
+                },
+                {
+                    "scopus_id": "24490948000",
+                    "name": "Hereward J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6506724518",
+                    "name": "Kulheim C.",
+                    "affiliation_id": [
+                        "60159889",
+                        "60016536"
+                    ]
+                },
+                {
+                    "scopus_id": "55586884500",
+                    "name": "Lin Y.P.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60021238"
+                    ]
+                },
+                {
+                    "scopus_id": "26653672900",
+                    "name": "Meusemann K.",
+                    "affiliation_id": [
+                        "127343452"
+                    ]
+                },
+                {
+                    "scopus_id": "39763127700",
+                    "name": "Thornhill A.H.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60009512",
+                        "60017837"
+                    ]
+                },
+                {
+                    "scopus_id": "6505801726",
+                    "name": "Toon A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7201872191",
+                    "name": "Cook L.G.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Journal of Systematics and Evolution",
+            "issn": "16744918",
+            "cover_date": "2024-01-01",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1111/jse.13047"
+        },
+        {
+            "title": "Newly emerged serotype 1c of shigella flexneri: Multiple origins and changing drug resistance landscape",
+            "eid": "2-s2.0-85090734780",
+            "authors": [
+                {
+                    "scopus_id": "57195614790",
+                    "name": "Parajuli P.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7102497027",
+                    "name": "Verma N.K.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Genes",
+            "issn": "",
+            "cover_date": "2020-09-01",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "9",
+            "page_range": "1-14",
+            "doi": "10.3390/genes11091042"
+        },
+        {
+            "title": "AliSim-HPC: parallel sequence simulator for phylogenetics",
+            "eid": "2-s2.0-85172739919",
+            "authors": [
+                {
+                    "scopus_id": "57200527601",
+                    "name": "Ly-Trong N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57188975333",
+                    "name": "Barca G.M.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Bioinformatics",
+            "issn": "13674803",
+            "cover_date": "2023-09-01",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "9",
+            "page_range": null,
+            "doi": "10.1093/bioinformatics/btad540"
+        },
+        {
+            "title": "DecentTree: scalable Neighbour-Joining for the genomic era",
+            "eid": "2-s2.0-85170438733",
+            "authors": [
+                {
+                    "scopus_id": "57195261300",
+                    "name": "Wang W.",
+                    "affiliation_id": [
+                        "60106978"
+                    ]
+                },
+                {
+                    "scopus_id": "57728162800",
+                    "name": "Barbetti J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "25423289800",
+                    "name": "Wong T.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "57203725396",
+                    "name": "Thornlow B.",
+                    "affiliation_id": [
+                        "60137794",
+                        "60137794"
+                    ]
+                },
+                {
+                    "scopus_id": "54386585100",
+                    "name": "Corbett-Detig R.",
+                    "affiliation_id": [
+                        "60137794",
+                        "60137794"
+                    ]
+                },
+                {
+                    "scopus_id": "55787146700",
+                    "name": "Turakhia Y.",
+                    "affiliation_id": [
+                        "60030612"
+                    ]
+                },
+                {
+                    "scopus_id": "25228756200",
+                    "name": "Lanfear R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Bioinformatics",
+            "issn": "13674803",
+            "cover_date": "2023-09-01",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "9",
+            "page_range": null,
+            "doi": "10.1093/bioinformatics/btad536"
+        },
+        {
+            "title": "ACOPHY: A simple and general ant colony optimization approach for phylogenetic tree reconstruction",
+            "eid": "2-s2.0-78049274217",
+            "authors": [
+                {
+                    "scopus_id": "36086119600",
+                    "name": "Dinh H.Q.",
+                    "affiliation_id": [
+                        "60003417",
+                        "60012153"
+                    ]
+                },
+                {
+                    "scopus_id": "23498086400",
+                    "name": "Minh B.Q.",
+                    "affiliation_id": [
+                        "60003417"
+                    ]
+                },
+                {
+                    "scopus_id": "34569835400",
+                    "name": "Huan H.X.",
+                    "affiliation_id": [
+                        "102021928"
+                    ]
+                },
+                {
+                    "scopus_id": "7003352973",
+                    "name": "Von Haeseler A.",
+                    "affiliation_id": [
+                        "60003417"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+            "issn": "03029743",
+            "cover_date": "2010-11-03",
+            "venue": "Book Series",
+            "volume": "6234 LNCS",
+            "issue": "",
+            "page_range": "360-367",
+            "doi": "10.1007/978-3-642-15461-4_32"
+        }
+    ],
+    "affiliation": "The Australian National University",
+    "affiliation_id": "60008950",
+    "city": "Canberra",
+    "country": "Australia",
+    "document_count": 50,
+    "subject_area": [
+        {
+            "@abbrev": "BIOC",
+            "@frequency": "62",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)"
+        },
+        {
+            "@abbrev": "MEDI",
+            "@frequency": "38",
+            "$": "Medicine (all)"
+        },
+        {
+            "@abbrev": "AGRI",
+            "@frequency": "30",
+            "$": "Agricultural and Biological Sciences (all)"
+        }
+    ],
+    "date fetched": "2024-07-12 18:58:08"
+}

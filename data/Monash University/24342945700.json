@@ -1,0 +1,1691 @@
+{
+    "scopus_id": "24342945700",
+    "name": "Cumpston, Miranda S.",
+    "publications": [
+        {
+            "title": "Cochrane handbook for systematic reviews of interventions",
+            "eid": "2-s2.0-85100415918",
+            "authors": [
+                {
+                    "scopus_id": "57307017300",
+                    "name": "Higgins J.P.T.",
+                    "affiliation_id": [
+                        "60171764"
+                    ]
+                },
+                {
+                    "scopus_id": "55574208397",
+                    "name": "Thomas J.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "55345911800",
+                    "name": "Chandler J.",
+                    "affiliation_id": [
+                        "60000703"
+                    ]
+                },
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60183191"
+                    ]
+                },
+                {
+                    "scopus_id": "24343843800",
+                    "name": "Li T.",
+                    "affiliation_id": [
+                        "60006183"
+                    ]
+                },
+                {
+                    "scopus_id": "35794043800",
+                    "name": "Page M.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57209289305",
+                    "name": "Welch V.A.",
+                    "affiliation_id": [
+                        "60193396"
+                    ]
+                }
+            ],
+            "citations": 33562,
+            "publication_name": "Cochrane Handbook for Systematic Reviews of Interventions",
+            "issn": "",
+            "cover_date": "2019-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "1-694",
+            "doi": "10.1002/9781119536604"
+        },
+        {
+            "title": "Updated guidance for trusted systematic reviews: a new edition of the Cochrane Handbook for Systematic Reviews of Interventions",
+            "eid": "2-s2.0-85073716416",
+            "authors": [
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "24343843800",
+                    "name": "Li T.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35794043800",
+                    "name": "Page M.J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55345911800",
+                    "name": "Chandler J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57209289305",
+                    "name": "Welch V.A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57307017300",
+                    "name": "Higgins J.P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55574208397",
+                    "name": "Thomas J.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 2693,
+            "publication_name": "The Cochrane database of systematic reviews",
+            "issn": "",
+            "cover_date": "2019-10-03",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "",
+            "page_range": "ED000142",
+            "doi": "10.1002/14651858.ED000142"
+        },
+        {
+            "title": "Arthrographic distension for adhesive capsulitis (frozen shoulder)",
+            "eid": "2-s2.0-44949119464",
+            "authors": [
+                {
+                    "scopus_id": "7004966093",
+                    "name": "Buchbinder R.",
+                    "affiliation_id": [
+                        "60003950"
+                    ]
+                },
+                {
+                    "scopus_id": "57203575537",
+                    "name": "Green S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6505852728",
+                    "name": "Youd J.M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7403679122",
+                    "name": "Johnston R.V.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 151,
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "1469493X",
+            "cover_date": "2008-01-01",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1002/14651858.CD007005"
+        },
+        {
+            "title": "Strengthening systematic reviews in public health: guidance in the Cochrane Handbook for Systematic Reviews of Interventions, 2nd edition",
+            "eid": "2-s2.0-85143202583",
+            "authors": [
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.S.",
+                    "affiliation_id": [
+                        "60183191"
+                    ]
+                },
+                {
+                    "scopus_id": "7202100187",
+                    "name": "McKenzie J.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57209289305",
+                    "name": "Welch V.A.",
+                    "affiliation_id": [
+                        "60028897",
+                        "60028897"
+                    ]
+                },
+                {
+                    "scopus_id": "35766406000",
+                    "name": "Brennan S.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 114,
+            "publication_name": "Journal of Public Health (United Kingdom)",
+            "issn": "17413842",
+            "cover_date": "2022-12-01",
+            "venue": "Journal",
+            "volume": "44",
+            "issue": "4",
+            "page_range": "E588-E592",
+            "doi": "10.1093/pubmed/fdac036"
+        },
+        {
+            "title": "Workplace pedometer interventions for increasing physical activity",
+            "eid": "2-s2.0-84886854915",
+            "authors": [
+                {
+                    "scopus_id": "23472730100",
+                    "name": "Freak-Poli R.L.A.",
+                    "affiliation_id": [
+                        "60012932",
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.",
+                    "affiliation_id": [
+                        "100672235"
+                    ]
+                },
+                {
+                    "scopus_id": "7102329188",
+                    "name": "Peeters A.",
+                    "affiliation_id": [
+                        "60033409"
+                    ]
+                },
+                {
+                    "scopus_id": "6602619857",
+                    "name": "Clemes S.A.",
+                    "affiliation_id": [
+                        "60000891"
+                    ]
+                }
+            ],
+            "citations": 77,
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "14651858",
+            "cover_date": "2013-01-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "7",
+            "page_range": null,
+            "doi": "10.1002/14651858.CD009209.pub2"
+        },
+        {
+            "title": "Knowledge for knowledge translation: the role of the Cochrane Collaboration.",
+            "eid": "2-s2.0-33646833984",
+            "authors": [
+                {
+                    "scopus_id": "34769948000",
+                    "name": "Grimshaw J.",
+                    "affiliation_id": [
+                        "60028897"
+                    ]
+                },
+                {
+                    "scopus_id": "6506340726",
+                    "name": "Santesso N.",
+                    "affiliation_id": [
+                        "60028897"
+                    ]
+                },
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.",
+                    "affiliation_id": [
+                        "60028897"
+                    ]
+                },
+                {
+                    "scopus_id": "12039731800",
+                    "name": "Mayhew A.",
+                    "affiliation_id": [
+                        "60028897"
+                    ]
+                },
+                {
+                    "scopus_id": "57203074000",
+                    "name": "McGowan J.",
+                    "affiliation_id": [
+                        "60028897"
+                    ]
+                }
+            ],
+            "citations": 60,
+            "publication_name": "The Journal of continuing education in the health professions",
+            "issn": "08941912",
+            "cover_date": "2006-01-01",
+            "venue": "Journal",
+            "volume": "26",
+            "issue": "1",
+            "page_range": "55-62",
+            "doi": "10.1002/chp.51"
+        },
+        {
+            "title": "Weekly updates of national living evidence-based guidelines: methods for the Australian living guidelines for care of people with COVID-19",
+            "eid": "2-s2.0-85097429391",
+            "authors": [
+                {
+                    "scopus_id": "17347289100",
+                    "name": "Tendal B.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "55337537900",
+                    "name": "Vogel J.P.",
+                    "affiliation_id": [
+                        "60012932",
+                        "60003344"
+                    ]
+                },
+                {
+                    "scopus_id": "7202569857",
+                    "name": "McDonald S.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57200177874",
+                    "name": "Norris S.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57216168315",
+                    "name": "White H.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7003491648",
+                    "name": "Leder K.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57188848408",
+                    "name": "Navarro D.F.",
+                    "affiliation_id": [
+                        "60088314"
+                    ]
+                },
+                {
+                    "scopus_id": "57211242641",
+                    "name": "Cheyne S.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55928697800",
+                    "name": "Chakraborty S.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57195267265",
+                    "name": "Murano M.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "55578831700",
+                    "name": "Millard T.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57203892503",
+                    "name": "Callesen H.E.",
+                    "affiliation_id": [
+                        "125520278"
+                    ]
+                },
+                {
+                    "scopus_id": "57205202128",
+                    "name": "Islam R.M.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7402852244",
+                    "name": "Elliott J.",
+                    "affiliation_id": [
+                        "60012932",
+                        "112663508"
+                    ]
+                },
+                {
+                    "scopus_id": "7402442902",
+                    "name": "Turner T.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 49,
+            "publication_name": "Journal of Clinical Epidemiology",
+            "issn": "08954356",
+            "cover_date": "2021-03-01",
+            "venue": "Journal",
+            "volume": "131",
+            "issue": "",
+            "page_range": "11-21",
+            "doi": "10.1016/j.jclinepi.2020.11.005"
+        },
+        {
+            "title": "A scoping review of competencies for scientific editors of biomedical journals",
+            "eid": "2-s2.0-84956759974",
+            "authors": [
+                {
+                    "scopus_id": "51161325800",
+                    "name": "Galipeau J.",
+                    "affiliation_id": [
+                        "60002173"
+                    ]
+                },
+                {
+                    "scopus_id": "15833904000",
+                    "name": "Barbour V.",
+                    "affiliation_id": [
+                        "60032987"
+                    ]
+                },
+                {
+                    "scopus_id": "57216890354",
+                    "name": "Baskin P.",
+                    "affiliation_id": [
+                        "60009248"
+                    ]
+                },
+                {
+                    "scopus_id": "6602969679",
+                    "name": "Bell-Syer S.",
+                    "affiliation_id": [
+                        "60016418"
+                    ]
+                },
+                {
+                    "scopus_id": "36542132200",
+                    "name": "Cobey K.",
+                    "affiliation_id": [
+                        "60002173"
+                    ]
+                },
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7006087510",
+                    "name": "Deeks J.",
+                    "affiliation_id": [
+                        "60019702"
+                    ]
+                },
+                {
+                    "scopus_id": "7102107652",
+                    "name": "Garner P.",
+                    "affiliation_id": [
+                        "60020934"
+                    ]
+                },
+                {
+                    "scopus_id": "6505766564",
+                    "name": "MacLehose H.",
+                    "affiliation_id": [
+                        "116118821"
+                    ]
+                },
+                {
+                    "scopus_id": "15844201900",
+                    "name": "Shamseer L.",
+                    "affiliation_id": [
+                        "60002173"
+                    ]
+                },
+                {
+                    "scopus_id": "55624556200",
+                    "name": "Straus S.",
+                    "affiliation_id": [
+                        "60021600"
+                    ]
+                },
+                {
+                    "scopus_id": "35374403700",
+                    "name": "Tugwell P.",
+                    "affiliation_id": [
+                        "60002173",
+                        "60028897"
+                    ]
+                },
+                {
+                    "scopus_id": "56576458600",
+                    "name": "Wager E.",
+                    "affiliation_id": [
+                        "100344013"
+                    ]
+                },
+                {
+                    "scopus_id": "35301383500",
+                    "name": "Winker M.",
+                    "affiliation_id": [
+                        "107958339"
+                    ]
+                },
+                {
+                    "scopus_id": "56350378600",
+                    "name": "Moher D.",
+                    "affiliation_id": [
+                        "60002173",
+                        "100344013"
+                    ]
+                }
+            ],
+            "citations": 33,
+            "publication_name": "BMC Medicine",
+            "issn": "",
+            "cover_date": "2016-02-02",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s12916-016-0561-2"
+        },
+        {
+            "title": "Topical glyceryl trinitrate for rotator cuff disease",
+            "eid": "2-s2.0-70049099866",
+            "authors": [
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7403679122",
+                    "name": "Johnston R.V.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "24345738900",
+                    "name": "Wengier L.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7004966093",
+                    "name": "Buchbinder R.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 33,
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "1469493X",
+            "cover_date": "2009-09-15",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "3",
+            "page_range": null,
+            "doi": "10.1002/14651858.CD006355.pub2"
+        },
+        {
+            "title": "Workplace pedometer interventions for increasing physical activity",
+            "eid": "2-s2.0-85088457324",
+            "authors": [
+                {
+                    "scopus_id": "23472730100",
+                    "name": "Freak-Poli R.L.A.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57193204115",
+                    "name": "Albarqouni L.",
+                    "affiliation_id": [
+                        "60031602"
+                    ]
+                },
+                {
+                    "scopus_id": "6602619857",
+                    "name": "Clemes S.A.",
+                    "affiliation_id": [
+                        "60000891"
+                    ]
+                },
+                {
+                    "scopus_id": "7102329188",
+                    "name": "Peeters A.",
+                    "affiliation_id": [
+                        "60018805"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "14651858",
+            "cover_date": "2020-07-22",
+            "venue": "Journal",
+            "volume": "2020",
+            "issue": "7",
+            "page_range": null,
+            "doi": "10.1002/14651858.CD009209.pub3"
+        },
+        {
+            "title": "The use of 'PICO for synthesis' and methods for synthesis without meta-analysis: Protocol for a survey of current practice in systematic reviews of health interventions",
+            "eid": "2-s2.0-85101991855",
+            "authors": [
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.S.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7202100187",
+                    "name": "McKenzie J.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "55574208397",
+                    "name": "Thomas J.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "35766406000",
+                    "name": "Brennan S.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 14,
+            "publication_name": "F1000Research",
+            "issn": "20461402",
+            "cover_date": "2021-11-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.12688/f1000research.24469.2"
+        },
+        {
+            "title": "Effectiveness of social prescribing for chronic disease prevention in adults: A systematic review and meta-analysis of randomised controlled trials",
+            "eid": "2-s2.0-85149170885",
+            "authors": [
+                {
+                    "scopus_id": "57200722578",
+                    "name": "Htun H.L.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57214117807",
+                    "name": "Teshale A.B.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.S.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7003848005",
+                    "name": "Demos L.",
+                    "affiliation_id": [
+                        "60012932",
+                        "129293327"
+                    ]
+                },
+                {
+                    "scopus_id": "22986192100",
+                    "name": "Ryan J.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7202050271",
+                    "name": "Owen A.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "23472730100",
+                    "name": "Freak-Poli R.",
+                    "affiliation_id": [
+                        "60012932",
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Journal of Epidemiology and Community Health",
+            "issn": "0143005X",
+            "cover_date": "2023-04-01",
+            "venue": "Journal",
+            "volume": "77",
+            "issue": "4",
+            "page_range": "265-276",
+            "doi": "10.1136/jech-2022-220247"
+        },
+        {
+            "title": "Design and formative evaluation of the Policy Liaison Initiative: A long-term knowledge translation strategy to encourage and support the use of Cochrane systematic reviews for informing health policy",
+            "eid": "2-s2.0-84958971087",
+            "authors": [
+                {
+                    "scopus_id": "35766406000",
+                    "name": "Brennan S.E.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "6505915711",
+                    "name": "Misso M.L.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7202569857",
+                    "name": "McDonald S.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57213471812",
+                    "name": "Murphy M.J.",
+                    "affiliation_id": [
+                        "60088313"
+                    ]
+                },
+                {
+                    "scopus_id": "57203575537",
+                    "name": "Green S.E.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Evidence and Policy",
+            "issn": "17442648",
+            "cover_date": "2016-01-01",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "1",
+            "page_range": "25-52",
+            "doi": "10.1332/174426415X14291899424526"
+        },
+        {
+            "title": "Current practice in systematic reviews including the \u2018PICO for each synthesis\u2019 and methods other than meta-analysis: protocol for a cross-sectional study [version 1; peer review: awaiting peer review]",
+            "eid": "2-s2.0-85103146874",
+            "authors": [
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.S.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7202100187",
+                    "name": "McKenzie J.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "55574208397",
+                    "name": "Thomas J.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "35766406000",
+                    "name": "Brennan S.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "F1000Research",
+            "issn": "20461402",
+            "cover_date": "2021-01-29",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "",
+            "page_range": "1-9",
+            "doi": "10.12688/F1000RESEARCH.24469.1"
+        },
+        {
+            "title": "Understanding implementability in clinical trials: a pragmatic review and concept map",
+            "eid": "2-s2.0-85103533310",
+            "authors": [
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.S.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "24774575800",
+                    "name": "Webb S.A.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.",
+                    "affiliation_id": [
+                        "60108899"
+                    ]
+                },
+                {
+                    "scopus_id": "37862106500",
+                    "name": "Sharplin G.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "57203575537",
+                    "name": "Green S.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "36618693200",
+                    "name": "Best K.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7003436326",
+                    "name": "Bloomfield F.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7102500090",
+                    "name": "Cass A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57561433700",
+                    "name": "Cohen P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6507309445",
+                    "name": "Crengle S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "19834166600",
+                    "name": "Cullen L.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "36652510200",
+                    "name": "Gantner D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57562016000",
+                    "name": "Gaulke H.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55952304500",
+                    "name": "Ghersi D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57212695836",
+                    "name": "Green S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55382766300",
+                    "name": "Glasziou P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "56345947700",
+                    "name": "Harris-Brown T.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55674154200",
+                    "name": "Jan S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "34975083900",
+                    "name": "Johnson D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6603942376",
+                    "name": "Keogh S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "26643279200",
+                    "name": "Levi C.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "59116743100",
+                    "name": "Middleton P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "56653620800",
+                    "name": "Peake S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57195469567",
+                    "name": "Scheppokat A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57221971995",
+                    "name": "Scuffham P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "37862106500",
+                    "name": "Sharplin G.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "35234984900",
+                    "name": "Shaw T.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006802061",
+                    "name": "Story D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7004056373",
+                    "name": "Teede H.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57192923784",
+                    "name": "Theisz V.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "23991521300",
+                    "name": "Trotman J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35622618000",
+                    "name": "Weller C.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57497717400",
+                    "name": "Woollett A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "59062364600",
+                    "name": "Zoungas S.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Trials",
+            "issn": "",
+            "cover_date": "2021-12-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s13063-021-05185-w"
+        },
+        {
+            "title": "Australian health policy makers' priorities for research synthesis: A survey",
+            "eid": "2-s2.0-84873638722",
+            "authors": [
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.S.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "6506094145",
+                    "name": "Tavender E.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7004518441",
+                    "name": "Buchan H.A.",
+                    "affiliation_id": [
+                        "60274660"
+                    ]
+                },
+                {
+                    "scopus_id": "7006821245",
+                    "name": "Gruen R.L.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Australian Health Review",
+            "issn": "01565788",
+            "cover_date": "2012-01-01",
+            "venue": "Journal",
+            "volume": "36",
+            "issue": "4",
+            "page_range": "401-411",
+            "doi": "10.1071/AH11064"
+        },
+        {
+            "title": "Planning a cochrane review of diagnostic test accuracy",
+            "eid": "2-s2.0-85134154505",
+            "authors": [
+                {
+                    "scopus_id": "57191337554",
+                    "name": "Flemyng E.",
+                    "affiliation_id": [
+                        "101895573"
+                    ]
+                },
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.S.",
+                    "affiliation_id": [
+                        "60012932",
+                        "60183191"
+                    ]
+                },
+                {
+                    "scopus_id": "24503007400",
+                    "name": "Arevalo-Rodriguez I.",
+                    "affiliation_id": [
+                        "60021609"
+                    ]
+                },
+                {
+                    "scopus_id": "55345911800",
+                    "name": "Chandler J.",
+                    "affiliation_id": [
+                        "122211193"
+                    ]
+                },
+                {
+                    "scopus_id": "7006087510",
+                    "name": "Deeks J.J.",
+                    "affiliation_id": [
+                        "60019702"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Cochrane Handbook for Systematic Reviews of Diagnostic Test Accuracy",
+            "issn": "",
+            "cover_date": "2023-06-16",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "1-18",
+            "doi": "10.1002/9781119756194.ch1"
+        },
+        {
+            "title": "Synthesis methods other than meta-analysis were commonly used but seldom specified: survey of systematic reviews",
+            "eid": "2-s2.0-85150867277",
+            "authors": [
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.S.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "35766406000",
+                    "name": "Brennan S.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "22945403000",
+                    "name": "Ryan R.",
+                    "affiliation_id": [
+                        "60006925"
+                    ]
+                },
+                {
+                    "scopus_id": "7202100187",
+                    "name": "McKenzie J.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Journal of Clinical Epidemiology",
+            "issn": "08954356",
+            "cover_date": "2023-04-01",
+            "venue": "Journal",
+            "volume": "156",
+            "issue": "",
+            "page_range": "42-52",
+            "doi": "10.1016/j.jclinepi.2023.02.003"
+        },
+        {
+            "title": "Approaches to prioritising research for clinical trial networks: a scoping review",
+            "eid": "2-s2.0-85143662747",
+            "authors": [
+                {
+                    "scopus_id": "15834973600",
+                    "name": "Morton R.L.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "56181162200",
+                    "name": "Tuffaha H.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57191666319",
+                    "name": "Blaya-Novakova V.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "57999229900",
+                    "name": "Spencer J.",
+                    "affiliation_id": [
+                        "125335518"
+                    ]
+                },
+                {
+                    "scopus_id": "57211144379",
+                    "name": "Hawley C.M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6701325894",
+                    "name": "Peyton P.",
+                    "affiliation_id": [
+                        "60087233"
+                    ]
+                },
+                {
+                    "scopus_id": "16230048900",
+                    "name": "Higgins A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "36106091900",
+                    "name": "Marsh J.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "7402886631",
+                    "name": "Taylor W.J.",
+                    "affiliation_id": [
+                        "60017311"
+                    ]
+                },
+                {
+                    "scopus_id": "34770938800",
+                    "name": "Huckson S.",
+                    "affiliation_id": [
+                        "60083385"
+                    ]
+                },
+                {
+                    "scopus_id": "57999676700",
+                    "name": "Sillett A.",
+                    "affiliation_id": [
+                        "60004219"
+                    ]
+                },
+                {
+                    "scopus_id": "57999450100",
+                    "name": "Schneemann K.",
+                    "affiliation_id": [
+                        "125335518",
+                        "60004219"
+                    ]
+                },
+                {
+                    "scopus_id": "58000326900",
+                    "name": "Balagurunanthan A.",
+                    "affiliation_id": [
+                        "125335518"
+                    ]
+                },
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.",
+                    "affiliation_id": [
+                        "125335518",
+                        "60183191"
+                    ]
+                },
+                {
+                    "scopus_id": "57221971995",
+                    "name": "Scuffham P.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55382766300",
+                    "name": "Glasziou P.",
+                    "affiliation_id": [
+                        "60170389"
+                    ]
+                },
+                {
+                    "scopus_id": "7004304714",
+                    "name": "Simes R.J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Trials",
+            "issn": "",
+            "cover_date": "2022-12-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s13063-022-06928-z"
+        },
+        {
+            "title": "Identifying topics for future Cochrane Public Health reviews",
+            "eid": "2-s2.0-85143200113",
+            "authors": [
+                {
+                    "scopus_id": "6506339610",
+                    "name": "Kingsland M.",
+                    "affiliation_id": [
+                        "60020166",
+                        "60183191",
+                        "60089816",
+                        "60017054"
+                    ]
+                },
+                {
+                    "scopus_id": "57210862532",
+                    "name": "Barnes C.",
+                    "affiliation_id": [
+                        "60020166",
+                        "60183191",
+                        "60089816",
+                        "60017054"
+                    ]
+                },
+                {
+                    "scopus_id": "54944956200",
+                    "name": "Doherty E.",
+                    "affiliation_id": [
+                        "60020166",
+                        "60183191",
+                        "60089816",
+                        "60017054"
+                    ]
+                },
+                {
+                    "scopus_id": "57193154389",
+                    "name": "McCrabb S.",
+                    "affiliation_id": [
+                        "60020166",
+                        "60183191",
+                        "60089816",
+                        "60017054"
+                    ]
+                },
+                {
+                    "scopus_id": "14919013700",
+                    "name": "Finch M.",
+                    "affiliation_id": [
+                        "60183191"
+                    ]
+                },
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.",
+                    "affiliation_id": [
+                        "60183191"
+                    ]
+                },
+                {
+                    "scopus_id": "9742064700",
+                    "name": "Armstrong R.",
+                    "affiliation_id": [
+                        "60118547"
+                    ]
+                },
+                {
+                    "scopus_id": "48561867100",
+                    "name": "Tudor Car L.",
+                    "affiliation_id": [
+                        "60118633",
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "55136999600",
+                    "name": "Doyle J.",
+                    "affiliation_id": [
+                        "60183191"
+                    ]
+                },
+                {
+                    "scopus_id": "6603347444",
+                    "name": "Wolfenden L.",
+                    "affiliation_id": [
+                        "60020166",
+                        "60183191",
+                        "60089816",
+                        "60017054"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Journal of Public Health (United Kingdom)",
+            "issn": "17413842",
+            "cover_date": "2022-12-01",
+            "venue": "Journal",
+            "volume": "44",
+            "issue": "4",
+            "page_range": "E578-E581",
+            "doi": "10.1093/pubmed/fdab287"
+        },
+        {
+            "title": "Effect estimates can be accurately calculated with data digitally extracted from interrupted time series graphs",
+            "eid": "2-s2.0-85161623468",
+            "authors": [
+                {
+                    "scopus_id": "57194609201",
+                    "name": "Turner S.L.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57218212961",
+                    "name": "Korevaar E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.S.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "56433488000",
+                    "name": "Kanukula R.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "55555014400",
+                    "name": "Forbes A.B.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7202100187",
+                    "name": "McKenzie J.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Research Synthesis Methods",
+            "issn": "",
+            "cover_date": "2023-07-01",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "4",
+            "page_range": "622-638",
+            "doi": "10.1002/jrsm.1646"
+        },
+        {
+            "title": "Protecting human health in a time of climate change: how Cochrane should respond",
+            "eid": "2-s2.0-85127299385",
+            "authors": [
+                {
+                    "scopus_id": "24177948000",
+                    "name": "Thomson D.",
+                    "affiliation_id": [
+                        "60030835"
+                    ]
+                },
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.",
+                    "affiliation_id": [
+                        "60010571"
+                    ]
+                },
+                {
+                    "scopus_id": "56606279800",
+                    "name": "Delgado-Figueroa N.",
+                    "affiliation_id": [
+                        "60008943"
+                    ]
+                },
+                {
+                    "scopus_id": "35428937200",
+                    "name": "Ebi K.L.",
+                    "affiliation_id": [
+                        "124252237"
+                    ]
+                },
+                {
+                    "scopus_id": "54997981700",
+                    "name": "Haddaway N.",
+                    "affiliation_id": [
+                        "60015157"
+                    ]
+                },
+                {
+                    "scopus_id": "58762297600",
+                    "name": "van der Heijden M.",
+                    "affiliation_id": [
+                        "60031331"
+                    ]
+                },
+                {
+                    "scopus_id": "14070329600",
+                    "name": "Heyn P.C.",
+                    "affiliation_id": [
+                        "60028392"
+                    ]
+                },
+                {
+                    "scopus_id": "57215662432",
+                    "name": "Lokotola C.L.",
+                    "affiliation_id": [
+                        "60001565"
+                    ]
+                },
+                {
+                    "scopus_id": "22835812000",
+                    "name": "Meerpohl J.J.",
+                    "affiliation_id": [
+                        "60025641"
+                    ]
+                },
+                {
+                    "scopus_id": "55940498000",
+                    "name": "Metzendorf M.I.",
+                    "affiliation_id": [
+                        "60085126"
+                    ]
+                },
+                {
+                    "scopus_id": "57554669500",
+                    "name": "Parker E.R.",
+                    "affiliation_id": [
+                        "60030769"
+                    ]
+                },
+                {
+                    "scopus_id": "54934944500",
+                    "name": "Phalkey R.",
+                    "affiliation_id": [
+                        "60015138"
+                    ]
+                },
+                {
+                    "scopus_id": "57203176324",
+                    "name": "Tovey D.",
+                    "affiliation_id": [
+                        "130796883"
+                    ]
+                },
+                {
+                    "scopus_id": "22735718100",
+                    "name": "von Elm E.",
+                    "affiliation_id": [
+                        "60000239"
+                    ]
+                },
+                {
+                    "scopus_id": "57206205598",
+                    "name": "Webster R.J.",
+                    "affiliation_id": [
+                        "60018471"
+                    ]
+                },
+                {
+                    "scopus_id": "6603283344",
+                    "name": "Wieland S.L.",
+                    "affiliation_id": [
+                        "60012957"
+                    ]
+                },
+                {
+                    "scopus_id": "12239527700",
+                    "name": "Young T.",
+                    "affiliation_id": [
+                        "60001565"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "The Cochrane database of systematic reviews",
+            "issn": "",
+            "cover_date": "2022-03-30",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "",
+            "page_range": "ED000156",
+            "doi": "10.1002/14651858.ED000156"
+        },
+        {
+            "title": "Critical elements of synthesis questions are incompletely reported: survey of systematic reviews of intervention effects",
+            "eid": "2-s2.0-85175247794",
+            "authors": [
+                {
+                    "scopus_id": "24342945700",
+                    "name": "Cumpston M.S.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7202100187",
+                    "name": "McKenzie J.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "22945403000",
+                    "name": "Ryan R.",
+                    "affiliation_id": [
+                        "60006925"
+                    ]
+                },
+                {
+                    "scopus_id": "55574208397",
+                    "name": "Thomas J.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "35766406000",
+                    "name": "Brennan S.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Journal of Clinical Epidemiology",
+            "issn": "08954356",
+            "cover_date": "2023-11-01",
+            "venue": "Journal",
+            "volume": "163",
+            "issue": "",
+            "page_range": "79-91",
+            "doi": "10.1016/j.jclinepi.2023.09.013"
+        }
+    ],
+    "affiliation": "Monash University",
+    "affiliation_id": "60019578",
+    "city": "Clayton",
+    "country": "Australia",
+    "document_count": 23,
+    "subject_area": [
+        {
+            "@abbrev": "MEDI",
+            "@frequency": "42",
+            "$": "Medicine (all)"
+        },
+        {
+            "@abbrev": "BIOC",
+            "@frequency": "2",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)"
+        },
+        {
+            "@abbrev": "PHAR",
+            "@frequency": "2",
+            "$": "Pharmacology, Toxicology and Pharmaceutics (all)"
+        }
+    ],
+    "date fetched": "2024-07-12 19:36:41"
+}

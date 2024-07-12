@@ -233,7 +233,7 @@
                     ]
                 }
             ],
-            "citations": 1065,
+            "citations": 1067,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2015-10-22",
@@ -312,7 +312,7 @@
                     ]
                 }
             ],
-            "citations": 985,
+            "citations": 987,
             "publication_name": "Nature Reviews Molecular Cell Biology",
             "issn": "14710072",
             "cover_date": "2006-05-01",
@@ -386,7 +386,7 @@
                     ]
                 }
             ],
-            "citations": 890,
+            "citations": 891,
             "publication_name": "EMBO Journal",
             "issn": "02614189",
             "cover_date": "2000-09-01",
@@ -472,7 +472,7 @@
                     ]
                 }
             ],
-            "citations": 682,
+            "citations": 683,
             "publication_name": "Nature Reviews Molecular Cell Biology",
             "issn": "14710072",
             "cover_date": "2013-02-01",
@@ -695,7 +695,7 @@
                     ]
                 }
             ],
-            "citations": 677,
+            "citations": 678,
             "publication_name": "Cell",
             "issn": "00928674",
             "cover_date": "2011-02-04",
@@ -1083,7 +1083,7 @@
                     ]
                 }
             ],
-            "citations": 569,
+            "citations": 570,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2004-01-23",
@@ -1122,7 +1122,7 @@
                     ]
                 }
             ],
-            "citations": 545,
+            "citations": 555,
             "publication_name": "Nature Nanotechnology",
             "issn": "17483387",
             "cover_date": "2021-03-01",
@@ -1232,7 +1232,7 @@
                     ]
                 }
             ],
-            "citations": 537,
+            "citations": 538,
             "publication_name": "Developmental Cell",
             "issn": "15345807",
             "cover_date": "2002-01-01",
@@ -1502,7 +1502,7 @@
                     ]
                 }
             ],
-            "citations": 469,
+            "citations": 470,
             "publication_name": "Cell",
             "issn": "00928674",
             "cover_date": "2004-02-06",
@@ -1524,7 +1524,7 @@
                     ]
                 }
             ],
-            "citations": 468,
+            "citations": 469,
             "publication_name": "Journal of Histochemistry and Cytochemistry",
             "issn": "00221554",
             "cover_date": "1994-01-01",
@@ -1581,7 +1581,7 @@
                     ]
                 }
             ],
-            "citations": 461,
+            "citations": 462,
             "publication_name": "Nature Cell Biology",
             "issn": "14657392",
             "cover_date": "2001-04-23",
@@ -1994,7 +1994,7 @@
                     ]
                 }
             ],
-            "citations": 401,
+            "citations": 402,
             "publication_name": "Nature Cell Biology",
             "issn": "14657392",
             "cover_date": "1999-01-01",
@@ -2082,7 +2082,7 @@
                     ]
                 }
             ],
-            "citations": 387,
+            "citations": 388,
             "publication_name": "Journal of Cell Biology",
             "issn": "00219525",
             "cover_date": "2008-02-11",
@@ -2235,7 +2235,7 @@
                     ]
                 }
             ],
-            "citations": 362,
+            "citations": 363,
             "publication_name": "Cold Spring Harbor Perspectives in Biology",
             "issn": "",
             "cover_date": "2014-01-01",
@@ -2448,7 +2448,7 @@
                     ]
                 }
             ],
-            "citations": 348,
+            "citations": 349,
             "publication_name": "Journal of Cell Biology",
             "issn": "00219525",
             "cover_date": "2005-01-31",
@@ -2632,7 +2632,7 @@
                     ]
                 }
             ],
-            "citations": 333,
+            "citations": 334,
             "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
             "issn": "00278424",
             "cover_date": "2017-10-03",
@@ -2865,7 +2865,7 @@
                     ]
                 }
             ],
-            "citations": 283,
+            "citations": 284,
             "publication_name": "Molecular Biology of the Cell",
             "issn": "10591524",
             "cover_date": "2000-01-01",
@@ -3190,7 +3190,7 @@
                     ]
                 }
             ],
-            "citations": 270,
+            "citations": 271,
             "publication_name": "Nature Cell Biology",
             "issn": "14657392",
             "cover_date": "2005-01-01",
@@ -3277,7 +3277,7 @@
                     ]
                 }
             ],
-            "citations": 267,
+            "citations": 268,
             "publication_name": "Journal of Cell Biology",
             "issn": "00219525",
             "cover_date": "2011-12-12",
@@ -3467,56 +3467,6 @@
             "doi": "10.1074/jbc.M101113200"
         },
         {
-            "title": "Microtubule- and motor-dependent fusion in vitro between apical and basolateral endocytic vesicles from MDCK cells",
-            "eid": "2-s2.0-0025029828",
-            "authors": [
-                {
-                    "scopus_id": "56243293700",
-                    "name": "Bomsel M.",
-                    "affiliation_id": [
-                        "60007257"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.",
-                    "affiliation_id": [
-                        "60007257"
-                    ]
-                },
-                {
-                    "scopus_id": "9040736000",
-                    "name": "Kuznetsov S.A.",
-                    "affiliation_id": [
-                        "60007457"
-                    ]
-                },
-                {
-                    "scopus_id": "7005698001",
-                    "name": "Schroer T.A.",
-                    "affiliation_id": [
-                        "60005248"
-                    ]
-                },
-                {
-                    "scopus_id": "7005949878",
-                    "name": "Gruenberg J.",
-                    "affiliation_id": [
-                        "60007257"
-                    ]
-                }
-            ],
-            "citations": 261,
-            "publication_name": "Cell",
-            "issn": "00928674",
-            "cover_date": "1990-08-24",
-            "venue": "Journal",
-            "volume": "62",
-            "issue": "4",
-            "page_range": "719-731",
-            "doi": "10.1016/0092-8674(90)90117-W"
-        },
-        {
             "title": "Sequence-dependent sorting of recycling proteins by actin-stabilized endosomal microdomains",
             "eid": "2-s2.0-79251527516",
             "authors": [
@@ -3592,7 +3542,7 @@
                     ]
                 }
             ],
-            "citations": 260,
+            "citations": 261,
             "publication_name": "Cell",
             "issn": "00928674",
             "cover_date": "2010-11-24",
@@ -3601,6 +3551,56 @@
             "issue": "5",
             "page_range": "761-773",
             "doi": "10.1016/j.cell.2010.10.003"
+        },
+        {
+            "title": "Microtubule- and motor-dependent fusion in vitro between apical and basolateral endocytic vesicles from MDCK cells",
+            "eid": "2-s2.0-0025029828",
+            "authors": [
+                {
+                    "scopus_id": "56243293700",
+                    "name": "Bomsel M.",
+                    "affiliation_id": [
+                        "60007257"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.",
+                    "affiliation_id": [
+                        "60007257"
+                    ]
+                },
+                {
+                    "scopus_id": "9040736000",
+                    "name": "Kuznetsov S.A.",
+                    "affiliation_id": [
+                        "60007457"
+                    ]
+                },
+                {
+                    "scopus_id": "7005698001",
+                    "name": "Schroer T.A.",
+                    "affiliation_id": [
+                        "60005248"
+                    ]
+                },
+                {
+                    "scopus_id": "7005949878",
+                    "name": "Gruenberg J.",
+                    "affiliation_id": [
+                        "60007257"
+                    ]
+                }
+            ],
+            "citations": 261,
+            "publication_name": "Cell",
+            "issn": "00928674",
+            "cover_date": "1990-08-24",
+            "venue": "Journal",
+            "volume": "62",
+            "issue": "4",
+            "page_range": "719-731",
+            "doi": "10.1016/0092-8674(90)90117-W"
         },
         {
             "title": "Internalization and recycling of activated thrombin receptors",
@@ -4397,7 +4397,7 @@
                     ]
                 }
             ],
-            "citations": 228,
+            "citations": 229,
             "publication_name": "Journal of Cell Biology",
             "issn": "00219525",
             "cover_date": "2011-07-25",
@@ -4406,56 +4406,6 @@
             "issue": "2",
             "page_range": "257-275",
             "doi": "10.1083/jcb.201012028"
-        },
-        {
-            "title": "Endocytosis in filter-grown Madin-Darby canine kidney cells",
-            "eid": "2-s2.0-0024819257",
-            "authors": [
-                {
-                    "scopus_id": "56243293700",
-                    "name": "Bomsel M.",
-                    "affiliation_id": [
-                        "60007257"
-                    ]
-                },
-                {
-                    "scopus_id": "7004027465",
-                    "name": "Prydz K.",
-                    "affiliation_id": [
-                        "60007257"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.",
-                    "affiliation_id": [
-                        "60007257"
-                    ]
-                },
-                {
-                    "scopus_id": "7005949878",
-                    "name": "Gruenberg J.",
-                    "affiliation_id": [
-                        "60007257"
-                    ]
-                },
-                {
-                    "scopus_id": "7202131266",
-                    "name": "Simons K.",
-                    "affiliation_id": [
-                        "60007257"
-                    ]
-                }
-            ],
-            "citations": 225,
-            "publication_name": "Journal of Cell Biology",
-            "issn": "00219525",
-            "cover_date": "1989-12-01",
-            "venue": "Journal",
-            "volume": "109",
-            "issue": "6 II",
-            "page_range": "3243-3258",
-            "doi": "10.1083/jcb.109.6.3243"
         },
         {
             "title": "Adaptor proteins MiD49 and MiD51 can act independently of Mff and Fis1 in Drp1 recruitment and are specific for mitochondrial fission",
@@ -4509,7 +4459,7 @@
                     ]
                 }
             ],
-            "citations": 223,
+            "citations": 225,
             "publication_name": "Journal of Biological Chemistry",
             "issn": "00219258",
             "cover_date": "2013-09-20",
@@ -4518,6 +4468,56 @@
             "issue": "38",
             "page_range": "27584-27593",
             "doi": "10.1074/jbc.M113.479873"
+        },
+        {
+            "title": "Endocytosis in filter-grown Madin-Darby canine kidney cells",
+            "eid": "2-s2.0-0024819257",
+            "authors": [
+                {
+                    "scopus_id": "56243293700",
+                    "name": "Bomsel M.",
+                    "affiliation_id": [
+                        "60007257"
+                    ]
+                },
+                {
+                    "scopus_id": "7004027465",
+                    "name": "Prydz K.",
+                    "affiliation_id": [
+                        "60007257"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.",
+                    "affiliation_id": [
+                        "60007257"
+                    ]
+                },
+                {
+                    "scopus_id": "7005949878",
+                    "name": "Gruenberg J.",
+                    "affiliation_id": [
+                        "60007257"
+                    ]
+                },
+                {
+                    "scopus_id": "7202131266",
+                    "name": "Simons K.",
+                    "affiliation_id": [
+                        "60007257"
+                    ]
+                }
+            ],
+            "citations": 225,
+            "publication_name": "Journal of Cell Biology",
+            "issn": "00219525",
+            "cover_date": "1989-12-01",
+            "venue": "Journal",
+            "volume": "109",
+            "issue": "6 II",
+            "page_range": "3243-3258",
+            "doi": "10.1083/jcb.109.6.3243"
         },
         {
             "title": "MURC/Cavin-4 and cavin family members form tissue-specific caveolar complexes",
@@ -4683,7 +4683,7 @@
                     ]
                 }
             ],
-            "citations": 221,
+            "citations": 222,
             "publication_name": "Biochimica et Biophysica Acta - Molecular and Cell Biology of Lipids",
             "issn": "13881981",
             "cover_date": "2009-06-01",
@@ -4977,35 +4977,6 @@
             "doi": "10.1016/j.bbamcr.2005.06.002"
         },
         {
-            "title": "Flotillins and the PHB domain protein family: Rafts worms and anaesthetics",
-            "eid": "2-s2.0-23844462163",
-            "authors": [
-                {
-                    "scopus_id": "7003507267",
-                    "name": "Morrow I.C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.G.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 218,
-            "publication_name": "Traffic",
-            "issn": "13989219",
-            "cover_date": "2005-09-01",
-            "venue": "Journal",
-            "volume": "6",
-            "issue": "9",
-            "page_range": "725-740",
-            "doi": "10.1111/j.1600-0854.2005.00318.x"
-        },
-        {
             "title": "Mammalian lipid droplets are innate immune hubs integrating cell metabolism and host defense",
             "eid": "2-s2.0-85093481046",
             "authors": [
@@ -5215,7 +5186,7 @@
                     ]
                 }
             ],
-            "citations": 216,
+            "citations": 218,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2020-10-16",
@@ -5224,6 +5195,35 @@
             "issue": "6514",
             "page_range": null,
             "doi": "10.1126/science.aay8085"
+        },
+        {
+            "title": "Flotillins and the PHB domain protein family: Rafts worms and anaesthetics",
+            "eid": "2-s2.0-23844462163",
+            "authors": [
+                {
+                    "scopus_id": "7003507267",
+                    "name": "Morrow I.C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.G.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 218,
+            "publication_name": "Traffic",
+            "issn": "13989219",
+            "cover_date": "2005-09-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "9",
+            "page_range": "725-740",
+            "doi": "10.1111/j.1600-0854.2005.00318.x"
         },
         {
             "title": "Polarized sorting of glypiated proteins in hippocampal neurons",
@@ -5643,7 +5643,7 @@
                     ]
                 }
             ],
-            "citations": 201,
+            "citations": 202,
             "publication_name": "Nature Communications",
             "issn": "",
             "cover_date": "2015-05-27",
@@ -5819,6 +5819,28 @@
             "doi": "10.1016/j.cub.2008.10.044"
         },
         {
+            "title": "Caveolae: Structure, Function, and Relationship to Disease",
+            "eid": "2-s2.0-85054659252",
+            "authors": [
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.G.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 196,
+            "publication_name": "Annual Review of Cell and Developmental Biology",
+            "issn": "10810706",
+            "cover_date": "2018-10-06",
+            "venue": "Book Series",
+            "volume": "34",
+            "issue": "",
+            "page_range": "111-136",
+            "doi": "10.1146/annurev-cellbio-100617-062737"
+        },
+        {
             "title": "Ras plasma membrane signalling platforms",
             "eid": "2-s2.0-22144479017",
             "authors": [
@@ -5847,28 +5869,6 @@
             "issue": "1",
             "page_range": "1-11",
             "doi": "10.1042/BJ20050231"
-        },
-        {
-            "title": "Caveolae: Structure, Function, and Relationship to Disease",
-            "eid": "2-s2.0-85054659252",
-            "authors": [
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.G.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 195,
-            "publication_name": "Annual Review of Cell and Developmental Biology",
-            "issn": "10810706",
-            "cover_date": "2018-10-06",
-            "venue": "Book Series",
-            "volume": "34",
-            "issue": "",
-            "page_range": "111-136",
-            "doi": "10.1146/annurev-cellbio-100617-062737"
         },
         {
             "title": "Endosome dynamics regulated by a Rho protein",
@@ -7407,95 +7407,6 @@
             "doi": "10.1111/j.1600-0854.2007.00565.x"
         },
         {
-            "title": "Cholesterol-induced caveolin targeting to lipid droplets in adipocytes: A role for caveolar endocytosis",
-            "eid": "2-s2.0-33745844829",
-            "authors": [
-                {
-                    "scopus_id": "6602283169",
-                    "name": "Le Lay S.",
-                    "affiliation_id": [
-                        "60000456"
-                    ]
-                },
-                {
-                    "scopus_id": "6701691125",
-                    "name": "Hajduch E.",
-                    "affiliation_id": [
-                        "60000905",
-                        "60001422"
-                    ]
-                },
-                {
-                    "scopus_id": "7102822730",
-                    "name": "Lindsay M.R.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6602861843",
-                    "name": "Le Li\u00e8pvre X.",
-                    "affiliation_id": [
-                        "60000905",
-                        "60001422"
-                    ]
-                },
-                {
-                    "scopus_id": "7006645074",
-                    "name": "Thiele C.",
-                    "affiliation_id": [
-                        "60000456"
-                    ]
-                },
-                {
-                    "scopus_id": "7102006204",
-                    "name": "Ferr\u00e9 P.",
-                    "affiliation_id": [
-                        "60000905",
-                        "60001422"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.G.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57208463504",
-                    "name": "Kurzchalia T.",
-                    "affiliation_id": [
-                        "60000456"
-                    ]
-                },
-                {
-                    "scopus_id": "7202131266",
-                    "name": "Simons K.",
-                    "affiliation_id": [
-                        "60000456"
-                    ]
-                },
-                {
-                    "scopus_id": "57202557811",
-                    "name": "Dugail I.",
-                    "affiliation_id": [
-                        "60000905",
-                        "60001422"
-                    ]
-                }
-            ],
-            "citations": 154,
-            "publication_name": "Traffic",
-            "issn": "13989219",
-            "cover_date": "2006-05-01",
-            "venue": "Journal",
-            "volume": "7",
-            "issue": "5",
-            "page_range": "549-561",
-            "doi": "10.1111/j.1600-0854.2006.00406.x"
-        },
-        {
             "title": "Functional role of T-cell receptor nanoclusters in signal initiation and antigen discrimination",
             "eid": "2-s2.0-84987667744",
             "authors": [
@@ -7648,7 +7559,7 @@
                     ]
                 }
             ],
-            "citations": 153,
+            "citations": 154,
             "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
             "issn": "00278424",
             "cover_date": "2016-09-13",
@@ -7657,6 +7568,95 @@
             "issue": "37",
             "page_range": "E5454-E5463",
             "doi": "10.1073/pnas.1607436113"
+        },
+        {
+            "title": "Cholesterol-induced caveolin targeting to lipid droplets in adipocytes: A role for caveolar endocytosis",
+            "eid": "2-s2.0-33745844829",
+            "authors": [
+                {
+                    "scopus_id": "6602283169",
+                    "name": "Le Lay S.",
+                    "affiliation_id": [
+                        "60000456"
+                    ]
+                },
+                {
+                    "scopus_id": "6701691125",
+                    "name": "Hajduch E.",
+                    "affiliation_id": [
+                        "60000905",
+                        "60001422"
+                    ]
+                },
+                {
+                    "scopus_id": "7102822730",
+                    "name": "Lindsay M.R.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6602861843",
+                    "name": "Le Li\u00e8pvre X.",
+                    "affiliation_id": [
+                        "60000905",
+                        "60001422"
+                    ]
+                },
+                {
+                    "scopus_id": "7006645074",
+                    "name": "Thiele C.",
+                    "affiliation_id": [
+                        "60000456"
+                    ]
+                },
+                {
+                    "scopus_id": "7102006204",
+                    "name": "Ferr\u00e9 P.",
+                    "affiliation_id": [
+                        "60000905",
+                        "60001422"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.G.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57208463504",
+                    "name": "Kurzchalia T.",
+                    "affiliation_id": [
+                        "60000456"
+                    ]
+                },
+                {
+                    "scopus_id": "7202131266",
+                    "name": "Simons K.",
+                    "affiliation_id": [
+                        "60000456"
+                    ]
+                },
+                {
+                    "scopus_id": "57202557811",
+                    "name": "Dugail I.",
+                    "affiliation_id": [
+                        "60000905",
+                        "60001422"
+                    ]
+                }
+            ],
+            "citations": 154,
+            "publication_name": "Traffic",
+            "issn": "13989219",
+            "cover_date": "2006-05-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "5",
+            "page_range": "549-561",
+            "doi": "10.1111/j.1600-0854.2006.00406.x"
         },
         {
             "title": "Association of Rap1a and Rap1b proteins with late endocytic/phagocytic compartments and Rap2a with the Golgi complex",
@@ -8011,7 +8011,7 @@
                     ]
                 }
             ],
-            "citations": 145,
+            "citations": 146,
             "publication_name": "Development (Cambridge)",
             "issn": "09501991",
             "cover_date": "2017-03-15",
@@ -9220,7 +9220,7 @@
                     "scopus_id": "55628527900",
                     "name": "Liu G.",
                     "affiliation_id": [
-                        "60004573"
+                        "60124569"
                     ]
                 },
                 {
@@ -9479,6 +9479,51 @@
             "doi": "10.1083/jcb.139.5.1119"
         },
         {
+            "title": "Structure-Based Reassessment of the Caveolin Signaling Model: Do Caveolae Regulate Signaling through Caveolin-Protein Interactions?",
+            "eid": "2-s2.0-84864025624",
+            "authors": [
+                {
+                    "scopus_id": "7201876024",
+                    "name": "Collins B.M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "35419216300",
+                    "name": "Davis M.J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7202389307",
+                    "name": "Hancock J.F.",
+                    "affiliation_id": [
+                        "60021568"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.G.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 123,
+            "publication_name": "Developmental Cell",
+            "issn": "15345807",
+            "cover_date": "2012-07-17",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "1",
+            "page_range": "11-20",
+            "doi": "10.1016/j.devcel.2012.06.012"
+        },
+        {
             "title": "Visualisation of macropinosome maturation by the recruitment of sorting nexins",
             "eid": "2-s2.0-33750451559",
             "authors": [
@@ -9548,51 +9593,6 @@
             "issue": "19",
             "page_range": "3967-3980",
             "doi": "10.1242/jcs.03167"
-        },
-        {
-            "title": "Structure-Based Reassessment of the Caveolin Signaling Model: Do Caveolae Regulate Signaling through Caveolin-Protein Interactions?",
-            "eid": "2-s2.0-84864025624",
-            "authors": [
-                {
-                    "scopus_id": "7201876024",
-                    "name": "Collins B.M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "35419216300",
-                    "name": "Davis M.J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7202389307",
-                    "name": "Hancock J.F.",
-                    "affiliation_id": [
-                        "60021568"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.G.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 122,
-            "publication_name": "Developmental Cell",
-            "issn": "15345807",
-            "cover_date": "2012-07-17",
-            "venue": "Journal",
-            "volume": "23",
-            "issue": "1",
-            "page_range": "11-20",
-            "doi": "10.1016/j.devcel.2012.06.012"
         },
         {
             "title": "Caveolins and cellular cholesterol balance",
@@ -10444,7 +10444,7 @@
                     ]
                 }
             ],
-            "citations": 107,
+            "citations": 108,
             "publication_name": "Molecular and Cellular Biology",
             "issn": "02707306",
             "cover_date": "2014-03-01",
@@ -10896,91 +10896,6 @@
             "doi": "10.1080/15548627.2015.1034411"
         },
         {
-            "title": "Caveolae regulate the nanoscale organization of the plasma membrane to remotely control Ras signaling",
-            "eid": "2-s2.0-84895770533",
-            "authors": [
-                {
-                    "scopus_id": "23979656900",
-                    "name": "Ariotti N.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57199901501",
-                    "name": "Fern\u00e1ndez-Rojo M.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "35760688000",
-                    "name": "Zhou Y.",
-                    "affiliation_id": [
-                        "60021568"
-                    ]
-                },
-                {
-                    "scopus_id": "7404447084",
-                    "name": "Hill M.M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "10042174300",
-                    "name": "Rodkey T.L.",
-                    "affiliation_id": [
-                        "60021568"
-                    ]
-                },
-                {
-                    "scopus_id": "41361232200",
-                    "name": "Inder K.L.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "36612571000",
-                    "name": "Tanner L.B.",
-                    "affiliation_id": [
-                        "60026680"
-                    ]
-                },
-                {
-                    "scopus_id": "7006380030",
-                    "name": "Wenk M.R.",
-                    "affiliation_id": [
-                        "60026680"
-                    ]
-                },
-                {
-                    "scopus_id": "7202389307",
-                    "name": "Hancock J.F.",
-                    "affiliation_id": [
-                        "60021568"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.G.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 101,
-            "publication_name": "Journal of Cell Biology",
-            "issn": "00219525",
-            "cover_date": "2014-01-01",
-            "venue": "Journal",
-            "volume": "204",
-            "issue": "5",
-            "page_range": "777-792",
-            "doi": "10.1083/jcb.201307055"
-        },
-        {
             "title": "Endocytosis Inhibition in Humans to Improve Responses to ADCC-Mediating Antibodies",
             "eid": "2-s2.0-85080110879",
             "authors": [
@@ -11208,7 +11123,7 @@
                     ]
                 }
             ],
-            "citations": 100,
+            "citations": 101,
             "publication_name": "Cell",
             "issn": "00928674",
             "cover_date": "2020-03-05",
@@ -11219,62 +11134,89 @@
             "doi": "10.1016/j.cell.2020.02.019"
         },
         {
-            "title": "Rab23, a negative regulator of hedgehog signaling, localizes to the plasma membrane and the endocytic pathway",
-            "eid": "2-s2.0-0346752323",
+            "title": "Caveolae regulate the nanoscale organization of the plasma membrane to remotely control Ras signaling",
+            "eid": "2-s2.0-84895770533",
             "authors": [
                 {
-                    "scopus_id": "7401454341",
-                    "name": "Evans T.M.",
+                    "scopus_id": "23979656900",
+                    "name": "Ariotti N.",
                     "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60018950"
-                    ]
-                },
-                {
-                    "scopus_id": "7201459577",
-                    "name": "Ferguson C.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
                         "60031004"
                     ]
                 },
                 {
-                    "scopus_id": "7006267065",
-                    "name": "Wainwright B.J.",
+                    "scopus_id": "57199901501",
+                    "name": "Fern\u00e1ndez-Rojo M.A.",
                     "affiliation_id": [
-                        "60031004",
-                        "60018950"
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "35760688000",
+                    "name": "Zhou Y.",
+                    "affiliation_id": [
+                        "60021568"
+                    ]
+                },
+                {
+                    "scopus_id": "7404447084",
+                    "name": "Hill M.M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "10042174300",
+                    "name": "Rodkey T.L.",
+                    "affiliation_id": [
+                        "60021568"
+                    ]
+                },
+                {
+                    "scopus_id": "41361232200",
+                    "name": "Inder K.L.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "36612571000",
+                    "name": "Tanner L.B.",
+                    "affiliation_id": [
+                        "60026680"
+                    ]
+                },
+                {
+                    "scopus_id": "7006380030",
+                    "name": "Wenk M.R.",
+                    "affiliation_id": [
+                        "60026680"
+                    ]
+                },
+                {
+                    "scopus_id": "7202389307",
+                    "name": "Hancock J.F.",
+                    "affiliation_id": [
+                        "60021568"
                     ]
                 },
                 {
                     "scopus_id": "7101912368",
                     "name": "Parton R.G.",
                     "affiliation_id": [
-                        "60031004",
-                        "60031004",
                         "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7003995587",
-                    "name": "Wicking C.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60018950"
                     ]
                 }
             ],
-            "citations": 99,
-            "publication_name": "Traffic",
-            "issn": "13989219",
-            "cover_date": "2003-12-01",
+            "citations": 101,
+            "publication_name": "Journal of Cell Biology",
+            "issn": "00219525",
+            "cover_date": "2014-01-01",
             "venue": "Journal",
-            "volume": "4",
-            "issue": "12",
-            "page_range": "869-884",
-            "doi": "10.1046/j.1600-0854.2003.00141.x"
+            "volume": "204",
+            "issue": "5",
+            "page_range": "777-792",
+            "doi": "10.1083/jcb.201307055"
         },
         {
             "title": "Retromer has a selective function in cargo sorting via endosome transport carriers",
@@ -11340,7 +11282,7 @@
                     ]
                 }
             ],
-            "citations": 98,
+            "citations": 99,
             "publication_name": "Journal of Cell Biology",
             "issn": "00219525",
             "cover_date": "2019-02-01",
@@ -11349,6 +11291,64 @@
             "issue": "2",
             "page_range": "615-631",
             "doi": "10.1083/jcb.201806153"
+        },
+        {
+            "title": "Rab23, a negative regulator of hedgehog signaling, localizes to the plasma membrane and the endocytic pathway",
+            "eid": "2-s2.0-0346752323",
+            "authors": [
+                {
+                    "scopus_id": "7401454341",
+                    "name": "Evans T.M.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60018950"
+                    ]
+                },
+                {
+                    "scopus_id": "7201459577",
+                    "name": "Ferguson C.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7006267065",
+                    "name": "Wainwright B.J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60018950"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.G.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7003995587",
+                    "name": "Wicking C.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60018950"
+                    ]
+                }
+            ],
+            "citations": 99,
+            "publication_name": "Traffic",
+            "issn": "13989219",
+            "cover_date": "2003-12-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "12",
+            "page_range": "869-884",
+            "doi": "10.1046/j.1600-0854.2003.00141.x"
         },
         {
             "title": "Evolutionary analysis and molecular dissection of caveola biogenesis",
@@ -11773,7 +11773,7 @@
                     ]
                 }
             ],
-            "citations": 96,
+            "citations": 97,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2016-08-24",
@@ -14147,6 +14147,36 @@
             "doi": "10.1038/s41467-018-03955-w"
         },
         {
+            "title": "Revisiting caveolin trafficking: The end of the caveosome",
+            "eid": "2-s2.0-78049499223",
+            "authors": [
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.G.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "16316239100",
+                    "name": "Howes M.T.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 72,
+            "publication_name": "Journal of Cell Biology",
+            "issn": "00219525",
+            "cover_date": "2010-11-01",
+            "venue": "Journal",
+            "volume": "191",
+            "issue": "3",
+            "page_range": "439-441",
+            "doi": "10.1083/jcb.201009093"
+        },
+        {
             "title": "Structural insights into the organization of the cavin membrane coat complex",
             "eid": "2-s2.0-84921310508",
             "authors": [
@@ -14261,36 +14291,6 @@
             "issue": "4",
             "page_range": "405-419",
             "doi": "10.1016/j.devcel.2014.10.002"
-        },
-        {
-            "title": "Revisiting caveolin trafficking: The end of the caveosome",
-            "eid": "2-s2.0-78049499223",
-            "authors": [
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.G.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "16316239100",
-                    "name": "Howes M.T.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 71,
-            "publication_name": "Journal of Cell Biology",
-            "issn": "00219525",
-            "cover_date": "2010-11-01",
-            "venue": "Journal",
-            "volume": "191",
-            "issue": "3",
-            "page_range": "439-441",
-            "doi": "10.1083/jcb.201009093"
         },
         {
             "title": "Diversity of raft-like domains in late endosomes",
@@ -15176,6 +15176,36 @@
             "doi": "10.1093/hmg/ddr613"
         },
         {
+            "title": "Exploitation of major histocompatibility complex class I molecules and caveolae by simian virus 40",
+            "eid": "2-s2.0-0032996508",
+            "authors": [
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.",
+                    "affiliation_id": [
+                        "100607481",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7102822730",
+                    "name": "Lindsay M.",
+                    "affiliation_id": [
+                        "100607481"
+                    ]
+                }
+            ],
+            "citations": 66,
+            "publication_name": "Immunological Reviews",
+            "issn": "01052896",
+            "cover_date": "1999-06-24",
+            "venue": "Journal",
+            "volume": "168",
+            "issue": "",
+            "page_range": "23-31",
+            "doi": "10.1111/j.1600-065X.1999.tb01280.x"
+        },
+        {
             "title": "Characterization of tetanus toxin binding to rat brain membranes. Evidence for a high-affinity proteinase-sensitive receptor",
             "eid": "2-s2.0-0022539795",
             "authors": [
@@ -15573,86 +15603,6 @@
             "doi": "10.1111/j.1600-0854.2005.00289.x"
         },
         {
-            "title": "Exploitation of major histocompatibility complex class I molecules and caveolae by simian virus 40",
-            "eid": "2-s2.0-0032996508",
-            "authors": [
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.",
-                    "affiliation_id": [
-                        "100607481",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7102822730",
-                    "name": "Lindsay M.",
-                    "affiliation_id": [
-                        "100607481"
-                    ]
-                }
-            ],
-            "citations": 65,
-            "publication_name": "Immunological Reviews",
-            "issn": "01052896",
-            "cover_date": "1999-06-24",
-            "venue": "Journal",
-            "volume": "168",
-            "issue": "",
-            "page_range": "23-31",
-            "doi": "10.1111/j.1600-065X.1999.tb01280.x"
-        },
-        {
-            "title": "The association of annexin I with early endosomes is regulated by Ca<sup>2+</sup> and requires an intact N-terminal domain",
-            "eid": "2-s2.0-0029786326",
-            "authors": [
-                {
-                    "scopus_id": "7004565662",
-                    "name": "Seemann J.",
-                    "affiliation_id": [
-                        "60032895"
-                    ]
-                },
-                {
-                    "scopus_id": "7402658762",
-                    "name": "Weber K.",
-                    "affiliation_id": [
-                        "60032895"
-                    ]
-                },
-                {
-                    "scopus_id": "55828995400",
-                    "name": "Osborn M.",
-                    "affiliation_id": [
-                        "60032895"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.G.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7005180297",
-                    "name": "Gerke V.",
-                    "affiliation_id": [
-                        "60000401"
-                    ]
-                }
-            ],
-            "citations": 64,
-            "publication_name": "Molecular Biology of the Cell",
-            "issn": "10591524",
-            "cover_date": "1996-01-01",
-            "venue": "Journal",
-            "volume": "7",
-            "issue": "9",
-            "page_range": "1359-1374",
-            "doi": "10.1091/mbc.7.9.1359"
-        },
-        {
             "title": "Caveolae: The FAQs",
             "eid": "2-s2.0-85072019904",
             "authors": [
@@ -15735,7 +15685,7 @@
                     ]
                 }
             ],
-            "citations": 63,
+            "citations": 64,
             "publication_name": "Traffic",
             "issn": "13989219",
             "cover_date": "2020-01-01",
@@ -15744,6 +15694,56 @@
             "issue": "1",
             "page_range": "181-185",
             "doi": "10.1111/tra.12689"
+        },
+        {
+            "title": "The association of annexin I with early endosomes is regulated by Ca<sup>2+</sup> and requires an intact N-terminal domain",
+            "eid": "2-s2.0-0029786326",
+            "authors": [
+                {
+                    "scopus_id": "7004565662",
+                    "name": "Seemann J.",
+                    "affiliation_id": [
+                        "60032895"
+                    ]
+                },
+                {
+                    "scopus_id": "7402658762",
+                    "name": "Weber K.",
+                    "affiliation_id": [
+                        "60032895"
+                    ]
+                },
+                {
+                    "scopus_id": "55828995400",
+                    "name": "Osborn M.",
+                    "affiliation_id": [
+                        "60032895"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.G.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7005180297",
+                    "name": "Gerke V.",
+                    "affiliation_id": [
+                        "60000401"
+                    ]
+                }
+            ],
+            "citations": 64,
+            "publication_name": "Molecular Biology of the Cell",
+            "issn": "10591524",
+            "cover_date": "1996-01-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "9",
+            "page_range": "1359-1374",
+            "doi": "10.1091/mbc.7.9.1359"
         },
         {
             "title": "Hydrophobic and basic domains target proteins to lipid droplets",
@@ -18277,63 +18277,6 @@
             "doi": "10.1016/j.celrep.2013.06.017"
         },
         {
-            "title": "Ca<sup>2+</sup>-regulated pool of phosphatidylinositol-3-phosphate produced by phosphatidylinositol 3-kinase C2\u03b1 on neurosecretory vesicles",
-            "eid": "2-s2.0-59449105295",
-            "authors": [
-                {
-                    "scopus_id": "14053216000",
-                    "name": "Wen P.J.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7102780293",
-                    "name": "Osborne S.L.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7003507267",
-                    "name": "Morrow I.C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.G.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57206332956",
-                    "name": "Domin J.",
-                    "affiliation_id": [
-                        "60015150"
-                    ]
-                },
-                {
-                    "scopus_id": "7101758786",
-                    "name": "Meunier F.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 50,
-            "publication_name": "Molecular Biology of the Cell",
-            "issn": "10591524",
-            "cover_date": "2008-12-01",
-            "venue": "Journal",
-            "volume": "19",
-            "issue": "12",
-            "page_range": "5593-5603",
-            "doi": "10.1091/mbc.E08-06-0595"
-        },
-        {
             "title": "Nicotinamide riboside attenuates age-associated metabolic and functional changes in hematopoietic stem cells",
             "eid": "2-s2.0-85105772505",
             "authors": [
@@ -18547,7 +18490,7 @@
                     ]
                 }
             ],
-            "citations": 49,
+            "citations": 50,
             "publication_name": "Nature Communications",
             "issn": "",
             "cover_date": "2021-12-01",
@@ -18556,6 +18499,127 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1038/s41467-021-22863-0"
+        },
+        {
+            "title": "The endocytic protein GRAF1 is directed to cell-matrix adhesion sites and regulates cell spreading",
+            "eid": "2-s2.0-81755172054",
+            "authors": [
+                {
+                    "scopus_id": "24480589100",
+                    "name": "Doherty G.J.",
+                    "affiliation_id": [
+                        "60010269"
+                    ]
+                },
+                {
+                    "scopus_id": "36193573200",
+                    "name": "\u00c5hlund M.K.",
+                    "affiliation_id": [
+                        "60031040"
+                    ]
+                },
+                {
+                    "scopus_id": "54401096100",
+                    "name": "Howesc M.T.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "54581280200",
+                    "name": "Mor\u00e9n B.",
+                    "affiliation_id": [
+                        "60031040"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.G.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7006576972",
+                    "name": "McMahon H.T.",
+                    "affiliation_id": [
+                        "60010269"
+                    ]
+                },
+                {
+                    "scopus_id": "23005344400",
+                    "name": "Lundmark R.",
+                    "affiliation_id": [
+                        "60031040"
+                    ]
+                }
+            ],
+            "citations": 50,
+            "publication_name": "Molecular Biology of the Cell",
+            "issn": "10591524",
+            "cover_date": "2011-11-15",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "22",
+            "page_range": "4380-4389",
+            "doi": "10.1091/mbc.E10-12-0936"
+        },
+        {
+            "title": "Ca<sup>2+</sup>-regulated pool of phosphatidylinositol-3-phosphate produced by phosphatidylinositol 3-kinase C2\u03b1 on neurosecretory vesicles",
+            "eid": "2-s2.0-59449105295",
+            "authors": [
+                {
+                    "scopus_id": "14053216000",
+                    "name": "Wen P.J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7102780293",
+                    "name": "Osborne S.L.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7003507267",
+                    "name": "Morrow I.C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.G.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57206332956",
+                    "name": "Domin J.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "7101758786",
+                    "name": "Meunier F.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 50,
+            "publication_name": "Molecular Biology of the Cell",
+            "issn": "10591524",
+            "cover_date": "2008-12-01",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "12",
+            "page_range": "5593-5603",
+            "doi": "10.1091/mbc.E08-06-0595"
         },
         {
             "title": "Membrane Curvature and Tension Control the Formation and Collapse of Caveolar Superstructures",
@@ -18719,70 +18783,6 @@
             "issue": "8",
             "page_range": null,
             "doi": "10.1371/journal.pone.0043041"
-        },
-        {
-            "title": "The endocytic protein GRAF1 is directed to cell-matrix adhesion sites and regulates cell spreading",
-            "eid": "2-s2.0-81755172054",
-            "authors": [
-                {
-                    "scopus_id": "24480589100",
-                    "name": "Doherty G.J.",
-                    "affiliation_id": [
-                        "60010269"
-                    ]
-                },
-                {
-                    "scopus_id": "36193573200",
-                    "name": "\u00c5hlund M.K.",
-                    "affiliation_id": [
-                        "60031040"
-                    ]
-                },
-                {
-                    "scopus_id": "54401096100",
-                    "name": "Howesc M.T.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "54581280200",
-                    "name": "Mor\u00e9n B.",
-                    "affiliation_id": [
-                        "60031040"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.G.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7006576972",
-                    "name": "McMahon H.T.",
-                    "affiliation_id": [
-                        "60010269"
-                    ]
-                },
-                {
-                    "scopus_id": "23005344400",
-                    "name": "Lundmark R.",
-                    "affiliation_id": [
-                        "60031040"
-                    ]
-                }
-            ],
-            "citations": 48,
-            "publication_name": "Molecular Biology of the Cell",
-            "issn": "10591524",
-            "cover_date": "2011-11-15",
-            "venue": "Journal",
-            "volume": "22",
-            "issue": "22",
-            "page_range": "4380-4389",
-            "doi": "10.1091/mbc.E10-12-0936"
         },
         {
             "title": "Plasticity of early endosomes",
@@ -20653,6 +20653,64 @@
             "doi": "10.1016/0076-6879(92)19039-9"
         },
         {
+            "title": "Role for caveolin-mediated transcytosis in facilitating transport of large cargoes into the brain via ultrasound",
+            "eid": "2-s2.0-85090924515",
+            "authors": [
+                {
+                    "scopus_id": "57214625044",
+                    "name": "Pandit R.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57210342528",
+                    "name": "Koh W.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "8093628100",
+                    "name": "Sullivan R.K.P.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57218995023",
+                    "name": "Palliyaguru T.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.G.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7006610653",
+                    "name": "G\u00f6tz J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Journal of Controlled Release",
+            "issn": "01683659",
+            "cover_date": "2020-11-10",
+            "venue": "Journal",
+            "volume": "327",
+            "issue": "",
+            "page_range": "667-675",
+            "doi": "10.1016/j.jconrel.2020.09.015"
+        },
+        {
             "title": "Lipid droplets, bioenergetic fluxes, and metabolic flexibility",
             "eid": "2-s2.0-85081034426",
             "authors": [
@@ -21106,64 +21164,6 @@
             "issue": "7",
             "page_range": "1249-1262",
             "doi": "10.1091/mbc.E14-07-1223"
-        },
-        {
-            "title": "Role for caveolin-mediated transcytosis in facilitating transport of large cargoes into the brain via ultrasound",
-            "eid": "2-s2.0-85090924515",
-            "authors": [
-                {
-                    "scopus_id": "57214625044",
-                    "name": "Pandit R.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57210342528",
-                    "name": "Koh W.K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "8093628100",
-                    "name": "Sullivan R.K.P.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57218995023",
-                    "name": "Palliyaguru T.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.G.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7006610653",
-                    "name": "G\u00f6tz J.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 35,
-            "publication_name": "Journal of Controlled Release",
-            "issn": "01683659",
-            "cover_date": "2020-11-10",
-            "venue": "Journal",
-            "volume": "327",
-            "issue": "",
-            "page_range": "667-675",
-            "doi": "10.1016/j.jconrel.2020.09.015"
         },
         {
             "title": "Development of a human skeletal micro muscle platform with pacing capabilities",
@@ -23374,6 +23374,108 @@
             "doi": "10.1016/j.chembiol.2012.05.019"
         },
         {
+            "title": "Annexin A6 regulates interleukin-2-mediated T-cell proliferation",
+            "eid": "2-s2.0-84960192927",
+            "authors": [
+                {
+                    "scopus_id": "54787534600",
+                    "name": "Cornely R.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "57158847700",
+                    "name": "Pollock A.H.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "19337645100",
+                    "name": "Rentero C.",
+                    "affiliation_id": [
+                        "60001576"
+                    ]
+                },
+                {
+                    "scopus_id": "55293199200",
+                    "name": "Norris S.E.",
+                    "affiliation_id": [
+                        "60011664"
+                    ]
+                },
+                {
+                    "scopus_id": "54381486100",
+                    "name": "Alvarez-Guaita A.",
+                    "affiliation_id": [
+                        "60001576"
+                    ]
+                },
+                {
+                    "scopus_id": "7004741266",
+                    "name": "Grewal T.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7402174965",
+                    "name": "Mitchell T.",
+                    "affiliation_id": [
+                        "60011664"
+                    ]
+                },
+                {
+                    "scopus_id": "7006850105",
+                    "name": "Enrich C.",
+                    "affiliation_id": [
+                        "60001576",
+                        "60010814"
+                    ]
+                },
+                {
+                    "scopus_id": "57202745254",
+                    "name": "Moss S.E.",
+                    "affiliation_id": [
+                        "60013148"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.G.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "8940323600",
+                    "name": "Rossy J.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "6602719292",
+                    "name": "Gaus K.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 26,
+            "publication_name": "Immunology and Cell Biology",
+            "issn": "08189641",
+            "cover_date": "2016-07-01",
+            "venue": "Journal",
+            "volume": "94",
+            "issue": "6",
+            "page_range": "543-553",
+            "doi": "10.1038/icb.2016.15"
+        },
+        {
             "title": "Quantitative proteomic analysis of the adipocyte plasma membrane",
             "eid": "2-s2.0-80655131106",
             "authors": [
@@ -23664,108 +23766,6 @@
             "issue": "7",
             "page_range": null,
             "doi": "10.15252/embr.201847055"
-        },
-        {
-            "title": "Annexin A6 regulates interleukin-2-mediated T-cell proliferation",
-            "eid": "2-s2.0-84960192927",
-            "authors": [
-                {
-                    "scopus_id": "54787534600",
-                    "name": "Cornely R.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "57158847700",
-                    "name": "Pollock A.H.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "19337645100",
-                    "name": "Rentero C.",
-                    "affiliation_id": [
-                        "60001576"
-                    ]
-                },
-                {
-                    "scopus_id": "55293199200",
-                    "name": "Norris S.E.",
-                    "affiliation_id": [
-                        "60011664"
-                    ]
-                },
-                {
-                    "scopus_id": "54381486100",
-                    "name": "Alvarez-Guaita A.",
-                    "affiliation_id": [
-                        "60001576"
-                    ]
-                },
-                {
-                    "scopus_id": "7004741266",
-                    "name": "Grewal T.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7402174965",
-                    "name": "Mitchell T.",
-                    "affiliation_id": [
-                        "60011664"
-                    ]
-                },
-                {
-                    "scopus_id": "7006850105",
-                    "name": "Enrich C.",
-                    "affiliation_id": [
-                        "60001576",
-                        "60010814"
-                    ]
-                },
-                {
-                    "scopus_id": "57202745254",
-                    "name": "Moss S.E.",
-                    "affiliation_id": [
-                        "60013148"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.G.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "8940323600",
-                    "name": "Rossy J.",
-                    "affiliation_id": [
-                        "60028333",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "6602719292",
-                    "name": "Gaus K.",
-                    "affiliation_id": [
-                        "60028333",
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 25,
-            "publication_name": "Immunology and Cell Biology",
-            "issn": "08189641",
-            "cover_date": "2016-07-01",
-            "venue": "Journal",
-            "volume": "94",
-            "issue": "6",
-            "page_range": "543-553",
-            "doi": "10.1038/icb.2016.15"
         },
         {
             "title": "SNX12 role in endosome membrane transport",
@@ -24145,6 +24145,78 @@
             "doi": "10.1006/excr.2001.5101"
         },
         {
+            "title": "Interactions of rab5 with cytosolic proteins",
+            "eid": "2-s2.0-0026667353",
+            "authors": [
+                {
+                    "scopus_id": "57208463504",
+                    "name": "Kurzchalia T.V.",
+                    "affiliation_id": [
+                        "60007257",
+                        "60024629"
+                    ]
+                },
+                {
+                    "scopus_id": "7005675644",
+                    "name": "Gorvel J.P.",
+                    "affiliation_id": [
+                        "60007257"
+                    ]
+                },
+                {
+                    "scopus_id": "7003450475",
+                    "name": "Dupree P.",
+                    "affiliation_id": [
+                        "60007257"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.",
+                    "affiliation_id": [
+                        "60007257"
+                    ]
+                },
+                {
+                    "scopus_id": "57205355974",
+                    "name": "Kellner R.",
+                    "affiliation_id": [
+                        "60007257"
+                    ]
+                },
+                {
+                    "scopus_id": "6603147415",
+                    "name": "Houthaeve T.",
+                    "affiliation_id": [
+                        "60007257"
+                    ]
+                },
+                {
+                    "scopus_id": "7005949878",
+                    "name": "Gruenberg J.",
+                    "affiliation_id": [
+                        "60007257"
+                    ]
+                },
+                {
+                    "scopus_id": "7202131266",
+                    "name": "Simons K.",
+                    "affiliation_id": [
+                        "60007257"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "Journal of Biological Chemistry",
+            "issn": "00219258",
+            "cover_date": "1992-09-15",
+            "venue": "Journal",
+            "volume": "267",
+            "issue": "26",
+            "page_range": "18419-18423",
+            "doi": ""
+        },
+        {
             "title": "Caveolin-1-driven membrane remodelling regulates hnRNPK-mediated exosomal microRNA sorting in cancer",
             "eid": "2-s2.0-85105074813",
             "authors": [
@@ -24433,78 +24505,6 @@
             "issue": "",
             "page_range": "172-183",
             "doi": "10.1016/S0076-6879(01)33055-0"
-        },
-        {
-            "title": "Interactions of rab5 with cytosolic proteins",
-            "eid": "2-s2.0-0026667353",
-            "authors": [
-                {
-                    "scopus_id": "57208463504",
-                    "name": "Kurzchalia T.V.",
-                    "affiliation_id": [
-                        "60007257",
-                        "60024629"
-                    ]
-                },
-                {
-                    "scopus_id": "7005675644",
-                    "name": "Gorvel J.P.",
-                    "affiliation_id": [
-                        "60007257"
-                    ]
-                },
-                {
-                    "scopus_id": "7003450475",
-                    "name": "Dupree P.",
-                    "affiliation_id": [
-                        "60007257"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.",
-                    "affiliation_id": [
-                        "60007257"
-                    ]
-                },
-                {
-                    "scopus_id": "57205355974",
-                    "name": "Kellner R.",
-                    "affiliation_id": [
-                        "60007257"
-                    ]
-                },
-                {
-                    "scopus_id": "6603147415",
-                    "name": "Houthaeve T.",
-                    "affiliation_id": [
-                        "60007257"
-                    ]
-                },
-                {
-                    "scopus_id": "7005949878",
-                    "name": "Gruenberg J.",
-                    "affiliation_id": [
-                        "60007257"
-                    ]
-                },
-                {
-                    "scopus_id": "7202131266",
-                    "name": "Simons K.",
-                    "affiliation_id": [
-                        "60007257"
-                    ]
-                }
-            ],
-            "citations": 23,
-            "publication_name": "Journal of Biological Chemistry",
-            "issn": "00219258",
-            "cover_date": "1992-09-15",
-            "venue": "Journal",
-            "volume": "267",
-            "issue": "26",
-            "page_range": "18419-18423",
-            "doi": ""
         },
         {
             "title": "Cavin1 intrinsically disordered domains are essential for fuzzy electrostatic interactions and caveola formation",
@@ -26435,6 +26435,291 @@
             "doi": "10.1038/ncomms14729"
         },
         {
+            "title": "Caveolae sense oxidative stress through membrane lipid peroxidation and cytosolic release of CAVIN1 to regulate NRF2",
+            "eid": "2-s2.0-85150311401",
+            "authors": [
+                {
+                    "scopus_id": "57210314749",
+                    "name": "Wu Y.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57194597130",
+                    "name": "Lim Y.W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7005858710",
+                    "name": "Stroud D.A.",
+                    "affiliation_id": [
+                        "60103600",
+                        "60026489"
+                    ]
+                },
+                {
+                    "scopus_id": "36628683300",
+                    "name": "Martel N.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "8758255300",
+                    "name": "Hall T.E.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7202085501",
+                    "name": "Lo H.P.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7201459577",
+                    "name": "Ferguson C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7403184536",
+                    "name": "Ryan M.T.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7006447016",
+                    "name": "McMahon K.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.G.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Developmental Cell",
+            "issn": "15345807",
+            "cover_date": "2023-03-13",
+            "venue": "Journal",
+            "volume": "58",
+            "issue": "5",
+            "page_range": "376-397.e4",
+            "doi": "10.1016/j.devcel.2023.02.004"
+        },
+        {
+            "title": "Loss of YhcB results in dysregulation of coordinated peptidoglycan, LPS and phospholipid synthesis during Escherichia coli cell growth",
+            "eid": "2-s2.0-85122334626",
+            "authors": [
+                {
+                    "scopus_id": "57200512929",
+                    "name": "Goodall E.C.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57193842870",
+                    "name": "Isom G.L.",
+                    "affiliation_id": [
+                        "60019702"
+                    ]
+                },
+                {
+                    "scopus_id": "57204444460",
+                    "name": "Rooke J.L.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57203726117",
+                    "name": "Pullela K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57205126368",
+                    "name": "Icke C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57398350600",
+                    "name": "Yang Z.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57214244301",
+                    "name": "Boelter G.",
+                    "affiliation_id": [
+                        "60019702"
+                    ]
+                },
+                {
+                    "scopus_id": "8156858700",
+                    "name": "Jones A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57397784400",
+                    "name": "Warner I.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57397028600",
+                    "name": "da Costa R.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "56541920300",
+                    "name": "Zhang B.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "36570721300",
+                    "name": "Rae J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57218852955",
+                    "name": "Tan W.B.",
+                    "affiliation_id": [
+                        "60017161"
+                    ]
+                },
+                {
+                    "scopus_id": "57204610435",
+                    "name": "Winkle M.",
+                    "affiliation_id": [
+                        "60006222"
+                    ]
+                },
+                {
+                    "scopus_id": "57160482200",
+                    "name": "Delhaye A.",
+                    "affiliation_id": [
+                        "60070028"
+                    ]
+                },
+                {
+                    "scopus_id": "7103228602",
+                    "name": "Heinz E.",
+                    "affiliation_id": [
+                        "60020934"
+                    ]
+                },
+                {
+                    "scopus_id": "7102328263",
+                    "name": "Collet J.F.",
+                    "affiliation_id": [
+                        "60070028"
+                    ]
+                },
+                {
+                    "scopus_id": "26643022400",
+                    "name": "Cunningham A.F.",
+                    "affiliation_id": [
+                        "60019702"
+                    ]
+                },
+                {
+                    "scopus_id": "6603840133",
+                    "name": "Blaskovich M.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.G.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55574218419",
+                    "name": "Cole J.A.",
+                    "affiliation_id": [
+                        "60019702"
+                    ]
+                },
+                {
+                    "scopus_id": "36627938800",
+                    "name": "Banzhaf M.",
+                    "affiliation_id": [
+                        "60019702"
+                    ]
+                },
+                {
+                    "scopus_id": "6701409953",
+                    "name": "Chng S.S.",
+                    "affiliation_id": [
+                        "60017161"
+                    ]
+                },
+                {
+                    "scopus_id": "7005385294",
+                    "name": "Vollmer W.",
+                    "affiliation_id": [
+                        "60006222"
+                    ]
+                },
+                {
+                    "scopus_id": "55567606400",
+                    "name": "Bryant J.A.",
+                    "affiliation_id": [
+                        "60019702"
+                    ]
+                },
+                {
+                    "scopus_id": "36012991400",
+                    "name": "Henderson I.R.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "PLoS Genetics",
+            "issn": "15537390",
+            "cover_date": "2021-12-23",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "12",
+            "page_range": null,
+            "doi": "10.1371/journal.pgen.1009586"
+        },
+        {
             "title": "Colocation of Tpm3.1 and myosin IIa heads defines a discrete subdomain in stress fibres",
             "eid": "2-s2.0-85071345887",
             "authors": [
@@ -26742,291 +27027,6 @@
             "issue": "6",
             "page_range": "1149-1161",
             "doi": "10.1038/sj.cdd.4402116"
-        },
-        {
-            "title": "Caveolae sense oxidative stress through membrane lipid peroxidation and cytosolic release of CAVIN1 to regulate NRF2",
-            "eid": "2-s2.0-85150311401",
-            "authors": [
-                {
-                    "scopus_id": "57210314749",
-                    "name": "Wu Y.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57194597130",
-                    "name": "Lim Y.W.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7005858710",
-                    "name": "Stroud D.A.",
-                    "affiliation_id": [
-                        "60103600",
-                        "60026489"
-                    ]
-                },
-                {
-                    "scopus_id": "36628683300",
-                    "name": "Martel N.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "8758255300",
-                    "name": "Hall T.E.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7202085501",
-                    "name": "Lo H.P.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7201459577",
-                    "name": "Ferguson C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7403184536",
-                    "name": "Ryan M.T.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "7006447016",
-                    "name": "McMahon K.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.G.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 14,
-            "publication_name": "Developmental Cell",
-            "issn": "15345807",
-            "cover_date": "2023-03-13",
-            "venue": "Journal",
-            "volume": "58",
-            "issue": "5",
-            "page_range": "376-397.e4",
-            "doi": "10.1016/j.devcel.2023.02.004"
-        },
-        {
-            "title": "Loss of YhcB results in dysregulation of coordinated peptidoglycan, LPS and phospholipid synthesis during Escherichia coli cell growth",
-            "eid": "2-s2.0-85122334626",
-            "authors": [
-                {
-                    "scopus_id": "57200512929",
-                    "name": "Goodall E.C.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57193842870",
-                    "name": "Isom G.L.",
-                    "affiliation_id": [
-                        "60019702"
-                    ]
-                },
-                {
-                    "scopus_id": "57204444460",
-                    "name": "Rooke J.L.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57203726117",
-                    "name": "Pullela K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57205126368",
-                    "name": "Icke C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57398350600",
-                    "name": "Yang Z.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57214244301",
-                    "name": "Boelter G.",
-                    "affiliation_id": [
-                        "60019702"
-                    ]
-                },
-                {
-                    "scopus_id": "8156858700",
-                    "name": "Jones A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57397784400",
-                    "name": "Warner I.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57397028600",
-                    "name": "da Costa R.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "56541920300",
-                    "name": "Zhang B.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "36570721300",
-                    "name": "Rae J.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57218852955",
-                    "name": "Tan W.B.",
-                    "affiliation_id": [
-                        "60017161"
-                    ]
-                },
-                {
-                    "scopus_id": "57204610435",
-                    "name": "Winkle M.",
-                    "affiliation_id": [
-                        "60006222"
-                    ]
-                },
-                {
-                    "scopus_id": "57160482200",
-                    "name": "Delhaye A.",
-                    "affiliation_id": [
-                        "60070028"
-                    ]
-                },
-                {
-                    "scopus_id": "7103228602",
-                    "name": "Heinz E.",
-                    "affiliation_id": [
-                        "60020934"
-                    ]
-                },
-                {
-                    "scopus_id": "7102328263",
-                    "name": "Collet J.F.",
-                    "affiliation_id": [
-                        "60070028"
-                    ]
-                },
-                {
-                    "scopus_id": "26643022400",
-                    "name": "Cunningham A.F.",
-                    "affiliation_id": [
-                        "60019702"
-                    ]
-                },
-                {
-                    "scopus_id": "6603840133",
-                    "name": "Blaskovich M.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.G.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "55574218419",
-                    "name": "Cole J.A.",
-                    "affiliation_id": [
-                        "60019702"
-                    ]
-                },
-                {
-                    "scopus_id": "36627938800",
-                    "name": "Banzhaf M.",
-                    "affiliation_id": [
-                        "60019702"
-                    ]
-                },
-                {
-                    "scopus_id": "6701409953",
-                    "name": "Chng S.S.",
-                    "affiliation_id": [
-                        "60017161"
-                    ]
-                },
-                {
-                    "scopus_id": "7005385294",
-                    "name": "Vollmer W.",
-                    "affiliation_id": [
-                        "60006222"
-                    ]
-                },
-                {
-                    "scopus_id": "55567606400",
-                    "name": "Bryant J.A.",
-                    "affiliation_id": [
-                        "60019702"
-                    ]
-                },
-                {
-                    "scopus_id": "36012991400",
-                    "name": "Henderson I.R.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 14,
-            "publication_name": "PLoS Genetics",
-            "issn": "15537390",
-            "cover_date": "2021-12-23",
-            "venue": "Journal",
-            "volume": "17",
-            "issue": "12",
-            "page_range": null,
-            "doi": "10.1371/journal.pgen.1009586"
         },
         {
             "title": "Cavin4 interacts with bin1 to promote t-tubule formation and stability in developing skeletal muscle",
@@ -27701,6 +27701,130 @@
             "doi": "10.1126/scisignal.abq1366"
         },
         {
+            "title": "Frontline Science: LPS-inducible SLC30A1 drives human macrophage-mediated zinc toxicity against intracellular Escherichia coli",
+            "eid": "2-s2.0-85085006586",
+            "authors": [
+                {
+                    "scopus_id": "57189222877",
+                    "name": "Stocks C.J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57202074327",
+                    "name": "von Pein J.B.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57201395997",
+                    "name": "Curson J.E.B.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "36570721300",
+                    "name": "Rae J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "16550508300",
+                    "name": "Phan M.D.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57216863660",
+                    "name": "Foo D.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "25721541900",
+                    "name": "Bokil N.J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7102953212",
+                    "name": "Kambe T.",
+                    "affiliation_id": [
+                        "60011001"
+                    ]
+                },
+                {
+                    "scopus_id": "55921088900",
+                    "name": "Peters K.M.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.G.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7004603064",
+                    "name": "Schembri M.A.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "15839279900",
+                    "name": "Kapetanovic R.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "35373091000",
+                    "name": "Sweet M.J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Journal of Leukocyte Biology",
+            "issn": "07415400",
+            "cover_date": "2021-02-01",
+            "venue": "Journal",
+            "volume": "109",
+            "issue": "2",
+            "page_range": "287-297",
+            "doi": "10.1002/JLB.2HI0420-160R"
+        },
+        {
             "title": "De novo macrocyclic peptides for inhibiting, stabilizing, and probing the function of the retromer endosomal trafficking complex",
             "eid": "2-s2.0-85120694285",
             "authors": [
@@ -27994,130 +28118,6 @@
             "issue": "13",
             "page_range": "6154-6172",
             "doi": "10.7150/thno.55472"
-        },
-        {
-            "title": "Frontline Science: LPS-inducible SLC30A1 drives human macrophage-mediated zinc toxicity against intracellular Escherichia coli",
-            "eid": "2-s2.0-85085006586",
-            "authors": [
-                {
-                    "scopus_id": "57189222877",
-                    "name": "Stocks C.J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57202074327",
-                    "name": "von Pein J.B.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57201395997",
-                    "name": "Curson J.E.B.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "36570721300",
-                    "name": "Rae J.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "16550508300",
-                    "name": "Phan M.D.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57216863660",
-                    "name": "Foo D.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "25721541900",
-                    "name": "Bokil N.J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7102953212",
-                    "name": "Kambe T.",
-                    "affiliation_id": [
-                        "60011001"
-                    ]
-                },
-                {
-                    "scopus_id": "55921088900",
-                    "name": "Peters K.M.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.G.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7004603064",
-                    "name": "Schembri M.A.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "15839279900",
-                    "name": "Kapetanovic R.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "35373091000",
-                    "name": "Sweet M.J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 11,
-            "publication_name": "Journal of Leukocyte Biology",
-            "issn": "07415400",
-            "cover_date": "2021-02-01",
-            "venue": "Journal",
-            "volume": "109",
-            "issue": "2",
-            "page_range": "287-297",
-            "doi": "10.1002/JLB.2HI0420-160R"
         },
         {
             "title": "Endocytosis in the kidney: Insights from the MDCK cell system",
@@ -29561,6 +29561,83 @@
             "doi": "10.12688/f1000research.6435.1"
         },
         {
+            "title": "Apicobasal RNA asymmetries regulate cell fate in the early mouse embryo",
+            "eid": "2-s2.0-85160646374",
+            "authors": [
+                {
+                    "scopus_id": "57322572900",
+                    "name": "Hawdon A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57194714654",
+                    "name": "Geoghegan N.D.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57196089641",
+                    "name": "Mohenska M.",
+                    "affiliation_id": [
+                        "60012932",
+                        "60009512",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "58296022800",
+                    "name": "Elsenhans A.",
+                    "affiliation_id": [
+                        "60014264"
+                    ]
+                },
+                {
+                    "scopus_id": "7201459577",
+                    "name": "Ferguson C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7101663943",
+                    "name": "Polo J.M.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60012932",
+                        "60009512",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.G.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "35726403700",
+                    "name": "Zenker J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Nature Communications",
+            "issn": "",
+            "cover_date": "2023-12-01",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1038/s41467-023-38436-2"
+        },
+        {
             "title": "Dynamin2 functions as an accessory protein to reduce the rate of caveola internalization",
             "eid": "2-s2.0-85153874757",
             "authors": [
@@ -30330,83 +30407,6 @@
             "issue": "2",
             "page_range": "114-122",
             "doi": "10.5584/jiomics.v2i2.108"
-        },
-        {
-            "title": "Apicobasal RNA asymmetries regulate cell fate in the early mouse embryo",
-            "eid": "2-s2.0-85160646374",
-            "authors": [
-                {
-                    "scopus_id": "57322572900",
-                    "name": "Hawdon A.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "57194714654",
-                    "name": "Geoghegan N.D.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57196089641",
-                    "name": "Mohenska M.",
-                    "affiliation_id": [
-                        "60012932",
-                        "60009512",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "58296022800",
-                    "name": "Elsenhans A.",
-                    "affiliation_id": [
-                        "60014264"
-                    ]
-                },
-                {
-                    "scopus_id": "7201459577",
-                    "name": "Ferguson C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7101663943",
-                    "name": "Polo J.M.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60012932",
-                        "60009512",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.G.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "35726403700",
-                    "name": "Zenker J.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                }
-            ],
-            "citations": 5,
-            "publication_name": "Nature Communications",
-            "issn": "",
-            "cover_date": "2023-12-01",
-            "venue": "Journal",
-            "volume": "14",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1038/s41467-023-38436-2"
         },
         {
             "title": "Presynaptic targeting of botulinum neurotoxin type A requires a tripartite PSG-Syt1-SV2 plasma membrane nanocluster for synaptic vesicle entry",
@@ -32149,6 +32149,117 @@
             "doi": "10.1091/mbc.E23-05-0163"
         },
         {
+            "title": "A mechanosensing mechanism controls plasma membrane shape homeostasis at the nanoscale",
+            "eid": "2-s2.0-85173663409",
+            "authors": [
+                {
+                    "scopus_id": "57209881369",
+                    "name": "Quiroga X.",
+                    "affiliation_id": [
+                        "60104011",
+                        "60001576"
+                    ]
+                },
+                {
+                    "scopus_id": "56242185400",
+                    "name": "Walani N.",
+                    "affiliation_id": [
+                        "60032730"
+                    ]
+                },
+                {
+                    "scopus_id": "8093467100",
+                    "name": "Disanza A.",
+                    "affiliation_id": [
+                        "60083539"
+                    ]
+                },
+                {
+                    "scopus_id": "57195265504",
+                    "name": "Chavero A.",
+                    "affiliation_id": [
+                        "60001576"
+                    ]
+                },
+                {
+                    "scopus_id": "57265471100",
+                    "name": "Mittens A.",
+                    "affiliation_id": [
+                        "60104011"
+                    ]
+                },
+                {
+                    "scopus_id": "6603940057",
+                    "name": "Tebar F.",
+                    "affiliation_id": [
+                        "60001576"
+                    ]
+                },
+                {
+                    "scopus_id": "6507375409",
+                    "name": "Trepat X.",
+                    "affiliation_id": [
+                        "60104011"
+                    ]
+                },
+                {
+                    "scopus_id": "7101912368",
+                    "name": "Parton R.G.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6602778149",
+                    "name": "Geli M.I.",
+                    "affiliation_id": [
+                        "60030327"
+                    ]
+                },
+                {
+                    "scopus_id": "7004138388",
+                    "name": "Scita G.",
+                    "affiliation_id": [
+                        "60083539",
+                        "60030318"
+                    ]
+                },
+                {
+                    "scopus_id": "10039824600",
+                    "name": "Arroyo M.",
+                    "affiliation_id": [
+                        "60104011",
+                        "60007592",
+                        "60104172"
+                    ]
+                },
+                {
+                    "scopus_id": "56662480100",
+                    "name": "Le Roux A.L.",
+                    "affiliation_id": [
+                        "60104011"
+                    ]
+                },
+                {
+                    "scopus_id": "8926063400",
+                    "name": "Roca-Cusachs P.",
+                    "affiliation_id": [
+                        "60104011",
+                        "60001576"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "eLife",
+            "issn": "",
+            "cover_date": "2023-09-01",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.7554/eLife.72316"
+        },
+        {
             "title": "Cell surface plasticity in response to shape change in the whole organism",
             "eid": "2-s2.0-85173161174",
             "authors": [
@@ -32866,117 +32977,6 @@
             "doi": "10.1152/ajpendo.00347.2023"
         },
         {
-            "title": "A mechanosensing mechanism controls plasma membrane shape homeostasis at the nanoscale",
-            "eid": "2-s2.0-85173663409",
-            "authors": [
-                {
-                    "scopus_id": "57209881369",
-                    "name": "Quiroga X.",
-                    "affiliation_id": [
-                        "60104011",
-                        "60001576"
-                    ]
-                },
-                {
-                    "scopus_id": "56242185400",
-                    "name": "Walani N.",
-                    "affiliation_id": [
-                        "60032730"
-                    ]
-                },
-                {
-                    "scopus_id": "8093467100",
-                    "name": "Disanza A.",
-                    "affiliation_id": [
-                        "60083539"
-                    ]
-                },
-                {
-                    "scopus_id": "57195265504",
-                    "name": "Chavero A.",
-                    "affiliation_id": [
-                        "60001576"
-                    ]
-                },
-                {
-                    "scopus_id": "57265471100",
-                    "name": "Mittens A.",
-                    "affiliation_id": [
-                        "60104011"
-                    ]
-                },
-                {
-                    "scopus_id": "6603940057",
-                    "name": "Tebar F.",
-                    "affiliation_id": [
-                        "60001576"
-                    ]
-                },
-                {
-                    "scopus_id": "6507375409",
-                    "name": "Trepat X.",
-                    "affiliation_id": [
-                        "60104011"
-                    ]
-                },
-                {
-                    "scopus_id": "7101912368",
-                    "name": "Parton R.G.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6602778149",
-                    "name": "Geli M.I.",
-                    "affiliation_id": [
-                        "60030327"
-                    ]
-                },
-                {
-                    "scopus_id": "7004138388",
-                    "name": "Scita G.",
-                    "affiliation_id": [
-                        "60083539",
-                        "60030318"
-                    ]
-                },
-                {
-                    "scopus_id": "10039824600",
-                    "name": "Arroyo M.",
-                    "affiliation_id": [
-                        "60104011",
-                        "60007592",
-                        "60104172"
-                    ]
-                },
-                {
-                    "scopus_id": "56662480100",
-                    "name": "Le Roux A.L.",
-                    "affiliation_id": [
-                        "60104011"
-                    ]
-                },
-                {
-                    "scopus_id": "8926063400",
-                    "name": "Roca-Cusachs P.",
-                    "affiliation_id": [
-                        "60104011",
-                        "60001576"
-                    ]
-                }
-            ],
-            "citations": 0,
-            "publication_name": "eLife",
-            "issn": "",
-            "cover_date": "2023-09-01",
-            "venue": "Journal",
-            "volume": "12",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.7554/eLife.72316"
-        },
-        {
             "title": "Mechanisms of Endocytosis II Non-Clathrin",
             "eid": "2-s2.0-85159024966",
             "authors": [
@@ -33641,7 +33641,7 @@
         },
         {
             "@abbrev": "MEDI",
-            "@frequency": "213",
+            "@frequency": "214",
             "$": "Medicine (all)"
         },
         {
@@ -33650,6 +33650,5 @@
             "$": "Agricultural and Biological Sciences (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:23:55",
-    "c-score": null
+    "date fetched": "2024-07-12 20:12:18"
 }

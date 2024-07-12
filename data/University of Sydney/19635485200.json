@@ -313,7 +313,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 1284,
+            "citations": 1285,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2011-01-01",
@@ -394,7 +394,7 @@
                     ]
                 }
             ],
-            "citations": 469,
+            "citations": 470,
             "publication_name": "New England Journal of Medicine",
             "issn": "00284793",
             "cover_date": "1997-07-03",
@@ -897,7 +897,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 309,
+            "citations": 310,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2011-09-01",
@@ -1227,7 +1227,7 @@
                     ]
                 }
             ],
-            "citations": 203,
+            "citations": 204,
             "publication_name": "Bulletin of the World Health Organization",
             "issn": "00429686",
             "cover_date": "2010-08-31",
@@ -1652,6 +1652,42 @@
             "doi": "10.1136/thorax.56.8.589"
         },
         {
+            "title": "The effectiveness of policies for reducing dietary trans fat: A systematic review of the evidence",
+            "eid": "2-s2.0-84877012534",
+            "authors": [
+                {
+                    "scopus_id": "23977617000",
+                    "name": "Downs S.M.",
+                    "affiliation_id": [
+                        "60010710"
+                    ]
+                },
+                {
+                    "scopus_id": "26325101400",
+                    "name": "Thow A.M.",
+                    "affiliation_id": [
+                        "60010710"
+                    ]
+                },
+                {
+                    "scopus_id": "19635485200",
+                    "name": "Leeder S.R.",
+                    "affiliation_id": [
+                        "60010710"
+                    ]
+                }
+            ],
+            "citations": 162,
+            "publication_name": "Bulletin of the World Health Organization",
+            "issn": "00429686",
+            "cover_date": "2013-01-01",
+            "venue": "Journal",
+            "volume": "91",
+            "issue": "4",
+            "page_range": "262-269",
+            "doi": "10.2471/BLT.12.111468"
+        },
+        {
             "title": "Smoking and the 5-year incidence of age-related maculopathy: The Blue Mountains Eye Study",
             "eid": "2-s2.0-0036822469",
             "authors": [
@@ -1687,42 +1723,6 @@
             "issue": "10",
             "page_range": "1357-1363",
             "doi": "10.1001/archopht.120.10.1357"
-        },
-        {
-            "title": "The effectiveness of policies for reducing dietary trans fat: A systematic review of the evidence",
-            "eid": "2-s2.0-84877012534",
-            "authors": [
-                {
-                    "scopus_id": "23977617000",
-                    "name": "Downs S.M.",
-                    "affiliation_id": [
-                        "60010710"
-                    ]
-                },
-                {
-                    "scopus_id": "26325101400",
-                    "name": "Thow A.M.",
-                    "affiliation_id": [
-                        "60010710"
-                    ]
-                },
-                {
-                    "scopus_id": "19635485200",
-                    "name": "Leeder S.R.",
-                    "affiliation_id": [
-                        "60010710"
-                    ]
-                }
-            ],
-            "citations": 161,
-            "publication_name": "Bulletin of the World Health Organization",
-            "issn": "00429686",
-            "cover_date": "2013-01-01",
-            "venue": "Journal",
-            "volume": "91",
-            "issue": "4",
-            "page_range": "262-269",
-            "doi": "10.2471/BLT.12.111468"
         },
         {
             "title": "Severity of age-related hearing loss is associated with impaired activities of daily living",
@@ -3042,49 +3042,6 @@
             "doi": "10.1093/ije/12.1.59"
         },
         {
-            "title": "General practitioners' detection of patients' smoking status",
-            "eid": "2-s2.0-0024581014",
-            "authors": [
-                {
-                    "scopus_id": "7202899853",
-                    "name": "Dickinson J.A.",
-                    "affiliation_id": [
-                        "60010571"
-                    ]
-                },
-                {
-                    "scopus_id": "55760690700",
-                    "name": "Wiggers J.",
-                    "affiliation_id": [
-                        "60010571"
-                    ]
-                },
-                {
-                    "scopus_id": "19635485200",
-                    "name": "Leeder S.R.",
-                    "affiliation_id": [
-                        "60010571"
-                    ]
-                },
-                {
-                    "scopus_id": "7102271530",
-                    "name": "Sanson-Fisher R.W.",
-                    "affiliation_id": [
-                        "60010571"
-                    ]
-                }
-            ],
-            "citations": 93,
-            "publication_name": "Medical Journal of Australia",
-            "issn": "0025729X",
-            "cover_date": "1989-01-01",
-            "venue": "Journal",
-            "volume": "150",
-            "issue": "8",
-            "page_range": "420-426",
-            "doi": "10.5694/j.1326-5377.1989.tb136560.x"
-        },
-        {
             "title": "A role for wnt signaling genes in the pathogenesis of impaired lung function in asthma",
             "eid": "2-s2.0-76149114602",
             "authors": [
@@ -3226,7 +3183,7 @@
                     ]
                 }
             ],
-            "citations": 92,
+            "citations": 93,
             "publication_name": "American Journal of Respiratory and Critical Care Medicine",
             "issn": "1073449X",
             "cover_date": "2010-02-15",
@@ -3235,6 +3192,49 @@
             "issue": "4",
             "page_range": "328-336",
             "doi": "10.1164/rccm.200907-1009OC"
+        },
+        {
+            "title": "General practitioners' detection of patients' smoking status",
+            "eid": "2-s2.0-0024581014",
+            "authors": [
+                {
+                    "scopus_id": "7202899853",
+                    "name": "Dickinson J.A.",
+                    "affiliation_id": [
+                        "60010571"
+                    ]
+                },
+                {
+                    "scopus_id": "55760690700",
+                    "name": "Wiggers J.",
+                    "affiliation_id": [
+                        "60010571"
+                    ]
+                },
+                {
+                    "scopus_id": "19635485200",
+                    "name": "Leeder S.R.",
+                    "affiliation_id": [
+                        "60010571"
+                    ]
+                },
+                {
+                    "scopus_id": "7102271530",
+                    "name": "Sanson-Fisher R.W.",
+                    "affiliation_id": [
+                        "60010571"
+                    ]
+                }
+            ],
+            "citations": 93,
+            "publication_name": "Medical Journal of Australia",
+            "issn": "0025729X",
+            "cover_date": "1989-01-01",
+            "venue": "Journal",
+            "volume": "150",
+            "issue": "8",
+            "page_range": "420-426",
+            "doi": "10.5694/j.1326-5377.1989.tb136560.x"
         },
         {
             "title": "Acute effects of urban ambient air pollution on respiratory symptoms, asthma medication use, and doctor visits for asthma in a cohort of Australian children",
@@ -5693,7 +5693,7 @@
                     "scopus_id": "7103164453",
                     "name": "O'connell D.L.",
                     "affiliation_id": [
-                        "60025111"
+                        "60016639"
                     ]
                 }
             ],
@@ -20857,6 +20857,5 @@
             "$": "Social Sciences (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:45:19",
-    "c-score": null
+    "date fetched": "2024-07-12 20:44:19"
 }

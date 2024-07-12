@@ -42,7 +42,7 @@
                     ]
                 }
             ],
-            "citations": 3696,
+            "citations": 3701,
             "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
             "issn": "00278424",
             "cover_date": "2000-12-05",
@@ -129,7 +129,7 @@
                     ]
                 }
             ],
-            "citations": 2789,
+            "citations": 2791,
             "publication_name": "Lancet",
             "issn": "01406736",
             "cover_date": "2004-07-10",
@@ -194,7 +194,7 @@
                     ]
                 }
             ],
-            "citations": 2265,
+            "citations": 2266,
             "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
             "issn": "00278424",
             "cover_date": "2003-05-13",
@@ -353,7 +353,7 @@
                     ]
                 }
             ],
-            "citations": 1451,
+            "citations": 1455,
             "publication_name": "Journal of Dental Research",
             "issn": "00220345",
             "cover_date": "2009-09-01",
@@ -383,7 +383,7 @@
                     ]
                 }
             ],
-            "citations": 1208,
+            "citations": 1209,
             "publication_name": "Journal of Bone and Mineral Research",
             "issn": "08840431",
             "cover_date": "2003-04-01",
@@ -476,7 +476,7 @@
                     ]
                 }
             ],
-            "citations": 1006,
+            "citations": 1007,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2006-12-20",
@@ -835,7 +835,7 @@
                     ]
                 }
             ],
-            "citations": 474,
+            "citations": 476,
             "publication_name": "Journal of Cellular Physiology",
             "issn": "00219541",
             "cover_date": "2008-02-01",
@@ -892,7 +892,7 @@
                     ]
                 }
             ],
-            "citations": 406,
+            "citations": 407,
             "publication_name": "Orthodontics and Craniofacial Research",
             "issn": "16016335",
             "cover_date": "2005-12-01",
@@ -945,7 +945,7 @@
                     ]
                 }
             ],
-            "citations": 337,
+            "citations": 338,
             "publication_name": "Journal of Cellular Physiology",
             "issn": "00219541",
             "cover_date": "2009-06-01",
@@ -1287,7 +1287,7 @@
                     ]
                 }
             ],
-            "citations": 300,
+            "citations": 301,
             "publication_name": "Stem Cells",
             "issn": "10665099",
             "cover_date": "2008-09-01",
@@ -1454,7 +1454,7 @@
                     ]
                 }
             ],
-            "citations": 246,
+            "citations": 247,
             "publication_name": "Journal of Bone and Mineral Research",
             "issn": "08840431",
             "cover_date": "1999-01-14",
@@ -1671,7 +1671,7 @@
                     ]
                 }
             ],
-            "citations": 217,
+            "citations": 218,
             "publication_name": "Stem Cells",
             "issn": "10665099",
             "cover_date": "2014-03-01",
@@ -1751,7 +1751,7 @@
                     ]
                 }
             ],
-            "citations": 212,
+            "citations": 213,
             "publication_name": "Journal of Bone and Mineral Research",
             "issn": "08840431",
             "cover_date": "2003-06-01",
@@ -1967,7 +1967,7 @@
                     ]
                 }
             ],
-            "citations": 176,
+            "citations": 177,
             "publication_name": "Periodontology 2000",
             "issn": "09066713",
             "cover_date": "2006-02-01",
@@ -2144,7 +2144,7 @@
                     ]
                 }
             ],
-            "citations": 155,
+            "citations": 156,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2008-07-09",
@@ -2231,7 +2231,7 @@
                     ]
                 }
             ],
-            "citations": 152,
+            "citations": 153,
             "publication_name": "Australian Dental Journal",
             "issn": "00450421",
             "cover_date": "2014-01-01",
@@ -2328,6 +2328,37 @@
             "issue": "6",
             "page_range": "547-553",
             "doi": "10.1111/j.1600-0765.2006.00904.x"
+        },
+        {
+            "title": "Clinical application of bone marrow mesenchymal stem/stromal cells to repair skeletal tissue",
+            "eid": "2-s2.0-85098328334",
+            "authors": [
+                {
+                    "scopus_id": "23093011300",
+                    "name": "Arthur A.",
+                    "affiliation_id": [
+                        "60189793",
+                        "60108899"
+                    ]
+                },
+                {
+                    "scopus_id": "6603773587",
+                    "name": "Gronthos S.",
+                    "affiliation_id": [
+                        "60189793",
+                        "60108899"
+                    ]
+                }
+            ],
+            "citations": 141,
+            "publication_name": "International Journal of Molecular Sciences",
+            "issn": "16616596",
+            "cover_date": "2020-12-02",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "24",
+            "page_range": "1-27",
+            "doi": "10.3390/ijms21249759"
         },
         {
             "title": "Human adult dental pulp stem cells enhance poststroke functional recovery through non-neural replacement mechanisms",
@@ -2443,37 +2474,6 @@
             "doi": "10.5966/sctm.2011-0039"
         },
         {
-            "title": "Clinical application of bone marrow mesenchymal stem/stromal cells to repair skeletal tissue",
-            "eid": "2-s2.0-85098328334",
-            "authors": [
-                {
-                    "scopus_id": "23093011300",
-                    "name": "Arthur A.",
-                    "affiliation_id": [
-                        "60189793",
-                        "60108899"
-                    ]
-                },
-                {
-                    "scopus_id": "6603773587",
-                    "name": "Gronthos S.",
-                    "affiliation_id": [
-                        "60189793",
-                        "60108899"
-                    ]
-                }
-            ],
-            "citations": 140,
-            "publication_name": "International Journal of Molecular Sciences",
-            "issn": "16616596",
-            "cover_date": "2020-12-02",
-            "venue": "Journal",
-            "volume": "21",
-            "issue": "24",
-            "page_range": "1-27",
-            "doi": "10.3390/ijms21249759"
-        },
-        {
             "title": "Generation of functional mesenchymal stem cells from different induced pluripotent stem cell lines",
             "eid": "2-s2.0-84900403353",
             "authors": [
@@ -2522,64 +2522,6 @@
             "issue": "10",
             "page_range": "1084-1096",
             "doi": "10.1089/scd.2013.0111"
-        },
-        {
-            "title": "Characterisation and developmental potential of ovine bone marrow derived mesenchymal stem cells",
-            "eid": "2-s2.0-62149135284",
-            "authors": [
-                {
-                    "scopus_id": "7101917164",
-                    "name": "Mccarty R.",
-                    "affiliation_id": [
-                        "60015153",
-                        "60009512",
-                        "60024854"
-                    ]
-                },
-                {
-                    "scopus_id": "6603773587",
-                    "name": "Gronthos S.",
-                    "affiliation_id": [
-                        "60024854",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "6603809529",
-                    "name": "Zannettino A.",
-                    "affiliation_id": [
-                        "60024854",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7202824382",
-                    "name": "Foster B.",
-                    "affiliation_id": [
-                        "60015153",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7005013489",
-                    "name": "Xian C.",
-                    "affiliation_id": [
-                        "60015153",
-                        "60009512",
-                        "60031846",
-                        "60031846"
-                    ]
-                }
-            ],
-            "citations": 133,
-            "publication_name": "Journal of Cellular Physiology",
-            "issn": "00219541",
-            "cover_date": "2009-05-01",
-            "venue": "Journal",
-            "volume": "219",
-            "issue": "2",
-            "page_range": "324-333",
-            "doi": "10.1002/jcp.21670"
         },
         {
             "title": "Mesenchymal stem cells in human placental chorionic villi reside in a vascular Niche",
@@ -2647,7 +2589,7 @@
                     ]
                 }
             ],
-            "citations": 132,
+            "citations": 133,
             "publication_name": "Placenta",
             "issn": "01434004",
             "cover_date": "2010-03-01",
@@ -2656,6 +2598,64 @@
             "issue": "3",
             "page_range": "203-212",
             "doi": "10.1016/j.placenta.2009.12.006"
+        },
+        {
+            "title": "Characterisation and developmental potential of ovine bone marrow derived mesenchymal stem cells",
+            "eid": "2-s2.0-62149135284",
+            "authors": [
+                {
+                    "scopus_id": "7101917164",
+                    "name": "Mccarty R.",
+                    "affiliation_id": [
+                        "60015153",
+                        "60009512",
+                        "60024854"
+                    ]
+                },
+                {
+                    "scopus_id": "6603773587",
+                    "name": "Gronthos S.",
+                    "affiliation_id": [
+                        "60024854",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "6603809529",
+                    "name": "Zannettino A.",
+                    "affiliation_id": [
+                        "60024854",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7202824382",
+                    "name": "Foster B.",
+                    "affiliation_id": [
+                        "60015153",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7005013489",
+                    "name": "Xian C.",
+                    "affiliation_id": [
+                        "60015153",
+                        "60009512",
+                        "60031846",
+                        "60031846"
+                    ]
+                }
+            ],
+            "citations": 133,
+            "publication_name": "Journal of Cellular Physiology",
+            "issn": "00219541",
+            "cover_date": "2009-05-01",
+            "venue": "Journal",
+            "volume": "219",
+            "issue": "2",
+            "page_range": "324-333",
+            "doi": "10.1002/jcp.21670"
         },
         {
             "title": "Enrichment for STRO-1 expression enhances the cardiovascular paracrine activity of human bone marrow-derived mesenchymal cell populations",
@@ -2743,6 +2743,58 @@
             "issue": "2",
             "page_range": "530-540",
             "doi": "10.1002/jcp.22081"
+        },
+        {
+            "title": "Interferon-Gamma Modification of Mesenchymal Stem Cells: Implications of Autologous and Allogeneic Mesenchymal Stem Cell Therapy in Allotransplantation",
+            "eid": "2-s2.0-84899935769",
+            "authors": [
+                {
+                    "scopus_id": "56019765800",
+                    "name": "Sivanathan K.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60031564"
+                    ]
+                },
+                {
+                    "scopus_id": "6603773587",
+                    "name": "Gronthos S.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "55775772000",
+                    "name": "Rojas-Canales D.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7005722927",
+                    "name": "Thierry B.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "35598001200",
+                    "name": "Coates P.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60031564"
+                    ]
+                }
+            ],
+            "citations": 126,
+            "publication_name": "Stem Cell Reviews and Reports",
+            "issn": "15508943",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "3",
+            "page_range": "351-375",
+            "doi": "10.1007/s12015-014-9495-2"
         },
         {
             "title": "An injectable hydrogel incorporating mesenchymal precursor cells and pentosan polysulphate for intervertebral disc regeneration",
@@ -2938,58 +2990,6 @@
             "issue": "9",
             "page_range": "2229-2237",
             "doi": "10.1002/stem.138"
-        },
-        {
-            "title": "Interferon-Gamma Modification of Mesenchymal Stem Cells: Implications of Autologous and Allogeneic Mesenchymal Stem Cell Therapy in Allotransplantation",
-            "eid": "2-s2.0-84899935769",
-            "authors": [
-                {
-                    "scopus_id": "56019765800",
-                    "name": "Sivanathan K.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60031564"
-                    ]
-                },
-                {
-                    "scopus_id": "6603773587",
-                    "name": "Gronthos S.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "55775772000",
-                    "name": "Rojas-Canales D.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7005722927",
-                    "name": "Thierry B.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "35598001200",
-                    "name": "Coates P.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60031564"
-                    ]
-                }
-            ],
-            "citations": 125,
-            "publication_name": "Stem Cell Reviews and Reports",
-            "issn": "15508943",
-            "cover_date": "2014-01-01",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "3",
-            "page_range": "351-375",
-            "doi": "10.1007/s12015-014-9495-2"
         },
         {
             "title": "Telomerase accelerates osteogenesis of bone marrow stromal stem cells by upregulation of CBFA1, osterix, and osteocalcin",
@@ -3279,7 +3279,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 106,
+            "citations": 107,
             "publication_name": "Methods in Enzymology",
             "issn": "00766879",
             "cover_date": "2006-01-01",
@@ -4163,7 +4163,7 @@
                     ]
                 }
             ],
-            "citations": 81,
+            "citations": 82,
             "publication_name": "Haematologica",
             "issn": "03906078",
             "cover_date": "2010-05-01",
@@ -5022,7 +5022,7 @@
                     ]
                 }
             ],
-            "citations": 64,
+            "citations": 65,
             "publication_name": "Stem Cells and Development",
             "issn": "15473287",
             "cover_date": "2016-06-15",
@@ -5721,7 +5721,7 @@
                     ]
                 }
             ],
-            "citations": 56,
+            "citations": 57,
             "publication_name": "Epigenetics and Chromatin",
             "issn": "",
             "cover_date": "2019-01-03",
@@ -6859,6 +6859,59 @@
             "doi": "10.1186/ar2935"
         },
         {
+            "title": "Human gingival fibroblast secretome accelerates wound healing through anti-inflammatory and pro-angiogenic mechanisms",
+            "eid": "2-s2.0-85097373417",
+            "authors": [
+                {
+                    "scopus_id": "56465927300",
+                    "name": "Ahangar P.",
+                    "affiliation_id": [
+                        "60031846",
+                        "117951948"
+                    ]
+                },
+                {
+                    "scopus_id": "7202974078",
+                    "name": "Mills S.J.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "8109351300",
+                    "name": "Smith L.E.",
+                    "affiliation_id": [
+                        "60031846",
+                        "117951948"
+                    ]
+                },
+                {
+                    "scopus_id": "6603773587",
+                    "name": "Gronthos S.",
+                    "affiliation_id": [
+                        "60189793",
+                        "60108899"
+                    ]
+                },
+                {
+                    "scopus_id": "6701525301",
+                    "name": "Cowin A.J.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                }
+            ],
+            "citations": 43,
+            "publication_name": "npj Regenerative Medicine",
+            "issn": "",
+            "cover_date": "2020-12-01",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1038/s41536-020-00109-9"
+        },
+        {
             "title": "HIF-2\u03b1 promotes dissemination of plasma cells in multiple myeloma by regulating CXCL12/CXCR4 and CCR1",
             "eid": "2-s2.0-85031414477",
             "authors": [
@@ -7063,59 +7116,6 @@
             "doi": "10.1097/BRS.0000000000001528"
         },
         {
-            "title": "Human gingival fibroblast secretome accelerates wound healing through anti-inflammatory and pro-angiogenic mechanisms",
-            "eid": "2-s2.0-85097373417",
-            "authors": [
-                {
-                    "scopus_id": "56465927300",
-                    "name": "Ahangar P.",
-                    "affiliation_id": [
-                        "60031846",
-                        "117951948"
-                    ]
-                },
-                {
-                    "scopus_id": "7202974078",
-                    "name": "Mills S.J.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "8109351300",
-                    "name": "Smith L.E.",
-                    "affiliation_id": [
-                        "60031846",
-                        "117951948"
-                    ]
-                },
-                {
-                    "scopus_id": "6603773587",
-                    "name": "Gronthos S.",
-                    "affiliation_id": [
-                        "60189793",
-                        "60108899"
-                    ]
-                },
-                {
-                    "scopus_id": "6701525301",
-                    "name": "Cowin A.J.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                }
-            ],
-            "citations": 42,
-            "publication_name": "npj Regenerative Medicine",
-            "issn": "",
-            "cover_date": "2020-12-01",
-            "venue": "Journal",
-            "volume": "5",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1038/s41536-020-00109-9"
-        },
-        {
             "title": "Mesenchymal stem cells and biologic factors leading to bone formation",
             "eid": "2-s2.0-85067586526",
             "authors": [
@@ -7148,7 +7148,7 @@
                     ]
                 }
             ],
-            "citations": 41,
+            "citations": 42,
             "publication_name": "Journal of Clinical Periodontology",
             "issn": "03036979",
             "cover_date": "2019-06-01",
@@ -7603,6 +7603,83 @@
             "doi": "10.1002/term.276"
         },
         {
+            "title": "Ectopic bone formation by mesenchymal stem cells derived from human term placenta and the decidua",
+            "eid": "2-s2.0-84949057736",
+            "authors": [
+                {
+                    "scopus_id": "55981227900",
+                    "name": "Kusuma G.D.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60032679"
+                    ]
+                },
+                {
+                    "scopus_id": "24759191200",
+                    "name": "Menicanin D.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "6603773587",
+                    "name": "Gronthos S.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "6603253017",
+                    "name": "Manuelpillai U.",
+                    "affiliation_id": [
+                        "60032679",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "15029842900",
+                    "name": "Abumaree M.H.",
+                    "affiliation_id": [
+                        "60011072"
+                    ]
+                },
+                {
+                    "scopus_id": "7801552642",
+                    "name": "Pertile M.D.",
+                    "affiliation_id": [
+                        "60026489",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7006602122",
+                    "name": "Brennecke S.P.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60032679"
+                    ]
+                },
+                {
+                    "scopus_id": "6603943573",
+                    "name": "Kalionis B.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60032679"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "PLoS ONE",
+            "issn": "",
+            "cover_date": "2015-10-20",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "10",
+            "page_range": null,
+            "doi": "10.1371/journal.pone.0141246"
+        },
+        {
             "title": "Twist-ing cell fate: Mechanistic insights into the role of twist in lineage specification/differentiation and tumorigenesis",
             "eid": "2-s2.0-77955484344",
             "authors": [
@@ -7690,83 +7767,6 @@
             "issue": "9",
             "page_range": "829-834",
             "doi": "10.1177/0022034509342363"
-        },
-        {
-            "title": "Ectopic bone formation by mesenchymal stem cells derived from human term placenta and the decidua",
-            "eid": "2-s2.0-84949057736",
-            "authors": [
-                {
-                    "scopus_id": "55981227900",
-                    "name": "Kusuma G.D.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60032679"
-                    ]
-                },
-                {
-                    "scopus_id": "24759191200",
-                    "name": "Menicanin D.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "6603773587",
-                    "name": "Gronthos S.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "6603253017",
-                    "name": "Manuelpillai U.",
-                    "affiliation_id": [
-                        "60032679",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "15029842900",
-                    "name": "Abumaree M.H.",
-                    "affiliation_id": [
-                        "60011072"
-                    ]
-                },
-                {
-                    "scopus_id": "7801552642",
-                    "name": "Pertile M.D.",
-                    "affiliation_id": [
-                        "60026489",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7006602122",
-                    "name": "Brennecke S.P.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60032679"
-                    ]
-                },
-                {
-                    "scopus_id": "6603943573",
-                    "name": "Kalionis B.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60032679"
-                    ]
-                }
-            ],
-            "citations": 35,
-            "publication_name": "PLoS ONE",
-            "issn": "",
-            "cover_date": "2015-10-20",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "10",
-            "page_range": null,
-            "doi": "10.1371/journal.pone.0141246"
         },
         {
             "title": "Standardization of Criteria Defining Periodontal Ligament Stem Cells",
@@ -8023,6 +8023,178 @@
             "issue": "5",
             "page_range": "597-605",
             "doi": "10.1007/s11914-020-00616-0"
+        },
+        {
+            "title": "A non-canonical role for desmoglein-2 in endothelial cells: implications for neoangiogenesis",
+            "eid": "2-s2.0-84976320589",
+            "authors": [
+                {
+                    "scopus_id": "7004563839",
+                    "name": "Ebert L.M.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "56594133600",
+                    "name": "Tan L.Y.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "57189987219",
+                    "name": "Johan M.Z.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "57195465157",
+                    "name": "Min K.K.M.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "14027798300",
+                    "name": "Cockshell M.P.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "56594728300",
+                    "name": "Parham K.A.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "55255132100",
+                    "name": "Betterman K.L.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "57189994988",
+                    "name": "Szeto P.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60118918",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "35112334800",
+                    "name": "Boyle S.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60118918",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55925359600",
+                    "name": "Silva L.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60118918",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57189990182",
+                    "name": "Peng A.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60118918",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "53882260700",
+                    "name": "Zhang Y.F.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60118918",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "6601970720",
+                    "name": "Ruszkiewicz A.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "6603809529",
+                    "name": "Zannettino A.C.W.",
+                    "affiliation_id": [
+                        "60108899",
+                        "60189793"
+                    ]
+                },
+                {
+                    "scopus_id": "6603773587",
+                    "name": "Gronthos S.",
+                    "affiliation_id": [
+                        "60108899",
+                        "60189793"
+                    ]
+                },
+                {
+                    "scopus_id": "6603818794",
+                    "name": "Koblar S.",
+                    "affiliation_id": [
+                        "60108899",
+                        "60189793"
+                    ]
+                },
+                {
+                    "scopus_id": "36907150700",
+                    "name": "Harvey N.L.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "7401455851",
+                    "name": "Lopez A.F.",
+                    "affiliation_id": [
+                        "60031846",
+                        "60189793"
+                    ]
+                },
+                {
+                    "scopus_id": "7004295059",
+                    "name": "Shackleton M.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60118918",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "6603412549",
+                    "name": "Bonder C.S.",
+                    "affiliation_id": [
+                        "60031846",
+                        "60189793"
+                    ]
+                }
+            ],
+            "citations": 32,
+            "publication_name": "Angiogenesis",
+            "issn": "09696970",
+            "cover_date": "2016-10-01",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "4",
+            "page_range": "463-486",
+            "doi": "10.1007/s10456-016-9520-y"
         },
         {
             "title": "The role of cell surface markers and enamel matrix derivatives on human periodontal ligament mesenchymal progenitor responses in vitro",
@@ -8351,178 +8523,6 @@
             "issue": "",
             "page_range": "413-427",
             "doi": "10.1007/978-1-4939-6685-1_24"
-        },
-        {
-            "title": "A non-canonical role for desmoglein-2 in endothelial cells: implications for neoangiogenesis",
-            "eid": "2-s2.0-84976320589",
-            "authors": [
-                {
-                    "scopus_id": "7004563839",
-                    "name": "Ebert L.M.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "56594133600",
-                    "name": "Tan L.Y.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "57189987219",
-                    "name": "Johan M.Z.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "57195465157",
-                    "name": "Min K.K.M.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "14027798300",
-                    "name": "Cockshell M.P.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "56594728300",
-                    "name": "Parham K.A.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "55255132100",
-                    "name": "Betterman K.L.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "57189994988",
-                    "name": "Szeto P.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60118918",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "35112334800",
-                    "name": "Boyle S.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60118918",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55925359600",
-                    "name": "Silva L.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60118918",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57189990182",
-                    "name": "Peng A.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60118918",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "53882260700",
-                    "name": "Zhang Y.F.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60118918",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "6601970720",
-                    "name": "Ruszkiewicz A.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "6603809529",
-                    "name": "Zannettino A.C.W.",
-                    "affiliation_id": [
-                        "60108899",
-                        "60189793"
-                    ]
-                },
-                {
-                    "scopus_id": "6603773587",
-                    "name": "Gronthos S.",
-                    "affiliation_id": [
-                        "60108899",
-                        "60189793"
-                    ]
-                },
-                {
-                    "scopus_id": "6603818794",
-                    "name": "Koblar S.",
-                    "affiliation_id": [
-                        "60108899",
-                        "60189793"
-                    ]
-                },
-                {
-                    "scopus_id": "36907150700",
-                    "name": "Harvey N.L.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "7401455851",
-                    "name": "Lopez A.F.",
-                    "affiliation_id": [
-                        "60031846",
-                        "60189793"
-                    ]
-                },
-                {
-                    "scopus_id": "7004295059",
-                    "name": "Shackleton M.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60118918",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "6603412549",
-                    "name": "Bonder C.S.",
-                    "affiliation_id": [
-                        "60031846",
-                        "60189793"
-                    ]
-                }
-            ],
-            "citations": 31,
-            "publication_name": "Angiogenesis",
-            "issn": "09696970",
-            "cover_date": "2016-10-01",
-            "venue": "Journal",
-            "volume": "19",
-            "issue": "4",
-            "page_range": "463-486",
-            "doi": "10.1007/s10456-016-9520-y"
         },
         {
             "title": "Semaphorin 3A induces mesenchymal-stem-like properties in human periodontal ligament cells",
@@ -9944,6 +9944,37 @@
             "doi": "10.1016/j.canlet.2020.01.040"
         },
         {
+            "title": "Eph-Ephrin Signaling Mediates Cross-Talk Within the Bone Microenvironment",
+            "eid": "2-s2.0-85101220130",
+            "authors": [
+                {
+                    "scopus_id": "23093011300",
+                    "name": "Arthur A.",
+                    "affiliation_id": [
+                        "60189793",
+                        "60108899"
+                    ]
+                },
+                {
+                    "scopus_id": "6603773587",
+                    "name": "Gronthos S.",
+                    "affiliation_id": [
+                        "60189793",
+                        "60108899"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Frontiers in Cell and Developmental Biology",
+            "issn": "",
+            "cover_date": "2021-02-09",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.3389/fcell.2021.598612"
+        },
+        {
             "title": "Immunomodulatory properties of mesenchymal stem cell in experimental arthritis in rat and mouse models: A systematic review",
             "eid": "2-s2.0-84963815391",
             "authors": [
@@ -10068,37 +10099,6 @@
             "issue": "4",
             "page_range": "635-644",
             "doi": "10.1016/j.bone.2005.02.003"
-        },
-        {
-            "title": "Eph-Ephrin Signaling Mediates Cross-Talk Within the Bone Microenvironment",
-            "eid": "2-s2.0-85101220130",
-            "authors": [
-                {
-                    "scopus_id": "23093011300",
-                    "name": "Arthur A.",
-                    "affiliation_id": [
-                        "60189793",
-                        "60108899"
-                    ]
-                },
-                {
-                    "scopus_id": "6603773587",
-                    "name": "Gronthos S.",
-                    "affiliation_id": [
-                        "60189793",
-                        "60108899"
-                    ]
-                }
-            ],
-            "citations": 20,
-            "publication_name": "Frontiers in Cell and Developmental Biology",
-            "issn": "",
-            "cover_date": "2021-02-09",
-            "venue": "Journal",
-            "volume": "9",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.3389/fcell.2021.598612"
         },
         {
             "title": "Differentiation of iPSC to mesenchymal stem-like cells and their characterization",
@@ -11290,6 +11290,61 @@
             "doi": "10.1038/s41598-018-32858-5"
         },
         {
+            "title": "Immunodepletion and Hypoxia Preconditioning of Mouse Compact Bone Cells as a Novel Protocol to Isolate Highly Immunosuppressive Mesenchymal Stem Cells",
+            "eid": "2-s2.0-85030781656",
+            "authors": [
+                {
+                    "scopus_id": "56019765800",
+                    "name": "Sivanathan K.",
+                    "affiliation_id": [
+                        "60031564",
+                        "60031564"
+                    ]
+                },
+                {
+                    "scopus_id": "6603773587",
+                    "name": "Gronthos S.",
+                    "affiliation_id": [
+                        "60031564",
+                        "60031564"
+                    ]
+                },
+                {
+                    "scopus_id": "7006366319",
+                    "name": "Grey S.",
+                    "affiliation_id": [
+                        "60031564"
+                    ]
+                },
+                {
+                    "scopus_id": "55775772000",
+                    "name": "Rojas-Canales D.",
+                    "affiliation_id": [
+                        "60031564",
+                        "60031564"
+                    ]
+                },
+                {
+                    "scopus_id": "35598001200",
+                    "name": "Coates P.",
+                    "affiliation_id": [
+                        "60031564",
+                        "60031564",
+                        "60031564"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Stem cells and development",
+            "issn": "",
+            "cover_date": "2017-04-01",
+            "venue": "Journal",
+            "volume": "26",
+            "issue": "7",
+            "page_range": "512-527",
+            "doi": "10.1089/scd.2016.0180"
+        },
+        {
             "title": "Generation of Neural Crest-Like Cells From Human Periodontal Ligament Cell-Derived Induced Pluripotent Stem Cells",
             "eid": "2-s2.0-84973860940",
             "authors": [
@@ -11408,61 +11463,6 @@
             "issue": "",
             "page_range": "305-323",
             "doi": "10.1016/S0070-2153(05)67010-X"
-        },
-        {
-            "title": "Immunodepletion and Hypoxia Preconditioning of Mouse Compact Bone Cells as a Novel Protocol to Isolate Highly Immunosuppressive Mesenchymal Stem Cells",
-            "eid": "2-s2.0-85030781656",
-            "authors": [
-                {
-                    "scopus_id": "56019765800",
-                    "name": "Sivanathan K.",
-                    "affiliation_id": [
-                        "60031564",
-                        "60031564"
-                    ]
-                },
-                {
-                    "scopus_id": "6603773587",
-                    "name": "Gronthos S.",
-                    "affiliation_id": [
-                        "60031564",
-                        "60031564"
-                    ]
-                },
-                {
-                    "scopus_id": "7006366319",
-                    "name": "Grey S.",
-                    "affiliation_id": [
-                        "60031564"
-                    ]
-                },
-                {
-                    "scopus_id": "55775772000",
-                    "name": "Rojas-Canales D.",
-                    "affiliation_id": [
-                        "60031564",
-                        "60031564"
-                    ]
-                },
-                {
-                    "scopus_id": "35598001200",
-                    "name": "Coates P.",
-                    "affiliation_id": [
-                        "60031564",
-                        "60031564",
-                        "60031564"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Stem cells and development",
-            "issn": "",
-            "cover_date": "2017-04-01",
-            "venue": "Journal",
-            "volume": "26",
-            "issue": "7",
-            "page_range": "512-527",
-            "doi": "10.1089/scd.2016.0180"
         },
         {
             "title": "Tyrosine kinase receptor c-ros-oncogene 1 mediates TWIST-1 regulation of human mesenchymal stem cell lineage commitment",
@@ -14476,6 +14476,5 @@
             "$": "Dentistry (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:34:03",
-    "c-score": null
+    "date fetched": "2024-07-12 18:42:16"
 }

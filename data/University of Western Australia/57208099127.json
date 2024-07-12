@@ -713,7 +713,7 @@
                     ]
                 }
             ],
-            "citations": 10848,
+            "citations": 10858,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-12-01",
@@ -1428,7 +1428,7 @@
                     ]
                 }
             ],
-            "citations": 6900,
+            "citations": 6905,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-12-01",
@@ -2142,7 +2142,7 @@
                     ]
                 }
             ],
-            "citations": 6228,
+            "citations": 6234,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -2870,7 +2870,7 @@
                     ]
                 }
             ],
-            "citations": 4892,
+            "citations": 4907,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -2964,7 +2964,7 @@
                     ]
                 }
             ],
-            "citations": 2554,
+            "citations": 2559,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2013-01-01",
@@ -3221,7 +3221,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 1546,
+            "citations": 1549,
             "publication_name": "JAMA",
             "issn": "00987484",
             "cover_date": "2008-07-09",
@@ -3718,7 +3718,7 @@
                     "scopus_id": "7005352603",
                     "name": "Lannfelt L.",
                     "affiliation_id": [
-                        "60003858"
+                        "60079985"
                     ]
                 },
                 {
@@ -3955,7 +3955,7 @@
                     ]
                 }
             ],
-            "citations": 531,
+            "citations": 532,
             "publication_name": "BMJ (Online)",
             "issn": "",
             "cover_date": "2014-07-10",
@@ -4689,7 +4689,7 @@
                     ]
                 }
             ],
-            "citations": 502,
+            "citations": 505,
             "publication_name": "Arteriosclerosis, Thrombosis, and Vascular Biology",
             "issn": "10795642",
             "cover_date": "2006-12-01",
@@ -5689,7 +5689,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 249,
+            "citations": 250,
             "publication_name": "BMJ",
             "issn": "",
             "cover_date": "2011-02-19",
@@ -5809,7 +5809,7 @@
                     ]
                 }
             ],
-            "citations": 219,
+            "citations": 220,
             "publication_name": "Circulation",
             "issn": "00097322",
             "cover_date": "2008-12-02",
@@ -5935,65 +5935,6 @@
             "doi": "10.1016/j.gheart.2013.12.008"
         },
         {
-            "title": "Cohort profile: The health In men study (HIMS)",
-            "eid": "2-s2.0-60149099915",
-            "authors": [
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7006112267",
-                    "name": "Flicker L.",
-                    "affiliation_id": [
-                        "60005202",
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "35481288100",
-                    "name": "Almeida O.P.",
-                    "affiliation_id": [
-                        "60005202",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7102816661",
-                    "name": "Hankey G.J.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "16316066600",
-                    "name": "Hyde Z.",
-                    "affiliation_id": [
-                        "60005202"
-                    ]
-                },
-                {
-                    "scopus_id": "26426193300",
-                    "name": "Jamrozik K.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                }
-            ],
-            "citations": 201,
-            "publication_name": "International Journal of Epidemiology",
-            "issn": "03005771",
-            "cover_date": "2009-02-19",
-            "venue": "Journal",
-            "volume": "38",
-            "issue": "1",
-            "page_range": "48-52",
-            "doi": "10.1093/ije/dyn041"
-        },
-        {
             "title": "Global and regional burden of aortic dissection and aneurysms: Mortality trends in 21 world regions, 1990 to 2010",
             "eid": "2-s2.0-84898033641",
             "authors": [
@@ -6097,7 +6038,7 @@
                     ]
                 }
             ],
-            "citations": 200,
+            "citations": 201,
             "publication_name": "Global Heart",
             "issn": "22118160",
             "cover_date": "2014-01-01",
@@ -6106,6 +6047,65 @@
             "issue": "1",
             "page_range": "171-180.e10",
             "doi": "10.1016/j.gheart.2013.12.010"
+        },
+        {
+            "title": "Cohort profile: The health In men study (HIMS)",
+            "eid": "2-s2.0-60149099915",
+            "authors": [
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7006112267",
+                    "name": "Flicker L.",
+                    "affiliation_id": [
+                        "60005202",
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "35481288100",
+                    "name": "Almeida O.P.",
+                    "affiliation_id": [
+                        "60005202",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7102816661",
+                    "name": "Hankey G.J.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "16316066600",
+                    "name": "Hyde Z.",
+                    "affiliation_id": [
+                        "60005202"
+                    ]
+                },
+                {
+                    "scopus_id": "26426193300",
+                    "name": "Jamrozik K.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 201,
+            "publication_name": "International Journal of Epidemiology",
+            "issn": "03005771",
+            "cover_date": "2009-02-19",
+            "venue": "Journal",
+            "volume": "38",
+            "issue": "1",
+            "page_range": "48-52",
+            "doi": "10.1093/ije/dyn041"
         },
         {
             "title": "Atherosclerosis and abdominal aortic aneurysm: Cause, response, or common risk factors?",
@@ -6126,7 +6126,7 @@
                     ]
                 }
             ],
-            "citations": 199,
+            "citations": 200,
             "publication_name": "Arteriosclerosis, Thrombosis, and Vascular Biology",
             "issn": "10795642",
             "cover_date": "2010-06-01",
@@ -6719,7 +6719,7 @@
                     ]
                 }
             ],
-            "citations": 176,
+            "citations": 178,
             "publication_name": "JAMA Cardiology",
             "issn": "23806583",
             "cover_date": "2019-02-01",
@@ -6783,7 +6783,7 @@
                     ]
                 }
             ],
-            "citations": 168,
+            "citations": 169,
             "publication_name": "European Heart Journal",
             "issn": "0195668X",
             "cover_date": "2008-03-01",
@@ -7869,6 +7869,64 @@
             "doi": "10.1001/archpsyc.65.11.1286"
         },
         {
+            "title": "Association of osteoprotegerin with human abdominal aortic aneurysm progression",
+            "eid": "2-s2.0-20544446895",
+            "authors": [
+                {
+                    "scopus_id": "8596985800",
+                    "name": "Moran C.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "7102067867",
+                    "name": "McCann M.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "57212693165",
+                    "name": "Karan M.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "6701712250",
+                    "name": "Ketheesan N.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "7005096118",
+                    "name": "Golledge J.",
+                    "affiliation_id": [
+                        "60019870",
+                        "60019870"
+                    ]
+                }
+            ],
+            "citations": 144,
+            "publication_name": "Circulation",
+            "issn": "00097322",
+            "cover_date": "2005-06-14",
+            "venue": "Journal",
+            "volume": "111",
+            "issue": "23",
+            "page_range": "3119-3125",
+            "doi": "10.1161/CIRCULATIONAHA.104.464727"
+        },
+        {
             "title": "Meta-Analysis of Genome-Wide Association Studies for Abdominal Aortic Aneurysm Identifies Four New Disease-Specific Risk Loci",
             "eid": "2-s2.0-85002194690",
             "authors": [
@@ -8595,7 +8653,7 @@
                     ]
                 }
             ],
-            "citations": 142,
+            "citations": 143,
             "publication_name": "Circulation Research",
             "issn": "00097330",
             "cover_date": "2017-01-20",
@@ -8604,64 +8662,6 @@
             "issue": "2",
             "page_range": "341-353",
             "doi": "10.1161/CIRCRESAHA.116.308765"
-        },
-        {
-            "title": "Association of osteoprotegerin with human abdominal aortic aneurysm progression",
-            "eid": "2-s2.0-20544446895",
-            "authors": [
-                {
-                    "scopus_id": "8596985800",
-                    "name": "Moran C.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "7102067867",
-                    "name": "McCann M.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "57212693165",
-                    "name": "Karan M.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "6701712250",
-                    "name": "Ketheesan N.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "7005096118",
-                    "name": "Golledge J.",
-                    "affiliation_id": [
-                        "60019870",
-                        "60019870"
-                    ]
-                }
-            ],
-            "citations": 141,
-            "publication_name": "Circulation",
-            "issn": "00097322",
-            "cover_date": "2005-06-14",
-            "venue": "Journal",
-            "volume": "111",
-            "issue": "23",
-            "page_range": "3119-3125",
-            "doi": "10.1161/CIRCULATIONAHA.104.464727"
         },
         {
             "title": "Predictors, consequences and costs of diabetes-related lower extremity amputation complicating type 2 diabetes: the Fremantle Diabetes Study.",
@@ -8882,6 +8882,35 @@
             "doi": "10.1210/jc.2012-2265"
         },
         {
+            "title": "Site specificity of aneurysmal disease",
+            "eid": "2-s2.0-76349107344",
+            "authors": [
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "35371486600",
+                    "name": "Powell J.T.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                }
+            ],
+            "citations": 118,
+            "publication_name": "Circulation",
+            "issn": "00097322",
+            "cover_date": "2010-02-01",
+            "venue": "Journal",
+            "volume": "121",
+            "issue": "4",
+            "page_range": "560-568",
+            "doi": "10.1161/CIRCULATIONAHA.109.880724"
+        },
+        {
             "title": "C-reactive protein levels and the expansion of screen-detected abdominal aortic aneurysms in men",
             "eid": "2-s2.0-4143150882",
             "authors": [
@@ -8925,35 +8954,6 @@
             "issue": "7",
             "page_range": "862-866",
             "doi": "10.1161/01.CIR.0000138746.14425.00"
-        },
-        {
-            "title": "Site specificity of aneurysmal disease",
-            "eid": "2-s2.0-76349107344",
-            "authors": [
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "35371486600",
-                    "name": "Powell J.T.",
-                    "affiliation_id": [
-                        "60015150"
-                    ]
-                }
-            ],
-            "citations": 117,
-            "publication_name": "Circulation",
-            "issn": "00097322",
-            "cover_date": "2010-02-01",
-            "venue": "Journal",
-            "volume": "121",
-            "issue": "4",
-            "page_range": "560-568",
-            "doi": "10.1161/CIRCULATIONAHA.109.880724"
         },
         {
             "title": "In men older than 70 years, total testosterone remains stable while free testosterone declines with age. The Health in Men Study",
@@ -9358,7 +9358,7 @@
                     ]
                 }
             ],
-            "citations": 108,
+            "citations": 109,
             "publication_name": "Maturitas",
             "issn": "03785122",
             "cover_date": "2011-08-01",
@@ -9411,6 +9411,36 @@
             "issue": "1",
             "page_range": "225-233",
             "doi": "10.1016/j.jvs.2016.08.003"
+        },
+        {
+            "title": "Vitamin D, shedding light on the development of disease in peripheral arteries",
+            "eid": "2-s2.0-11144226491",
+            "authors": [
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "35371486600",
+                    "name": "Powell J.T.",
+                    "affiliation_id": [
+                        "60015150",
+                        "60015150"
+                    ]
+                }
+            ],
+            "citations": 99,
+            "publication_name": "Arteriosclerosis, Thrombosis, and Vascular Biology",
+            "issn": "10795642",
+            "cover_date": "2005-01-01",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "1",
+            "page_range": "39-46",
+            "doi": "10.1161/01.ATV.0000148450.56697.4a"
         },
         {
             "title": "Quality use of medicines and health outcomes among a cohort of community dwelling older men: An observational study",
@@ -9484,36 +9514,6 @@
             "issue": "4",
             "page_range": "592-599",
             "doi": "10.1111/j.1365-2125.2010.03875.x"
-        },
-        {
-            "title": "Vitamin D, shedding light on the development of disease in peripheral arteries",
-            "eid": "2-s2.0-11144226491",
-            "authors": [
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "35371486600",
-                    "name": "Powell J.T.",
-                    "affiliation_id": [
-                        "60015150",
-                        "60015150"
-                    ]
-                }
-            ],
-            "citations": 98,
-            "publication_name": "Arteriosclerosis, Thrombosis, and Vascular Biology",
-            "issn": "10795642",
-            "cover_date": "2005-01-01",
-            "venue": "Journal",
-            "volume": "25",
-            "issue": "1",
-            "page_range": "39-46",
-            "doi": "10.1161/01.ATV.0000148450.56697.4a"
         },
         {
             "title": "Lower sex hormone-binding globulin is more strongly associated with metabolic syndrome than lower total testosterone in older men: The Health in Men Study",
@@ -9752,7 +9752,7 @@
                     ]
                 }
             ],
-            "citations": 91,
+            "citations": 92,
             "publication_name": "British Journal of Surgery",
             "issn": "00071323",
             "cover_date": "2017-10-01",
@@ -10191,7 +10191,7 @@
                     ]
                 }
             ],
-            "citations": 84,
+            "citations": 85,
             "publication_name": "European Journal of Vascular and Endovascular Surgery",
             "issn": "10785884",
             "cover_date": "2007-05-01",
@@ -10286,6 +10286,56 @@
             "issue": "2",
             "page_range": "295-305",
             "doi": "10.1016/j.atherosclerosis.2013.02.019"
+        },
+        {
+            "title": "Evaluation of the diagnostic and prognostic value of plasma D-dimer for abdominal aortic aneurysm",
+            "eid": "2-s2.0-79551716449",
+            "authors": [
+                {
+                    "scopus_id": "7005096118",
+                    "name": "Golledge J.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "7404246380",
+                    "name": "Muller R.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "24358911300",
+                    "name": "Clancy P.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "7102067867",
+                    "name": "McCann M.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 81,
+            "publication_name": "European Heart Journal",
+            "issn": "0195668X",
+            "cover_date": "2011-02-01",
+            "venue": "Journal",
+            "volume": "32",
+            "issue": "3",
+            "page_range": "354-364",
+            "doi": "10.1093/eurheartj/ehq171"
         },
         {
             "title": "Peripheral arterial disease: Prognostic significance and prevention of atherothrombotic complications",
@@ -10672,56 +10722,6 @@
             "doi": "10.1093/hmg/ddt141"
         },
         {
-            "title": "Evaluation of the diagnostic and prognostic value of plasma D-dimer for abdominal aortic aneurysm",
-            "eid": "2-s2.0-79551716449",
-            "authors": [
-                {
-                    "scopus_id": "7005096118",
-                    "name": "Golledge J.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "7404246380",
-                    "name": "Muller R.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "24358911300",
-                    "name": "Clancy P.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "7102067867",
-                    "name": "McCann M.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 80,
-            "publication_name": "European Heart Journal",
-            "issn": "0195668X",
-            "cover_date": "2011-02-01",
-            "venue": "Journal",
-            "volume": "32",
-            "issue": "3",
-            "page_range": "354-364",
-            "doi": "10.1093/eurheartj/ehq171"
-        },
-        {
             "title": "In older men, higher plasma testosterone or dihydrotestosterone is an independent predictor for reduced incidence of stroke but not myocardial infarction",
             "eid": "2-s2.0-84916594355",
             "authors": [
@@ -10923,7 +10923,7 @@
                     ]
                 }
             ],
-            "citations": 76,
+            "citations": 77,
             "publication_name": "American Journal of Cardiology",
             "issn": "00029149",
             "cover_date": "2010-05-15",
@@ -10976,7 +10976,7 @@
                     "scopus_id": "35185719600",
                     "name": "Wright B.J.",
                     "affiliation_id": [
-                        "60033125"
+                        "60171766"
                     ]
                 },
                 {
@@ -11154,7 +11154,7 @@
                     "scopus_id": "7202395767",
                     "name": "Wild J.B.",
                     "affiliation_id": [
-                        "60033125"
+                        "60171766"
                     ]
                 },
                 {
@@ -11253,7 +11253,7 @@
                     "scopus_id": "16747911400",
                     "name": "Sayers R.D.",
                     "affiliation_id": [
-                        "60033125"
+                        "60171766"
                     ]
                 },
                 {
@@ -11267,14 +11267,14 @@
                     "scopus_id": "7004345054",
                     "name": "Samani N.J.",
                     "affiliation_id": [
-                        "60033125"
+                        "60171766"
                     ]
                 },
                 {
                     "scopus_id": "7003652591",
                     "name": "Bown M.J.",
                     "affiliation_id": [
-                        "60033125"
+                        "60171766"
                     ]
                 }
             ],
@@ -11321,7 +11321,7 @@
                     ]
                 }
             ],
-            "citations": 74,
+            "citations": 75,
             "publication_name": "Connective Tissue Research",
             "issn": "03008207",
             "cover_date": "2007-05-01",
@@ -11430,7 +11430,7 @@
                     ]
                 }
             ],
-            "citations": 70,
+            "citations": 71,
             "publication_name": "American Journal of Pathology",
             "issn": "00029440",
             "cover_date": "2012-08-01",
@@ -12061,7 +12061,7 @@
                     ]
                 }
             ],
-            "citations": 63,
+            "citations": 64,
             "publication_name": "Arteriosclerosis, Thrombosis, and Vascular Biology",
             "issn": "10795642",
             "cover_date": "2017-01-01",
@@ -12114,7 +12114,7 @@
                     "scopus_id": "7004067300",
                     "name": "Couper D.J.",
                     "affiliation_id": [
-                        "60025111"
+                        "60016639"
                     ]
                 },
                 {
@@ -12882,7 +12882,7 @@
                     ]
                 }
             ],
-            "citations": 51,
+            "citations": 52,
             "publication_name": "Atherosclerosis",
             "issn": "00219150",
             "cover_date": "2012-02-01",
@@ -14181,200 +14181,6 @@
             "doi": "10.5694/j.1326-5377.2010.tb03571.x"
         },
         {
-            "title": "Haemodynamics and stresses in abdominal aortic aneurysms: A fluid-structure interaction study into the effect of proximal neck and iliac bifurcation angle",
-            "eid": "2-s2.0-85021927285",
-            "authors": [
-                {
-                    "scopus_id": "57194762476",
-                    "name": "Drewe C.J.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57193491520",
-                    "name": "Parker L.P.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57191222025",
-                    "name": "Kelsey L.J.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "23036194200",
-                    "name": "Powell J.T.",
-                    "affiliation_id": [
-                        "60015150"
-                    ]
-                },
-                {
-                    "scopus_id": "23110443300",
-                    "name": "Doyle B.J.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806",
-                        "60110825"
-                    ]
-                }
-            ],
-            "citations": 45,
-            "publication_name": "Journal of Biomechanics",
-            "issn": "00219290",
-            "cover_date": "2017-07-26",
-            "venue": "Journal",
-            "volume": "60",
-            "issue": "",
-            "page_range": "150-156",
-            "doi": "10.1016/j.jbiomech.2017.06.029"
-        },
-        {
-            "title": "Temporal trends in initial and recurrent lower extremity amputations in people with and without diabetes in Western Australia from 2000 to 2010",
-            "eid": "2-s2.0-84927912648",
-            "authors": [
-                {
-                    "scopus_id": "56539873600",
-                    "name": "Kurowski J.R.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "36721958000",
-                    "name": "Nedkoff L.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "36011393900",
-                    "name": "Schoen D.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7005404334",
-                    "name": "Knuiman M.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "6507675518",
-                    "name": "Briffa T.G.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 45,
-            "publication_name": "Diabetes Research and Clinical Practice",
-            "issn": "01688227",
-            "cover_date": "2015-05-01",
-            "venue": "Journal",
-            "volume": "108",
-            "issue": "2",
-            "page_range": "280-287",
-            "doi": "10.1016/j.diabres.2015.02.008"
-        },
-        {
-            "title": "Healthier lifestyle predicts higher circulating testosterone in older men: The Health in Men Study",
-            "eid": "2-s2.0-60349088152",
-            "authors": [
-                {
-                    "scopus_id": "34871187600",
-                    "name": "Yeap B.B.",
-                    "affiliation_id": [
-                        "60189789",
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "35481288100",
-                    "name": "Almeida O.P.",
-                    "affiliation_id": [
-                        "60189497",
-                        "106033043"
-                    ]
-                },
-                {
-                    "scopus_id": "16316066600",
-                    "name": "Hyde Z.",
-                    "affiliation_id": [
-                        "60189497"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7003390894",
-                    "name": "Chubb S.A.P.",
-                    "affiliation_id": [
-                        "60189789"
-                    ]
-                },
-                {
-                    "scopus_id": "26426193300",
-                    "name": "Jamrozik K.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7102816661",
-                    "name": "Hankey G.J.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7006112267",
-                    "name": "Flicker L.",
-                    "affiliation_id": [
-                        "60087991",
-                        "60189497"
-                    ]
-                }
-            ],
-            "citations": 45,
-            "publication_name": "Clinical Endocrinology",
-            "issn": "03000664",
-            "cover_date": "2009-03-01",
-            "venue": "Journal",
-            "volume": "70",
-            "issue": "3",
-            "page_range": "455-463",
-            "doi": "10.1111/j.1365-2265.2008.03372.x"
-        },
-        {
             "title": "Interleukin-6 Receptor Signaling and Abdominal Aortic Aneurysm Growth Rates",
             "eid": "2-s2.0-85061855347",
             "authors": [
@@ -14572,7 +14378,7 @@
                     ]
                 }
             ],
-            "citations": 44,
+            "citations": 45,
             "publication_name": "Circulation: Genomic and Precision Medicine",
             "issn": "",
             "cover_date": "2019-02-01",
@@ -14581,6 +14387,126 @@
             "issue": "2",
             "page_range": "84-93",
             "doi": "10.1161/CIRCGEN.118.002413"
+        },
+        {
+            "title": "Haemodynamics and stresses in abdominal aortic aneurysms: A fluid-structure interaction study into the effect of proximal neck and iliac bifurcation angle",
+            "eid": "2-s2.0-85021927285",
+            "authors": [
+                {
+                    "scopus_id": "57194762476",
+                    "name": "Drewe C.J.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57193491520",
+                    "name": "Parker L.P.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57191222025",
+                    "name": "Kelsey L.J.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "23036194200",
+                    "name": "Powell J.T.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "23110443300",
+                    "name": "Doyle B.J.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806",
+                        "60110825"
+                    ]
+                }
+            ],
+            "citations": 45,
+            "publication_name": "Journal of Biomechanics",
+            "issn": "00219290",
+            "cover_date": "2017-07-26",
+            "venue": "Journal",
+            "volume": "60",
+            "issue": "",
+            "page_range": "150-156",
+            "doi": "10.1016/j.jbiomech.2017.06.029"
+        },
+        {
+            "title": "Temporal trends in initial and recurrent lower extremity amputations in people with and without diabetes in Western Australia from 2000 to 2010",
+            "eid": "2-s2.0-84927912648",
+            "authors": [
+                {
+                    "scopus_id": "56539873600",
+                    "name": "Kurowski J.R.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "36721958000",
+                    "name": "Nedkoff L.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "36011393900",
+                    "name": "Schoen D.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7005404334",
+                    "name": "Knuiman M.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "6507675518",
+                    "name": "Briffa T.G.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 45,
+            "publication_name": "Diabetes Research and Clinical Practice",
+            "issn": "01688227",
+            "cover_date": "2015-05-01",
+            "venue": "Journal",
+            "volume": "108",
+            "issue": "2",
+            "page_range": "280-287",
+            "doi": "10.1016/j.diabres.2015.02.008"
         },
         {
             "title": "Everolimus limits aortic aneurysm in the apolipoprotein e-deficient mouse by downregulating C-C chemokine receptor 2 positive monocytes",
@@ -14645,7 +14571,7 @@
                     ]
                 }
             ],
-            "citations": 44,
+            "citations": 45,
             "publication_name": "Arteriosclerosis, Thrombosis, and Vascular Biology",
             "issn": "10795642",
             "cover_date": "2013-04-01",
@@ -14656,55 +14582,78 @@
             "doi": "10.1161/ATVBAHA.112.301006"
         },
         {
-            "title": "Population-based record linkage study of the incidence of abdominal aortic aneurysm in Western Australia in 1985-1994",
-            "eid": "2-s2.0-0031835805",
+            "title": "Healthier lifestyle predicts higher circulating testosterone in older men: The Health in Men Study",
+            "eid": "2-s2.0-60349088152",
             "authors": [
                 {
-                    "scopus_id": "7005133713",
-                    "name": "Semmens J.B.",
+                    "scopus_id": "34871187600",
+                    "name": "Yeap B.B.",
                     "affiliation_id": [
-                        "60031806",
-                        "60031806"
+                        "60189789",
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "35481288100",
+                    "name": "Almeida O.P.",
+                    "affiliation_id": [
+                        "60189497",
+                        "106033043"
+                    ]
+                },
+                {
+                    "scopus_id": "16316066600",
+                    "name": "Hyde Z.",
+                    "affiliation_id": [
+                        "60189497"
                     ]
                 },
                 {
                     "scopus_id": "57208099127",
                     "name": "Norman P.E.",
                     "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7003390894",
+                    "name": "Chubb S.A.P.",
+                    "affiliation_id": [
                         "60189789"
                     ]
                 },
                 {
-                    "scopus_id": "7003957701",
-                    "name": "Lawrence-Brown M.M.D.",
+                    "scopus_id": "26426193300",
+                    "name": "Jamrozik K.",
                     "affiliation_id": [
-                        "60030929"
+                        "60009512"
                     ]
                 },
                 {
-                    "scopus_id": "55537388600",
-                    "name": "Bass A.J.",
+                    "scopus_id": "7102816661",
+                    "name": "Hankey G.J.",
                     "affiliation_id": [
-                        "60031806"
+                        "60087991"
                     ]
                 },
                 {
-                    "scopus_id": "35583528600",
-                    "name": "Holman C.D.J.",
+                    "scopus_id": "7006112267",
+                    "name": "Flicker L.",
                     "affiliation_id": [
-                        "60031806"
+                        "60087991",
+                        "60189497"
                     ]
                 }
             ],
-            "citations": 44,
-            "publication_name": "British Journal of Surgery",
-            "issn": "00071323",
-            "cover_date": "1998-06-10",
+            "citations": 45,
+            "publication_name": "Clinical Endocrinology",
+            "issn": "03000664",
+            "cover_date": "2009-03-01",
             "venue": "Journal",
-            "volume": "85",
-            "issue": "5",
-            "page_range": "648-652",
-            "doi": "10.1046/j.1365-2168.1998.00700.x"
+            "volume": "70",
+            "issue": "3",
+            "page_range": "455-463",
+            "doi": "10.1111/j.1365-2265.2008.03372.x"
         },
         {
             "title": "Is hypovitaminosis D associated with abdominal aortic aneurysm, and is there a dose-response relationship?",
@@ -14758,7 +14707,7 @@
                     ]
                 }
             ],
-            "citations": 43,
+            "citations": 44,
             "publication_name": "European Journal of Vascular and Endovascular Surgery",
             "issn": "10785884",
             "cover_date": "2013-06-01",
@@ -14767,6 +14716,107 @@
             "issue": "6",
             "page_range": "657-664",
             "doi": "10.1016/j.ejvs.2013.03.015"
+        },
+        {
+            "title": "Population-based record linkage study of the incidence of abdominal aortic aneurysm in Western Australia in 1985-1994",
+            "eid": "2-s2.0-0031835805",
+            "authors": [
+                {
+                    "scopus_id": "7005133713",
+                    "name": "Semmens J.B.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60189789"
+                    ]
+                },
+                {
+                    "scopus_id": "7003957701",
+                    "name": "Lawrence-Brown M.M.D.",
+                    "affiliation_id": [
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "55537388600",
+                    "name": "Bass A.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "35583528600",
+                    "name": "Holman C.D.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 44,
+            "publication_name": "British Journal of Surgery",
+            "issn": "00071323",
+            "cover_date": "1998-06-10",
+            "venue": "Journal",
+            "volume": "85",
+            "issue": "5",
+            "page_range": "648-652",
+            "doi": "10.1046/j.1365-2168.1998.00700.x"
+        },
+        {
+            "title": "Transforming growth factor-\u03b2 and abdominal aortic aneurysms",
+            "eid": "2-s2.0-84873413659",
+            "authors": [
+                {
+                    "scopus_id": "57200061487",
+                    "name": "Wang Y.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "9842111400",
+                    "name": "Krishna S.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "57203230060",
+                    "name": "Walker P.J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7005096118",
+                    "name": "Golledge J.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                }
+            ],
+            "citations": 43,
+            "publication_name": "Cardiovascular Pathology",
+            "issn": "10548807",
+            "cover_date": "2013-03-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "2",
+            "page_range": "126-132",
+            "doi": "10.1016/j.carpath.2012.07.005"
         },
         {
             "title": "Proteomic analysis of intra-arterial thrombus secretions reveals a negative association of clusterin and thrombospondin-1 with abdominal aortic aneurysm",
@@ -15053,56 +15103,6 @@
             "issue": "3",
             "page_range": "303-313",
             "doi": "10.1002/(SICI)1097-4644(199609)62:3<303::AID-JCB1>3.0.CO;2-V"
-        },
-        {
-            "title": "Transforming growth factor-\u03b2 and abdominal aortic aneurysms",
-            "eid": "2-s2.0-84873413659",
-            "authors": [
-                {
-                    "scopus_id": "57200061487",
-                    "name": "Wang Y.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "9842111400",
-                    "name": "Krishna S.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "57203230060",
-                    "name": "Walker P.J.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7005096118",
-                    "name": "Golledge J.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                }
-            ],
-            "citations": 42,
-            "publication_name": "Cardiovascular Pathology",
-            "issn": "10548807",
-            "cover_date": "2013-03-01",
-            "venue": "Journal",
-            "volume": "22",
-            "issue": "2",
-            "page_range": "126-132",
-            "doi": "10.1016/j.carpath.2012.07.005"
         },
         {
             "title": "Elevated LH predicts ischaemic heart disease events in older men: The health in men study",
@@ -18094,6 +18094,43 @@
             "doi": "10.1016/j.atherosclerosis.2010.06.015"
         },
         {
+            "title": "Homocysteine and abdominal aortic aneurysms",
+            "eid": "2-s2.0-34248175844",
+            "authors": [
+                {
+                    "scopus_id": "57197620561",
+                    "name": "Moroz P.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7101650600",
+                    "name": "Le M.T.Q.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 26,
+            "publication_name": "ANZ Journal of Surgery",
+            "issn": "14451433",
+            "cover_date": "2007-05-01",
+            "venue": "Journal",
+            "volume": "77",
+            "issue": "5",
+            "page_range": "329-332",
+            "doi": "10.1111/j.1445-2197.2007.04052.x"
+        },
+        {
             "title": "Vascular endothelial growth factor (VEGF) expression during arterial repair in the pig",
             "eid": "2-s2.0-0031958439",
             "authors": [
@@ -18135,474 +18172,6 @@
             "issue": "3",
             "page_range": "225-230",
             "doi": "10.1016/S1078-5884(98)80180-9"
-        },
-        {
-            "title": "Biomechanical Assessment Predicts Aneurysm Related Events in Patients with Abdominal Aortic Aneurysm",
-            "eid": "2-s2.0-85082848643",
-            "authors": [
-                {
-                    "scopus_id": "23110443300",
-                    "name": "Doyle B.J.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806",
-                        "60110825",
-                        "121674341"
-                    ]
-                },
-                {
-                    "scopus_id": "57193493514",
-                    "name": "Bappoo N.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57205262343",
-                    "name": "Syed M.B.J.",
-                    "affiliation_id": [
-                        "60110825"
-                    ]
-                },
-                {
-                    "scopus_id": "55920747100",
-                    "name": "Forsythe R.O.",
-                    "affiliation_id": [
-                        "60110825"
-                    ]
-                },
-                {
-                    "scopus_id": "23036194200",
-                    "name": "Powell J.T.",
-                    "affiliation_id": [
-                        "60015150"
-                    ]
-                },
-                {
-                    "scopus_id": "55263562700",
-                    "name": "Conlisk N.",
-                    "affiliation_id": [
-                        "60110825"
-                    ]
-                },
-                {
-                    "scopus_id": "7004644525",
-                    "name": "Hoskins P.R.",
-                    "affiliation_id": [
-                        "60110825"
-                    ]
-                },
-                {
-                    "scopus_id": "55191545800",
-                    "name": "McBride O.M.B.",
-                    "affiliation_id": [
-                        "60110825"
-                    ]
-                },
-                {
-                    "scopus_id": "36705318700",
-                    "name": "Shah A.S.V.",
-                    "affiliation_id": [
-                        "60110825"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57529298000",
-                    "name": "Newby D.E.",
-                    "affiliation_id": [
-                        "60110825"
-                    ]
-                }
-            ],
-            "citations": 25,
-            "publication_name": "European Journal of Vascular and Endovascular Surgery",
-            "issn": "10785884",
-            "cover_date": "2020-09-01",
-            "venue": "Journal",
-            "volume": "60",
-            "issue": "3",
-            "page_range": "365-373",
-            "doi": "10.1016/j.ejvs.2020.02.023"
-        },
-        {
-            "title": "High serum thrombospondin-1 concentration is associated with slower abdominal aortic aneurysm growth and deficiency of thrombospondin-1 promotes angiotensin II induced aortic aneurysm in mice",
-            "eid": "2-s2.0-85020300173",
-            "authors": [
-                {
-                    "scopus_id": "9842111400",
-                    "name": "Krishna S.M.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "9941482400",
-                    "name": "Seto S.W.",
-                    "affiliation_id": [
-                        "60019870",
-                        "60101528"
-                    ]
-                },
-                {
-                    "scopus_id": "55579534100",
-                    "name": "Jose R.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "25029640400",
-                    "name": "Li J.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "26648942200",
-                    "name": "Moxon J.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "24358911300",
-                    "name": "Clancy P.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "7005689853",
-                    "name": "Crossman D.J.",
-                    "affiliation_id": [
-                        "60078830"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "36522397000",
-                    "name": "Emeto T.I.",
-                    "affiliation_id": [
-                        "60019870",
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "7005096118",
-                    "name": "Golledge J.",
-                    "affiliation_id": [
-                        "60019870",
-                        "60019211"
-                    ]
-                }
-            ],
-            "citations": 25,
-            "publication_name": "Clinical Science",
-            "issn": "01435221",
-            "cover_date": "2017-06-01",
-            "venue": "Journal",
-            "volume": "131",
-            "issue": "12",
-            "page_range": "1261-1281",
-            "doi": "10.1042/CS20160970"
-        },
-        {
-            "title": "Apolipoprotein E genotype is associated with serum C-reactive protein but not abdominal aortic aneurysm",
-            "eid": "2-s2.0-77950023603",
-            "authors": [
-                {
-                    "scopus_id": "7005096118",
-                    "name": "Golledge J.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "6602826709",
-                    "name": "Biros E.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "57209307625",
-                    "name": "Cooper M.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57200630008",
-                    "name": "Warrington N.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 25,
-            "publication_name": "Atherosclerosis",
-            "issn": "00219150",
-            "cover_date": "2010-04-01",
-            "venue": "Journal",
-            "volume": "209",
-            "issue": "2",
-            "page_range": "487-491",
-            "doi": "10.1016/j.atherosclerosis.2009.09.027"
-        },
-        {
-            "title": "Possible association between genetic polymorphisms in transforming growth factor \u03b2 receptors, serum transforming growth factor \u03b21 concentration and abdominal aortic aneurysm",
-            "eid": "2-s2.0-66749149455",
-            "authors": [
-                {
-                    "scopus_id": "7005096118",
-                    "name": "Golledge J.",
-                    "affiliation_id": [
-                        "60019870",
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "24358911300",
-                    "name": "Clancy P.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "7406141342",
-                    "name": "Jones G.T.",
-                    "affiliation_id": [
-                        "60017311"
-                    ]
-                },
-                {
-                    "scopus_id": "57209307625",
-                    "name": "Cooper M.",
-                    "affiliation_id": [
-                        "60005202"
-                    ]
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.J.",
-                    "affiliation_id": [
-                        "60005202"
-                    ]
-                },
-                {
-                    "scopus_id": "7005233425",
-                    "name": "Van Rij A.M.",
-                    "affiliation_id": [
-                        "60017311"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 25,
-            "publication_name": "British Journal of Surgery",
-            "issn": "00071323",
-            "cover_date": "2009-06-01",
-            "venue": "Journal",
-            "volume": "96",
-            "issue": "6",
-            "page_range": "628-632",
-            "doi": "10.1002/bjs.6633"
-        },
-        {
-            "title": "Homocysteine and abdominal aortic aneurysms",
-            "eid": "2-s2.0-34248175844",
-            "authors": [
-                {
-                    "scopus_id": "57197620561",
-                    "name": "Moroz P.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7101650600",
-                    "name": "Le M.T.Q.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 25,
-            "publication_name": "ANZ Journal of Surgery",
-            "issn": "14451433",
-            "cover_date": "2007-05-01",
-            "venue": "Journal",
-            "volume": "77",
-            "issue": "5",
-            "page_range": "329-332",
-            "doi": "10.1111/j.1445-2197.2007.04052.x"
-        },
-        {
-            "title": "Validity of self-reported versus hospital-coded diagnosis of stroke: A cross-sectional and longitudinal study",
-            "eid": "2-s2.0-84897120299",
-            "authors": [
-                {
-                    "scopus_id": "27067645300",
-                    "name": "Jamrozik E.",
-                    "affiliation_id": [
-                        "60005202",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "16316066600",
-                    "name": "Hyde Z.",
-                    "affiliation_id": [
-                        "60005202",
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "8590771700",
-                    "name": "Alfonso H.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7006112267",
-                    "name": "Flicker L.",
-                    "affiliation_id": [
-                        "60005202",
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "35481288100",
-                    "name": "Almeida O.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "34871187600",
-                    "name": "Yeap B.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7102816661",
-                    "name": "Hankey G.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "26426193300",
-                    "name": "Jamrozik K.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                }
-            ],
-            "citations": 24,
-            "publication_name": "Cerebrovascular Diseases",
-            "issn": "10159770",
-            "cover_date": "2014-01-01",
-            "venue": "Journal",
-            "volume": "37",
-            "issue": "4",
-            "page_range": "256-262",
-            "doi": "10.1159/000358583"
-        },
-        {
-            "title": "Relation between serum thrombospondin-2 and cardiovascular mortality in older men screened for abdominal aortic aneurysm",
-            "eid": "2-s2.0-84878833516",
-            "authors": [
-                {
-                    "scopus_id": "7005096118",
-                    "name": "Golledge J.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "24358911300",
-                    "name": "Clancy P.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "7102816661",
-                    "name": "Hankey G.J.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 24,
-            "publication_name": "American Journal of Cardiology",
-            "issn": "00029149",
-            "cover_date": "2013-06-15",
-            "venue": "Journal",
-            "volume": "111",
-            "issue": "12",
-            "page_range": "1800-1804",
-            "doi": "10.1016/j.amjcard.2013.02.038"
         },
         {
             "title": "Life expectancy associated with different ages at diagnosis of type 2 diabetes in high-income countries: 23 million person-years of observation",
@@ -19109,7 +18678,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 23,
+            "citations": 25,
             "publication_name": "The Lancet Diabetes and Endocrinology",
             "issn": "22138587",
             "cover_date": "2023-10-01",
@@ -19118,6 +18687,437 @@
             "issue": "10",
             "page_range": "731-742",
             "doi": "10.1016/S2213-8587(23)00223-1"
+        },
+        {
+            "title": "Biomechanical Assessment Predicts Aneurysm Related Events in Patients with Abdominal Aortic Aneurysm",
+            "eid": "2-s2.0-85082848643",
+            "authors": [
+                {
+                    "scopus_id": "23110443300",
+                    "name": "Doyle B.J.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806",
+                        "60110825",
+                        "121674341"
+                    ]
+                },
+                {
+                    "scopus_id": "57193493514",
+                    "name": "Bappoo N.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57205262343",
+                    "name": "Syed M.B.J.",
+                    "affiliation_id": [
+                        "60110825"
+                    ]
+                },
+                {
+                    "scopus_id": "55920747100",
+                    "name": "Forsythe R.O.",
+                    "affiliation_id": [
+                        "60110825"
+                    ]
+                },
+                {
+                    "scopus_id": "23036194200",
+                    "name": "Powell J.T.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "55263562700",
+                    "name": "Conlisk N.",
+                    "affiliation_id": [
+                        "60110825"
+                    ]
+                },
+                {
+                    "scopus_id": "7004644525",
+                    "name": "Hoskins P.R.",
+                    "affiliation_id": [
+                        "60110825"
+                    ]
+                },
+                {
+                    "scopus_id": "55191545800",
+                    "name": "McBride O.M.B.",
+                    "affiliation_id": [
+                        "60110825"
+                    ]
+                },
+                {
+                    "scopus_id": "36705318700",
+                    "name": "Shah A.S.V.",
+                    "affiliation_id": [
+                        "60110825"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57529298000",
+                    "name": "Newby D.E.",
+                    "affiliation_id": [
+                        "60110825"
+                    ]
+                }
+            ],
+            "citations": 25,
+            "publication_name": "European Journal of Vascular and Endovascular Surgery",
+            "issn": "10785884",
+            "cover_date": "2020-09-01",
+            "venue": "Journal",
+            "volume": "60",
+            "issue": "3",
+            "page_range": "365-373",
+            "doi": "10.1016/j.ejvs.2020.02.023"
+        },
+        {
+            "title": "High serum thrombospondin-1 concentration is associated with slower abdominal aortic aneurysm growth and deficiency of thrombospondin-1 promotes angiotensin II induced aortic aneurysm in mice",
+            "eid": "2-s2.0-85020300173",
+            "authors": [
+                {
+                    "scopus_id": "9842111400",
+                    "name": "Krishna S.M.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "9941482400",
+                    "name": "Seto S.W.",
+                    "affiliation_id": [
+                        "60019870",
+                        "60101528"
+                    ]
+                },
+                {
+                    "scopus_id": "55579534100",
+                    "name": "Jose R.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "25029640400",
+                    "name": "Li J.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "26648942200",
+                    "name": "Moxon J.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "24358911300",
+                    "name": "Clancy P.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "7005689853",
+                    "name": "Crossman D.J.",
+                    "affiliation_id": [
+                        "60078830"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "36522397000",
+                    "name": "Emeto T.I.",
+                    "affiliation_id": [
+                        "60019870",
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "7005096118",
+                    "name": "Golledge J.",
+                    "affiliation_id": [
+                        "60019870",
+                        "60019211"
+                    ]
+                }
+            ],
+            "citations": 25,
+            "publication_name": "Clinical Science",
+            "issn": "01435221",
+            "cover_date": "2017-06-01",
+            "venue": "Journal",
+            "volume": "131",
+            "issue": "12",
+            "page_range": "1261-1281",
+            "doi": "10.1042/CS20160970"
+        },
+        {
+            "title": "Apolipoprotein E genotype is associated with serum C-reactive protein but not abdominal aortic aneurysm",
+            "eid": "2-s2.0-77950023603",
+            "authors": [
+                {
+                    "scopus_id": "7005096118",
+                    "name": "Golledge J.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "6602826709",
+                    "name": "Biros E.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "57209307625",
+                    "name": "Cooper M.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57200630008",
+                    "name": "Warrington N.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 25,
+            "publication_name": "Atherosclerosis",
+            "issn": "00219150",
+            "cover_date": "2010-04-01",
+            "venue": "Journal",
+            "volume": "209",
+            "issue": "2",
+            "page_range": "487-491",
+            "doi": "10.1016/j.atherosclerosis.2009.09.027"
+        },
+        {
+            "title": "Possible association between genetic polymorphisms in transforming growth factor \u03b2 receptors, serum transforming growth factor \u03b21 concentration and abdominal aortic aneurysm",
+            "eid": "2-s2.0-66749149455",
+            "authors": [
+                {
+                    "scopus_id": "7005096118",
+                    "name": "Golledge J.",
+                    "affiliation_id": [
+                        "60019870",
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "24358911300",
+                    "name": "Clancy P.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "7406141342",
+                    "name": "Jones G.T.",
+                    "affiliation_id": [
+                        "60017311"
+                    ]
+                },
+                {
+                    "scopus_id": "57209307625",
+                    "name": "Cooper M.",
+                    "affiliation_id": [
+                        "60005202"
+                    ]
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.J.",
+                    "affiliation_id": [
+                        "60005202"
+                    ]
+                },
+                {
+                    "scopus_id": "7005233425",
+                    "name": "Van Rij A.M.",
+                    "affiliation_id": [
+                        "60017311"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 25,
+            "publication_name": "British Journal of Surgery",
+            "issn": "00071323",
+            "cover_date": "2009-06-01",
+            "venue": "Journal",
+            "volume": "96",
+            "issue": "6",
+            "page_range": "628-632",
+            "doi": "10.1002/bjs.6633"
+        },
+        {
+            "title": "Validity of self-reported versus hospital-coded diagnosis of stroke: A cross-sectional and longitudinal study",
+            "eid": "2-s2.0-84897120299",
+            "authors": [
+                {
+                    "scopus_id": "27067645300",
+                    "name": "Jamrozik E.",
+                    "affiliation_id": [
+                        "60005202",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "16316066600",
+                    "name": "Hyde Z.",
+                    "affiliation_id": [
+                        "60005202",
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "8590771700",
+                    "name": "Alfonso H.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7006112267",
+                    "name": "Flicker L.",
+                    "affiliation_id": [
+                        "60005202",
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "35481288100",
+                    "name": "Almeida O.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "34871187600",
+                    "name": "Yeap B.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7102816661",
+                    "name": "Hankey G.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "26426193300",
+                    "name": "Jamrozik K.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "Cerebrovascular Diseases",
+            "issn": "10159770",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "37",
+            "issue": "4",
+            "page_range": "256-262",
+            "doi": "10.1159/000358583"
+        },
+        {
+            "title": "Relation between serum thrombospondin-2 and cardiovascular mortality in older men screened for abdominal aortic aneurysm",
+            "eid": "2-s2.0-84878833516",
+            "authors": [
+                {
+                    "scopus_id": "7005096118",
+                    "name": "Golledge J.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "24358911300",
+                    "name": "Clancy P.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "7102816661",
+                    "name": "Hankey G.J.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "American Journal of Cardiology",
+            "issn": "00029149",
+            "cover_date": "2013-06-15",
+            "venue": "Journal",
+            "volume": "111",
+            "issue": "12",
+            "page_range": "1800-1804",
+            "doi": "10.1016/j.amjcard.2013.02.038"
         },
         {
             "title": "Plasma angiopoietin-1 is lower after ischemic stroke and associated with major disability but not stroke incidence",
@@ -19455,6 +19455,78 @@
             "doi": "10.2337/dc20-1743"
         },
         {
+            "title": "Modulation of Kinin B2 receptor signaling controls aortic dilatation and rupture in the Angiotensin II-infused apolipoprotein E-deficient mouse",
+            "eid": "2-s2.0-84960357523",
+            "authors": [
+                {
+                    "scopus_id": "8596985800",
+                    "name": "Moran C.S.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "7101969562",
+                    "name": "Rush C.M.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "57163378600",
+                    "name": "Dougan T.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "55579534100",
+                    "name": "Jose R.J.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "6602826709",
+                    "name": "Biros E.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57162988800",
+                    "name": "Gera L.",
+                    "affiliation_id": [
+                        "60028392"
+                    ]
+                },
+                {
+                    "scopus_id": "7005096118",
+                    "name": "Golledge J.",
+                    "affiliation_id": [
+                        "60019870",
+                        "60019211"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Arteriosclerosis, Thrombosis, and Vascular Biology",
+            "issn": "10795642",
+            "cover_date": "2016-05-01",
+            "venue": "Journal",
+            "volume": "36",
+            "issue": "5",
+            "page_range": "898-907",
+            "doi": "10.1161/ATVBAHA.115.306945"
+        },
+        {
             "title": "Temporal changes in the prevalence and associates of foot ulceration in type 2 diabetes: The Fremantle Diabetes Study",
             "eid": "2-s2.0-84925352483",
             "authors": [
@@ -19497,6 +19569,57 @@
             "issue": "3",
             "page_range": "356-361",
             "doi": "10.1016/j.jdiacomp.2015.01.008"
+        },
+        {
+            "title": "Increased serum angiopoietin-2 is associated with abdominal aortic aneurysm prevalence and cardiovascular mortality in older men",
+            "eid": "2-s2.0-84881475636",
+            "authors": [
+                {
+                    "scopus_id": "7005096118",
+                    "name": "Golledge J.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "24358911300",
+                    "name": "Clancy P.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "34871187600",
+                    "name": "Yeap B.B.",
+                    "affiliation_id": [
+                        "60087991",
+                        "60189789"
+                    ]
+                },
+                {
+                    "scopus_id": "7102816661",
+                    "name": "Hankey G.J.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "International Journal of Cardiology",
+            "issn": "01675273",
+            "cover_date": "2013-08-20",
+            "venue": "Journal",
+            "volume": "167",
+            "issue": "4",
+            "page_range": "1159-1163",
+            "doi": "10.1016/j.ijcard.2012.03.120"
         },
         {
             "title": "Cardiovascular disease, depression and mortality: The health in men study",
@@ -19821,129 +19944,6 @@
             "doi": "10.1177/2047487318786585"
         },
         {
-            "title": "Modulation of Kinin B2 receptor signaling controls aortic dilatation and rupture in the Angiotensin II-infused apolipoprotein E-deficient mouse",
-            "eid": "2-s2.0-84960357523",
-            "authors": [
-                {
-                    "scopus_id": "8596985800",
-                    "name": "Moran C.S.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "7101969562",
-                    "name": "Rush C.M.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "57163378600",
-                    "name": "Dougan T.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "55579534100",
-                    "name": "Jose R.J.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "6602826709",
-                    "name": "Biros E.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57162988800",
-                    "name": "Gera L.",
-                    "affiliation_id": [
-                        "60028392"
-                    ]
-                },
-                {
-                    "scopus_id": "7005096118",
-                    "name": "Golledge J.",
-                    "affiliation_id": [
-                        "60019870",
-                        "60019211"
-                    ]
-                }
-            ],
-            "citations": 20,
-            "publication_name": "Arteriosclerosis, Thrombosis, and Vascular Biology",
-            "issn": "10795642",
-            "cover_date": "2016-05-01",
-            "venue": "Journal",
-            "volume": "36",
-            "issue": "5",
-            "page_range": "898-907",
-            "doi": "10.1161/ATVBAHA.115.306945"
-        },
-        {
-            "title": "Increased serum angiopoietin-2 is associated with abdominal aortic aneurysm prevalence and cardiovascular mortality in older men",
-            "eid": "2-s2.0-84881475636",
-            "authors": [
-                {
-                    "scopus_id": "7005096118",
-                    "name": "Golledge J.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "24358911300",
-                    "name": "Clancy P.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "34871187600",
-                    "name": "Yeap B.B.",
-                    "affiliation_id": [
-                        "60087991",
-                        "60189789"
-                    ]
-                },
-                {
-                    "scopus_id": "7102816661",
-                    "name": "Hankey G.J.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 20,
-            "publication_name": "International Journal of Cardiology",
-            "issn": "01675273",
-            "cover_date": "2013-08-20",
-            "venue": "Journal",
-            "volume": "167",
-            "issue": "4",
-            "page_range": "1159-1163",
-            "doi": "10.1016/j.ijcard.2012.03.120"
-        },
-        {
             "title": "Associations of IGF1 and its binding proteins with abdominal aortic aneurysm and aortic diameter in older men",
             "eid": "2-s2.0-84856085479",
             "authors": [
@@ -20169,7 +20169,7 @@
                         "128956479",
                         "60031101",
                         "60017488",
-                        "60031101"
+                        "60006654"
                     ]
                 },
                 {
@@ -20202,7 +20202,7 @@
                         "128956479",
                         "60031101",
                         "60017488",
-                        "60031101"
+                        "60006654"
                     ]
                 },
                 {
@@ -23499,6 +23499,56 @@
             "doi": ""
         },
         {
+            "title": "Management of acute type B aortic dissection",
+            "eid": "2-s2.0-85090189509",
+            "authors": [
+                {
+                    "scopus_id": "57212385925",
+                    "name": "Munshi B.",
+                    "affiliation_id": [
+                        "60018478",
+                        "60031806",
+                        "60031806",
+                        "60138677"
+                    ]
+                },
+                {
+                    "scopus_id": "35322722100",
+                    "name": "Ritter J.C.",
+                    "affiliation_id": [
+                        "60138677"
+                    ]
+                },
+                {
+                    "scopus_id": "23110443300",
+                    "name": "Doyle B.J.",
+                    "affiliation_id": [
+                        "60018478",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60018478",
+                        "60031806",
+                        "60031806",
+                        "60138677"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "ANZ Journal of Surgery",
+            "issn": "14451433",
+            "cover_date": "2020-12-01",
+            "venue": "Journal",
+            "volume": "90",
+            "issue": "12",
+            "page_range": "2425-2433",
+            "doi": "10.1111/ans.16270"
+        },
+        {
             "title": "Plasma free thyroxine in the upper quartile is associated with an increased incidence of major cardiovascular events in older men that do not have thyroid dysfunction according to conventional criteria",
             "eid": "2-s2.0-85033486645",
             "authors": [
@@ -23560,6 +23610,91 @@
             "issue": "",
             "page_range": "316-321",
             "doi": "10.1016/j.ijcard.2017.10.100"
+        },
+        {
+            "title": "Plasma ferritin concentrations are not associated with abdominal aortic aneurysm diagnosis, size or growth",
+            "eid": "2-s2.0-84969627206",
+            "authors": [
+                {
+                    "scopus_id": "26648942200",
+                    "name": "Moxon J.V.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "7501543469",
+                    "name": "Jones R.E.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "24358911300",
+                    "name": "Clancy P.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "7006112267",
+                    "name": "Flicker L.",
+                    "affiliation_id": [
+                        "60087991",
+                        "60030929",
+                        "60189497"
+                    ]
+                },
+                {
+                    "scopus_id": "35481288100",
+                    "name": "Almeida O.P.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60189497",
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "7102816661",
+                    "name": "Hankey G.J.",
+                    "affiliation_id": [
+                        "60087991",
+                        "60025898"
+                    ]
+                },
+                {
+                    "scopus_id": "34871187600",
+                    "name": "Yeap B.B.",
+                    "affiliation_id": [
+                        "60087991",
+                        "60138677"
+                    ]
+                },
+                {
+                    "scopus_id": "7005096118",
+                    "name": "Golledge J.",
+                    "affiliation_id": [
+                        "60019870",
+                        "60019211"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Atherosclerosis",
+            "issn": "00219150",
+            "cover_date": "2016-08-01",
+            "venue": "Journal",
+            "volume": "251",
+            "issue": "",
+            "page_range": "19-24",
+            "doi": "10.1016/j.atherosclerosis.2016.05.022"
         },
         {
             "title": "Downward trend in the prevalence of hospitalisation for atherothrombotic disease",
@@ -24219,56 +24354,6 @@
             "doi": "10.1111/iwj.13646"
         },
         {
-            "title": "Management of acute type B aortic dissection",
-            "eid": "2-s2.0-85090189509",
-            "authors": [
-                {
-                    "scopus_id": "57212385925",
-                    "name": "Munshi B.",
-                    "affiliation_id": [
-                        "60018478",
-                        "60031806",
-                        "60031806",
-                        "60138677"
-                    ]
-                },
-                {
-                    "scopus_id": "35322722100",
-                    "name": "Ritter J.C.",
-                    "affiliation_id": [
-                        "60138677"
-                    ]
-                },
-                {
-                    "scopus_id": "23110443300",
-                    "name": "Doyle B.J.",
-                    "affiliation_id": [
-                        "60018478",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60018478",
-                        "60031806",
-                        "60031806",
-                        "60138677"
-                    ]
-                }
-            ],
-            "citations": 7,
-            "publication_name": "ANZ Journal of Surgery",
-            "issn": "14451433",
-            "cover_date": "2020-12-01",
-            "venue": "Journal",
-            "volume": "90",
-            "issue": "12",
-            "page_range": "2425-2433",
-            "doi": "10.1111/ans.16270"
-        },
-        {
             "title": "Morphology and Computational Fluid Dynamics Support a Novel Classification of Common Iliac Aneurysms",
             "eid": "2-s2.0-85078159999",
             "authors": [
@@ -24337,91 +24422,6 @@
             "issue": "5",
             "page_range": "786-793",
             "doi": "10.1016/j.ejvs.2019.11.035"
-        },
-        {
-            "title": "Plasma ferritin concentrations are not associated with abdominal aortic aneurysm diagnosis, size or growth",
-            "eid": "2-s2.0-84969627206",
-            "authors": [
-                {
-                    "scopus_id": "26648942200",
-                    "name": "Moxon J.V.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "7501543469",
-                    "name": "Jones R.E.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "24358911300",
-                    "name": "Clancy P.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "7006112267",
-                    "name": "Flicker L.",
-                    "affiliation_id": [
-                        "60087991",
-                        "60030929",
-                        "60189497"
-                    ]
-                },
-                {
-                    "scopus_id": "35481288100",
-                    "name": "Almeida O.P.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60189497",
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "7102816661",
-                    "name": "Hankey G.J.",
-                    "affiliation_id": [
-                        "60087991",
-                        "60025898"
-                    ]
-                },
-                {
-                    "scopus_id": "34871187600",
-                    "name": "Yeap B.B.",
-                    "affiliation_id": [
-                        "60087991",
-                        "60138677"
-                    ]
-                },
-                {
-                    "scopus_id": "7005096118",
-                    "name": "Golledge J.",
-                    "affiliation_id": [
-                        "60019870",
-                        "60019211"
-                    ]
-                }
-            ],
-            "citations": 7,
-            "publication_name": "Atherosclerosis",
-            "issn": "00219150",
-            "cover_date": "2016-08-01",
-            "venue": "Journal",
-            "volume": "251",
-            "issue": "",
-            "page_range": "19-24",
-            "doi": "10.1016/j.atherosclerosis.2016.05.022"
         },
         {
             "title": "A single-nucleotide polymorphism in the gene encoding osteoprotegerin is associated with diastolic blood pressure in older men",
@@ -27694,6 +27694,5 @@
             "$": "Nursing (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:54:39",
-    "c-score": null
+    "date fetched": "2024-07-12 21:03:59"
 }

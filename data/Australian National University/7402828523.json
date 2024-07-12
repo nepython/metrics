@@ -148,7 +148,7 @@
                     ]
                 }
             ],
-            "citations": 14869,
+            "citations": 14887,
             "publication_name": "Astronomical Journal",
             "issn": "00046256",
             "cover_date": "1998-01-01",
@@ -881,7 +881,7 @@
                     ]
                 }
             ],
-            "citations": 2863,
+            "citations": 2867,
             "publication_name": "Astrophysical Journal Letters",
             "issn": "20418205",
             "cover_date": "2017-01-01",
@@ -1072,7 +1072,7 @@
                     ]
                 }
             ],
-            "citations": 1531,
+            "citations": 1532,
             "publication_name": "Astrophysical Journal Letters",
             "issn": "20418205",
             "cover_date": "2003-09-01",
@@ -1255,7 +1255,7 @@
                     ]
                 }
             ],
-            "citations": 1207,
+            "citations": 1208,
             "publication_name": "Astrophysical Journal",
             "issn": "0004637X",
             "cover_date": "1998-01-01",
@@ -1538,7 +1538,7 @@
                     ]
                 }
             ],
-            "citations": 735,
+            "citations": 736,
             "publication_name": "Astrophysical Journal",
             "issn": "0004637X",
             "cover_date": "2007-01-01",
@@ -1683,11 +1683,11 @@
                     "scopus_id": "57203103746",
                     "name": "Veilleux S.",
                     "affiliation_id": [
-                        "60020304"
+                        "60151558"
                     ]
                 }
             ],
-            "citations": 679,
+            "citations": 680,
             "publication_name": "Astrophysical Journal",
             "issn": "0004637X",
             "cover_date": "2001-10-10",
@@ -1849,7 +1849,7 @@
                     ]
                 }
             ],
-            "citations": 674,
+            "citations": 675,
             "publication_name": "Astrophysical Journal",
             "issn": "0004637X",
             "cover_date": "1998-01-01",
@@ -2160,7 +2160,7 @@
                     ]
                 }
             ],
-            "citations": 591,
+            "citations": 592,
             "publication_name": "Astronomical Journal",
             "issn": "00046256",
             "cover_date": "1999-01-01",
@@ -2322,7 +2322,7 @@
                     ]
                 }
             ],
-            "citations": 573,
+            "citations": 574,
             "publication_name": "Astrophysical Journal",
             "issn": "0004637X",
             "cover_date": "1998-01-01",
@@ -8524,7 +8524,7 @@
                     ]
                 }
             ],
-            "citations": 209,
+            "citations": 210,
             "publication_name": "Monthly Notices of the Royal Astronomical Society",
             "issn": "00358711",
             "cover_date": "2008-01-01",
@@ -9170,7 +9170,7 @@
                     ]
                 }
             ],
-            "citations": 169,
+            "citations": 168,
             "publication_name": "Publications of the Astronomical Society of the Pacific",
             "issn": "00046280",
             "cover_date": "2013-02-01",
@@ -11981,185 +11981,6 @@
             "doi": "10.1086/383000"
         },
         {
-            "title": "Detection of a supernova signature associated with GRB 011121",
-            "eid": "2-s2.0-18344412795",
-            "authors": [
-                {
-                    "scopus_id": "57203197744",
-                    "name": "Bloom J.S.",
-                    "affiliation_id": [
-                        "60143898"
-                    ]
-                },
-                {
-                    "scopus_id": "35395323300",
-                    "name": "Kulkarni S.R.",
-                    "affiliation_id": [
-                        "60143898"
-                    ]
-                },
-                {
-                    "scopus_id": "58823097200",
-                    "name": "Price P.A.",
-                    "affiliation_id": [
-                        "60143898",
-                        "60015827"
-                    ]
-                },
-                {
-                    "scopus_id": "7003888052",
-                    "name": "Reichart D.",
-                    "affiliation_id": [
-                        "60143898"
-                    ]
-                },
-                {
-                    "scopus_id": "7003437253",
-                    "name": "Galama T.J.",
-                    "affiliation_id": [
-                        "60143898"
-                    ]
-                },
-                {
-                    "scopus_id": "7402828523",
-                    "name": "Schmidt B.P.",
-                    "affiliation_id": [
-                        "60015827"
-                    ]
-                },
-                {
-                    "scopus_id": "57190586777",
-                    "name": "Frail D.A.",
-                    "affiliation_id": [
-                        "60143898",
-                        "60021907"
-                    ]
-                },
-                {
-                    "scopus_id": "24330628500",
-                    "name": "Berger E.",
-                    "affiliation_id": [
-                        "60143898"
-                    ]
-                },
-                {
-                    "scopus_id": "35406948700",
-                    "name": "McCarthy P.J.",
-                    "affiliation_id": [
-                        "60002312"
-                    ]
-                },
-                {
-                    "scopus_id": "7101871369",
-                    "name": "Chevalier R.A.",
-                    "affiliation_id": [
-                        "60021918"
-                    ]
-                },
-                {
-                    "scopus_id": "55958176600",
-                    "name": "Wheeler J.C.",
-                    "affiliation_id": [
-                        "60150456"
-                    ]
-                },
-                {
-                    "scopus_id": "23489093300",
-                    "name": "Halpern J.P.",
-                    "affiliation_id": [
-                        "60030162"
-                    ]
-                },
-                {
-                    "scopus_id": "24780325500",
-                    "name": "Fox D.W.",
-                    "affiliation_id": [
-                        "60143898"
-                    ]
-                },
-                {
-                    "scopus_id": "7005199582",
-                    "name": "Djorgovski S.G.",
-                    "affiliation_id": [
-                        "60143898"
-                    ]
-                },
-                {
-                    "scopus_id": "7102089546",
-                    "name": "Harrison F.A.",
-                    "affiliation_id": [
-                        "60143898"
-                    ]
-                },
-                {
-                    "scopus_id": "7005028926",
-                    "name": "Sari R.",
-                    "affiliation_id": [
-                        "60031581"
-                    ]
-                },
-                {
-                    "scopus_id": "7005253950",
-                    "name": "Axelrod T.S.",
-                    "affiliation_id": [
-                        "60015827"
-                    ]
-                },
-                {
-                    "scopus_id": "7005778884",
-                    "name": "Kimble R.A.",
-                    "affiliation_id": [
-                        "60006337"
-                    ]
-                },
-                {
-                    "scopus_id": "35274822700",
-                    "name": "Holtzman J.",
-                    "affiliation_id": [
-                        "60002162"
-                    ]
-                },
-                {
-                    "scopus_id": "7103214709",
-                    "name": "Hurley K.",
-                    "affiliation_id": [
-                        "60029392"
-                    ]
-                },
-                {
-                    "scopus_id": "7102636800",
-                    "name": "Frontera F.",
-                    "affiliation_id": [
-                        "60021199",
-                        "60024690"
-                    ]
-                },
-                {
-                    "scopus_id": "7005695697",
-                    "name": "Piro L.",
-                    "affiliation_id": [
-                        "60021199"
-                    ]
-                },
-                {
-                    "scopus_id": "7402527192",
-                    "name": "Costa E.",
-                    "affiliation_id": [
-                        "60021199"
-                    ]
-                }
-            ],
-            "citations": 123,
-            "publication_name": "Astrophysical Journal",
-            "issn": "0004637X",
-            "cover_date": "2002-06-10",
-            "venue": "Journal",
-            "volume": "572",
-            "issue": "1 II",
-            "page_range": null,
-            "doi": "10.1086/341551"
-        },
-        {
             "title": "Low luminosity type II supernovae-II. Pointing towards moderate mass precursors",
             "eid": "2-s2.0-84896462924",
             "authors": [
@@ -12456,7 +12277,7 @@
                     ]
                 }
             ],
-            "citations": 122,
+            "citations": 123,
             "publication_name": "Monthly Notices of the Royal Astronomical Society",
             "issn": "00358711",
             "cover_date": "2014-01-01",
@@ -12465,6 +12286,185 @@
             "issue": "3",
             "page_range": "2873-2892",
             "doi": "10.1093/mnras/stu156"
+        },
+        {
+            "title": "Detection of a supernova signature associated with GRB 011121",
+            "eid": "2-s2.0-18344412795",
+            "authors": [
+                {
+                    "scopus_id": "57203197744",
+                    "name": "Bloom J.S.",
+                    "affiliation_id": [
+                        "60143898"
+                    ]
+                },
+                {
+                    "scopus_id": "35395323300",
+                    "name": "Kulkarni S.R.",
+                    "affiliation_id": [
+                        "60143898"
+                    ]
+                },
+                {
+                    "scopus_id": "58823097200",
+                    "name": "Price P.A.",
+                    "affiliation_id": [
+                        "60143898",
+                        "60015827"
+                    ]
+                },
+                {
+                    "scopus_id": "7003888052",
+                    "name": "Reichart D.",
+                    "affiliation_id": [
+                        "60143898"
+                    ]
+                },
+                {
+                    "scopus_id": "7003437253",
+                    "name": "Galama T.J.",
+                    "affiliation_id": [
+                        "60143898"
+                    ]
+                },
+                {
+                    "scopus_id": "7402828523",
+                    "name": "Schmidt B.P.",
+                    "affiliation_id": [
+                        "60015827"
+                    ]
+                },
+                {
+                    "scopus_id": "57190586777",
+                    "name": "Frail D.A.",
+                    "affiliation_id": [
+                        "60143898",
+                        "60021907"
+                    ]
+                },
+                {
+                    "scopus_id": "24330628500",
+                    "name": "Berger E.",
+                    "affiliation_id": [
+                        "60143898"
+                    ]
+                },
+                {
+                    "scopus_id": "35406948700",
+                    "name": "McCarthy P.J.",
+                    "affiliation_id": [
+                        "60002312"
+                    ]
+                },
+                {
+                    "scopus_id": "7101871369",
+                    "name": "Chevalier R.A.",
+                    "affiliation_id": [
+                        "60021918"
+                    ]
+                },
+                {
+                    "scopus_id": "55958176600",
+                    "name": "Wheeler J.C.",
+                    "affiliation_id": [
+                        "60150456"
+                    ]
+                },
+                {
+                    "scopus_id": "23489093300",
+                    "name": "Halpern J.P.",
+                    "affiliation_id": [
+                        "60030162"
+                    ]
+                },
+                {
+                    "scopus_id": "24780325500",
+                    "name": "Fox D.W.",
+                    "affiliation_id": [
+                        "60143898"
+                    ]
+                },
+                {
+                    "scopus_id": "7005199582",
+                    "name": "Djorgovski S.G.",
+                    "affiliation_id": [
+                        "60143898"
+                    ]
+                },
+                {
+                    "scopus_id": "7102089546",
+                    "name": "Harrison F.A.",
+                    "affiliation_id": [
+                        "60143898"
+                    ]
+                },
+                {
+                    "scopus_id": "7005028926",
+                    "name": "Sari R.",
+                    "affiliation_id": [
+                        "60031581"
+                    ]
+                },
+                {
+                    "scopus_id": "7005253950",
+                    "name": "Axelrod T.S.",
+                    "affiliation_id": [
+                        "60015827"
+                    ]
+                },
+                {
+                    "scopus_id": "7005778884",
+                    "name": "Kimble R.A.",
+                    "affiliation_id": [
+                        "60006337"
+                    ]
+                },
+                {
+                    "scopus_id": "35274822700",
+                    "name": "Holtzman J.",
+                    "affiliation_id": [
+                        "60002162"
+                    ]
+                },
+                {
+                    "scopus_id": "7103214709",
+                    "name": "Hurley K.",
+                    "affiliation_id": [
+                        "60029392"
+                    ]
+                },
+                {
+                    "scopus_id": "7102636800",
+                    "name": "Frontera F.",
+                    "affiliation_id": [
+                        "60021199",
+                        "60024690"
+                    ]
+                },
+                {
+                    "scopus_id": "7005695697",
+                    "name": "Piro L.",
+                    "affiliation_id": [
+                        "60021199"
+                    ]
+                },
+                {
+                    "scopus_id": "7402527192",
+                    "name": "Costa E.",
+                    "affiliation_id": [
+                        "60021199"
+                    ]
+                }
+            ],
+            "citations": 123,
+            "publication_name": "Astrophysical Journal",
+            "issn": "0004637X",
+            "cover_date": "2002-06-10",
+            "venue": "Journal",
+            "volume": "572",
+            "issue": "1 II",
+            "page_range": null,
+            "doi": "10.1086/341551"
         },
         {
             "title": "Subaru high-resolution spectroscopy of star g in the tycho supernova remnant",
@@ -12566,7 +12566,7 @@
                     ]
                 }
             ],
-            "citations": 116,
+            "citations": 117,
             "publication_name": "Astrophysical Journal",
             "issn": "0004637X",
             "cover_date": "1992-08-20",
@@ -13698,7 +13698,7 @@
                     "scopus_id": "34769935600",
                     "name": "Fryer C.L.",
                     "affiliation_id": [
-                        "60010065",
+                        "60150063",
                         "60006164"
                     ]
                 },
@@ -17066,7 +17066,7 @@
                     "name": "Rozo E.",
                     "affiliation_id": [
                         "60025590",
-                        "60010065"
+                        "60150063"
                     ]
                 },
                 {
@@ -18294,247 +18294,6 @@
             "doi": "10.1086/660849"
         },
         {
-            "title": "GRB 011121: A massive star progenitor",
-            "eid": "2-s2.0-0042490708",
-            "authors": [
-                {
-                    "scopus_id": "58823097200",
-                    "name": "Price P.A.",
-                    "affiliation_id": [
-                        "60015827",
-                        "60000933"
-                    ]
-                },
-                {
-                    "scopus_id": "24330628500",
-                    "name": "Berger E.",
-                    "affiliation_id": [
-                        "60000933"
-                    ]
-                },
-                {
-                    "scopus_id": "7003888052",
-                    "name": "Reichart D.E.",
-                    "affiliation_id": [
-                        "60000933"
-                    ]
-                },
-                {
-                    "scopus_id": "35395323300",
-                    "name": "Kulkarni S.R.",
-                    "affiliation_id": [
-                        "60000933"
-                    ]
-                },
-                {
-                    "scopus_id": "7004638544",
-                    "name": "Yost S.A.",
-                    "affiliation_id": [
-                        "60000933"
-                    ]
-                },
-                {
-                    "scopus_id": "7004662963",
-                    "name": "Subrahmanyan R.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "6603914853",
-                    "name": "Wark R.M.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "57202110699",
-                    "name": "Wieringa M.H.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "57190586777",
-                    "name": "Frail D.A.",
-                    "affiliation_id": [
-                        "60000933",
-                        "60021907"
-                    ]
-                },
-                {
-                    "scopus_id": "35355112500",
-                    "name": "Bailey J.",
-                    "affiliation_id": [
-                        "60020669"
-                    ]
-                },
-                {
-                    "scopus_id": "7102586075",
-                    "name": "Boyle B.",
-                    "affiliation_id": [
-                        "60020669"
-                    ]
-                },
-                {
-                    "scopus_id": "7006955710",
-                    "name": "Corbett E.",
-                    "affiliation_id": [
-                        "60020669"
-                    ]
-                },
-                {
-                    "scopus_id": "7003696891",
-                    "name": "Gunn K.",
-                    "affiliation_id": [
-                        "60025225"
-                    ]
-                },
-                {
-                    "scopus_id": "55975652000",
-                    "name": "Ryder S.D.",
-                    "affiliation_id": [
-                        "60020669"
-                    ]
-                },
-                {
-                    "scopus_id": "56273677800",
-                    "name": "Seymour N.",
-                    "affiliation_id": [
-                        "60025225"
-                    ]
-                },
-                {
-                    "scopus_id": "8911935100",
-                    "name": "Koviak K.",
-                    "affiliation_id": [
-                        "60002312"
-                    ]
-                },
-                {
-                    "scopus_id": "35406948700",
-                    "name": "McCarthy P.",
-                    "affiliation_id": [
-                        "60002312"
-                    ]
-                },
-                {
-                    "scopus_id": "57203365459",
-                    "name": "Phillips M.",
-                    "affiliation_id": [
-                        "60002312"
-                    ]
-                },
-                {
-                    "scopus_id": "7005253950",
-                    "name": "Axelrod T.S.",
-                    "affiliation_id": [
-                        "60015827"
-                    ]
-                },
-                {
-                    "scopus_id": "57203197744",
-                    "name": "Bloom J.S.",
-                    "affiliation_id": [
-                        "60000933"
-                    ]
-                },
-                {
-                    "scopus_id": "7005199582",
-                    "name": "Djorgovski S.G.",
-                    "affiliation_id": [
-                        "60000933"
-                    ]
-                },
-                {
-                    "scopus_id": "24780325500",
-                    "name": "Fox D.W.",
-                    "affiliation_id": [
-                        "60000933"
-                    ]
-                },
-                {
-                    "scopus_id": "7003437253",
-                    "name": "Galama T.J.",
-                    "affiliation_id": [
-                        "60000933"
-                    ]
-                },
-                {
-                    "scopus_id": "7102089546",
-                    "name": "Harrison F.A.",
-                    "affiliation_id": [
-                        "60000933"
-                    ]
-                },
-                {
-                    "scopus_id": "7103214709",
-                    "name": "Hurley K.",
-                    "affiliation_id": [
-                        "60029392"
-                    ]
-                },
-                {
-                    "scopus_id": "7005028926",
-                    "name": "Sari R.",
-                    "affiliation_id": [
-                        "60031581"
-                    ]
-                },
-                {
-                    "scopus_id": "7402828523",
-                    "name": "Schmidt B.P.",
-                    "affiliation_id": [
-                        "60015827"
-                    ]
-                },
-                {
-                    "scopus_id": "57200214426",
-                    "name": "Brown M.J.I.",
-                    "affiliation_id": [
-                        "60015560"
-                    ]
-                },
-                {
-                    "scopus_id": "7101853118",
-                    "name": "Cline T.",
-                    "affiliation_id": [
-                        "60006337"
-                    ]
-                },
-                {
-                    "scopus_id": "7102636800",
-                    "name": "Frontera F.",
-                    "affiliation_id": [
-                        "60021199"
-                    ]
-                },
-                {
-                    "scopus_id": "8873070000",
-                    "name": "Guidorzi C.",
-                    "affiliation_id": [
-                        "60024690"
-                    ]
-                },
-                {
-                    "scopus_id": "7006516402",
-                    "name": "Montanari E.",
-                    "affiliation_id": [
-                        "60024690"
-                    ]
-                }
-            ],
-            "citations": 71,
-            "publication_name": "Astrophysical Journal",
-            "issn": "0004637X",
-            "cover_date": "2002-06-10",
-            "venue": "Journal",
-            "volume": "572",
-            "issue": "1 II",
-            "page_range": null,
-            "doi": "10.1086/341552"
-        },
-        {
             "title": "Measuring nickel masses in Type Ia supernovae using cobalt emission in nebular phase spectra",
             "eid": "2-s2.0-84949257370",
             "authors": [
@@ -18810,7 +18569,7 @@
                     ]
                 }
             ],
-            "citations": 70,
+            "citations": 71,
             "publication_name": "Monthly Notices of the Royal Astronomical Society",
             "issn": "00358711",
             "cover_date": "2015-12-21",
@@ -18819,6 +18578,247 @@
             "issue": "4",
             "page_range": "3816-3842",
             "doi": "10.1093/mnras/stv2173"
+        },
+        {
+            "title": "GRB 011121: A massive star progenitor",
+            "eid": "2-s2.0-0042490708",
+            "authors": [
+                {
+                    "scopus_id": "58823097200",
+                    "name": "Price P.A.",
+                    "affiliation_id": [
+                        "60015827",
+                        "60000933"
+                    ]
+                },
+                {
+                    "scopus_id": "24330628500",
+                    "name": "Berger E.",
+                    "affiliation_id": [
+                        "60000933"
+                    ]
+                },
+                {
+                    "scopus_id": "7003888052",
+                    "name": "Reichart D.E.",
+                    "affiliation_id": [
+                        "60000933"
+                    ]
+                },
+                {
+                    "scopus_id": "35395323300",
+                    "name": "Kulkarni S.R.",
+                    "affiliation_id": [
+                        "60000933"
+                    ]
+                },
+                {
+                    "scopus_id": "7004638544",
+                    "name": "Yost S.A.",
+                    "affiliation_id": [
+                        "60000933"
+                    ]
+                },
+                {
+                    "scopus_id": "7004662963",
+                    "name": "Subrahmanyan R.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "6603914853",
+                    "name": "Wark R.M.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "57202110699",
+                    "name": "Wieringa M.H.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "57190586777",
+                    "name": "Frail D.A.",
+                    "affiliation_id": [
+                        "60000933",
+                        "60021907"
+                    ]
+                },
+                {
+                    "scopus_id": "35355112500",
+                    "name": "Bailey J.",
+                    "affiliation_id": [
+                        "60020669"
+                    ]
+                },
+                {
+                    "scopus_id": "7102586075",
+                    "name": "Boyle B.",
+                    "affiliation_id": [
+                        "60020669"
+                    ]
+                },
+                {
+                    "scopus_id": "7006955710",
+                    "name": "Corbett E.",
+                    "affiliation_id": [
+                        "60020669"
+                    ]
+                },
+                {
+                    "scopus_id": "7003696891",
+                    "name": "Gunn K.",
+                    "affiliation_id": [
+                        "60025225"
+                    ]
+                },
+                {
+                    "scopus_id": "55975652000",
+                    "name": "Ryder S.D.",
+                    "affiliation_id": [
+                        "60020669"
+                    ]
+                },
+                {
+                    "scopus_id": "56273677800",
+                    "name": "Seymour N.",
+                    "affiliation_id": [
+                        "60025225"
+                    ]
+                },
+                {
+                    "scopus_id": "8911935100",
+                    "name": "Koviak K.",
+                    "affiliation_id": [
+                        "60002312"
+                    ]
+                },
+                {
+                    "scopus_id": "35406948700",
+                    "name": "McCarthy P.",
+                    "affiliation_id": [
+                        "60002312"
+                    ]
+                },
+                {
+                    "scopus_id": "57203365459",
+                    "name": "Phillips M.",
+                    "affiliation_id": [
+                        "60002312"
+                    ]
+                },
+                {
+                    "scopus_id": "7005253950",
+                    "name": "Axelrod T.S.",
+                    "affiliation_id": [
+                        "60015827"
+                    ]
+                },
+                {
+                    "scopus_id": "57203197744",
+                    "name": "Bloom J.S.",
+                    "affiliation_id": [
+                        "60000933"
+                    ]
+                },
+                {
+                    "scopus_id": "7005199582",
+                    "name": "Djorgovski S.G.",
+                    "affiliation_id": [
+                        "60000933"
+                    ]
+                },
+                {
+                    "scopus_id": "24780325500",
+                    "name": "Fox D.W.",
+                    "affiliation_id": [
+                        "60000933"
+                    ]
+                },
+                {
+                    "scopus_id": "7003437253",
+                    "name": "Galama T.J.",
+                    "affiliation_id": [
+                        "60000933"
+                    ]
+                },
+                {
+                    "scopus_id": "7102089546",
+                    "name": "Harrison F.A.",
+                    "affiliation_id": [
+                        "60000933"
+                    ]
+                },
+                {
+                    "scopus_id": "7103214709",
+                    "name": "Hurley K.",
+                    "affiliation_id": [
+                        "60029392"
+                    ]
+                },
+                {
+                    "scopus_id": "7005028926",
+                    "name": "Sari R.",
+                    "affiliation_id": [
+                        "60031581"
+                    ]
+                },
+                {
+                    "scopus_id": "7402828523",
+                    "name": "Schmidt B.P.",
+                    "affiliation_id": [
+                        "60015827"
+                    ]
+                },
+                {
+                    "scopus_id": "57200214426",
+                    "name": "Brown M.J.I.",
+                    "affiliation_id": [
+                        "60015560"
+                    ]
+                },
+                {
+                    "scopus_id": "7101853118",
+                    "name": "Cline T.",
+                    "affiliation_id": [
+                        "60006337"
+                    ]
+                },
+                {
+                    "scopus_id": "7102636800",
+                    "name": "Frontera F.",
+                    "affiliation_id": [
+                        "60021199"
+                    ]
+                },
+                {
+                    "scopus_id": "8873070000",
+                    "name": "Guidorzi C.",
+                    "affiliation_id": [
+                        "60024690"
+                    ]
+                },
+                {
+                    "scopus_id": "7006516402",
+                    "name": "Montanari E.",
+                    "affiliation_id": [
+                        "60024690"
+                    ]
+                }
+            ],
+            "citations": 71,
+            "publication_name": "Astrophysical Journal",
+            "issn": "0004637X",
+            "cover_date": "2002-06-10",
+            "venue": "Journal",
+            "volume": "572",
+            "issue": "1 II",
+            "page_range": null,
+            "doi": "10.1086/341552"
         },
         {
             "title": "The unusual supernova SN1993J in the galaxy M81",
@@ -19005,6 +19005,117 @@
             "issue": "2 II",
             "page_range": null,
             "doi": "10.1086/506934"
+        },
+        {
+            "title": "Time dilation from spectral feature age measurements of type Ia supernovae",
+            "eid": "2-s2.0-0000387748",
+            "authors": [
+                {
+                    "scopus_id": "35275570700",
+                    "name": "Riess A.G.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "34568722000",
+                    "name": "Filippenko A.V.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "7201953982",
+                    "name": "Leonard D.C.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "7402828523",
+                    "name": "Schmidt B.P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006255654",
+                    "name": "Suntzeff N.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "57203365459",
+                    "name": "Phillips M.M.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "7003288048",
+                    "name": "Schommer R.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "6603881508",
+                    "name": "Clocchiatti A.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "35277140000",
+                    "name": "Kirshner R.P.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "7006524172",
+                    "name": "Garnavich P.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "7004555495",
+                    "name": "Challis P.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "7007116593",
+                    "name": "Leibundgut B.",
+                    "affiliation_id": [
+                        "60023599"
+                    ]
+                },
+                {
+                    "scopus_id": "6603870448",
+                    "name": "Spyromilio J.",
+                    "affiliation_id": [
+                        "60023599"
+                    ]
+                },
+                {
+                    "scopus_id": "57202910178",
+                    "name": "Smith R.C.",
+                    "affiliation_id": [
+                        "60025778"
+                    ]
+                }
+            ],
+            "citations": 69,
+            "publication_name": "Astronomical Journal",
+            "issn": "00046256",
+            "cover_date": "1997-01-01",
+            "venue": "Journal",
+            "volume": "114",
+            "issue": "2",
+            "page_range": "722-729",
+            "doi": "10.1086/118506"
         },
         {
             "title": "An HST study of the supernovae accompanying GRB 040924 and GRB 041006",
@@ -19205,47 +19316,14 @@
             "doi": "10.1086/498009"
         },
         {
-            "title": "Time dilation from spectral feature age measurements of type Ia supernovae",
-            "eid": "2-s2.0-0000387748",
+            "title": "Time dilation in the light curve of the distant type Ia supernova SN 1995K",
+            "eid": "2-s2.0-0002632749",
             "authors": [
                 {
-                    "scopus_id": "35275570700",
-                    "name": "Riess A.G.",
+                    "scopus_id": "7007116593",
+                    "name": "Leibundgut B.",
                     "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "34568722000",
-                    "name": "Filippenko A.V.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "7201953982",
-                    "name": "Leonard D.C.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "7402828523",
-                    "name": "Schmidt B.P.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7006255654",
-                    "name": "Suntzeff N.",
-                    "affiliation_id": [
-                        "60023008"
-                    ]
-                },
-                {
-                    "scopus_id": "57203365459",
-                    "name": "Phillips M.M.",
-                    "affiliation_id": [
-                        "60023008"
+                        "60023599"
                     ]
                 },
                 {
@@ -19256,22 +19334,65 @@
                     ]
                 },
                 {
-                    "scopus_id": "6603881508",
-                    "name": "Clocchiatti A.",
+                    "scopus_id": "57203365459",
+                    "name": "Phillips M.",
                     "affiliation_id": [
                         "60023008"
                     ]
                 },
                 {
-                    "scopus_id": "35277140000",
-                    "name": "Kirshner R.P.",
+                    "scopus_id": "35275570700",
+                    "name": "Riess A.",
                     "affiliation_id": [
                         "60020680"
                     ]
                 },
                 {
-                    "scopus_id": "7006524172",
-                    "name": "Garnavich P.",
+                    "scopus_id": "7402828523",
+                    "name": "Schmidt B.",
+                    "affiliation_id": [
+                        "60015827"
+                    ]
+                },
+                {
+                    "scopus_id": "6603870448",
+                    "name": "Spyromilio J.",
+                    "affiliation_id": [
+                        "60023599"
+                    ]
+                },
+                {
+                    "scopus_id": "57210948381",
+                    "name": "Walsh J.",
+                    "affiliation_id": [
+                        "60023599"
+                    ]
+                },
+                {
+                    "scopus_id": "7006255654",
+                    "name": "Suntzeff N.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "7003955061",
+                    "name": "Hamuy M.",
+                    "affiliation_id": [
+                        "60023008",
+                        "60010065"
+                    ]
+                },
+                {
+                    "scopus_id": "7005877718",
+                    "name": "Maza J.",
+                    "affiliation_id": [
+                        "60012464"
+                    ]
+                },
+                {
+                    "scopus_id": "35277140000",
+                    "name": "Kirshner R.P.",
                     "affiliation_id": [
                         "60020680"
                     ]
@@ -19284,17 +19405,10 @@
                     ]
                 },
                 {
-                    "scopus_id": "7007116593",
-                    "name": "Leibundgut B.",
+                    "scopus_id": "7006524172",
+                    "name": "Garnavich P.",
                     "affiliation_id": [
-                        "60023599"
-                    ]
-                },
-                {
-                    "scopus_id": "6603870448",
-                    "name": "Spyromilio J.",
-                    "affiliation_id": [
-                        "60023599"
+                        "60020680"
                     ]
                 },
                 {
@@ -19303,17 +19417,31 @@
                     "affiliation_id": [
                         "60025778"
                     ]
+                },
+                {
+                    "scopus_id": "35247659900",
+                    "name": "Dressler A.",
+                    "affiliation_id": [
+                        "60002312"
+                    ]
+                },
+                {
+                    "scopus_id": "7004054452",
+                    "name": "Ciardullo R.",
+                    "affiliation_id": [
+                        "60001439"
+                    ]
                 }
             ],
             "citations": 68,
-            "publication_name": "Astronomical Journal",
-            "issn": "00046256",
-            "cover_date": "1997-01-01",
+            "publication_name": "Astrophysical Journal",
+            "issn": "0004637X",
+            "cover_date": "1996-01-01",
             "venue": "Journal",
-            "volume": "114",
-            "issue": "2",
-            "page_range": "722-729",
-            "doi": "10.1086/118506"
+            "volume": "466",
+            "issue": "1 PART II",
+            "page_range": null,
+            "doi": "10.1086/310164"
         },
         {
             "title": "Discovery of GRB 020405 and its late red bump",
@@ -19639,134 +19767,6 @@
             "issue": "2 I",
             "page_range": "838-843",
             "doi": "10.1086/374730"
-        },
-        {
-            "title": "Time dilation in the light curve of the distant type Ia supernova SN 1995K",
-            "eid": "2-s2.0-0002632749",
-            "authors": [
-                {
-                    "scopus_id": "7007116593",
-                    "name": "Leibundgut B.",
-                    "affiliation_id": [
-                        "60023599"
-                    ]
-                },
-                {
-                    "scopus_id": "7003288048",
-                    "name": "Schommer R.",
-                    "affiliation_id": [
-                        "60023008"
-                    ]
-                },
-                {
-                    "scopus_id": "57203365459",
-                    "name": "Phillips M.",
-                    "affiliation_id": [
-                        "60023008"
-                    ]
-                },
-                {
-                    "scopus_id": "35275570700",
-                    "name": "Riess A.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "7402828523",
-                    "name": "Schmidt B.",
-                    "affiliation_id": [
-                        "60015827"
-                    ]
-                },
-                {
-                    "scopus_id": "6603870448",
-                    "name": "Spyromilio J.",
-                    "affiliation_id": [
-                        "60023599"
-                    ]
-                },
-                {
-                    "scopus_id": "57210948381",
-                    "name": "Walsh J.",
-                    "affiliation_id": [
-                        "60023599"
-                    ]
-                },
-                {
-                    "scopus_id": "7006255654",
-                    "name": "Suntzeff N.",
-                    "affiliation_id": [
-                        "60023008"
-                    ]
-                },
-                {
-                    "scopus_id": "7003955061",
-                    "name": "Hamuy M.",
-                    "affiliation_id": [
-                        "60023008",
-                        "60010065"
-                    ]
-                },
-                {
-                    "scopus_id": "7005877718",
-                    "name": "Maza J.",
-                    "affiliation_id": [
-                        "60012464"
-                    ]
-                },
-                {
-                    "scopus_id": "35277140000",
-                    "name": "Kirshner R.P.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "7004555495",
-                    "name": "Challis P.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "7006524172",
-                    "name": "Garnavich P.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "57202910178",
-                    "name": "Smith R.C.",
-                    "affiliation_id": [
-                        "60025778"
-                    ]
-                },
-                {
-                    "scopus_id": "35247659900",
-                    "name": "Dressler A.",
-                    "affiliation_id": [
-                        "60002312"
-                    ]
-                },
-                {
-                    "scopus_id": "7004054452",
-                    "name": "Ciardullo R.",
-                    "affiliation_id": [
-                        "60001439"
-                    ]
-                }
-            ],
-            "citations": 67,
-            "publication_name": "Astrophysical Journal",
-            "issn": "0004637X",
-            "cover_date": "1996-01-01",
-            "venue": "Journal",
-            "volume": "466",
-            "issue": "1 PART II",
-            "page_range": null,
-            "doi": "10.1086/310164"
         },
         {
             "title": "On the nature of hydrogen-rich superluminous supernovae",
@@ -20178,7 +20178,7 @@
                     ]
                 }
             ],
-            "citations": 63,
+            "citations": 64,
             "publication_name": "Astrophysical Journal",
             "issn": "0004637X",
             "cover_date": "2014-02-10",
@@ -23877,6 +23877,287 @@
             "doi": "10.1088/0004-6256/145/1/5"
         },
         {
+            "title": "Photometric and spectroscopic observations of SN 1990E in NGC 1035: Observational constraints for models of type II supernovae",
+            "eid": "2-s2.0-4243939242",
+            "authors": [
+                {
+                    "scopus_id": "7402828523",
+                    "name": "Schmidt B.P.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "35277140000",
+                    "name": "Kirshner R.P.",
+                    "affiliation_id": [
+                        "60020680",
+                        "60008492",
+                        "120603369"
+                    ]
+                },
+                {
+                    "scopus_id": "55958183100",
+                    "name": "Schild R.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "7007116593",
+                    "name": "Leibundgut B.",
+                    "affiliation_id": [
+                        "60020680",
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "7005091285",
+                    "name": "Jeffery D.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "7007084438",
+                    "name": "Willner S.P.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "7006440295",
+                    "name": "Peletier R.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "7004355191",
+                    "name": "Zabludoff A.I.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "57203365459",
+                    "name": "Phillips M.M.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "7006255654",
+                    "name": "Suntzeff N.B.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "7003955061",
+                    "name": "Hamuy M.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "7102631882",
+                    "name": "Wells L.A.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "57202910178",
+                    "name": "Smith R.C.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "35184774500",
+                    "name": "Baldwin J.A.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "7006345482",
+                    "name": "Weller W.G.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "6507024477",
+                    "name": "Navarette M.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "57214377387",
+                    "name": "Gonzalez L.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "34568722000",
+                    "name": "Filippenko A.V.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "7402027874",
+                    "name": "Shields J.C.",
+                    "affiliation_id": [
+                        "60025038",
+                        "60003500"
+                    ]
+                },
+                {
+                    "scopus_id": "35318915600",
+                    "name": "Steidel C.C.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "35273021600",
+                    "name": "Perlmutter S.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "6701356847",
+                    "name": "Pennypacker C.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "58466126300",
+                    "name": "Smith C.K.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "7202005073",
+                    "name": "Porter A.C.",
+                    "affiliation_id": [
+                        "60008492",
+                        "120603369"
+                    ]
+                },
+                {
+                    "scopus_id": "57202954730",
+                    "name": "Boroson T.A.",
+                    "affiliation_id": [
+                        "60008492",
+                        "120603369"
+                    ]
+                },
+                {
+                    "scopus_id": "6507676090",
+                    "name": "Stathakis R.",
+                    "affiliation_id": [
+                        "60020669"
+                    ]
+                },
+                {
+                    "scopus_id": "7201491598",
+                    "name": "Cannon R.",
+                    "affiliation_id": [
+                        "60020669"
+                    ]
+                },
+                {
+                    "scopus_id": "56333016400",
+                    "name": "Peters J.",
+                    "affiliation_id": [
+                        "60008483"
+                    ]
+                },
+                {
+                    "scopus_id": "6507295410",
+                    "name": "Horine E.",
+                    "affiliation_id": [
+                        "60008483"
+                    ]
+                },
+                {
+                    "scopus_id": "7202891940",
+                    "name": "Freeman K.C.",
+                    "affiliation_id": [
+                        "60015827"
+                    ]
+                },
+                {
+                    "scopus_id": "7004137294",
+                    "name": "Womble D.S.",
+                    "affiliation_id": [
+                        "60121648"
+                    ]
+                },
+                {
+                    "scopus_id": "7402456327",
+                    "name": "Stone R.P.S.",
+                    "affiliation_id": [
+                        "60137829"
+                    ]
+                },
+                {
+                    "scopus_id": "6701460712",
+                    "name": "Marschall L.A.",
+                    "affiliation_id": [
+                        "60030309",
+                        "60008492",
+                        "120603369"
+                    ]
+                },
+                {
+                    "scopus_id": "7401658660",
+                    "name": "Phillips A.C.",
+                    "affiliation_id": [
+                        "60015827",
+                        "60015481",
+                        "120603369"
+                    ]
+                },
+                {
+                    "scopus_id": "35453479100",
+                    "name": "Saha A.",
+                    "affiliation_id": [
+                        "60008158",
+                        "60008492",
+                        "120603369"
+                    ]
+                },
+                {
+                    "scopus_id": "7005114792",
+                    "name": "Bond H.E.",
+                    "affiliation_id": [
+                        "60008158",
+                        "120603369",
+                        "120603402"
+                    ]
+                }
+            ],
+            "citations": 54,
+            "publication_name": "Astronomical Journal",
+            "issn": "00046256",
+            "cover_date": "1993-01-01",
+            "venue": "Journal",
+            "volume": "105",
+            "issue": "6",
+            "page_range": "2236-2250",
+            "doi": "10.1086/116602"
+        },
+        {
             "title": "A spectacular radio flare from XRF 050416a at 40 days and implications for the nature of X-ray flashes",
             "eid": "2-s2.0-34347217050",
             "authors": [
@@ -24210,287 +24491,6 @@
             "issue": "4",
             "page_range": "5900-5918",
             "doi": "10.1093/mnras/stz2550"
-        },
-        {
-            "title": "Photometric and spectroscopic observations of SN 1990E in NGC 1035: Observational constraints for models of type II supernovae",
-            "eid": "2-s2.0-4243939242",
-            "authors": [
-                {
-                    "scopus_id": "7402828523",
-                    "name": "Schmidt B.P.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "35277140000",
-                    "name": "Kirshner R.P.",
-                    "affiliation_id": [
-                        "60020680",
-                        "60008492",
-                        "120603369"
-                    ]
-                },
-                {
-                    "scopus_id": "55958183100",
-                    "name": "Schild R.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "7007116593",
-                    "name": "Leibundgut B.",
-                    "affiliation_id": [
-                        "60020680",
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "7005091285",
-                    "name": "Jeffery D.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "7007084438",
-                    "name": "Willner S.P.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "7006440295",
-                    "name": "Peletier R.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "7004355191",
-                    "name": "Zabludoff A.I.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "57203365459",
-                    "name": "Phillips M.M.",
-                    "affiliation_id": [
-                        "60023008"
-                    ]
-                },
-                {
-                    "scopus_id": "7006255654",
-                    "name": "Suntzeff N.B.",
-                    "affiliation_id": [
-                        "60023008"
-                    ]
-                },
-                {
-                    "scopus_id": "7003955061",
-                    "name": "Hamuy M.",
-                    "affiliation_id": [
-                        "60023008"
-                    ]
-                },
-                {
-                    "scopus_id": "7102631882",
-                    "name": "Wells L.A.",
-                    "affiliation_id": [
-                        "60023008"
-                    ]
-                },
-                {
-                    "scopus_id": "57202910178",
-                    "name": "Smith R.C.",
-                    "affiliation_id": [
-                        "60023008"
-                    ]
-                },
-                {
-                    "scopus_id": "35184774500",
-                    "name": "Baldwin J.A.",
-                    "affiliation_id": [
-                        "60023008"
-                    ]
-                },
-                {
-                    "scopus_id": "7006345482",
-                    "name": "Weller W.G.",
-                    "affiliation_id": [
-                        "60023008"
-                    ]
-                },
-                {
-                    "scopus_id": "6507024477",
-                    "name": "Navarette M.",
-                    "affiliation_id": [
-                        "60023008"
-                    ]
-                },
-                {
-                    "scopus_id": "57214377387",
-                    "name": "Gonzalez L.",
-                    "affiliation_id": [
-                        "60023008"
-                    ]
-                },
-                {
-                    "scopus_id": "34568722000",
-                    "name": "Filippenko A.V.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "7402027874",
-                    "name": "Shields J.C.",
-                    "affiliation_id": [
-                        "60025038",
-                        "60003500"
-                    ]
-                },
-                {
-                    "scopus_id": "35318915600",
-                    "name": "Steidel C.C.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "35273021600",
-                    "name": "Perlmutter S.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "6701356847",
-                    "name": "Pennypacker C.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "58466126300",
-                    "name": "Smith C.K.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "7202005073",
-                    "name": "Porter A.C.",
-                    "affiliation_id": [
-                        "60008492",
-                        "120603369"
-                    ]
-                },
-                {
-                    "scopus_id": "57202954730",
-                    "name": "Boroson T.A.",
-                    "affiliation_id": [
-                        "60008492",
-                        "120603369"
-                    ]
-                },
-                {
-                    "scopus_id": "6507676090",
-                    "name": "Stathakis R.",
-                    "affiliation_id": [
-                        "60020669"
-                    ]
-                },
-                {
-                    "scopus_id": "7201491598",
-                    "name": "Cannon R.",
-                    "affiliation_id": [
-                        "60020669"
-                    ]
-                },
-                {
-                    "scopus_id": "56333016400",
-                    "name": "Peters J.",
-                    "affiliation_id": [
-                        "60008483"
-                    ]
-                },
-                {
-                    "scopus_id": "6507295410",
-                    "name": "Horine E.",
-                    "affiliation_id": [
-                        "60008483"
-                    ]
-                },
-                {
-                    "scopus_id": "7202891940",
-                    "name": "Freeman K.C.",
-                    "affiliation_id": [
-                        "60015827"
-                    ]
-                },
-                {
-                    "scopus_id": "7004137294",
-                    "name": "Womble D.S.",
-                    "affiliation_id": [
-                        "60121648"
-                    ]
-                },
-                {
-                    "scopus_id": "7402456327",
-                    "name": "Stone R.P.S.",
-                    "affiliation_id": [
-                        "60137829"
-                    ]
-                },
-                {
-                    "scopus_id": "6701460712",
-                    "name": "Marschall L.A.",
-                    "affiliation_id": [
-                        "60030309",
-                        "60008492",
-                        "120603369"
-                    ]
-                },
-                {
-                    "scopus_id": "7401658660",
-                    "name": "Phillips A.C.",
-                    "affiliation_id": [
-                        "60015827",
-                        "60015481",
-                        "120603369"
-                    ]
-                },
-                {
-                    "scopus_id": "35453479100",
-                    "name": "Saha A.",
-                    "affiliation_id": [
-                        "60008158",
-                        "60008492",
-                        "120603369"
-                    ]
-                },
-                {
-                    "scopus_id": "7005114792",
-                    "name": "Bond H.E.",
-                    "affiliation_id": [
-                        "60008158",
-                        "120603369",
-                        "120603402"
-                    ]
-                }
-            ],
-            "citations": 53,
-            "publication_name": "Astronomical Journal",
-            "issn": "00046256",
-            "cover_date": "1993-01-01",
-            "venue": "Journal",
-            "volume": "105",
-            "issue": "6",
-            "page_range": "2236-2250",
-            "doi": "10.1086/116602"
         },
         {
             "title": "Limits from the Hubble space telescope on a point source in SN 1987A",
@@ -28775,6 +28775,405 @@
             "doi": "10.1038/373044a0"
         },
         {
+            "title": "Exploring the Galaxy\u2019s halo and very metal-weak thick disc with SkyMapper and Gaia DR2",
+            "eid": "2-s2.0-85099646235",
+            "authors": [
+                {
+                    "scopus_id": "57205388364",
+                    "name": "Cordoni G.",
+                    "affiliation_id": [
+                        "60000481"
+                    ]
+                },
+                {
+                    "scopus_id": "7005278905",
+                    "name": "da Costa G.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7007146097",
+                    "name": "Yong D.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60170546"
+                    ]
+                },
+                {
+                    "scopus_id": "7006250406",
+                    "name": "Mackey A.D.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60170546"
+                    ]
+                },
+                {
+                    "scopus_id": "25623421700",
+                    "name": "Marino A.F.",
+                    "affiliation_id": [
+                        "60000481",
+                        "60021729"
+                    ]
+                },
+                {
+                    "scopus_id": "57191190184",
+                    "name": "Monty S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "55256421000",
+                    "name": "Nordlander T.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60170546"
+                    ]
+                },
+                {
+                    "scopus_id": "13310237200",
+                    "name": "Norris J.E.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006763621",
+                    "name": "Asplund M.",
+                    "affiliation_id": [
+                        "60023091"
+                    ]
+                },
+                {
+                    "scopus_id": "7003934158",
+                    "name": "Bessell M.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "44560970300",
+                    "name": "Casey A.R.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "16425331600",
+                    "name": "Frebel A.",
+                    "affiliation_id": [
+                        "60103460"
+                    ]
+                },
+                {
+                    "scopus_id": "25623706200",
+                    "name": "Lind K.",
+                    "affiliation_id": [
+                        "60028378"
+                    ]
+                },
+                {
+                    "scopus_id": "24281708600",
+                    "name": "Murphy S.J.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60026708"
+                    ]
+                },
+                {
+                    "scopus_id": "7402828523",
+                    "name": "Schmidt B.P.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57203168617",
+                    "name": "Gao X.D.",
+                    "affiliation_id": [
+                        "60007268"
+                    ]
+                },
+                {
+                    "scopus_id": "57299371400",
+                    "name": "Xylakis-Dornbusch T.",
+                    "affiliation_id": [
+                        "60007268",
+                        "60072351"
+                    ]
+                },
+                {
+                    "scopus_id": "56801892300",
+                    "name": "Amarsi A.M.",
+                    "affiliation_id": [
+                        "60003858"
+                    ]
+                },
+                {
+                    "scopus_id": "14622749100",
+                    "name": "Milone A.P.",
+                    "affiliation_id": [
+                        "60000481"
+                    ]
+                }
+            ],
+            "citations": 40,
+            "publication_name": "Monthly Notices of the Royal Astronomical Society",
+            "issn": "00358711",
+            "cover_date": "2021-05-01",
+            "venue": "Journal",
+            "volume": "503",
+            "issue": "2",
+            "page_range": "2539-2561",
+            "doi": "10.1093/mnras/staa3417"
+        },
+        {
+            "title": "Time dilation in type Ia supernova spectra at high redshift",
+            "eid": "2-s2.0-53549121988",
+            "authors": [
+                {
+                    "scopus_id": "55915376000",
+                    "name": "Blondin S.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "7403688803",
+                    "name": "Davis T.M.",
+                    "affiliation_id": [
+                        "60017041",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7003363105",
+                    "name": "Krisciunas K.",
+                    "affiliation_id": [
+                        "60020547"
+                    ]
+                },
+                {
+                    "scopus_id": "7402828523",
+                    "name": "Schmidt B.P.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6603947073",
+                    "name": "Sollerman J.",
+                    "affiliation_id": [
+                        "60017041"
+                    ]
+                },
+                {
+                    "scopus_id": "35277437000",
+                    "name": "Wood-Vasey W.M.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "7401943413",
+                    "name": "Becker A.C.",
+                    "affiliation_id": [
+                        "60015481"
+                    ]
+                },
+                {
+                    "scopus_id": "7004555495",
+                    "name": "Challis P.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "6603881508",
+                    "name": "Clocchiatti A.",
+                    "affiliation_id": [
+                        "60029681"
+                    ]
+                },
+                {
+                    "scopus_id": "24447712200",
+                    "name": "Damke G.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "34568722000",
+                    "name": "Filippenko A.V.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "7102887401",
+                    "name": "Foley R.J.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "7006524172",
+                    "name": "Garnavich P.M.",
+                    "affiliation_id": [
+                        "60021508"
+                    ]
+                },
+                {
+                    "scopus_id": "7202726891",
+                    "name": "Jha S.W.",
+                    "affiliation_id": [
+                        "60119141"
+                    ]
+                },
+                {
+                    "scopus_id": "35277140000",
+                    "name": "Kirshner R.P.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "7007116593",
+                    "name": "Leibundgut B.",
+                    "affiliation_id": [
+                        "60023599"
+                    ]
+                },
+                {
+                    "scopus_id": "57219106849",
+                    "name": "Li W.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "57203029615",
+                    "name": "Matheson T.",
+                    "affiliation_id": [
+                        "60015560"
+                    ]
+                },
+                {
+                    "scopus_id": "6507608256",
+                    "name": "Miknaitis G.",
+                    "affiliation_id": [
+                        "60013881"
+                    ]
+                },
+                {
+                    "scopus_id": "22835806700",
+                    "name": "Narayan G.",
+                    "affiliation_id": [
+                        "60077572"
+                    ]
+                },
+                {
+                    "scopus_id": "14027234600",
+                    "name": "Pignata G.",
+                    "affiliation_id": [
+                        "60012464"
+                    ]
+                },
+                {
+                    "scopus_id": "23996251400",
+                    "name": "Rest A.",
+                    "affiliation_id": [
+                        "60023008",
+                        "60077572"
+                    ]
+                },
+                {
+                    "scopus_id": "35275570700",
+                    "name": "Riess A.G.",
+                    "affiliation_id": [
+                        "60005248",
+                        "60008158"
+                    ]
+                },
+                {
+                    "scopus_id": "26536688300",
+                    "name": "Silverman J.M.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "57202910178",
+                    "name": "Smith R.C.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "6603870448",
+                    "name": "Spyromilio J.",
+                    "affiliation_id": [
+                        "60023599"
+                    ]
+                },
+                {
+                    "scopus_id": "12809180000",
+                    "name": "Stritzinger M.",
+                    "affiliation_id": [
+                        "60017041",
+                        "60002459"
+                    ]
+                },
+                {
+                    "scopus_id": "7102179627",
+                    "name": "Stubbs C.W.",
+                    "affiliation_id": [
+                        "60020680",
+                        "60077572"
+                    ]
+                },
+                {
+                    "scopus_id": "7006255654",
+                    "name": "Suntzeff N.B.",
+                    "affiliation_id": [
+                        "60020547"
+                    ]
+                },
+                {
+                    "scopus_id": "7005504231",
+                    "name": "Tonry J.L.",
+                    "affiliation_id": [
+                        "60019537"
+                    ]
+                },
+                {
+                    "scopus_id": "25226312000",
+                    "name": "Tucker B.E.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "22837316000",
+                    "name": "Zenteno A.",
+                    "affiliation_id": [
+                        "60000745"
+                    ]
+                }
+            ],
+            "citations": 40,
+            "publication_name": "Astrophysical Journal",
+            "issn": "0004637X",
+            "cover_date": "2008-08-01",
+            "venue": "Journal",
+            "volume": "682",
+            "issue": "2",
+            "page_range": "724-736",
+            "doi": "10.1086/589568"
+        },
+        {
             "title": "Swift and optical observations of GRB 050401",
             "eid": "2-s2.0-33644775125",
             "authors": [
@@ -29015,161 +29414,6 @@
             "issue": "2 PART 1",
             "page_range": "584-591",
             "doi": "10.1086/322342"
-        },
-        {
-            "title": "Exploring the Galaxy\u2019s halo and very metal-weak thick disc with SkyMapper and Gaia DR2",
-            "eid": "2-s2.0-85099646235",
-            "authors": [
-                {
-                    "scopus_id": "57205388364",
-                    "name": "Cordoni G.",
-                    "affiliation_id": [
-                        "60000481"
-                    ]
-                },
-                {
-                    "scopus_id": "7005278905",
-                    "name": "da Costa G.S.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7007146097",
-                    "name": "Yong D.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60170546"
-                    ]
-                },
-                {
-                    "scopus_id": "7006250406",
-                    "name": "Mackey A.D.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60170546"
-                    ]
-                },
-                {
-                    "scopus_id": "25623421700",
-                    "name": "Marino A.F.",
-                    "affiliation_id": [
-                        "60000481",
-                        "60021729"
-                    ]
-                },
-                {
-                    "scopus_id": "57191190184",
-                    "name": "Monty S.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "55256421000",
-                    "name": "Nordlander T.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60170546"
-                    ]
-                },
-                {
-                    "scopus_id": "13310237200",
-                    "name": "Norris J.E.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7006763621",
-                    "name": "Asplund M.",
-                    "affiliation_id": [
-                        "60023091"
-                    ]
-                },
-                {
-                    "scopus_id": "7003934158",
-                    "name": "Bessell M.S.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "44560970300",
-                    "name": "Casey A.R.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "16425331600",
-                    "name": "Frebel A.",
-                    "affiliation_id": [
-                        "60103460"
-                    ]
-                },
-                {
-                    "scopus_id": "25623706200",
-                    "name": "Lind K.",
-                    "affiliation_id": [
-                        "60028378"
-                    ]
-                },
-                {
-                    "scopus_id": "24281708600",
-                    "name": "Murphy S.J.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60026708"
-                    ]
-                },
-                {
-                    "scopus_id": "7402828523",
-                    "name": "Schmidt B.P.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "57203168617",
-                    "name": "Gao X.D.",
-                    "affiliation_id": [
-                        "60007268"
-                    ]
-                },
-                {
-                    "scopus_id": "57299371400",
-                    "name": "Xylakis-Dornbusch T.",
-                    "affiliation_id": [
-                        "60007268",
-                        "60072351"
-                    ]
-                },
-                {
-                    "scopus_id": "56801892300",
-                    "name": "Amarsi A.M.",
-                    "affiliation_id": [
-                        "60003858"
-                    ]
-                },
-                {
-                    "scopus_id": "14622749100",
-                    "name": "Milone A.P.",
-                    "affiliation_id": [
-                        "60000481"
-                    ]
-                }
-            ],
-            "citations": 39,
-            "publication_name": "Monthly Notices of the Royal Astronomical Society",
-            "issn": "00358711",
-            "cover_date": "2021-05-01",
-            "venue": "Journal",
-            "volume": "503",
-            "issue": "2",
-            "page_range": "2539-2561",
-            "doi": "10.1093/mnras/staa3417"
         },
         {
             "title": "SN 2012ec: Mass of the progenitor from PESSTO follow-up of the photospheric phase",
@@ -29556,286 +29800,6 @@
             "doi": "10.1038/s41586-021-03611-2"
         },
         {
-            "title": "Time dilation in type Ia supernova spectra at high redshift",
-            "eid": "2-s2.0-53549121988",
-            "authors": [
-                {
-                    "scopus_id": "55915376000",
-                    "name": "Blondin S.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "7403688803",
-                    "name": "Davis T.M.",
-                    "affiliation_id": [
-                        "60017041",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7003363105",
-                    "name": "Krisciunas K.",
-                    "affiliation_id": [
-                        "60020547"
-                    ]
-                },
-                {
-                    "scopus_id": "7402828523",
-                    "name": "Schmidt B.P.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "6603947073",
-                    "name": "Sollerman J.",
-                    "affiliation_id": [
-                        "60017041"
-                    ]
-                },
-                {
-                    "scopus_id": "35277437000",
-                    "name": "Wood-Vasey W.M.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "7401943413",
-                    "name": "Becker A.C.",
-                    "affiliation_id": [
-                        "60015481"
-                    ]
-                },
-                {
-                    "scopus_id": "7004555495",
-                    "name": "Challis P.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "6603881508",
-                    "name": "Clocchiatti A.",
-                    "affiliation_id": [
-                        "60029681"
-                    ]
-                },
-                {
-                    "scopus_id": "24447712200",
-                    "name": "Damke G.",
-                    "affiliation_id": [
-                        "60023008"
-                    ]
-                },
-                {
-                    "scopus_id": "34568722000",
-                    "name": "Filippenko A.V.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "7102887401",
-                    "name": "Foley R.J.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "7006524172",
-                    "name": "Garnavich P.M.",
-                    "affiliation_id": [
-                        "60021508"
-                    ]
-                },
-                {
-                    "scopus_id": "7202726891",
-                    "name": "Jha S.W.",
-                    "affiliation_id": [
-                        "60119141"
-                    ]
-                },
-                {
-                    "scopus_id": "35277140000",
-                    "name": "Kirshner R.P.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "7007116593",
-                    "name": "Leibundgut B.",
-                    "affiliation_id": [
-                        "60023599"
-                    ]
-                },
-                {
-                    "scopus_id": "57219106849",
-                    "name": "Li W.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "57203029615",
-                    "name": "Matheson T.",
-                    "affiliation_id": [
-                        "60015560"
-                    ]
-                },
-                {
-                    "scopus_id": "6507608256",
-                    "name": "Miknaitis G.",
-                    "affiliation_id": [
-                        "60013881"
-                    ]
-                },
-                {
-                    "scopus_id": "22835806700",
-                    "name": "Narayan G.",
-                    "affiliation_id": [
-                        "60077572"
-                    ]
-                },
-                {
-                    "scopus_id": "14027234600",
-                    "name": "Pignata G.",
-                    "affiliation_id": [
-                        "60012464"
-                    ]
-                },
-                {
-                    "scopus_id": "23996251400",
-                    "name": "Rest A.",
-                    "affiliation_id": [
-                        "60023008",
-                        "60077572"
-                    ]
-                },
-                {
-                    "scopus_id": "35275570700",
-                    "name": "Riess A.G.",
-                    "affiliation_id": [
-                        "60005248",
-                        "60008158"
-                    ]
-                },
-                {
-                    "scopus_id": "26536688300",
-                    "name": "Silverman J.M.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "57202910178",
-                    "name": "Smith R.C.",
-                    "affiliation_id": [
-                        "60023008"
-                    ]
-                },
-                {
-                    "scopus_id": "6603870448",
-                    "name": "Spyromilio J.",
-                    "affiliation_id": [
-                        "60023599"
-                    ]
-                },
-                {
-                    "scopus_id": "12809180000",
-                    "name": "Stritzinger M.",
-                    "affiliation_id": [
-                        "60017041",
-                        "60002459"
-                    ]
-                },
-                {
-                    "scopus_id": "7102179627",
-                    "name": "Stubbs C.W.",
-                    "affiliation_id": [
-                        "60020680",
-                        "60077572"
-                    ]
-                },
-                {
-                    "scopus_id": "7006255654",
-                    "name": "Suntzeff N.B.",
-                    "affiliation_id": [
-                        "60020547"
-                    ]
-                },
-                {
-                    "scopus_id": "7005504231",
-                    "name": "Tonry J.L.",
-                    "affiliation_id": [
-                        "60019537"
-                    ]
-                },
-                {
-                    "scopus_id": "25226312000",
-                    "name": "Tucker B.E.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "22837316000",
-                    "name": "Zenteno A.",
-                    "affiliation_id": [
-                        "60000745"
-                    ]
-                }
-            ],
-            "citations": 38,
-            "publication_name": "Astrophysical Journal",
-            "issn": "0004637X",
-            "cover_date": "2008-08-01",
-            "venue": "Journal",
-            "volume": "682",
-            "issue": "2",
-            "page_range": "724-736",
-            "doi": "10.1086/589568"
-        },
-        {
-            "title": "X-ray emission from the supernova remnant CTA 1",
-            "eid": "2-s2.0-11944261979",
-            "authors": [
-                {
-                    "scopus_id": "36883047000",
-                    "name": "Seward F.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "7402828523",
-                    "name": "Schmidt B.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "7003826185",
-                    "name": "Slane P.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                }
-            ],
-            "citations": 38,
-            "publication_name": "Astrophysical Journal",
-            "issn": "0004637X",
-            "cover_date": "1995-11-01",
-            "venue": "Journal",
-            "volume": "453",
-            "issue": "1",
-            "page_range": "284-292",
-            "doi": "10.1086/176388"
-        },
-        {
             "title": "Supernova 2012ec: Identification of the progenitor and early monitoring with PESSTO",
             "eid": "2-s2.0-84876844160",
             "authors": [
@@ -29954,7 +29918,7 @@
                     ]
                 }
             ],
-            "citations": 37,
+            "citations": 38,
             "publication_name": "Monthly Notices of the Royal Astronomical Society: Letters",
             "issn": "17453925",
             "cover_date": "2013-05-01",
@@ -29963,6 +29927,42 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1093/mnrasl/slt017"
+        },
+        {
+            "title": "X-ray emission from the supernova remnant CTA 1",
+            "eid": "2-s2.0-11944261979",
+            "authors": [
+                {
+                    "scopus_id": "36883047000",
+                    "name": "Seward F.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "7402828523",
+                    "name": "Schmidt B.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "7003826185",
+                    "name": "Slane P.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                }
+            ],
+            "citations": 38,
+            "publication_name": "Astrophysical Journal",
+            "issn": "0004637X",
+            "cover_date": "1995-11-01",
+            "venue": "Journal",
+            "volume": "453",
+            "issue": "1",
+            "page_range": "284-292",
+            "doi": "10.1086/176388"
         },
         {
             "title": "Hubble space telescope observations of nine high-redshift essence supernovae",
@@ -30998,119 +30998,6 @@
             "doi": "10.1088/0004-6256/137/4/3731"
         },
         {
-            "title": "The Skymapper transient survey",
-            "eid": "2-s2.0-85024361766",
-            "authors": [
-                {
-                    "scopus_id": "6603639999",
-                    "name": "Scalzo R.A.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60170546",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "57211299975",
-                    "name": "Yuan F.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60170546"
-                    ]
-                },
-                {
-                    "scopus_id": "26664300400",
-                    "name": "Childress M.J.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60170546",
-                        "60025225"
-                    ]
-                },
-                {
-                    "scopus_id": "35113720600",
-                    "name": "M\u00f6ller A.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60170546"
-                    ]
-                },
-                {
-                    "scopus_id": "7402828523",
-                    "name": "Schmidt B.P.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60170546"
-                    ]
-                },
-                {
-                    "scopus_id": "25226312000",
-                    "name": "Tucker B.E.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60170546"
-                    ]
-                },
-                {
-                    "scopus_id": "56923863500",
-                    "name": "Zhang B.R.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60170546"
-                    ]
-                },
-                {
-                    "scopus_id": "6603056391",
-                    "name": "Onken C.A.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60170546"
-                    ]
-                },
-                {
-                    "scopus_id": "57198278898",
-                    "name": "Wolf C.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60170546"
-                    ]
-                },
-                {
-                    "scopus_id": "56213940800",
-                    "name": "Astier P.",
-                    "affiliation_id": [
-                        "60170546",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "25640883700",
-                    "name": "Betoule M.",
-                    "affiliation_id": [
-                        "60170546",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "58428668200",
-                    "name": "Regnault N.",
-                    "affiliation_id": [
-                        "60170546",
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 31,
-            "publication_name": "Publications of the Astronomical Society of Australia",
-            "issn": "13233580",
-            "cover_date": "2017-07-17",
-            "venue": "Journal",
-            "volume": "34",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1017/pasa.2017.24"
-        },
-        {
             "title": "The ANU wifes supernova programme (AWSNAP)",
             "eid": "2-s2.0-84994576010",
             "authors": [
@@ -31317,7 +31204,7 @@
                     ]
                 }
             ],
-            "citations": 31,
+            "citations": 32,
             "publication_name": "Publications of the Astronomical Society of Australia",
             "issn": "13233580",
             "cover_date": "2016-01-01",
@@ -31326,6 +31213,119 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1017/pasa.2016.47"
+        },
+        {
+            "title": "The Skymapper transient survey",
+            "eid": "2-s2.0-85024361766",
+            "authors": [
+                {
+                    "scopus_id": "6603639999",
+                    "name": "Scalzo R.A.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60170546",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "57211299975",
+                    "name": "Yuan F.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60170546"
+                    ]
+                },
+                {
+                    "scopus_id": "26664300400",
+                    "name": "Childress M.J.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60170546",
+                        "60025225"
+                    ]
+                },
+                {
+                    "scopus_id": "35113720600",
+                    "name": "M\u00f6ller A.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60170546"
+                    ]
+                },
+                {
+                    "scopus_id": "7402828523",
+                    "name": "Schmidt B.P.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60170546"
+                    ]
+                },
+                {
+                    "scopus_id": "25226312000",
+                    "name": "Tucker B.E.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60170546"
+                    ]
+                },
+                {
+                    "scopus_id": "56923863500",
+                    "name": "Zhang B.R.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60170546"
+                    ]
+                },
+                {
+                    "scopus_id": "6603056391",
+                    "name": "Onken C.A.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60170546"
+                    ]
+                },
+                {
+                    "scopus_id": "57198278898",
+                    "name": "Wolf C.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60170546"
+                    ]
+                },
+                {
+                    "scopus_id": "56213940800",
+                    "name": "Astier P.",
+                    "affiliation_id": [
+                        "60170546",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "25640883700",
+                    "name": "Betoule M.",
+                    "affiliation_id": [
+                        "60170546",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "58428668200",
+                    "name": "Regnault N.",
+                    "affiliation_id": [
+                        "60170546",
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 31,
+            "publication_name": "Publications of the Astronomical Society of Australia",
+            "issn": "13233580",
+            "cover_date": "2017-07-17",
+            "venue": "Journal",
+            "volume": "34",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1017/pasa.2017.24"
         },
         {
             "title": "HATS9-b and HATS10-b: TWO COMPACT HOT JUPITERS in FIELD 7 of the K2 MISSION",
@@ -34643,6 +34643,285 @@
             "doi": "10.1086/175151"
         },
         {
+            "title": "LIGHT CURVES of 213 TYPE Ia SUPERNOVAE from the ESSENCE SURVEY",
+            "eid": "2-s2.0-84977641697",
+            "authors": [
+                {
+                    "scopus_id": "22835806700",
+                    "name": "Narayan G.",
+                    "affiliation_id": [
+                        "60015560",
+                        "60020680",
+                        "60077572"
+                    ]
+                },
+                {
+                    "scopus_id": "23996251400",
+                    "name": "Rest A.",
+                    "affiliation_id": [
+                        "60008158"
+                    ]
+                },
+                {
+                    "scopus_id": "25226312000",
+                    "name": "Tucker B.E.",
+                    "affiliation_id": [
+                        "60015827"
+                    ]
+                },
+                {
+                    "scopus_id": "7102887401",
+                    "name": "Foley R.J.",
+                    "affiliation_id": [
+                        "60000745"
+                    ]
+                },
+                {
+                    "scopus_id": "35277437000",
+                    "name": "Wood-Vasey W.M.",
+                    "affiliation_id": [
+                        "60015543"
+                    ]
+                },
+                {
+                    "scopus_id": "7004555495",
+                    "name": "Challis P.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "7102179627",
+                    "name": "Stubbs C.",
+                    "affiliation_id": [
+                        "60020680",
+                        "60077572"
+                    ]
+                },
+                {
+                    "scopus_id": "35277140000",
+                    "name": "Kirshner R.P.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "8504192500",
+                    "name": "Aguilera C.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                },
+                {
+                    "scopus_id": "7401943413",
+                    "name": "Becker A.C.",
+                    "affiliation_id": [
+                        "60015481"
+                    ]
+                },
+                {
+                    "scopus_id": "55915376000",
+                    "name": "Blondin S.",
+                    "affiliation_id": [
+                        "60007671"
+                    ]
+                },
+                {
+                    "scopus_id": "6603881508",
+                    "name": "Clocchiatti A.",
+                    "affiliation_id": [
+                        "60029681",
+                        "60138333"
+                    ]
+                },
+                {
+                    "scopus_id": "6603942574",
+                    "name": "Covarrubias R.",
+                    "affiliation_id": [
+                        "60015481"
+                    ]
+                },
+                {
+                    "scopus_id": "24447712200",
+                    "name": "Damke G.",
+                    "affiliation_id": [
+                        "60021918"
+                    ]
+                },
+                {
+                    "scopus_id": "7403688803",
+                    "name": "Davis T.M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "34568722000",
+                    "name": "Filippenko A.V.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "12796086800",
+                    "name": "Ganeshalingam M.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "26665418800",
+                    "name": "Garg A.",
+                    "affiliation_id": [
+                        "60020680"
+                    ]
+                },
+                {
+                    "scopus_id": "7006524172",
+                    "name": "Garnavich P.M.",
+                    "affiliation_id": [
+                        "60021508"
+                    ]
+                },
+                {
+                    "scopus_id": "55915085600",
+                    "name": "Hicken M.",
+                    "affiliation_id": [
+                        "60077572"
+                    ]
+                },
+                {
+                    "scopus_id": "7202726891",
+                    "name": "Jha S.W.",
+                    "affiliation_id": [
+                        "60119141"
+                    ]
+                },
+                {
+                    "scopus_id": "7003363105",
+                    "name": "Krisciunas K.",
+                    "affiliation_id": [
+                        "60020547"
+                    ]
+                },
+                {
+                    "scopus_id": "7007116593",
+                    "name": "Leibundgut B.",
+                    "affiliation_id": [
+                        "60023599"
+                    ]
+                },
+                {
+                    "scopus_id": "57219106849",
+                    "name": "Li W.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "57203029615",
+                    "name": "Matheson T.",
+                    "affiliation_id": [
+                        "60015560"
+                    ]
+                },
+                {
+                    "scopus_id": "6507608256",
+                    "name": "Miknaitis G.",
+                    "affiliation_id": [
+                        "60013881"
+                    ]
+                },
+                {
+                    "scopus_id": "14027234600",
+                    "name": "Pignata G.",
+                    "affiliation_id": [
+                        "60002636"
+                    ]
+                },
+                {
+                    "scopus_id": "55942204600",
+                    "name": "Prieto J.L.",
+                    "affiliation_id": [
+                        "60013592"
+                    ]
+                },
+                {
+                    "scopus_id": "35275570700",
+                    "name": "Riess A.G.",
+                    "affiliation_id": [
+                        "60008158",
+                        "60005248"
+                    ]
+                },
+                {
+                    "scopus_id": "7402828523",
+                    "name": "Schmidt B.P.",
+                    "affiliation_id": [
+                        "60015827"
+                    ]
+                },
+                {
+                    "scopus_id": "26536688300",
+                    "name": "Silverman J.M.",
+                    "affiliation_id": [
+                        "60150456"
+                    ]
+                },
+                {
+                    "scopus_id": "57202910178",
+                    "name": "Smith R.C.",
+                    "affiliation_id": [
+                        "60015543"
+                    ]
+                },
+                {
+                    "scopus_id": "6603947073",
+                    "name": "Sollerman J.",
+                    "affiliation_id": [
+                        "60028378"
+                    ]
+                },
+                {
+                    "scopus_id": "6603870448",
+                    "name": "Spyromilio J.",
+                    "affiliation_id": [
+                        "60023599"
+                    ]
+                },
+                {
+                    "scopus_id": "7006255654",
+                    "name": "Suntzeff N.B.",
+                    "affiliation_id": [
+                        "60020547"
+                    ]
+                },
+                {
+                    "scopus_id": "7005504231",
+                    "name": "Tonry J.L.",
+                    "affiliation_id": [
+                        "60019537"
+                    ]
+                },
+                {
+                    "scopus_id": "22837316000",
+                    "name": "Zenteno A.",
+                    "affiliation_id": [
+                        "60023008"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Astrophysical Journal, Supplement Series",
+            "issn": "00670049",
+            "cover_date": "2016-05-01",
+            "venue": "Journal",
+            "volume": "224",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.3847/0067-0049/224/1/3"
+        },
+        {
             "title": "GRB 010921: Strong limits on an underlying supernova from the Hubble Space Telescope",
             "eid": "2-s2.0-0037796782",
             "authors": [
@@ -34926,215 +35205,19 @@
             "doi": "10.1017/pasa.2018.22"
         },
         {
-            "title": "LIGHT CURVES of 213 TYPE Ia SUPERNOVAE from the ESSENCE SURVEY",
-            "eid": "2-s2.0-84977641697",
+            "title": "Observations of the type II-P SN 1991G in NGC 4088",
+            "eid": "2-s2.0-0000452134",
             "authors": [
                 {
-                    "scopus_id": "22835806700",
-                    "name": "Narayan G.",
+                    "scopus_id": "36023581600",
+                    "name": "Blanton E.L.",
                     "affiliation_id": [
-                        "60015560",
-                        "60020680",
-                        "60077572"
-                    ]
-                },
-                {
-                    "scopus_id": "23996251400",
-                    "name": "Rest A.",
-                    "affiliation_id": [
-                        "60008158"
-                    ]
-                },
-                {
-                    "scopus_id": "25226312000",
-                    "name": "Tucker B.E.",
-                    "affiliation_id": [
-                        "60015827"
-                    ]
-                },
-                {
-                    "scopus_id": "7102887401",
-                    "name": "Foley R.J.",
-                    "affiliation_id": [
-                        "60000745"
-                    ]
-                },
-                {
-                    "scopus_id": "35277437000",
-                    "name": "Wood-Vasey W.M.",
-                    "affiliation_id": [
-                        "60015543"
-                    ]
-                },
-                {
-                    "scopus_id": "7004555495",
-                    "name": "Challis P.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "7102179627",
-                    "name": "Stubbs C.",
-                    "affiliation_id": [
-                        "60020680",
-                        "60077572"
-                    ]
-                },
-                {
-                    "scopus_id": "35277140000",
-                    "name": "Kirshner R.P.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "8504192500",
-                    "name": "Aguilera C.",
-                    "affiliation_id": [
-                        "60023008"
-                    ]
-                },
-                {
-                    "scopus_id": "7401943413",
-                    "name": "Becker A.C.",
-                    "affiliation_id": [
-                        "60015481"
-                    ]
-                },
-                {
-                    "scopus_id": "55915376000",
-                    "name": "Blondin S.",
-                    "affiliation_id": [
-                        "60007671"
-                    ]
-                },
-                {
-                    "scopus_id": "6603881508",
-                    "name": "Clocchiatti A.",
-                    "affiliation_id": [
-                        "60029681",
-                        "60138333"
-                    ]
-                },
-                {
-                    "scopus_id": "6603942574",
-                    "name": "Covarrubias R.",
-                    "affiliation_id": [
-                        "60015481"
-                    ]
-                },
-                {
-                    "scopus_id": "24447712200",
-                    "name": "Damke G.",
-                    "affiliation_id": [
-                        "60021918"
-                    ]
-                },
-                {
-                    "scopus_id": "7403688803",
-                    "name": "Davis T.M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "34568722000",
-                    "name": "Filippenko A.V.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "12796086800",
-                    "name": "Ganeshalingam M.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "26665418800",
-                    "name": "Garg A.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "7006524172",
-                    "name": "Garnavich P.M.",
-                    "affiliation_id": [
-                        "60021508"
-                    ]
-                },
-                {
-                    "scopus_id": "55915085600",
-                    "name": "Hicken M.",
-                    "affiliation_id": [
-                        "60077572"
-                    ]
-                },
-                {
-                    "scopus_id": "7202726891",
-                    "name": "Jha S.W.",
-                    "affiliation_id": [
-                        "60119141"
-                    ]
-                },
-                {
-                    "scopus_id": "7003363105",
-                    "name": "Krisciunas K.",
-                    "affiliation_id": [
-                        "60020547"
-                    ]
-                },
-                {
-                    "scopus_id": "7007116593",
-                    "name": "Leibundgut B.",
-                    "affiliation_id": [
-                        "60023599"
-                    ]
-                },
-                {
-                    "scopus_id": "57219106849",
-                    "name": "Li W.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "57203029615",
-                    "name": "Matheson T.",
-                    "affiliation_id": [
-                        "60015560"
-                    ]
-                },
-                {
-                    "scopus_id": "6507608256",
-                    "name": "Miknaitis G.",
-                    "affiliation_id": [
-                        "60013881"
-                    ]
-                },
-                {
-                    "scopus_id": "14027234600",
-                    "name": "Pignata G.",
-                    "affiliation_id": [
-                        "60002636"
-                    ]
-                },
-                {
-                    "scopus_id": "55942204600",
-                    "name": "Prieto J.L.",
-                    "affiliation_id": [
-                        "60013592"
-                    ]
-                },
-                {
-                    "scopus_id": "35275570700",
-                    "name": "Riess A.G.",
-                    "affiliation_id": [
-                        "60008158",
-                        "60005248"
+                        "60030162",
+                        "60008492",
+                        "60010915",
+                        "60024878",
+                        "60029788",
+                        "106934483"
                     ]
                 },
                 {
@@ -35145,64 +35228,48 @@
                     ]
                 },
                 {
-                    "scopus_id": "26536688300",
-                    "name": "Silverman J.M.",
+                    "scopus_id": "35277140000",
+                    "name": "Kirshner R.P.",
                     "affiliation_id": [
-                        "60150456"
+                        "60020680"
                     ]
                 },
                 {
-                    "scopus_id": "57202910178",
-                    "name": "Smith R.C.",
+                    "scopus_id": "57197125389",
+                    "name": "Ford C.H.",
                     "affiliation_id": [
-                        "60015543"
+                        "60007478",
+                        "60008492",
+                        "60010915",
+                        "60029788"
                     ]
                 },
                 {
-                    "scopus_id": "6603947073",
-                    "name": "Sollerman J.",
+                    "scopus_id": "6701854873",
+                    "name": "Chromey F.R.",
                     "affiliation_id": [
-                        "60028378"
+                        "60024878"
                     ]
                 },
                 {
-                    "scopus_id": "6603870448",
-                    "name": "Spyromilio J.",
+                    "scopus_id": "7004459796",
+                    "name": "Herbst W.",
                     "affiliation_id": [
-                        "60023599"
-                    ]
-                },
-                {
-                    "scopus_id": "7006255654",
-                    "name": "Suntzeff N.B.",
-                    "affiliation_id": [
-                        "60020547"
-                    ]
-                },
-                {
-                    "scopus_id": "7005504231",
-                    "name": "Tonry J.L.",
-                    "affiliation_id": [
-                        "60019537"
-                    ]
-                },
-                {
-                    "scopus_id": "22837316000",
-                    "name": "Zenteno A.",
-                    "affiliation_id": [
-                        "60023008"
+                        "60029788",
+                        "60008492",
+                        "60010915"
                     ]
                 }
             ],
             "citations": 20,
-            "publication_name": "Astrophysical Journal, Supplement Series",
-            "issn": "00670049",
-            "cover_date": "2016-05-01",
+            "publication_name": "Astronomical Journal",
+            "issn": "00046256",
+            "cover_date": "1995-01-01",
             "venue": "Journal",
-            "volume": "224",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.3847/0067-0049/224/1/3"
+            "volume": "110",
+            "issue": "6",
+            "page_range": "2868-2875",
+            "doi": "10.1086/117735"
         },
         {
             "title": "High-resolution spectroscopic follow-up of the most metal-poor candidates from SkyMapper DR1.1",
@@ -35436,73 +35503,6 @@
             "issue": "1 PART 2",
             "page_range": null,
             "doi": "10.1086/187266"
-        },
-        {
-            "title": "Observations of the type II-P SN 1991G in NGC 4088",
-            "eid": "2-s2.0-0000452134",
-            "authors": [
-                {
-                    "scopus_id": "36023581600",
-                    "name": "Blanton E.L.",
-                    "affiliation_id": [
-                        "60030162",
-                        "60008492",
-                        "60010915",
-                        "60024878",
-                        "60029788",
-                        "106934483"
-                    ]
-                },
-                {
-                    "scopus_id": "7402828523",
-                    "name": "Schmidt B.P.",
-                    "affiliation_id": [
-                        "60015827"
-                    ]
-                },
-                {
-                    "scopus_id": "35277140000",
-                    "name": "Kirshner R.P.",
-                    "affiliation_id": [
-                        "60020680"
-                    ]
-                },
-                {
-                    "scopus_id": "57197125389",
-                    "name": "Ford C.H.",
-                    "affiliation_id": [
-                        "60007478",
-                        "60008492",
-                        "60010915",
-                        "60029788"
-                    ]
-                },
-                {
-                    "scopus_id": "6701854873",
-                    "name": "Chromey F.R.",
-                    "affiliation_id": [
-                        "60024878"
-                    ]
-                },
-                {
-                    "scopus_id": "7004459796",
-                    "name": "Herbst W.",
-                    "affiliation_id": [
-                        "60029788",
-                        "60008492",
-                        "60010915"
-                    ]
-                }
-            ],
-            "citations": 19,
-            "publication_name": "Astronomical Journal",
-            "issn": "00046256",
-            "cover_date": "1995-01-01",
-            "venue": "Journal",
-            "volume": "110",
-            "issue": "6",
-            "page_range": "2868-2875",
-            "doi": "10.1086/117735"
         },
         {
             "title": "A high obliquity orbit for the hot-jupiter Hats-14b Transiting A 5400 K Star",
@@ -40910,6 +40910,5 @@
             "$": "Multidisciplinary"
         }
     ],
-    "date fetched": "2024-06-30 08:40:51",
-    "c-score": null
+    "date fetched": "2024-07-12 18:56:40"
 }

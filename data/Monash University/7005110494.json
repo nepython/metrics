@@ -17,7 +17,7 @@
                     "scopus_id": "6603753417",
                     "name": "Agashe K.",
                     "affiliation_id": [
-                        "60020304"
+                        "60151558"
                     ]
                 },
                 {
@@ -718,7 +718,7 @@
                     ]
                 }
             ],
-            "citations": 6865,
+            "citations": 6867,
             "publication_name": "Chinese Physics C",
             "issn": "16741137",
             "cover_date": "2014-08-01",
@@ -787,7 +787,7 @@
                     "scopus_id": "6603753417",
                     "name": "Agashe K.",
                     "affiliation_id": [
-                        "60020304"
+                        "60151558"
                     ]
                 },
                 {
@@ -1449,7 +1449,7 @@
                     ]
                 }
             ],
-            "citations": 6150,
+            "citations": 6151,
             "publication_name": "Physical Review D",
             "issn": "24700010",
             "cover_date": "2018-08-01",
@@ -2167,7 +2167,7 @@
                     ]
                 }
             ],
-            "citations": 5352,
+            "citations": 5354,
             "publication_name": "Journal of Physics G: Nuclear and Particle Physics",
             "issn": "09543899",
             "cover_date": "2010-01-01",
@@ -2192,7 +2192,7 @@
                     "scopus_id": "6603753417",
                     "name": "Agashe K.",
                     "affiliation_id": [
-                        "60020304"
+                        "60151558"
                     ]
                 },
                 {
@@ -2896,7 +2896,7 @@
                     ]
                 }
             ],
-            "citations": 5099,
+            "citations": 5101,
             "publication_name": "Chinese Physics C",
             "issn": "16741137",
             "cover_date": "2016-10-01",
@@ -3614,7 +3614,7 @@
                     ]
                 }
             ],
-            "citations": 5057,
+            "citations": 5058,
             "publication_name": "Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics",
             "issn": "03702693",
             "cover_date": "2008-09-11",
@@ -5153,7 +5153,7 @@
                     "scopus_id": "6603753417",
                     "name": "Agashe K.",
                     "affiliation_id": [
-                        "60020304"
+                        "60151558"
                     ]
                 },
                 {
@@ -5785,7 +5785,7 @@
                     ]
                 }
             ],
-            "citations": 3701,
+            "citations": 3710,
             "publication_name": "Progress of Theoretical and Experimental Physics",
             "issn": "",
             "cover_date": "2020-01-01",
@@ -6564,7 +6564,7 @@
                     "scopus_id": "6603753417",
                     "name": "Agashe K.",
                     "affiliation_id": [
-                        "60020304"
+                        "60151558"
                     ]
                 },
                 {
@@ -6897,7 +6897,7 @@
                     "scopus_id": "57207892988",
                     "name": "Eno S.C.",
                     "affiliation_id": [
-                        "60020304"
+                        "60151558"
                     ]
                 },
                 {
@@ -7236,7 +7236,7 @@
                     ]
                 }
             ],
-            "citations": 2336,
+            "citations": 2357,
             "publication_name": "Progress of Theoretical and Experimental Physics",
             "issn": "",
             "cover_date": "2022-08-01",
@@ -7308,7 +7308,7 @@
                     ]
                 }
             ],
-            "citations": 223,
+            "citations": 224,
             "publication_name": "Physical Review Letters",
             "issn": "00319007",
             "cover_date": "1992-01-01",
@@ -7911,7 +7911,7 @@
                     ]
                 }
             ],
-            "citations": 48,
+            "citations": 49,
             "publication_name": "Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics",
             "issn": "03702693",
             "cover_date": "2018-04-10",
@@ -9917,6 +9917,36 @@
             "doi": "10.1016/S0370-2693(99)00173-2"
         },
         {
+            "title": "R<inf>K<sup>(\u204e)</sup></inf><sup>\u03bd</sup> and non-standard neutrino interactions",
+            "eid": "2-s2.0-85114168036",
+            "authors": [
+                {
+                    "scopus_id": "24306051200",
+                    "name": "He X.G.",
+                    "affiliation_id": [
+                        "60025084",
+                        "60005429"
+                    ]
+                },
+                {
+                    "scopus_id": "7005110494",
+                    "name": "Valencia G.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 18,
+            "publication_name": "Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics",
+            "issn": "03702693",
+            "cover_date": "2021-10-10",
+            "venue": "Journal",
+            "volume": "821",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.physletb.2021.136607"
+        },
+        {
             "title": "Constraining \u03c4-lepton dipole moments and gluon couplings at the LHC",
             "eid": "2-s2.0-84881279215",
             "authors": [
@@ -9984,15 +10014,30 @@
             "doi": "10.1007/JHEP12(2011)030"
         },
         {
-            "title": "R<inf>K<sup>(\u204e)</sup></inf><sup>\u03bd</sup> and non-standard neutrino interactions",
-            "eid": "2-s2.0-85114168036",
+            "title": "Evading the Grossman-Nir bound with \u2206I = 3/2 new physics",
+            "eid": "2-s2.0-85089226713",
             "authors": [
                 {
                     "scopus_id": "24306051200",
                     "name": "He X.G.",
                     "affiliation_id": [
-                        "60025084",
+                        "60005429",
+                        "60026071"
+                    ]
+                },
+                {
+                    "scopus_id": "57188846205",
+                    "name": "Ma X.D.",
+                    "affiliation_id": [
                         "60005429"
+                    ]
+                },
+                {
+                    "scopus_id": "6602792276",
+                    "name": "Tandean J.",
+                    "affiliation_id": [
+                        "60005429",
+                        "60026071"
                     ]
                 },
                 {
@@ -10004,14 +10049,14 @@
                 }
             ],
             "citations": 17,
-            "publication_name": "Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics",
-            "issn": "03702693",
-            "cover_date": "2021-10-10",
+            "publication_name": "Journal of High Energy Physics",
+            "issn": "11266708",
+            "cover_date": "2020-08-01",
             "venue": "Journal",
-            "volume": "821",
-            "issue": "",
+            "volume": "2020",
+            "issue": "8",
             "page_range": null,
-            "doi": "10.1016/j.physletb.2021.136607"
+            "doi": "10.1007/JHEP08(2020)034"
         },
         {
             "title": "Erratum: Z\u2192bb\u0304 decay asymmetry and left-right models (Physical Review D (2002) 66 (013004))",
@@ -10102,51 +10147,6 @@
             "issue": "1",
             "page_range": "23-46",
             "doi": "10.1016/0550-3213(91)90220-R"
-        },
-        {
-            "title": "Evading the Grossman-Nir bound with \u2206I = 3/2 new physics",
-            "eid": "2-s2.0-85089226713",
-            "authors": [
-                {
-                    "scopus_id": "24306051200",
-                    "name": "He X.G.",
-                    "affiliation_id": [
-                        "60005429",
-                        "60026071"
-                    ]
-                },
-                {
-                    "scopus_id": "57188846205",
-                    "name": "Ma X.D.",
-                    "affiliation_id": [
-                        "60005429"
-                    ]
-                },
-                {
-                    "scopus_id": "6602792276",
-                    "name": "Tandean J.",
-                    "affiliation_id": [
-                        "60005429",
-                        "60026071"
-                    ]
-                },
-                {
-                    "scopus_id": "7005110494",
-                    "name": "Valencia G.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                }
-            ],
-            "citations": 16,
-            "publication_name": "Journal of High Energy Physics",
-            "issn": "11266708",
-            "cover_date": "2020-08-01",
-            "venue": "Journal",
-            "volume": "2020",
-            "issue": "8",
-            "page_range": null,
-            "doi": "10.1007/JHEP08(2020)034"
         },
         {
             "title": "Breaking the Grossman-Nir bound in kaon decays",
@@ -10915,6 +10915,43 @@
             "doi": "10.1016/S0370-2693(03)00209-0"
         },
         {
+            "title": "FCNC B and K meson decays with light bosonic Dark Matter",
+            "eid": "2-s2.0-85150077640",
+            "authors": [
+                {
+                    "scopus_id": "24306051200",
+                    "name": "He X.G.",
+                    "affiliation_id": [
+                        "60025084",
+                        "60005429"
+                    ]
+                },
+                {
+                    "scopus_id": "57188846205",
+                    "name": "Ma X.D.",
+                    "affiliation_id": [
+                        "60025084"
+                    ]
+                },
+                {
+                    "scopus_id": "7005110494",
+                    "name": "Valencia G.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Journal of High Energy Physics",
+            "issn": "",
+            "cover_date": "2023-03-01",
+            "venue": "Journal",
+            "volume": "2023",
+            "issue": "3",
+            "page_range": null,
+            "doi": "10.1007/JHEP03(2023)037"
+        },
+        {
             "title": "Decay rate and asymmetries of \u03a3<sup>+</sup> \u2192 p\u03bc <sup>+</sup> \u03bc <sup>\u2212</sup>",
             "eid": "2-s2.0-85054478892",
             "authors": [
@@ -11076,43 +11113,6 @@
             "issue": "5",
             "page_range": "2717-2723",
             "doi": "10.1103/PhysRevD.52.2717"
-        },
-        {
-            "title": "FCNC B and K meson decays with light bosonic Dark Matter",
-            "eid": "2-s2.0-85150077640",
-            "authors": [
-                {
-                    "scopus_id": "24306051200",
-                    "name": "He X.G.",
-                    "affiliation_id": [
-                        "60025084",
-                        "60005429"
-                    ]
-                },
-                {
-                    "scopus_id": "57188846205",
-                    "name": "Ma X.D.",
-                    "affiliation_id": [
-                        "60025084"
-                    ]
-                },
-                {
-                    "scopus_id": "7005110494",
-                    "name": "Valencia G.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "Journal of High Energy Physics",
-            "issn": "",
-            "cover_date": "2023-03-01",
-            "venue": "Journal",
-            "volume": "2023",
-            "issue": "3",
-            "page_range": null,
-            "doi": "10.1007/JHEP03(2023)037"
         },
         {
             "title": "Yukawa sector for lepton flavor violating in h \u2192\u03bc\u03c4 and CP violation in h \u2192\u03c4\u03c4",
@@ -11830,6 +11830,44 @@
             "doi": "10.1103/PhysRevD.61.117501"
         },
         {
+            "title": "Revisiting models that enhance B+ \u2192k+\u03bd \u03bd \u00af in light of the new Belle II measurement",
+            "eid": "2-s2.0-85190329527",
+            "authors": [
+                {
+                    "scopus_id": "24306051200",
+                    "name": "He X.G.",
+                    "affiliation_id": [
+                        "60025084",
+                        "60005429"
+                    ]
+                },
+                {
+                    "scopus_id": "57188846205",
+                    "name": "Ma X.D.",
+                    "affiliation_id": [
+                        "60005816",
+                        "60005816"
+                    ]
+                },
+                {
+                    "scopus_id": "7005110494",
+                    "name": "Valencia G.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Physical Review D",
+            "issn": "24700010",
+            "cover_date": "2024-04-01",
+            "venue": "Journal",
+            "volume": "109",
+            "issue": "7",
+            "page_range": null,
+            "doi": "10.1103/PhysRevD.109.075019"
+        },
+        {
             "title": "Complementarity of \u03bcTRISTAN and Belle II in searches for charged-lepton flavour violation",
             "eid": "2-s2.0-85169835111",
             "authors": [
@@ -12220,44 +12258,6 @@
             "issue": "1-2",
             "page_range": "44-50",
             "doi": "10.1016/S0370-2693(01)00428-2"
-        },
-        {
-            "title": "Revisiting models that enhance B+ \u2192k+\u03bd \u03bd \u00af in light of the new Belle II measurement",
-            "eid": "2-s2.0-85190329527",
-            "authors": [
-                {
-                    "scopus_id": "24306051200",
-                    "name": "He X.G.",
-                    "affiliation_id": [
-                        "60025084",
-                        "60005429"
-                    ]
-                },
-                {
-                    "scopus_id": "57188846205",
-                    "name": "Ma X.D.",
-                    "affiliation_id": [
-                        "60005816",
-                        "60005816"
-                    ]
-                },
-                {
-                    "scopus_id": "7005110494",
-                    "name": "Valencia G.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                }
-            ],
-            "citations": 2,
-            "publication_name": "Physical Review D",
-            "issn": "24700010",
-            "cover_date": "2024-04-01",
-            "venue": "Journal",
-            "volume": "109",
-            "issue": "7",
-            "page_range": null,
-            "doi": "10.1103/PhysRevD.109.075019"
         },
         {
             "title": "Long-lived electroweak-singlet colored scalars",
@@ -13952,6 +13952,5 @@
             "$": "Engineering (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:03:42",
-    "c-score": null
+    "date fetched": "2024-07-12 19:32:16"
 }

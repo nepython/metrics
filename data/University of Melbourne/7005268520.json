@@ -203,7 +203,7 @@
                     ]
                 }
             ],
-            "citations": 6477,
+            "citations": 6483,
             "publication_name": "New England Journal of Medicine",
             "issn": "00284793",
             "cover_date": "2011-06-30",
@@ -437,7 +437,7 @@
                     ]
                 }
             ],
-            "citations": 5899,
+            "citations": 5907,
             "publication_name": "New England Journal of Medicine",
             "issn": "00284793",
             "cover_date": "2015-07-02",
@@ -530,7 +530,7 @@
                     ]
                 }
             ],
-            "citations": 3080,
+            "citations": 3081,
             "publication_name": "New England Journal of Medicine",
             "issn": "00284793",
             "cover_date": "2010-08-26",
@@ -778,7 +778,7 @@
                     ]
                 }
             ],
-            "citations": 2693,
+            "citations": 2699,
             "publication_name": "New England Journal of Medicine",
             "issn": "00284793",
             "cover_date": "2017-10-05",
@@ -1018,7 +1018,7 @@
                     ]
                 }
             ],
-            "citations": 2386,
+            "citations": 2396,
             "publication_name": "New England Journal of Medicine",
             "issn": "00284793",
             "cover_date": "2019-10-17",
@@ -1152,7 +1152,7 @@
                     ]
                 }
             ],
-            "citations": 2269,
+            "citations": 2270,
             "publication_name": "Lancet",
             "issn": "01406736",
             "cover_date": "2006-10-14",
@@ -1342,7 +1342,7 @@
                     ]
                 }
             ],
-            "citations": 1871,
+            "citations": 1872,
             "publication_name": "New England Journal of Medicine",
             "issn": "00284793",
             "cover_date": "2012-02-23",
@@ -1485,7 +1485,7 @@
                     ]
                 }
             ],
-            "citations": 1825,
+            "citations": 1829,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2010-12-16",
@@ -2109,7 +2109,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 1818,
+            "citations": 1827,
             "publication_name": "Cell",
             "issn": "00928674",
             "cover_date": "2018-04-05",
@@ -2257,7 +2257,7 @@
                     ]
                 }
             ],
-            "citations": 1689,
+            "citations": 1692,
             "publication_name": "New England Journal of Medicine",
             "issn": "00284793",
             "cover_date": "2014-11-13",
@@ -2589,7 +2589,7 @@
                     ]
                 }
             ],
-            "citations": 1613,
+            "citations": 1618,
             "publication_name": "CA Cancer Journal for Clinicians",
             "issn": "00079235",
             "cover_date": "2017-11-01",
@@ -2885,7 +2885,7 @@
                     ]
                 }
             ],
-            "citations": 1502,
+            "citations": 1504,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2010-09-30",
@@ -3047,7 +3047,7 @@
                     ]
                 }
             ],
-            "citations": 1063,
+            "citations": 1065,
             "publication_name": "Cancer Cell",
             "issn": "15356108",
             "cover_date": "2010-12-14",
@@ -3434,7 +3434,7 @@
                     ]
                 }
             ],
-            "citations": 927,
+            "citations": 928,
             "publication_name": "New England Journal of Medicine",
             "issn": "00284793",
             "cover_date": "2012-01-19",
@@ -3809,7 +3809,7 @@
                     ]
                 }
             ],
-            "citations": 794,
+            "citations": 795,
             "publication_name": "The Lancet Oncology",
             "issn": "14702045",
             "cover_date": "2016-09-01",
@@ -3913,7 +3913,7 @@
                     ]
                 }
             ],
-            "citations": 705,
+            "citations": 708,
             "publication_name": "The Lancet Oncology",
             "issn": "14702045",
             "cover_date": "2018-05-01",
@@ -4096,7 +4096,7 @@
                     ]
                 }
             ],
-            "citations": 678,
+            "citations": 679,
             "publication_name": "Journal of Clinical Oncology",
             "issn": "0732183X",
             "cover_date": "2013-02-10",
@@ -4166,7 +4166,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 635,
+            "citations": 636,
             "publication_name": "Journal of Clinical Oncology",
             "issn": "0732183X",
             "cover_date": "2010-09-20",
@@ -4384,7 +4384,7 @@
                     ]
                 }
             ],
-            "citations": 495,
+            "citations": 500,
             "publication_name": "Journal of Clinical Oncology",
             "issn": "0732183X",
             "cover_date": "2022-01-10",
@@ -4393,96 +4393,6 @@
             "issue": "2",
             "page_range": "127-137",
             "doi": "10.1200/JCO.21.02229"
-        },
-        {
-            "title": "A Microenvironment-Induced Myeloproliferative Syndrome Caused by Retinoic Acid Receptor \u03b3 Deficiency",
-            "eid": "2-s2.0-34250331610",
-            "authors": [
-                {
-                    "scopus_id": "6602631575",
-                    "name": "Walkley C.R.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553",
-                        "60014334"
-                    ]
-                },
-                {
-                    "scopus_id": "13604748100",
-                    "name": "Olsen G.H.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "7103273318",
-                    "name": "Dworkin S.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "6603420558",
-                    "name": "Fabb S.A.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "8289210700",
-                    "name": "Swann J.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.A.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553",
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "6701830029",
-                    "name": "Westmoreland S.V.",
-                    "affiliation_id": [
-                        "60029929"
-                    ]
-                },
-                {
-                    "scopus_id": "55429556800",
-                    "name": "Chambon P.",
-                    "affiliation_id": [
-                        "60017969"
-                    ]
-                },
-                {
-                    "scopus_id": "7004848033",
-                    "name": "Scadden D.T.",
-                    "affiliation_id": [
-                        "60008130"
-                    ]
-                },
-                {
-                    "scopus_id": "6701515104",
-                    "name": "Purton L.E.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60008130"
-                    ]
-                }
-            ],
-            "citations": 438,
-            "publication_name": "Cell",
-            "issn": "00928674",
-            "cover_date": "2007-06-15",
-            "venue": "Journal",
-            "volume": "129",
-            "issue": "6",
-            "page_range": "1097-1110",
-            "doi": "10.1016/j.cell.2007.05.014"
         },
         {
             "title": "Atezolizumab, vemurafenib, and cobimetinib as first-line treatment for unresectable advanced BRAF<sup>V600</sup> mutation-positive melanoma (IMspire150): primary analysis of the randomised, double-blind, placebo-controlled, phase 3 trial",
@@ -4606,7 +4516,7 @@
                     ]
                 }
             ],
-            "citations": 437,
+            "citations": 439,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2020-06-13",
@@ -4615,6 +4525,96 @@
             "issue": "10240",
             "page_range": "1835-1844",
             "doi": "10.1016/S0140-6736(20)30934-X"
+        },
+        {
+            "title": "A Microenvironment-Induced Myeloproliferative Syndrome Caused by Retinoic Acid Receptor \u03b3 Deficiency",
+            "eid": "2-s2.0-34250331610",
+            "authors": [
+                {
+                    "scopus_id": "6602631575",
+                    "name": "Walkley C.R.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553",
+                        "60014334"
+                    ]
+                },
+                {
+                    "scopus_id": "13604748100",
+                    "name": "Olsen G.H.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "7103273318",
+                    "name": "Dworkin S.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "6603420558",
+                    "name": "Fabb S.A.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "8289210700",
+                    "name": "Swann J.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.A.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553",
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "6701830029",
+                    "name": "Westmoreland S.V.",
+                    "affiliation_id": [
+                        "60029929"
+                    ]
+                },
+                {
+                    "scopus_id": "55429556800",
+                    "name": "Chambon P.",
+                    "affiliation_id": [
+                        "60017969"
+                    ]
+                },
+                {
+                    "scopus_id": "7004848033",
+                    "name": "Scadden D.T.",
+                    "affiliation_id": [
+                        "60008130"
+                    ]
+                },
+                {
+                    "scopus_id": "6701515104",
+                    "name": "Purton L.E.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60008130"
+                    ]
+                }
+            ],
+            "citations": 438,
+            "publication_name": "Cell",
+            "issn": "00928674",
+            "cover_date": "2007-06-15",
+            "venue": "Journal",
+            "volume": "129",
+            "issue": "6",
+            "page_range": "1097-1110",
+            "doi": "10.1016/j.cell.2007.05.014"
         },
         {
             "title": "Melanoma",
@@ -4707,7 +4707,7 @@
                     ]
                 }
             ],
-            "citations": 432,
+            "citations": 436,
             "publication_name": "Nature Reviews Disease Primers",
             "issn": "",
             "cover_date": "2015-04-23",
@@ -5117,7 +5117,7 @@
                     ]
                 }
             ],
-            "citations": 400,
+            "citations": 401,
             "publication_name": "Journal of Clinical Oncology",
             "issn": "0732183X",
             "cover_date": "2013-02-01",
@@ -6376,7 +6376,7 @@
                     ]
                 }
             ],
-            "citations": 254,
+            "citations": 255,
             "publication_name": "Cancer Research",
             "issn": "00085472",
             "cover_date": "2015-12-15",
@@ -6513,117 +6513,6 @@
             "issue": "3",
             "page_range": "1371-1381",
             "doi": "10.1172/JCI66236"
-        },
-        {
-            "title": "Survival of patients with advanced metastatic melanoma: the impact of novel therapies\u2013update 2017",
-            "eid": "2-s2.0-85026239318",
-            "authors": [
-                {
-                    "scopus_id": "7004180485",
-                    "name": "Ugurel S.",
-                    "affiliation_id": [
-                        "60007896"
-                    ]
-                },
-                {
-                    "scopus_id": "56008556200",
-                    "name": "R\u00f6hmel J.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "6701588348",
-                    "name": "Ascierto P.A.",
-                    "affiliation_id": [
-                        "60017517"
-                    ]
-                },
-                {
-                    "scopus_id": "7007127939",
-                    "name": "Flaherty K.T.",
-                    "affiliation_id": [
-                        "60029929"
-                    ]
-                },
-                {
-                    "scopus_id": "7101698405",
-                    "name": "Grob J.J.",
-                    "affiliation_id": [
-                        "60102127"
-                    ]
-                },
-                {
-                    "scopus_id": "7005722750",
-                    "name": "Hauschild A.",
-                    "affiliation_id": [
-                        "60005542"
-                    ]
-                },
-                {
-                    "scopus_id": "8762665400",
-                    "name": "Larkin J.",
-                    "affiliation_id": [
-                        "60017166"
-                    ]
-                },
-                {
-                    "scopus_id": "57202703641",
-                    "name": "Long G.V.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6604053967",
-                    "name": "Lorigan P.",
-                    "affiliation_id": [
-                        "60003771"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7005510490",
-                    "name": "Ribas A.",
-                    "affiliation_id": [
-                        "60027550"
-                    ]
-                },
-                {
-                    "scopus_id": "7202855356",
-                    "name": "Robert C.",
-                    "affiliation_id": [
-                        "60027386"
-                    ]
-                },
-                {
-                    "scopus_id": "56042878100",
-                    "name": "Schadendorf D.",
-                    "affiliation_id": [
-                        "60007896"
-                    ]
-                },
-                {
-                    "scopus_id": "57207895060",
-                    "name": "Garbe C.",
-                    "affiliation_id": [
-                        "60017246"
-                    ]
-                }
-            ],
-            "citations": 223,
-            "publication_name": "European Journal of Cancer",
-            "issn": "09598049",
-            "cover_date": "2017-09-01",
-            "venue": "Journal",
-            "volume": "83",
-            "issue": "",
-            "page_range": "247-257",
-            "doi": "10.1016/j.ejca.2017.06.028"
         },
         {
             "title": "Response of BRAF-mutant melanoma to BRAF inhibition is mediated by a network of transcriptional regulators of glycolysis",
@@ -6809,7 +6698,7 @@
                     ]
                 }
             ],
-            "citations": 223,
+            "citations": 225,
             "publication_name": "Cancer Discovery",
             "issn": "21598274",
             "cover_date": "2014-01-01",
@@ -6818,6 +6707,117 @@
             "issue": "4",
             "page_range": "423-433",
             "doi": "10.1158/2159-8290.CD-13-0440"
+        },
+        {
+            "title": "Survival of patients with advanced metastatic melanoma: the impact of novel therapies\u2013update 2017",
+            "eid": "2-s2.0-85026239318",
+            "authors": [
+                {
+                    "scopus_id": "7004180485",
+                    "name": "Ugurel S.",
+                    "affiliation_id": [
+                        "60007896"
+                    ]
+                },
+                {
+                    "scopus_id": "56008556200",
+                    "name": "R\u00f6hmel J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6701588348",
+                    "name": "Ascierto P.A.",
+                    "affiliation_id": [
+                        "60017517"
+                    ]
+                },
+                {
+                    "scopus_id": "7007127939",
+                    "name": "Flaherty K.T.",
+                    "affiliation_id": [
+                        "60029929"
+                    ]
+                },
+                {
+                    "scopus_id": "7101698405",
+                    "name": "Grob J.J.",
+                    "affiliation_id": [
+                        "60102127"
+                    ]
+                },
+                {
+                    "scopus_id": "7005722750",
+                    "name": "Hauschild A.",
+                    "affiliation_id": [
+                        "60005542"
+                    ]
+                },
+                {
+                    "scopus_id": "8762665400",
+                    "name": "Larkin J.",
+                    "affiliation_id": [
+                        "60017166"
+                    ]
+                },
+                {
+                    "scopus_id": "57202703641",
+                    "name": "Long G.V.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6604053967",
+                    "name": "Lorigan P.",
+                    "affiliation_id": [
+                        "60003771"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7005510490",
+                    "name": "Ribas A.",
+                    "affiliation_id": [
+                        "60027550"
+                    ]
+                },
+                {
+                    "scopus_id": "7202855356",
+                    "name": "Robert C.",
+                    "affiliation_id": [
+                        "60027386"
+                    ]
+                },
+                {
+                    "scopus_id": "56042878100",
+                    "name": "Schadendorf D.",
+                    "affiliation_id": [
+                        "60007896"
+                    ]
+                },
+                {
+                    "scopus_id": "57207895060",
+                    "name": "Garbe C.",
+                    "affiliation_id": [
+                        "60017246"
+                    ]
+                }
+            ],
+            "citations": 223,
+            "publication_name": "European Journal of Cancer",
+            "issn": "09598049",
+            "cover_date": "2017-09-01",
+            "venue": "Journal",
+            "volume": "83",
+            "issue": "",
+            "page_range": "247-257",
+            "doi": "10.1016/j.ejca.2017.06.028"
         },
         {
             "title": "Combination of vemurafenib and cobimetinib in patients with advanced BRAF<sup>V600</sup>-mutated melanoma: A phase 1b study",
@@ -6950,7 +6950,7 @@
                     ]
                 }
             ],
-            "citations": 219,
+            "citations": 220,
             "publication_name": "The Lancet Oncology",
             "issn": "14702045",
             "cover_date": "2014-01-01",
@@ -7331,6 +7331,146 @@
             "doi": "10.1111/j.1755-148X.2011.00873.x"
         },
         {
+            "title": "Vemurafenib in patients with BRAF<sup>V600</sup> mutation-positive metastatic melanoma: Final overall survival results of the randomized BRIM-3 study",
+            "eid": "2-s2.0-85030529396",
+            "authors": [
+                {
+                    "scopus_id": "7402618497",
+                    "name": "Chapman P.B.",
+                    "affiliation_id": [
+                        "60009343"
+                    ]
+                },
+                {
+                    "scopus_id": "7202855356",
+                    "name": "Robert C.",
+                    "affiliation_id": [
+                        "60106017"
+                    ]
+                },
+                {
+                    "scopus_id": "8762665400",
+                    "name": "Larkin J.",
+                    "affiliation_id": [
+                        "60017166"
+                    ]
+                },
+                {
+                    "scopus_id": "7003526080",
+                    "name": "Haanen J.B.",
+                    "affiliation_id": [
+                        "60015205"
+                    ]
+                },
+                {
+                    "scopus_id": "7005510490",
+                    "name": "Ribas A.",
+                    "affiliation_id": [
+                        "60005247"
+                    ]
+                },
+                {
+                    "scopus_id": "58420713200",
+                    "name": "Hogg D.",
+                    "affiliation_id": [
+                        "60014468"
+                    ]
+                },
+                {
+                    "scopus_id": "15122033700",
+                    "name": "Hamid O.",
+                    "affiliation_id": [
+                        "106937302"
+                    ]
+                },
+                {
+                    "scopus_id": "6701588348",
+                    "name": "Ascierto P.A.",
+                    "affiliation_id": [
+                        "60017517"
+                    ]
+                },
+                {
+                    "scopus_id": "7004229938",
+                    "name": "Testori A.",
+                    "affiliation_id": [
+                        "60030442"
+                    ]
+                },
+                {
+                    "scopus_id": "6604053967",
+                    "name": "Lorigan P.C.",
+                    "affiliation_id": [
+                        "60003771"
+                    ]
+                },
+                {
+                    "scopus_id": "57203210868",
+                    "name": "Dummer R.",
+                    "affiliation_id": [
+                        "60012614"
+                    ]
+                },
+                {
+                    "scopus_id": "55019593500",
+                    "name": "Sosman J.A.",
+                    "affiliation_id": [
+                        "60013227"
+                    ]
+                },
+                {
+                    "scopus_id": "7007127939",
+                    "name": "Flaherty K.T.",
+                    "affiliation_id": [
+                        "60029929"
+                    ]
+                },
+                {
+                    "scopus_id": "15051711400",
+                    "name": "Chang I.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "58326026900",
+                    "name": "Coleman S.",
+                    "affiliation_id": [
+                        "110050109"
+                    ]
+                },
+                {
+                    "scopus_id": "57198178610",
+                    "name": "Caro I.",
+                    "affiliation_id": [
+                        "60026209"
+                    ]
+                },
+                {
+                    "scopus_id": "7005722750",
+                    "name": "Hauschild A.",
+                    "affiliation_id": [
+                        "60005542"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.A.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 187,
+            "publication_name": "Annals of Oncology",
+            "issn": "09237534",
+            "cover_date": "2017-10-01",
+            "venue": "Journal",
+            "volume": "28",
+            "issue": "10",
+            "page_range": "2581-2587",
+            "doi": "10.1093/annonc/mdx339"
+        },
+        {
             "title": "Terminal osteoblast differentiation, mediated by runx2 and p27 <sup>KIP1</sup>, is disrupted in osteosarcoma",
             "eid": "2-s2.0-10344237022",
             "authors": [
@@ -7479,146 +7619,6 @@
             "issue": "5",
             "page_range": "925-934",
             "doi": "10.1083/jcb.200409187"
-        },
-        {
-            "title": "Vemurafenib in patients with BRAF<sup>V600</sup> mutation-positive metastatic melanoma: Final overall survival results of the randomized BRIM-3 study",
-            "eid": "2-s2.0-85030529396",
-            "authors": [
-                {
-                    "scopus_id": "7402618497",
-                    "name": "Chapman P.B.",
-                    "affiliation_id": [
-                        "60009343"
-                    ]
-                },
-                {
-                    "scopus_id": "7202855356",
-                    "name": "Robert C.",
-                    "affiliation_id": [
-                        "60106017"
-                    ]
-                },
-                {
-                    "scopus_id": "8762665400",
-                    "name": "Larkin J.",
-                    "affiliation_id": [
-                        "60017166"
-                    ]
-                },
-                {
-                    "scopus_id": "7003526080",
-                    "name": "Haanen J.B.",
-                    "affiliation_id": [
-                        "60015205"
-                    ]
-                },
-                {
-                    "scopus_id": "7005510490",
-                    "name": "Ribas A.",
-                    "affiliation_id": [
-                        "60005247"
-                    ]
-                },
-                {
-                    "scopus_id": "58420713200",
-                    "name": "Hogg D.",
-                    "affiliation_id": [
-                        "60014468"
-                    ]
-                },
-                {
-                    "scopus_id": "15122033700",
-                    "name": "Hamid O.",
-                    "affiliation_id": [
-                        "106937302"
-                    ]
-                },
-                {
-                    "scopus_id": "6701588348",
-                    "name": "Ascierto P.A.",
-                    "affiliation_id": [
-                        "60017517"
-                    ]
-                },
-                {
-                    "scopus_id": "7004229938",
-                    "name": "Testori A.",
-                    "affiliation_id": [
-                        "60030442"
-                    ]
-                },
-                {
-                    "scopus_id": "6604053967",
-                    "name": "Lorigan P.C.",
-                    "affiliation_id": [
-                        "60003771"
-                    ]
-                },
-                {
-                    "scopus_id": "57203210868",
-                    "name": "Dummer R.",
-                    "affiliation_id": [
-                        "60012614"
-                    ]
-                },
-                {
-                    "scopus_id": "55019593500",
-                    "name": "Sosman J.A.",
-                    "affiliation_id": [
-                        "60013227"
-                    ]
-                },
-                {
-                    "scopus_id": "7007127939",
-                    "name": "Flaherty K.T.",
-                    "affiliation_id": [
-                        "60029929"
-                    ]
-                },
-                {
-                    "scopus_id": "15051711400",
-                    "name": "Chang I.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "58326026900",
-                    "name": "Coleman S.",
-                    "affiliation_id": [
-                        "110050109"
-                    ]
-                },
-                {
-                    "scopus_id": "57198178610",
-                    "name": "Caro I.",
-                    "affiliation_id": [
-                        "60026209"
-                    ]
-                },
-                {
-                    "scopus_id": "7005722750",
-                    "name": "Hauschild A.",
-                    "affiliation_id": [
-                        "60005542"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.A.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 186,
-            "publication_name": "Annals of Oncology",
-            "issn": "09237534",
-            "cover_date": "2017-10-01",
-            "venue": "Journal",
-            "volume": "28",
-            "issue": "10",
-            "page_range": "2581-2587",
-            "doi": "10.1093/annonc/mdx339"
         },
         {
             "title": "An activating Pik3ca mutation coupled with Pten loss is sufficient to initiate ovarian tumorigenesis in mice",
@@ -7790,7 +7790,7 @@
                     ]
                 }
             ],
-            "citations": 174,
+            "citations": 175,
             "publication_name": "Journal of Clinical Investigation",
             "issn": "00219738",
             "cover_date": "2012-02-01",
@@ -8228,7 +8228,7 @@
                     ]
                 }
             ],
-            "citations": 167,
+            "citations": 168,
             "publication_name": "Annals of Oncology",
             "issn": "09237534",
             "cover_date": "2017-03-01",
@@ -8525,7 +8525,7 @@
                     ]
                 }
             ],
-            "citations": 161,
+            "citations": 163,
             "publication_name": "Journal of Cell Biology",
             "issn": "00219525",
             "cover_date": "2008-12-29",
@@ -13388,6 +13388,163 @@
             "doi": "10.1038/s41467-017-00728-9"
         },
         {
+            "title": "5-year outcomes with cobimetinib plus vemurafenib in BRAF<sup>V600</sup> mutation\u21d3positive advanced melanoma: Extended follow-up of the coBRIM study",
+            "eid": "2-s2.0-85117784071",
+            "authors": [
+                {
+                    "scopus_id": "6701588348",
+                    "name": "Ascierto P.A.",
+                    "affiliation_id": [
+                        "60017517"
+                    ]
+                },
+                {
+                    "scopus_id": "7103071780",
+                    "name": "Dreno B.",
+                    "affiliation_id": [
+                        "60032006"
+                    ]
+                },
+                {
+                    "scopus_id": "8762665400",
+                    "name": "Larkin J.",
+                    "affiliation_id": [
+                        "60027057"
+                    ]
+                },
+                {
+                    "scopus_id": "7005510490",
+                    "name": "Ribas A.",
+                    "affiliation_id": [
+                        "60005247"
+                    ]
+                },
+                {
+                    "scopus_id": "6603270541",
+                    "name": "Liszkay G.",
+                    "affiliation_id": [
+                        "60030923"
+                    ]
+                },
+                {
+                    "scopus_id": "7006725846",
+                    "name": "Maio M.",
+                    "affiliation_id": [
+                        "60082057"
+                    ]
+                },
+                {
+                    "scopus_id": "56425720400",
+                    "name": "Mandala M.",
+                    "affiliation_id": [
+                        "60138561"
+                    ]
+                },
+                {
+                    "scopus_id": "6602828686",
+                    "name": "Demidov L.",
+                    "affiliation_id": [
+                        "60069970"
+                    ]
+                },
+                {
+                    "scopus_id": "41662129900",
+                    "name": "Stroyakovskiy D.",
+                    "affiliation_id": [
+                        "127125062"
+                    ]
+                },
+                {
+                    "scopus_id": "7403526957",
+                    "name": "Thomas L.",
+                    "affiliation_id": [
+                        "60001780"
+                    ]
+                },
+                {
+                    "scopus_id": "6507232469",
+                    "name": "de la Cruz-Merino L.",
+                    "affiliation_id": [
+                        "60002196"
+                    ]
+                },
+                {
+                    "scopus_id": "36914581700",
+                    "name": "Atkinson V.",
+                    "affiliation_id": [
+                        "60025258",
+                        "126233510",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "8502132400",
+                    "name": "Dutriaux C.",
+                    "affiliation_id": [
+                        "60026122"
+                    ]
+                },
+                {
+                    "scopus_id": "57207895060",
+                    "name": "Garbe C.",
+                    "affiliation_id": [
+                        "60017246"
+                    ]
+                },
+                {
+                    "scopus_id": "56982295000",
+                    "name": "Hsu J.",
+                    "affiliation_id": [
+                        "60026209"
+                    ]
+                },
+                {
+                    "scopus_id": "57056854100",
+                    "name": "Jones S.",
+                    "affiliation_id": [
+                        "60026209"
+                    ]
+                },
+                {
+                    "scopus_id": "57218312598",
+                    "name": "Li H.",
+                    "affiliation_id": [
+                        "100363548"
+                    ]
+                },
+                {
+                    "scopus_id": "36608690200",
+                    "name": "McKenna E.",
+                    "affiliation_id": [
+                        "60026209"
+                    ]
+                },
+                {
+                    "scopus_id": "24578177400",
+                    "name": "Voulgari A.",
+                    "affiliation_id": [
+                        "60001946"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.A.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                }
+            ],
+            "citations": 87,
+            "publication_name": "Clinical Cancer Research",
+            "issn": "10780432",
+            "cover_date": "2021-10-01",
+            "venue": "Journal",
+            "volume": "27",
+            "issue": "19",
+            "page_range": "5225-5235",
+            "doi": "10.1158/1078-0432.CCR-21-0809"
+        },
+        {
             "title": "Survival of patients with advanced metastatic melanoma: The impact of MAP kinase pathway inhibition and immune checkpoint inhibition - Update 2019",
             "eid": "2-s2.0-85081238037",
             "authors": [
@@ -13682,228 +13839,6 @@
             "doi": "10.1158/2159-8290.CD-14-0673"
         },
         {
-            "title": "5-year outcomes with cobimetinib plus vemurafenib in BRAF<sup>V600</sup> mutation\u21d3positive advanced melanoma: Extended follow-up of the coBRIM study",
-            "eid": "2-s2.0-85117784071",
-            "authors": [
-                {
-                    "scopus_id": "6701588348",
-                    "name": "Ascierto P.A.",
-                    "affiliation_id": [
-                        "60017517"
-                    ]
-                },
-                {
-                    "scopus_id": "7103071780",
-                    "name": "Dreno B.",
-                    "affiliation_id": [
-                        "60032006"
-                    ]
-                },
-                {
-                    "scopus_id": "8762665400",
-                    "name": "Larkin J.",
-                    "affiliation_id": [
-                        "60027057"
-                    ]
-                },
-                {
-                    "scopus_id": "7005510490",
-                    "name": "Ribas A.",
-                    "affiliation_id": [
-                        "60005247"
-                    ]
-                },
-                {
-                    "scopus_id": "6603270541",
-                    "name": "Liszkay G.",
-                    "affiliation_id": [
-                        "60030923"
-                    ]
-                },
-                {
-                    "scopus_id": "7006725846",
-                    "name": "Maio M.",
-                    "affiliation_id": [
-                        "60082057"
-                    ]
-                },
-                {
-                    "scopus_id": "56425720400",
-                    "name": "Mandala M.",
-                    "affiliation_id": [
-                        "60138561"
-                    ]
-                },
-                {
-                    "scopus_id": "6602828686",
-                    "name": "Demidov L.",
-                    "affiliation_id": [
-                        "60069970"
-                    ]
-                },
-                {
-                    "scopus_id": "41662129900",
-                    "name": "Stroyakovskiy D.",
-                    "affiliation_id": [
-                        "127125062"
-                    ]
-                },
-                {
-                    "scopus_id": "7403526957",
-                    "name": "Thomas L.",
-                    "affiliation_id": [
-                        "60001780"
-                    ]
-                },
-                {
-                    "scopus_id": "6507232469",
-                    "name": "de la Cruz-Merino L.",
-                    "affiliation_id": [
-                        "60002196"
-                    ]
-                },
-                {
-                    "scopus_id": "36914581700",
-                    "name": "Atkinson V.",
-                    "affiliation_id": [
-                        "60025258",
-                        "126233510",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "8502132400",
-                    "name": "Dutriaux C.",
-                    "affiliation_id": [
-                        "60026122"
-                    ]
-                },
-                {
-                    "scopus_id": "57207895060",
-                    "name": "Garbe C.",
-                    "affiliation_id": [
-                        "60017246"
-                    ]
-                },
-                {
-                    "scopus_id": "56982295000",
-                    "name": "Hsu J.",
-                    "affiliation_id": [
-                        "60026209"
-                    ]
-                },
-                {
-                    "scopus_id": "57056854100",
-                    "name": "Jones S.",
-                    "affiliation_id": [
-                        "60026209"
-                    ]
-                },
-                {
-                    "scopus_id": "57218312598",
-                    "name": "Li H.",
-                    "affiliation_id": [
-                        "100363548"
-                    ]
-                },
-                {
-                    "scopus_id": "36608690200",
-                    "name": "McKenna E.",
-                    "affiliation_id": [
-                        "60026209"
-                    ]
-                },
-                {
-                    "scopus_id": "24578177400",
-                    "name": "Voulgari A.",
-                    "affiliation_id": [
-                        "60001946"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.A.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                }
-            ],
-            "citations": 86,
-            "publication_name": "Clinical Cancer Research",
-            "issn": "10780432",
-            "cover_date": "2021-10-01",
-            "venue": "Journal",
-            "volume": "27",
-            "issue": "19",
-            "page_range": "5225-5235",
-            "doi": "10.1158/1078-0432.CCR-21-0809"
-        },
-        {
-            "title": "Translational control of c-MYC by rapamycin promotes terminal myeloid differentiation",
-            "eid": "2-s2.0-55249084500",
-            "authors": [
-                {
-                    "scopus_id": "25633296200",
-                    "name": "Wall M.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "6507530635",
-                    "name": "Poortinga G.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "6701806258",
-                    "name": "Hannan K.M.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "7401904914",
-                    "name": "Pearson R.B.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7006328373",
-                    "name": "Hannan R.D.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.A.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553",
-                        "60033129",
-                        "60033129"
-                    ]
-                }
-            ],
-            "citations": 86,
-            "publication_name": "Blood",
-            "issn": "00064971",
-            "cover_date": "2008-09-15",
-            "venue": "Journal",
-            "volume": "112",
-            "issue": "6",
-            "page_range": "2305-2317",
-            "doi": "10.1182/blood-2007-09-111856"
-        },
-        {
             "title": "Identification of functional networks of estrogen- and c-Myc-responsive genes and their relationship to response to tamoxifen therapy in breast cancer",
             "eid": "2-s2.0-52149122077",
             "authors": [
@@ -14014,7 +13949,7 @@
                     ]
                 }
             ],
-            "citations": 86,
+            "citations": 87,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2008-08-20",
@@ -14023,6 +13958,71 @@
             "issue": "8",
             "page_range": null,
             "doi": "10.1371/journal.pone.0002987"
+        },
+        {
+            "title": "Translational control of c-MYC by rapamycin promotes terminal myeloid differentiation",
+            "eid": "2-s2.0-55249084500",
+            "authors": [
+                {
+                    "scopus_id": "25633296200",
+                    "name": "Wall M.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "6507530635",
+                    "name": "Poortinga G.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "6701806258",
+                    "name": "Hannan K.M.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "7401904914",
+                    "name": "Pearson R.B.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7006328373",
+                    "name": "Hannan R.D.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.A.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553",
+                        "60033129",
+                        "60033129"
+                    ]
+                }
+            ],
+            "citations": 86,
+            "publication_name": "Blood",
+            "issn": "00064971",
+            "cover_date": "2008-09-15",
+            "venue": "Journal",
+            "volume": "112",
+            "issue": "6",
+            "page_range": "2305-2317",
+            "doi": "10.1182/blood-2007-09-111856"
         },
         {
             "title": "Efficacy of anti-PD-1 therapy in patients with melanoma brain metastases",
@@ -14232,7 +14232,7 @@
                     ]
                 }
             ],
-            "citations": 84,
+            "citations": 85,
             "publication_name": "American Journal of Ophthalmology",
             "issn": "00029394",
             "cover_date": "2014-01-01",
@@ -14562,7 +14562,7 @@
                     ]
                 }
             ],
-            "citations": 80,
+            "citations": 81,
             "publication_name": "Cancer Epidemiology Biomarkers and Prevention",
             "issn": "10559965",
             "cover_date": "2011-06-01",
@@ -14571,6 +14571,29 @@
             "issue": "6",
             "page_range": "1230-1237",
             "doi": "10.1158/1055-9965.EPI-10-1262"
+        },
+        {
+            "title": "Molecularly targeted treatment for dermatofibrosarcoma protuberans",
+            "eid": "2-s2.0-2942668235",
+            "authors": [
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60033129"
+                    ]
+                }
+            ],
+            "citations": 79,
+            "publication_name": "Seminars in Oncology",
+            "issn": "00937754",
+            "cover_date": "2004-01-01",
+            "venue": "Journal",
+            "volume": "31",
+            "issue": "SUPPL. 6",
+            "page_range": "30-36",
+            "doi": "10.1053/j.seminoncol.2004.03.038"
         },
         {
             "title": "Multiplex immunohistochemistry accurately defines the immune context of metastatic melanoma",
@@ -14698,7 +14721,7 @@
                     ]
                 }
             ],
-            "citations": 79,
+            "citations": 78,
             "publication_name": "Scientific Reports",
             "issn": "",
             "cover_date": "2018-12-01",
@@ -14707,29 +14730,6 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1038/s41598-018-28944-3"
-        },
-        {
-            "title": "Molecularly targeted treatment for dermatofibrosarcoma protuberans",
-            "eid": "2-s2.0-2942668235",
-            "authors": [
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60033129"
-                    ]
-                }
-            ],
-            "citations": 79,
-            "publication_name": "Seminars in Oncology",
-            "issn": "00937754",
-            "cover_date": "2004-01-01",
-            "venue": "Journal",
-            "volume": "31",
-            "issue": "SUPPL. 6",
-            "page_range": "30-36",
-            "doi": "10.1053/j.seminoncol.2004.03.038"
         },
         {
             "title": "The state of melanoma: challenges and opportunities",
@@ -15610,7 +15610,7 @@
                     ]
                 }
             ],
-            "citations": 74,
+            "citations": 75,
             "publication_name": "Oncotarget",
             "issn": "",
             "cover_date": "2015-01-01",
@@ -16832,7 +16832,7 @@
                     "scopus_id": "7103103337",
                     "name": "Middleton M.R.",
                     "affiliation_id": [
-                        "60026851"
+                        "60002634"
                     ]
                 },
                 {
@@ -16952,49 +16952,6 @@
             "doi": "10.1093/annonc/mdv308"
         },
         {
-            "title": "Review: Mucosal melanoma of the head and neck",
-            "eid": "2-s2.0-79960703919",
-            "authors": [
-                {
-                    "scopus_id": "22950814600",
-                    "name": "Gavriel H.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "6701541398",
-                    "name": "Sizeland A.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "18334942500",
-                    "name": "Henderson M.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                }
-            ],
-            "citations": 65,
-            "publication_name": "Melanoma Research",
-            "issn": "09608931",
-            "cover_date": "2011-08-01",
-            "venue": "Journal",
-            "volume": "21",
-            "issue": "4",
-            "page_range": "257-266",
-            "doi": "10.1097/CMR.0b013e3283470ffd"
-        },
-        {
             "title": "A First-Time-In-Human Phase i Clinical Trial of Bispecific Antibody-Targeted, Paclitaxel-Packaged Bacterial Minicells",
             "eid": "2-s2.0-84957109484",
             "authors": [
@@ -17063,7 +17020,7 @@
                     ]
                 }
             ],
-            "citations": 64,
+            "citations": 65,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2015-12-01",
@@ -17072,6 +17029,49 @@
             "issue": "12",
             "page_range": null,
             "doi": "10.1371/journal.pone.0144559"
+        },
+        {
+            "title": "Review: Mucosal melanoma of the head and neck",
+            "eid": "2-s2.0-79960703919",
+            "authors": [
+                {
+                    "scopus_id": "22950814600",
+                    "name": "Gavriel H.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "6701541398",
+                    "name": "Sizeland A.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "18334942500",
+                    "name": "Henderson M.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                }
+            ],
+            "citations": 65,
+            "publication_name": "Melanoma Research",
+            "issn": "09608931",
+            "cover_date": "2011-08-01",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "4",
+            "page_range": "257-266",
+            "doi": "10.1097/CMR.0b013e3283470ffd"
         },
         {
             "title": "The genomic landscape of phaeochromocytoma",
@@ -17296,35 +17296,6 @@
             "doi": "10.1001/jamaoncol.2018.2668"
         },
         {
-            "title": "Targeting NRAS in melanoma",
-            "eid": "2-s2.0-84859463692",
-            "authors": [
-                {
-                    "scopus_id": "9634185300",
-                    "name": "Kelleher F.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                }
-            ],
-            "citations": 62,
-            "publication_name": "Cancer Journal",
-            "issn": "15289117",
-            "cover_date": "2012-03-01",
-            "venue": "Journal",
-            "volume": "18",
-            "issue": "2",
-            "page_range": "132-136",
-            "doi": "10.1097/PPO.0b013e31824ba4df"
-        },
-        {
             "title": "CDK4/6 inhibition promotes antitumor immunity through the induction of T-cell memory",
             "eid": "2-s2.0-85111037917",
             "authors": [
@@ -17514,7 +17485,7 @@
                     ]
                 }
             ],
-            "citations": 61,
+            "citations": 62,
             "publication_name": "Cancer Discovery",
             "issn": "21598274",
             "cover_date": "2021-10-01",
@@ -17523,6 +17494,35 @@
             "issue": "10",
             "page_range": "2582-2601",
             "doi": "10.1158/2159-8290.CD-20-1554"
+        },
+        {
+            "title": "Targeting NRAS in melanoma",
+            "eid": "2-s2.0-84859463692",
+            "authors": [
+                {
+                    "scopus_id": "9634185300",
+                    "name": "Kelleher F.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                }
+            ],
+            "citations": 62,
+            "publication_name": "Cancer Journal",
+            "issn": "15289117",
+            "cover_date": "2012-03-01",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "2",
+            "page_range": "132-136",
+            "doi": "10.1097/PPO.0b013e31824ba4df"
         },
         {
             "title": "Activity of trametinib in K601E and L597Q BRAF mutation-positive metastatic melanoma",
@@ -18887,6 +18887,100 @@
             "doi": "10.1158/2159-8290.CD-12-0404"
         },
         {
+            "title": "An inverse stage-shift model to estimate the excess mortality and health economic impact of delayed access to cancer services due to the COVID-19 pandemic",
+            "eid": "2-s2.0-85100769598",
+            "authors": [
+                {
+                    "scopus_id": "57193112733",
+                    "name": "Degeling K.",
+                    "affiliation_id": [
+                        "60024749",
+                        "60118547"
+                    ]
+                },
+                {
+                    "scopus_id": "7005893398",
+                    "name": "Baxter N.N.",
+                    "affiliation_id": [
+                        "60118547"
+                    ]
+                },
+                {
+                    "scopus_id": "55537174500",
+                    "name": "Emery J.",
+                    "affiliation_id": [
+                        "60024749"
+                    ]
+                },
+                {
+                    "scopus_id": "55507588400",
+                    "name": "Jenkins M.A.",
+                    "affiliation_id": [
+                        "60118547"
+                    ]
+                },
+                {
+                    "scopus_id": "55778743300",
+                    "name": "Franchini F.",
+                    "affiliation_id": [
+                        "60024749",
+                        "60118547",
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "56787932600",
+                    "name": "Gibbs P.",
+                    "affiliation_id": [
+                        "60027468",
+                        "60033351"
+                    ]
+                },
+                {
+                    "scopus_id": "7201974543",
+                    "name": "Mann G.B.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "7102257441",
+                    "name": "Solomon B.J.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "7003520840",
+                    "name": "IJzerman M.J.",
+                    "affiliation_id": [
+                        "60024749",
+                        "60118547",
+                        "60033129",
+                        "60020599"
+                    ]
+                }
+            ],
+            "citations": 57,
+            "publication_name": "Asia-Pacific Journal of Clinical Oncology",
+            "issn": "17437555",
+            "cover_date": "2021-08-01",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "4",
+            "page_range": "359-367",
+            "doi": "10.1111/ajco.13505"
+        },
+        {
             "title": "Association of 3 different antihypertensive medications with hip and pelvic fracture risk in older adults secondary analysis of a randomized clinical trial",
             "eid": "2-s2.0-85011294803",
             "authors": [
@@ -19620,100 +19714,6 @@
             "issue": "12",
             "page_range": "1696-1707",
             "doi": "10.1158/1541-7786.MCR-11-0312"
-        },
-        {
-            "title": "An inverse stage-shift model to estimate the excess mortality and health economic impact of delayed access to cancer services due to the COVID-19 pandemic",
-            "eid": "2-s2.0-85100769598",
-            "authors": [
-                {
-                    "scopus_id": "57193112733",
-                    "name": "Degeling K.",
-                    "affiliation_id": [
-                        "60024749",
-                        "60118547"
-                    ]
-                },
-                {
-                    "scopus_id": "7005893398",
-                    "name": "Baxter N.N.",
-                    "affiliation_id": [
-                        "60118547"
-                    ]
-                },
-                {
-                    "scopus_id": "55537174500",
-                    "name": "Emery J.",
-                    "affiliation_id": [
-                        "60024749"
-                    ]
-                },
-                {
-                    "scopus_id": "55507588400",
-                    "name": "Jenkins M.A.",
-                    "affiliation_id": [
-                        "60118547"
-                    ]
-                },
-                {
-                    "scopus_id": "55778743300",
-                    "name": "Franchini F.",
-                    "affiliation_id": [
-                        "60024749",
-                        "60118547",
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "56787932600",
-                    "name": "Gibbs P.",
-                    "affiliation_id": [
-                        "60027468",
-                        "60033351"
-                    ]
-                },
-                {
-                    "scopus_id": "7201974543",
-                    "name": "Mann G.B.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "7102257441",
-                    "name": "Solomon B.J.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "7003520840",
-                    "name": "IJzerman M.J.",
-                    "affiliation_id": [
-                        "60024749",
-                        "60118547",
-                        "60033129",
-                        "60020599"
-                    ]
-                }
-            ],
-            "citations": 56,
-            "publication_name": "Asia-Pacific Journal of Clinical Oncology",
-            "issn": "17437555",
-            "cover_date": "2021-08-01",
-            "venue": "Journal",
-            "volume": "17",
-            "issue": "4",
-            "page_range": "359-367",
-            "doi": "10.1111/ajco.13505"
         },
         {
             "title": "Radiotherapy complements immune checkpoint blockade",
@@ -21384,6 +21384,328 @@
             "doi": "10.1128/MCB.21.3.703-712.2001"
         },
         {
+            "title": "Evolution of late-stage metastatic melanoma is dominated by aneuploidy and whole genome doubling",
+            "eid": "2-s2.0-85102602915",
+            "authors": [
+                {
+                    "scopus_id": "22836776100",
+                    "name": "Vergara I.A.",
+                    "affiliation_id": [
+                        "60027468",
+                        "60033129",
+                        "60190566"
+                    ]
+                },
+                {
+                    "scopus_id": "55780153600",
+                    "name": "Mintoff C.P.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "35785010300",
+                    "name": "Sandhu S.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "56058077300",
+                    "name": "McIntosh L.",
+                    "affiliation_id": [
+                        "60027468",
+                        "60118644"
+                    ]
+                },
+                {
+                    "scopus_id": "36607104800",
+                    "name": "Young R.J.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "44761672700",
+                    "name": "Wong S.Q.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "37053705000",
+                    "name": "Colebatch A.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "57192067780",
+                    "name": "Cameron D.L.",
+                    "affiliation_id": [
+                        "60027468",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57222393026",
+                    "name": "Kwon J.L.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "7402000381",
+                    "name": "Wolfe R.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57189990182",
+                    "name": "Peng A.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "38461083200",
+                    "name": "Ellul J.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "57222391959",
+                    "name": "Dou X.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "12142081600",
+                    "name": "Fedele C.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "35112334800",
+                    "name": "Boyle S.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "57211721103",
+                    "name": "Arnau G.M.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "7005239401",
+                    "name": "Raleigh J.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "38361478800",
+                    "name": "Hatzimihalis A.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "57189994988",
+                    "name": "Szeto P.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "50561845300",
+                    "name": "Mooi J.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "36980792900",
+                    "name": "Widmer D.S.",
+                    "affiliation_id": [
+                        "60007456"
+                    ]
+                },
+                {
+                    "scopus_id": "55044692900",
+                    "name": "Cheng P.F.",
+                    "affiliation_id": [
+                        "60007456"
+                    ]
+                },
+                {
+                    "scopus_id": "56600454800",
+                    "name": "Amann V.",
+                    "affiliation_id": [
+                        "60007456"
+                    ]
+                },
+                {
+                    "scopus_id": "57203210868",
+                    "name": "Dummer R.",
+                    "affiliation_id": [
+                        "60007456"
+                    ]
+                },
+                {
+                    "scopus_id": "36804082100",
+                    "name": "Hayward N.",
+                    "affiliation_id": [
+                        "60190566",
+                        "60025029"
+                    ]
+                },
+                {
+                    "scopus_id": "31067595400",
+                    "name": "Wilmott J.",
+                    "affiliation_id": [
+                        "60190566"
+                    ]
+                },
+                {
+                    "scopus_id": "7007084989",
+                    "name": "Scolyer R.A.",
+                    "affiliation_id": [
+                        "60190566",
+                        "60018150",
+                        "60121699"
+                    ]
+                },
+                {
+                    "scopus_id": "7007054289",
+                    "name": "Cho R.J.",
+                    "affiliation_id": [
+                        "60031970"
+                    ]
+                },
+                {
+                    "scopus_id": "35271003200",
+                    "name": "Bowtell D.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57197502923",
+                    "name": "Thorne H.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "6507399277",
+                    "name": "Alsop K.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "57511214200",
+                    "name": "Cordner S.",
+                    "affiliation_id": [
+                        "60026849"
+                    ]
+                },
+                {
+                    "scopus_id": "9943924200",
+                    "name": "Woodford N.",
+                    "affiliation_id": [
+                        "60026849"
+                    ]
+                },
+                {
+                    "scopus_id": "6603611055",
+                    "name": "Leditschke J.",
+                    "affiliation_id": [
+                        "60026849"
+                    ]
+                },
+                {
+                    "scopus_id": "57222392124",
+                    "name": "O\u2019Brien P.",
+                    "affiliation_id": [
+                        "60026849"
+                    ]
+                },
+                {
+                    "scopus_id": "56839845600",
+                    "name": "Dawson S.J.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.A.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7201974520",
+                    "name": "Mann G.J.",
+                    "affiliation_id": [
+                        "60190566",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "24461650400",
+                    "name": "Levesque M.P.",
+                    "affiliation_id": [
+                        "60007456"
+                    ]
+                },
+                {
+                    "scopus_id": "6508111724",
+                    "name": "Papenfuss A.T.",
+                    "affiliation_id": [
+                        "60027468",
+                        "60033129",
+                        "60118644",
+                        "60026553",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7004295059",
+                    "name": "Shackleton M.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60012932",
+                        "60026553",
+                        "112663508"
+                    ]
+                }
+            ],
+            "citations": 45,
+            "publication_name": "Nature Communications",
+            "issn": "",
+            "cover_date": "2021-12-01",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1038/s41467-021-21576-8"
+        },
+        {
             "title": "<sup>18</sup>F-FDG PET/CT based spleen to liver ratio associates with clinical outcome to ipilimumab in patients with metastatic melanoma",
             "eid": "2-s2.0-85084787113",
             "authors": [
@@ -21811,328 +22133,6 @@
             "issue": "6",
             "page_range": "1798-1807",
             "doi": "10.1158/1078-0432.CCR-11-2094"
-        },
-        {
-            "title": "Evolution of late-stage metastatic melanoma is dominated by aneuploidy and whole genome doubling",
-            "eid": "2-s2.0-85102602915",
-            "authors": [
-                {
-                    "scopus_id": "22836776100",
-                    "name": "Vergara I.A.",
-                    "affiliation_id": [
-                        "60027468",
-                        "60033129",
-                        "60190566"
-                    ]
-                },
-                {
-                    "scopus_id": "55780153600",
-                    "name": "Mintoff C.P.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "35785010300",
-                    "name": "Sandhu S.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "56058077300",
-                    "name": "McIntosh L.",
-                    "affiliation_id": [
-                        "60027468",
-                        "60118644"
-                    ]
-                },
-                {
-                    "scopus_id": "36607104800",
-                    "name": "Young R.J.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "44761672700",
-                    "name": "Wong S.Q.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "37053705000",
-                    "name": "Colebatch A.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "57192067780",
-                    "name": "Cameron D.L.",
-                    "affiliation_id": [
-                        "60027468",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57222393026",
-                    "name": "Kwon J.L.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "7402000381",
-                    "name": "Wolfe R.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57189990182",
-                    "name": "Peng A.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "38461083200",
-                    "name": "Ellul J.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "57222391959",
-                    "name": "Dou X.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "12142081600",
-                    "name": "Fedele C.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "35112334800",
-                    "name": "Boyle S.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "57211721103",
-                    "name": "Arnau G.M.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "7005239401",
-                    "name": "Raleigh J.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "38361478800",
-                    "name": "Hatzimihalis A.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "57189994988",
-                    "name": "Szeto P.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "50561845300",
-                    "name": "Mooi J.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "36980792900",
-                    "name": "Widmer D.S.",
-                    "affiliation_id": [
-                        "60007456"
-                    ]
-                },
-                {
-                    "scopus_id": "55044692900",
-                    "name": "Cheng P.F.",
-                    "affiliation_id": [
-                        "60007456"
-                    ]
-                },
-                {
-                    "scopus_id": "56600454800",
-                    "name": "Amann V.",
-                    "affiliation_id": [
-                        "60007456"
-                    ]
-                },
-                {
-                    "scopus_id": "57203210868",
-                    "name": "Dummer R.",
-                    "affiliation_id": [
-                        "60007456"
-                    ]
-                },
-                {
-                    "scopus_id": "36804082100",
-                    "name": "Hayward N.",
-                    "affiliation_id": [
-                        "60190566",
-                        "60025029"
-                    ]
-                },
-                {
-                    "scopus_id": "31067595400",
-                    "name": "Wilmott J.",
-                    "affiliation_id": [
-                        "60190566"
-                    ]
-                },
-                {
-                    "scopus_id": "7007084989",
-                    "name": "Scolyer R.A.",
-                    "affiliation_id": [
-                        "60190566",
-                        "60018150",
-                        "60121699"
-                    ]
-                },
-                {
-                    "scopus_id": "7007054289",
-                    "name": "Cho R.J.",
-                    "affiliation_id": [
-                        "60031970"
-                    ]
-                },
-                {
-                    "scopus_id": "35271003200",
-                    "name": "Bowtell D.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57197502923",
-                    "name": "Thorne H.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "6507399277",
-                    "name": "Alsop K.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "57511214200",
-                    "name": "Cordner S.",
-                    "affiliation_id": [
-                        "60026849"
-                    ]
-                },
-                {
-                    "scopus_id": "9943924200",
-                    "name": "Woodford N.",
-                    "affiliation_id": [
-                        "60026849"
-                    ]
-                },
-                {
-                    "scopus_id": "6603611055",
-                    "name": "Leditschke J.",
-                    "affiliation_id": [
-                        "60026849"
-                    ]
-                },
-                {
-                    "scopus_id": "57222392124",
-                    "name": "O\u2019Brien P.",
-                    "affiliation_id": [
-                        "60026849"
-                    ]
-                },
-                {
-                    "scopus_id": "56839845600",
-                    "name": "Dawson S.J.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.A.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7201974520",
-                    "name": "Mann G.J.",
-                    "affiliation_id": [
-                        "60190566",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "24461650400",
-                    "name": "Levesque M.P.",
-                    "affiliation_id": [
-                        "60007456"
-                    ]
-                },
-                {
-                    "scopus_id": "6508111724",
-                    "name": "Papenfuss A.T.",
-                    "affiliation_id": [
-                        "60027468",
-                        "60033129",
-                        "60118644",
-                        "60026553",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7004295059",
-                    "name": "Shackleton M.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60012932",
-                        "60026553",
-                        "112663508"
-                    ]
-                }
-            ],
-            "citations": 44,
-            "publication_name": "Nature Communications",
-            "issn": "",
-            "cover_date": "2021-12-01",
-            "venue": "Journal",
-            "volume": "12",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1038/s41467-021-21576-8"
         },
         {
             "title": "Surveillance imaging with FDG-PET/CT in the post-operative follow-up of stage 3 melanoma",
@@ -23206,6 +23206,156 @@
             "doi": "10.1016/j.drudis.2013.08.012"
         },
         {
+            "title": "Overall survival with first-line atezolizumab in combination with vemurafenib and cobimetinib in BRAF<sup>V600</sup> mutation-positive advanced melanoma (IMspire150): second interim analysis of a multicentre, randomised, phase 3 study",
+            "eid": "2-s2.0-85145668962",
+            "authors": [
+                {
+                    "scopus_id": "6701588348",
+                    "name": "Ascierto P.A.",
+                    "affiliation_id": [
+                        "60017517"
+                    ]
+                },
+                {
+                    "scopus_id": "41662129900",
+                    "name": "Stroyakovskiy D.",
+                    "affiliation_id": [
+                        "60117722"
+                    ]
+                },
+                {
+                    "scopus_id": "7004140376",
+                    "name": "Gogas H.",
+                    "affiliation_id": [
+                        "60028900"
+                    ]
+                },
+                {
+                    "scopus_id": "7202855356",
+                    "name": "Robert C.",
+                    "affiliation_id": [
+                        "60027386",
+                        "60106017"
+                    ]
+                },
+                {
+                    "scopus_id": "8699548000",
+                    "name": "Lewis K.",
+                    "affiliation_id": [
+                        "60002393"
+                    ]
+                },
+                {
+                    "scopus_id": "6701618309",
+                    "name": "Protsenko S.",
+                    "affiliation_id": [
+                        "60070959"
+                    ]
+                },
+                {
+                    "scopus_id": "57217094752",
+                    "name": "Pereira R.P.",
+                    "affiliation_id": [
+                        "60014120"
+                    ]
+                },
+                {
+                    "scopus_id": "6603276213",
+                    "name": "Eigentler T.",
+                    "affiliation_id": [
+                        "60026245"
+                    ]
+                },
+                {
+                    "scopus_id": "7003612734",
+                    "name": "Rutkowski P.",
+                    "affiliation_id": [
+                        "60069013"
+                    ]
+                },
+                {
+                    "scopus_id": "6602828686",
+                    "name": "Demidov L.",
+                    "affiliation_id": [
+                        "60069970"
+                    ]
+                },
+                {
+                    "scopus_id": "57224133230",
+                    "name": "Zhukova N.",
+                    "affiliation_id": [
+                        "60031888"
+                    ]
+                },
+                {
+                    "scopus_id": "57212631328",
+                    "name": "Schachter J.",
+                    "affiliation_id": [
+                        "60011766"
+                    ]
+                },
+                {
+                    "scopus_id": "36986442900",
+                    "name": "Yan Y.",
+                    "affiliation_id": [
+                        "60026209"
+                    ]
+                },
+                {
+                    "scopus_id": "57198178610",
+                    "name": "Caro I.",
+                    "affiliation_id": [
+                        "60026209"
+                    ]
+                },
+                {
+                    "scopus_id": "57203975395",
+                    "name": "Hertig C.",
+                    "affiliation_id": [
+                        "60008201"
+                    ]
+                },
+                {
+                    "scopus_id": "57218676656",
+                    "name": "Xue C.",
+                    "affiliation_id": [
+                        "100363548"
+                    ]
+                },
+                {
+                    "scopus_id": "58043640300",
+                    "name": "Kusters L.",
+                    "affiliation_id": [
+                        "60008201"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.A.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "7003482860",
+                    "name": "Gutzmer R.",
+                    "affiliation_id": [
+                        "60024052",
+                        "60072292"
+                    ]
+                }
+            ],
+            "citations": 37,
+            "publication_name": "The Lancet Oncology",
+            "issn": "14702045",
+            "cover_date": "2023-01-01",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "1",
+            "page_range": "33-44",
+            "doi": "10.1016/S1470-2045(22)00687-8"
+        },
+        {
             "title": "Checkpoint inhibitors in melanoma and early phase development in solid tumors: What's the future?",
             "eid": "2-s2.0-85027143031",
             "authors": [
@@ -23559,156 +23709,6 @@
             "issue": "9",
             "page_range": "724-727",
             "doi": "10.1016/S1470-2045(05)70321-1"
-        },
-        {
-            "title": "Overall survival with first-line atezolizumab in combination with vemurafenib and cobimetinib in BRAF<sup>V600</sup> mutation-positive advanced melanoma (IMspire150): second interim analysis of a multicentre, randomised, phase 3 study",
-            "eid": "2-s2.0-85145668962",
-            "authors": [
-                {
-                    "scopus_id": "6701588348",
-                    "name": "Ascierto P.A.",
-                    "affiliation_id": [
-                        "60017517"
-                    ]
-                },
-                {
-                    "scopus_id": "41662129900",
-                    "name": "Stroyakovskiy D.",
-                    "affiliation_id": [
-                        "60117722"
-                    ]
-                },
-                {
-                    "scopus_id": "7004140376",
-                    "name": "Gogas H.",
-                    "affiliation_id": [
-                        "60028900"
-                    ]
-                },
-                {
-                    "scopus_id": "7202855356",
-                    "name": "Robert C.",
-                    "affiliation_id": [
-                        "60027386",
-                        "60106017"
-                    ]
-                },
-                {
-                    "scopus_id": "8699548000",
-                    "name": "Lewis K.",
-                    "affiliation_id": [
-                        "60002393"
-                    ]
-                },
-                {
-                    "scopus_id": "6701618309",
-                    "name": "Protsenko S.",
-                    "affiliation_id": [
-                        "60070959"
-                    ]
-                },
-                {
-                    "scopus_id": "57217094752",
-                    "name": "Pereira R.P.",
-                    "affiliation_id": [
-                        "60014120"
-                    ]
-                },
-                {
-                    "scopus_id": "6603276213",
-                    "name": "Eigentler T.",
-                    "affiliation_id": [
-                        "60026245"
-                    ]
-                },
-                {
-                    "scopus_id": "7003612734",
-                    "name": "Rutkowski P.",
-                    "affiliation_id": [
-                        "60069013"
-                    ]
-                },
-                {
-                    "scopus_id": "6602828686",
-                    "name": "Demidov L.",
-                    "affiliation_id": [
-                        "60069970"
-                    ]
-                },
-                {
-                    "scopus_id": "57224133230",
-                    "name": "Zhukova N.",
-                    "affiliation_id": [
-                        "60031888"
-                    ]
-                },
-                {
-                    "scopus_id": "57212631328",
-                    "name": "Schachter J.",
-                    "affiliation_id": [
-                        "60011766"
-                    ]
-                },
-                {
-                    "scopus_id": "36986442900",
-                    "name": "Yan Y.",
-                    "affiliation_id": [
-                        "60026209"
-                    ]
-                },
-                {
-                    "scopus_id": "57198178610",
-                    "name": "Caro I.",
-                    "affiliation_id": [
-                        "60026209"
-                    ]
-                },
-                {
-                    "scopus_id": "57203975395",
-                    "name": "Hertig C.",
-                    "affiliation_id": [
-                        "60008201"
-                    ]
-                },
-                {
-                    "scopus_id": "57218676656",
-                    "name": "Xue C.",
-                    "affiliation_id": [
-                        "100363548"
-                    ]
-                },
-                {
-                    "scopus_id": "58043640300",
-                    "name": "Kusters L.",
-                    "affiliation_id": [
-                        "60008201"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.A.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "7003482860",
-                    "name": "Gutzmer R.",
-                    "affiliation_id": [
-                        "60024052",
-                        "60072292"
-                    ]
-                }
-            ],
-            "citations": 36,
-            "publication_name": "The Lancet Oncology",
-            "issn": "14702045",
-            "cover_date": "2023-01-01",
-            "venue": "Journal",
-            "volume": "24",
-            "issue": "1",
-            "page_range": "33-44",
-            "doi": "10.1016/S1470-2045(22)00687-8"
         },
         {
             "title": "The role of BRAF mutations in primary melanoma growth rate and survival",
@@ -24553,6 +24553,57 @@
             "doi": "10.1182/blood-2003-07-2391"
         },
         {
+            "title": "Decline in cancer pathology notifications during the 2020 COVID-19-related restrictions in Victoria",
+            "eid": "2-s2.0-85101327190",
+            "authors": [
+                {
+                    "scopus_id": "23976899000",
+                    "name": "te Marvelde L.",
+                    "affiliation_id": [
+                        "60001052"
+                    ]
+                },
+                {
+                    "scopus_id": "7402000381",
+                    "name": "Wolfe R.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "57222082529",
+                    "name": "Blake L.A.",
+                    "affiliation_id": [
+                        "60001052"
+                    ]
+                },
+                {
+                    "scopus_id": "57203513337",
+                    "name": "Evans S.M.",
+                    "affiliation_id": [
+                        "60001052",
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 33,
+            "publication_name": "Medical Journal of Australia",
+            "issn": "0025729X",
+            "cover_date": "2021-04-01",
+            "venue": "Journal",
+            "volume": "214",
+            "issue": "6",
+            "page_range": "281-283",
+            "doi": "10.5694/mja2.50968"
+        },
+        {
             "title": "BRAF inhibition in BRAFV600E-positive anaplastic thyroid carcinoma",
             "eid": "2-s2.0-84961589293",
             "authors": [
@@ -24980,55 +25031,163 @@
             "doi": "10.1373/clinchem.2006.068205"
         },
         {
-            "title": "Decline in cancer pathology notifications during the 2020 COVID-19-related restrictions in Victoria",
-            "eid": "2-s2.0-85101327190",
+            "title": "Somatic hypermutation of the YAP oncogene in a human cutaneous melanoma",
+            "eid": "2-s2.0-85069267110",
             "authors": [
                 {
-                    "scopus_id": "23976899000",
-                    "name": "te Marvelde L.",
-                    "affiliation_id": [
-                        "60001052"
-                    ]
-                },
-                {
-                    "scopus_id": "7402000381",
-                    "name": "Wolfe R.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.",
+                    "scopus_id": "8299216200",
+                    "name": "Zhang X.",
                     "affiliation_id": [
                         "60033129"
                     ]
                 },
                 {
-                    "scopus_id": "57222082529",
-                    "name": "Blake L.A.",
+                    "scopus_id": "57210014399",
+                    "name": "Tang J.Z.",
                     "affiliation_id": [
-                        "60001052"
+                        "60033129",
+                        "60006925"
                     ]
                 },
                 {
-                    "scopus_id": "57203513337",
-                    "name": "Evans S.M.",
+                    "scopus_id": "22836776100",
+                    "name": "Vergara I.A.",
                     "affiliation_id": [
-                        "60001052",
-                        "60019578"
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "53882260700",
+                    "name": "Zhang Y.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60012932",
+                        "112663508"
+                    ]
+                },
+                {
+                    "scopus_id": "57189994988",
+                    "name": "Szeto P.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60012932",
+                        "112663508"
+                    ]
+                },
+                {
+                    "scopus_id": "57210015443",
+                    "name": "Yang L.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60122920"
+                    ]
+                },
+                {
+                    "scopus_id": "55780153600",
+                    "name": "Mintoff C.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "37053705000",
+                    "name": "Colebatch A.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "56058077300",
+                    "name": "McIntosh L.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60027468",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57184943000",
+                    "name": "Mitchell K.A.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "57210014867",
+                    "name": "Shaw E.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "6701780730",
+                    "name": "Rizos H.",
+                    "affiliation_id": [
+                        "60019544",
+                        "60190566"
+                    ]
+                },
+                {
+                    "scopus_id": "57202703641",
+                    "name": "Long G.V.",
+                    "affiliation_id": [
+                        "60190566"
+                    ]
+                },
+                {
+                    "scopus_id": "36804082100",
+                    "name": "Hayward N.",
+                    "affiliation_id": [
+                        "60190566",
+                        "60025029"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.A.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "6508111724",
+                    "name": "Papenfuss A.T.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60027468",
+                        "60026553",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102029938",
+                    "name": "Harvey K.F.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7004295059",
+                    "name": "Shackleton M.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60012932",
+                        "112663508"
                     ]
                 }
             ],
             "citations": 31,
-            "publication_name": "Medical Journal of Australia",
-            "issn": "0025729X",
-            "cover_date": "2021-04-01",
+            "publication_name": "Molecular Cancer Research",
+            "issn": "15417786",
+            "cover_date": "2019-07-01",
             "venue": "Journal",
-            "volume": "214",
-            "issue": "6",
-            "page_range": "281-283",
-            "doi": "10.5694/mja2.50968"
+            "volume": "17",
+            "issue": "7",
+            "page_range": "1435-1449",
+            "doi": "10.1158/1541-7786.MCR-18-0407"
         },
         {
             "title": "Gene expression profiling in BRAF-mutated melanoma reveals patient subgroups with poor outcomes to vemurafenib that may be overcome by cobimetinib plus vemurafenib",
@@ -25312,320 +25471,6 @@
             "doi": "10.18632/oncotarget.2466"
         },
         {
-            "title": "Somatic hypermutation of the YAP oncogene in a human cutaneous melanoma",
-            "eid": "2-s2.0-85069267110",
-            "authors": [
-                {
-                    "scopus_id": "8299216200",
-                    "name": "Zhang X.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "57210014399",
-                    "name": "Tang J.Z.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60006925"
-                    ]
-                },
-                {
-                    "scopus_id": "22836776100",
-                    "name": "Vergara I.A.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "53882260700",
-                    "name": "Zhang Y.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60012932",
-                        "112663508"
-                    ]
-                },
-                {
-                    "scopus_id": "57189994988",
-                    "name": "Szeto P.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60012932",
-                        "112663508"
-                    ]
-                },
-                {
-                    "scopus_id": "57210015443",
-                    "name": "Yang L.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60122920"
-                    ]
-                },
-                {
-                    "scopus_id": "55780153600",
-                    "name": "Mintoff C.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "37053705000",
-                    "name": "Colebatch A.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "56058077300",
-                    "name": "McIntosh L.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60027468",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57184943000",
-                    "name": "Mitchell K.A.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "57210014867",
-                    "name": "Shaw E.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "6701780730",
-                    "name": "Rizos H.",
-                    "affiliation_id": [
-                        "60019544",
-                        "60190566"
-                    ]
-                },
-                {
-                    "scopus_id": "57202703641",
-                    "name": "Long G.V.",
-                    "affiliation_id": [
-                        "60190566"
-                    ]
-                },
-                {
-                    "scopus_id": "36804082100",
-                    "name": "Hayward N.",
-                    "affiliation_id": [
-                        "60190566",
-                        "60025029"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.A.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "6508111724",
-                    "name": "Papenfuss A.T.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60027468",
-                        "60026553",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102029938",
-                    "name": "Harvey K.F.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7004295059",
-                    "name": "Shackleton M.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60012932",
-                        "112663508"
-                    ]
-                }
-            ],
-            "citations": 30,
-            "publication_name": "Molecular Cancer Research",
-            "issn": "15417786",
-            "cover_date": "2019-07-01",
-            "venue": "Journal",
-            "volume": "17",
-            "issue": "7",
-            "page_range": "1435-1449",
-            "doi": "10.1158/1541-7786.MCR-18-0407"
-        },
-        {
-            "title": "Prolonged disease control with MEK inhibitor in neurofibromatosis type I-associated glioblastoma",
-            "eid": "2-s2.0-84959258137",
-            "authors": [
-                {
-                    "scopus_id": "56117143000",
-                    "name": "Ameratunga M.",
-                    "affiliation_id": [
-                        "60005087"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "12445315500",
-                    "name": "Gan H.",
-                    "affiliation_id": [
-                        "60005087"
-                    ]
-                },
-                {
-                    "scopus_id": "6603717707",
-                    "name": "Cher L.",
-                    "affiliation_id": [
-                        "60005087"
-                    ]
-                }
-            ],
-            "citations": 30,
-            "publication_name": "Journal of Clinical Pharmacy and Therapeutics",
-            "issn": "02694727",
-            "cover_date": "2016-06-01",
-            "venue": "Journal",
-            "volume": "41",
-            "issue": "3",
-            "page_range": "357-359",
-            "doi": "10.1111/jcpt.12378"
-        },
-        {
-            "title": "Immunomodulatory Effects of BRAF, MEK, and CDK4/6 Inhibitors: Implications for Combining Targeted Therapy and Immune Checkpoint Blockade for the Treatment of Melanoma",
-            "eid": "2-s2.0-85106202976",
-            "authors": [
-                {
-                    "scopus_id": "57200169149",
-                    "name": "Lelliott E.J.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.A.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "8622262100",
-                    "name": "Oliaro J.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553",
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "7005286970",
-                    "name": "Sheppard K.E.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553",
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 29,
-            "publication_name": "Frontiers in Immunology",
-            "issn": "",
-            "cover_date": "2021-05-07",
-            "venue": "Journal",
-            "volume": "12",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.3389/fimmu.2021.661737"
-        },
-        {
-            "title": "Bevacizumab as a steroid-sparing agent during immunotherapy for melanoma brain metastases: A case series",
-            "eid": "2-s2.0-85077766530",
-            "authors": [
-                {
-                    "scopus_id": "56384148700",
-                    "name": "Banks P.D.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "37023282300",
-                    "name": "Lasocki A.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56366637900",
-                    "name": "Lau P.K.H.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "35785010300",
-                    "name": "Sandhu S.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7004295059",
-                    "name": "Shackleton M.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553",
-                        "60012932"
-                    ]
-                }
-            ],
-            "citations": 29,
-            "publication_name": "Health Science Reports",
-            "issn": "",
-            "cover_date": "2019-03-01",
-            "venue": "Journal",
-            "volume": "2",
-            "issue": "3",
-            "page_range": null,
-            "doi": "10.1002/hsr2.115"
-        },
-        {
             "title": "Changes in long-range rDNA-genomic interactions associate with altered RNA polymerase II gene programs during malignant transformation",
             "eid": "2-s2.0-85069168548",
             "authors": [
@@ -25761,7 +25606,7 @@
                     ]
                 }
             ],
-            "citations": 29,
+            "citations": 30,
             "publication_name": "Communications Biology",
             "issn": "",
             "cover_date": "2019-12-01",
@@ -25770,6 +25615,216 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1038/s42003-019-0284-y"
+        },
+        {
+            "title": "Prolonged disease control with MEK inhibitor in neurofibromatosis type I-associated glioblastoma",
+            "eid": "2-s2.0-84959258137",
+            "authors": [
+                {
+                    "scopus_id": "56117143000",
+                    "name": "Ameratunga M.",
+                    "affiliation_id": [
+                        "60005087"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "12445315500",
+                    "name": "Gan H.",
+                    "affiliation_id": [
+                        "60005087"
+                    ]
+                },
+                {
+                    "scopus_id": "6603717707",
+                    "name": "Cher L.",
+                    "affiliation_id": [
+                        "60005087"
+                    ]
+                }
+            ],
+            "citations": 30,
+            "publication_name": "Journal of Clinical Pharmacy and Therapeutics",
+            "issn": "02694727",
+            "cover_date": "2016-06-01",
+            "venue": "Journal",
+            "volume": "41",
+            "issue": "3",
+            "page_range": "357-359",
+            "doi": "10.1111/jcpt.12378"
+        },
+        {
+            "title": "Immunomodulatory Effects of BRAF, MEK, and CDK4/6 Inhibitors: Implications for Combining Targeted Therapy and Immune Checkpoint Blockade for the Treatment of Melanoma",
+            "eid": "2-s2.0-85106202976",
+            "authors": [
+                {
+                    "scopus_id": "57200169149",
+                    "name": "Lelliott E.J.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.A.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "8622262100",
+                    "name": "Oliaro J.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553",
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7005286970",
+                    "name": "Sheppard K.E.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553",
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "Frontiers in Immunology",
+            "issn": "",
+            "cover_date": "2021-05-07",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.3389/fimmu.2021.661737"
+        },
+        {
+            "title": "Obesity and the impact on cutaneous melanoma: Friend or foe?",
+            "eid": "2-s2.0-85088416872",
+            "authors": [
+                {
+                    "scopus_id": "55856421200",
+                    "name": "Smith L.K.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57210993319",
+                    "name": "Arabi S.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "57200169149",
+                    "name": "Lelliott E.J.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.A.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7005286970",
+                    "name": "Sheppard K.E.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553",
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "Cancers",
+            "issn": "",
+            "cover_date": "2020-06-01",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "6",
+            "page_range": "1-17",
+            "doi": "10.3390/cancers12061583"
+        },
+        {
+            "title": "Bevacizumab as a steroid-sparing agent during immunotherapy for melanoma brain metastases: A case series",
+            "eid": "2-s2.0-85077766530",
+            "authors": [
+                {
+                    "scopus_id": "56384148700",
+                    "name": "Banks P.D.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "37023282300",
+                    "name": "Lasocki A.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56366637900",
+                    "name": "Lau P.K.H.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "35785010300",
+                    "name": "Sandhu S.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7004295059",
+                    "name": "Shackleton M.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553",
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "Health Science Reports",
+            "issn": "",
+            "cover_date": "2019-03-01",
+            "venue": "Journal",
+            "volume": "2",
+            "issue": "3",
+            "page_range": null,
+            "doi": "10.1002/hsr2.115"
         },
         {
             "title": "Development and validation of prognostic nomograms for metastatic gastrointestinal stromal tumour treated with imatinib",
@@ -25931,61 +25986,6 @@
             "issue": "12",
             "page_range": "785-796",
             "doi": ""
-        },
-        {
-            "title": "Obesity and the impact on cutaneous melanoma: Friend or foe?",
-            "eid": "2-s2.0-85088416872",
-            "authors": [
-                {
-                    "scopus_id": "55856421200",
-                    "name": "Smith L.K.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57210993319",
-                    "name": "Arabi S.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "57200169149",
-                    "name": "Lelliott E.J.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.A.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7005286970",
-                    "name": "Sheppard K.E.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553",
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 28,
-            "publication_name": "Cancers",
-            "issn": "",
-            "cover_date": "2020-06-01",
-            "venue": "Journal",
-            "volume": "12",
-            "issue": "6",
-            "page_range": "1-17",
-            "doi": "10.3390/cancers12061583"
         },
         {
             "title": "Genomic features of exceptional response in vemurafenib cobimetinib\u2013treated patients with BRAF<sup>V600</sup>-mutated metastatic melanoma",
@@ -26859,7 +26859,7 @@
                     ]
                 }
             ],
-            "citations": 24,
+            "citations": 25,
             "publication_name": "Pharmacological Research",
             "issn": "10436618",
             "cover_date": "2016-05-01",
@@ -28927,7 +28927,7 @@
                     ]
                 },
                 {
-                    "scopus_id": "57502328000",
+                    "scopus_id": "57204249716",
                     "name": "Yeang H.A.",
                     "affiliation_id": [
                         "60033129"
@@ -31618,6 +31618,173 @@
             "doi": "10.4161/cc.4.7.1831"
         },
         {
+            "title": "APhase Ib/II Trial of CombinedBRAFand EGFR Inhibition in BRAF V600E Positive Metastatic Colorectal Cancer and Other Cancers: The EVICT (Erlotinib and Vemurafenib In Combination Trial) Study",
+            "eid": "2-s2.0-85150225532",
+            "authors": [
+                {
+                    "scopus_id": "57195988788",
+                    "name": "Tan L.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "34973462800",
+                    "name": "Tran B.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553",
+                        "60027468"
+                    ]
+                },
+                {
+                    "scopus_id": "16319718600",
+                    "name": "Tie J.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553",
+                        "60027468"
+                    ]
+                },
+                {
+                    "scopus_id": "25822682800",
+                    "name": "Markman B.",
+                    "affiliation_id": [
+                        "60015711"
+                    ]
+                },
+                {
+                    "scopus_id": "22940215400",
+                    "name": "Ananda S.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "6602501123",
+                    "name": "Tebbutt N.C.",
+                    "affiliation_id": [
+                        "60005087"
+                    ]
+                },
+                {
+                    "scopus_id": "57211284397",
+                    "name": "Michael M.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "40761609900",
+                    "name": "Link E.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553",
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "44761672700",
+                    "name": "Wong S.Q.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57219377099",
+                    "name": "Chandrashekar S.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "57195759329",
+                    "name": "Guinto J.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "7201711011",
+                    "name": "Ritchie D.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60005245",
+                        "60005245",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "15728038600",
+                    "name": "Koldej R.",
+                    "affiliation_id": [
+                        "60005245",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102257441",
+                    "name": "Solomon B.J.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.A.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7401608614",
+                    "name": "Hicks R.J.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56787932600",
+                    "name": "Gibbs P.",
+                    "affiliation_id": [
+                        "60027468"
+                    ]
+                },
+                {
+                    "scopus_id": "56839845600",
+                    "name": "Dawson S.J.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "8591952600",
+                    "name": "Desai J.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Clinical Cancer Research",
+            "issn": "10780432",
+            "cover_date": "2023-03-15",
+            "venue": "Journal",
+            "volume": "29",
+            "issue": "6",
+            "page_range": "1017-1030",
+            "doi": "10.1158/1078-0432.CCR-22-3094"
+        },
+        {
             "title": "Real-world treatment patterns and outcomes among metastatic cutaneous melanoma patients treated with ipilimumab",
             "eid": "2-s2.0-85033599122",
             "authors": [
@@ -31803,173 +31970,6 @@
             "issue": "20 PART 1",
             "page_range": "6205-6206",
             "doi": "10.1158/1078-0432.CCR-06-1079"
-        },
-        {
-            "title": "APhase Ib/II Trial of CombinedBRAFand EGFR Inhibition in BRAF V600E Positive Metastatic Colorectal Cancer and Other Cancers: The EVICT (Erlotinib and Vemurafenib In Combination Trial) Study",
-            "eid": "2-s2.0-85150225532",
-            "authors": [
-                {
-                    "scopus_id": "57195988788",
-                    "name": "Tan L.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "34973462800",
-                    "name": "Tran B.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553",
-                        "60027468"
-                    ]
-                },
-                {
-                    "scopus_id": "16319718600",
-                    "name": "Tie J.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553",
-                        "60027468"
-                    ]
-                },
-                {
-                    "scopus_id": "25822682800",
-                    "name": "Markman B.",
-                    "affiliation_id": [
-                        "60015711"
-                    ]
-                },
-                {
-                    "scopus_id": "22940215400",
-                    "name": "Ananda S.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "6602501123",
-                    "name": "Tebbutt N.C.",
-                    "affiliation_id": [
-                        "60005087"
-                    ]
-                },
-                {
-                    "scopus_id": "57211284397",
-                    "name": "Michael M.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "40761609900",
-                    "name": "Link E.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553",
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "44761672700",
-                    "name": "Wong S.Q.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57219377099",
-                    "name": "Chandrashekar S.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "57195759329",
-                    "name": "Guinto J.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "7201711011",
-                    "name": "Ritchie D.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60005245",
-                        "60005245",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "15728038600",
-                    "name": "Koldej R.",
-                    "affiliation_id": [
-                        "60005245",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102257441",
-                    "name": "Solomon B.J.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.A.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7401608614",
-                    "name": "Hicks R.J.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56787932600",
-                    "name": "Gibbs P.",
-                    "affiliation_id": [
-                        "60027468"
-                    ]
-                },
-                {
-                    "scopus_id": "56839845600",
-                    "name": "Dawson S.J.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "8591952600",
-                    "name": "Desai J.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 12,
-            "publication_name": "Clinical Cancer Research",
-            "issn": "10780432",
-            "cover_date": "2023-03-15",
-            "venue": "Journal",
-            "volume": "29",
-            "issue": "6",
-            "page_range": "1017-1030",
-            "doi": "10.1158/1078-0432.CCR-22-3094"
         },
         {
             "title": "Triplet Therapy in Melanoma \u2014 Combined BRAF/MEK Inhibitors and Anti-PD-(L)1 Antibodies",
@@ -32499,7 +32499,7 @@
                     "scopus_id": "57198063440",
                     "name": "Stroncek D.",
                     "affiliation_id": [
-                        "60006577"
+                        "60016257"
                     ]
                 },
                 {
@@ -34238,6 +34238,291 @@
             "doi": "10.1007/s10549-008-0083-5"
         },
         {
+            "title": "Tissue-resident memory T cells from a metastatic vaginal melanoma patient are tumor-responsive T cells and increase after anti-PD-1 treatment",
+            "eid": "2-s2.0-85130636955",
+            "authors": [
+                {
+                    "scopus_id": "21934793100",
+                    "name": "Pizzolla A.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "56330275700",
+                    "name": "Keam S.P.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60033129",
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "22836776100",
+                    "name": "Vergara I.A.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60190566",
+                        "60010710"
+                    ]
+                },
+                {
+                    "scopus_id": "56346626100",
+                    "name": "Caramia F.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "57210883595",
+                    "name": "Thio N.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "57190385139",
+                    "name": "Wang M.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57221340319",
+                    "name": "Kocovski N.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "56730870700",
+                    "name": "Tantalo D.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "57200632320",
+                    "name": "Jabbari J.",
+                    "affiliation_id": [
+                        "60101168"
+                    ]
+                },
+                {
+                    "scopus_id": "54998813200",
+                    "name": "Au-Yeung G.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "35785010300",
+                    "name": "Sandhu S.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "6507644785",
+                    "name": "Gyorki D.E.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "57211575329",
+                    "name": "Weppler A.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "16679561700",
+                    "name": "Perdicchio M.",
+                    "affiliation_id": [
+                        "60008201"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.A.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "6508111724",
+                    "name": "Papenfuss A.T.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57211720743",
+                    "name": "Neeson P.J.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Journal for immunotherapy of cancer",
+            "issn": "",
+            "cover_date": "2022-05-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "5",
+            "page_range": null,
+            "doi": "10.1136/jitc-2022-004574"
+        },
+        {
+            "title": "Characterization of the treatment-naive immune microenvironment in melanoma with BRAF mutation",
+            "eid": "2-s2.0-85127639675",
+            "authors": [
+                {
+                    "scopus_id": "57190385139",
+                    "name": "Wang M.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57219825227",
+                    "name": "Zadeh S.",
+                    "affiliation_id": [
+                        "60027468",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "21934793100",
+                    "name": "Pizzolla A.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "6602898130",
+                    "name": "Thia K.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "6507644785",
+                    "name": "Gyorki D.E.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.A.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "7007084989",
+                    "name": "Scolyer R.A.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60018150"
+                    ]
+                },
+                {
+                    "scopus_id": "57202703641",
+                    "name": "Long G.",
+                    "affiliation_id": [
+                        "60190566",
+                        "60006974"
+                    ]
+                },
+                {
+                    "scopus_id": "31067595400",
+                    "name": "Wilmott J.S.",
+                    "affiliation_id": [
+                        "60190566",
+                        "60010710"
+                    ]
+                },
+                {
+                    "scopus_id": "55914097500",
+                    "name": "Andrews M.C.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "54998813200",
+                    "name": "Au-Yeung G.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "57706138800",
+                    "name": "Weppler A.",
+                    "affiliation_id": [
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "35785010300",
+                    "name": "Sandhu S.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60033129"
+                    ]
+                },
+                {
+                    "scopus_id": "7005668641",
+                    "name": "Trapani J.A.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "35419216300",
+                    "name": "Davis M.J.",
+                    "affiliation_id": [
+                        "60027468",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57211720743",
+                    "name": "Neeson P.J.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Journal for ImmunoTherapy of Cancer",
+            "issn": "",
+            "cover_date": "2022-04-05",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "4",
+            "page_range": null,
+            "doi": "10.1136/jitc-2021-004095"
+        },
+        {
             "title": "Is resistance to targeted therapy in cancer inevitable?",
             "eid": "2-s2.0-85113874747",
             "authors": [
@@ -34552,291 +34837,6 @@
             "issue": "2",
             "page_range": "235-243",
             "doi": "10.1189/jlb.1211609"
-        },
-        {
-            "title": "Tissue-resident memory T cells from a metastatic vaginal melanoma patient are tumor-responsive T cells and increase after anti-PD-1 treatment",
-            "eid": "2-s2.0-85130636955",
-            "authors": [
-                {
-                    "scopus_id": "21934793100",
-                    "name": "Pizzolla A.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "56330275700",
-                    "name": "Keam S.P.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60033129",
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "22836776100",
-                    "name": "Vergara I.A.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60190566",
-                        "60010710"
-                    ]
-                },
-                {
-                    "scopus_id": "56346626100",
-                    "name": "Caramia F.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "57210883595",
-                    "name": "Thio N.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "57190385139",
-                    "name": "Wang M.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57221340319",
-                    "name": "Kocovski N.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "56730870700",
-                    "name": "Tantalo D.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "57200632320",
-                    "name": "Jabbari J.",
-                    "affiliation_id": [
-                        "60101168"
-                    ]
-                },
-                {
-                    "scopus_id": "54998813200",
-                    "name": "Au-Yeung G.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "35785010300",
-                    "name": "Sandhu S.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "6507644785",
-                    "name": "Gyorki D.E.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "57211575329",
-                    "name": "Weppler A.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "16679561700",
-                    "name": "Perdicchio M.",
-                    "affiliation_id": [
-                        "60008201"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.A.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "6508111724",
-                    "name": "Papenfuss A.T.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57211720743",
-                    "name": "Neeson P.J.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 7,
-            "publication_name": "Journal for immunotherapy of cancer",
-            "issn": "",
-            "cover_date": "2022-05-01",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "5",
-            "page_range": null,
-            "doi": "10.1136/jitc-2022-004574"
-        },
-        {
-            "title": "Characterization of the treatment-naive immune microenvironment in melanoma with BRAF mutation",
-            "eid": "2-s2.0-85127639675",
-            "authors": [
-                {
-                    "scopus_id": "57190385139",
-                    "name": "Wang M.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57219825227",
-                    "name": "Zadeh S.",
-                    "affiliation_id": [
-                        "60027468",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "21934793100",
-                    "name": "Pizzolla A.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "6602898130",
-                    "name": "Thia K.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "6507644785",
-                    "name": "Gyorki D.E.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.A.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "7007084989",
-                    "name": "Scolyer R.A.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60018150"
-                    ]
-                },
-                {
-                    "scopus_id": "57202703641",
-                    "name": "Long G.",
-                    "affiliation_id": [
-                        "60190566",
-                        "60006974"
-                    ]
-                },
-                {
-                    "scopus_id": "31067595400",
-                    "name": "Wilmott J.S.",
-                    "affiliation_id": [
-                        "60190566",
-                        "60010710"
-                    ]
-                },
-                {
-                    "scopus_id": "55914097500",
-                    "name": "Andrews M.C.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "54998813200",
-                    "name": "Au-Yeung G.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "57706138800",
-                    "name": "Weppler A.",
-                    "affiliation_id": [
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "35785010300",
-                    "name": "Sandhu S.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60033129"
-                    ]
-                },
-                {
-                    "scopus_id": "7005668641",
-                    "name": "Trapani J.A.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "35419216300",
-                    "name": "Davis M.J.",
-                    "affiliation_id": [
-                        "60027468",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57211720743",
-                    "name": "Neeson P.J.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 7,
-            "publication_name": "Journal for ImmunoTherapy of Cancer",
-            "issn": "",
-            "cover_date": "2022-04-05",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "4",
-            "page_range": null,
-            "doi": "10.1136/jitc-2021-004095"
         },
         {
             "title": "A Distinct Pretreatment Immune Gene Signature in Lentigo Maligna Is Associated with Imiquimod Response",
@@ -35431,6 +35431,251 @@
             "doi": "10.1016/S0360-3016(03)00512-1"
         },
         {
+            "title": "Cutaneous Melanoma, Sixth Edition",
+            "eid": "2-s2.0-85150576083",
+            "authors": [
+                {
+                    "scopus_id": "7102009953",
+                    "name": "Balch C.M.",
+                    "affiliation_id": [
+                        "60015023"
+                    ]
+                },
+                {
+                    "scopus_id": "57201757808",
+                    "name": "Atkins M.B.",
+                    "affiliation_id": [
+                        "60020908",
+                        "60021191"
+                    ]
+                },
+                {
+                    "scopus_id": "57207895060",
+                    "name": "Garbe C.",
+                    "affiliation_id": [
+                        "60017246"
+                    ]
+                },
+                {
+                    "scopus_id": "55630340500",
+                    "name": "Gershenwald J.E.",
+                    "affiliation_id": [
+                        "60015023"
+                    ]
+                },
+                {
+                    "scopus_id": "7103054781",
+                    "name": "Halpern A.C.",
+                    "affiliation_id": [
+                        "60009343"
+                    ]
+                },
+                {
+                    "scopus_id": "35395980200",
+                    "name": "Kirkwood J.M.",
+                    "affiliation_id": [
+                        "60026906"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.A.",
+                    "affiliation_id": [
+                        "60033129",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "59055495900",
+                    "name": "Thompson J.F.",
+                    "affiliation_id": [
+                        "60010710",
+                        "60018150"
+                    ]
+                },
+                {
+                    "scopus_id": "7006492833",
+                    "name": "Sober A.J.",
+                    "affiliation_id": [
+                        "60002746"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Cutaneous Melanoma, Sixth Edition",
+            "issn": "",
+            "cover_date": "2020-01-01",
+            "venue": "Book",
+            "volume": "1",
+            "issue": "",
+            "page_range": "1-1510",
+            "doi": "10.1007/978-3-030-05070-2"
+        },
+        {
+            "title": "Efficacy and toxicity of adjuvant radiotherapy in recurrent melanoma after adjuvant immunotherapy",
+            "eid": "2-s2.0-85149701411",
+            "authors": [
+                {
+                    "scopus_id": "56513603000",
+                    "name": "Bhave P.",
+                    "affiliation_id": [
+                        "60004437",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57203167509",
+                    "name": "Hong A.",
+                    "affiliation_id": [
+                        "60190566",
+                        "60010710"
+                    ]
+                },
+                {
+                    "scopus_id": "55577353100",
+                    "name": "Lo S.N.",
+                    "affiliation_id": [
+                        "60190566"
+                    ]
+                },
+                {
+                    "scopus_id": "7407017613",
+                    "name": "Johnson R.",
+                    "affiliation_id": [
+                        "60190566"
+                    ]
+                },
+                {
+                    "scopus_id": "25027986400",
+                    "name": "Mangana J.",
+                    "affiliation_id": [
+                        "60007456"
+                    ]
+                },
+                {
+                    "scopus_id": "57226535383",
+                    "name": "Johnson D.B.",
+                    "affiliation_id": [
+                        "60030769"
+                    ]
+                },
+                {
+                    "scopus_id": "58539451900",
+                    "name": "Dulgar O.",
+                    "affiliation_id": [
+                        "60004803"
+                    ]
+                },
+                {
+                    "scopus_id": "54401014900",
+                    "name": "Eroglu Z.",
+                    "affiliation_id": [
+                        "60004803"
+                    ]
+                },
+                {
+                    "scopus_id": "57195128761",
+                    "name": "Yeoh H.L.",
+                    "affiliation_id": [
+                        "60008014"
+                    ]
+                },
+                {
+                    "scopus_id": "6602412121",
+                    "name": "Haydon A.",
+                    "affiliation_id": [
+                        "60008014"
+                    ]
+                },
+                {
+                    "scopus_id": "57211849273",
+                    "name": "Lodde G.C.",
+                    "affiliation_id": [
+                        "60014264"
+                    ]
+                },
+                {
+                    "scopus_id": "24465712400",
+                    "name": "Livingstone E.",
+                    "affiliation_id": [
+                        "60014264"
+                    ]
+                },
+                {
+                    "scopus_id": "57534243600",
+                    "name": "Khattak A.",
+                    "affiliation_id": [
+                        "60138677"
+                    ]
+                },
+                {
+                    "scopus_id": "14013416500",
+                    "name": "K\u00e4hler K.",
+                    "affiliation_id": [
+                        "60005542"
+                    ]
+                },
+                {
+                    "scopus_id": "58134642500",
+                    "name": "Hausschild A.",
+                    "affiliation_id": [
+                        "60005542"
+                    ]
+                },
+                {
+                    "scopus_id": "7005268520",
+                    "name": "McArthur G.A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "39561316900",
+                    "name": "Menzies A.M.",
+                    "affiliation_id": [
+                        "60190566",
+                        "60010710",
+                        "122115092"
+                    ]
+                },
+                {
+                    "scopus_id": "57202703641",
+                    "name": "Long G.",
+                    "affiliation_id": [
+                        "60190566",
+                        "60010710",
+                        "122115092"
+                    ]
+                },
+                {
+                    "scopus_id": "59104891000",
+                    "name": "Wang W.",
+                    "affiliation_id": [
+                        "60004437",
+                        "60190566"
+                    ]
+                },
+                {
+                    "scopus_id": "55176994200",
+                    "name": "Carlino M.S.",
+                    "affiliation_id": [
+                        "60004437",
+                        "60190566",
+                        "60013540"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Journal for ImmunoTherapy of Cancer",
+            "issn": "",
+            "cover_date": "2023-03-08",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "3",
+            "page_range": null,
+            "doi": "10.1136/jitc-2022-006629"
+        },
+        {
             "title": "BRAF mutation testing for patients diagnosed with stage III or stage IV melanoma: practical guidance for the Australian setting",
             "eid": "2-s2.0-85121516578",
             "authors": [
@@ -35977,251 +36222,6 @@
             "issue": "24",
             "page_range": null,
             "doi": "10.3390/cancers13246342"
-        },
-        {
-            "title": "Cutaneous Melanoma, Sixth Edition",
-            "eid": "2-s2.0-85150576083",
-            "authors": [
-                {
-                    "scopus_id": "7102009953",
-                    "name": "Balch C.M.",
-                    "affiliation_id": [
-                        "60015023"
-                    ]
-                },
-                {
-                    "scopus_id": "57201757808",
-                    "name": "Atkins M.B.",
-                    "affiliation_id": [
-                        "60020908",
-                        "60021191"
-                    ]
-                },
-                {
-                    "scopus_id": "57207895060",
-                    "name": "Garbe C.",
-                    "affiliation_id": [
-                        "60017246"
-                    ]
-                },
-                {
-                    "scopus_id": "55630340500",
-                    "name": "Gershenwald J.E.",
-                    "affiliation_id": [
-                        "60015023"
-                    ]
-                },
-                {
-                    "scopus_id": "7103054781",
-                    "name": "Halpern A.C.",
-                    "affiliation_id": [
-                        "60009343"
-                    ]
-                },
-                {
-                    "scopus_id": "35395980200",
-                    "name": "Kirkwood J.M.",
-                    "affiliation_id": [
-                        "60026906"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.A.",
-                    "affiliation_id": [
-                        "60033129",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "59055495900",
-                    "name": "Thompson J.F.",
-                    "affiliation_id": [
-                        "60010710",
-                        "60018150"
-                    ]
-                },
-                {
-                    "scopus_id": "7006492833",
-                    "name": "Sober A.J.",
-                    "affiliation_id": [
-                        "60002746"
-                    ]
-                }
-            ],
-            "citations": 3,
-            "publication_name": "Cutaneous Melanoma, Sixth Edition",
-            "issn": "",
-            "cover_date": "2020-01-01",
-            "venue": "Book",
-            "volume": "1",
-            "issue": "",
-            "page_range": "1-1510",
-            "doi": "10.1007/978-3-030-05070-2"
-        },
-        {
-            "title": "Efficacy and toxicity of adjuvant radiotherapy in recurrent melanoma after adjuvant immunotherapy",
-            "eid": "2-s2.0-85149701411",
-            "authors": [
-                {
-                    "scopus_id": "56513603000",
-                    "name": "Bhave P.",
-                    "affiliation_id": [
-                        "60004437",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57203167509",
-                    "name": "Hong A.",
-                    "affiliation_id": [
-                        "60190566",
-                        "60010710"
-                    ]
-                },
-                {
-                    "scopus_id": "55577353100",
-                    "name": "Lo S.N.",
-                    "affiliation_id": [
-                        "60190566"
-                    ]
-                },
-                {
-                    "scopus_id": "7407017613",
-                    "name": "Johnson R.",
-                    "affiliation_id": [
-                        "60190566"
-                    ]
-                },
-                {
-                    "scopus_id": "25027986400",
-                    "name": "Mangana J.",
-                    "affiliation_id": [
-                        "60007456"
-                    ]
-                },
-                {
-                    "scopus_id": "57226535383",
-                    "name": "Johnson D.B.",
-                    "affiliation_id": [
-                        "60030769"
-                    ]
-                },
-                {
-                    "scopus_id": "58539451900",
-                    "name": "Dulgar O.",
-                    "affiliation_id": [
-                        "60004803"
-                    ]
-                },
-                {
-                    "scopus_id": "54401014900",
-                    "name": "Eroglu Z.",
-                    "affiliation_id": [
-                        "60004803"
-                    ]
-                },
-                {
-                    "scopus_id": "57195128761",
-                    "name": "Yeoh H.L.",
-                    "affiliation_id": [
-                        "60008014"
-                    ]
-                },
-                {
-                    "scopus_id": "6602412121",
-                    "name": "Haydon A.",
-                    "affiliation_id": [
-                        "60008014"
-                    ]
-                },
-                {
-                    "scopus_id": "57211849273",
-                    "name": "Lodde G.C.",
-                    "affiliation_id": [
-                        "60014264"
-                    ]
-                },
-                {
-                    "scopus_id": "24465712400",
-                    "name": "Livingstone E.",
-                    "affiliation_id": [
-                        "60014264"
-                    ]
-                },
-                {
-                    "scopus_id": "57534243600",
-                    "name": "Khattak A.",
-                    "affiliation_id": [
-                        "60138677"
-                    ]
-                },
-                {
-                    "scopus_id": "14013416500",
-                    "name": "K\u00e4hler K.",
-                    "affiliation_id": [
-                        "60005542"
-                    ]
-                },
-                {
-                    "scopus_id": "58134642500",
-                    "name": "Hausschild A.",
-                    "affiliation_id": [
-                        "60005542"
-                    ]
-                },
-                {
-                    "scopus_id": "7005268520",
-                    "name": "McArthur G.A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "39561316900",
-                    "name": "Menzies A.M.",
-                    "affiliation_id": [
-                        "60190566",
-                        "60010710",
-                        "122115092"
-                    ]
-                },
-                {
-                    "scopus_id": "57202703641",
-                    "name": "Long G.",
-                    "affiliation_id": [
-                        "60190566",
-                        "60010710",
-                        "122115092"
-                    ]
-                },
-                {
-                    "scopus_id": "59104891000",
-                    "name": "Wang W.",
-                    "affiliation_id": [
-                        "60004437",
-                        "60190566"
-                    ]
-                },
-                {
-                    "scopus_id": "55176994200",
-                    "name": "Carlino M.S.",
-                    "affiliation_id": [
-                        "60004437",
-                        "60190566",
-                        "60013540"
-                    ]
-                }
-            ],
-            "citations": 3,
-            "publication_name": "Journal for ImmunoTherapy of Cancer",
-            "issn": "",
-            "cover_date": "2023-03-08",
-            "venue": "Journal",
-            "volume": "11",
-            "issue": "3",
-            "page_range": null,
-            "doi": "10.1136/jitc-2022-006629"
         },
         {
             "title": "Effects of molecular heterogeneity on survival of patients with BRAF<sup>V600</sup>-mutated melanoma treated with vemurafenib with or without cobimetinib in the coBRIM study",
@@ -39680,6 +39680,5 @@
             "$": "Immunology and Microbiology (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:46:58",
-    "c-score": null
+    "date fetched": "2024-07-12 19:08:36"
 }

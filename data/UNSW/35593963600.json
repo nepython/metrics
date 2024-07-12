@@ -28,7 +28,7 @@
                     ]
                 }
             ],
-            "citations": 2049,
+            "citations": 2052,
             "publication_name": "Journal of Membrane Science",
             "issn": "03767388",
             "cover_date": "2006-11-01",
@@ -124,7 +124,7 @@
                     ]
                 }
             ],
-            "citations": 738,
+            "citations": 741,
             "publication_name": "Small",
             "issn": "16136810",
             "cover_date": "2016-04-27",
@@ -179,7 +179,7 @@
                     ]
                 }
             ],
-            "citations": 710,
+            "citations": 711,
             "publication_name": "Journal of Membrane Science",
             "issn": "03767388",
             "cover_date": "2010-05-15",
@@ -311,7 +311,7 @@
                     ]
                 }
             ],
-            "citations": 610,
+            "citations": 611,
             "publication_name": "Progress in Polymer Science",
             "issn": "00796700",
             "cover_date": "2018-02-01",
@@ -385,7 +385,7 @@
                     ]
                 }
             ],
-            "citations": 548,
+            "citations": 549,
             "publication_name": "Angewandte Chemie - International Edition",
             "issn": "14337851",
             "cover_date": "2015-03-09",
@@ -547,7 +547,7 @@
                     ]
                 }
             ],
-            "citations": 494,
+            "citations": 495,
             "publication_name": "Advanced Membrane Technology and Applications",
             "issn": "",
             "cover_date": "2008-12-29",
@@ -699,7 +699,7 @@
                     ]
                 }
             ],
-            "citations": 404,
+            "citations": 410,
             "publication_name": "Water Research",
             "issn": "00431354",
             "cover_date": "2019-06-01",
@@ -790,7 +790,7 @@
                     ]
                 }
             ],
-            "citations": 388,
+            "citations": 390,
             "publication_name": "Journal of Membrane Science",
             "issn": "03767388",
             "cover_date": "2013-01-01",
@@ -870,7 +870,7 @@
                     ]
                 }
             ],
-            "citations": 373,
+            "citations": 374,
             "publication_name": "Journal of Membrane Science",
             "issn": "03767388",
             "cover_date": "2006-11-01",
@@ -906,7 +906,7 @@
                     ]
                 }
             ],
-            "citations": 363,
+            "citations": 364,
             "publication_name": "Journal of Membrane Science",
             "issn": "03767388",
             "cover_date": "2003-04-15",
@@ -981,7 +981,7 @@
                     ]
                 }
             ],
-            "citations": 328,
+            "citations": 329,
             "publication_name": "Water Research",
             "issn": "00431354",
             "cover_date": "2019-02-01",
@@ -1220,7 +1220,7 @@
                     ]
                 }
             ],
-            "citations": 282,
+            "citations": 283,
             "publication_name": "Journal of Membrane Science",
             "issn": "03767388",
             "cover_date": "2013-08-01",
@@ -1322,7 +1322,7 @@
                     ]
                 }
             ],
-            "citations": 275,
+            "citations": 276,
             "publication_name": "Journal of Membrane Science",
             "issn": "03767388",
             "cover_date": "2012-12-15",
@@ -1431,6 +1431,57 @@
             "doi": "10.1016/j.desal.2012.07.007"
         },
         {
+            "title": "Direct contact membrane distillation mechanism for high concentration NaCl solutions",
+            "eid": "2-s2.0-31344446663",
+            "authors": [
+                {
+                    "scopus_id": "11940119100",
+                    "name": "Yun Y.",
+                    "affiliation_id": [
+                        "60025278",
+                        "60021843"
+                    ]
+                },
+                {
+                    "scopus_id": "7202993745",
+                    "name": "Ma R.",
+                    "affiliation_id": [
+                        "60021843"
+                    ]
+                },
+                {
+                    "scopus_id": "12140734400",
+                    "name": "Zhang W.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "8567293800",
+                    "name": "Li J.",
+                    "affiliation_id": [
+                        "60025278"
+                    ]
+                }
+            ],
+            "citations": 272,
+            "publication_name": "Desalination",
+            "issn": "00119164",
+            "cover_date": "2006-02-05",
+            "venue": "Journal",
+            "volume": "188",
+            "issue": "1-3",
+            "page_range": "251-262",
+            "doi": "10.1016/j.desal.2005.04.123"
+        },
+        {
             "title": "Membrane distillation crystallization of concentrated salts - Flux and crystal formation",
             "eid": "2-s2.0-20444478766",
             "authors": [
@@ -1476,57 +1527,6 @@
             "doi": "10.1016/j.memsci.2004.09.051"
         },
         {
-            "title": "Direct contact membrane distillation mechanism for high concentration NaCl solutions",
-            "eid": "2-s2.0-31344446663",
-            "authors": [
-                {
-                    "scopus_id": "11940119100",
-                    "name": "Yun Y.",
-                    "affiliation_id": [
-                        "60025278",
-                        "60021843"
-                    ]
-                },
-                {
-                    "scopus_id": "7202993745",
-                    "name": "Ma R.",
-                    "affiliation_id": [
-                        "60021843"
-                    ]
-                },
-                {
-                    "scopus_id": "12140734400",
-                    "name": "Zhang W.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "8567293800",
-                    "name": "Li J.",
-                    "affiliation_id": [
-                        "60025278"
-                    ]
-                }
-            ],
-            "citations": 271,
-            "publication_name": "Desalination",
-            "issn": "00119164",
-            "cover_date": "2006-02-05",
-            "venue": "Journal",
-            "volume": "188",
-            "issue": "1-3",
-            "page_range": "251-262",
-            "doi": "10.1016/j.desal.2005.04.123"
-        },
-        {
             "title": "The effect of shell side hydrodynamics on the performance of axial flow hollow fibre modules",
             "eid": "2-s2.0-0027905910",
             "authors": [
@@ -1559,7 +1559,7 @@
                     ]
                 }
             ],
-            "citations": 261,
+            "citations": 260,
             "publication_name": "Journal of Membrane Science",
             "issn": "03767388",
             "cover_date": "1993-06-02",
@@ -1611,6 +1611,45 @@
             "issue": "C",
             "page_range": "279-294",
             "doi": "10.1016/0011-9164(90)85030-E"
+        },
+        {
+            "title": "Impacts of salinity on the performance of high retention membrane bioreactors for water reclamation: A review",
+            "eid": "2-s2.0-71549121946",
+            "authors": [
+                {
+                    "scopus_id": "25225504600",
+                    "name": "Lay W.C.L.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "7410217127",
+                    "name": "Liu Y.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.G.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451"
+                    ]
+                }
+            ],
+            "citations": 255,
+            "publication_name": "Water Research",
+            "issn": "00431354",
+            "cover_date": "2010-01-01",
+            "venue": "Journal",
+            "volume": "44",
+            "issue": "1",
+            "page_range": "21-40",
+            "doi": "10.1016/j.watres.2009.09.026"
         },
         {
             "title": "All-carbon nanoarchitectures as high-performance separation membranes with superior stability",
@@ -1691,45 +1730,6 @@
             "issue": "47",
             "page_range": "7348-7359",
             "doi": "10.1002/adfm.201502955"
-        },
-        {
-            "title": "Impacts of salinity on the performance of high retention membrane bioreactors for water reclamation: A review",
-            "eid": "2-s2.0-71549121946",
-            "authors": [
-                {
-                    "scopus_id": "25225504600",
-                    "name": "Lay W.C.L.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "7410217127",
-                    "name": "Liu Y.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.G.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451"
-                    ]
-                }
-            ],
-            "citations": 253,
-            "publication_name": "Water Research",
-            "issn": "00431354",
-            "cover_date": "2010-01-01",
-            "venue": "Journal",
-            "volume": "44",
-            "issue": "1",
-            "page_range": "21-40",
-            "doi": "10.1016/j.watres.2009.09.026"
         },
         {
             "title": "Characteristics and potential applications of a novel forward osmosis hollow fiber membrane",
@@ -1871,7 +1871,7 @@
                     ]
                 }
             ],
-            "citations": 234,
+            "citations": 235,
             "publication_name": "ACS Applied Materials and Interfaces",
             "issn": "19448244",
             "cover_date": "2014-09-24",
@@ -1880,6 +1880,42 @@
             "issue": "18",
             "page_range": "16035-16048",
             "doi": "10.1021/am503968n"
+        },
+        {
+            "title": "Gas and vapour transport through microporous membranes. I. Knudsen-Poiseuille transition",
+            "eid": "2-s2.0-0025500379",
+            "authors": [
+                {
+                    "scopus_id": "56271803900",
+                    "name": "Schofield R.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7004505996",
+                    "name": "Fell C.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 233,
+            "publication_name": "Journal of Membrane Science",
+            "issn": "03767388",
+            "cover_date": "1990-01-01",
+            "venue": "Journal",
+            "volume": "53",
+            "issue": "1-2",
+            "page_range": "159-171",
+            "doi": "10.1016/0376-7388(90)80011-A"
         },
         {
             "title": "The potential to enhance membrane module design with 3D printing technology",
@@ -1950,42 +1986,6 @@
             "issue": "",
             "page_range": "480-490",
             "doi": "10.1016/j.memsci.2015.11.008"
-        },
-        {
-            "title": "Gas and vapour transport through microporous membranes. I. Knudsen-Poiseuille transition",
-            "eid": "2-s2.0-0025500379",
-            "authors": [
-                {
-                    "scopus_id": "56271803900",
-                    "name": "Schofield R.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7004505996",
-                    "name": "Fell C.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 232,
-            "publication_name": "Journal of Membrane Science",
-            "issn": "03767388",
-            "cover_date": "1990-01-01",
-            "venue": "Journal",
-            "volume": "53",
-            "issue": "1-2",
-            "page_range": "159-171",
-            "doi": "10.1016/0376-7388(90)80011-A"
         },
         {
             "title": "Ultrafiltration of natural organic matter",
@@ -2138,7 +2138,7 @@
                     ]
                 }
             ],
-            "citations": 216,
+            "citations": 217,
             "publication_name": "Environmental Science and Technology",
             "issn": "0013936X",
             "cover_date": "2014-06-03",
@@ -2147,6 +2147,79 @@
             "issue": "11",
             "page_range": "6335-6341",
             "doi": "10.1021/es405795s"
+        },
+        {
+            "title": "Engineering antifouling reverse osmosis membranes: A review",
+            "eid": "2-s2.0-85096703379",
+            "authors": [
+                {
+                    "scopus_id": "57202278113",
+                    "name": "Zhao S.",
+                    "affiliation_id": [
+                        "60018805"
+                    ]
+                },
+                {
+                    "scopus_id": "57201475177",
+                    "name": "Liao Z.",
+                    "affiliation_id": [
+                        "60010080",
+                        "60021783"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "55720845200",
+                    "name": "Li J.",
+                    "affiliation_id": [
+                        "60010080"
+                    ]
+                },
+                {
+                    "scopus_id": "35489259800",
+                    "name": "Tang C.",
+                    "affiliation_id": [
+                        "60006541"
+                    ]
+                },
+                {
+                    "scopus_id": "57937024500",
+                    "name": "Zheng C.",
+                    "affiliation_id": [
+                        "60105683",
+                        "60105683"
+                    ]
+                },
+                {
+                    "scopus_id": "55588837500",
+                    "name": "Lin J.",
+                    "affiliation_id": [
+                        "60017605"
+                    ]
+                },
+                {
+                    "scopus_id": "56013524100",
+                    "name": "Kong L.",
+                    "affiliation_id": [
+                        "60018805"
+                    ]
+                }
+            ],
+            "citations": 213,
+            "publication_name": "Desalination",
+            "issn": "00119164",
+            "cover_date": "2021-02-01",
+            "venue": "Journal",
+            "volume": "499",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.desal.2020.114857"
         },
         {
             "title": "Fabrication of novel poly(amide-imide) forward osmosis hollow fiber membranes with a positively charged nanofiltration-like selective layer",
@@ -2229,6 +2302,74 @@
             "issue": "C",
             "page_range": "195-210",
             "doi": "10.1016/S0376-7388(00)81310-1"
+        },
+        {
+            "title": "Graphene oxide as effective selective barriers on a hollow fiber membrane for water treatment process",
+            "eid": "2-s2.0-84908388668",
+            "authors": [
+                {
+                    "scopus_id": "55587921700",
+                    "name": "Goh K.",
+                    "affiliation_id": [
+                        "60118763",
+                        "60280862",
+                        "60118763"
+                    ]
+                },
+                {
+                    "scopus_id": "37000303800",
+                    "name": "Setiawan L.",
+                    "affiliation_id": [
+                        "60118763"
+                    ]
+                },
+                {
+                    "scopus_id": "56438412400",
+                    "name": "Wei L.",
+                    "affiliation_id": [
+                        "60280862"
+                    ]
+                },
+                {
+                    "scopus_id": "54780573700",
+                    "name": "Si R.",
+                    "affiliation_id": [
+                        "60280862"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.G.",
+                    "affiliation_id": [
+                        "60118763",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "35081334000",
+                    "name": "Wang R.",
+                    "affiliation_id": [
+                        "60118763",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "35261539500",
+                    "name": "Chen Y.",
+                    "affiliation_id": [
+                        "60280862"
+                    ]
+                }
+            ],
+            "citations": 210,
+            "publication_name": "Journal of Membrane Science",
+            "issn": "03767388",
+            "cover_date": "2015-01-05",
+            "venue": "Journal",
+            "volume": "474",
+            "issue": "",
+            "page_range": "244-253",
+            "doi": "10.1016/j.memsci.2014.09.057"
         },
         {
             "title": "Performance improvement of PVDF hollow fiber-based membrane distillation process",
@@ -2318,147 +2459,6 @@
             "issue": "1-3",
             "page_range": "109-122",
             "doi": "10.1016/S0011-9164(98)00104-0"
-        },
-        {
-            "title": "Graphene oxide as effective selective barriers on a hollow fiber membrane for water treatment process",
-            "eid": "2-s2.0-84908388668",
-            "authors": [
-                {
-                    "scopus_id": "55587921700",
-                    "name": "Goh K.",
-                    "affiliation_id": [
-                        "60118763",
-                        "60280862",
-                        "60118763"
-                    ]
-                },
-                {
-                    "scopus_id": "37000303800",
-                    "name": "Setiawan L.",
-                    "affiliation_id": [
-                        "60118763"
-                    ]
-                },
-                {
-                    "scopus_id": "56438412400",
-                    "name": "Wei L.",
-                    "affiliation_id": [
-                        "60280862"
-                    ]
-                },
-                {
-                    "scopus_id": "54780573700",
-                    "name": "Si R.",
-                    "affiliation_id": [
-                        "60280862"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.G.",
-                    "affiliation_id": [
-                        "60118763",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35081334000",
-                    "name": "Wang R.",
-                    "affiliation_id": [
-                        "60118763",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35261539500",
-                    "name": "Chen Y.",
-                    "affiliation_id": [
-                        "60280862"
-                    ]
-                }
-            ],
-            "citations": 209,
-            "publication_name": "Journal of Membrane Science",
-            "issn": "03767388",
-            "cover_date": "2015-01-05",
-            "venue": "Journal",
-            "volume": "474",
-            "issue": "",
-            "page_range": "244-253",
-            "doi": "10.1016/j.memsci.2014.09.057"
-        },
-        {
-            "title": "Engineering antifouling reverse osmosis membranes: A review",
-            "eid": "2-s2.0-85096703379",
-            "authors": [
-                {
-                    "scopus_id": "57202278113",
-                    "name": "Zhao S.",
-                    "affiliation_id": [
-                        "60018805"
-                    ]
-                },
-                {
-                    "scopus_id": "57201475177",
-                    "name": "Liao Z.",
-                    "affiliation_id": [
-                        "60010080",
-                        "60021783"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "55720845200",
-                    "name": "Li J.",
-                    "affiliation_id": [
-                        "60010080"
-                    ]
-                },
-                {
-                    "scopus_id": "35489259800",
-                    "name": "Tang C.",
-                    "affiliation_id": [
-                        "60006541"
-                    ]
-                },
-                {
-                    "scopus_id": "57937024500",
-                    "name": "Zheng C.",
-                    "affiliation_id": [
-                        "60105683",
-                        "60105683"
-                    ]
-                },
-                {
-                    "scopus_id": "55588837500",
-                    "name": "Lin J.",
-                    "affiliation_id": [
-                        "60017605"
-                    ]
-                },
-                {
-                    "scopus_id": "56013524100",
-                    "name": "Kong L.",
-                    "affiliation_id": [
-                        "60018805"
-                    ]
-                }
-            ],
-            "citations": 208,
-            "publication_name": "Desalination",
-            "issn": "00119164",
-            "cover_date": "2021-02-01",
-            "venue": "Journal",
-            "volume": "499",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.desal.2020.114857"
         },
         {
             "title": "Fouling effects on rejection in the membrane filtration of natural waters",
@@ -2605,7 +2605,7 @@
                     ]
                 }
             ],
-            "citations": 201,
+            "citations": 202,
             "publication_name": "Journal of Materials Chemistry",
             "issn": "09599428",
             "cover_date": "2003-09-01",
@@ -2775,42 +2775,6 @@
             "doi": "10.1016/j.desal.2004.09.019"
         },
         {
-            "title": "The stability of polymeric membranes in a TiO<inf>2</inf> photocatalysis process",
-            "eid": "2-s2.0-33644905001",
-            "authors": [
-                {
-                    "scopus_id": "12778576500",
-                    "name": "Chin S.S.",
-                    "affiliation_id": [
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "7202409942",
-                    "name": "Chiang K.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.G.",
-                    "affiliation_id": [
-                        "60118451"
-                    ]
-                }
-            ],
-            "citations": 189,
-            "publication_name": "Journal of Membrane Science",
-            "issn": "03767388",
-            "cover_date": "2006-04-20",
-            "venue": "Journal",
-            "volume": "275",
-            "issue": "1-2",
-            "page_range": "202-211",
-            "doi": "10.1016/j.memsci.2005.09.033"
-        },
-        {
             "title": "A review of membrane wettability for the treatment of saline water deploying membrane distillation",
             "eid": "2-s2.0-85078553889",
             "authors": [
@@ -2864,7 +2828,7 @@
                     ]
                 }
             ],
-            "citations": 187,
+            "citations": 190,
             "publication_name": "Desalination",
             "issn": "00119164",
             "cover_date": "2020-04-01",
@@ -2873,6 +2837,42 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1016/j.desal.2020.114312"
+        },
+        {
+            "title": "The stability of polymeric membranes in a TiO<inf>2</inf> photocatalysis process",
+            "eid": "2-s2.0-33644905001",
+            "authors": [
+                {
+                    "scopus_id": "12778576500",
+                    "name": "Chin S.S.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "7202409942",
+                    "name": "Chiang K.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.G.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                }
+            ],
+            "citations": 189,
+            "publication_name": "Journal of Membrane Science",
+            "issn": "03767388",
+            "cover_date": "2006-04-20",
+            "venue": "Journal",
+            "volume": "275",
+            "issue": "1-2",
+            "page_range": "202-211",
+            "doi": "10.1016/j.memsci.2005.09.033"
         },
         {
             "title": "Behavior of oil droplets at the membrane surface during crossflow microfiltration of oil-water emulsions",
@@ -3090,6 +3090,53 @@
             "doi": "10.1016/S0376-7388(00)80218-5"
         },
         {
+            "title": "Fouling and wetting in membrane distillation (MD) and MD-bioreactor (MDBR) for wastewater reclamation",
+            "eid": "2-s2.0-84880330671",
+            "authors": [
+                {
+                    "scopus_id": "54406881700",
+                    "name": "Goh S.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "56123343800",
+                    "name": "Zhang J.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "7410217127",
+                    "name": "Liu Y.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451"
+                    ]
+                }
+            ],
+            "citations": 180,
+            "publication_name": "Desalination",
+            "issn": "00119164",
+            "cover_date": "2013-08-15",
+            "venue": "Journal",
+            "volume": "323",
+            "issue": "",
+            "page_range": "39-47",
+            "doi": "10.1016/j.desal.2012.12.001"
+        },
+        {
             "title": "A fundamental study of the ultrafiltration of oil-water emulsions",
             "eid": "2-s2.0-0022682224",
             "authors": [
@@ -3131,53 +3178,6 @@
             "issue": "C",
             "page_range": "161-177",
             "doi": "10.1016/0376-7388(88)80014-0"
-        },
-        {
-            "title": "Fouling and wetting in membrane distillation (MD) and MD-bioreactor (MDBR) for wastewater reclamation",
-            "eid": "2-s2.0-84880330671",
-            "authors": [
-                {
-                    "scopus_id": "54406881700",
-                    "name": "Goh S.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "56123343800",
-                    "name": "Zhang J.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "7410217127",
-                    "name": "Liu Y.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451"
-                    ]
-                }
-            ],
-            "citations": 179,
-            "publication_name": "Desalination",
-            "issn": "00119164",
-            "cover_date": "2013-08-15",
-            "venue": "Journal",
-            "volume": "323",
-            "issue": "",
-            "page_range": "39-47",
-            "doi": "10.1016/j.desal.2012.12.001"
         },
         {
             "title": "Treatment of organics in reverse osmosis concentrate from a municipal wastewater reclamation plant: Feasibility test of advanced oxidation processes with/without pretreatment",
@@ -3689,7 +3689,7 @@
                     ]
                 }
             ],
-            "citations": 162,
+            "citations": 163,
             "publication_name": "Journal of Membrane Science",
             "issn": "03767388",
             "cover_date": "2008-10-31",
@@ -4650,7 +4650,7 @@
                     ]
                 }
             ],
-            "citations": 137,
+            "citations": 138,
             "publication_name": "Journal of Membrane Science",
             "issn": "03767388",
             "cover_date": "2015-11-05",
@@ -4872,6 +4872,54 @@
             "doi": "10.1016/j.memsci.2011.07.045"
         },
         {
+            "title": "Analysis of heat and mass transfer by CFD for performance enhancement in direct contact membrane distillation",
+            "eid": "2-s2.0-84859440839",
+            "authors": [
+                {
+                    "scopus_id": "56693261500",
+                    "name": "Yu H.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451",
+                        "60016521"
+                    ]
+                },
+                {
+                    "scopus_id": "57191641950",
+                    "name": "Yang X.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "35081334000",
+                    "name": "Wang R.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.G.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451"
+                    ]
+                }
+            ],
+            "citations": 133,
+            "publication_name": "Journal of Membrane Science",
+            "issn": "03767388",
+            "cover_date": "2012-07-01",
+            "venue": "Journal",
+            "volume": "405-406",
+            "issue": "",
+            "page_range": "38-47",
+            "doi": "10.1016/j.memsci.2012.02.035"
+        },
+        {
             "title": "Effects of net-type spacers on heat and mass transfer in direct contact membrane distillation and comparison with ultrafiltration studies",
             "eid": "2-s2.0-0037716573",
             "authors": [
@@ -4990,54 +5038,6 @@
             "doi": "10.1016/j.memsci.2013.07.063"
         },
         {
-            "title": "Analysis of heat and mass transfer by CFD for performance enhancement in direct contact membrane distillation",
-            "eid": "2-s2.0-84859440839",
-            "authors": [
-                {
-                    "scopus_id": "56693261500",
-                    "name": "Yu H.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451",
-                        "60016521"
-                    ]
-                },
-                {
-                    "scopus_id": "57191641950",
-                    "name": "Yang X.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35081334000",
-                    "name": "Wang R.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.G.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451"
-                    ]
-                }
-            ],
-            "citations": 132,
-            "publication_name": "Journal of Membrane Science",
-            "issn": "03767388",
-            "cover_date": "2012-07-01",
-            "venue": "Journal",
-            "volume": "405-406",
-            "issue": "",
-            "page_range": "38-47",
-            "doi": "10.1016/j.memsci.2012.02.035"
-        },
-        {
             "title": "Desalination by membrane distillation adopting a hydrophilic membrane",
             "eid": "2-s2.0-14844343079",
             "authors": [
@@ -5074,42 +5074,6 @@
             "issue": "1",
             "page_range": "45-54",
             "doi": "10.1016/j.desal.2004.06.208"
-        },
-        {
-            "title": "The performance of ultrafiltration membranes pretreated by polymers",
-            "eid": "2-s2.0-0024110820",
-            "authors": [
-                {
-                    "scopus_id": "7409325562",
-                    "name": "Kim K.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7004505996",
-                    "name": "Fell C.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 131,
-            "publication_name": "Desalination",
-            "issn": "00119164",
-            "cover_date": "1988-01-01",
-            "venue": "Journal",
-            "volume": "70",
-            "issue": "1-3",
-            "page_range": "229-249",
-            "doi": "10.1016/0011-9164(88)85057-4"
         },
         {
             "title": "Gravity-driven membrane filtration as pretreatment for seawater reverse osmosis: Linking biofouling layer morphology with flux stabilization",
@@ -5196,7 +5160,7 @@
                     ]
                 }
             ],
-            "citations": 130,
+            "citations": 131,
             "publication_name": "Water Research",
             "issn": "00431354",
             "cover_date": "2015-03-01",
@@ -5205,6 +5169,42 @@
             "issue": "",
             "page_range": "158-173",
             "doi": "10.1016/j.watres.2014.12.001"
+        },
+        {
+            "title": "The performance of ultrafiltration membranes pretreated by polymers",
+            "eid": "2-s2.0-0024110820",
+            "authors": [
+                {
+                    "scopus_id": "7409325562",
+                    "name": "Kim K.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7004505996",
+                    "name": "Fell C.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 131,
+            "publication_name": "Desalination",
+            "issn": "00119164",
+            "cover_date": "1988-01-01",
+            "venue": "Journal",
+            "volume": "70",
+            "issue": "1-3",
+            "page_range": "229-249",
+            "doi": "10.1016/0011-9164(88)85057-4"
         },
         {
             "title": "Towards temperature driven forward osmosis desalination using Semi-IPN hydrogels as reversible draw agents",
@@ -5477,6 +5477,50 @@
             "doi": "10.1016/j.desal.2012.07.018"
         },
         {
+            "title": "A novel membrane bioreactor based on membrane distillation",
+            "eid": "2-s2.0-38749130129",
+            "authors": [
+                {
+                    "scopus_id": "7801486355",
+                    "name": "Phattaranawik J.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.G.",
+                    "affiliation_id": [
+                        "60118451",
+                        "60095876"
+                    ]
+                },
+                {
+                    "scopus_id": "15769962000",
+                    "name": "Pasquier A.C.S.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "23481339000",
+                    "name": "Bing W.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                }
+            ],
+            "citations": 127,
+            "publication_name": "Desalination",
+            "issn": "00119164",
+            "cover_date": "2008-03-01",
+            "venue": "Journal",
+            "volume": "223",
+            "issue": "1-3",
+            "page_range": "386-395",
+            "doi": "10.1016/j.desal.2007.02.075"
+        },
+        {
             "title": "Novel spacer design improves observed flux",
             "eid": "2-s2.0-0347722391",
             "authors": [
@@ -5511,50 +5555,6 @@
             "issue": "1-2",
             "page_range": "53-61",
             "doi": "10.1016/j.memsci.2003.09.015"
-        },
-        {
-            "title": "A novel membrane bioreactor based on membrane distillation",
-            "eid": "2-s2.0-38749130129",
-            "authors": [
-                {
-                    "scopus_id": "7801486355",
-                    "name": "Phattaranawik J.",
-                    "affiliation_id": [
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.G.",
-                    "affiliation_id": [
-                        "60118451",
-                        "60095876"
-                    ]
-                },
-                {
-                    "scopus_id": "15769962000",
-                    "name": "Pasquier A.C.S.",
-                    "affiliation_id": [
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "23481339000",
-                    "name": "Bing W.",
-                    "affiliation_id": [
-                        "60118451"
-                    ]
-                }
-            ],
-            "citations": 126,
-            "publication_name": "Desalination",
-            "issn": "00119164",
-            "cover_date": "2008-03-01",
-            "venue": "Journal",
-            "volume": "223",
-            "issue": "1-3",
-            "page_range": "386-395",
-            "doi": "10.1016/j.desal.2007.02.075"
         },
         {
             "title": "Factors affecting flux performance of forward osmosis systems",
@@ -6060,6 +6060,56 @@
             "doi": "10.1016/j.cej.2006.11.008"
         },
         {
+            "title": "Membrane module design and dynamic shear-induced techniques to enhance liquid separation by hollow fiber modules: A review",
+            "eid": "2-s2.0-84877905011",
+            "authors": [
+                {
+                    "scopus_id": "57191641950",
+                    "name": "Yang X.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "35081334000",
+                    "name": "Wang R.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "35489259800",
+                    "name": "Tang C.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "6508068924",
+                    "name": "Wenten I.",
+                    "affiliation_id": [
+                        "60069382"
+                    ]
+                }
+            ],
+            "citations": 115,
+            "publication_name": "Desalination and Water Treatment",
+            "issn": "19443994",
+            "cover_date": "2013-01-01",
+            "venue": "Journal",
+            "volume": "51",
+            "issue": "16-18",
+            "page_range": "3604-3627",
+            "doi": "10.1080/19443994.2012.751146"
+        },
+        {
             "title": "Fibre movement induced by bubbling using submerged hollow fibre membranes",
             "eid": "2-s2.0-30944458582",
             "authors": [
@@ -6166,56 +6216,6 @@
             "doi": "10.1021/es401219s"
         },
         {
-            "title": "Membrane module design and dynamic shear-induced techniques to enhance liquid separation by hollow fiber modules: A review",
-            "eid": "2-s2.0-84877905011",
-            "authors": [
-                {
-                    "scopus_id": "57191641950",
-                    "name": "Yang X.",
-                    "affiliation_id": [
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35081334000",
-                    "name": "Wang R.",
-                    "affiliation_id": [
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.",
-                    "affiliation_id": [
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35489259800",
-                    "name": "Tang C.",
-                    "affiliation_id": [
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "6508068924",
-                    "name": "Wenten I.",
-                    "affiliation_id": [
-                        "60069382"
-                    ]
-                }
-            ],
-            "citations": 114,
-            "publication_name": "Desalination and Water Treatment",
-            "issn": "19443994",
-            "cover_date": "2013-01-01",
-            "venue": "Journal",
-            "volume": "51",
-            "issue": "16-18",
-            "page_range": "3604-3627",
-            "doi": "10.1080/19443994.2012.751146"
-        },
-        {
             "title": "Energy-efficient desalination by forward osmosis using responsive ionic liquid draw solutes",
             "eid": "2-s2.0-84984900638",
             "authors": [
@@ -6284,7 +6284,7 @@
                     ]
                 }
             ],
-            "citations": 111,
+            "citations": 112,
             "publication_name": "Environmental Science: Water Research and Technology",
             "issn": "20531400",
             "cover_date": "2015-01-01",
@@ -6336,6 +6336,49 @@
             "issue": "1-2",
             "page_range": "726-734",
             "doi": "10.1016/j.memsci.2006.04.048"
+        },
+        {
+            "title": "Adhesion of waste water bacteria to reverse osmosis membranes",
+            "eid": "2-s2.0-0032491887",
+            "authors": [
+                {
+                    "scopus_id": "6508033103",
+                    "name": "Sadr Ghayeni S.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "6602910253",
+                    "name": "Beatson P.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "35596420200",
+                    "name": "Schneider R.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 111,
+            "publication_name": "Journal of Membrane Science",
+            "issn": "03767388",
+            "cover_date": "1998-01-07",
+            "venue": "Journal",
+            "volume": "138",
+            "issue": "1",
+            "page_range": "29-42",
+            "doi": "10.1016/S0376-7388(97)00196-8"
         },
         {
             "title": "A review of fouling indices and monitoring techniques for reverse osmosis",
@@ -6460,49 +6503,6 @@
             "issue": "",
             "page_range": "45-53",
             "doi": "10.1016/j.memsci.2013.04.047"
-        },
-        {
-            "title": "Adhesion of waste water bacteria to reverse osmosis membranes",
-            "eid": "2-s2.0-0032491887",
-            "authors": [
-                {
-                    "scopus_id": "6508033103",
-                    "name": "Sadr Ghayeni S.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "6602910253",
-                    "name": "Beatson P.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "35596420200",
-                    "name": "Schneider R.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 110,
-            "publication_name": "Journal of Membrane Science",
-            "issn": "03767388",
-            "cover_date": "1998-01-07",
-            "venue": "Journal",
-            "volume": "138",
-            "issue": "1",
-            "page_range": "29-42",
-            "doi": "10.1016/S0376-7388(97)00196-8"
         },
         {
             "title": "A new model for mass transfer in direct contact membrane distillation",
@@ -7501,6 +7501,28 @@
             "doi": "10.1016/j.desal.2014.10.021"
         },
         {
+            "title": "Membranes for water production and wastewater reuse",
+            "eid": "2-s2.0-0030208713",
+            "authors": [
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 91,
+            "publication_name": "Desalination",
+            "issn": "00119164",
+            "cover_date": "1996-01-01",
+            "venue": "Journal",
+            "volume": "106",
+            "issue": "1-3",
+            "page_range": "1-9",
+            "doi": "10.1016/S0011-9164(96)00085-9"
+        },
+        {
             "title": "CO<inf>2</inf> switchable dual responsive polymers as draw solutes for forward osmosis desalination",
             "eid": "2-s2.0-84883245080",
             "authors": [
@@ -7564,28 +7586,6 @@
             "doi": "10.1039/c3cc43289k"
         },
         {
-            "title": "Membranes for water production and wastewater reuse",
-            "eid": "2-s2.0-0030208713",
-            "authors": [
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 90,
-            "publication_name": "Desalination",
-            "issn": "00119164",
-            "cover_date": "1996-01-01",
-            "venue": "Journal",
-            "volume": "106",
-            "issue": "1-3",
-            "page_range": "1-9",
-            "doi": "10.1016/S0011-9164(96)00085-9"
-        },
-        {
             "title": "The effect of surfactant pretreatment on the ultrafiltration of proteins",
             "eid": "2-s2.0-0022131311",
             "authors": [
@@ -7620,6 +7620,93 @@
             "issue": "1-3",
             "page_range": "37-55",
             "doi": "10.1016/0011-9164(85)85051-7"
+        },
+        {
+            "title": "Surface charge and permeability in the ultrafiltration of non-flocculating colloids",
+            "eid": "2-s2.0-0021713633",
+            "authors": [
+                {
+                    "scopus_id": "6602730543",
+                    "name": "McDonogh R.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7004505996",
+                    "name": "Fell C.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 89,
+            "publication_name": "Journal of Membrane Science",
+            "issn": "03767388",
+            "cover_date": "1984-01-01",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "3",
+            "page_range": "285-294",
+            "doi": "10.1016/S0376-7388(00)80219-7"
+        },
+        {
+            "title": "Understanding oily wastewater treatment via membrane distillation",
+            "eid": "2-s2.0-85020689936",
+            "authors": [
+                {
+                    "scopus_id": "57194539816",
+                    "name": "Han L.",
+                    "affiliation_id": [
+                        "60280862"
+                    ]
+                },
+                {
+                    "scopus_id": "57004102800",
+                    "name": "Tan Y.Z.",
+                    "affiliation_id": [
+                        "60280862"
+                    ]
+                },
+                {
+                    "scopus_id": "57194534877",
+                    "name": "Netke T.",
+                    "affiliation_id": [
+                        "60280862"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.G.",
+                    "affiliation_id": [
+                        "60118763"
+                    ]
+                },
+                {
+                    "scopus_id": "35770477100",
+                    "name": "Chew J.W.",
+                    "affiliation_id": [
+                        "60280862",
+                        "60118763"
+                    ]
+                }
+            ],
+            "citations": 88,
+            "publication_name": "Journal of Membrane Science",
+            "issn": "03767388",
+            "cover_date": "2017-01-01",
+            "venue": "Journal",
+            "volume": "539",
+            "issue": "",
+            "page_range": "284-294",
+            "doi": "10.1016/j.memsci.2017.06.012"
         },
         {
             "title": "Synthesis and characterization of high-performance novel thin film nanocomposite PRO membranes with tiered nanofiber support reinforced by functionalized carbon nanotubes",
@@ -7725,71 +7812,14 @@
             "doi": "10.1016/j.desal.2011.06.047"
         },
         {
-            "title": "Surface charge and permeability in the ultrafiltration of non-flocculating colloids",
-            "eid": "2-s2.0-0021713633",
+            "title": "Ultrafiltration of saline oil-in-water emulsions stabilized by an anionic surfactant: Effect of surfactant concentration and divalent counterions",
+            "eid": "2-s2.0-85019382764",
             "authors": [
                 {
-                    "scopus_id": "6602730543",
-                    "name": "McDonogh R.",
+                    "scopus_id": "56993980300",
+                    "name": "Tummons E.N.",
                     "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7004505996",
-                    "name": "Fell C.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 88,
-            "publication_name": "Journal of Membrane Science",
-            "issn": "03767388",
-            "cover_date": "1984-01-01",
-            "venue": "Journal",
-            "volume": "21",
-            "issue": "3",
-            "page_range": "285-294",
-            "doi": "10.1016/S0376-7388(00)80219-7"
-        },
-        {
-            "title": "Understanding oily wastewater treatment via membrane distillation",
-            "eid": "2-s2.0-85020689936",
-            "authors": [
-                {
-                    "scopus_id": "57194539816",
-                    "name": "Han L.",
-                    "affiliation_id": [
-                        "60280862"
-                    ]
-                },
-                {
-                    "scopus_id": "57004102800",
-                    "name": "Tan Y.Z.",
-                    "affiliation_id": [
-                        "60280862"
-                    ]
-                },
-                {
-                    "scopus_id": "57194534877",
-                    "name": "Netke T.",
-                    "affiliation_id": [
-                        "60280862"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.G.",
-                    "affiliation_id": [
-                        "60118763"
+                        "60146411"
                     ]
                 },
                 {
@@ -7799,6 +7829,21 @@
                         "60280862",
                         "60118763"
                     ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.G.",
+                    "affiliation_id": [
+                        "60118763",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "6507841124",
+                    "name": "Tarabara V.V.",
+                    "affiliation_id": [
+                        "60146411"
+                    ]
                 }
             ],
             "citations": 87,
@@ -7806,10 +7851,10 @@
             "issn": "03767388",
             "cover_date": "2017-01-01",
             "venue": "Journal",
-            "volume": "539",
+            "volume": "537",
             "issue": "",
-            "page_range": "284-294",
-            "doi": "10.1016/j.memsci.2017.06.012"
+            "page_range": "384-395",
+            "doi": "10.1016/j.memsci.2017.05.012"
         },
         {
             "title": "Evaluation of fouling deposition, fouling reversibility and energy consumption of submerged hollow fiber membrane systems with periodic backwash",
@@ -7851,51 +7896,6 @@
             "issue": "",
             "page_range": "319-331",
             "doi": "10.1016/j.memsci.2013.10.031"
-        },
-        {
-            "title": "Ultrafiltration of saline oil-in-water emulsions stabilized by an anionic surfactant: Effect of surfactant concentration and divalent counterions",
-            "eid": "2-s2.0-85019382764",
-            "authors": [
-                {
-                    "scopus_id": "56993980300",
-                    "name": "Tummons E.N.",
-                    "affiliation_id": [
-                        "60146411"
-                    ]
-                },
-                {
-                    "scopus_id": "35770477100",
-                    "name": "Chew J.W.",
-                    "affiliation_id": [
-                        "60280862",
-                        "60118763"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.G.",
-                    "affiliation_id": [
-                        "60118763",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "6507841124",
-                    "name": "Tarabara V.V.",
-                    "affiliation_id": [
-                        "60146411"
-                    ]
-                }
-            ],
-            "citations": 86,
-            "publication_name": "Journal of Membrane Science",
-            "issn": "03767388",
-            "cover_date": "2017-01-01",
-            "venue": "Journal",
-            "volume": "537",
-            "issue": "",
-            "page_range": "384-395",
-            "doi": "10.1016/j.memsci.2017.05.012"
         },
         {
             "title": "Analysis of membrane distillation crystallization system for high salinity brine treatment with zero discharge using Aspen flowsheet simulation",
@@ -8076,42 +8076,6 @@
             "doi": "10.1016/j.desal.2011.02.026"
         },
         {
-            "title": "Enhanced concentration polarization by unstirred fouling layers in reverse osmosis: Detection by sodium chloride tracer response technique",
-            "eid": "2-s2.0-33845414063",
-            "authors": [
-                {
-                    "scopus_id": "15135067400",
-                    "name": "Chong T.",
-                    "affiliation_id": [
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35254727200",
-                    "name": "Wong F.",
-                    "affiliation_id": [
-                        "100702727"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.",
-                    "affiliation_id": [
-                        "60118451"
-                    ]
-                }
-            ],
-            "citations": 85,
-            "publication_name": "Journal of Membrane Science",
-            "issn": "03767388",
-            "cover_date": "2007-01-15",
-            "venue": "Journal",
-            "volume": "287",
-            "issue": "2",
-            "page_range": "198-210",
-            "doi": "10.1016/j.memsci.2006.10.035"
-        },
-        {
             "title": "Fouling control of submerged hollow fibre membranes by vibrations",
             "eid": "2-s2.0-84871817573",
             "authors": [
@@ -8148,7 +8112,7 @@
                     ]
                 }
             ],
-            "citations": 84,
+            "citations": 85,
             "publication_name": "Journal of Membrane Science",
             "issn": "03767388",
             "cover_date": "2013-01-05",
@@ -8157,6 +8121,42 @@
             "issue": "",
             "page_range": "230-239",
             "doi": "10.1016/j.memsci.2012.09.031"
+        },
+        {
+            "title": "Enhanced concentration polarization by unstirred fouling layers in reverse osmosis: Detection by sodium chloride tracer response technique",
+            "eid": "2-s2.0-33845414063",
+            "authors": [
+                {
+                    "scopus_id": "15135067400",
+                    "name": "Chong T.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "35254727200",
+                    "name": "Wong F.",
+                    "affiliation_id": [
+                        "100702727"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                }
+            ],
+            "citations": 85,
+            "publication_name": "Journal of Membrane Science",
+            "issn": "03767388",
+            "cover_date": "2007-01-15",
+            "venue": "Journal",
+            "volume": "287",
+            "issue": "2",
+            "page_range": "198-210",
+            "doi": "10.1016/j.memsci.2006.10.035"
         },
         {
             "title": "Operation of membrane bioreactor with powdered activated carbon addition",
@@ -8436,6 +8436,78 @@
             "doi": "10.1002/aic.690340919"
         },
         {
+            "title": "Optimization of gravity-driven membrane (GDM) filtration process for seawater pretreatment",
+            "eid": "2-s2.0-84958522582",
+            "authors": [
+                {
+                    "scopus_id": "56906439500",
+                    "name": "Wu B.",
+                    "affiliation_id": [
+                        "60118763"
+                    ]
+                },
+                {
+                    "scopus_id": "57126443500",
+                    "name": "Hochstrasser F.",
+                    "affiliation_id": [
+                        "60268809"
+                    ]
+                },
+                {
+                    "scopus_id": "54896371800",
+                    "name": "Akhondi E.",
+                    "affiliation_id": [
+                        "60118763"
+                    ]
+                },
+                {
+                    "scopus_id": "57126173100",
+                    "name": "Ambauen N.",
+                    "affiliation_id": [
+                        "60025858"
+                    ]
+                },
+                {
+                    "scopus_id": "57201613999",
+                    "name": "Tschirren L.",
+                    "affiliation_id": [
+                        "60268809"
+                    ]
+                },
+                {
+                    "scopus_id": "8533870200",
+                    "name": "Burkhardt M.",
+                    "affiliation_id": [
+                        "60268809"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.G.",
+                    "affiliation_id": [
+                        "60118763",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "12800747500",
+                    "name": "Pronk W.",
+                    "affiliation_id": [
+                        "60002612"
+                    ]
+                }
+            ],
+            "citations": 82,
+            "publication_name": "Water Research",
+            "issn": "00431354",
+            "cover_date": "2016-04-15",
+            "venue": "Journal",
+            "volume": "93",
+            "issue": "",
+            "page_range": "133-140",
+            "doi": "10.1016/j.watres.2016.02.021"
+        },
+        {
             "title": "Bactericidal mechanisms revealed for rapid water disinfection by superabsorbent cryogels decorated with silver nanoparticles",
             "eid": "2-s2.0-84923076158",
             "authors": [
@@ -8604,78 +8676,6 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1016/j.memsci.2019.117570"
-        },
-        {
-            "title": "Optimization of gravity-driven membrane (GDM) filtration process for seawater pretreatment",
-            "eid": "2-s2.0-84958522582",
-            "authors": [
-                {
-                    "scopus_id": "56906439500",
-                    "name": "Wu B.",
-                    "affiliation_id": [
-                        "60118763"
-                    ]
-                },
-                {
-                    "scopus_id": "57126443500",
-                    "name": "Hochstrasser F.",
-                    "affiliation_id": [
-                        "60268809"
-                    ]
-                },
-                {
-                    "scopus_id": "54896371800",
-                    "name": "Akhondi E.",
-                    "affiliation_id": [
-                        "60118763"
-                    ]
-                },
-                {
-                    "scopus_id": "57126173100",
-                    "name": "Ambauen N.",
-                    "affiliation_id": [
-                        "60025858"
-                    ]
-                },
-                {
-                    "scopus_id": "57201613999",
-                    "name": "Tschirren L.",
-                    "affiliation_id": [
-                        "60268809"
-                    ]
-                },
-                {
-                    "scopus_id": "8533870200",
-                    "name": "Burkhardt M.",
-                    "affiliation_id": [
-                        "60268809"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.G.",
-                    "affiliation_id": [
-                        "60118763",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "12800747500",
-                    "name": "Pronk W.",
-                    "affiliation_id": [
-                        "60002612"
-                    ]
-                }
-            ],
-            "citations": 81,
-            "publication_name": "Water Research",
-            "issn": "00431354",
-            "cover_date": "2016-04-15",
-            "venue": "Journal",
-            "volume": "93",
-            "issue": "",
-            "page_range": "133-140",
-            "doi": "10.1016/j.watres.2016.02.021"
         },
         {
             "title": "Life Cycle Assessment for desalination: A review on methodology feasibility and reliability",
@@ -9393,6 +9393,44 @@
             "doi": "10.1016/S0376-7388(01)00541-5"
         },
         {
+            "title": "The roles of bacteriophages in membrane-based water and wastewater treatment processes: A review",
+            "eid": "2-s2.0-85006790571",
+            "authors": [
+                {
+                    "scopus_id": "56906439500",
+                    "name": "Wu B.",
+                    "affiliation_id": [
+                        "60118763"
+                    ]
+                },
+                {
+                    "scopus_id": "35081334000",
+                    "name": "Wang R.",
+                    "affiliation_id": [
+                        "60118763",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.G.",
+                    "affiliation_id": [
+                        "60118763",
+                        "60118451"
+                    ]
+                }
+            ],
+            "citations": 75,
+            "publication_name": "Water Research",
+            "issn": "00431354",
+            "cover_date": "2017-03-01",
+            "venue": "Journal",
+            "volume": "110",
+            "issue": "",
+            "page_range": "120-132",
+            "doi": "10.1016/j.watres.2016.12.004"
+        },
+        {
             "title": "Submerged hollow fibre membrane module - Design options and operational considerations",
             "eid": "2-s2.0-0037056586",
             "authors": [
@@ -9427,44 +9465,6 @@
             "issue": "1-3",
             "page_range": "231-236",
             "doi": "10.1016/S0011-9164(02)00478-2"
-        },
-        {
-            "title": "The roles of bacteriophages in membrane-based water and wastewater treatment processes: A review",
-            "eid": "2-s2.0-85006790571",
-            "authors": [
-                {
-                    "scopus_id": "56906439500",
-                    "name": "Wu B.",
-                    "affiliation_id": [
-                        "60118763"
-                    ]
-                },
-                {
-                    "scopus_id": "35081334000",
-                    "name": "Wang R.",
-                    "affiliation_id": [
-                        "60118763",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.G.",
-                    "affiliation_id": [
-                        "60118763",
-                        "60118451"
-                    ]
-                }
-            ],
-            "citations": 74,
-            "publication_name": "Water Research",
-            "issn": "00431354",
-            "cover_date": "2017-03-01",
-            "venue": "Journal",
-            "volume": "110",
-            "issue": "",
-            "page_range": "120-132",
-            "doi": "10.1016/j.watres.2016.12.004"
         },
         {
             "title": "Fabrication and characterization of forward osmosis hollow fiber membranes with antifouling NF-like selective layer",
@@ -10120,6 +10120,57 @@
             "doi": "10.1016/j.memsci.2013.03.023"
         },
         {
+            "title": "Experimental study and design of a submerged membrane distillation bioreactor",
+            "eid": "2-s2.0-60849108934",
+            "authors": [
+                {
+                    "scopus_id": "7801486355",
+                    "name": "Phattaranawik J.",
+                    "affiliation_id": [
+                        "60118451",
+                        "60013141"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.G.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "15769962000",
+                    "name": "Pasquier A.C.S.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "23481339000",
+                    "name": "Bing W.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "35254727200",
+                    "name": "Wong F.S.",
+                    "affiliation_id": [
+                        "101122180"
+                    ]
+                }
+            ],
+            "citations": 70,
+            "publication_name": "Chemical Engineering and Technology",
+            "issn": "09307516",
+            "cover_date": "2009-03-02",
+            "venue": "Journal",
+            "volume": "32",
+            "issue": "1",
+            "page_range": "38-44",
+            "doi": "10.1002/ceat.200800498"
+        },
+        {
             "title": "The effect of floc size and structure on specific cake resistance and compressibility in dead-end microfiltration",
             "eid": "2-s2.0-0037227915",
             "authors": [
@@ -10283,57 +10334,6 @@
             "issue": "3",
             "page_range": "1496-1503",
             "doi": "10.1021/es304306t"
-        },
-        {
-            "title": "Experimental study and design of a submerged membrane distillation bioreactor",
-            "eid": "2-s2.0-60849108934",
-            "authors": [
-                {
-                    "scopus_id": "7801486355",
-                    "name": "Phattaranawik J.",
-                    "affiliation_id": [
-                        "60118451",
-                        "60013141"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.G.",
-                    "affiliation_id": [
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "15769962000",
-                    "name": "Pasquier A.C.S.",
-                    "affiliation_id": [
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "23481339000",
-                    "name": "Bing W.",
-                    "affiliation_id": [
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35254727200",
-                    "name": "Wong F.S.",
-                    "affiliation_id": [
-                        "101122180"
-                    ]
-                }
-            ],
-            "citations": 69,
-            "publication_name": "Chemical Engineering and Technology",
-            "issn": "09307516",
-            "cover_date": "2009-03-02",
-            "venue": "Journal",
-            "volume": "32",
-            "issue": "1",
-            "page_range": "38-44",
-            "doi": "10.1002/ceat.200800498"
         },
         {
             "title": "An improved life cycle impact assessment (LCIA) approach for assessing aquatic eco-toxic impact of brine disposal from seawater desalination plants",
@@ -11268,6 +11268,50 @@
             "doi": "10.1016/j.desal.2004.07.037"
         },
         {
+            "title": "Hybrid low-pressure submerged membrane photoreactor for the removal of bisphenol A",
+            "eid": "2-s2.0-33751517762",
+            "authors": [
+                {
+                    "scopus_id": "12778576500",
+                    "name": "Chin S.S.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "7401710152",
+                    "name": "Lim T.M.",
+                    "affiliation_id": [
+                        "60118451",
+                        "100327268"
+                    ]
+                },
+                {
+                    "scopus_id": "7202409942",
+                    "name": "Chiang K.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.G.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                }
+            ],
+            "citations": 63,
+            "publication_name": "Desalination",
+            "issn": "00119164",
+            "cover_date": "2007-01-05",
+            "venue": "Journal",
+            "volume": "202",
+            "issue": "1-3",
+            "page_range": "253-261",
+            "doi": "10.1016/j.desal.2005.12.062"
+        },
+        {
             "title": "Characterization of a zigzag spacer for ultrafiltration",
             "eid": "2-s2.0-0034237605",
             "authors": [
@@ -11347,48 +11391,55 @@
             "doi": "10.1016/0376-7388(92)80028-I"
         },
         {
-            "title": "Hybrid low-pressure submerged membrane photoreactor for the removal of bisphenol A",
-            "eid": "2-s2.0-33751517762",
+            "title": "Composite hollow fiber membranes with different poly(dimethylsiloxane) intrusions into substrate for phenol removal via extractive membrane bioreactor",
+            "eid": "2-s2.0-84949483054",
             "authors": [
                 {
-                    "scopus_id": "12778576500",
-                    "name": "Chin S.S.",
+                    "scopus_id": "37000025600",
+                    "name": "Loh C.",
                     "affiliation_id": [
+                        "60118763"
+                    ]
+                },
+                {
+                    "scopus_id": "48762244500",
+                    "name": "Zhang Y.",
+                    "affiliation_id": [
+                        "60118763"
+                    ]
+                },
+                {
+                    "scopus_id": "54406881700",
+                    "name": "Goh S.",
+                    "affiliation_id": [
+                        "60118763"
+                    ]
+                },
+                {
+                    "scopus_id": "35081334000",
+                    "name": "Wang R.",
+                    "affiliation_id": [
+                        "60118763",
                         "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "7401710152",
-                    "name": "Lim T.M.",
-                    "affiliation_id": [
-                        "60118451",
-                        "100327268"
-                    ]
-                },
-                {
-                    "scopus_id": "7202409942",
-                    "name": "Chiang K.",
-                    "affiliation_id": [
-                        "60028333"
                     ]
                 },
                 {
                     "scopus_id": "35593963600",
-                    "name": "Fane A.G.",
+                    "name": "Fane A.",
                     "affiliation_id": [
-                        "60118451"
+                        "60118763"
                     ]
                 }
             ],
             "citations": 62,
-            "publication_name": "Desalination",
-            "issn": "00119164",
-            "cover_date": "2007-01-05",
+            "publication_name": "Journal of Membrane Science",
+            "issn": "03767388",
+            "cover_date": "2016-02-15",
             "venue": "Journal",
-            "volume": "202",
-            "issue": "1-3",
-            "page_range": "253-261",
-            "doi": "10.1016/j.desal.2005.12.062"
+            "volume": "500",
+            "issue": "",
+            "page_range": "236-244",
+            "doi": "10.1016/j.memsci.2015.12.001"
         },
         {
             "title": "Analysis of constant permeate flow filtration using dead-end hollow fiber membranes",
@@ -11491,57 +11542,6 @@
             "issue": "",
             "page_range": "54-62",
             "doi": "10.1016/j.desal.2017.06.024"
-        },
-        {
-            "title": "Composite hollow fiber membranes with different poly(dimethylsiloxane) intrusions into substrate for phenol removal via extractive membrane bioreactor",
-            "eid": "2-s2.0-84949483054",
-            "authors": [
-                {
-                    "scopus_id": "37000025600",
-                    "name": "Loh C.",
-                    "affiliation_id": [
-                        "60118763"
-                    ]
-                },
-                {
-                    "scopus_id": "48762244500",
-                    "name": "Zhang Y.",
-                    "affiliation_id": [
-                        "60118763"
-                    ]
-                },
-                {
-                    "scopus_id": "54406881700",
-                    "name": "Goh S.",
-                    "affiliation_id": [
-                        "60118763"
-                    ]
-                },
-                {
-                    "scopus_id": "35081334000",
-                    "name": "Wang R.",
-                    "affiliation_id": [
-                        "60118763",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.",
-                    "affiliation_id": [
-                        "60118763"
-                    ]
-                }
-            ],
-            "citations": 61,
-            "publication_name": "Journal of Membrane Science",
-            "issn": "03767388",
-            "cover_date": "2016-02-15",
-            "venue": "Journal",
-            "volume": "500",
-            "issue": "",
-            "page_range": "236-244",
-            "doi": "10.1016/j.memsci.2015.12.001"
         },
         {
             "title": "Application of forward osmosis for reducing volume of produced/Process water from oil and gas operations",
@@ -11931,6 +11931,42 @@
             "doi": "10.1016/j.seppur.2005.01.010"
         },
         {
+            "title": "Membrane fouling and its control in environmental applications",
+            "eid": "2-s2.0-0033880053",
+            "authors": [
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.G.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "6602910253",
+                    "name": "Beatson P.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "27172409200",
+                    "name": "Li H.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 57,
+            "publication_name": "Water Science and Technology",
+            "issn": "02731223",
+            "cover_date": "2000-01-01",
+            "venue": "Journal",
+            "volume": "41",
+            "issue": "10-11",
+            "page_range": "303-308",
+            "doi": "10.2166/wst.2000.0667"
+        },
+        {
             "title": "Effects of natural convection instability on membrane performance in dead-end and cross-flow ultrafiltration",
             "eid": "2-s2.0-0030573559",
             "authors": [
@@ -12100,6 +12136,49 @@
             "doi": "10.1016/j.memsci.2016.01.004"
         },
         {
+            "title": "Process intensification with selected membrane processes",
+            "eid": "2-s2.0-84911368207",
+            "authors": [
+                {
+                    "scopus_id": "35583440000",
+                    "name": "Sirkar K.K.",
+                    "affiliation_id": [
+                        "60024123"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.G.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "35081334000",
+                    "name": "Wang R.",
+                    "affiliation_id": [
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "7101901699",
+                    "name": "Wickramasinghe S.R.",
+                    "affiliation_id": [
+                        "60158796"
+                    ]
+                }
+            ],
+            "citations": 56,
+            "publication_name": "Chemical Engineering and Processing: Process Intensification",
+            "issn": "02552701",
+            "cover_date": "2015-01-01",
+            "venue": "Journal",
+            "volume": "87",
+            "issue": "",
+            "page_range": "16-25",
+            "doi": "10.1016/j.cep.2014.10.018"
+        },
+        {
             "title": "Fabrication of layer-by-layer assembled FO hollow fiber membranes and their performances using low concentration draw solutions",
             "eid": "2-s2.0-84870728544",
             "authors": [
@@ -12240,42 +12319,6 @@
             "doi": "10.1080/01496395.2011.630249"
         },
         {
-            "title": "Membrane fouling and its control in environmental applications",
-            "eid": "2-s2.0-0033880053",
-            "authors": [
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.G.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "6602910253",
-                    "name": "Beatson P.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "27172409200",
-                    "name": "Li H.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 56,
-            "publication_name": "Water Science and Technology",
-            "issn": "02731223",
-            "cover_date": "2000-01-01",
-            "venue": "Journal",
-            "volume": "41",
-            "issue": "10-11",
-            "page_range": "303-308",
-            "doi": "10.2166/wst.2000.0667"
-        },
-        {
             "title": "An investigation of concentration polarization phenomena in membrane filtration of colloidal silica suspensions by NMR micro-imaging",
             "eid": "2-s2.0-0032496914",
             "authors": [
@@ -12334,47 +12377,80 @@
             "doi": "10.1016/S0376-7388(98)00051-9"
         },
         {
-            "title": "Process intensification with selected membrane processes",
-            "eid": "2-s2.0-84911368207",
+            "title": "Effect of mechanical scouring by granular activated carbon (GAC) on membrane fouling mitigation",
+            "eid": "2-s2.0-84946432391",
             "authors": [
                 {
-                    "scopus_id": "35583440000",
-                    "name": "Sirkar K.K.",
+                    "scopus_id": "56906439500",
+                    "name": "Wu B.",
                     "affiliation_id": [
-                        "60024123"
+                        "60118763"
+                    ]
+                },
+                {
+                    "scopus_id": "57220413995",
+                    "name": "Zamani F.",
+                    "affiliation_id": [
+                        "60118763",
+                        "60280862"
+                    ]
+                },
+                {
+                    "scopus_id": "56450083400",
+                    "name": "Lim W.",
+                    "affiliation_id": [
+                        "60118763"
+                    ]
+                },
+                {
+                    "scopus_id": "8375142700",
+                    "name": "Liao D.",
+                    "affiliation_id": [
+                        "60025785"
+                    ]
+                },
+                {
+                    "scopus_id": "56946946600",
+                    "name": "Wang Y.",
+                    "affiliation_id": [
+                        "60118763",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "36701478100",
+                    "name": "Liu Y.",
+                    "affiliation_id": [
+                        "60118451",
+                        "60118763"
+                    ]
+                },
+                {
+                    "scopus_id": "35770477100",
+                    "name": "Chew J.W.",
+                    "affiliation_id": [
+                        "60118763",
+                        "60280862"
                     ]
                 },
                 {
                     "scopus_id": "35593963600",
                     "name": "Fane A.G.",
                     "affiliation_id": [
+                        "60118763",
                         "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35081334000",
-                    "name": "Wang R.",
-                    "affiliation_id": [
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "7101901699",
-                    "name": "Wickramasinghe S.R.",
-                    "affiliation_id": [
-                        "60158796"
                     ]
                 }
             ],
             "citations": 55,
-            "publication_name": "Chemical Engineering and Processing: Process Intensification",
-            "issn": "02552701",
-            "cover_date": "2015-01-01",
+            "publication_name": "Desalination",
+            "issn": "00119164",
+            "cover_date": "2017-02-01",
             "venue": "Journal",
-            "volume": "87",
+            "volume": "403",
             "issue": "",
-            "page_range": "16-25",
-            "doi": "10.1016/j.cep.2014.10.018"
+            "page_range": "80-87",
+            "doi": "10.1016/j.desal.2015.12.003"
         },
         {
             "title": "Characterization of forward osmosis membranes by electrochemical impedance spectroscopy",
@@ -12542,80 +12618,59 @@
             "doi": "10.1016/j.chemosphere.2016.12.069"
         },
         {
-            "title": "Effect of mechanical scouring by granular activated carbon (GAC) on membrane fouling mitigation",
-            "eid": "2-s2.0-84946432391",
+            "title": "Exploration of using thermally responsive polyionic liquid hydrogels as draw agents in forward osmosis",
+            "eid": "2-s2.0-84947904328",
             "authors": [
                 {
-                    "scopus_id": "56906439500",
-                    "name": "Wu B.",
+                    "scopus_id": "55746229100",
+                    "name": "Cai Y.",
                     "affiliation_id": [
-                        "60118763"
+                        "60005510",
+                        "113751109"
                     ]
                 },
                 {
-                    "scopus_id": "57220413995",
-                    "name": "Zamani F.",
+                    "scopus_id": "35081334000",
+                    "name": "Wang R.",
                     "affiliation_id": [
-                        "60118763",
-                        "60280862"
+                        "113751109",
+                        "60005510"
                     ]
                 },
                 {
-                    "scopus_id": "56450083400",
-                    "name": "Lim W.",
+                    "scopus_id": "7005450798",
+                    "name": "Krantz W.B.",
                     "affiliation_id": [
-                        "60118763"
-                    ]
-                },
-                {
-                    "scopus_id": "8375142700",
-                    "name": "Liao D.",
-                    "affiliation_id": [
-                        "60025785"
-                    ]
-                },
-                {
-                    "scopus_id": "56946946600",
-                    "name": "Wang Y.",
-                    "affiliation_id": [
-                        "60118763",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "36701478100",
-                    "name": "Liu Y.",
-                    "affiliation_id": [
-                        "60118451",
-                        "60118763"
-                    ]
-                },
-                {
-                    "scopus_id": "35770477100",
-                    "name": "Chew J.W.",
-                    "affiliation_id": [
-                        "60118763",
-                        "60280862"
+                        "113751109",
+                        "60000221"
                     ]
                 },
                 {
                     "scopus_id": "35593963600",
                     "name": "Fane A.G.",
                     "affiliation_id": [
-                        "60118763",
-                        "60118451"
+                        "113751109",
+                        "60005510"
+                    ]
+                },
+                {
+                    "scopus_id": "35795678700",
+                    "name": "Hu X.",
+                    "affiliation_id": [
+                        "60005510",
+                        "113751109"
                     ]
                 }
             ],
             "citations": 54,
-            "publication_name": "Desalination",
-            "issn": "00119164",
-            "cover_date": "2017-02-01",
+            "publication_name": "RSC Advances",
+            "issn": "",
+            "cover_date": "2015-01-01",
             "venue": "Journal",
-            "volume": "403",
-            "issue": "",
-            "page_range": "80-87",
-            "doi": "10.1016/j.desal.2015.12.003"
+            "volume": "5",
+            "issue": "118",
+            "page_range": "97143-97150",
+            "doi": "10.1039/c5ra19018e"
         },
         {
             "title": "Modeling long-term subcritical filtration of model EPS solutions",
@@ -12781,61 +12836,6 @@
             "issue": "8",
             "page_range": null,
             "doi": "10.3390/app7080765"
-        },
-        {
-            "title": "Exploration of using thermally responsive polyionic liquid hydrogels as draw agents in forward osmosis",
-            "eid": "2-s2.0-84947904328",
-            "authors": [
-                {
-                    "scopus_id": "55746229100",
-                    "name": "Cai Y.",
-                    "affiliation_id": [
-                        "60005510",
-                        "113751109"
-                    ]
-                },
-                {
-                    "scopus_id": "35081334000",
-                    "name": "Wang R.",
-                    "affiliation_id": [
-                        "113751109",
-                        "60005510"
-                    ]
-                },
-                {
-                    "scopus_id": "7005450798",
-                    "name": "Krantz W.B.",
-                    "affiliation_id": [
-                        "113751109",
-                        "60000221"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.G.",
-                    "affiliation_id": [
-                        "113751109",
-                        "60005510"
-                    ]
-                },
-                {
-                    "scopus_id": "35795678700",
-                    "name": "Hu X.",
-                    "affiliation_id": [
-                        "60005510",
-                        "113751109"
-                    ]
-                }
-            ],
-            "citations": 53,
-            "publication_name": "RSC Advances",
-            "issn": "",
-            "cover_date": "2015-01-01",
-            "venue": "Journal",
-            "volume": "5",
-            "issue": "118",
-            "page_range": "97143-97150",
-            "doi": "10.1039/c5ra19018e"
         },
         {
             "title": "Evaluation of a submerged membrane vis-LED photoreactor (sMPR) for carbamazepine degradation and TiO<inf>2</inf> separation",
@@ -16742,6 +16742,49 @@
             "doi": "10.1016/j.desal.2012.03.015"
         },
         {
+            "title": "Effects of channel spacers on direct contact membrane distillation",
+            "eid": "2-s2.0-80054962318",
+            "authors": [
+                {
+                    "scopus_id": "11940119100",
+                    "name": "Yun Y.",
+                    "affiliation_id": [
+                        "60006782"
+                    ]
+                },
+                {
+                    "scopus_id": "55930514400",
+                    "name": "Wang J.",
+                    "affiliation_id": [
+                        "60006782"
+                    ]
+                },
+                {
+                    "scopus_id": "7202993745",
+                    "name": "Ma R.",
+                    "affiliation_id": [
+                        "60021843"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.G.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 33,
+            "publication_name": "Desalination and Water Treatment",
+            "issn": "19443994",
+            "cover_date": "2011-01-01",
+            "venue": "Journal",
+            "volume": "34",
+            "issue": "1-3",
+            "page_range": "63-69",
+            "doi": "10.5004/dwt.2011.2870"
+        },
+        {
             "title": "Fouling control of submerged hollow fibre membrane bioreactor with transverse vibration",
             "eid": "2-s2.0-84956613480",
             "authors": [
@@ -16846,49 +16889,6 @@
             "issue": "",
             "page_range": "46-54",
             "doi": "10.1016/j.memsci.2013.09.015"
-        },
-        {
-            "title": "Effects of channel spacers on direct contact membrane distillation",
-            "eid": "2-s2.0-80054962318",
-            "authors": [
-                {
-                    "scopus_id": "11940119100",
-                    "name": "Yun Y.",
-                    "affiliation_id": [
-                        "60006782"
-                    ]
-                },
-                {
-                    "scopus_id": "55930514400",
-                    "name": "Wang J.",
-                    "affiliation_id": [
-                        "60006782"
-                    ]
-                },
-                {
-                    "scopus_id": "7202993745",
-                    "name": "Ma R.",
-                    "affiliation_id": [
-                        "60021843"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.G.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 32,
-            "publication_name": "Desalination and Water Treatment",
-            "issn": "19443994",
-            "cover_date": "2011-01-01",
-            "venue": "Journal",
-            "volume": "34",
-            "issue": "1-3",
-            "page_range": "63-69",
-            "doi": "10.5004/dwt.2011.2870"
         },
         {
             "title": "Assessment of trace estrogenic contaminants removal by coagulant addition, powdered activated carbon adsorption and powdered activated carbon/microfiltration processes",
@@ -17235,6 +17235,77 @@
             "doi": "10.1016/j.memsci.2014.04.046"
         },
         {
+            "title": "Fusion behaviour of aquaporin Z incorporated proteoliposomes investigated by quartz crystal microbalance with dissipation (QCM-D)",
+            "eid": "2-s2.0-84880351605",
+            "authors": [
+                {
+                    "scopus_id": "55262333500",
+                    "name": "Li X.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "35081334000",
+                    "name": "Wang R.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "6507042116",
+                    "name": "Wicaksana F.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "56510328000",
+                    "name": "Zhao Y.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "35489259800",
+                    "name": "Tang C.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451"
+                    ]
+                },
+                {
+                    "scopus_id": "7402798449",
+                    "name": "Torres J.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60095091"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.",
+                    "affiliation_id": [
+                        "60005510",
+                        "60118451"
+                    ]
+                }
+            ],
+            "citations": 30,
+            "publication_name": "Colloids and Surfaces B: Biointerfaces",
+            "issn": "09277765",
+            "cover_date": "2013-11-01",
+            "venue": "Journal",
+            "volume": "111",
+            "issue": "",
+            "page_range": "446-452",
+            "doi": "10.1016/j.colsurfb.2013.06.008"
+        },
+        {
             "title": "Effect of the surface charge of monodisperse particulate foulants on cake formation",
             "eid": "2-s2.0-85034059800",
             "authors": [
@@ -17430,77 +17501,6 @@
             "issue": "9",
             "page_range": "1093-1110",
             "doi": "10.1080/08927014.2014.971238"
-        },
-        {
-            "title": "Fusion behaviour of aquaporin Z incorporated proteoliposomes investigated by quartz crystal microbalance with dissipation (QCM-D)",
-            "eid": "2-s2.0-84880351605",
-            "authors": [
-                {
-                    "scopus_id": "55262333500",
-                    "name": "Li X.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35081334000",
-                    "name": "Wang R.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "6507042116",
-                    "name": "Wicaksana F.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "56510328000",
-                    "name": "Zhao Y.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "35489259800",
-                    "name": "Tang C.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451"
-                    ]
-                },
-                {
-                    "scopus_id": "7402798449",
-                    "name": "Torres J.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60095091"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.",
-                    "affiliation_id": [
-                        "60005510",
-                        "60118451"
-                    ]
-                }
-            ],
-            "citations": 29,
-            "publication_name": "Colloids and Surfaces B: Biointerfaces",
-            "issn": "09277765",
-            "cover_date": "2013-11-01",
-            "venue": "Journal",
-            "volume": "111",
-            "issue": "",
-            "page_range": "446-452",
-            "doi": "10.1016/j.colsurfb.2013.06.008"
         },
         {
             "title": "Hydrodynamic analysis of vibrating hollow fibre membranes",
@@ -19456,64 +19456,6 @@
             "doi": "10.1080/01496395.2016.1246569"
         },
         {
-            "title": "Observation of flow characteristics in a hollow fiber lumen using non-invasive X-ray microimaging (XMI)",
-            "eid": "2-s2.0-34548481086",
-            "authors": [
-                {
-                    "scopus_id": "57303149100",
-                    "name": "Chang S.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "8593875400",
-                    "name": "Yeo A.",
-                    "affiliation_id": [
-                        "60005510"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.",
-                    "affiliation_id": [
-                        "60028333",
-                        "60005510"
-                    ]
-                },
-                {
-                    "scopus_id": "7005963769",
-                    "name": "Cholewa M.",
-                    "affiliation_id": [
-                        "60017161"
-                    ]
-                },
-                {
-                    "scopus_id": "26431612400",
-                    "name": "Ping Y.",
-                    "affiliation_id": [
-                        "60017161"
-                    ]
-                },
-                {
-                    "scopus_id": "7202102026",
-                    "name": "Moser H.",
-                    "affiliation_id": [
-                        "60017161"
-                    ]
-                }
-            ],
-            "citations": 20,
-            "publication_name": "Journal of Membrane Science",
-            "issn": "03767388",
-            "cover_date": "2007-10-01",
-            "venue": "Journal",
-            "volume": "304",
-            "issue": "1-2",
-            "page_range": "181-189",
-            "doi": "10.1016/j.memsci.2007.07.037"
-        },
-        {
             "title": "Analysis of microbial community composition in a lab-scale membrane distillation bioreactor",
             "eid": "2-s2.0-84924907433",
             "authors": [
@@ -19574,7 +19516,7 @@
                     ]
                 }
             ],
-            "citations": 19,
+            "citations": 20,
             "publication_name": "Journal of Applied Microbiology",
             "issn": "13645072",
             "cover_date": "2015-04-01",
@@ -19583,6 +19525,64 @@
             "issue": "4",
             "page_range": "940-953",
             "doi": "10.1111/jam.12759"
+        },
+        {
+            "title": "Observation of flow characteristics in a hollow fiber lumen using non-invasive X-ray microimaging (XMI)",
+            "eid": "2-s2.0-34548481086",
+            "authors": [
+                {
+                    "scopus_id": "57303149100",
+                    "name": "Chang S.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "8593875400",
+                    "name": "Yeo A.",
+                    "affiliation_id": [
+                        "60005510"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60005510"
+                    ]
+                },
+                {
+                    "scopus_id": "7005963769",
+                    "name": "Cholewa M.",
+                    "affiliation_id": [
+                        "60017161"
+                    ]
+                },
+                {
+                    "scopus_id": "26431612400",
+                    "name": "Ping Y.",
+                    "affiliation_id": [
+                        "60017161"
+                    ]
+                },
+                {
+                    "scopus_id": "7202102026",
+                    "name": "Moser H.",
+                    "affiliation_id": [
+                        "60017161"
+                    ]
+                }
+            ],
+            "citations": 20,
+            "publication_name": "Journal of Membrane Science",
+            "issn": "03767388",
+            "cover_date": "2007-10-01",
+            "venue": "Journal",
+            "volume": "304",
+            "issue": "1-2",
+            "page_range": "181-189",
+            "doi": "10.1016/j.memsci.2007.07.037"
         },
         {
             "title": "Chapter 7: Membrane filtration processes and fouling",
@@ -23729,6 +23729,82 @@
             "doi": ""
         },
         {
+            "title": "A combined tannic acid-copper-iron coating of ultrafiltration membrane for enhanced anti-bacterial and algal-inhibition performance",
+            "eid": "2-s2.0-85140371492",
+            "authors": [
+                {
+                    "scopus_id": "55851926300",
+                    "name": "Liu J.",
+                    "affiliation_id": [
+                        "60007155"
+                    ]
+                },
+                {
+                    "scopus_id": "57815793000",
+                    "name": "Yu X.",
+                    "affiliation_id": [
+                        "60007155"
+                    ]
+                },
+                {
+                    "scopus_id": "57216274331",
+                    "name": "Yang E.",
+                    "affiliation_id": [
+                        "60007155"
+                    ]
+                },
+                {
+                    "scopus_id": "57192110393",
+                    "name": "Li T.",
+                    "affiliation_id": [
+                        "60073652",
+                        "60129287",
+                        "60073652"
+                    ]
+                },
+                {
+                    "scopus_id": "57241367300",
+                    "name": "Yu H.",
+                    "affiliation_id": [
+                        "60073652",
+                        "60129287"
+                    ]
+                },
+                {
+                    "scopus_id": "8050625200",
+                    "name": "Wang Z.",
+                    "affiliation_id": [
+                        "60007155"
+                    ]
+                },
+                {
+                    "scopus_id": "24436324900",
+                    "name": "Dong B.",
+                    "affiliation_id": [
+                        "60073652",
+                        "60129287",
+                        "60073652"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.G.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Journal of Water Process Engineering",
+            "issn": "22147144",
+            "cover_date": "2022-12-01",
+            "venue": "Journal",
+            "volume": "50",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.jwpe.2022.103250"
+        },
+        {
             "title": "A perspective on 3D printed membrane: Direct/indirect fabrication methods via direct laser writing",
             "eid": "2-s2.0-85015804570",
             "authors": [
@@ -24150,82 +24226,6 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1016/j.desal.2022.116349"
-        },
-        {
-            "title": "A combined tannic acid-copper-iron coating of ultrafiltration membrane for enhanced anti-bacterial and algal-inhibition performance",
-            "eid": "2-s2.0-85140371492",
-            "authors": [
-                {
-                    "scopus_id": "55851926300",
-                    "name": "Liu J.",
-                    "affiliation_id": [
-                        "60007155"
-                    ]
-                },
-                {
-                    "scopus_id": "57815793000",
-                    "name": "Yu X.",
-                    "affiliation_id": [
-                        "60007155"
-                    ]
-                },
-                {
-                    "scopus_id": "57216274331",
-                    "name": "Yang E.",
-                    "affiliation_id": [
-                        "60007155"
-                    ]
-                },
-                {
-                    "scopus_id": "57192110393",
-                    "name": "Li T.",
-                    "affiliation_id": [
-                        "60073652",
-                        "60129287",
-                        "60073652"
-                    ]
-                },
-                {
-                    "scopus_id": "57241367300",
-                    "name": "Yu H.",
-                    "affiliation_id": [
-                        "60073652",
-                        "60129287"
-                    ]
-                },
-                {
-                    "scopus_id": "8050625200",
-                    "name": "Wang Z.",
-                    "affiliation_id": [
-                        "60007155"
-                    ]
-                },
-                {
-                    "scopus_id": "24436324900",
-                    "name": "Dong B.",
-                    "affiliation_id": [
-                        "60073652",
-                        "60129287",
-                        "60073652"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.G.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 5,
-            "publication_name": "Journal of Water Process Engineering",
-            "issn": "22147144",
-            "cover_date": "2022-12-01",
-            "venue": "Journal",
-            "volume": "50",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.jwpe.2022.103250"
         },
         {
             "title": "Reserve management and real time optimization for a solar powered Membrane Distillation Bio-Reactor water recycling plant via convex optimization",
@@ -24744,6 +24744,56 @@
             "doi": "10.1002/aic.690320917"
         },
         {
+            "title": "IMPROVED DEWATERING OF ALUMINA TRIHYDRATE.",
+            "eid": "2-s2.0-0021566548",
+            "authors": [
+                {
+                    "scopus_id": "6603501211",
+                    "name": "Puttock S.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "35593963600",
+                    "name": "Fane A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7004505996",
+                    "name": "Fell C.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7201586009",
+                    "name": "Robins R.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7102128525",
+                    "name": "Wainwright M.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "",
+            "issn": "",
+            "cover_date": "1984-12-01",
+            "venue": "Conference Proceeding",
+            "volume": "1",
+            "issue": "",
+            "page_range": "277-284",
+            "doi": ""
+        },
+        {
             "title": "A novel single-scan printing approach for polyamide membranes by electrospray technique on polydopamine pre-coated substrate",
             "eid": "2-s2.0-85148740535",
             "authors": [
@@ -25125,56 +25175,6 @@
             "volume": "",
             "issue": "",
             "page_range": "401-405",
-            "doi": ""
-        },
-        {
-            "title": "IMPROVED DEWATERING OF ALUMINA TRIHYDRATE.",
-            "eid": "2-s2.0-0021566548",
-            "authors": [
-                {
-                    "scopus_id": "6603501211",
-                    "name": "Puttock S.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "35593963600",
-                    "name": "Fane A.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7004505996",
-                    "name": "Fell C.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7201586009",
-                    "name": "Robins R.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7102128525",
-                    "name": "Wainwright M.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 3,
-            "publication_name": "",
-            "issn": "",
-            "cover_date": "1984-12-01",
-            "venue": "Conference Proceeding",
-            "volume": "1",
-            "issue": "",
-            "page_range": "277-284",
             "doi": ""
         },
         {
@@ -27768,6 +27768,5 @@
             "$": "Environmental Science (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:15:45",
-    "c-score": null
+    "date fetched": "2024-07-12 19:56:04"
 }

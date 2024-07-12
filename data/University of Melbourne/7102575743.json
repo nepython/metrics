@@ -50,7 +50,7 @@
                     ]
                 }
             ],
-            "citations": 2599,
+            "citations": 2600,
             "publication_name": "Advanced Materials",
             "issn": "09359648",
             "cover_date": "2001-01-05",
@@ -121,7 +121,7 @@
                     ]
                 }
             ],
-            "citations": 1712,
+            "citations": 1719,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2013-01-01",
@@ -160,7 +160,7 @@
                     ]
                 }
             ],
-            "citations": 1202,
+            "citations": 1203,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2015-04-24",
@@ -326,7 +326,7 @@
                     ]
                 }
             ],
-            "citations": 799,
+            "citations": 800,
             "publication_name": "Angewandte Chemie - International Edition",
             "issn": "14337851",
             "cover_date": "2014-05-26",
@@ -420,7 +420,7 @@
                     ]
                 }
             ],
-            "citations": 686,
+            "citations": 690,
             "publication_name": "Chemical Reviews",
             "issn": "00092665",
             "cover_date": "2016-12-14",
@@ -537,7 +537,7 @@
                     ]
                 }
             ],
-            "citations": 630,
+            "citations": 631,
             "publication_name": "Chemistry of Materials",
             "issn": "08974756",
             "cover_date": "2001-03-06",
@@ -617,7 +617,7 @@
                     ]
                 }
             ],
-            "citations": 568,
+            "citations": 569,
             "publication_name": "Current Opinion in Colloid and Interface Science",
             "issn": "13590294",
             "cover_date": "2006-10-01",
@@ -765,7 +765,7 @@
                     ]
                 }
             ],
-            "citations": 535,
+            "citations": 537,
             "publication_name": "Nature Nanotechnology",
             "issn": "17483387",
             "cover_date": "2011-01-01",
@@ -794,7 +794,7 @@
                     ]
                 }
             ],
-            "citations": 525,
+            "citations": 526,
             "publication_name": "Chemistry of Materials",
             "issn": "08974756",
             "cover_date": "2005-03-08",
@@ -866,7 +866,7 @@
                     ]
                 }
             ],
-            "citations": 485,
+            "citations": 486,
             "publication_name": "Angewandte Chemie - International Edition",
             "issn": "14337851",
             "cover_date": "2001-08-17",
@@ -917,7 +917,7 @@
                     ]
                 }
             ],
-            "citations": 476,
+            "citations": 478,
             "publication_name": "ACS Nano",
             "issn": "19360851",
             "cover_date": "2017-12-26",
@@ -1229,7 +1229,7 @@
                     ]
                 }
             ],
-            "citations": 425,
+            "citations": 427,
             "publication_name": "Nano Today",
             "issn": "17480132",
             "cover_date": "2017-02-01",
@@ -1238,6 +1238,65 @@
             "issue": "",
             "page_range": "136-148",
             "doi": "10.1016/j.nantod.2016.12.012"
+        },
+        {
+            "title": "Overcoming the Blood\u2013Brain Barrier: The Role of Nanomaterials in Treating Neurological Diseases",
+            "eid": "2-s2.0-85051212126",
+            "authors": [
+                {
+                    "scopus_id": "57203302861",
+                    "name": "Furtado D.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55946535800",
+                    "name": "Bj\u00f6rnmalm M.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "35336030100",
+                    "name": "Ayton S.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57218355512",
+                    "name": "Bush A.I.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60018950"
+                    ]
+                },
+                {
+                    "scopus_id": "26435862100",
+                    "name": "Kempe K.",
+                    "affiliation_id": [
+                        "60134796"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 417,
+            "publication_name": "Advanced Materials",
+            "issn": "09359648",
+            "cover_date": "2018-11-15",
+            "venue": "Journal",
+            "volume": "30",
+            "issue": "46",
+            "page_range": null,
+            "doi": "10.1002/adma.201801362"
         },
         {
             "title": "Plasmon emission in photoexcited gold nanoparticles",
@@ -1312,65 +1371,6 @@
             "issue": "20",
             "page_range": null,
             "doi": "10.1103/PhysRevB.70.205424"
-        },
-        {
-            "title": "Overcoming the Blood\u2013Brain Barrier: The Role of Nanomaterials in Treating Neurological Diseases",
-            "eid": "2-s2.0-85051212126",
-            "authors": [
-                {
-                    "scopus_id": "57203302861",
-                    "name": "Furtado D.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55946535800",
-                    "name": "Bj\u00f6rnmalm M.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60015150"
-                    ]
-                },
-                {
-                    "scopus_id": "35336030100",
-                    "name": "Ayton S.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57218355512",
-                    "name": "Bush A.I.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60018950"
-                    ]
-                },
-                {
-                    "scopus_id": "26435862100",
-                    "name": "Kempe K.",
-                    "affiliation_id": [
-                        "60134796"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 415,
-            "publication_name": "Advanced Materials",
-            "issn": "09359648",
-            "cover_date": "2018-11-15",
-            "venue": "Journal",
-            "volume": "30",
-            "issue": "46",
-            "page_range": null,
-            "doi": "10.1002/adma.201801362"
         },
         {
             "title": "Next generation, sequentially assembled ultrathin films: Beyond electrostatics",
@@ -1452,6 +1452,49 @@
             "doi": "10.1021/ja990441m"
         },
         {
+            "title": "Nanostructured electrochemical sensor based on dense gold nanoparticle films",
+            "eid": "2-s2.0-0141461374",
+            "authors": [
+                {
+                    "scopus_id": "56988441400",
+                    "name": "Yu A.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "57199804968",
+                    "name": "Liang Z.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "35094987500",
+                    "name": "Cho J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 408,
+            "publication_name": "Nano Letters",
+            "issn": "15306984",
+            "cover_date": "2003-09-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "9",
+            "page_range": "1203-1207",
+            "doi": "10.1021/nl034363j"
+        },
+        {
             "title": "2. Assembly of alternating polyelectrolyte and protein multilayer films for imiminosensing",
             "eid": "2-s2.0-0031166297",
             "authors": [
@@ -1494,49 +1537,6 @@
             "issue": "13",
             "page_range": "3427-3433",
             "doi": "10.1021/la9608223"
-        },
-        {
-            "title": "Nanostructured electrochemical sensor based on dense gold nanoparticle films",
-            "eid": "2-s2.0-0141461374",
-            "authors": [
-                {
-                    "scopus_id": "56988441400",
-                    "name": "Yu A.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "57199804968",
-                    "name": "Liang Z.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "35094987500",
-                    "name": "Cho J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 407,
-            "publication_name": "Nano Letters",
-            "issn": "15306984",
-            "cover_date": "2003-09-01",
-            "venue": "Journal",
-            "volume": "3",
-            "issue": "9",
-            "page_range": "1203-1207",
-            "doi": "10.1021/nl034363j"
         },
         {
             "title": "Multilayer assemblies of silica-encapsulated gold nanoparticles on decomposable colloid templates",
@@ -1701,7 +1701,7 @@
                     ]
                 }
             ],
-            "citations": 366,
+            "citations": 367,
             "publication_name": "Journal of the American Chemical Society",
             "issn": "00027863",
             "cover_date": "2006-07-26",
@@ -1990,7 +1990,7 @@
                     ]
                 }
             ],
-            "citations": 331,
+            "citations": 332,
             "publication_name": "Nano Letters",
             "issn": "15306984",
             "cover_date": "2002-08-01",
@@ -2139,42 +2139,6 @@
             "doi": "10.1021/cm000438y"
         },
         {
-            "title": "Disulfide cross-linked polymer capsules: En route to biodeconstructible systems",
-            "eid": "2-s2.0-31544442936",
-            "authors": [
-                {
-                    "scopus_id": "6601909884",
-                    "name": "Zelikin A.N.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7401548204",
-                    "name": "Quinn J.F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 311,
-            "publication_name": "Biomacromolecules",
-            "issn": "15257797",
-            "cover_date": "2006-01-01",
-            "venue": "Journal",
-            "volume": "7",
-            "issue": "1",
-            "page_range": "27-30",
-            "doi": "10.1021/bm050832v"
-        },
-        {
             "title": "Coordination-driven multistep assembly of metal-polyphenol films and capsules",
             "eid": "2-s2.0-84894648583",
             "authors": [
@@ -2230,7 +2194,7 @@
                     ]
                 }
             ],
-            "citations": 310,
+            "citations": 312,
             "publication_name": "Chemistry of Materials",
             "issn": "08974756",
             "cover_date": "2014-02-25",
@@ -2239,6 +2203,42 @@
             "issue": "4",
             "page_range": "1645-1653",
             "doi": "10.1021/cm403903m"
+        },
+        {
+            "title": "Disulfide cross-linked polymer capsules: En route to biodeconstructible systems",
+            "eid": "2-s2.0-31544442936",
+            "authors": [
+                {
+                    "scopus_id": "6601909884",
+                    "name": "Zelikin A.N.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7401548204",
+                    "name": "Quinn J.F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 311,
+            "publication_name": "Biomacromolecules",
+            "issn": "15257797",
+            "cover_date": "2006-01-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "1",
+            "page_range": "27-30",
+            "doi": "10.1021/bm050832v"
         },
         {
             "title": "Engineered hydrogen-bonded polymer multilayers: From assembly to biomedical applications",
@@ -2398,7 +2398,7 @@
                     ]
                 }
             ],
-            "citations": 301,
+            "citations": 302,
             "publication_name": "ACS Nano",
             "issn": "19360851",
             "cover_date": "2017-10-24",
@@ -2407,42 +2407,6 @@
             "issue": "10",
             "page_range": "9594-9613",
             "doi": "10.1021/acsnano.7b04855"
-        },
-        {
-            "title": "Production of hollow microspheres from nanostructured composite particles",
-            "eid": "2-s2.0-0001742520",
-            "authors": [
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "7102906940",
-                    "name": "Caruso R.A.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "35511455300",
-                    "name": "M\u00f6hwald H.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                }
-            ],
-            "citations": 300,
-            "publication_name": "Chemistry of Materials",
-            "issn": "08974756",
-            "cover_date": "1999-01-01",
-            "venue": "Journal",
-            "volume": "11",
-            "issue": "11",
-            "page_range": "3309-3314",
-            "doi": "10.1021/cm991083p"
         },
         {
             "title": "Void Engineering in Metal\u2013Organic Frameworks via Synergistic Etching and Surface Functionalization",
@@ -2492,7 +2456,7 @@
                     ]
                 }
             ],
-            "citations": 299,
+            "citations": 301,
             "publication_name": "Advanced Functional Materials",
             "issn": "1616301X",
             "cover_date": "2016-08-23",
@@ -2501,6 +2465,92 @@
             "issue": "32",
             "page_range": "5827-5834",
             "doi": "10.1002/adfm.201601193"
+        },
+        {
+            "title": "Production of hollow microspheres from nanostructured composite particles",
+            "eid": "2-s2.0-0001742520",
+            "authors": [
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "7102906940",
+                    "name": "Caruso R.A.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "35511455300",
+                    "name": "M\u00f6hwald H.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                }
+            ],
+            "citations": 300,
+            "publication_name": "Chemistry of Materials",
+            "issn": "08974756",
+            "cover_date": "1999-01-01",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "11",
+            "page_range": "3309-3314",
+            "doi": "10.1021/cm991083p"
+        },
+        {
+            "title": "Phenolic Building Blocks for the Assembly of Functional Materials",
+            "eid": "2-s2.0-85058217111",
+            "authors": [
+                {
+                    "scopus_id": "36464136600",
+                    "name": "Rahim M.A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "36170696900",
+                    "name": "Kristufek S.L.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "36911670800",
+                    "name": "Pan S.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55627773700",
+                    "name": "Richardson J.J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 299,
+            "publication_name": "Angewandte Chemie - International Edition",
+            "issn": "14337851",
+            "cover_date": "2019-02-11",
+            "venue": "Journal",
+            "volume": "58",
+            "issue": "7",
+            "page_range": "1904-1927",
+            "doi": "10.1002/anie.201807804"
         },
         {
             "title": "Immobilization and intracellular delivery of an anticancer drug using mussel-inspired polydopamine capsules",
@@ -2566,56 +2616,6 @@
             "issue": "8",
             "page_range": "2225-2228",
             "doi": "10.1021/bm300835r"
-        },
-        {
-            "title": "Phenolic Building Blocks for the Assembly of Functional Materials",
-            "eid": "2-s2.0-85058217111",
-            "authors": [
-                {
-                    "scopus_id": "36464136600",
-                    "name": "Rahim M.A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "36170696900",
-                    "name": "Kristufek S.L.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "36911670800",
-                    "name": "Pan S.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55627773700",
-                    "name": "Richardson J.J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 298,
-            "publication_name": "Angewandte Chemie - International Edition",
-            "issn": "14337851",
-            "cover_date": "2019-02-11",
-            "venue": "Journal",
-            "volume": "58",
-            "issue": "7",
-            "page_range": "1904-1927",
-            "doi": "10.1002/anie.201807804"
         },
         {
             "title": "Coatings super-repellent to ultralow surface tension liquids",
@@ -3261,7 +3261,7 @@
                     ]
                 }
             ],
-            "citations": 241,
+            "citations": 242,
             "publication_name": "Advanced Functional Materials",
             "issn": "1616301X",
             "cover_date": "2009-07-24",
@@ -3382,49 +3382,6 @@
             "doi": "10.1088/0034-4885/60/11/005"
         },
         {
-            "title": "Nanoporous thin films formed by salt-induced structural changes in multilayers of poly(acrylic acid) and poly(allylamine)",
-            "eid": "2-s2.0-0035954446",
-            "authors": [
-                {
-                    "scopus_id": "7004680938",
-                    "name": "Fery A.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "6506751603",
-                    "name": "Sch\u00f6ler B.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "6602944278",
-                    "name": "Cassagneau T.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                }
-            ],
-            "citations": 224,
-            "publication_name": "Langmuir",
-            "issn": "07437463",
-            "cover_date": "2001-06-26",
-            "venue": "Journal",
-            "volume": "17",
-            "issue": "13",
-            "page_range": "3779-3783",
-            "doi": "10.1021/la0102612"
-        },
-        {
             "title": "Metal-Organic Frameworks for Cell and Virus Biology: A Perspective",
             "eid": "2-s2.0-85042022542",
             "authors": [
@@ -3479,7 +3436,7 @@
                     ]
                 }
             ],
-            "citations": 221,
+            "citations": 224,
             "publication_name": "ACS Nano",
             "issn": "19360851",
             "cover_date": "2018-01-23",
@@ -3488,6 +3445,49 @@
             "issue": "1",
             "page_range": "13-23",
             "doi": "10.1021/acsnano.7b08056"
+        },
+        {
+            "title": "Nanoporous thin films formed by salt-induced structural changes in multilayers of poly(acrylic acid) and poly(allylamine)",
+            "eid": "2-s2.0-0035954446",
+            "authors": [
+                {
+                    "scopus_id": "7004680938",
+                    "name": "Fery A.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "6506751603",
+                    "name": "Sch\u00f6ler B.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "6602944278",
+                    "name": "Cassagneau T.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                }
+            ],
+            "citations": 224,
+            "publication_name": "Langmuir",
+            "issn": "07437463",
+            "cover_date": "2001-06-26",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "13",
+            "page_range": "3779-3783",
+            "doi": "10.1021/la0102612"
         },
         {
             "title": "PH-Responsive capsules engineered from metal-phenolic networks for anticancer drug delivery",
@@ -3674,35 +3674,6 @@
             "issue": "14",
             "page_range": "1737-1741",
             "doi": "10.1002/adma.200402045"
-        },
-        {
-            "title": "Preparation and characterization of ordered nanoparticle and polymer composite multilayers on colloids",
-            "eid": "2-s2.0-18544409388",
-            "authors": [
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "35511455300",
-                    "name": "M\u00f6hwald H.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                }
-            ],
-            "citations": 211,
-            "publication_name": "Langmuir",
-            "issn": "07437463",
-            "cover_date": "1999-11-09",
-            "venue": "Journal",
-            "volume": "15",
-            "issue": "23",
-            "page_range": "8276-8281",
-            "doi": "10.1021/la990426v"
         },
         {
             "title": "The Future of Layer-by-Layer Assembly: A Tribute to ACS Nano Associate Editor Helmuth Mohwald",
@@ -3910,7 +3881,7 @@
                     ]
                 }
             ],
-            "citations": 210,
+            "citations": 211,
             "publication_name": "ACS Nano",
             "issn": "19360851",
             "cover_date": "2019-06-25",
@@ -3919,6 +3890,35 @@
             "issue": "6",
             "page_range": "6151-6169",
             "doi": "10.1021/acsnano.9b03326"
+        },
+        {
+            "title": "Preparation and characterization of ordered nanoparticle and polymer composite multilayers on colloids",
+            "eid": "2-s2.0-18544409388",
+            "authors": [
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "35511455300",
+                    "name": "M\u00f6hwald H.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                }
+            ],
+            "citations": 211,
+            "publication_name": "Langmuir",
+            "issn": "07437463",
+            "cover_date": "1999-11-09",
+            "venue": "Journal",
+            "volume": "15",
+            "issue": "23",
+            "page_range": "8276-8281",
+            "doi": "10.1021/la990426v"
         },
         {
             "title": "Facile Tailoring of Film Morphology and Release Properties Using Layer-by-Layer Assembly of Thermoresponsive Materials",
@@ -4586,7 +4586,7 @@
                     ]
                 }
             ],
-            "citations": 182,
+            "citations": 183,
             "publication_name": "Advanced Materials",
             "issn": "09359648",
             "cover_date": "2015-04-08",
@@ -4775,6 +4775,42 @@
             "doi": "10.1002/adma.201001497"
         },
         {
+            "title": "Assembly of layer-by-layer particles and their interactions with biological systems",
+            "eid": "2-s2.0-84888873319",
+            "authors": [
+                {
+                    "scopus_id": "56527548600",
+                    "name": "Yan Y.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55946535800",
+                    "name": "Bj\u00f6rnmalm M.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 179,
+            "publication_name": "Chemistry of Materials",
+            "issn": "08974756",
+            "cover_date": "2014-01-14",
+            "venue": "Journal",
+            "volume": "26",
+            "issue": "1",
+            "page_range": "452-460",
+            "doi": "10.1021/cm402126n"
+        },
+        {
             "title": "Biodegradable click capsules with engineered drug-loaded multilayers",
             "eid": "2-s2.0-77950174111",
             "authors": [
@@ -4860,42 +4896,6 @@
             "issue": "3",
             "page_range": "183-188",
             "doi": "10.1002/adfm.200390028"
-        },
-        {
-            "title": "Assembly of layer-by-layer particles and their interactions with biological systems",
-            "eid": "2-s2.0-84888873319",
-            "authors": [
-                {
-                    "scopus_id": "56527548600",
-                    "name": "Yan Y.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55946535800",
-                    "name": "Bj\u00f6rnmalm M.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 178,
-            "publication_name": "Chemistry of Materials",
-            "issn": "08974756",
-            "cover_date": "2014-01-14",
-            "venue": "Journal",
-            "volume": "26",
-            "issue": "1",
-            "page_range": "452-460",
-            "doi": "10.1021/cm402126n"
         },
         {
             "title": "Surface-Confined Amorphous Films from Metal-Coordinated Simple Phenolic Ligands",
@@ -5128,7 +5128,7 @@
                     ]
                 }
             ],
-            "citations": 168,
+            "citations": 169,
             "publication_name": "ACS Nano",
             "issn": "19360851",
             "cover_date": "2019-01-22",
@@ -5342,7 +5342,7 @@
                     ]
                 }
             ],
-            "citations": 163,
+            "citations": 164,
             "publication_name": "Biomacromolecules",
             "issn": "15257797",
             "cover_date": "2002-11-01",
@@ -5455,6 +5455,84 @@
             "doi": "10.1039/b9nr00143c"
         },
         {
+            "title": "A protective vaccine delivery system for in vivo T cell stimulation using nanoengineered polymer hydrogel capsules",
+            "eid": "2-s2.0-73249140756",
+            "authors": [
+                {
+                    "scopus_id": "25929497300",
+                    "name": "Sexton A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "13003608300",
+                    "name": "Whitney P.G.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "25928962900",
+                    "name": "Chong S.F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "6601909884",
+                    "name": "Zelikin A.N.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "8622589500",
+                    "name": "Johnston A.P.R.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56348225300",
+                    "name": "Rose R.D.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "26643350600",
+                    "name": "Brooks A.G.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57226861831",
+                    "name": "Kent S.J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 160,
+            "publication_name": "ACS Nano",
+            "issn": "19360851",
+            "cover_date": "2009-11-24",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "11",
+            "page_range": "3391-3400",
+            "doi": "10.1021/nn900715g"
+        },
+        {
             "title": "Metal\u2013Phenolic Supramolecular Gelation",
             "eid": "2-s2.0-84990049625",
             "authors": [
@@ -5541,84 +5619,6 @@
             "issue": "44",
             "page_range": "13803-13807",
             "doi": "10.1002/anie.201608413"
-        },
-        {
-            "title": "A protective vaccine delivery system for in vivo T cell stimulation using nanoengineered polymer hydrogel capsules",
-            "eid": "2-s2.0-73249140756",
-            "authors": [
-                {
-                    "scopus_id": "25929497300",
-                    "name": "Sexton A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "13003608300",
-                    "name": "Whitney P.G.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "25928962900",
-                    "name": "Chong S.F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "6601909884",
-                    "name": "Zelikin A.N.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "8622589500",
-                    "name": "Johnston A.P.R.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56348225300",
-                    "name": "Rose R.D.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "26643350600",
-                    "name": "Brooks A.G.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57226861831",
-                    "name": "Kent S.J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 159,
-            "publication_name": "ACS Nano",
-            "issn": "19360851",
-            "cover_date": "2009-11-24",
-            "venue": "Journal",
-            "volume": "3",
-            "issue": "11",
-            "page_range": "3391-3400",
-            "doi": "10.1021/nn900715g"
         },
         {
             "title": "An Enzyme-Coated Metal\u2013Organic Framework Shell for Synthetically Adaptive Cell Survival",
@@ -5728,7 +5728,7 @@
                     ]
                 }
             ],
-            "citations": 156,
+            "citations": 157,
             "publication_name": "Nano Letters",
             "issn": "15306984",
             "cover_date": "2001-12-01",
@@ -5757,7 +5757,7 @@
                     ]
                 }
             ],
-            "citations": 154,
+            "citations": 155,
             "publication_name": "Langmuir",
             "issn": "07437463",
             "cover_date": "2012-10-02",
@@ -5929,42 +5929,6 @@
             "doi": "10.1002/1616-3028(200104)11:2<122::AID-ADFM122>3.0.CO;2-N"
         },
         {
-            "title": "Gold-titania core-shell nanoparticles by polyelectrolyte complexation with a titania precursor",
-            "eid": "2-s2.0-0035189626",
-            "authors": [
-                {
-                    "scopus_id": "26032232400",
-                    "name": "Mayya K.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "6603809055",
-                    "name": "Gittins D.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                }
-            ],
-            "citations": 148,
-            "publication_name": "Chemistry of Materials",
-            "issn": "08974756",
-            "cover_date": "2001-12-10",
-            "venue": "Journal",
-            "volume": "13",
-            "issue": "11",
-            "page_range": "3833-3836",
-            "doi": "10.1021/cm011128y"
-        },
-        {
             "title": "Polyphenol-Mediated Assembly of Proteins for Engineering Functional Materials",
             "eid": "2-s2.0-85082064098",
             "authors": [
@@ -6018,7 +5982,7 @@
                     ]
                 }
             ],
-            "citations": 147,
+            "citations": 149,
             "publication_name": "Angewandte Chemie - International Edition",
             "issn": "14337851",
             "cover_date": "2020-09-01",
@@ -6027,6 +5991,42 @@
             "issue": "36",
             "page_range": "15618-15625",
             "doi": "10.1002/anie.202002089"
+        },
+        {
+            "title": "Gold-titania core-shell nanoparticles by polyelectrolyte complexation with a titania precursor",
+            "eid": "2-s2.0-0035189626",
+            "authors": [
+                {
+                    "scopus_id": "26032232400",
+                    "name": "Mayya K.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "6603809055",
+                    "name": "Gittins D.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                }
+            ],
+            "citations": 148,
+            "publication_name": "Chemistry of Materials",
+            "issn": "08974756",
+            "cover_date": "2001-12-10",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "11",
+            "page_range": "3833-3836",
+            "doi": "10.1021/cm011128y"
         },
         {
             "title": "Immunological Principles Guiding the Rational Design of Particles for Vaccine Delivery",
@@ -6075,7 +6075,7 @@
                     ]
                 }
             ],
-            "citations": 146,
+            "citations": 147,
             "publication_name": "ACS Nano",
             "issn": "19360851",
             "cover_date": "2017-01-24",
@@ -6435,7 +6435,7 @@
                     ]
                 }
             ],
-            "citations": 139,
+            "citations": 140,
             "publication_name": "Angewandte Chemie - International Edition",
             "issn": "14337851",
             "cover_date": "2009-02-16",
@@ -7411,47 +7411,6 @@
             "doi": "10.1021/nn3046117"
         },
         {
-            "title": "Bioinspired colloidal systems via layer-by-layer assembly",
-            "eid": "2-s2.0-33645286619",
-            "authors": [
-                {
-                    "scopus_id": "8260284800",
-                    "name": "Angelatos A.S.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102933112",
-                    "name": "Katagiri K.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60003497",
-                        "60003497"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60026553",
-                        "102077029"
-                    ]
-                }
-            ],
-            "citations": 128,
-            "publication_name": "Soft Matter",
-            "issn": "1744683X",
-            "cover_date": "2006-04-11",
-            "venue": "Journal",
-            "volume": "2",
-            "issue": "1",
-            "page_range": "18-23",
-            "doi": "10.1039/b511930h"
-        },
-        {
             "title": "Phase transfer of surface-modified gold nanoparticles by hydrophobization with alkylamines",
             "eid": "2-s2.0-0042388789",
             "authors": [
@@ -7470,7 +7429,7 @@
                     ]
                 }
             ],
-            "citations": 128,
+            "citations": 129,
             "publication_name": "Langmuir",
             "issn": "07437463",
             "cover_date": "2003-08-19",
@@ -7535,7 +7494,7 @@
                     ]
                 }
             ],
-            "citations": 127,
+            "citations": 128,
             "publication_name": "Chemical Reviews",
             "issn": "00092665",
             "cover_date": "2022-07-13",
@@ -7544,6 +7503,47 @@
             "issue": "13",
             "page_range": "11432-11473",
             "doi": "10.1021/acs.chemrev.1c01042"
+        },
+        {
+            "title": "Bioinspired colloidal systems via layer-by-layer assembly",
+            "eid": "2-s2.0-33645286619",
+            "authors": [
+                {
+                    "scopus_id": "8260284800",
+                    "name": "Angelatos A.S.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102933112",
+                    "name": "Katagiri K.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60003497",
+                        "60003497"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60026553",
+                        "102077029"
+                    ]
+                }
+            ],
+            "citations": 128,
+            "publication_name": "Soft Matter",
+            "issn": "1744683X",
+            "cover_date": "2006-04-11",
+            "venue": "Journal",
+            "volume": "2",
+            "issue": "1",
+            "page_range": "18-23",
+            "doi": "10.1039/b511930h"
         },
         {
             "title": "Metal-Phenolic Coatings as a Platform to Trigger Endosomal Escape of Nanoparticles",
@@ -7627,7 +7627,7 @@
                     ]
                 }
             ],
-            "citations": 126,
+            "citations": 127,
             "publication_name": "ACS Nano",
             "issn": "19360851",
             "cover_date": "2019-10-22",
@@ -8326,6 +8326,63 @@
             "doi": "10.1021/acsnano.2c04543"
         },
         {
+            "title": "A paradigm for peptide vaccine delivery using viral epitopes encapsulated in degradable polymer hydrogel capsules",
+            "eid": "2-s2.0-67849119414",
+            "authors": [
+                {
+                    "scopus_id": "25928962900",
+                    "name": "Chong S.F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "25929497300",
+                    "name": "Sexton A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "6602695593",
+                    "name": "De Rose R.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57226861831",
+                    "name": "Kent S.J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "6601909884",
+                    "name": "Zelikin A.N.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 114,
+            "publication_name": "Biomaterials",
+            "issn": "01429612",
+            "cover_date": "2009-10-01",
+            "venue": "Journal",
+            "volume": "30",
+            "issue": "28",
+            "page_range": "5178-5186",
+            "doi": "10.1016/j.biomaterials.2009.05.078"
+        },
+        {
             "title": "Microfluidic polymer multilayer adsorption on liquid crystal droplets for microcapsule synthesis",
             "eid": "2-s2.0-56549112359",
             "authors": [
@@ -8504,63 +8561,6 @@
             "doi": "10.1073/pnas.0908531107"
         },
         {
-            "title": "A paradigm for peptide vaccine delivery using viral epitopes encapsulated in degradable polymer hydrogel capsules",
-            "eid": "2-s2.0-67849119414",
-            "authors": [
-                {
-                    "scopus_id": "25928962900",
-                    "name": "Chong S.F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "25929497300",
-                    "name": "Sexton A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "6602695593",
-                    "name": "De Rose R.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57226861831",
-                    "name": "Kent S.J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "6601909884",
-                    "name": "Zelikin A.N.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 113,
-            "publication_name": "Biomaterials",
-            "issn": "01429612",
-            "cover_date": "2009-10-01",
-            "venue": "Journal",
-            "volume": "30",
-            "issue": "28",
-            "page_range": "5178-5186",
-            "doi": "10.1016/j.biomaterials.2009.05.078"
-        },
-        {
             "title": "Low-fouling, biofunctionalized, and biodegradable click capsules",
             "eid": "2-s2.0-58149175825",
             "authors": [
@@ -8689,49 +8689,6 @@
             "doi": "10.1021/ac0200522"
         },
         {
-            "title": "Tuning the formation and degradation of layer-by-layer assembled polymer hydrogel microcapsules",
-            "eid": "2-s2.0-74049093249",
-            "authors": [
-                {
-                    "scopus_id": "26434263600",
-                    "name": "Becker A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "6601909884",
-                    "name": "Zelikin A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "8622589500",
-                    "name": "Johnston A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 111,
-            "publication_name": "Langmuir",
-            "issn": "07437463",
-            "cover_date": "2009-12-15",
-            "venue": "Journal",
-            "volume": "25",
-            "issue": "24",
-            "page_range": "14079-14085",
-            "doi": "10.1021/la901687a"
-        },
-        {
             "title": "Rust-Mediated Continuous Assembly of Metal\u2013Phenolic Networks",
             "eid": "2-s2.0-85017409100",
             "authors": [
@@ -8792,7 +8749,7 @@
                     ]
                 }
             ],
-            "citations": 110,
+            "citations": 111,
             "publication_name": "Advanced Materials",
             "issn": "09359648",
             "cover_date": "2017-06-13",
@@ -8801,6 +8758,49 @@
             "issue": "22",
             "page_range": null,
             "doi": "10.1002/adma.201606717"
+        },
+        {
+            "title": "Tuning the formation and degradation of layer-by-layer assembled polymer hydrogel microcapsules",
+            "eid": "2-s2.0-74049093249",
+            "authors": [
+                {
+                    "scopus_id": "26434263600",
+                    "name": "Becker A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "6601909884",
+                    "name": "Zelikin A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "8622589500",
+                    "name": "Johnston A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 111,
+            "publication_name": "Langmuir",
+            "issn": "07437463",
+            "cover_date": "2009-12-15",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "24",
+            "page_range": "14079-14085",
+            "doi": "10.1021/la901687a"
         },
         {
             "title": "Stabilization and functionalization of polymer multilayers and capsules via thiol-ene click chemistry",
@@ -8873,6 +8873,63 @@
             "issue": "11",
             "page_range": "750-753",
             "doi": "10.1002/1521-3927(20000701)21:11<750::AID-MARC750>3.0.CO;2-3"
+        },
+        {
+            "title": "Particle Targeting in Complex Biological Media",
+            "eid": "2-s2.0-85027707339",
+            "authors": [
+                {
+                    "scopus_id": "56572024800",
+                    "name": "Dai Q.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55600522000",
+                    "name": "Bertleff-Zieschang N.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "35110862000",
+                    "name": "Braunger J.A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55946535800",
+                    "name": "Bj\u00f6rnmalm M.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7004209359",
+                    "name": "Cortez-Jugo C.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 108,
+            "publication_name": "Advanced Healthcare Materials",
+            "issn": "21922640",
+            "cover_date": "2018-01-10",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1002/adhm.201700575"
         },
         {
             "title": "Detection of atomic spin labels in a lipid bilayer using a single-spin nanodiamond probe",
@@ -9078,9 +9135,37 @@
             "doi": "10.1006/jcis.2000.7325"
         },
         {
-            "title": "Particle Targeting in Complex Biological Media",
-            "eid": "2-s2.0-85027707339",
+            "title": "The role of capsule stiffness on cellular processing",
+            "eid": "2-s2.0-84929587020",
             "authors": [
+                {
+                    "scopus_id": "55800370900",
+                    "name": "Sun H.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55605082100",
+                    "name": "Wong E.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56527548600",
+                    "name": "Yan Y.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "16201929100",
+                    "name": "Cui J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
                 {
                     "scopus_id": "56572024800",
                     "name": "Dai Q.",
@@ -9089,29 +9174,15 @@
                     ]
                 },
                 {
-                    "scopus_id": "55600522000",
-                    "name": "Bertleff-Zieschang N.",
+                    "scopus_id": "56179829300",
+                    "name": "Guo J.",
                     "affiliation_id": [
                         "60026553"
                     ]
                 },
                 {
-                    "scopus_id": "35110862000",
-                    "name": "Braunger J.A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55946535800",
-                    "name": "Bj\u00f6rnmalm M.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7004209359",
-                    "name": "Cortez-Jugo C.",
+                    "scopus_id": "56446346700",
+                    "name": "Qiao G.",
                     "affiliation_id": [
                         "60026553"
                     ]
@@ -9125,14 +9196,14 @@
                 }
             ],
             "citations": 107,
-            "publication_name": "Advanced Healthcare Materials",
-            "issn": "21922640",
-            "cover_date": "2018-01-10",
+            "publication_name": "Chemical Science",
+            "issn": "20416520",
+            "cover_date": "2015-06-01",
             "venue": "Journal",
-            "volume": "7",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1002/adhm.201700575"
+            "volume": "6",
+            "issue": "6",
+            "page_range": "3505-3514",
+            "doi": "10.1039/c5sc00416k"
         },
         {
             "title": "Capsosomes with multilayered subcompartments: Assembly and loading with hydrophobic Cargo",
@@ -9202,77 +9273,6 @@
             "doi": "10.1002/adfm.200901297"
         },
         {
-            "title": "The role of capsule stiffness on cellular processing",
-            "eid": "2-s2.0-84929587020",
-            "authors": [
-                {
-                    "scopus_id": "55800370900",
-                    "name": "Sun H.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55605082100",
-                    "name": "Wong E.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56527548600",
-                    "name": "Yan Y.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "16201929100",
-                    "name": "Cui J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56572024800",
-                    "name": "Dai Q.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56179829300",
-                    "name": "Guo J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56446346700",
-                    "name": "Qiao G.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 106,
-            "publication_name": "Chemical Science",
-            "issn": "20416520",
-            "cover_date": "2015-06-01",
-            "venue": "Journal",
-            "volume": "6",
-            "issue": "6",
-            "page_range": "3505-3514",
-            "doi": "10.1039/c5sc00416k"
-        },
-        {
             "title": "Fabrication of Polyelectrolyte Multilayer Films Comprising Nanoblended Layers",
             "eid": "2-s2.0-1542315169",
             "authors": [
@@ -9307,36 +9307,6 @@
             "issue": "8",
             "page_range": "2270-2271",
             "doi": "10.1021/ja039830d"
-        },
-        {
-            "title": "Homogeneous, competitive fluorescence quenching immunoassay based on gold nanoparticle/polyelectrolyte coated latex particles",
-            "eid": "2-s2.0-27744584164",
-            "authors": [
-                {
-                    "scopus_id": "7403473909",
-                    "name": "Kato N.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60023462"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 105,
-            "publication_name": "Journal of Physical Chemistry B",
-            "issn": "15206106",
-            "cover_date": "2005-10-27",
-            "venue": "Journal",
-            "volume": "109",
-            "issue": "42",
-            "page_range": "19604-19612",
-            "doi": "10.1021/jp052748f"
         },
         {
             "title": "Engineering fluorescent poly(dopamine) capsules",
@@ -9392,7 +9362,7 @@
                     ]
                 }
             ],
-            "citations": 104,
+            "citations": 105,
             "publication_name": "Langmuir",
             "issn": "07437463",
             "cover_date": "2014-03-18",
@@ -9401,6 +9371,36 @@
             "issue": "10",
             "page_range": "2921-2925",
             "doi": "10.1021/la4049133"
+        },
+        {
+            "title": "Homogeneous, competitive fluorescence quenching immunoassay based on gold nanoparticle/polyelectrolyte coated latex particles",
+            "eid": "2-s2.0-27744584164",
+            "authors": [
+                {
+                    "scopus_id": "7403473909",
+                    "name": "Kato N.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60023462"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 105,
+            "publication_name": "Journal of Physical Chemistry B",
+            "issn": "15206106",
+            "cover_date": "2005-10-27",
+            "venue": "Journal",
+            "volume": "109",
+            "issue": "42",
+            "page_range": "19604-19612",
+            "doi": "10.1021/jp052748f"
         },
         {
             "title": "Synthesis and functionalization of nanoengineered materials using click chemistry",
@@ -9508,6 +9508,42 @@
             "issue": "43",
             "page_range": "7295-7299",
             "doi": "10.1002/adma.201402753"
+        },
+        {
+            "title": "Engineering and evaluating drug delivery particles in microfluidic devices",
+            "eid": "2-s2.0-84906787363",
+            "authors": [
+                {
+                    "scopus_id": "55946535800",
+                    "name": "Bj\u00f6rnmalm M.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56527548600",
+                    "name": "Yan Y.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 103,
+            "publication_name": "Journal of Controlled Release",
+            "issn": "01683659",
+            "cover_date": "2014-09-28",
+            "venue": "Journal",
+            "volume": "190",
+            "issue": "",
+            "page_range": "139-149",
+            "doi": "10.1016/j.jconrel.2014.04.030"
         },
         {
             "title": "Template-directed synthesis of silica nanowires and nanotubes from cylindrical core-shell polymer brushes",
@@ -9652,42 +9688,6 @@
             "issue": "1",
             "page_range": "234-240",
             "doi": "10.1021/nn800705m"
-        },
-        {
-            "title": "Engineering and evaluating drug delivery particles in microfluidic devices",
-            "eid": "2-s2.0-84906787363",
-            "authors": [
-                {
-                    "scopus_id": "55946535800",
-                    "name": "Bj\u00f6rnmalm M.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56527548600",
-                    "name": "Yan Y.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 102,
-            "publication_name": "Journal of Controlled Release",
-            "issn": "01683659",
-            "cover_date": "2014-09-28",
-            "venue": "Journal",
-            "volume": "190",
-            "issue": "",
-            "page_range": "139-149",
-            "doi": "10.1016/j.jconrel.2014.04.030"
         },
         {
             "title": "Charge-shifting click capsules with dual-responsive cargo release mechanisms",
@@ -9842,6 +9842,50 @@
             "doi": "10.1021/cm050972b"
         },
         {
+            "title": "Emerging techniques in proteomics for probing nano-bio interactions",
+            "eid": "2-s2.0-84871552608",
+            "authors": [
+                {
+                    "scopus_id": "24335075900",
+                    "name": "Lai Z.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60025641"
+                    ]
+                },
+                {
+                    "scopus_id": "56527548600",
+                    "name": "Yan Y.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7005348782",
+                    "name": "Nice E.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 100,
+            "publication_name": "ACS Nano",
+            "issn": "19360851",
+            "cover_date": "2012-12-21",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "12",
+            "page_range": "10438-10448",
+            "doi": "10.1021/nn3052499"
+        },
+        {
             "title": "Cholesterol-mediated anchoring of enzyme-loaded liposomes within disulfide-stabilized polymer carrier capsules",
             "eid": "2-s2.0-69249203489",
             "authors": [
@@ -9904,6 +9948,56 @@
             "issue": "30",
             "page_range": "5988-5998",
             "doi": "10.1016/j.biomaterials.2009.07.040"
+        },
+        {
+            "title": "Characterization of adsorbate-induced ordering transitions of liquid crystals within monodisperse droplets",
+            "eid": "2-s2.0-68649113350",
+            "authors": [
+                {
+                    "scopus_id": "36672869700",
+                    "name": "Gupta J.K.",
+                    "affiliation_id": [
+                        "60153131"
+                    ]
+                },
+                {
+                    "scopus_id": "32467594200",
+                    "name": "Zimmerman J.S.",
+                    "affiliation_id": [
+                        "60153131"
+                    ]
+                },
+                {
+                    "scopus_id": "7103284570",
+                    "name": "De Pablo J.J.",
+                    "affiliation_id": [
+                        "60153131"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56416640000",
+                    "name": "Abbott N.L.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 100,
+            "publication_name": "Langmuir",
+            "issn": "07437463",
+            "cover_date": "2009-08-18",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "16",
+            "page_range": "9016-9024",
+            "doi": "10.1021/la900786b"
         },
         {
             "title": "Magnetically directed self-assembly of submicron spheres with a Fe<inf>3</inf>O<inf>4</inf> nanoparticle shell",
@@ -10168,100 +10262,6 @@
             "issue": "15",
             "page_range": "2656-2663",
             "doi": "10.1039/c3sm53056f"
-        },
-        {
-            "title": "Emerging techniques in proteomics for probing nano-bio interactions",
-            "eid": "2-s2.0-84871552608",
-            "authors": [
-                {
-                    "scopus_id": "24335075900",
-                    "name": "Lai Z.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60025641"
-                    ]
-                },
-                {
-                    "scopus_id": "56527548600",
-                    "name": "Yan Y.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7005348782",
-                    "name": "Nice E.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                }
-            ],
-            "citations": 99,
-            "publication_name": "ACS Nano",
-            "issn": "19360851",
-            "cover_date": "2012-12-21",
-            "venue": "Journal",
-            "volume": "6",
-            "issue": "12",
-            "page_range": "10438-10448",
-            "doi": "10.1021/nn3052499"
-        },
-        {
-            "title": "Characterization of adsorbate-induced ordering transitions of liquid crystals within monodisperse droplets",
-            "eid": "2-s2.0-68649113350",
-            "authors": [
-                {
-                    "scopus_id": "36672869700",
-                    "name": "Gupta J.K.",
-                    "affiliation_id": [
-                        "60153131"
-                    ]
-                },
-                {
-                    "scopus_id": "32467594200",
-                    "name": "Zimmerman J.S.",
-                    "affiliation_id": [
-                        "60153131"
-                    ]
-                },
-                {
-                    "scopus_id": "7103284570",
-                    "name": "De Pablo J.J.",
-                    "affiliation_id": [
-                        "60153131"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56416640000",
-                    "name": "Abbott N.L.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 99,
-            "publication_name": "Langmuir",
-            "issn": "07437463",
-            "cover_date": "2009-08-18",
-            "venue": "Journal",
-            "volume": "25",
-            "issue": "16",
-            "page_range": "9016-9024",
-            "doi": "10.1021/la900786b"
         },
         {
             "title": "The role of particle geometry and mechanics in the biological domain",
@@ -11537,7 +11537,7 @@
                     ]
                 }
             ],
-            "citations": 88,
+            "citations": 89,
             "publication_name": "Journal of the American Chemical Society",
             "issn": "00027863",
             "cover_date": "2020-01-08",
@@ -11844,6 +11844,70 @@
             "doi": "10.1002/1521-4095(20020618)14:12<908::AID-ADMA908>3.0.CO;2-1"
         },
         {
+            "title": "Synthesis of Chemically Asymmetric Silica Nanobottles and Their Application for Cargo Loading and as Nanoreactors and Nanomotors",
+            "eid": "2-s2.0-84991782509",
+            "authors": [
+                {
+                    "scopus_id": "36456575600",
+                    "name": "Yi D.",
+                    "affiliation_id": [
+                        "60009860"
+                    ]
+                },
+                {
+                    "scopus_id": "56718713000",
+                    "name": "Zhang Q.",
+                    "affiliation_id": [
+                        "60009860"
+                    ]
+                },
+                {
+                    "scopus_id": "57191598629",
+                    "name": "Liu Y.",
+                    "affiliation_id": [
+                        "60009860"
+                    ]
+                },
+                {
+                    "scopus_id": "57191598418",
+                    "name": "Song J.",
+                    "affiliation_id": [
+                        "60009860"
+                    ]
+                },
+                {
+                    "scopus_id": "57199307263",
+                    "name": "Tang Y.",
+                    "affiliation_id": [
+                        "60009860"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "8717399400",
+                    "name": "Wang Y.",
+                    "affiliation_id": [
+                        "60009860"
+                    ]
+                }
+            ],
+            "citations": 85,
+            "publication_name": "Angewandte Chemie - International Edition",
+            "issn": "14337851",
+            "cover_date": "2016-11-14",
+            "venue": "Journal",
+            "volume": "55",
+            "issue": "47",
+            "page_range": "14733-14737",
+            "doi": "10.1002/anie.201607330"
+        },
+        {
             "title": "Particle carriers for combating multidrug-resistant cancer",
             "eid": "2-s2.0-84888880735",
             "authors": [
@@ -11956,70 +12020,6 @@
             "issue": "25",
             "page_range": "3468-3472",
             "doi": "10.1002/adma.201300981"
-        },
-        {
-            "title": "Synthesis of Chemically Asymmetric Silica Nanobottles and Their Application for Cargo Loading and as Nanoreactors and Nanomotors",
-            "eid": "2-s2.0-84991782509",
-            "authors": [
-                {
-                    "scopus_id": "36456575600",
-                    "name": "Yi D.",
-                    "affiliation_id": [
-                        "60009860"
-                    ]
-                },
-                {
-                    "scopus_id": "56718713000",
-                    "name": "Zhang Q.",
-                    "affiliation_id": [
-                        "60009860"
-                    ]
-                },
-                {
-                    "scopus_id": "57191598629",
-                    "name": "Liu Y.",
-                    "affiliation_id": [
-                        "60009860"
-                    ]
-                },
-                {
-                    "scopus_id": "57191598418",
-                    "name": "Song J.",
-                    "affiliation_id": [
-                        "60009860"
-                    ]
-                },
-                {
-                    "scopus_id": "57199307263",
-                    "name": "Tang Y.",
-                    "affiliation_id": [
-                        "60009860"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "8717399400",
-                    "name": "Wang Y.",
-                    "affiliation_id": [
-                        "60009860"
-                    ]
-                }
-            ],
-            "citations": 84,
-            "publication_name": "Angewandte Chemie - International Edition",
-            "issn": "14337851",
-            "cover_date": "2016-11-14",
-            "venue": "Journal",
-            "volume": "55",
-            "issue": "47",
-            "page_range": "14733-14737",
-            "doi": "10.1002/anie.201607330"
         },
         {
             "title": "Nanostructured polymer assemblies formed at interfaces: Applications from immobilization and encapsulation to stimuli-responsive release",
@@ -12805,6 +12805,63 @@
             "doi": "10.1002/adma.201502243"
         },
         {
+            "title": "Liquid crystal chemical sensors that cells can wear",
+            "eid": "2-s2.0-84890652120",
+            "authors": [
+                {
+                    "scopus_id": "17435043600",
+                    "name": "Manna U.",
+                    "affiliation_id": [
+                        "60153131"
+                    ]
+                },
+                {
+                    "scopus_id": "55970924100",
+                    "name": "Zayas-Gonzalez Y.M.",
+                    "affiliation_id": [
+                        "60153131"
+                    ]
+                },
+                {
+                    "scopus_id": "54891431600",
+                    "name": "Carlton R.J.",
+                    "affiliation_id": [
+                        "60153131"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56416640000",
+                    "name": "Abbott N.L.",
+                    "affiliation_id": [
+                        "60153131"
+                    ]
+                },
+                {
+                    "scopus_id": "7102756610",
+                    "name": "Lynn D.M.",
+                    "affiliation_id": [
+                        "60153131"
+                    ]
+                }
+            ],
+            "citations": 75,
+            "publication_name": "Angewandte Chemie - International Edition",
+            "issn": "14337851",
+            "cover_date": "2013-12-23",
+            "venue": "Journal",
+            "volume": "52",
+            "issue": "52",
+            "page_range": "14011-14015",
+            "doi": "10.1002/anie.201306630"
+        },
+        {
             "title": "Nanoengineering particles through template assembly",
             "eid": "2-s2.0-85035105866",
             "authors": [
@@ -12867,63 +12924,6 @@
             "issue": "1",
             "page_range": "289-306",
             "doi": "10.1021/acs.chemmater.6b02848"
-        },
-        {
-            "title": "Liquid crystal chemical sensors that cells can wear",
-            "eid": "2-s2.0-84890652120",
-            "authors": [
-                {
-                    "scopus_id": "17435043600",
-                    "name": "Manna U.",
-                    "affiliation_id": [
-                        "60153131"
-                    ]
-                },
-                {
-                    "scopus_id": "55970924100",
-                    "name": "Zayas-Gonzalez Y.M.",
-                    "affiliation_id": [
-                        "60153131"
-                    ]
-                },
-                {
-                    "scopus_id": "54891431600",
-                    "name": "Carlton R.J.",
-                    "affiliation_id": [
-                        "60153131"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56416640000",
-                    "name": "Abbott N.L.",
-                    "affiliation_id": [
-                        "60153131"
-                    ]
-                },
-                {
-                    "scopus_id": "7102756610",
-                    "name": "Lynn D.M.",
-                    "affiliation_id": [
-                        "60153131"
-                    ]
-                }
-            ],
-            "citations": 74,
-            "publication_name": "Angewandte Chemie - International Edition",
-            "issn": "14337851",
-            "cover_date": "2013-12-23",
-            "venue": "Journal",
-            "volume": "52",
-            "issue": "52",
-            "page_range": "14011-14015",
-            "doi": "10.1002/anie.201306630"
         },
         {
             "title": "Macromolecule functionalization of disulfide-bonded polymer hydrogel capsules and cancer cell targeting",
@@ -13179,6 +13179,79 @@
             "doi": "10.1002/adfm.200700472"
         },
         {
+            "title": "Injectable and Sprayable Polyphenol-Based Hydrogels for Controlling Hemostasis",
+            "eid": "2-s2.0-85078982105",
+            "authors": [
+                {
+                    "scopus_id": "57146613700",
+                    "name": "Geng H.",
+                    "affiliation_id": [
+                        "60031031"
+                    ]
+                },
+                {
+                    "scopus_id": "56572024800",
+                    "name": "Dai Q.",
+                    "affiliation_id": [
+                        "60031031"
+                    ]
+                },
+                {
+                    "scopus_id": "57214725470",
+                    "name": "Sun H.",
+                    "affiliation_id": [
+                        "60031031"
+                    ]
+                },
+                {
+                    "scopus_id": "57214727020",
+                    "name": "Zhuang L.",
+                    "affiliation_id": [
+                        "60031031"
+                    ]
+                },
+                {
+                    "scopus_id": "55888336600",
+                    "name": "Song A.",
+                    "affiliation_id": [
+                        "60031031"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60031031",
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "7202839528",
+                    "name": "Hao J.",
+                    "affiliation_id": [
+                        "60031031"
+                    ]
+                },
+                {
+                    "scopus_id": "16201929100",
+                    "name": "Cui J.",
+                    "affiliation_id": [
+                        "60031031",
+                        "60031031"
+                    ]
+                }
+            ],
+            "citations": 72,
+            "publication_name": "ACS Applied Bio Materials",
+            "issn": "",
+            "cover_date": "2020-02-17",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "2",
+            "page_range": "1258-1266",
+            "doi": "10.1021/acsabm.9b01138"
+        },
+        {
             "title": "Self-Assembled Nanoparticles from Phenolic Derivatives for Cancer Therapy",
             "eid": "2-s2.0-85019213004",
             "authors": [
@@ -13337,145 +13410,6 @@
             "doi": "10.1002/anie.201603644"
         },
         {
-            "title": "Assembly of multilayer films from polyelectrolytes containing weak and strong acid moieties",
-            "eid": "2-s2.0-25844435300",
-            "authors": [
-                {
-                    "scopus_id": "8902075800",
-                    "name": "Tjipto E.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7401548204",
-                    "name": "Quinn J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 71,
-            "publication_name": "Langmuir",
-            "issn": "07437463",
-            "cover_date": "2005-09-13",
-            "venue": "Journal",
-            "volume": "21",
-            "issue": "19",
-            "page_range": "8785-8792",
-            "doi": "10.1021/la051197h"
-        },
-        {
-            "title": "Thin films of polyelectrolyte-encapsulated catalase microcrystals for biosensing",
-            "eid": "2-s2.0-0038000944",
-            "authors": [
-                {
-                    "scopus_id": "37361601000",
-                    "name": "Yut A.",
-                    "affiliation_id": [
-                        "60006384",
-                        "60033100"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 71,
-            "publication_name": "Analytical Chemistry",
-            "issn": "00032700",
-            "cover_date": "2003-07-01",
-            "venue": "Journal",
-            "volume": "75",
-            "issue": "13",
-            "page_range": "3031-3037",
-            "doi": "10.1021/ac0340049"
-        },
-        {
-            "title": "Injectable and Sprayable Polyphenol-Based Hydrogels for Controlling Hemostasis",
-            "eid": "2-s2.0-85078982105",
-            "authors": [
-                {
-                    "scopus_id": "57146613700",
-                    "name": "Geng H.",
-                    "affiliation_id": [
-                        "60031031"
-                    ]
-                },
-                {
-                    "scopus_id": "56572024800",
-                    "name": "Dai Q.",
-                    "affiliation_id": [
-                        "60031031"
-                    ]
-                },
-                {
-                    "scopus_id": "57214725470",
-                    "name": "Sun H.",
-                    "affiliation_id": [
-                        "60031031"
-                    ]
-                },
-                {
-                    "scopus_id": "57214727020",
-                    "name": "Zhuang L.",
-                    "affiliation_id": [
-                        "60031031"
-                    ]
-                },
-                {
-                    "scopus_id": "55888336600",
-                    "name": "Song A.",
-                    "affiliation_id": [
-                        "60031031"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60031031",
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "7202839528",
-                    "name": "Hao J.",
-                    "affiliation_id": [
-                        "60031031"
-                    ]
-                },
-                {
-                    "scopus_id": "16201929100",
-                    "name": "Cui J.",
-                    "affiliation_id": [
-                        "60031031",
-                        "60031031"
-                    ]
-                }
-            ],
-            "citations": 70,
-            "publication_name": "ACS Applied Bio Materials",
-            "issn": "",
-            "cover_date": "2020-02-17",
-            "venue": "Journal",
-            "volume": "3",
-            "issue": "2",
-            "page_range": "1258-1266",
-            "doi": "10.1021/acsabm.9b01138"
-        },
-        {
             "title": "Engineering Metal\u2013Phenolic Networks for Solar Desalination with Directional Salt Crystallization",
             "eid": "2-s2.0-85142711944",
             "authors": [
@@ -13557,7 +13491,7 @@
                     ]
                 }
             ],
-            "citations": 69,
+            "citations": 71,
             "publication_name": "Advanced Materials",
             "issn": "09359648",
             "cover_date": "2023-01-05",
@@ -13566,6 +13500,72 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1002/adma.202209015"
+        },
+        {
+            "title": "Assembly of multilayer films from polyelectrolytes containing weak and strong acid moieties",
+            "eid": "2-s2.0-25844435300",
+            "authors": [
+                {
+                    "scopus_id": "8902075800",
+                    "name": "Tjipto E.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7401548204",
+                    "name": "Quinn J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 71,
+            "publication_name": "Langmuir",
+            "issn": "07437463",
+            "cover_date": "2005-09-13",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "19",
+            "page_range": "8785-8792",
+            "doi": "10.1021/la051197h"
+        },
+        {
+            "title": "Thin films of polyelectrolyte-encapsulated catalase microcrystals for biosensing",
+            "eid": "2-s2.0-0038000944",
+            "authors": [
+                {
+                    "scopus_id": "37361601000",
+                    "name": "Yut A.",
+                    "affiliation_id": [
+                        "60006384",
+                        "60033100"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 71,
+            "publication_name": "Analytical Chemistry",
+            "issn": "00032700",
+            "cover_date": "2003-07-01",
+            "venue": "Journal",
+            "volume": "75",
+            "issue": "13",
+            "page_range": "3031-3037",
+            "doi": "10.1021/ac0340049"
         },
         {
             "title": "Nanostructured particles assembled from natural building blocks for advanced therapies",
@@ -14504,35 +14504,6 @@
             "doi": "10.1021/bm101020e"
         },
         {
-            "title": "Thermoresponsive nanoassemblies: Layer-by-layer assembly of hydrophilic-hydrophobic alternating copolymers",
-            "eid": "2-s2.0-17444390850",
-            "authors": [
-                {
-                    "scopus_id": "7401548204",
-                    "name": "Quinn J.F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 64,
-            "publication_name": "Macromolecules",
-            "issn": "00249297",
-            "cover_date": "2005-04-19",
-            "venue": "Journal",
-            "volume": "38",
-            "issue": "8",
-            "page_range": "3414-3419",
-            "doi": "10.1021/ma047414n"
-        },
-        {
             "title": "Infiltration of macromolecules into nanoporous silica particles",
             "eid": "2-s2.0-35548944529",
             "authors": [
@@ -14565,7 +14536,7 @@
                     ]
                 }
             ],
-            "citations": 63,
+            "citations": 64,
             "publication_name": "Macromolecules",
             "issn": "00249297",
             "cover_date": "2007-10-16",
@@ -14574,6 +14545,35 @@
             "issue": "21",
             "page_range": "7594-7600",
             "doi": "10.1021/ma071125s"
+        },
+        {
+            "title": "Thermoresponsive nanoassemblies: Layer-by-layer assembly of hydrophilic-hydrophobic alternating copolymers",
+            "eid": "2-s2.0-17444390850",
+            "authors": [
+                {
+                    "scopus_id": "7401548204",
+                    "name": "Quinn J.F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 64,
+            "publication_name": "Macromolecules",
+            "issn": "00249297",
+            "cover_date": "2005-04-19",
+            "venue": "Journal",
+            "volume": "38",
+            "issue": "8",
+            "page_range": "3414-3419",
+            "doi": "10.1021/ma047414n"
         },
         {
             "title": "Person-specific biomolecular coronas modulate nanoparticle interactions with immune cells in human blood",
@@ -14696,7 +14696,7 @@
                     ]
                 }
             ],
-            "citations": 62,
+            "citations": 63,
             "publication_name": "ACS Nano",
             "issn": "19360851",
             "cover_date": "2020-11-24",
@@ -14809,7 +14809,7 @@
                     ]
                 }
             ],
-            "citations": 62,
+            "citations": 63,
             "publication_name": "JCI Insight",
             "issn": "",
             "cover_date": "2020-05-01",
@@ -14818,70 +14818,6 @@
             "issue": "10",
             "page_range": null,
             "doi": "10.1172/JCI.INSIGHT.136653"
-        },
-        {
-            "title": "Polyphenol-based nanoparticles for intracellular protein delivery via competing supramolecular interactions",
-            "eid": "2-s2.0-85094618771",
-            "authors": [
-                {
-                    "scopus_id": "57203994734",
-                    "name": "Han Y.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55569103200",
-                    "name": "Zhou J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57211217979",
-                    "name": "Hu Y.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57169205400",
-                    "name": "Lin Z.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57203856887",
-                    "name": "Ma Y.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55627773700",
-                    "name": "Richardson J.J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 61,
-            "publication_name": "ACS Nano",
-            "issn": "19360851",
-            "cover_date": "2020-10-27",
-            "venue": "Journal",
-            "volume": "14",
-            "issue": "10",
-            "page_range": "12972-12981",
-            "doi": "10.1021/acsnano.0c04197"
         },
         {
             "title": "Nanoporous Metal-Phenolic Particles as Ultrasound Imaging Probes for Hydrogen Peroxide",
@@ -14971,7 +14907,7 @@
                     ]
                 }
             ],
-            "citations": 61,
+            "citations": 62,
             "publication_name": "Advanced Healthcare Materials",
             "issn": "21922640",
             "cover_date": "2015-10-01",
@@ -14980,6 +14916,70 @@
             "issue": "14",
             "page_range": "2170-2175",
             "doi": "10.1002/adhm.201500528"
+        },
+        {
+            "title": "Polyphenol-based nanoparticles for intracellular protein delivery via competing supramolecular interactions",
+            "eid": "2-s2.0-85094618771",
+            "authors": [
+                {
+                    "scopus_id": "57203994734",
+                    "name": "Han Y.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55569103200",
+                    "name": "Zhou J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57211217979",
+                    "name": "Hu Y.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57169205400",
+                    "name": "Lin Z.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57203856887",
+                    "name": "Ma Y.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55627773700",
+                    "name": "Richardson J.J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 61,
+            "publication_name": "ACS Nano",
+            "issn": "19360851",
+            "cover_date": "2020-10-27",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "10",
+            "page_range": "12972-12981",
+            "doi": "10.1021/acsnano.0c04197"
         },
         {
             "title": "X-ray-Based Techniques to Study the Nano-Bio Interface",
@@ -16084,6 +16084,105 @@
             "doi": "10.1016/S0927-7765(97)00067-2"
         },
         {
+            "title": "Modular Metal\u2013Organic Polyhedra Superassembly: From Molecular-Level Design to Targeted Drug Delivery",
+            "eid": "2-s2.0-85060841395",
+            "authors": [
+                {
+                    "scopus_id": "57221347028",
+                    "name": "Zhu W.",
+                    "affiliation_id": [
+                        "60138187"
+                    ]
+                },
+                {
+                    "scopus_id": "57200722909",
+                    "name": "Guo J.",
+                    "affiliation_id": [
+                        "60138187"
+                    ]
+                },
+                {
+                    "scopus_id": "56106261500",
+                    "name": "Ju Y.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "6508206567",
+                    "name": "Serda R.E.",
+                    "affiliation_id": [
+                        "60032328"
+                    ]
+                },
+                {
+                    "scopus_id": "46461004700",
+                    "name": "Croissant J.G.",
+                    "affiliation_id": [
+                        "60138187"
+                    ]
+                },
+                {
+                    "scopus_id": "37007064500",
+                    "name": "Shang J.",
+                    "affiliation_id": [
+                        "60013983"
+                    ]
+                },
+                {
+                    "scopus_id": "7003597473",
+                    "name": "Coker E.",
+                    "affiliation_id": [
+                        "60007843"
+                    ]
+                },
+                {
+                    "scopus_id": "52163292400",
+                    "name": "Agola J.O.",
+                    "affiliation_id": [
+                        "60138187"
+                    ]
+                },
+                {
+                    "scopus_id": "57203990086",
+                    "name": "Zhong Q.Z.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "18038340900",
+                    "name": "Ping Y.",
+                    "affiliation_id": [
+                        "60117760"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7005168426",
+                    "name": "Brinker C.J.",
+                    "affiliation_id": [
+                        "60138187"
+                    ]
+                }
+            ],
+            "citations": 57,
+            "publication_name": "Advanced Materials",
+            "issn": "09359648",
+            "cover_date": "2019-03-22",
+            "venue": "Journal",
+            "volume": "31",
+            "issue": "12",
+            "page_range": null,
+            "doi": "10.1002/adma.201806774"
+        },
+        {
             "title": "Polyelectrolyte blend multilayer films: Surface morphology, wettability, and protein adsorption characteristics",
             "eid": "2-s2.0-34248338237",
             "authors": [
@@ -16301,105 +16400,6 @@
             "issue": "18",
             "page_range": null,
             "doi": "10.1002/adma.201904625"
-        },
-        {
-            "title": "Modular Metal\u2013Organic Polyhedra Superassembly: From Molecular-Level Design to Targeted Drug Delivery",
-            "eid": "2-s2.0-85060841395",
-            "authors": [
-                {
-                    "scopus_id": "57221347028",
-                    "name": "Zhu W.",
-                    "affiliation_id": [
-                        "60138187"
-                    ]
-                },
-                {
-                    "scopus_id": "57200722909",
-                    "name": "Guo J.",
-                    "affiliation_id": [
-                        "60138187"
-                    ]
-                },
-                {
-                    "scopus_id": "56106261500",
-                    "name": "Ju Y.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "6508206567",
-                    "name": "Serda R.E.",
-                    "affiliation_id": [
-                        "60032328"
-                    ]
-                },
-                {
-                    "scopus_id": "46461004700",
-                    "name": "Croissant J.G.",
-                    "affiliation_id": [
-                        "60138187"
-                    ]
-                },
-                {
-                    "scopus_id": "37007064500",
-                    "name": "Shang J.",
-                    "affiliation_id": [
-                        "60013983"
-                    ]
-                },
-                {
-                    "scopus_id": "7003597473",
-                    "name": "Coker E.",
-                    "affiliation_id": [
-                        "60007843"
-                    ]
-                },
-                {
-                    "scopus_id": "52163292400",
-                    "name": "Agola J.O.",
-                    "affiliation_id": [
-                        "60138187"
-                    ]
-                },
-                {
-                    "scopus_id": "57203990086",
-                    "name": "Zhong Q.Z.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "18038340900",
-                    "name": "Ping Y.",
-                    "affiliation_id": [
-                        "60117760"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7005168426",
-                    "name": "Brinker C.J.",
-                    "affiliation_id": [
-                        "60138187"
-                    ]
-                }
-            ],
-            "citations": 56,
-            "publication_name": "Advanced Materials",
-            "issn": "09359648",
-            "cover_date": "2019-03-22",
-            "venue": "Journal",
-            "volume": "31",
-            "issue": "12",
-            "page_range": null,
-            "doi": "10.1002/adma.201806774"
         },
         {
             "title": "Self-Assembled Metal\u2013Phenolic Networks on Emulsions as Low-Fouling and pH-Responsive Particles",
@@ -17126,6 +17126,67 @@
             "doi": "10.1021/la047156n"
         },
         {
+            "title": "In Vivo T Cell-Targeting Nanoparticle Drug Delivery Systems: Considerations for Rational Design",
+            "eid": "2-s2.0-85101857227",
+            "authors": [
+                {
+                    "scopus_id": "57211057805",
+                    "name": "Cevaal P.M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57222180690",
+                    "name": "Ali A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57211213857",
+                    "name": "Czuba-Wojnilowicz E.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "59065601000",
+                    "name": "Symons J.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "15737239300",
+                    "name": "Lewin S.R.",
+                    "affiliation_id": [
+                        "60005245",
+                        "60008014"
+                    ]
+                },
+                {
+                    "scopus_id": "7004209359",
+                    "name": "Cortez-Jugo C.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 54,
+            "publication_name": "ACS Nano",
+            "issn": "19360851",
+            "cover_date": "2021-03-23",
+            "venue": "Journal",
+            "volume": "15",
+            "issue": "3",
+            "page_range": "3736-3753",
+            "doi": "10.1021/acsnano.0c09514"
+        },
+        {
             "title": "Immersive polymer assembly on immobilized particles for automated capsule preparation",
             "eid": "2-s2.0-84890433028",
             "authors": [
@@ -17318,67 +17379,6 @@
             "issue": "2",
             "page_range": "149-160",
             "doi": "10.1016/0022-1759(94)90358-1"
-        },
-        {
-            "title": "In Vivo T Cell-Targeting Nanoparticle Drug Delivery Systems: Considerations for Rational Design",
-            "eid": "2-s2.0-85101857227",
-            "authors": [
-                {
-                    "scopus_id": "57211057805",
-                    "name": "Cevaal P.M.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57222180690",
-                    "name": "Ali A.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57211213857",
-                    "name": "Czuba-Wojnilowicz E.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "59065601000",
-                    "name": "Symons J.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "15737239300",
-                    "name": "Lewin S.R.",
-                    "affiliation_id": [
-                        "60005245",
-                        "60008014"
-                    ]
-                },
-                {
-                    "scopus_id": "7004209359",
-                    "name": "Cortez-Jugo C.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 53,
-            "publication_name": "ACS Nano",
-            "issn": "19360851",
-            "cover_date": "2021-03-23",
-            "venue": "Journal",
-            "volume": "15",
-            "issue": "3",
-            "page_range": "3736-3753",
-            "doi": "10.1021/acsnano.0c09514"
         },
         {
             "title": "Mechanics of pH-responsive hydrogel capsules",
@@ -18020,6 +18020,86 @@
             "doi": "10.1021/ac060765a"
         },
         {
+            "title": "Engineering Poly(ethylene glycol) Nanoparticles for Accelerated Blood Clearance Inhibition and Targeted Drug Delivery",
+            "eid": "2-s2.0-85139193345",
+            "authors": [
+                {
+                    "scopus_id": "57218509383",
+                    "name": "Tian Y.",
+                    "affiliation_id": [
+                        "60031031"
+                    ]
+                },
+                {
+                    "scopus_id": "57203289276",
+                    "name": "Gao Z.",
+                    "affiliation_id": [
+                        "60031031"
+                    ]
+                },
+                {
+                    "scopus_id": "57208709284",
+                    "name": "Wang N.",
+                    "affiliation_id": [
+                        "60031031"
+                    ]
+                },
+                {
+                    "scopus_id": "57188965853",
+                    "name": "Hu M.",
+                    "affiliation_id": [
+                        "60021200"
+                    ]
+                },
+                {
+                    "scopus_id": "56106261500",
+                    "name": "Ju Y.",
+                    "affiliation_id": [
+                        "60011362",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56199094400",
+                    "name": "Li Q.",
+                    "affiliation_id": [
+                        "60031031"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7202839528",
+                    "name": "Hao J.",
+                    "affiliation_id": [
+                        "60031031"
+                    ]
+                },
+                {
+                    "scopus_id": "16201929100",
+                    "name": "Cui J.",
+                    "affiliation_id": [
+                        "60031031",
+                        "60031031"
+                    ]
+                }
+            ],
+            "citations": 49,
+            "publication_name": "Journal of the American Chemical Society",
+            "issn": "00027863",
+            "cover_date": "2022-10-12",
+            "venue": "Journal",
+            "volume": "144",
+            "issue": "40",
+            "page_range": "18419-18428",
+            "doi": "10.1021/jacs.2c06877"
+        },
+        {
             "title": "Interfacial Assembly of Metal-Phenolic Networks for Hair Dyeing",
             "eid": "2-s2.0-85087648302",
             "authors": [
@@ -18407,86 +18487,6 @@
             "issue": "23",
             "page_range": "5480-5485",
             "doi": "10.1021/cm061626c"
-        },
-        {
-            "title": "Engineering Poly(ethylene glycol) Nanoparticles for Accelerated Blood Clearance Inhibition and Targeted Drug Delivery",
-            "eid": "2-s2.0-85139193345",
-            "authors": [
-                {
-                    "scopus_id": "57218509383",
-                    "name": "Tian Y.",
-                    "affiliation_id": [
-                        "60031031"
-                    ]
-                },
-                {
-                    "scopus_id": "57203289276",
-                    "name": "Gao Z.",
-                    "affiliation_id": [
-                        "60031031"
-                    ]
-                },
-                {
-                    "scopus_id": "57208709284",
-                    "name": "Wang N.",
-                    "affiliation_id": [
-                        "60031031"
-                    ]
-                },
-                {
-                    "scopus_id": "57188965853",
-                    "name": "Hu M.",
-                    "affiliation_id": [
-                        "60021200"
-                    ]
-                },
-                {
-                    "scopus_id": "56106261500",
-                    "name": "Ju Y.",
-                    "affiliation_id": [
-                        "60011362",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56199094400",
-                    "name": "Li Q.",
-                    "affiliation_id": [
-                        "60031031"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7202839528",
-                    "name": "Hao J.",
-                    "affiliation_id": [
-                        "60031031"
-                    ]
-                },
-                {
-                    "scopus_id": "16201929100",
-                    "name": "Cui J.",
-                    "affiliation_id": [
-                        "60031031",
-                        "60031031"
-                    ]
-                }
-            ],
-            "citations": 48,
-            "publication_name": "Journal of the American Chemical Society",
-            "issn": "00027863",
-            "cover_date": "2022-10-12",
-            "venue": "Journal",
-            "volume": "144",
-            "issue": "40",
-            "page_range": "18419-18428",
-            "doi": "10.1021/jacs.2c06877"
         },
         {
             "title": "A Framework to Account for Sedimentation and Diffusion in Particle-Cell Interactions",
@@ -18967,6 +18967,49 @@
             "doi": "10.1021/la049636k"
         },
         {
+            "title": "Fluorescence studies of the binding of anionic derivatives of pyrene and fluorescein to cationic polyelectrolytes in aqueous solution",
+            "eid": "2-s2.0-0032181024",
+            "authors": [
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "26658839700",
+                    "name": "Donath E.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "35511455300",
+                    "name": "M\u00f6hwald H.",
+                    "affiliation_id": [
+                        "60006384"
+                    ]
+                },
+                {
+                    "scopus_id": "7007064334",
+                    "name": "Georgieva R.",
+                    "affiliation_id": [
+                        "60012784"
+                    ]
+                }
+            ],
+            "citations": 48,
+            "publication_name": "Macromolecules",
+            "issn": "00249297",
+            "cover_date": "1998-10-20",
+            "venue": "Journal",
+            "volume": "31",
+            "issue": "21",
+            "page_range": "7365-7377",
+            "doi": "10.1021/ma980538d"
+        },
+        {
             "title": "DNA binding and hybridization on gold and derivatized surfaces",
             "eid": "2-s2.0-0031168670",
             "authors": [
@@ -19336,49 +19379,6 @@
             "doi": "10.1016/S0927-7757(02)00133-4"
         },
         {
-            "title": "Fluorescence studies of the binding of anionic derivatives of pyrene and fluorescein to cationic polyelectrolytes in aqueous solution",
-            "eid": "2-s2.0-0032181024",
-            "authors": [
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "26658839700",
-                    "name": "Donath E.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "35511455300",
-                    "name": "M\u00f6hwald H.",
-                    "affiliation_id": [
-                        "60006384"
-                    ]
-                },
-                {
-                    "scopus_id": "7007064334",
-                    "name": "Georgieva R.",
-                    "affiliation_id": [
-                        "60012784"
-                    ]
-                }
-            ],
-            "citations": 47,
-            "publication_name": "Macromolecules",
-            "issn": "00249297",
-            "cover_date": "1998-10-20",
-            "venue": "Journal",
-            "volume": "31",
-            "issue": "21",
-            "page_range": "7365-7377",
-            "doi": "10.1021/ma980538d"
-        },
-        {
             "title": "Intracellularly degradable hydrogen-bonded polymer capsules",
             "eid": "2-s2.0-84915754636",
             "authors": [
@@ -19593,6 +19593,131 @@
             "doi": "10.1021/bm800593t"
         },
         {
+            "title": "Lactosylated Glycogen Nanoparticles for Targeting Prostate Cancer Cells",
+            "eid": "2-s2.0-85019756814",
+            "authors": [
+                {
+                    "scopus_id": "56051668300",
+                    "name": "Besford Q.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57191573240",
+                    "name": "Wojnilowicz M.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57191866442",
+                    "name": "Suma T.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55600522000",
+                    "name": "Bertleff-Zieschang N.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7004536461",
+                    "name": "Cavalieri F.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60027509"
+                    ]
+                }
+            ],
+            "citations": 45,
+            "publication_name": "ACS Applied Materials and Interfaces",
+            "issn": "19448244",
+            "cover_date": "2017-05-24",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "20",
+            "page_range": "16869-16879",
+            "doi": "10.1021/acsami.7b02676"
+        },
+        {
+            "title": "Layer-by-layer polymer coating on discrete particles of cubic lyotropic liquid crystalline dispersions (cubosomes)",
+            "eid": "2-s2.0-84886631530",
+            "authors": [
+                {
+                    "scopus_id": "16238307700",
+                    "name": "Driever C.D.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "12781633300",
+                    "name": "Mulet X.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60134796"
+                    ]
+                },
+                {
+                    "scopus_id": "8161062900",
+                    "name": "Waddington L.J.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7005838858",
+                    "name": "Postma A.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "56186626800",
+                    "name": "Thissen H.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102876190",
+                    "name": "Drummond C.J.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                }
+            ],
+            "citations": 45,
+            "publication_name": "Langmuir",
+            "issn": "07437463",
+            "cover_date": "2013-10-22",
+            "venue": "Journal",
+            "volume": "29",
+            "issue": "42",
+            "page_range": "12891-12900",
+            "doi": "10.1021/la401660h"
+        },
+        {
             "title": "Targeting Dendritic Cells: The Role of Specific Receptors in the Internalization of Polymer Capsules",
             "eid": "2-s2.0-84880293082",
             "authors": [
@@ -19741,131 +19866,6 @@
             "issue": "3",
             "page_range": "205-210",
             "doi": "10.1002/adma.200390046"
-        },
-        {
-            "title": "Lactosylated Glycogen Nanoparticles for Targeting Prostate Cancer Cells",
-            "eid": "2-s2.0-85019756814",
-            "authors": [
-                {
-                    "scopus_id": "56051668300",
-                    "name": "Besford Q.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57191573240",
-                    "name": "Wojnilowicz M.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57191866442",
-                    "name": "Suma T.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55600522000",
-                    "name": "Bertleff-Zieschang N.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7004536461",
-                    "name": "Cavalieri F.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60027509"
-                    ]
-                }
-            ],
-            "citations": 44,
-            "publication_name": "ACS Applied Materials and Interfaces",
-            "issn": "19448244",
-            "cover_date": "2017-05-24",
-            "venue": "Journal",
-            "volume": "9",
-            "issue": "20",
-            "page_range": "16869-16879",
-            "doi": "10.1021/acsami.7b02676"
-        },
-        {
-            "title": "Layer-by-layer polymer coating on discrete particles of cubic lyotropic liquid crystalline dispersions (cubosomes)",
-            "eid": "2-s2.0-84886631530",
-            "authors": [
-                {
-                    "scopus_id": "16238307700",
-                    "name": "Driever C.D.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "12781633300",
-                    "name": "Mulet X.",
-                    "affiliation_id": [
-                        "60029470",
-                        "60134796"
-                    ]
-                },
-                {
-                    "scopus_id": "8161062900",
-                    "name": "Waddington L.J.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "7005838858",
-                    "name": "Postma A.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "56186626800",
-                    "name": "Thissen H.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102876190",
-                    "name": "Drummond C.J.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                }
-            ],
-            "citations": 44,
-            "publication_name": "Langmuir",
-            "issn": "07437463",
-            "cover_date": "2013-10-22",
-            "venue": "Journal",
-            "volume": "29",
-            "issue": "42",
-            "page_range": "12891-12900",
-            "doi": "10.1021/la401660h"
         },
         {
             "title": "ATRP-mediated continuous assembly of polymers for the preparation of nanoscale films",
@@ -20089,6 +20089,127 @@
             "doi": "10.1021/ja00013a019"
         },
         {
+            "title": "Direct synthesis of amorphous coordination polymers and metal\u2013organic frameworks",
+            "eid": "2-s2.0-85149290843",
+            "authors": [
+                {
+                    "scopus_id": "57169205400",
+                    "name": "Lin Z.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55627773700",
+                    "name": "Richardson J.J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55569103200",
+                    "name": "Zhou J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 43,
+            "publication_name": "Nature Reviews Chemistry",
+            "issn": "",
+            "cover_date": "2023-04-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "4",
+            "page_range": "273-286",
+            "doi": "10.1038/s41570-023-00474-1"
+        },
+        {
+            "title": "Assembly of Bioactive Nanoparticles via Metal\u2013Phenolic Complexation",
+            "eid": "2-s2.0-85122980154",
+            "authors": [
+                {
+                    "scopus_id": "57210424816",
+                    "name": "Chen J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "36911670800",
+                    "name": "Pan S.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55569103200",
+                    "name": "Zhou J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57169205400",
+                    "name": "Lin Z.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57194587680",
+                    "name": "Qu Y.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57200414733",
+                    "name": "Glab A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57203994734",
+                    "name": "Han Y.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55627773700",
+                    "name": "Richardson J.J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 43,
+            "publication_name": "Advanced Materials",
+            "issn": "09359648",
+            "cover_date": "2022-03-01",
+            "venue": "Journal",
+            "volume": "34",
+            "issue": "10",
+            "page_range": null,
+            "doi": "10.1002/adma.202108624"
+        },
+        {
             "title": "Ultrathin, bioresponsive and drug-functionalized protein capsules",
             "eid": "2-s2.0-84867012089",
             "authors": [
@@ -20187,84 +20308,6 @@
             "issue": "10",
             "page_range": "4150-4154",
             "doi": "10.1021/la011772r"
-        },
-        {
-            "title": "Assembly of Bioactive Nanoparticles via Metal\u2013Phenolic Complexation",
-            "eid": "2-s2.0-85122980154",
-            "authors": [
-                {
-                    "scopus_id": "57210424816",
-                    "name": "Chen J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "36911670800",
-                    "name": "Pan S.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55569103200",
-                    "name": "Zhou J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57169205400",
-                    "name": "Lin Z.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57194587680",
-                    "name": "Qu Y.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57200414733",
-                    "name": "Glab A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57203994734",
-                    "name": "Han Y.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55627773700",
-                    "name": "Richardson J.J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 42,
-            "publication_name": "Advanced Materials",
-            "issn": "09359648",
-            "cover_date": "2022-03-01",
-            "venue": "Journal",
-            "volume": "34",
-            "issue": "10",
-            "page_range": null,
-            "doi": "10.1002/adma.202108624"
         },
         {
             "title": "Cobalt-Directed Assembly of Antibodies onto Metal-Phenolic Networks for Enhanced Particle Targeting",
@@ -20598,49 +20641,6 @@
             "issue": "4",
             "page_range": "1275-1280",
             "doi": "10.1021/la104232r"
-        },
-        {
-            "title": "Direct synthesis of amorphous coordination polymers and metal\u2013organic frameworks",
-            "eid": "2-s2.0-85149290843",
-            "authors": [
-                {
-                    "scopus_id": "57169205400",
-                    "name": "Lin Z.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55627773700",
-                    "name": "Richardson J.J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55569103200",
-                    "name": "Zhou J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 41,
-            "publication_name": "Nature Reviews Chemistry",
-            "issn": "",
-            "cover_date": "2023-04-01",
-            "venue": "Journal",
-            "volume": "7",
-            "issue": "4",
-            "page_range": "273-286",
-            "doi": "10.1038/s41570-023-00474-1"
         },
         {
             "title": "Layer-by-Layer Films for Biomedical Applications",
@@ -21743,6 +21743,70 @@
             "doi": "10.1021/acscentsci.9b01299"
         },
         {
+            "title": "Self-Assembly of a Metal-Phenolic Sorbent for Broad-Spectrum Metal Sequestration",
+            "eid": "2-s2.0-85078175518",
+            "authors": [
+                {
+                    "scopus_id": "36464136600",
+                    "name": "Rahim M.A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56326853200",
+                    "name": "Lin G.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57204961750",
+                    "name": "Tomanin P.P.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56106261500",
+                    "name": "Ju Y.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "16238003000",
+                    "name": "Barlow A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55946535800",
+                    "name": "Bj\u00f6rnmalm M.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 38,
+            "publication_name": "ACS Applied Materials and Interfaces",
+            "issn": "19448244",
+            "cover_date": "2020-01-22",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "3",
+            "page_range": "3746-3754",
+            "doi": "10.1021/acsami.9b19097"
+        },
+        {
             "title": "Expanding the Toolbox of Metal\u2013Phenolic Networks via Enzyme-Mediated Assembly",
             "eid": "2-s2.0-85076174002",
             "authors": [
@@ -22001,70 +22065,6 @@
             "issue": "40",
             "page_range": "5767-5771",
             "doi": "10.1002/adma.201302442"
-        },
-        {
-            "title": "Self-Assembly of a Metal-Phenolic Sorbent for Broad-Spectrum Metal Sequestration",
-            "eid": "2-s2.0-85078175518",
-            "authors": [
-                {
-                    "scopus_id": "36464136600",
-                    "name": "Rahim M.A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56326853200",
-                    "name": "Lin G.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57204961750",
-                    "name": "Tomanin P.P.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56106261500",
-                    "name": "Ju Y.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "16238003000",
-                    "name": "Barlow A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55946535800",
-                    "name": "Bj\u00f6rnmalm M.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 37,
-            "publication_name": "ACS Applied Materials and Interfaces",
-            "issn": "19448244",
-            "cover_date": "2020-01-22",
-            "venue": "Journal",
-            "volume": "12",
-            "issue": "3",
-            "page_range": "3746-3754",
-            "doi": "10.1021/acsami.9b19097"
         },
         {
             "title": "Advancing Metal-Phenolic Networks for Visual Information Storage",
@@ -22594,6 +22594,63 @@
             "doi": "10.1021/acsami.7b19322"
         },
         {
+            "title": "Surface Engineering of Polypropylene Membranes with Carbonic Anhydrase-Loaded Mesoporous Silica Nanoparticles for Improved Carbon Dioxide Hydration",
+            "eid": "2-s2.0-84931274869",
+            "authors": [
+                {
+                    "scopus_id": "56317712800",
+                    "name": "Yong J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "16201929100",
+                    "name": "Cui J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "35365789100",
+                    "name": "Cho K.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7201900898",
+                    "name": "Stevens G.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "6602287420",
+                    "name": "Kentish S.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Langmuir",
+            "issn": "07437463",
+            "cover_date": "2015-06-09",
+            "venue": "Journal",
+            "volume": "31",
+            "issue": "22",
+            "page_range": "6211-6219",
+            "doi": "10.1021/acs.langmuir.5b01020"
+        },
+        {
             "title": "One-pot ultrasonic synthesis of multifunctional microbubbles and microcapsules using synthetic thiolated macromolecules",
             "eid": "2-s2.0-79955004452",
             "authors": [
@@ -22788,63 +22845,6 @@
             "issue": "28",
             "page_range": "10014-10015",
             "doi": "10.1021/ja0527166"
-        },
-        {
-            "title": "Surface Engineering of Polypropylene Membranes with Carbonic Anhydrase-Loaded Mesoporous Silica Nanoparticles for Improved Carbon Dioxide Hydration",
-            "eid": "2-s2.0-84931274869",
-            "authors": [
-                {
-                    "scopus_id": "56317712800",
-                    "name": "Yong J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "16201929100",
-                    "name": "Cui J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "35365789100",
-                    "name": "Cho K.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7201900898",
-                    "name": "Stevens G.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "6602287420",
-                    "name": "Kentish S.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 35,
-            "publication_name": "Langmuir",
-            "issn": "07437463",
-            "cover_date": "2015-06-09",
-            "venue": "Journal",
-            "volume": "31",
-            "issue": "22",
-            "page_range": "6211-6219",
-            "doi": "10.1021/acs.langmuir.5b01020"
         },
         {
             "title": "Tuning the mechanical properties of nanoporous hydrogel particles via polymer cross-linking",
@@ -26864,6 +26864,49 @@
             "doi": "10.1021/acsami.1c19820"
         },
         {
+            "title": "A Focus on \u201cBio\u201d in Bio\u2013Nanoscience: The Impact of Biological Factors on Nanomaterial Interactions",
+            "eid": "2-s2.0-85108858443",
+            "authors": [
+                {
+                    "scopus_id": "7004209359",
+                    "name": "Cortez-Jugo C.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57211213857",
+                    "name": "Czuba-Wojnilowicz E.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57224987020",
+                    "name": "Tan A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 22,
+            "publication_name": "Advanced Healthcare Materials",
+            "issn": "21922640",
+            "cover_date": "2021-08-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "16",
+            "page_range": null,
+            "doi": "10.1002/adhm.202100574"
+        },
+        {
             "title": "Metal-Phenolic Networks as Tunable Buffering Systems",
             "eid": "2-s2.0-85104975182",
             "authors": [
@@ -26933,6 +26976,134 @@
             "issue": "7",
             "page_range": "2557-2566",
             "doi": "10.1021/acs.chemmater.1c00015"
+        },
+        {
+            "title": "Surface Modification of Spider Silk Particles to Direct Biomolecular Corona Formation",
+            "eid": "2-s2.0-85086480394",
+            "authors": [
+                {
+                    "scopus_id": "57202906476",
+                    "name": "Weiss A.C.G.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56524183700",
+                    "name": "Herold H.M.",
+                    "affiliation_id": [
+                        "60023208"
+                    ]
+                },
+                {
+                    "scopus_id": "57190001431",
+                    "name": "Lentz S.",
+                    "affiliation_id": [
+                        "60023208"
+                    ]
+                },
+                {
+                    "scopus_id": "57189903885",
+                    "name": "Faria M.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60118644"
+                    ]
+                },
+                {
+                    "scopus_id": "57189903885",
+                    "name": "Faria M.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60118644"
+                    ]
+                },
+                {
+                    "scopus_id": "56051668300",
+                    "name": "Besford Q.A.",
+                    "affiliation_id": [
+                        "60008583"
+                    ]
+                },
+                {
+                    "scopus_id": "24079527400",
+                    "name": "Ang C.S.",
+                    "affiliation_id": [
+                        "60103600"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56190060200",
+                    "name": "Scheibel T.",
+                    "affiliation_id": [
+                        "60023208",
+                        "60023208",
+                        "60023208",
+                        "60023208",
+                        "60115593"
+                    ]
+                },
+                {
+                    "scopus_id": "56190060200",
+                    "name": "Scheibel T.",
+                    "affiliation_id": [
+                        "60023208",
+                        "60023208",
+                        "60023208",
+                        "60023208",
+                        "60115593"
+                    ]
+                },
+                {
+                    "scopus_id": "56190060200",
+                    "name": "Scheibel T.",
+                    "affiliation_id": [
+                        "60023208",
+                        "60023208",
+                        "60023208",
+                        "60023208",
+                        "60115593"
+                    ]
+                },
+                {
+                    "scopus_id": "56190060200",
+                    "name": "Scheibel T.",
+                    "affiliation_id": [
+                        "60023208",
+                        "60023208",
+                        "60023208",
+                        "60023208",
+                        "60115593"
+                    ]
+                },
+                {
+                    "scopus_id": "56190060200",
+                    "name": "Scheibel T.",
+                    "affiliation_id": [
+                        "60023208",
+                        "60023208",
+                        "60023208",
+                        "60023208",
+                        "60115593"
+                    ]
+                }
+            ],
+            "citations": 22,
+            "publication_name": "ACS Applied Materials and Interfaces",
+            "issn": "19448244",
+            "cover_date": "2020-06-03",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "22",
+            "page_range": "24635-24643",
+            "doi": "10.1021/acsami.0c06344"
         },
         {
             "title": "Assembly-Controlled Permeability of Layer-by-Layer Polymeric Microcapsules Using a Tapered Fluidized Bed",
@@ -27224,6 +27395,92 @@
             "doi": "10.1021/cm901621y"
         },
         {
+            "title": "Site-Selective Coordination Assembly of Dynamic Metal-Phenolic Networks",
+            "eid": "2-s2.0-85133939684",
+            "authors": [
+                {
+                    "scopus_id": "57795286100",
+                    "name": "Xu W.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "36911670800",
+                    "name": "Pan S.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60032356"
+                    ]
+                },
+                {
+                    "scopus_id": "55326702900",
+                    "name": "Noble B.B.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                },
+                {
+                    "scopus_id": "57210424816",
+                    "name": "Chen J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57169205400",
+                    "name": "Lin Z.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57203994734",
+                    "name": "Han Y.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55569103200",
+                    "name": "Zhou J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55627773700",
+                    "name": "Richardson J.J.",
+                    "affiliation_id": [
+                        "60025272"
+                    ]
+                },
+                {
+                    "scopus_id": "6701805002",
+                    "name": "Yarovsky I.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Angewandte Chemie - International Edition",
+            "issn": "14337851",
+            "cover_date": "2022-01-01",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1002/anie.202208037"
+        },
+        {
             "title": "Immobilization and Intracellular Delivery of Structurally Nanoengineered Antimicrobial Peptide Polymers Using Polyphenol-Based Capsules",
             "eid": "2-s2.0-85119265563",
             "authors": [
@@ -27394,177 +27651,6 @@
             "doi": "10.1021/jacs.1c04396"
         },
         {
-            "title": "A Focus on \u201cBio\u201d in Bio\u2013Nanoscience: The Impact of Biological Factors on Nanomaterial Interactions",
-            "eid": "2-s2.0-85108858443",
-            "authors": [
-                {
-                    "scopus_id": "7004209359",
-                    "name": "Cortez-Jugo C.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57211213857",
-                    "name": "Czuba-Wojnilowicz E.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57224987020",
-                    "name": "Tan A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 21,
-            "publication_name": "Advanced Healthcare Materials",
-            "issn": "21922640",
-            "cover_date": "2021-08-01",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "16",
-            "page_range": null,
-            "doi": "10.1002/adhm.202100574"
-        },
-        {
-            "title": "Surface Modification of Spider Silk Particles to Direct Biomolecular Corona Formation",
-            "eid": "2-s2.0-85086480394",
-            "authors": [
-                {
-                    "scopus_id": "57202906476",
-                    "name": "Weiss A.C.G.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56524183700",
-                    "name": "Herold H.M.",
-                    "affiliation_id": [
-                        "60023208"
-                    ]
-                },
-                {
-                    "scopus_id": "57190001431",
-                    "name": "Lentz S.",
-                    "affiliation_id": [
-                        "60023208"
-                    ]
-                },
-                {
-                    "scopus_id": "57189903885",
-                    "name": "Faria M.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60118644"
-                    ]
-                },
-                {
-                    "scopus_id": "57189903885",
-                    "name": "Faria M.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60118644"
-                    ]
-                },
-                {
-                    "scopus_id": "56051668300",
-                    "name": "Besford Q.A.",
-                    "affiliation_id": [
-                        "60008583"
-                    ]
-                },
-                {
-                    "scopus_id": "24079527400",
-                    "name": "Ang C.S.",
-                    "affiliation_id": [
-                        "60103600"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56190060200",
-                    "name": "Scheibel T.",
-                    "affiliation_id": [
-                        "60023208",
-                        "60023208",
-                        "60023208",
-                        "60023208",
-                        "60115593"
-                    ]
-                },
-                {
-                    "scopus_id": "56190060200",
-                    "name": "Scheibel T.",
-                    "affiliation_id": [
-                        "60023208",
-                        "60023208",
-                        "60023208",
-                        "60023208",
-                        "60115593"
-                    ]
-                },
-                {
-                    "scopus_id": "56190060200",
-                    "name": "Scheibel T.",
-                    "affiliation_id": [
-                        "60023208",
-                        "60023208",
-                        "60023208",
-                        "60023208",
-                        "60115593"
-                    ]
-                },
-                {
-                    "scopus_id": "56190060200",
-                    "name": "Scheibel T.",
-                    "affiliation_id": [
-                        "60023208",
-                        "60023208",
-                        "60023208",
-                        "60023208",
-                        "60115593"
-                    ]
-                },
-                {
-                    "scopus_id": "56190060200",
-                    "name": "Scheibel T.",
-                    "affiliation_id": [
-                        "60023208",
-                        "60023208",
-                        "60023208",
-                        "60023208",
-                        "60115593"
-                    ]
-                }
-            ],
-            "citations": 21,
-            "publication_name": "ACS Applied Materials and Interfaces",
-            "issn": "19448244",
-            "cover_date": "2020-06-03",
-            "venue": "Journal",
-            "volume": "12",
-            "issue": "22",
-            "page_range": "24635-24643",
-            "doi": "10.1021/acsami.0c06344"
-        },
-        {
             "title": "Engineering Biocoatings to Prolong Drug Release from Supraparticles",
             "eid": "2-s2.0-85071613358",
             "authors": [
@@ -27674,92 +27760,6 @@
             "issue": "9",
             "page_range": "3425-3434",
             "doi": "10.1021/acs.biomac.9b00710"
-        },
-        {
-            "title": "Site-Selective Coordination Assembly of Dynamic Metal-Phenolic Networks",
-            "eid": "2-s2.0-85133939684",
-            "authors": [
-                {
-                    "scopus_id": "57795286100",
-                    "name": "Xu W.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "36911670800",
-                    "name": "Pan S.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60032356"
-                    ]
-                },
-                {
-                    "scopus_id": "55326702900",
-                    "name": "Noble B.B.",
-                    "affiliation_id": [
-                        "60011362"
-                    ]
-                },
-                {
-                    "scopus_id": "57210424816",
-                    "name": "Chen J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57169205400",
-                    "name": "Lin Z.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57203994734",
-                    "name": "Han Y.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55569103200",
-                    "name": "Zhou J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55627773700",
-                    "name": "Richardson J.J.",
-                    "affiliation_id": [
-                        "60025272"
-                    ]
-                },
-                {
-                    "scopus_id": "6701805002",
-                    "name": "Yarovsky I.",
-                    "affiliation_id": [
-                        "60011362"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 20,
-            "publication_name": "Angewandte Chemie - International Edition",
-            "issn": "14337851",
-            "cover_date": "2022-01-01",
-            "venue": "Journal",
-            "volume": "",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1002/anie.202208037"
         },
         {
             "title": "Revisiting cell\u2013particle association in vitro: A quantitative method to compare particle performance",
@@ -31177,6 +31177,223 @@
             "doi": "10.1002/anie.202312925"
         },
         {
+            "title": "An Engineered Nanosugar Enables Rapid and Sustained Glucose-Responsive Insulin Delivery in Diabetic Mice",
+            "eid": "2-s2.0-85150613744",
+            "authors": [
+                {
+                    "scopus_id": "55757464800",
+                    "name": "Xu R.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57189873146",
+                    "name": "Bhangu S.K.",
+                    "affiliation_id": [
+                        "60011362",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "23976934100",
+                    "name": "Sourris K.C.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57217734466",
+                    "name": "Vanni D.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60027509"
+                    ]
+                },
+                {
+                    "scopus_id": "10739378800",
+                    "name": "Sani M.A.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "25825100400",
+                    "name": "Karas J.A.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "23481347100",
+                    "name": "Alt K.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "15725864200",
+                    "name": "Niego B.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "58122183400",
+                    "name": "Ale A.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "56051668300",
+                    "name": "Besford Q.A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57198866870",
+                    "name": "Dyett B.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                },
+                {
+                    "scopus_id": "58150973500",
+                    "name": "Patrick J.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57217607090",
+                    "name": "Carmichael I.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7403898480",
+                    "name": "Shaw J.E.",
+                    "affiliation_id": [
+                        "60033409"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7404410528",
+                    "name": "Cooper M.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "6603485316",
+                    "name": "Hagemeyer C.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7004536461",
+                    "name": "Cavalieri F.",
+                    "affiliation_id": [
+                        "60011362",
+                        "60027509"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Advanced Materials",
+            "issn": "09359648",
+            "cover_date": "2023-05-25",
+            "venue": "Journal",
+            "volume": "35",
+            "issue": "21",
+            "page_range": null,
+            "doi": "10.1002/adma.202210392"
+        },
+        {
+            "title": "Engineering Programmable DNA Particles and Capsules Using Catechol-Functionalized DNA Block Copolymers",
+            "eid": "2-s2.0-85136177795",
+            "authors": [
+                {
+                    "scopus_id": "57192071653",
+                    "name": "Kim C.J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "35586140100",
+                    "name": "Ercole F.",
+                    "affiliation_id": [
+                        "60134796"
+                    ]
+                },
+                {
+                    "scopus_id": "56502343500",
+                    "name": "Goudeli E.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57189873146",
+                    "name": "Bhangu S.K.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60011362"
+                    ]
+                },
+                {
+                    "scopus_id": "57210424816",
+                    "name": "Chen J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57189903885",
+                    "name": "Faria M.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7401548204",
+                    "name": "Quinn J.F.",
+                    "affiliation_id": [
+                        "60134796",
+                        "60082289"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Chemistry of Materials",
+            "issn": "08974756",
+            "cover_date": "2022-08-23",
+            "venue": "Journal",
+            "volume": "34",
+            "issue": "16",
+            "page_range": "7468-7480",
+            "doi": "10.1021/acs.chemmater.2c01586"
+        },
+        {
             "title": "Protein precoating modulates biomolecular coronas and nanocapsule-immune cell interactions in human blood",
             "eid": "2-s2.0-85132761212",
             "authors": [
@@ -31586,223 +31803,6 @@
             "issue": "21",
             "page_range": "7581-7589",
             "doi": "10.1021/ma071372w"
-        },
-        {
-            "title": "An Engineered Nanosugar Enables Rapid and Sustained Glucose-Responsive Insulin Delivery in Diabetic Mice",
-            "eid": "2-s2.0-85150613744",
-            "authors": [
-                {
-                    "scopus_id": "55757464800",
-                    "name": "Xu R.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57189873146",
-                    "name": "Bhangu S.K.",
-                    "affiliation_id": [
-                        "60011362",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "23976934100",
-                    "name": "Sourris K.C.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57217734466",
-                    "name": "Vanni D.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60027509"
-                    ]
-                },
-                {
-                    "scopus_id": "10739378800",
-                    "name": "Sani M.A.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "25825100400",
-                    "name": "Karas J.A.",
-                    "affiliation_id": [
-                        "60118635"
-                    ]
-                },
-                {
-                    "scopus_id": "23481347100",
-                    "name": "Alt K.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "15725864200",
-                    "name": "Niego B.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "58122183400",
-                    "name": "Ale A.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "56051668300",
-                    "name": "Besford Q.A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57198866870",
-                    "name": "Dyett B.",
-                    "affiliation_id": [
-                        "60011362"
-                    ]
-                },
-                {
-                    "scopus_id": "58150973500",
-                    "name": "Patrick J.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57217607090",
-                    "name": "Carmichael I.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7403898480",
-                    "name": "Shaw J.E.",
-                    "affiliation_id": [
-                        "60033409"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7404410528",
-                    "name": "Cooper M.E.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "6603485316",
-                    "name": "Hagemeyer C.E.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "7004536461",
-                    "name": "Cavalieri F.",
-                    "affiliation_id": [
-                        "60011362",
-                        "60027509"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "Advanced Materials",
-            "issn": "09359648",
-            "cover_date": "2023-05-25",
-            "venue": "Journal",
-            "volume": "35",
-            "issue": "21",
-            "page_range": null,
-            "doi": "10.1002/adma.202210392"
-        },
-        {
-            "title": "Engineering Programmable DNA Particles and Capsules Using Catechol-Functionalized DNA Block Copolymers",
-            "eid": "2-s2.0-85136177795",
-            "authors": [
-                {
-                    "scopus_id": "57192071653",
-                    "name": "Kim C.J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "35586140100",
-                    "name": "Ercole F.",
-                    "affiliation_id": [
-                        "60134796"
-                    ]
-                },
-                {
-                    "scopus_id": "56502343500",
-                    "name": "Goudeli E.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57189873146",
-                    "name": "Bhangu S.K.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60011362"
-                    ]
-                },
-                {
-                    "scopus_id": "57210424816",
-                    "name": "Chen J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57189903885",
-                    "name": "Faria M.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7401548204",
-                    "name": "Quinn J.F.",
-                    "affiliation_id": [
-                        "60134796",
-                        "60082289"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "Chemistry of Materials",
-            "issn": "08974756",
-            "cover_date": "2022-08-23",
-            "venue": "Journal",
-            "volume": "34",
-            "issue": "16",
-            "page_range": "7468-7480",
-            "doi": "10.1021/acs.chemmater.2c01586"
         },
         {
             "title": "Achieving HIV-1 control through RNA-directed gene regulation",
@@ -34046,7 +34046,7 @@
                     "affiliation_id": [
                         "111168539",
                         "60026553",
-                        "60026553"
+                        "60118635"
                     ]
                 },
                 {
@@ -34055,7 +34055,7 @@
                     "affiliation_id": [
                         "111168539",
                         "60026553",
-                        "60026553"
+                        "60118635"
                     ]
                 }
             ],
@@ -34226,6 +34226,65 @@
             "issue": "1",
             "page_range": "155-179",
             "doi": "10.1007/12-2009-44"
+        },
+        {
+            "title": "Protease-Responsive Hydrogel Microparticles for Intradermal Drug Delivery",
+            "eid": "2-s2.0-85164252126",
+            "authors": [
+                {
+                    "scopus_id": "57833277900",
+                    "name": "Noddeland H.K.",
+                    "affiliation_id": [
+                        "60253138",
+                        "60012411"
+                    ]
+                },
+                {
+                    "scopus_id": "22954051800",
+                    "name": "Lind M.",
+                    "affiliation_id": [
+                        "60012411"
+                    ]
+                },
+                {
+                    "scopus_id": "8229118500",
+                    "name": "Petersson K.",
+                    "affiliation_id": [
+                        "60012411"
+                    ]
+                },
+                {
+                    "scopus_id": "7102575743",
+                    "name": "Caruso F.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "21335001800",
+                    "name": "Malmsten M.",
+                    "affiliation_id": [
+                        "60253138",
+                        "60029170"
+                    ]
+                },
+                {
+                    "scopus_id": "35738942900",
+                    "name": "Heinz A.",
+                    "affiliation_id": [
+                        "60253138"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Biomacromolecules",
+            "issn": "15257797",
+            "cover_date": "2023-07-10",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "7",
+            "page_range": "3203-3214",
+            "doi": "10.1021/acs.biomac.3c00265"
         },
         {
             "title": "The Future of Healthcare Materials",
@@ -34757,65 +34816,6 @@
             "issue": "",
             "page_range": "621-635",
             "doi": "10.1016/j.jconrel.2023.08.016"
-        },
-        {
-            "title": "Protease-Responsive Hydrogel Microparticles for Intradermal Drug Delivery",
-            "eid": "2-s2.0-85164252126",
-            "authors": [
-                {
-                    "scopus_id": "57833277900",
-                    "name": "Noddeland H.K.",
-                    "affiliation_id": [
-                        "60253138",
-                        "60012411"
-                    ]
-                },
-                {
-                    "scopus_id": "22954051800",
-                    "name": "Lind M.",
-                    "affiliation_id": [
-                        "60012411"
-                    ]
-                },
-                {
-                    "scopus_id": "8229118500",
-                    "name": "Petersson K.",
-                    "affiliation_id": [
-                        "60012411"
-                    ]
-                },
-                {
-                    "scopus_id": "7102575743",
-                    "name": "Caruso F.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "21335001800",
-                    "name": "Malmsten M.",
-                    "affiliation_id": [
-                        "60253138",
-                        "60029170"
-                    ]
-                },
-                {
-                    "scopus_id": "35738942900",
-                    "name": "Heinz A.",
-                    "affiliation_id": [
-                        "60253138"
-                    ]
-                }
-            ],
-            "citations": 3,
-            "publication_name": "Biomacromolecules",
-            "issn": "15257797",
-            "cover_date": "2023-07-10",
-            "venue": "Journal",
-            "volume": "24",
-            "issue": "7",
-            "page_range": "3203-3214",
-            "doi": "10.1021/acs.biomac.3c00265"
         },
         {
             "title": "Layer-by-Layer Assembled Capsules for Biomedical Applications",
@@ -37892,6 +37892,5 @@
             "$": "Engineering (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:46:42",
-    "c-score": null
+    "date fetched": "2024-07-12 19:08:19"
 }

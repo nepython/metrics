@@ -303,7 +303,7 @@
                     ]
                 }
             ],
-            "citations": 3186,
+            "citations": 3196,
             "publication_name": "Nature Human Behaviour",
             "issn": "",
             "cover_date": "2020-05-01",
@@ -349,7 +349,7 @@
                     ]
                 }
             ],
-            "citations": 887,
+            "citations": 888,
             "publication_name": "Applied Psychology",
             "issn": "0269994X",
             "cover_date": "2009-01-01",
@@ -417,7 +417,7 @@
                     ]
                 }
             ],
-            "citations": 712,
+            "citations": 713,
             "publication_name": "British Journal of Management",
             "issn": "10453172",
             "cover_date": "2005-06-01",
@@ -453,7 +453,7 @@
                     ]
                 }
             ],
-            "citations": 667,
+            "citations": 668,
             "publication_name": "British Journal of Social Psychology",
             "issn": "01446665",
             "cover_date": "2013-12-01",
@@ -569,7 +569,7 @@
                     ]
                 }
             ],
-            "citations": 499,
+            "citations": 500,
             "publication_name": "The Social Cure: Identity, Health and Well-Being",
             "issn": "",
             "cover_date": "2012-01-25",
@@ -866,7 +866,7 @@
                     ]
                 }
             ],
-            "citations": 346,
+            "citations": 349,
             "publication_name": "Addiction Research and Theory",
             "issn": "16066359",
             "cover_date": "2016-03-03",
@@ -916,7 +916,7 @@
                     ]
                 }
             ],
-            "citations": 340,
+            "citations": 341,
             "publication_name": "Personality and Social Psychology Review",
             "issn": "10888683",
             "cover_date": "2014-08-13",
@@ -952,7 +952,7 @@
                     ]
                 }
             ],
-            "citations": 334,
+            "citations": 335,
             "publication_name": "British Journal of Management",
             "issn": "10453172",
             "cover_date": "2007-03-01",
@@ -1150,7 +1150,7 @@
                     ]
                 }
             ],
-            "citations": 298,
+            "citations": 300,
             "publication_name": "The New Psychology of Leadership: Identity, Influence and Power",
             "issn": "",
             "cover_date": "2010-09-23",
@@ -1453,7 +1453,7 @@
                     ]
                 }
             ],
-            "citations": 265,
+            "citations": 267,
             "publication_name": "Journal of Affective Disorders",
             "issn": "01650327",
             "cover_date": "2016-04-01",
@@ -1556,7 +1556,7 @@
                     ]
                 }
             ],
-            "citations": 241,
+            "citations": 242,
             "publication_name": "Journal of Occupational and Organizational Psychology",
             "issn": "09631798",
             "cover_date": "2003-03-01",
@@ -1585,7 +1585,7 @@
                     ]
                 }
             ],
-            "citations": 237,
+            "citations": 238,
             "publication_name": "Handbook of Theories of Social Psychology",
             "issn": "",
             "cover_date": "2012-01-01",
@@ -1671,7 +1671,7 @@
                     ]
                 }
             ],
-            "citations": 236,
+            "citations": 238,
             "publication_name": "Leadership Quarterly",
             "issn": "10489843",
             "cover_date": "2014-01-01",
@@ -1809,7 +1809,7 @@
                     "scopus_id": "36988990300",
                     "name": "Levine M.",
                     "affiliation_id": [
-                        "60117737"
+                        "60117769"
                     ]
                 }
             ],
@@ -1857,7 +1857,7 @@
                     ]
                 }
             ],
-            "citations": 210,
+            "citations": 211,
             "publication_name": "Journal of Social Issues",
             "issn": "00224537",
             "cover_date": "2010-09-01",
@@ -2122,7 +2122,7 @@
                     ]
                 }
             ],
-            "citations": 179,
+            "citations": 180,
             "publication_name": "Personality and Social Psychology Review",
             "issn": "10888683",
             "cover_date": "2017-11-01",
@@ -2187,7 +2187,7 @@
                     ]
                 }
             ],
-            "citations": 176,
+            "citations": 177,
             "publication_name": "Journal of Affective Disorders",
             "issn": "01650327",
             "cover_date": "2014-04-20",
@@ -2230,7 +2230,7 @@
                     ]
                 }
             ],
-            "citations": 175,
+            "citations": 176,
             "publication_name": "European Journal of Political Research",
             "issn": "03044130",
             "cover_date": "2015-02-01",
@@ -2511,7 +2511,7 @@
                     ]
                 }
             ],
-            "citations": 150,
+            "citations": 151,
             "publication_name": "Stress and Health",
             "issn": "15323005",
             "cover_date": "2004-02-01",
@@ -2562,7 +2562,7 @@
                     ]
                 }
             ],
-            "citations": 144,
+            "citations": 145,
             "publication_name": "Strategic Management Journal",
             "issn": "01432095",
             "cover_date": "2011-03-01",
@@ -2742,7 +2742,7 @@
                     ]
                 }
             ],
-            "citations": 131,
+            "citations": 132,
             "publication_name": "Journal of Experimental Psychology: Applied",
             "issn": "1076898X",
             "cover_date": "2014-09-01",
@@ -2994,7 +2994,7 @@
                     ]
                 }
             ],
-            "citations": 118,
+            "citations": 119,
             "publication_name": "British Journal of Social Psychology",
             "issn": "01446665",
             "cover_date": "2014-03-01",
@@ -3668,7 +3668,7 @@
                     ]
                 }
             ],
-            "citations": 99,
+            "citations": 100,
             "publication_name": "Health Psychology Review",
             "issn": "17437199",
             "cover_date": "2021-01-01",
@@ -4842,6 +4842,42 @@
             "doi": "10.1007/s00127-016-1315-3"
         },
         {
+            "title": "In home or at home? How collective decision making in a new care facility enhances social interaction and wellbeing amongst older adults",
+            "eid": "2-s2.0-79251623132",
+            "authors": [
+                {
+                    "scopus_id": "36138754200",
+                    "name": "Knight C.",
+                    "affiliation_id": [
+                        "60026479"
+                    ]
+                },
+                {
+                    "scopus_id": "7005784725",
+                    "name": "Haslam S.",
+                    "affiliation_id": [
+                        "60026479"
+                    ]
+                },
+                {
+                    "scopus_id": "7004157796",
+                    "name": "Haslam C.",
+                    "affiliation_id": [
+                        "60026479"
+                    ]
+                }
+            ],
+            "citations": 79,
+            "publication_name": "Ageing and Society",
+            "issn": "0144686X",
+            "cover_date": "2010-11-01",
+            "venue": "Journal",
+            "volume": "30",
+            "issue": "8",
+            "page_range": "1393-1418",
+            "doi": "10.1017/S0144686X10000656"
+        },
+        {
             "title": "\"It's not funny if they're laughing\": Self-categorization, social influence, and responses to canned laughter",
             "eid": "2-s2.0-22744459226",
             "authors": [
@@ -5070,42 +5106,6 @@
             "issue": "1",
             "page_range": "163-169",
             "doi": "10.1111/j.2044-8309.2010.02015.x"
-        },
-        {
-            "title": "In home or at home? How collective decision making in a new care facility enhances social interaction and wellbeing amongst older adults",
-            "eid": "2-s2.0-79251623132",
-            "authors": [
-                {
-                    "scopus_id": "36138754200",
-                    "name": "Knight C.",
-                    "affiliation_id": [
-                        "60026479"
-                    ]
-                },
-                {
-                    "scopus_id": "7005784725",
-                    "name": "Haslam S.",
-                    "affiliation_id": [
-                        "60026479"
-                    ]
-                },
-                {
-                    "scopus_id": "7004157796",
-                    "name": "Haslam C.",
-                    "affiliation_id": [
-                        "60026479"
-                    ]
-                }
-            ],
-            "citations": 78,
-            "publication_name": "Ageing and Society",
-            "issn": "0144686X",
-            "cover_date": "2010-11-01",
-            "venue": "Journal",
-            "volume": "30",
-            "issue": "8",
-            "page_range": "1393-1418",
-            "doi": "10.1017/S0144686X10000656"
         },
         {
             "title": "When do stereotypes become really consensual? Investigating the group-based dynamics of the consensualization process",
@@ -6072,7 +6072,7 @@
                     ]
                 }
             ],
-            "citations": 62,
+            "citations": 63,
             "publication_name": "British Journal of Social Psychology",
             "issn": "01446665",
             "cover_date": "2021-07-01",
@@ -6619,7 +6619,7 @@
                     ]
                 }
             ],
-            "citations": 55,
+            "citations": 56,
             "publication_name": "Social Issues and Policy Review",
             "issn": "17512395",
             "cover_date": "2021-01-01",
@@ -6971,6 +6971,63 @@
             "doi": "10.1037//1089-2699.4.4.275"
         },
         {
+            "title": "Leaders promote attendance in sport and exercise sessions by fostering social identity",
+            "eid": "2-s2.0-85051528959",
+            "authors": [
+                {
+                    "scopus_id": "57193720577",
+                    "name": "Stevens M.",
+                    "affiliation_id": [
+                        "60162184"
+                    ]
+                },
+                {
+                    "scopus_id": "7102049101",
+                    "name": "Rees T.",
+                    "affiliation_id": [
+                        "60162184"
+                    ]
+                },
+                {
+                    "scopus_id": "24544770500",
+                    "name": "Coffee P.",
+                    "affiliation_id": [
+                        "60025200"
+                    ]
+                },
+                {
+                    "scopus_id": "7005784725",
+                    "name": "Haslam S.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55854239900",
+                    "name": "Steffens N.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "9637899100",
+                    "name": "Polman R.",
+                    "affiliation_id": [
+                        "60011019"
+                    ]
+                }
+            ],
+            "citations": 51,
+            "publication_name": "Scandinavian Journal of Medicine and Science in Sports",
+            "issn": "09057188",
+            "cover_date": "2018-09-01",
+            "venue": "Journal",
+            "volume": "28",
+            "issue": "9",
+            "page_range": "2100-2108",
+            "doi": "10.1111/sms.13217"
+        },
+        {
             "title": "Context\u2010dependent variation in social stereotyping 3: Extremism as a self\u2010categorical basis for polarized judgement",
             "eid": "2-s2.0-84984524599",
             "authors": [
@@ -7208,63 +7265,6 @@
             "issue": "",
             "page_range": "101-114",
             "doi": "10.1016/j.jenvp.2018.12.006"
-        },
-        {
-            "title": "Leaders promote attendance in sport and exercise sessions by fostering social identity",
-            "eid": "2-s2.0-85051528959",
-            "authors": [
-                {
-                    "scopus_id": "57193720577",
-                    "name": "Stevens M.",
-                    "affiliation_id": [
-                        "60162184"
-                    ]
-                },
-                {
-                    "scopus_id": "7102049101",
-                    "name": "Rees T.",
-                    "affiliation_id": [
-                        "60162184"
-                    ]
-                },
-                {
-                    "scopus_id": "24544770500",
-                    "name": "Coffee P.",
-                    "affiliation_id": [
-                        "60025200"
-                    ]
-                },
-                {
-                    "scopus_id": "7005784725",
-                    "name": "Haslam S.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "55854239900",
-                    "name": "Steffens N.K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "9637899100",
-                    "name": "Polman R.",
-                    "affiliation_id": [
-                        "60011019"
-                    ]
-                }
-            ],
-            "citations": 50,
-            "publication_name": "Scandinavian Journal of Medicine and Science in Sports",
-            "issn": "09057188",
-            "cover_date": "2018-09-01",
-            "venue": "Journal",
-            "volume": "28",
-            "issue": "9",
-            "page_range": "2100-2108",
-            "doi": "10.1111/sms.13217"
         },
         {
             "title": "\"That's not what we do\": Evidence that normative change is a mechanism of action in group interventions",
@@ -7677,6 +7677,42 @@
             "doi": "10.1037/pspa0000174"
         },
         {
+            "title": "Metatheories and Metaphors of Organizational Identity: Integrating Social Constructionist, Social Identity, and Social Actor Perspectives within a Social Interactionist Model",
+            "eid": "2-s2.0-85025093850",
+            "authors": [
+                {
+                    "scopus_id": "7005784725",
+                    "name": "Haslam S.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "8948381700",
+                    "name": "Cornelissen J.P.",
+                    "affiliation_id": [
+                        "60070152"
+                    ]
+                },
+                {
+                    "scopus_id": "56217695100",
+                    "name": "Werner M.D.",
+                    "affiliation_id": [
+                        "60070152"
+                    ]
+                }
+            ],
+            "citations": 44,
+            "publication_name": "International Journal of Management Reviews",
+            "issn": "14608545",
+            "cover_date": "2017-07-01",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "3",
+            "page_range": "318-336",
+            "doi": "10.1111/ijmr.12150"
+        },
+        {
             "title": "Seeing our self reflected in the world around us: The role of identity in making (natural) environments restorative",
             "eid": "2-s2.0-85006467130",
             "authors": [
@@ -7762,42 +7798,6 @@
             "issue": "7",
             "page_range": "2168-2194",
             "doi": "10.1177/0149206314565242"
-        },
-        {
-            "title": "Metatheories and Metaphors of Organizational Identity: Integrating Social Constructionist, Social Identity, and Social Actor Perspectives within a Social Interactionist Model",
-            "eid": "2-s2.0-85025093850",
-            "authors": [
-                {
-                    "scopus_id": "7005784725",
-                    "name": "Haslam S.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "8948381700",
-                    "name": "Cornelissen J.P.",
-                    "affiliation_id": [
-                        "60070152"
-                    ]
-                },
-                {
-                    "scopus_id": "56217695100",
-                    "name": "Werner M.D.",
-                    "affiliation_id": [
-                        "60070152"
-                    ]
-                }
-            ],
-            "citations": 43,
-            "publication_name": "International Journal of Management Reviews",
-            "issn": "14608545",
-            "cover_date": "2017-07-01",
-            "venue": "Journal",
-            "volume": "19",
-            "issue": "3",
-            "page_range": "318-336",
-            "doi": "10.1111/ijmr.12150"
         },
         {
             "title": "Post-coma disturbance and post-traumatic amnesia as nonlinear predictors of cognitive outcome following severe closed head injury: Findings from the Westmead head injury project",
@@ -7936,6 +7936,65 @@
             "doi": "10.1348/096317908X312669"
         },
         {
+            "title": "We can work it out: Group decision-making builds social identity and enhances the cognitive performance of care residents",
+            "eid": "2-s2.0-84891589234",
+            "authors": [
+                {
+                    "scopus_id": "7004157796",
+                    "name": "Haslam C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7005784725",
+                    "name": "Alexander Haslam S.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60026479"
+                    ]
+                },
+                {
+                    "scopus_id": "36138754200",
+                    "name": "Knight C.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60026479"
+                    ]
+                },
+                {
+                    "scopus_id": "25649497100",
+                    "name": "Gleibs I.",
+                    "affiliation_id": [
+                        "60021097"
+                    ]
+                },
+                {
+                    "scopus_id": "16048425400",
+                    "name": "Ysseldyk R.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55883276000",
+                    "name": "Mccloskey L.",
+                    "affiliation_id": [
+                        "60026479"
+                    ]
+                }
+            ],
+            "citations": 40,
+            "publication_name": "British Journal of Psychology",
+            "issn": "00071269",
+            "cover_date": "2014-02-01",
+            "venue": "Journal",
+            "volume": "105",
+            "issue": "1",
+            "page_range": "17-34",
+            "doi": "10.1111/bjop.12012"
+        },
+        {
             "title": "Tyranny revisited Groups, psychological well-being and the health of societies",
             "eid": "2-s2.0-33644811572",
             "authors": [
@@ -8007,65 +8066,6 @@
             "issue": "3",
             "page_range": "401-420",
             "doi": "10.1177/0022022116628672"
-        },
-        {
-            "title": "We can work it out: Group decision-making builds social identity and enhances the cognitive performance of care residents",
-            "eid": "2-s2.0-84891589234",
-            "authors": [
-                {
-                    "scopus_id": "7004157796",
-                    "name": "Haslam C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7005784725",
-                    "name": "Alexander Haslam S.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60026479"
-                    ]
-                },
-                {
-                    "scopus_id": "36138754200",
-                    "name": "Knight C.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60026479"
-                    ]
-                },
-                {
-                    "scopus_id": "25649497100",
-                    "name": "Gleibs I.",
-                    "affiliation_id": [
-                        "60021097"
-                    ]
-                },
-                {
-                    "scopus_id": "16048425400",
-                    "name": "Ysseldyk R.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "55883276000",
-                    "name": "Mccloskey L.",
-                    "affiliation_id": [
-                        "60026479"
-                    ]
-                }
-            ],
-            "citations": 39,
-            "publication_name": "British Journal of Psychology",
-            "issn": "00071269",
-            "cover_date": "2014-02-01",
-            "venue": "Journal",
-            "volume": "105",
-            "issue": "1",
-            "page_range": "17-34",
-            "doi": "10.1111/bjop.12012"
         },
         {
             "title": "Evidence that loneliness can be reduced by a whole-of-community intervention to increase neighbourhood identification",
@@ -9048,6 +9048,49 @@
             "doi": "10.1177/0146167296226006"
         },
         {
+            "title": "Identity Leadership, Social Identity Continuity, and Well-Being at Work During COVID-19",
+            "eid": "2-s2.0-85108882375",
+            "authors": [
+                {
+                    "scopus_id": "57191754725",
+                    "name": "Krug H.",
+                    "affiliation_id": [
+                        "60012556"
+                    ]
+                },
+                {
+                    "scopus_id": "7005784725",
+                    "name": "Haslam S.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "56284625200",
+                    "name": "Otto K.",
+                    "affiliation_id": [
+                        "60012556"
+                    ]
+                },
+                {
+                    "scopus_id": "55854239900",
+                    "name": "Steffens N.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 31,
+            "publication_name": "Frontiers in Psychology",
+            "issn": "",
+            "cover_date": "2021-06-11",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.3389/fpsyg.2021.684475"
+        },
+        {
             "title": "Identity Continuity Protects Academic Performance, Retention, and Life Satisfaction among International Students",
             "eid": "2-s2.0-85086336384",
             "authors": [
@@ -9313,49 +9356,6 @@
             "issue": "3",
             "page_range": "508-535",
             "doi": "10.1111/j.1559-1816.2005.tb02133.x"
-        },
-        {
-            "title": "Identity Leadership, Social Identity Continuity, and Well-Being at Work During COVID-19",
-            "eid": "2-s2.0-85108882375",
-            "authors": [
-                {
-                    "scopus_id": "57191754725",
-                    "name": "Krug H.",
-                    "affiliation_id": [
-                        "60012556"
-                    ]
-                },
-                {
-                    "scopus_id": "7005784725",
-                    "name": "Haslam S.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "56284625200",
-                    "name": "Otto K.",
-                    "affiliation_id": [
-                        "60012556"
-                    ]
-                },
-                {
-                    "scopus_id": "55854239900",
-                    "name": "Steffens N.K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 30,
-            "publication_name": "Frontiers in Psychology",
-            "issn": "",
-            "cover_date": "2021-06-11",
-            "venue": "Journal",
-            "volume": "12",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.3389/fpsyg.2021.684475"
         },
         {
             "title": "The social psychology of whistleblowing: An integrated model",
@@ -10411,6 +10411,70 @@
             "doi": "10.4135/9781412976190.n11"
         },
         {
+            "title": "Predictors of social identification in group therapy",
+            "eid": "2-s2.0-85062476685",
+            "authors": [
+                {
+                    "scopus_id": "54941187200",
+                    "name": "Cruwys T.",
+                    "affiliation_id": [
+                        "60083392"
+                    ]
+                },
+                {
+                    "scopus_id": "55854239900",
+                    "name": "Steffens N.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7005784725",
+                    "name": "Haslam S.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7004157796",
+                    "name": "Haslam C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6701768949",
+                    "name": "Hornsey M.J.",
+                    "affiliation_id": [
+                        "60160279"
+                    ]
+                },
+                {
+                    "scopus_id": "57216010933",
+                    "name": "McGarty C.",
+                    "affiliation_id": [
+                        "60017803"
+                    ]
+                },
+                {
+                    "scopus_id": "55772392400",
+                    "name": "Skorich D.P.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "Psychotherapy Research",
+            "issn": "10503307",
+            "cover_date": "2020-04-02",
+            "venue": "Journal",
+            "volume": "30",
+            "issue": "3",
+            "page_range": "348-361",
+            "doi": "10.1080/10503307.2019.1587193"
+        },
+        {
             "title": "Experts\u2019 Judgments of Management Journal Quality: An Identity Concerns Model",
             "eid": "2-s2.0-84910050818",
             "authors": [
@@ -10532,70 +10596,6 @@
             "issue": "MAR",
             "page_range": null,
             "doi": "10.3389/fpsyg.2019.00628"
-        },
-        {
-            "title": "Predictors of social identification in group therapy",
-            "eid": "2-s2.0-85062476685",
-            "authors": [
-                {
-                    "scopus_id": "54941187200",
-                    "name": "Cruwys T.",
-                    "affiliation_id": [
-                        "60083392"
-                    ]
-                },
-                {
-                    "scopus_id": "55854239900",
-                    "name": "Steffens N.K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7005784725",
-                    "name": "Haslam S.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7004157796",
-                    "name": "Haslam C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6701768949",
-                    "name": "Hornsey M.J.",
-                    "affiliation_id": [
-                        "60160279"
-                    ]
-                },
-                {
-                    "scopus_id": "57216010933",
-                    "name": "McGarty C.",
-                    "affiliation_id": [
-                        "60017803"
-                    ]
-                },
-                {
-                    "scopus_id": "55772392400",
-                    "name": "Skorich D.P.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 23,
-            "publication_name": "Psychotherapy Research",
-            "issn": "10503307",
-            "cover_date": "2020-04-02",
-            "venue": "Journal",
-            "volume": "30",
-            "issue": "3",
-            "page_range": "348-361",
-            "doi": "10.1080/10503307.2019.1587193"
         },
         {
             "title": "In Search of Identity Leadership: An ethnographic study of emergent influence in an interorganizational R&amp;D team",
@@ -10720,6 +10720,35 @@
             "issue": "",
             "page_range": "14-21",
             "doi": "10.1016/j.jenvp.2016.04.016"
+        },
+        {
+            "title": "Questioning the banality of evil",
+            "eid": "2-s2.0-39749094577",
+            "authors": [
+                {
+                    "scopus_id": "7005784725",
+                    "name": "Haslam S.A.",
+                    "affiliation_id": [
+                        "60026479"
+                    ]
+                },
+                {
+                    "scopus_id": "55405141800",
+                    "name": "Reicher S.D.",
+                    "affiliation_id": [
+                        "60022132"
+                    ]
+                }
+            ],
+            "citations": 23,
+            "publication_name": "Psychologist",
+            "issn": "09528229",
+            "cover_date": "2008-01-01",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "1",
+            "page_range": "16-19",
+            "doi": ""
         },
         {
             "title": "Leaders' creation of shared identity impacts group members' effort and performance: Evidence from an exercise task",
@@ -10967,33 +10996,104 @@
             "doi": "10.1111/j.1559-1816.2011.00794.x"
         },
         {
-            "title": "Questioning the banality of evil",
-            "eid": "2-s2.0-39749094577",
+            "title": "When the final whistle blows: Social identity pathways support mental health and life satisfaction after retirement from competitive sport",
+            "eid": "2-s2.0-85114360148",
             "authors": [
+                {
+                    "scopus_id": "7004157796",
+                    "name": "Haslam C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "36696704000",
+                    "name": "Lam B.C.P.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60082336"
+                    ]
+                },
+                {
+                    "scopus_id": "57196225861",
+                    "name": "Yang J.",
+                    "affiliation_id": [
+                        "60008919"
+                    ]
+                },
+                {
+                    "scopus_id": "55854239900",
+                    "name": "Steffens N.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
                 {
                     "scopus_id": "7005784725",
                     "name": "Haslam S.A.",
                     "affiliation_id": [
-                        "60026479"
+                        "60031004"
                     ]
                 },
                 {
-                    "scopus_id": "55405141800",
-                    "name": "Reicher S.D.",
+                    "scopus_id": "54941187200",
+                    "name": "Cruwys T.",
                     "affiliation_id": [
-                        "60022132"
+                        "60083392"
+                    ]
+                },
+                {
+                    "scopus_id": "56998962100",
+                    "name": "Boen F.",
+                    "affiliation_id": [
+                        "60025063"
+                    ]
+                },
+                {
+                    "scopus_id": "57194209854",
+                    "name": "Mertens N.",
+                    "affiliation_id": [
+                        "60025063"
+                    ]
+                },
+                {
+                    "scopus_id": "57194870898",
+                    "name": "De Brandt K.",
+                    "affiliation_id": [
+                        "60026810"
+                    ]
+                },
+                {
+                    "scopus_id": "36471557100",
+                    "name": "Wang X.",
+                    "affiliation_id": [
+                        "60028275"
+                    ]
+                },
+                {
+                    "scopus_id": "7004147070",
+                    "name": "Mallett C.J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57220371570",
+                    "name": "Fransen K.",
+                    "affiliation_id": [
+                        "60025063"
                     ]
                 }
             ],
-            "citations": 22,
-            "publication_name": "Psychologist",
-            "issn": "09528229",
-            "cover_date": "2008-01-01",
+            "citations": 21,
+            "publication_name": "Psychology of Sport and Exercise",
+            "issn": "14690292",
+            "cover_date": "2021-11-01",
             "venue": "Journal",
-            "volume": "21",
-            "issue": "1",
-            "page_range": "16-19",
-            "doi": ""
+            "volume": "57",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.psychsport.2021.102049"
         },
         {
             "title": "Responding to Climate Change Disaster: The Case of the 2019/2020 Bushfires in Australia",
@@ -11152,106 +11252,6 @@
             "issue": "",
             "page_range": "135-166",
             "doi": "10.4324/9780203936481"
-        },
-        {
-            "title": "When the final whistle blows: Social identity pathways support mental health and life satisfaction after retirement from competitive sport",
-            "eid": "2-s2.0-85114360148",
-            "authors": [
-                {
-                    "scopus_id": "7004157796",
-                    "name": "Haslam C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "36696704000",
-                    "name": "Lam B.C.P.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60082336"
-                    ]
-                },
-                {
-                    "scopus_id": "57196225861",
-                    "name": "Yang J.",
-                    "affiliation_id": [
-                        "60008919"
-                    ]
-                },
-                {
-                    "scopus_id": "55854239900",
-                    "name": "Steffens N.K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7005784725",
-                    "name": "Haslam S.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "54941187200",
-                    "name": "Cruwys T.",
-                    "affiliation_id": [
-                        "60083392"
-                    ]
-                },
-                {
-                    "scopus_id": "56998962100",
-                    "name": "Boen F.",
-                    "affiliation_id": [
-                        "60025063"
-                    ]
-                },
-                {
-                    "scopus_id": "57194209854",
-                    "name": "Mertens N.",
-                    "affiliation_id": [
-                        "60025063"
-                    ]
-                },
-                {
-                    "scopus_id": "57194870898",
-                    "name": "De Brandt K.",
-                    "affiliation_id": [
-                        "60026810"
-                    ]
-                },
-                {
-                    "scopus_id": "36471557100",
-                    "name": "Wang X.",
-                    "affiliation_id": [
-                        "60028275"
-                    ]
-                },
-                {
-                    "scopus_id": "7004147070",
-                    "name": "Mallett C.J.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57220371570",
-                    "name": "Fransen K.",
-                    "affiliation_id": [
-                        "60025063"
-                    ]
-                }
-            ],
-            "citations": 20,
-            "publication_name": "Psychology of Sport and Exercise",
-            "issn": "14690292",
-            "cover_date": "2021-11-01",
-            "venue": "Journal",
-            "volume": "57",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.psychsport.2021.102049"
         },
         {
             "title": "GROUPS 4 HEALTH protects against unanticipated threats to mental health: Evaluating two interventions during COVID-19 lockdown among young people with a history of depression and loneliness",
@@ -11543,6 +11543,43 @@
             "doi": "10.1002/ejsp.627"
         },
         {
+            "title": "And now for something completely different? The impact of group membership on perceptions of creativity",
+            "eid": "2-s2.0-56349108626",
+            "authors": [
+                {
+                    "scopus_id": "12139186300",
+                    "name": "Adarves-Yorno I.",
+                    "affiliation_id": [
+                        "60026479"
+                    ]
+                },
+                {
+                    "scopus_id": "7005784725",
+                    "name": "Alexander Haslam S.",
+                    "affiliation_id": [
+                        "60026479"
+                    ]
+                },
+                {
+                    "scopus_id": "7004297334",
+                    "name": "Postmes T.",
+                    "affiliation_id": [
+                        "60026479",
+                        "60010023"
+                    ]
+                }
+            ],
+            "citations": 20,
+            "publication_name": "Social Influence",
+            "issn": "15534510",
+            "cover_date": "2008-12-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "4",
+            "page_range": "248-266",
+            "doi": "10.1080/15534510802341124"
+        },
+        {
             "title": "Rethinking the nature of the person at the heart of the biopsychosocial model: Exploring social changeways not just personal pathways",
             "eid": "2-s2.0-85097476278",
             "authors": [
@@ -11793,43 +11830,6 @@
             "doi": "10.1111/ap.12115"
         },
         {
-            "title": "And now for something completely different? The impact of group membership on perceptions of creativity",
-            "eid": "2-s2.0-56349108626",
-            "authors": [
-                {
-                    "scopus_id": "12139186300",
-                    "name": "Adarves-Yorno I.",
-                    "affiliation_id": [
-                        "60026479"
-                    ]
-                },
-                {
-                    "scopus_id": "7005784725",
-                    "name": "Alexander Haslam S.",
-                    "affiliation_id": [
-                        "60026479"
-                    ]
-                },
-                {
-                    "scopus_id": "7004297334",
-                    "name": "Postmes T.",
-                    "affiliation_id": [
-                        "60026479",
-                        "60010023"
-                    ]
-                }
-            ],
-            "citations": 19,
-            "publication_name": "Social Influence",
-            "issn": "15534510",
-            "cover_date": "2008-12-01",
-            "venue": "Journal",
-            "volume": "3",
-            "issue": "4",
-            "page_range": "248-266",
-            "doi": "10.1080/15534510802341124"
-        },
-        {
             "title": "The effect of cognitive load on social categorization in the category confusion paradigm",
             "eid": "2-s2.0-0033174170",
             "authors": [
@@ -11897,6 +11897,49 @@
             "issue": "5-6",
             "page_range": "641-663",
             "doi": "10.1002/(SICI)1099-0992(199908/09)29:5/6<641::AID-EJSP953>3.0.CO;2-8"
+        },
+        {
+            "title": "The Value of Speaking for \u201cUs\u201d: the Relationship Between CEOs\u2019 Use of I- and We-Referencing Language and Subsequent Organizational Performance",
+            "eid": "2-s2.0-85102020461",
+            "authors": [
+                {
+                    "scopus_id": "57215495923",
+                    "name": "Fladerer M.P.",
+                    "affiliation_id": [
+                        "60028717"
+                    ]
+                },
+                {
+                    "scopus_id": "7005784725",
+                    "name": "Haslam S.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55854239900",
+                    "name": "Steffens N.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7102907649",
+                    "name": "Frey D.",
+                    "affiliation_id": [
+                        "60028717"
+                    ]
+                }
+            ],
+            "citations": 18,
+            "publication_name": "Journal of Business and Psychology",
+            "issn": "08893268",
+            "cover_date": "2021-04-01",
+            "venue": "Journal",
+            "volume": "36",
+            "issue": "2",
+            "page_range": "299-313",
+            "doi": "10.1007/s10869-019-09677-0"
         },
         {
             "title": "A truth that does not always speak its name: How Hollander and Turowetz's findings confirm and extend the engaged followership analysis of harm-doing in the Milgram paradigm",
@@ -11968,49 +12011,6 @@
             "issue": "",
             "page_range": "450-464",
             "doi": "10.4135/9781446269930.n27"
-        },
-        {
-            "title": "The Value of Speaking for \u201cUs\u201d: the Relationship Between CEOs\u2019 Use of I- and We-Referencing Language and Subsequent Organizational Performance",
-            "eid": "2-s2.0-85102020461",
-            "authors": [
-                {
-                    "scopus_id": "57215495923",
-                    "name": "Fladerer M.P.",
-                    "affiliation_id": [
-                        "60028717"
-                    ]
-                },
-                {
-                    "scopus_id": "7005784725",
-                    "name": "Haslam S.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "55854239900",
-                    "name": "Steffens N.K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7102907649",
-                    "name": "Frey D.",
-                    "affiliation_id": [
-                        "60028717"
-                    ]
-                }
-            ],
-            "citations": 17,
-            "publication_name": "Journal of Business and Psychology",
-            "issn": "08893268",
-            "cover_date": "2021-04-01",
-            "venue": "Journal",
-            "volume": "36",
-            "issue": "2",
-            "page_range": "299-313",
-            "doi": "10.1007/s10869-019-09677-0"
         },
         {
             "title": "Leading from the centre: A comprehensive examination of the relationship between central playing positions and leadership in sport",
@@ -12917,6 +12917,56 @@
             "doi": "10.1002/(sici)1099-1298(199805/06)8:3<195::aid-casp447>3.0.co;2-u"
         },
         {
+            "title": "Understanding Responses to an Organizational Takeover: Introducing the Social Identity Model of Organizational Change",
+            "eid": "2-s2.0-85125045921",
+            "authors": [
+                {
+                    "scopus_id": "57462537500",
+                    "name": "M\u00fchlemann N.S.",
+                    "affiliation_id": [
+                        "60012614"
+                    ]
+                },
+                {
+                    "scopus_id": "55854239900",
+                    "name": "Steffens N.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "16475186000",
+                    "name": "Ullrich J.",
+                    "affiliation_id": [
+                        "60012614"
+                    ]
+                },
+                {
+                    "scopus_id": "7005784725",
+                    "name": "Haslam S.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "25644334100",
+                    "name": "Jonas K.",
+                    "affiliation_id": [
+                        "60012614"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Journal of Personality and Social Psychology",
+            "issn": "00223514",
+            "cover_date": "2022-01-31",
+            "venue": "Journal",
+            "volume": "123",
+            "issue": "5",
+            "page_range": "1004-1023",
+            "doi": "10.1037/pspi0000386"
+        },
+        {
             "title": "Identity leadership and social identification within sport teams over a season: A social network analysis",
             "eid": "2-s2.0-85120157930",
             "authors": [
@@ -13543,6 +13593,44 @@
             "doi": "10.1111/bjop.12312"
         },
         {
+            "title": "Women's occupational motivation: The impact of being a woman in a man's world",
+            "eid": "2-s2.0-84967234564",
+            "authors": [
+                {
+                    "scopus_id": "7402786977",
+                    "name": "Peters K.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60026479"
+                    ]
+                },
+                {
+                    "scopus_id": "8872637600",
+                    "name": "Ryan M.K.",
+                    "affiliation_id": [
+                        "60026479",
+                        "60010023"
+                    ]
+                },
+                {
+                    "scopus_id": "7005784725",
+                    "name": "Haslam S.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Handbook of Research on Promoting Women's Careers",
+            "issn": "",
+            "cover_date": "2013-10-31",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "162-177",
+            "doi": "10.4337/9780857938961.00015"
+        },
+        {
             "title": "Well-being in cross-cultural transitions: Discrepancies between acculturation preferences and actual intergroup and intragroup contact",
             "eid": "2-s2.0-84920651852",
             "authors": [
@@ -13613,56 +13701,6 @@
             "issue": "9",
             "page_range": "650-652",
             "doi": ""
-        },
-        {
-            "title": "Understanding Responses to an Organizational Takeover: Introducing the Social Identity Model of Organizational Change",
-            "eid": "2-s2.0-85125045921",
-            "authors": [
-                {
-                    "scopus_id": "57462537500",
-                    "name": "M\u00fchlemann N.S.",
-                    "affiliation_id": [
-                        "60012614"
-                    ]
-                },
-                {
-                    "scopus_id": "55854239900",
-                    "name": "Steffens N.K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "16475186000",
-                    "name": "Ullrich J.",
-                    "affiliation_id": [
-                        "60012614"
-                    ]
-                },
-                {
-                    "scopus_id": "7005784725",
-                    "name": "Haslam S.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "25644334100",
-                    "name": "Jonas K.",
-                    "affiliation_id": [
-                        "60012614"
-                    ]
-                }
-            ],
-            "citations": 12,
-            "publication_name": "Journal of Personality and Social Psychology",
-            "issn": "00223514",
-            "cover_date": "2022-01-31",
-            "venue": "Journal",
-            "volume": "123",
-            "issue": "5",
-            "page_range": "1004-1023",
-            "doi": "10.1037/pspi0000386"
         },
         {
             "title": "More to lose? Longitudinal evidence that women whose social support declines following childbirth are at increased risk of depression",
@@ -13864,44 +13902,6 @@
             "doi": "10.3389/fpsyg.2018.02579"
         },
         {
-            "title": "Women's occupational motivation: The impact of being a woman in a man's world",
-            "eid": "2-s2.0-84967234564",
-            "authors": [
-                {
-                    "scopus_id": "7402786977",
-                    "name": "Peters K.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60026479"
-                    ]
-                },
-                {
-                    "scopus_id": "8872637600",
-                    "name": "Ryan M.K.",
-                    "affiliation_id": [
-                        "60026479",
-                        "60010023"
-                    ]
-                },
-                {
-                    "scopus_id": "7005784725",
-                    "name": "Haslam S.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 12,
-            "publication_name": "Handbook of Research on Promoting Women's Careers",
-            "issn": "",
-            "cover_date": "2013-10-31",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "162-177",
-            "doi": "10.4337/9780857938961.00015"
-        },
-        {
             "title": "Extremism and Deviance: Beyond Taxonomy and Bias",
             "eid": "2-s2.0-0347628241",
             "authors": [
@@ -13925,6 +13925,63 @@
             "issue": "2",
             "page_range": "434-448",
             "doi": ""
+        },
+        {
+            "title": "Facilitating Goals, Tasks, and Bonds via Identity Leadership:Understanding the Therapeutic Working Alliance as the Outcome of Social Identity Processes",
+            "eid": "2-s2.0-85123267479",
+            "authors": [
+                {
+                    "scopus_id": "57215384391",
+                    "name": "Lee G.C.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6603961473",
+                    "name": "Platow M.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7005784725",
+                    "name": "Haslam S.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55405141800",
+                    "name": "Reicher S.D.",
+                    "affiliation_id": [
+                        "60022132"
+                    ]
+                },
+                {
+                    "scopus_id": "24430008500",
+                    "name": "Grace D.M.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "54941187200",
+                    "name": "Cruwys T.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Group Dynamics",
+            "issn": "10892699",
+            "cover_date": "2021-01-01",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "4",
+            "page_range": "271-287",
+            "doi": "10.1037/gdn0000170"
         },
         {
             "title": "The importance of creating and harnessing a sense of 'us': Social identity as the missing link between leadership and health",
@@ -14142,63 +14199,6 @@
             "issue": "4",
             "page_range": "599-605",
             "doi": "10.1037/0894-4105.9.4.599"
-        },
-        {
-            "title": "Facilitating Goals, Tasks, and Bonds via Identity Leadership:Understanding the Therapeutic Working Alliance as the Outcome of Social Identity Processes",
-            "eid": "2-s2.0-85123267479",
-            "authors": [
-                {
-                    "scopus_id": "57215384391",
-                    "name": "Lee G.C.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "6603961473",
-                    "name": "Platow M.J.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7005784725",
-                    "name": "Haslam S.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "55405141800",
-                    "name": "Reicher S.D.",
-                    "affiliation_id": [
-                        "60022132"
-                    ]
-                },
-                {
-                    "scopus_id": "24430008500",
-                    "name": "Grace D.M.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "54941187200",
-                    "name": "Cruwys T.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "Group Dynamics",
-            "issn": "10892699",
-            "cover_date": "2021-01-01",
-            "venue": "Journal",
-            "volume": "25",
-            "issue": "4",
-            "page_range": "271-287",
-            "doi": "10.1037/gdn0000170"
         },
         {
             "title": "A Social-Identity Theory of Information-Access Regulation (SITIAR): Understanding the Psychology of Sharing and Withholding",
@@ -17134,6 +17134,5 @@
             "$": "Social Sciences (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:23:28",
-    "c-score": null
+    "date fetched": "2024-07-12 20:11:51"
 }

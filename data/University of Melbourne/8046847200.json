@@ -192,7 +192,7 @@
                     ]
                 }
             ],
-            "citations": 6899,
+            "citations": 6913,
             "publication_name": "Ecography",
             "issn": "09067590",
             "cover_date": "2006-04-01",
@@ -339,7 +339,7 @@
                     ]
                 }
             ],
-            "citations": 6368,
+            "citations": 6392,
             "publication_name": "Ecography",
             "issn": "09067590",
             "cover_date": "2013-01-01",
@@ -368,7 +368,7 @@
                     ]
                 }
             ],
-            "citations": 4770,
+            "citations": 4781,
             "publication_name": "Annual Review of Ecology, Evolution, and Systematics",
             "issn": "1543592X",
             "cover_date": "2009-12-01",
@@ -425,7 +425,7 @@
                     ]
                 }
             ],
-            "citations": 4731,
+            "citations": 4741,
             "publication_name": "Diversity and Distributions",
             "issn": "13669516",
             "cover_date": "2011-01-01",
@@ -461,7 +461,7 @@
                     ]
                 }
             ],
-            "citations": 4653,
+            "citations": 4664,
             "publication_name": "Journal of Animal Ecology",
             "issn": "00218790",
             "cover_date": "2008-07-01",
@@ -525,7 +525,7 @@
                     ]
                 }
             ],
-            "citations": 2129,
+            "citations": 2136,
             "publication_name": "Ecological Applications",
             "issn": "10510761",
             "cover_date": "2009-01-01",
@@ -716,7 +716,7 @@
                     ]
                 }
             ],
-            "citations": 1877,
+            "citations": 1881,
             "publication_name": "Diversity and Distributions",
             "issn": "13669516",
             "cover_date": "2008-09-01",
@@ -901,7 +901,7 @@
                     ]
                 }
             ],
-            "citations": 1346,
+            "citations": 1352,
             "publication_name": "Ecology Letters",
             "issn": "1461023X",
             "cover_date": "2013-12-01",
@@ -1015,7 +1015,7 @@
                     ]
                 }
             ],
-            "citations": 1054,
+            "citations": 1061,
             "publication_name": "Ecography",
             "issn": "09067590",
             "cover_date": "2017-08-01",
@@ -1044,7 +1044,7 @@
                     ]
                 }
             ],
-            "citations": 852,
+            "citations": 853,
             "publication_name": "Ecography",
             "issn": "09067590",
             "cover_date": "2009-02-01",
@@ -1165,7 +1165,7 @@
                     ]
                 }
             ],
-            "citations": 654,
+            "citations": 657,
             "publication_name": "Global Ecology and Biogeography",
             "issn": "1466822X",
             "cover_date": "2015-03-01",
@@ -1215,7 +1215,7 @@
                     ]
                 }
             ],
-            "citations": 468,
+            "citations": 469,
             "publication_name": "Marine Ecology Progress Series",
             "issn": "01718630",
             "cover_date": "2006-09-08",
@@ -1387,7 +1387,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 456,
+            "citations": 458,
             "publication_name": "Diversity and Distributions",
             "issn": "13669516",
             "cover_date": "2007-05-01",
@@ -1820,7 +1820,7 @@
                     ]
                 }
             ],
-            "citations": 401,
+            "citations": 405,
             "publication_name": "Ecography",
             "issn": "09067590",
             "cover_date": "2020-09-01",
@@ -2197,7 +2197,7 @@
                     ]
                 }
             ],
-            "citations": 377,
+            "citations": 378,
             "publication_name": "Trends in Ecology and Evolution",
             "issn": "01695347",
             "cover_date": "2018-10-01",
@@ -2301,7 +2301,7 @@
                     ]
                 }
             ],
-            "citations": 350,
+            "citations": 351,
             "publication_name": "Ecological Modelling",
             "issn": "03043800",
             "cover_date": "2006-11-16",
@@ -2344,7 +2344,7 @@
                     ]
                 }
             ],
-            "citations": 316,
+            "citations": 319,
             "publication_name": "Methods in Ecology and Evolution",
             "issn": "",
             "cover_date": "2019-02-01",
@@ -2444,7 +2444,7 @@
                     ]
                 }
             ],
-            "citations": 299,
+            "citations": 302,
             "publication_name": "Diversity and Distributions",
             "issn": "13669516",
             "cover_date": "2019-05-01",
@@ -2487,7 +2487,7 @@
                     ]
                 }
             ],
-            "citations": 285,
+            "citations": 286,
             "publication_name": "Methods in Ecology and Evolution",
             "issn": "",
             "cover_date": "2015-04-01",
@@ -2516,7 +2516,7 @@
                     ]
                 }
             ],
-            "citations": 285,
+            "citations": 286,
             "publication_name": "Ecological Modelling",
             "issn": "03043800",
             "cover_date": "2006-11-16",
@@ -2576,75 +2576,6 @@
             "issue": "12",
             "page_range": "2034-2052",
             "doi": "10.1111/j.1365-2427.2005.01448.x"
-        },
-        {
-            "title": "Point process models for presence-only analysis",
-            "eid": "2-s2.0-84926625850",
-            "authors": [
-                {
-                    "scopus_id": "55909805100",
-                    "name": "Renner I.W.",
-                    "affiliation_id": [
-                        "60010571"
-                    ]
-                },
-                {
-                    "scopus_id": "8046847200",
-                    "name": "Elith J.",
-                    "affiliation_id": [
-                        "60118642"
-                    ]
-                },
-                {
-                    "scopus_id": "7101639465",
-                    "name": "Baddeley A.",
-                    "affiliation_id": [
-                        "60031226"
-                    ]
-                },
-                {
-                    "scopus_id": "14035597300",
-                    "name": "Fithian W.",
-                    "affiliation_id": [
-                        "60010417"
-                    ]
-                },
-                {
-                    "scopus_id": "7004744483",
-                    "name": "Hastie T.",
-                    "affiliation_id": [
-                        "60010417"
-                    ]
-                },
-                {
-                    "scopus_id": "7402028664",
-                    "name": "Phillips S.J.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "56585656200",
-                    "name": "Popovic G.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "6603467842",
-                    "name": "Warton D.I.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 267,
-            "publication_name": "Methods in Ecology and Evolution",
-            "issn": "",
-            "cover_date": "2015-04-01",
-            "venue": "Journal",
-            "volume": "6",
-            "issue": "4",
-            "page_range": "366-379",
-            "doi": "10.1111/2041-210X.12352"
         },
         {
             "title": "A comprehensive evaluation of predictive performance of 33 species distribution models at species and community levels",
@@ -2904,7 +2835,7 @@
                     ]
                 }
             ],
-            "citations": 266,
+            "citations": 273,
             "publication_name": "Ecological Monographs",
             "issn": "00129615",
             "cover_date": "2019-08-01",
@@ -2913,6 +2844,75 @@
             "issue": "3",
             "page_range": null,
             "doi": "10.1002/ecm.1370"
+        },
+        {
+            "title": "Point process models for presence-only analysis",
+            "eid": "2-s2.0-84926625850",
+            "authors": [
+                {
+                    "scopus_id": "55909805100",
+                    "name": "Renner I.W.",
+                    "affiliation_id": [
+                        "60010571"
+                    ]
+                },
+                {
+                    "scopus_id": "8046847200",
+                    "name": "Elith J.",
+                    "affiliation_id": [
+                        "60118642"
+                    ]
+                },
+                {
+                    "scopus_id": "7101639465",
+                    "name": "Baddeley A.",
+                    "affiliation_id": [
+                        "60031226"
+                    ]
+                },
+                {
+                    "scopus_id": "14035597300",
+                    "name": "Fithian W.",
+                    "affiliation_id": [
+                        "60010417"
+                    ]
+                },
+                {
+                    "scopus_id": "7004744483",
+                    "name": "Hastie T.",
+                    "affiliation_id": [
+                        "60010417"
+                    ]
+                },
+                {
+                    "scopus_id": "7402028664",
+                    "name": "Phillips S.J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "56585656200",
+                    "name": "Popovic G.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "6603467842",
+                    "name": "Warton D.I.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 270,
+            "publication_name": "Methods in Ecology and Evolution",
+            "issn": "",
+            "cover_date": "2015-04-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "4",
+            "page_range": "366-379",
+            "doi": "10.1111/2041-210X.12352"
         },
         {
             "title": "Predicting species distributions from museum and herbarium records using multiresponse models fitted with multivariate adaptive regression splines",
@@ -3012,7 +3012,7 @@
                     ]
                 }
             ],
-            "citations": 239,
+            "citations": 240,
             "publication_name": "Biological Conservation",
             "issn": "00063207",
             "cover_date": "2005-03-01",
@@ -3055,7 +3055,7 @@
                     ]
                 }
             ],
-            "citations": 232,
+            "citations": 237,
             "publication_name": "Ecological Monographs",
             "issn": "00129615",
             "cover_date": "2022-02-01",
@@ -3288,7 +3288,7 @@
                     ]
                 }
             ],
-            "citations": 214,
+            "citations": 215,
             "publication_name": "Ecological Monographs",
             "issn": "00129615",
             "cover_date": "2018-11-01",
@@ -3324,7 +3324,7 @@
                     ]
                 }
             ],
-            "citations": 209,
+            "citations": 212,
             "publication_name": "Ecological Modelling",
             "issn": "03043800",
             "cover_date": "2002-11-30",
@@ -3333,49 +3333,6 @@
             "issue": "2-3",
             "page_range": "313-329",
             "doi": "10.1016/S0304-3800(02)00202-8"
-        },
-        {
-            "title": "The evaluation strip: A new and robust method for plotting predicted responses from species distribution models",
-            "eid": "2-s2.0-22144478718",
-            "authors": [
-                {
-                    "scopus_id": "8046847200",
-                    "name": "Elith J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7004032132",
-                    "name": "Ferrier S.",
-                    "affiliation_id": [
-                        "60112807"
-                    ]
-                },
-                {
-                    "scopus_id": "8982552800",
-                    "name": "Huettmann F.",
-                    "affiliation_id": [
-                        "60011976"
-                    ]
-                },
-                {
-                    "scopus_id": "6701736764",
-                    "name": "Leathwick J.",
-                    "affiliation_id": [
-                        "60024594"
-                    ]
-                }
-            ],
-            "citations": 192,
-            "publication_name": "Ecological Modelling",
-            "issn": "03043800",
-            "cover_date": "2005-08-25",
-            "venue": "Journal",
-            "volume": "186",
-            "issue": "3",
-            "page_range": "280-289",
-            "doi": "10.1016/j.ecolmodel.2004.12.007"
         },
         {
             "title": "Building essential biodiversity variables (EBVs) of species distribution and abundance at a global scale",
@@ -3645,7 +3602,7 @@
                     ]
                 }
             ],
-            "citations": 191,
+            "citations": 192,
             "publication_name": "Biological Reviews",
             "issn": "14647931",
             "cover_date": "2018-02-01",
@@ -3654,6 +3611,92 @@
             "issue": "1",
             "page_range": "600-625",
             "doi": "10.1111/brv.12359"
+        },
+        {
+            "title": "The evaluation strip: A new and robust method for plotting predicted responses from species distribution models",
+            "eid": "2-s2.0-22144478718",
+            "authors": [
+                {
+                    "scopus_id": "8046847200",
+                    "name": "Elith J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7004032132",
+                    "name": "Ferrier S.",
+                    "affiliation_id": [
+                        "60112807"
+                    ]
+                },
+                {
+                    "scopus_id": "8982552800",
+                    "name": "Huettmann F.",
+                    "affiliation_id": [
+                        "60011976"
+                    ]
+                },
+                {
+                    "scopus_id": "6701736764",
+                    "name": "Leathwick J.",
+                    "affiliation_id": [
+                        "60024594"
+                    ]
+                }
+            ],
+            "citations": 192,
+            "publication_name": "Ecological Modelling",
+            "issn": "03043800",
+            "cover_date": "2005-08-25",
+            "venue": "Journal",
+            "volume": "186",
+            "issue": "3",
+            "page_range": "280-289",
+            "doi": "10.1016/j.ecolmodel.2004.12.007"
+        },
+        {
+            "title": "Testing whether ensemble modelling is advantageous for maximising predictive performance of species distribution models",
+            "eid": "2-s2.0-85078760878",
+            "authors": [
+                {
+                    "scopus_id": "57208445164",
+                    "name": "Hao T.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "8046847200",
+                    "name": "Elith J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "36056786800",
+                    "name": "Lahoz-Monfort J.J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "36056611300",
+                    "name": "Guillera-Arroita G.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 191,
+            "publication_name": "Ecography",
+            "issn": "09067590",
+            "cover_date": "2020-04-01",
+            "venue": "Journal",
+            "volume": "43",
+            "issue": "4",
+            "page_range": "549-558",
+            "doi": "10.1111/ecog.04890"
         },
         {
             "title": "Plant extinction risk under climate change: Are forecast range shifts alone a good indicator of species vulnerability to global warming?",
@@ -3786,49 +3829,6 @@
             "doi": "10.1111/j.1365-2486.2011.02614.x"
         },
         {
-            "title": "Testing whether ensemble modelling is advantageous for maximising predictive performance of species distribution models",
-            "eid": "2-s2.0-85078760878",
-            "authors": [
-                {
-                    "scopus_id": "57208445164",
-                    "name": "Hao T.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "8046847200",
-                    "name": "Elith J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "36056786800",
-                    "name": "Lahoz-Monfort J.J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "36056611300",
-                    "name": "Guillera-Arroita G.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 189,
-            "publication_name": "Ecography",
-            "issn": "09067590",
-            "cover_date": "2020-04-01",
-            "venue": "Journal",
-            "volume": "43",
-            "issue": "4",
-            "page_range": "549-558",
-            "doi": "10.1111/ecog.04890"
-        },
-        {
             "title": "A method for spatial freshwater conservation prioritization",
             "eid": "2-s2.0-38649098129",
             "authors": [
@@ -3908,7 +3908,7 @@
                     ]
                 }
             ],
-            "citations": 169,
+            "citations": 170,
             "publication_name": "Remote Sensing of Environment",
             "issn": "00344257",
             "cover_date": "2018-04-01",
@@ -4255,7 +4255,7 @@
                     ]
                 }
             ],
-            "citations": 116,
+            "citations": 117,
             "publication_name": "Methods in Ecology and Evolution",
             "issn": "",
             "cover_date": "2014-11-01",
@@ -4293,7 +4293,7 @@
                     ]
                 }
             ],
-            "citations": 108,
+            "citations": 110,
             "publication_name": "Diversity and Distributions",
             "issn": "13669516",
             "cover_date": "2012-06-01",
@@ -4408,7 +4408,7 @@
                     ]
                 }
             ],
-            "citations": 92,
+            "citations": 93,
             "publication_name": "Ecological Modelling",
             "issn": "03043800",
             "cover_date": "2003-07-15",
@@ -4458,7 +4458,7 @@
                     ]
                 }
             ],
-            "citations": 91,
+            "citations": 92,
             "publication_name": "Environmental Management",
             "issn": "0364152X",
             "cover_date": "2016-02-01",
@@ -4467,63 +4467,6 @@
             "issue": "2",
             "page_range": "251-256",
             "doi": "10.1007/s00267-015-0613-y"
-        },
-        {
-            "title": "Use of generalised dissimilarity modelling to improve the biological discrimination of river and stream classifications",
-            "eid": "2-s2.0-77956259831",
-            "authors": [
-                {
-                    "scopus_id": "6701736764",
-                    "name": "Leathwick J.",
-                    "affiliation_id": [
-                        "60023958"
-                    ]
-                },
-                {
-                    "scopus_id": "56054077300",
-                    "name": "Snelder T.",
-                    "affiliation_id": [
-                        "60024594"
-                    ]
-                },
-                {
-                    "scopus_id": "6602894540",
-                    "name": "Chadderton W.",
-                    "affiliation_id": [
-                        "60017383"
-                    ]
-                },
-                {
-                    "scopus_id": "8046847200",
-                    "name": "Elith J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "35223404600",
-                    "name": "Julian K.",
-                    "affiliation_id": [
-                        "60024594"
-                    ]
-                },
-                {
-                    "scopus_id": "7004032132",
-                    "name": "Ferrier S.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                }
-            ],
-            "citations": 89,
-            "publication_name": "Freshwater Biology",
-            "issn": "00465070",
-            "cover_date": "2011-01-01",
-            "venue": "Journal",
-            "volume": "56",
-            "issue": "1",
-            "page_range": "21-38",
-            "doi": "10.1111/j.1365-2427.2010.02414.x"
         },
         {
             "title": "Planning for robust reserve networks using uncertainty analysis",
@@ -4593,7 +4536,7 @@
                     ]
                 }
             ],
-            "citations": 89,
+            "citations": 90,
             "publication_name": "Ecological Modelling",
             "issn": "03043800",
             "cover_date": "2006-11-01",
@@ -4602,6 +4545,63 @@
             "issue": "1",
             "page_range": "115-124",
             "doi": "10.1016/j.ecolmodel.2006.07.004"
+        },
+        {
+            "title": "Use of generalised dissimilarity modelling to improve the biological discrimination of river and stream classifications",
+            "eid": "2-s2.0-77956259831",
+            "authors": [
+                {
+                    "scopus_id": "6701736764",
+                    "name": "Leathwick J.",
+                    "affiliation_id": [
+                        "60023958"
+                    ]
+                },
+                {
+                    "scopus_id": "56054077300",
+                    "name": "Snelder T.",
+                    "affiliation_id": [
+                        "60024594"
+                    ]
+                },
+                {
+                    "scopus_id": "6602894540",
+                    "name": "Chadderton W.",
+                    "affiliation_id": [
+                        "60017383"
+                    ]
+                },
+                {
+                    "scopus_id": "8046847200",
+                    "name": "Elith J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "35223404600",
+                    "name": "Julian K.",
+                    "affiliation_id": [
+                        "60024594"
+                    ]
+                },
+                {
+                    "scopus_id": "7004032132",
+                    "name": "Ferrier S.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                }
+            ],
+            "citations": 89,
+            "publication_name": "Freshwater Biology",
+            "issn": "00465070",
+            "cover_date": "2011-01-01",
+            "venue": "Journal",
+            "volume": "56",
+            "issue": "1",
+            "page_range": "21-38",
+            "doi": "10.1111/j.1365-2427.2010.02414.x"
         },
         {
             "title": "Projecting climate change impacts on species distributions in megadiverse South African Cape and Southwest Australian Floristic Regions: Opportunities and challenges",
@@ -4700,7 +4700,7 @@
                     ]
                 }
             ],
-            "citations": 81,
+            "citations": 82,
             "publication_name": "Ecography",
             "issn": "09067590",
             "cover_date": "2021-12-01",
@@ -4744,7 +4744,7 @@
                     ]
                 }
             ],
-            "citations": 80,
+            "citations": 81,
             "publication_name": "Global Ecology and Biogeography",
             "issn": "1466822X",
             "cover_date": "2017-03-01",
@@ -4882,7 +4882,7 @@
                     ]
                 }
             ],
-            "citations": 79,
+            "citations": 80,
             "publication_name": "Conservation Biology",
             "issn": "08888892",
             "cover_date": "2014-01-01",
@@ -5310,7 +5310,7 @@
                     ]
                 }
             ],
-            "citations": 34,
+            "citations": 35,
             "publication_name": "Conservation Biology",
             "issn": "08888892",
             "cover_date": "2021-08-01",
@@ -6026,7 +6026,7 @@
                     ]
                 }
             ],
-            "citations": 18,
+            "citations": 19,
             "publication_name": "Diversity and Distributions",
             "issn": "13669516",
             "cover_date": "2019-01-01",
@@ -6671,6 +6671,5 @@
             "$": "Medicine (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:48:36",
-    "c-score": null
+    "date fetched": "2024-07-12 19:10:17"
 }

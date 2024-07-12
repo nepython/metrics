@@ -144,7 +144,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 3493,
+            "citations": 3503,
             "publication_name": "The BMJ",
             "issn": "09598146",
             "cover_date": "2004-06-19",
@@ -249,7 +249,7 @@
                     ]
                 }
             ],
-            "citations": 941,
+            "citations": 944,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2011-01-01",
@@ -1419,7 +1419,7 @@
                     ]
                 }
             ],
-            "citations": 374,
+            "citations": 376,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2011-01-01",
@@ -1545,7 +1545,7 @@
                     ]
                 }
             ],
-            "citations": 323,
+            "citations": 326,
             "publication_name": "Cochrane Database of Systematic Reviews",
             "issn": "",
             "cover_date": "2018-11-15",
@@ -1765,7 +1765,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 241,
+            "citations": 243,
             "publication_name": "Cochrane Database of Systematic Reviews",
             "issn": "1469493X",
             "cover_date": "2007-01-01",
@@ -1831,7 +1831,7 @@
                     ]
                 }
             ],
-            "citations": 241,
+            "citations": 242,
             "publication_name": "Annals of Surgery",
             "issn": "00034932",
             "cover_date": "2005-03-01",
@@ -2083,7 +2083,7 @@
                     ]
                 }
             ],
-            "citations": 174,
+            "citations": 175,
             "publication_name": "Cochrane Database of Systematic Reviews",
             "issn": "",
             "cover_date": "2017-11-13",
@@ -2336,7 +2336,7 @@
                     ]
                 }
             ],
-            "citations": 154,
+            "citations": 155,
             "publication_name": "Journal of Chinese Integrative Medicine",
             "issn": "16721977",
             "cover_date": "2010-07-01",
@@ -2746,7 +2746,7 @@
                     ]
                 }
             ],
-            "citations": 128,
+            "citations": 129,
             "publication_name": "Cochrane Database of Systematic Reviews",
             "issn": "14651858",
             "cover_date": "2018-05-09",
@@ -2815,7 +2815,7 @@
                     ]
                 }
             ],
-            "citations": 125,
+            "citations": 126,
             "publication_name": "Cochrane Database of Systematic Reviews",
             "issn": "1469493X",
             "cover_date": "2008-01-01",
@@ -2858,7 +2858,7 @@
                     ]
                 }
             ],
-            "citations": 123,
+            "citations": 124,
             "publication_name": "Cochrane Database of Systematic Reviews",
             "issn": "14651858",
             "cover_date": "2004-04-19",
@@ -2895,7 +2895,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 122,
+            "citations": 123,
             "publication_name": "Obstetrics and Gynecology",
             "issn": "00297844",
             "cover_date": "2009-06-01",
@@ -3259,7 +3259,7 @@
                     ]
                 }
             ],
-            "citations": 103,
+            "citations": 104,
             "publication_name": "Cochrane Database of Systematic Reviews",
             "issn": "",
             "cover_date": "2017-01-04",
@@ -3367,7 +3367,7 @@
                     ]
                 }
             ],
-            "citations": 102,
+            "citations": 103,
             "publication_name": "BMC Medical Research Methodology",
             "issn": "",
             "cover_date": "2011-03-02",
@@ -3412,7 +3412,7 @@
                     ]
                 }
             ],
-            "citations": 99,
+            "citations": 101,
             "publication_name": "Cochrane Database of Systematic Reviews",
             "issn": "",
             "cover_date": "2015-07-05",
@@ -3557,7 +3557,7 @@
                     ]
                 }
             ],
-            "citations": 92,
+            "citations": 93,
             "publication_name": "BMC Pregnancy and Childbirth",
             "issn": "",
             "cover_date": "2020-01-10",
@@ -3979,6 +3979,70 @@
             "doi": "10.1002/14651858.CD006447.pub3"
         },
         {
+            "title": "Interventions to prevent women from developing gestational diabetes mellitus: an overview of Cochrane Reviews",
+            "eid": "2-s2.0-85086354956",
+            "authors": [
+                {
+                    "scopus_id": "57205634425",
+                    "name": "Griffith R.J.",
+                    "affiliation_id": [
+                        "60005686"
+                    ]
+                },
+                {
+                    "scopus_id": "18433620500",
+                    "name": "Alsweiler J.",
+                    "affiliation_id": [
+                        "60005686"
+                    ]
+                },
+                {
+                    "scopus_id": "57217126731",
+                    "name": "Moore A.E.",
+                    "affiliation_id": [
+                        "60112784"
+                    ]
+                },
+                {
+                    "scopus_id": "55712937000",
+                    "name": "Brown S.",
+                    "affiliation_id": [
+                        "60023760"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.",
+                    "affiliation_id": [
+                        "60108899"
+                    ]
+                },
+                {
+                    "scopus_id": "55224095700",
+                    "name": "Shepherd E.",
+                    "affiliation_id": [
+                        "60189793"
+                    ]
+                },
+                {
+                    "scopus_id": "57205314548",
+                    "name": "Crowther C.A.",
+                    "affiliation_id": [
+                        "60112784"
+                    ]
+                }
+            ],
+            "citations": 81,
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "",
+            "cover_date": "2020-06-11",
+            "venue": "Journal",
+            "volume": "2020",
+            "issue": "6",
+            "page_range": null,
+            "doi": "10.1002/14651858.CD012394.pub3"
+        },
+        {
             "title": "Techniques for preventing hypotension during spinal anaesthesia for caesarean section",
             "eid": "2-s2.0-85035079986",
             "authors": [
@@ -4051,70 +4115,6 @@
             "doi": "10.1002/14651858.CD002251.pub3"
         },
         {
-            "title": "Interventions to prevent women from developing gestational diabetes mellitus: an overview of Cochrane Reviews",
-            "eid": "2-s2.0-85086354956",
-            "authors": [
-                {
-                    "scopus_id": "57205634425",
-                    "name": "Griffith R.J.",
-                    "affiliation_id": [
-                        "60005686"
-                    ]
-                },
-                {
-                    "scopus_id": "18433620500",
-                    "name": "Alsweiler J.",
-                    "affiliation_id": [
-                        "60005686"
-                    ]
-                },
-                {
-                    "scopus_id": "57217126731",
-                    "name": "Moore A.E.",
-                    "affiliation_id": [
-                        "60112784"
-                    ]
-                },
-                {
-                    "scopus_id": "55712937000",
-                    "name": "Brown S.",
-                    "affiliation_id": [
-                        "60023760"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.",
-                    "affiliation_id": [
-                        "60108899"
-                    ]
-                },
-                {
-                    "scopus_id": "55224095700",
-                    "name": "Shepherd E.",
-                    "affiliation_id": [
-                        "60189793"
-                    ]
-                },
-                {
-                    "scopus_id": "57205314548",
-                    "name": "Crowther C.A.",
-                    "affiliation_id": [
-                        "60112784"
-                    ]
-                }
-            ],
-            "citations": 80,
-            "publication_name": "Cochrane Database of Systematic Reviews",
-            "issn": "",
-            "cover_date": "2020-06-11",
-            "venue": "Journal",
-            "volume": "2020",
-            "issue": "6",
-            "page_range": null,
-            "doi": "10.1002/14651858.CD012394.pub3"
-        },
-        {
             "title": "Interventions for bullous pemphigoid.",
             "eid": "2-s2.0-84855470529",
             "authors": [
@@ -4162,6 +4162,51 @@
             "doi": ""
         },
         {
+            "title": "Interventions to Improve Neonatal Health and Later Survival: An Overview of Systematic Reviews",
+            "eid": "2-s2.0-84951574098",
+            "authors": [
+                {
+                    "scopus_id": "35769584500",
+                    "name": "Lassi Z.S.",
+                    "affiliation_id": [
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.F.",
+                    "affiliation_id": [
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "57205314548",
+                    "name": "Crowther C.",
+                    "affiliation_id": [
+                        "60189792",
+                        "60112784"
+                    ]
+                },
+                {
+                    "scopus_id": "24342648300",
+                    "name": "Bhutta Z.A.",
+                    "affiliation_id": [
+                        "60030319",
+                        "60052016"
+                    ]
+                }
+            ],
+            "citations": 79,
+            "publication_name": "EBioMedicine",
+            "issn": "",
+            "cover_date": "2015-08-01",
+            "venue": "Journal",
+            "volume": "2",
+            "issue": "8",
+            "page_range": "985-1000",
+            "doi": "10.1016/j.ebiom.2015.05.023"
+        },
+        {
             "title": "Repeat doses of prenatal corticosteroids for women at risk of preterm birth for improving neonatal health outcomes.",
             "eid": "2-s2.0-80052040094",
             "authors": [
@@ -4197,131 +4242,6 @@
             "issue": "6",
             "page_range": null,
             "doi": ""
-        },
-        {
-            "title": "Interventions to Improve Neonatal Health and Later Survival: An Overview of Systematic Reviews",
-            "eid": "2-s2.0-84951574098",
-            "authors": [
-                {
-                    "scopus_id": "35769584500",
-                    "name": "Lassi Z.S.",
-                    "affiliation_id": [
-                        "60189792"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.F.",
-                    "affiliation_id": [
-                        "60189792"
-                    ]
-                },
-                {
-                    "scopus_id": "57205314548",
-                    "name": "Crowther C.",
-                    "affiliation_id": [
-                        "60189792",
-                        "60112784"
-                    ]
-                },
-                {
-                    "scopus_id": "24342648300",
-                    "name": "Bhutta Z.A.",
-                    "affiliation_id": [
-                        "60030319",
-                        "60052016"
-                    ]
-                }
-            ],
-            "citations": 78,
-            "publication_name": "EBioMedicine",
-            "issn": "",
-            "cover_date": "2015-08-01",
-            "venue": "Journal",
-            "volume": "2",
-            "issue": "8",
-            "page_range": "985-1000",
-            "doi": "10.1016/j.ebiom.2015.05.023"
-        },
-        {
-            "title": "Dietary advice interventions in pregnancy for preventing gestational diabetes mellitus",
-            "eid": "2-s2.0-85008214477",
-            "authors": [
-                {
-                    "scopus_id": "24345117600",
-                    "name": "Tieu J.",
-                    "affiliation_id": [
-                        "60189792"
-                    ]
-                },
-                {
-                    "scopus_id": "55224095700",
-                    "name": "Shepherd E.",
-                    "affiliation_id": [
-                        "60189792"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.",
-                    "affiliation_id": [
-                        "60015153"
-                    ]
-                },
-                {
-                    "scopus_id": "57205314548",
-                    "name": "Crowther C.A.",
-                    "affiliation_id": [
-                        "60112784"
-                    ]
-                }
-            ],
-            "citations": 76,
-            "publication_name": "Cochrane Database of Systematic Reviews",
-            "issn": "14651858",
-            "cover_date": "2017-01-03",
-            "venue": "Journal",
-            "volume": "2017",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1002/14651858.CD006674.pub3"
-        },
-        {
-            "title": "Different corticosteroids and regimens for accelerating fetal lung maturation for women at risk of preterm birth",
-            "eid": "2-s2.0-55049122531",
-            "authors": [
-                {
-                    "scopus_id": "24342895400",
-                    "name": "Brownfoot F.C.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "57205314548",
-                    "name": "Crowther C.A.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                }
-            ],
-            "citations": 76,
-            "publication_name": "Cochrane Database of Systematic Reviews",
-            "issn": "1469493X",
-            "cover_date": "2008-01-01",
-            "venue": "Journal",
-            "volume": "",
-            "issue": "4",
-            "page_range": null,
-            "doi": "10.1002/14651858.CD006764.pub2"
         },
         {
             "title": "A core outcome set for pre-eclampsia research: an international consensus development study",
@@ -4995,7 +4915,7 @@
                     ]
                 }
             ],
-            "citations": 75,
+            "citations": 76,
             "publication_name": "BJOG: An International Journal of Obstetrics and Gynaecology",
             "issn": "14700328",
             "cover_date": "2020-11-01",
@@ -5004,6 +4924,86 @@
             "issue": "12",
             "page_range": "1516-1526",
             "doi": "10.1111/1471-0528.16319"
+        },
+        {
+            "title": "Dietary advice interventions in pregnancy for preventing gestational diabetes mellitus",
+            "eid": "2-s2.0-85008214477",
+            "authors": [
+                {
+                    "scopus_id": "24345117600",
+                    "name": "Tieu J.",
+                    "affiliation_id": [
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "55224095700",
+                    "name": "Shepherd E.",
+                    "affiliation_id": [
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.",
+                    "affiliation_id": [
+                        "60015153"
+                    ]
+                },
+                {
+                    "scopus_id": "57205314548",
+                    "name": "Crowther C.A.",
+                    "affiliation_id": [
+                        "60112784"
+                    ]
+                }
+            ],
+            "citations": 76,
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "14651858",
+            "cover_date": "2017-01-03",
+            "venue": "Journal",
+            "volume": "2017",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1002/14651858.CD006674.pub3"
+        },
+        {
+            "title": "Different corticosteroids and regimens for accelerating fetal lung maturation for women at risk of preterm birth",
+            "eid": "2-s2.0-55049122531",
+            "authors": [
+                {
+                    "scopus_id": "24342895400",
+                    "name": "Brownfoot F.C.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "57205314548",
+                    "name": "Crowther C.A.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 76,
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "1469493X",
+            "cover_date": "2008-01-01",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "4",
+            "page_range": null,
+            "doi": "10.1002/14651858.CD006764.pub2"
         },
         {
             "title": "Antenatal and intrapartum interventions for preventing cerebral palsy: An overview of Cochrane systematic reviews",
@@ -5130,53 +5130,6 @@
             "doi": "10.1186/1471-2393-8-36"
         },
         {
-            "title": "Zinc supplementation for improving pregnancy and infant outcome.",
-            "eid": "2-s2.0-84866457935",
-            "authors": [
-                {
-                    "scopus_id": "57072757600",
-                    "name": "Mori R.",
-                    "affiliation_id": [
-                        "60104703"
-                    ]
-                },
-                {
-                    "scopus_id": "57202554474",
-                    "name": "Ota E.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57209276611",
-                    "name": "Tobe-Gai R.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57216957737",
-                    "name": "Mahomed K.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "24342648300",
-                    "name": "Bhutta Z.A.",
-                    "affiliation_id": []
-                }
-            ],
-            "citations": 71,
-            "publication_name": "Cochrane database of systematic reviews (Online)",
-            "issn": "",
-            "cover_date": "2012-01-01",
-            "venue": "Journal",
-            "volume": "7",
-            "issue": "",
-            "page_range": null,
-            "doi": ""
-        },
-        {
             "title": "Diet and exercise interventions for preventing gestational diabetes mellitus",
             "eid": "2-s2.0-84930436309",
             "authors": [
@@ -5224,7 +5177,7 @@
                     ]
                 }
             ],
-            "citations": 70,
+            "citations": 71,
             "publication_name": "Cochrane Database of Systematic Reviews",
             "issn": "14651858",
             "cover_date": "2015-04-12",
@@ -5233,6 +5186,53 @@
             "issue": "4",
             "page_range": null,
             "doi": "10.1002/14651858.CD010443.pub2"
+        },
+        {
+            "title": "Zinc supplementation for improving pregnancy and infant outcome.",
+            "eid": "2-s2.0-84866457935",
+            "authors": [
+                {
+                    "scopus_id": "57072757600",
+                    "name": "Mori R.",
+                    "affiliation_id": [
+                        "60104703"
+                    ]
+                },
+                {
+                    "scopus_id": "57202554474",
+                    "name": "Ota E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57209276611",
+                    "name": "Tobe-Gai R.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57216957737",
+                    "name": "Mahomed K.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "24342648300",
+                    "name": "Bhutta Z.A.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 71,
+            "publication_name": "Cochrane database of systematic reviews (Online)",
+            "issn": "",
+            "cover_date": "2012-01-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "",
+            "page_range": null,
+            "doi": ""
         },
         {
             "title": "Repeat antenatal glucocorticoids for women at risk of preterm birth: A Cochrane Systematic Review",
@@ -5557,6 +5557,57 @@
             "doi": "10.1002/ebch.1971"
         },
         {
+            "title": "Pharmacological interventions for treating intrahepatic cholestasis of pregnancy",
+            "eid": "2-s2.0-85088623558",
+            "authors": [
+                {
+                    "scopus_id": "16054027300",
+                    "name": "Walker K.F.",
+                    "affiliation_id": [
+                        "60099153"
+                    ]
+                },
+                {
+                    "scopus_id": "56240206400",
+                    "name": "Chappell L.C.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7006816018",
+                    "name": "Hague W.M.",
+                    "affiliation_id": [
+                        "60015153",
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.",
+                    "affiliation_id": [
+                        "60108899"
+                    ]
+                },
+                {
+                    "scopus_id": "7402781426",
+                    "name": "Thornton J.G.",
+                    "affiliation_id": [
+                        "60099153"
+                    ]
+                }
+            ],
+            "citations": 60,
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "14651858",
+            "cover_date": "2020-07-27",
+            "venue": "Journal",
+            "volume": "2020",
+            "issue": "7",
+            "page_range": null,
+            "doi": "10.1002/14651858.CD000493.pub3"
+        },
+        {
             "title": "Clonidine premedication for postoperative analgesia in children",
             "eid": "2-s2.0-84903766170",
             "authors": [
@@ -5598,57 +5649,6 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1002/14651858.CD009633.pub2"
-        },
-        {
-            "title": "Pharmacological interventions for treating intrahepatic cholestasis of pregnancy",
-            "eid": "2-s2.0-85088623558",
-            "authors": [
-                {
-                    "scopus_id": "16054027300",
-                    "name": "Walker K.F.",
-                    "affiliation_id": [
-                        "60099153"
-                    ]
-                },
-                {
-                    "scopus_id": "56240206400",
-                    "name": "Chappell L.C.",
-                    "affiliation_id": [
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "7006816018",
-                    "name": "Hague W.M.",
-                    "affiliation_id": [
-                        "60015153",
-                        "60189792"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.",
-                    "affiliation_id": [
-                        "60108899"
-                    ]
-                },
-                {
-                    "scopus_id": "7402781426",
-                    "name": "Thornton J.G.",
-                    "affiliation_id": [
-                        "60099153"
-                    ]
-                }
-            ],
-            "citations": 59,
-            "publication_name": "Cochrane Database of Systematic Reviews",
-            "issn": "14651858",
-            "cover_date": "2020-07-27",
-            "venue": "Journal",
-            "volume": "2020",
-            "issue": "7",
-            "page_range": null,
-            "doi": "10.1002/14651858.CD000493.pub3"
         },
         {
             "title": "Techniques for preventing hypotension during spinal anaesthesia for caesarean section",
@@ -5721,6 +5721,50 @@
             "issue": "7",
             "page_range": null,
             "doi": "10.1002/14651858.CD002251.pub4"
+        },
+        {
+            "title": "Antenatal magnesium sulphate neuroprotection in the preterm infant",
+            "eid": "2-s2.0-34249896158",
+            "authors": [
+                {
+                    "scopus_id": "7004536195",
+                    "name": "Marret S.",
+                    "affiliation_id": [
+                        "60004603"
+                    ]
+                },
+                {
+                    "scopus_id": "8157635100",
+                    "name": "Doyle L.W.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60009102"
+                    ]
+                },
+                {
+                    "scopus_id": "57205314548",
+                    "name": "Crowther C.A.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 59,
+            "publication_name": "Seminars in Fetal and Neonatal Medicine",
+            "issn": "1744165X",
+            "cover_date": "2007-08-01",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "4",
+            "page_range": "311-317",
+            "doi": "10.1016/j.siny.2007.04.001"
         },
         {
             "title": "Oral betamimetics for maintenance therapy after threatened preterm labour.",
@@ -5902,50 +5946,6 @@
             "issue": "4",
             "page_range": null,
             "doi": "10.1002/14651858.CD003005.pub2"
-        },
-        {
-            "title": "Antenatal magnesium sulphate neuroprotection in the preterm infant",
-            "eid": "2-s2.0-34249896158",
-            "authors": [
-                {
-                    "scopus_id": "7004536195",
-                    "name": "Marret S.",
-                    "affiliation_id": [
-                        "60004603"
-                    ]
-                },
-                {
-                    "scopus_id": "8157635100",
-                    "name": "Doyle L.W.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60009102"
-                    ]
-                },
-                {
-                    "scopus_id": "57205314548",
-                    "name": "Crowther C.A.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                }
-            ],
-            "citations": 58,
-            "publication_name": "Seminars in Fetal and Neonatal Medicine",
-            "issn": "1744165X",
-            "cover_date": "2007-08-01",
-            "venue": "Journal",
-            "volume": "12",
-            "issue": "4",
-            "page_range": "311-317",
-            "doi": "10.1016/j.siny.2007.04.001"
         },
         {
             "title": "The effect of mobile app interventions on influencing healthy maternal behavior and improving perinatal health outcomes: Systematic review",
@@ -6410,7 +6410,7 @@
                     "scopus_id": "22950781500",
                     "name": "Gurung V.",
                     "affiliation_id": [
-                        "60015138"
+                        "60099153"
                     ]
                 },
                 {
@@ -6445,7 +6445,7 @@
                     "scopus_id": "7402781426",
                     "name": "Thornton J.G.",
                     "affiliation_id": [
-                        "60015138"
+                        "60099153"
                     ]
                 }
             ],
@@ -7224,7 +7224,7 @@
                     ]
                 }
             ],
-            "citations": 50,
+            "citations": 51,
             "publication_name": "Diabetes Research and Clinical Practice",
             "issn": "01688227",
             "cover_date": "2015-06-09",
@@ -7403,6 +7403,74 @@
             "doi": ""
         },
         {
+            "title": "Antenatal magnesium sulphate and adverse neonatal outcomes: A systematic review and meta-analysis",
+            "eid": "2-s2.0-85076287140",
+            "authors": [
+                {
+                    "scopus_id": "55224095700",
+                    "name": "Shepherd E.",
+                    "affiliation_id": [
+                        "60189793",
+                        "60108899"
+                    ]
+                },
+                {
+                    "scopus_id": "55701604900",
+                    "name": "Salam R.A.",
+                    "affiliation_id": [
+                        "60189793",
+                        "60108899"
+                    ]
+                },
+                {
+                    "scopus_id": "56277810900",
+                    "name": "Manhas D.",
+                    "affiliation_id": [
+                        "60010365"
+                    ]
+                },
+                {
+                    "scopus_id": "6602254572",
+                    "name": "Synnes A.",
+                    "affiliation_id": [
+                        "60010365"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.",
+                    "affiliation_id": [
+                        "60189793",
+                        "60108899"
+                    ]
+                },
+                {
+                    "scopus_id": "7004714378",
+                    "name": "Makrides M.",
+                    "affiliation_id": [
+                        "60108899"
+                    ]
+                },
+                {
+                    "scopus_id": "57205314548",
+                    "name": "Crowther C.A.",
+                    "affiliation_id": [
+                        "60189793",
+                        "60112784"
+                    ]
+                }
+            ],
+            "citations": 48,
+            "publication_name": "PLoS Medicine",
+            "issn": "15491277",
+            "cover_date": "2019-01-01",
+            "venue": "Journal",
+            "volume": "16",
+            "issue": "12",
+            "page_range": null,
+            "doi": "10.1371/journal.pmed.1002988"
+        },
+        {
             "title": "Clinical practice guidelines for perinatal bereavement care \u2014 An overview",
             "eid": "2-s2.0-85062885072",
             "authors": [
@@ -7527,74 +7595,6 @@
             "issue": "9",
             "page_range": null,
             "doi": "10.1002/14651858.CD011263.pub2"
-        },
-        {
-            "title": "Antenatal magnesium sulphate and adverse neonatal outcomes: A systematic review and meta-analysis",
-            "eid": "2-s2.0-85076287140",
-            "authors": [
-                {
-                    "scopus_id": "55224095700",
-                    "name": "Shepherd E.",
-                    "affiliation_id": [
-                        "60189793",
-                        "60108899"
-                    ]
-                },
-                {
-                    "scopus_id": "55701604900",
-                    "name": "Salam R.A.",
-                    "affiliation_id": [
-                        "60189793",
-                        "60108899"
-                    ]
-                },
-                {
-                    "scopus_id": "56277810900",
-                    "name": "Manhas D.",
-                    "affiliation_id": [
-                        "60010365"
-                    ]
-                },
-                {
-                    "scopus_id": "6602254572",
-                    "name": "Synnes A.",
-                    "affiliation_id": [
-                        "60010365"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.",
-                    "affiliation_id": [
-                        "60189793",
-                        "60108899"
-                    ]
-                },
-                {
-                    "scopus_id": "7004714378",
-                    "name": "Makrides M.",
-                    "affiliation_id": [
-                        "60108899"
-                    ]
-                },
-                {
-                    "scopus_id": "57205314548",
-                    "name": "Crowther C.A.",
-                    "affiliation_id": [
-                        "60189793",
-                        "60112784"
-                    ]
-                }
-            ],
-            "citations": 47,
-            "publication_name": "PLoS Medicine",
-            "issn": "15491277",
-            "cover_date": "2019-01-01",
-            "venue": "Journal",
-            "volume": "16",
-            "issue": "12",
-            "page_range": null,
-            "doi": "10.1371/journal.pmed.1002988"
         },
         {
             "title": "Oral betamimetics for maintenance therapy after threatened preterm labour",
@@ -7837,7 +7837,7 @@
                     ]
                 }
             ],
-            "citations": 44,
+            "citations": 45,
             "publication_name": "Cochrane Database of Systematic Reviews",
             "issn": "14651858",
             "cover_date": "2017-10-29",
@@ -8245,64 +8245,6 @@
             "doi": ""
         },
         {
-            "title": "Interventions for bullous pemphigoid",
-            "eid": "2-s2.0-84983084336",
-            "authors": [
-                {
-                    "scopus_id": "7004209019",
-                    "name": "Kirtschig G.",
-                    "affiliation_id": [
-                        "60017246",
-                        "60025016"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "25645563400",
-                    "name": "Bennett C.",
-                    "affiliation_id": [
-                        "60017326"
-                    ]
-                },
-                {
-                    "scopus_id": "7005224296",
-                    "name": "Murrell D.F.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7101810094",
-                    "name": "Wojnarowska F.",
-                    "affiliation_id": [
-                        "60008936"
-                    ]
-                },
-                {
-                    "scopus_id": "6602184101",
-                    "name": "Khumalo N.P.",
-                    "affiliation_id": [
-                        "60003757"
-                    ]
-                }
-            ],
-            "citations": 40,
-            "publication_name": "Cochrane Database of Systematic Reviews",
-            "issn": "",
-            "cover_date": "2010-10-06",
-            "venue": "Journal",
-            "volume": "2010",
-            "issue": "10",
-            "page_range": null,
-            "doi": "10.1002/14651858.CD002292.pub3"
-        },
-        {
             "title": "Antenatal interventions for preventing stillbirth, fetal loss and perinatal death: an overview of Cochrane systematic reviews",
             "eid": "2-s2.0-85098675833",
             "authors": [
@@ -8363,7 +8305,7 @@
                     ]
                 }
             ],
-            "citations": 39,
+            "citations": 40,
             "publication_name": "Cochrane Database of Systematic Reviews",
             "issn": "14651858",
             "cover_date": "2020-12-18",
@@ -8372,6 +8314,64 @@
             "issue": "12",
             "page_range": null,
             "doi": "10.1002/14651858.CD009599.pub2"
+        },
+        {
+            "title": "Interventions for bullous pemphigoid",
+            "eid": "2-s2.0-84983084336",
+            "authors": [
+                {
+                    "scopus_id": "7004209019",
+                    "name": "Kirtschig G.",
+                    "affiliation_id": [
+                        "60017246",
+                        "60025016"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "25645563400",
+                    "name": "Bennett C.",
+                    "affiliation_id": [
+                        "60017326"
+                    ]
+                },
+                {
+                    "scopus_id": "7005224296",
+                    "name": "Murrell D.F.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7101810094",
+                    "name": "Wojnarowska F.",
+                    "affiliation_id": [
+                        "60008936"
+                    ]
+                },
+                {
+                    "scopus_id": "6602184101",
+                    "name": "Khumalo N.P.",
+                    "affiliation_id": [
+                        "60003757"
+                    ]
+                }
+            ],
+            "citations": 40,
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "",
+            "cover_date": "2010-10-06",
+            "venue": "Journal",
+            "volume": "2010",
+            "issue": "10",
+            "page_range": null,
+            "doi": "10.1002/14651858.CD002292.pub3"
         },
         {
             "title": "Technical editing of research reports in biomedical journals",
@@ -8767,7 +8767,7 @@
                     "affiliation_id": []
                 },
                 {
-                    "scopus_id": "58717896800",
+                    "scopus_id": "7401816826",
                     "name": "Mukherjee S.",
                     "affiliation_id": []
                 },
@@ -9102,6 +9102,117 @@
             "doi": "10.1111/dme.12769"
         },
         {
+            "title": "Planned early birth versus expectant management for women with preterm prelabour rupture of membranes prior to 37 weeks' gestation for improving pregnancy outcome",
+            "eid": "2-s2.0-85014354992",
+            "authors": [
+                {
+                    "scopus_id": "54927194500",
+                    "name": "Bond D.M.",
+                    "affiliation_id": [
+                        "60011192"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.",
+                    "affiliation_id": [
+                        "60015153"
+                    ]
+                },
+                {
+                    "scopus_id": "36786594500",
+                    "name": "Levett K.M.",
+                    "affiliation_id": [
+                        "60031487",
+                        "60017803"
+                    ]
+                },
+                {
+                    "scopus_id": "18438723800",
+                    "name": "van der Ham D.P.",
+                    "affiliation_id": [
+                        "60032708"
+                    ]
+                },
+                {
+                    "scopus_id": "57205314548",
+                    "name": "Crowther C.A.",
+                    "affiliation_id": [
+                        "60112784",
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "7006962648",
+                    "name": "Buchanan S.L.",
+                    "affiliation_id": [
+                        "60006974"
+                    ]
+                },
+                {
+                    "scopus_id": "55260120600",
+                    "name": "Morris J.",
+                    "affiliation_id": [
+                        "60121699",
+                        "60011192"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "",
+            "cover_date": "2017-03-03",
+            "venue": "Journal",
+            "volume": "2017",
+            "issue": "3",
+            "page_range": null,
+            "doi": "10.1002/14651858.CD004735.pub4"
+        },
+        {
+            "title": "Clinician views and knowledge regarding healthcare provision in the postpartum period for women with recent gestational diabetes: A systematic review of qualitative/survey studies",
+            "eid": "2-s2.0-84920643052",
+            "authors": [
+                {
+                    "scopus_id": "56472747700",
+                    "name": "Van Ryswyk E.",
+                    "affiliation_id": [
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.",
+                    "affiliation_id": [
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "7006816018",
+                    "name": "Hague W.",
+                    "affiliation_id": [
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "57205314548",
+                    "name": "Crowther C.",
+                    "affiliation_id": [
+                        "60189792",
+                        "60112784"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Diabetes Research and Clinical Practice",
+            "issn": "01688227",
+            "cover_date": "2014-12-01",
+            "venue": "Journal",
+            "volume": "106",
+            "issue": "3",
+            "page_range": "401-411",
+            "doi": "10.1016/j.diabres.2014.09.001"
+        },
+        {
             "title": "Reminder systems for women with previous gestational diabetes mellitus to increase uptake of testing for type 2 diabetes or impaired glucose tolerance",
             "eid": "2-s2.0-84907396068",
             "authors": [
@@ -9181,117 +9292,6 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1186/1471-2393-13-91"
-        },
-        {
-            "title": "Planned early birth versus expectant management for women with preterm prelabour rupture of membranes prior to 37 weeks' gestation for improving pregnancy outcome",
-            "eid": "2-s2.0-85014354992",
-            "authors": [
-                {
-                    "scopus_id": "54927194500",
-                    "name": "Bond D.M.",
-                    "affiliation_id": [
-                        "60011192"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.",
-                    "affiliation_id": [
-                        "60015153"
-                    ]
-                },
-                {
-                    "scopus_id": "36786594500",
-                    "name": "Levett K.M.",
-                    "affiliation_id": [
-                        "60031487",
-                        "60017803"
-                    ]
-                },
-                {
-                    "scopus_id": "18438723800",
-                    "name": "van der Ham D.P.",
-                    "affiliation_id": [
-                        "60032708"
-                    ]
-                },
-                {
-                    "scopus_id": "57205314548",
-                    "name": "Crowther C.A.",
-                    "affiliation_id": [
-                        "60112784",
-                        "60189792"
-                    ]
-                },
-                {
-                    "scopus_id": "7006962648",
-                    "name": "Buchanan S.L.",
-                    "affiliation_id": [
-                        "60006974"
-                    ]
-                },
-                {
-                    "scopus_id": "55260120600",
-                    "name": "Morris J.",
-                    "affiliation_id": [
-                        "60121699",
-                        "60011192"
-                    ]
-                }
-            ],
-            "citations": 35,
-            "publication_name": "Cochrane Database of Systematic Reviews",
-            "issn": "",
-            "cover_date": "2017-03-03",
-            "venue": "Journal",
-            "volume": "2017",
-            "issue": "3",
-            "page_range": null,
-            "doi": "10.1002/14651858.CD004735.pub4"
-        },
-        {
-            "title": "Clinician views and knowledge regarding healthcare provision in the postpartum period for women with recent gestational diabetes: A systematic review of qualitative/survey studies",
-            "eid": "2-s2.0-84920643052",
-            "authors": [
-                {
-                    "scopus_id": "56472747700",
-                    "name": "Van Ryswyk E.",
-                    "affiliation_id": [
-                        "60189792"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.",
-                    "affiliation_id": [
-                        "60189792"
-                    ]
-                },
-                {
-                    "scopus_id": "7006816018",
-                    "name": "Hague W.",
-                    "affiliation_id": [
-                        "60189792"
-                    ]
-                },
-                {
-                    "scopus_id": "57205314548",
-                    "name": "Crowther C.",
-                    "affiliation_id": [
-                        "60189792",
-                        "60112784"
-                    ]
-                }
-            ],
-            "citations": 35,
-            "publication_name": "Diabetes Research and Clinical Practice",
-            "issn": "01688227",
-            "cover_date": "2014-12-01",
-            "venue": "Journal",
-            "volume": "106",
-            "issue": "3",
-            "page_range": "401-411",
-            "doi": "10.1016/j.diabres.2014.09.001"
         },
         {
             "title": "Screening and subsequent management for gestational diabetes for improving maternal and infant health",
@@ -9496,6 +9496,38 @@
             "doi": "10.1186/s12884-020-03514-6"
         },
         {
+            "title": "Intrapartum interventions for preventing shoulder dystocia",
+            "eid": "2-s2.0-34548865012",
+            "authors": [
+                {
+                    "scopus_id": "15831365700",
+                    "name": "Athukorala C.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57205314548",
+                    "name": "Crowther C.A.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 33,
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "1469493X",
+            "cover_date": "2006-01-01",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "4",
+            "page_range": null,
+            "doi": "10.1002/14651858.CD005543.pub2"
+        },
+        {
             "title": "Women's views on postpartum testing for type 2 diabetes after gestational diabetes: Six month follow-up to the DIAMIND randomised controlled trial",
             "eid": "2-s2.0-84959250555",
             "authors": [
@@ -9631,38 +9663,6 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1186/1471-2393-13-104"
-        },
-        {
-            "title": "Intrapartum interventions for preventing shoulder dystocia",
-            "eid": "2-s2.0-34548865012",
-            "authors": [
-                {
-                    "scopus_id": "15831365700",
-                    "name": "Athukorala C.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57205314548",
-                    "name": "Crowther C.A.",
-                    "affiliation_id": []
-                }
-            ],
-            "citations": 32,
-            "publication_name": "Cochrane Database of Systematic Reviews",
-            "issn": "1469493X",
-            "cover_date": "2006-01-01",
-            "venue": "Journal",
-            "volume": "",
-            "issue": "4",
-            "page_range": null,
-            "doi": "10.1002/14651858.CD005543.pub2"
         },
         {
             "title": "Cultural safety and midwifery care for Aboriginal women - A phenomenological study",
@@ -10017,6 +10017,50 @@
             "doi": "10.1093/jn/nxaa059"
         },
         {
+            "title": "Screening for gestational diabetes mellitus for improving maternal and infant health",
+            "eid": "2-s2.0-55049142128",
+            "authors": [
+                {
+                    "scopus_id": "24345117600",
+                    "name": "Tieu J.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "57205314548",
+                    "name": "Crowther C.A.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7004093667",
+                    "name": "McPhee A.J.",
+                    "affiliation_id": [
+                        "60015153"
+                    ]
+                }
+            ],
+            "citations": 26,
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "1469493X",
+            "cover_date": "2008-11-05",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "3",
+            "page_range": null,
+            "doi": "10.1002/14651858.CD007222"
+        },
+        {
             "title": "Gestational age and maternal status of DHA and other polyunsaturated fatty acids in pregnancy: A systematic review",
             "eid": "2-s2.0-85064708796",
             "authors": [
@@ -10059,50 +10103,6 @@
             "issue": "",
             "page_range": "16-31",
             "doi": "10.1016/j.plefa.2019.04.006"
-        },
-        {
-            "title": "Screening for gestational diabetes mellitus for improving maternal and infant health",
-            "eid": "2-s2.0-55049142128",
-            "authors": [
-                {
-                    "scopus_id": "24345117600",
-                    "name": "Tieu J.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "57205314548",
-                    "name": "Crowther C.A.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7004093667",
-                    "name": "McPhee A.J.",
-                    "affiliation_id": [
-                        "60015153"
-                    ]
-                }
-            ],
-            "citations": 25,
-            "publication_name": "Cochrane Database of Systematic Reviews",
-            "issn": "1469493X",
-            "cover_date": "2008-11-05",
-            "venue": "Journal",
-            "volume": "",
-            "issue": "3",
-            "page_range": null,
-            "doi": "10.1002/14651858.CD007222"
         },
         {
             "title": "Number and size of randomized trials reported in general health care journals from 1948 to 1997",
@@ -10257,6 +10257,78 @@
             "issue": "",
             "page_range": null,
             "doi": "10.12688/f1000research.17828.1"
+        },
+        {
+            "title": "Neonatal interventions for preventing cerebral palsy: An overview of Cochrane Systematic Reviews",
+            "eid": "2-s2.0-85048873152",
+            "authors": [
+                {
+                    "scopus_id": "55224095700",
+                    "name": "Shepherd E.",
+                    "affiliation_id": [
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "55701604900",
+                    "name": "Salam R.A.",
+                    "affiliation_id": [
+                        "60067302"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.",
+                    "affiliation_id": [
+                        "60015153"
+                    ]
+                },
+                {
+                    "scopus_id": "55258303900",
+                    "name": "Han S.",
+                    "affiliation_id": [
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "7004714378",
+                    "name": "Makrides M.",
+                    "affiliation_id": [
+                        "60015153"
+                    ]
+                },
+                {
+                    "scopus_id": "28567947100",
+                    "name": "Mcintyre S.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7004487562",
+                    "name": "Badawi N.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60026571"
+                    ]
+                },
+                {
+                    "scopus_id": "57205314548",
+                    "name": "Crowther C.A.",
+                    "affiliation_id": [
+                        "60112784"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "14651858",
+            "cover_date": "2018-06-20",
+            "venue": "Journal",
+            "volume": "2018",
+            "issue": "6",
+            "page_range": null,
+            "doi": "10.1002/14651858.CD012409.pub2"
         },
         {
             "title": "\u2018Partnerships are crucial\u2019: an evaluation of the Aboriginal Family Birthing Program in South Australia",
@@ -10694,76 +10766,47 @@
             "doi": "10.5694/MJA18.00286"
         },
         {
-            "title": "Neonatal interventions for preventing cerebral palsy: An overview of Cochrane Systematic Reviews",
-            "eid": "2-s2.0-85048873152",
+            "title": "Aboriginal and Torres Strait Islander women's experiences accessing standard hospital care for birth in South Australia \u2013 A phenomenological study",
+            "eid": "2-s2.0-84956641144",
             "authors": [
                 {
-                    "scopus_id": "55224095700",
-                    "name": "Shepherd E.",
+                    "scopus_id": "56970132800",
+                    "name": "Brown A.",
                     "affiliation_id": [
-                        "60189792"
+                        "60031846"
                     ]
                 },
                 {
-                    "scopus_id": "55701604900",
-                    "name": "Salam R.A.",
+                    "scopus_id": "15044302400",
+                    "name": "Fereday J.",
                     "affiliation_id": [
-                        "60067302"
+                        "60031846"
                     ]
                 },
                 {
                     "scopus_id": "7101676455",
                     "name": "Middleton P.",
                     "affiliation_id": [
-                        "60015153"
+                        "60009512"
                     ]
                 },
                 {
-                    "scopus_id": "55258303900",
-                    "name": "Han S.",
+                    "scopus_id": "6701312746",
+                    "name": "Pincombe J.",
                     "affiliation_id": [
-                        "60189792"
-                    ]
-                },
-                {
-                    "scopus_id": "7004714378",
-                    "name": "Makrides M.",
-                    "affiliation_id": [
-                        "60015153"
-                    ]
-                },
-                {
-                    "scopus_id": "28567947100",
-                    "name": "Mcintyre S.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7004487562",
-                    "name": "Badawi N.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60026571"
-                    ]
-                },
-                {
-                    "scopus_id": "57205314548",
-                    "name": "Crowther C.A.",
-                    "affiliation_id": [
-                        "60112784"
+                        "60031846"
                     ]
                 }
             ],
             "citations": 23,
-            "publication_name": "Cochrane Database of Systematic Reviews",
-            "issn": "14651858",
-            "cover_date": "2018-06-20",
+            "publication_name": "Women and Birth",
+            "issn": "18715192",
+            "cover_date": "2016-08-01",
             "venue": "Journal",
-            "volume": "2018",
-            "issue": "6",
-            "page_range": null,
-            "doi": "10.1002/14651858.CD012409.pub2"
+            "volume": "29",
+            "issue": "4",
+            "page_range": "350-358",
+            "doi": "10.1016/j.wombi.2016.01.004"
         },
         {
             "title": "Interventions to prevent women developing gestational diabetes mellitus: an overview of cochrane reviews",
@@ -10828,49 +10871,6 @@
             "issue": "5",
             "page_range": null,
             "doi": "10.1002/14651858.CD012394.pub2"
-        },
-        {
-            "title": "Aboriginal and Torres Strait Islander women's experiences accessing standard hospital care for birth in South Australia \u2013 A phenomenological study",
-            "eid": "2-s2.0-84956641144",
-            "authors": [
-                {
-                    "scopus_id": "56970132800",
-                    "name": "Brown A.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "15044302400",
-                    "name": "Fereday J.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "6701312746",
-                    "name": "Pincombe J.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                }
-            ],
-            "citations": 22,
-            "publication_name": "Women and Birth",
-            "issn": "18715192",
-            "cover_date": "2016-08-01",
-            "venue": "Journal",
-            "volume": "29",
-            "issue": "4",
-            "page_range": "350-358",
-            "doi": "10.1016/j.wombi.2016.01.004"
         },
         {
             "title": "Interventions for managing asthma in pregnancy",
@@ -11418,7 +11418,7 @@
                     "name": "Ellwood D.",
                     "affiliation_id": [
                         "60031004",
-                        "60032987"
+                        "60190626"
                     ]
                 },
                 {
@@ -11664,6 +11664,50 @@
             "doi": "10.1002/14651858.CD008633.pub3"
         },
         {
+            "title": "Influence of sociodemographic, lifestyle and genetic characteristics on maternal DHA and other polyunsaturated fatty acid status in pregnancy: A systematic review",
+            "eid": "2-s2.0-85075922041",
+            "authors": [
+                {
+                    "scopus_id": "57208409144",
+                    "name": "Wilson N.A.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "6603290001",
+                    "name": "Mantzioris E.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.F.",
+                    "affiliation_id": [
+                        "60108899"
+                    ]
+                },
+                {
+                    "scopus_id": "57193516807",
+                    "name": "Muhlhausler B.S.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60029470"
+                    ]
+                }
+            ],
+            "citations": 19,
+            "publication_name": "Prostaglandins Leukotrienes and Essential Fatty Acids",
+            "issn": "09523278",
+            "cover_date": "2020-01-01",
+            "venue": "Journal",
+            "volume": "152",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.plefa.2019.102037"
+        },
+        {
             "title": "The effect of mobile application interventions on influencing healthy maternal behaviour and improving perinatal health outcomes: A systematic review protocol",
             "eid": "2-s2.0-85012094007",
             "authors": [
@@ -11714,48 +11758,54 @@
             "doi": "10.1186/s13643-017-0424-8"
         },
         {
-            "title": "Influence of sociodemographic, lifestyle and genetic characteristics on maternal DHA and other polyunsaturated fatty acid status in pregnancy: A systematic review",
-            "eid": "2-s2.0-85075922041",
+            "title": "Repeat doses of prenatal corticosteroids for women at risk of preterm birth for improving neonatal health outcomes",
+            "eid": "2-s2.0-85127532878",
             "authors": [
                 {
-                    "scopus_id": "57208409144",
-                    "name": "Wilson N.A.",
+                    "scopus_id": "57560455800",
+                    "name": "Walters A.",
                     "affiliation_id": [
-                        "60031846"
+                        "60112784"
                     ]
                 },
                 {
-                    "scopus_id": "6603290001",
-                    "name": "Mantzioris E.",
+                    "scopus_id": "48561362100",
+                    "name": "McKinlay C.",
                     "affiliation_id": [
-                        "60031846"
+                        "60112784"
                     ]
                 },
                 {
                     "scopus_id": "7101676455",
-                    "name": "Middleton P.F.",
+                    "name": "Middleton P.",
                     "affiliation_id": [
                         "60108899"
                     ]
                 },
                 {
-                    "scopus_id": "57193516807",
-                    "name": "Muhlhausler B.S.",
+                    "scopus_id": "7402342751",
+                    "name": "Harding J.E.",
                     "affiliation_id": [
-                        "60009512",
-                        "60029470"
+                        "60112784"
+                    ]
+                },
+                {
+                    "scopus_id": "57205314548",
+                    "name": "Crowther C.A.",
+                    "affiliation_id": [
+                        "60112784"
                     ]
                 }
             ],
             "citations": 18,
-            "publication_name": "Prostaglandins Leukotrienes and Essential Fatty Acids",
-            "issn": "09523278",
-            "cover_date": "2020-01-01",
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "14651858",
+            "cover_date": "2022-04-04",
             "venue": "Journal",
-            "volume": "152",
-            "issue": "",
+            "volume": "2022",
+            "issue": "4",
             "page_range": null,
-            "doi": "10.1016/j.plefa.2019.102037"
+            "doi": "10.1002/14651858.CD003935.pub5"
         },
         {
             "title": "Creatine for women in pregnancy for neuroprotection of the fetus",
@@ -12064,56 +12114,6 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1155/2015/209215"
-        },
-        {
-            "title": "Repeat doses of prenatal corticosteroids for women at risk of preterm birth for improving neonatal health outcomes",
-            "eid": "2-s2.0-85127532878",
-            "authors": [
-                {
-                    "scopus_id": "57560455800",
-                    "name": "Walters A.",
-                    "affiliation_id": [
-                        "60112784"
-                    ]
-                },
-                {
-                    "scopus_id": "48561362100",
-                    "name": "McKinlay C.",
-                    "affiliation_id": [
-                        "60112784"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.",
-                    "affiliation_id": [
-                        "60108899"
-                    ]
-                },
-                {
-                    "scopus_id": "7402342751",
-                    "name": "Harding J.E.",
-                    "affiliation_id": [
-                        "60112784"
-                    ]
-                },
-                {
-                    "scopus_id": "57205314548",
-                    "name": "Crowther C.A.",
-                    "affiliation_id": [
-                        "60112784"
-                    ]
-                }
-            ],
-            "citations": 17,
-            "publication_name": "Cochrane Database of Systematic Reviews",
-            "issn": "14651858",
-            "cover_date": "2022-04-04",
-            "venue": "Journal",
-            "volume": "2022",
-            "issue": "4",
-            "page_range": null,
-            "doi": "10.1002/14651858.CD003935.pub5"
         },
         {
             "title": "Beyond the headlines: Fetal movement awareness is an important stillbirth prevention strategy",
@@ -12690,6 +12690,135 @@
             "doi": "10.1111/1471-0528.16944"
         },
         {
+            "title": "My Baby's Movements: A stepped wedge cluster randomised controlled trial to raise maternal awareness of fetal movements during pregnancy study protocol",
+            "eid": "2-s2.0-85075507229",
+            "authors": [
+                {
+                    "scopus_id": "55459699300",
+                    "name": "Flenady V.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "25629307200",
+                    "name": "Gardener G.",
+                    "affiliation_id": [
+                        "60031004",
+                        "100450548"
+                    ]
+                },
+                {
+                    "scopus_id": "7005052689",
+                    "name": "Boyle F.M.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "35193519600",
+                    "name": "Callander E.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60032987"
+                    ]
+                },
+                {
+                    "scopus_id": "7004550549",
+                    "name": "Coory M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7005809759",
+                    "name": "East C.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60019578",
+                        "60006925"
+                    ]
+                },
+                {
+                    "scopus_id": "34770327300",
+                    "name": "Ellwood D.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60032987",
+                        "60190625"
+                    ]
+                },
+                {
+                    "scopus_id": "35603169000",
+                    "name": "Gordon A.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60121699"
+                    ]
+                },
+                {
+                    "scopus_id": "55391445000",
+                    "name": "Groom K.M.",
+                    "affiliation_id": [
+                        "60112784"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.F.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60108899"
+                    ]
+                },
+                {
+                    "scopus_id": "7402489769",
+                    "name": "Norman J.E.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "57215270371",
+                    "name": "Warrilow K.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57205395336",
+                    "name": "Weller M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57218407151",
+                    "name": "Wojcieszek A.M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57205314548",
+                    "name": "Crowther C.",
+                    "affiliation_id": [
+                        "60112784"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "BMC Pregnancy and Childbirth",
+            "issn": "",
+            "cover_date": "2019-11-21",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s12884-019-2575-1"
+        },
+        {
             "title": "Care prior to and during subsequent pregnancies following stillbirth for improving outcomes",
             "eid": "2-s2.0-84969582305",
             "authors": [
@@ -13000,135 +13129,6 @@
             "issue": "2",
             "page_range": null,
             "doi": "10.1002/14651858.CD007752"
-        },
-        {
-            "title": "My Baby's Movements: A stepped wedge cluster randomised controlled trial to raise maternal awareness of fetal movements during pregnancy study protocol",
-            "eid": "2-s2.0-85075507229",
-            "authors": [
-                {
-                    "scopus_id": "55459699300",
-                    "name": "Flenady V.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "25629307200",
-                    "name": "Gardener G.",
-                    "affiliation_id": [
-                        "60031004",
-                        "100450548"
-                    ]
-                },
-                {
-                    "scopus_id": "7005052689",
-                    "name": "Boyle F.M.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "35193519600",
-                    "name": "Callander E.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60032987"
-                    ]
-                },
-                {
-                    "scopus_id": "7004550549",
-                    "name": "Coory M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7005809759",
-                    "name": "East C.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60019578",
-                        "60006925"
-                    ]
-                },
-                {
-                    "scopus_id": "34770327300",
-                    "name": "Ellwood D.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60032987",
-                        "60190625"
-                    ]
-                },
-                {
-                    "scopus_id": "35603169000",
-                    "name": "Gordon A.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60121699"
-                    ]
-                },
-                {
-                    "scopus_id": "55391445000",
-                    "name": "Groom K.M.",
-                    "affiliation_id": [
-                        "60112784"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.F.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60108899"
-                    ]
-                },
-                {
-                    "scopus_id": "7402489769",
-                    "name": "Norman J.E.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "57215270371",
-                    "name": "Warrilow K.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57205395336",
-                    "name": "Weller M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57218407151",
-                    "name": "Wojcieszek A.M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57205314548",
-                    "name": "Crowther C.",
-                    "affiliation_id": [
-                        "60112784"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "BMC Pregnancy and Childbirth",
-            "issn": "",
-            "cover_date": "2019-11-21",
-            "venue": "Journal",
-            "volume": "19",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1186/s12884-019-2575-1"
         },
         {
             "title": "Progressing towards standard outcomes in gestational diabetes Cochrane reviews and randomised trials",
@@ -13802,6 +13802,66 @@
             "doi": "10.1002/14651858.CD007776.pub3"
         },
         {
+            "title": "Prenatal Intravenous Magnesium at 30-34 Weeks' Gestation and Neurodevelopmental Outcomes in Offspring: The MAGENTA Randomized Clinical Trial",
+            "eid": "2-s2.0-85168064390",
+            "authors": [
+                {
+                    "scopus_id": "57205314548",
+                    "name": "Crowther C.A.",
+                    "affiliation_id": [
+                        "60112784",
+                        "60189793"
+                    ]
+                },
+                {
+                    "scopus_id": "6603723108",
+                    "name": "Ashwood P.",
+                    "affiliation_id": [
+                        "60189793"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.F.",
+                    "affiliation_id": [
+                        "60189793",
+                        "121435066"
+                    ]
+                },
+                {
+                    "scopus_id": "7004093667",
+                    "name": "McPhee A.",
+                    "affiliation_id": [
+                        "121435066",
+                        "60015153"
+                    ]
+                },
+                {
+                    "scopus_id": "55325714300",
+                    "name": "Tran T.",
+                    "affiliation_id": [
+                        "60023932"
+                    ]
+                },
+                {
+                    "scopus_id": "7402342751",
+                    "name": "Harding J.E.",
+                    "affiliation_id": [
+                        "60112784"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "JAMA",
+            "issn": "00987484",
+            "cover_date": "2023-08-15",
+            "venue": "Journal",
+            "volume": "330",
+            "issue": "7",
+            "page_range": "603-614",
+            "doi": "10.1001/jama.2023.12357"
+        },
+        {
             "title": "Omega-3 fatty acids to prevent preterm birth: Australian pregnant women's preterm birth awareness and intentions to increase omega-3 fatty acid intake",
             "eid": "2-s2.0-85075114089",
             "authors": [
@@ -13893,6 +13953,64 @@
             "issue": "4",
             "page_range": "949-958",
             "doi": "10.1093/ajcn/nqz118"
+        },
+        {
+            "title": "Creatine for women in pregnancy for neuroprotection of the fetus",
+            "eid": "2-s2.0-84925222469",
+            "authors": [
+                {
+                    "scopus_id": "8595136400",
+                    "name": "Dickinson H.",
+                    "affiliation_id": [
+                        "60005884"
+                    ]
+                },
+                {
+                    "scopus_id": "55224095700",
+                    "name": "Bain E.",
+                    "affiliation_id": [
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "7401870312",
+                    "name": "Wilkinson D.",
+                    "affiliation_id": [
+                        "60116941"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.",
+                    "affiliation_id": [
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "57205314548",
+                    "name": "Crowther C.A.",
+                    "affiliation_id": [
+                        "60189792",
+                        "60112784"
+                    ]
+                },
+                {
+                    "scopus_id": "7404440174",
+                    "name": "Walker D.W.",
+                    "affiliation_id": [
+                        "60005884"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "",
+            "cover_date": "2014-12-19",
+            "venue": "Journal",
+            "volume": "2014",
+            "issue": "12",
+            "page_range": null,
+            "doi": "10.1002/14651858.CD010846.pub2"
         },
         {
             "title": "Maternal adverse effects with different loading infusion rates of antenatal magnesium sulphate for preterm fetal neuroprotection: The IRIS randomised trial",
@@ -14012,66 +14130,6 @@
             "issue": "7368",
             "page_range": "789-790",
             "doi": "10.1136/bmj.325.7368.789"
-        },
-        {
-            "title": "Prenatal Intravenous Magnesium at 30-34 Weeks' Gestation and Neurodevelopmental Outcomes in Offspring: The MAGENTA Randomized Clinical Trial",
-            "eid": "2-s2.0-85168064390",
-            "authors": [
-                {
-                    "scopus_id": "57205314548",
-                    "name": "Crowther C.A.",
-                    "affiliation_id": [
-                        "60112784",
-                        "60189793"
-                    ]
-                },
-                {
-                    "scopus_id": "6603723108",
-                    "name": "Ashwood P.",
-                    "affiliation_id": [
-                        "60189793"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.F.",
-                    "affiliation_id": [
-                        "60189793",
-                        "121435066"
-                    ]
-                },
-                {
-                    "scopus_id": "7004093667",
-                    "name": "McPhee A.",
-                    "affiliation_id": [
-                        "121435066",
-                        "60015153"
-                    ]
-                },
-                {
-                    "scopus_id": "55325714300",
-                    "name": "Tran T.",
-                    "affiliation_id": [
-                        "60023932"
-                    ]
-                },
-                {
-                    "scopus_id": "7402342751",
-                    "name": "Harding J.E.",
-                    "affiliation_id": [
-                        "60112784"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "JAMA",
-            "issn": "00987484",
-            "cover_date": "2023-08-15",
-            "venue": "Journal",
-            "volume": "330",
-            "issue": "7",
-            "page_range": "603-614",
-            "doi": "10.1001/jama.2023.12357"
         },
         {
             "title": "Men\u2019s experiences and need for targeted support after termination of pregnancy for foetal anomaly: A qualitative study",
@@ -14358,64 +14416,6 @@
             "issue": "12",
             "page_range": null,
             "doi": "10.1002/14651858.CD012203.pub2"
-        },
-        {
-            "title": "Creatine for women in pregnancy for neuroprotection of the fetus",
-            "eid": "2-s2.0-84925222469",
-            "authors": [
-                {
-                    "scopus_id": "8595136400",
-                    "name": "Dickinson H.",
-                    "affiliation_id": [
-                        "60005884"
-                    ]
-                },
-                {
-                    "scopus_id": "55224095700",
-                    "name": "Bain E.",
-                    "affiliation_id": [
-                        "60189792"
-                    ]
-                },
-                {
-                    "scopus_id": "7401870312",
-                    "name": "Wilkinson D.",
-                    "affiliation_id": [
-                        "60116941"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.",
-                    "affiliation_id": [
-                        "60189792"
-                    ]
-                },
-                {
-                    "scopus_id": "57205314548",
-                    "name": "Crowther C.A.",
-                    "affiliation_id": [
-                        "60189792",
-                        "60112784"
-                    ]
-                },
-                {
-                    "scopus_id": "7404440174",
-                    "name": "Walker D.W.",
-                    "affiliation_id": [
-                        "60005884"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "Cochrane Database of Systematic Reviews",
-            "issn": "",
-            "cover_date": "2014-12-19",
-            "venue": "Journal",
-            "volume": "2014",
-            "issue": "12",
-            "page_range": null,
-            "doi": "10.1002/14651858.CD010846.pub2"
         },
         {
             "title": "Survey of Australian maternity hospitals to inform development and implementation of a stillbirth prevention \u2018bundle of care\u2019",
@@ -18411,6 +18411,54 @@
             "doi": "10.1186/s12884-016-0825-z"
         },
         {
+            "title": "Interconception Health: Improving Equitable Access to Pregnancy Planning",
+            "eid": "2-s2.0-85135419849",
+            "authors": [
+                {
+                    "scopus_id": "35344490900",
+                    "name": "Black K.I.",
+                    "affiliation_id": [
+                        "60010710"
+                    ]
+                },
+                {
+                    "scopus_id": "7101676455",
+                    "name": "Middleton P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57830736200",
+                    "name": "Libst G.",
+                    "affiliation_id": [
+                        "60015153"
+                    ]
+                },
+                {
+                    "scopus_id": "37088471400",
+                    "name": "Huda T.M.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "7402912228",
+                    "name": "Srinivasan S.",
+                    "affiliation_id": [
+                        "60138627"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Seminars in Reproductive Medicine",
+            "issn": "15268004",
+            "cover_date": "2022-07-28",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "3-4",
+            "page_range": "184-192",
+            "doi": "10.1055/s-0042-1744517"
+        },
+        {
             "title": "Recent advances in policy and practice translation of the evidence for additional omega-3 fatty acids and prematurity",
             "eid": "2-s2.0-85124056606",
             "authors": [
@@ -19086,54 +19134,6 @@
             "doi": "10.1111/ajo.13647"
         },
         {
-            "title": "Interconception Health: Improving Equitable Access to Pregnancy Planning",
-            "eid": "2-s2.0-85135419849",
-            "authors": [
-                {
-                    "scopus_id": "35344490900",
-                    "name": "Black K.I.",
-                    "affiliation_id": [
-                        "60010710"
-                    ]
-                },
-                {
-                    "scopus_id": "7101676455",
-                    "name": "Middleton P.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57830736200",
-                    "name": "Libst G.",
-                    "affiliation_id": [
-                        "60015153"
-                    ]
-                },
-                {
-                    "scopus_id": "37088471400",
-                    "name": "Huda T.M.",
-                    "affiliation_id": [
-                        "60089710"
-                    ]
-                },
-                {
-                    "scopus_id": "7402912228",
-                    "name": "Srinivasan S.",
-                    "affiliation_id": [
-                        "60138627"
-                    ]
-                }
-            ],
-            "citations": 1,
-            "publication_name": "Seminars in Reproductive Medicine",
-            "issn": "15268004",
-            "cover_date": "2022-07-28",
-            "venue": "Journal",
-            "volume": "40",
-            "issue": "3-4",
-            "page_range": "184-192",
-            "doi": "10.1055/s-0042-1744517"
-        },
-        {
             "title": "Australian women's perceptions and practice of sleep position in late pregnancy: An online survey",
             "eid": "2-s2.0-85104671507",
             "authors": [
@@ -19186,7 +19186,7 @@
                     "name": "Ellwood D.",
                     "affiliation_id": [
                         "60031004",
-                        "60032987"
+                        "60190626"
                     ]
                 },
                 {
@@ -20516,6 +20516,5 @@
             "$": "Biochemistry, Genetics and Molecular Biology (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:32:53",
-    "c-score": null
+    "date fetched": "2024-07-12 18:41:04"
 }

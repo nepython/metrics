@@ -28,7 +28,7 @@
                     ]
                 }
             ],
-            "citations": 6648,
+            "citations": 6660,
             "publication_name": "Planta",
             "issn": "00320935",
             "cover_date": "1980-06-01",
@@ -57,7 +57,7 @@
                     ]
                 }
             ],
-            "citations": 3808,
+            "citations": 3810,
             "publication_name": "Planta",
             "issn": "00320935",
             "cover_date": "1981-12-01",
@@ -93,7 +93,7 @@
                     ]
                 }
             ],
-            "citations": 3148,
+            "citations": 3150,
             "publication_name": "Australian Journal of Plant Physiology",
             "issn": "03107841",
             "cover_date": "1982-01-01",
@@ -122,7 +122,7 @@
                     ]
                 }
             ],
-            "citations": 1802,
+            "citations": 1803,
             "publication_name": "Australian Journal of Plant Physiology",
             "issn": "03107841",
             "cover_date": "1984-01-01",
@@ -165,7 +165,7 @@
                     ]
                 }
             ],
-            "citations": 1048,
+            "citations": 1054,
             "publication_name": "Plant, Cell and Environment",
             "issn": "01407791",
             "cover_date": "2007-09-01",
@@ -201,7 +201,7 @@
                     ]
                 }
             ],
-            "citations": 981,
+            "citations": 982,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "1979-12-01",
@@ -274,7 +274,7 @@
                     ]
                 }
             ],
-            "citations": 933,
+            "citations": 934,
             "publication_name": "Plant, Cell and Environment",
             "issn": "01407791",
             "cover_date": "1997-01-01",
@@ -299,7 +299,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 892,
+            "citations": 893,
             "publication_name": "Symposia of the Society for Experimental Biology",
             "issn": "00811386",
             "cover_date": "1977-12-01",
@@ -328,7 +328,7 @@
                     ]
                 }
             ],
-            "citations": 840,
+            "citations": 841,
             "publication_name": "Planta",
             "issn": "00320935",
             "cover_date": "1985-08-01",
@@ -394,7 +394,7 @@
                     ]
                 }
             ],
-            "citations": 583,
+            "citations": 584,
             "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
             "issn": "00278424",
             "cover_date": "2006-05-09",
@@ -437,7 +437,7 @@
                     ]
                 }
             ],
-            "citations": 578,
+            "citations": 579,
             "publication_name": "Geophysical Research Letters",
             "issn": "00948276",
             "cover_date": "2007-09-16",
@@ -1379,7 +1379,7 @@
                     ]
                 }
             ],
-            "citations": 336,
+            "citations": 337,
             "publication_name": "Functional Plant Biology",
             "issn": "14454408",
             "cover_date": "2009-01-01",
@@ -1446,6 +1446,56 @@
             "issue": "5",
             "page_range": "473-485",
             "doi": "10.1046/j.1365-3040.2000.00575.x"
+        },
+        {
+            "title": "On the relationship between leaf anatomy and CO<inf>2</inf> diffusion through the mesophyll of hypostomatous leaves",
+            "eid": "2-s2.0-0029159644",
+            "authors": [
+                {
+                    "scopus_id": "7003383148",
+                    "name": "SYVERTSEN J.P.",
+                    "affiliation_id": [
+                        "60010177"
+                    ]
+                },
+                {
+                    "scopus_id": "7402365467",
+                    "name": "LLOYD J.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "6602814253",
+                    "name": "McCONCHIE C.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "6603111672",
+                    "name": "KRIEDEMANN P.E.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7005853435",
+                    "name": "FARQUHAR G.D.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 312,
+            "publication_name": "Plant, Cell &amp; Environment",
+            "issn": "01407791",
+            "cover_date": "1995-01-01",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "2",
+            "page_range": "149-157",
+            "doi": "10.1111/j.1365-3040.1995.tb00348.x"
         },
         {
             "title": "Sensitivity of plants to changing atmospheric CO<inf>2</inf> concentration: From the geological past to the next century",
@@ -1555,56 +1605,6 @@
             "doi": "10.1111/nph.12104"
         },
         {
-            "title": "On the relationship between leaf anatomy and CO<inf>2</inf> diffusion through the mesophyll of hypostomatous leaves",
-            "eid": "2-s2.0-0029159644",
-            "authors": [
-                {
-                    "scopus_id": "7003383148",
-                    "name": "SYVERTSEN J.P.",
-                    "affiliation_id": [
-                        "60010177"
-                    ]
-                },
-                {
-                    "scopus_id": "7402365467",
-                    "name": "LLOYD J.",
-                    "affiliation_id": [
-                        "60159889"
-                    ]
-                },
-                {
-                    "scopus_id": "6602814253",
-                    "name": "McCONCHIE C.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "6603111672",
-                    "name": "KRIEDEMANN P.E.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "7005853435",
-                    "name": "FARQUHAR G.D.",
-                    "affiliation_id": [
-                        "60159889"
-                    ]
-                }
-            ],
-            "citations": 310,
-            "publication_name": "Plant, Cell &amp; Environment",
-            "issn": "01407791",
-            "cover_date": "1995-01-01",
-            "venue": "Journal",
-            "volume": "18",
-            "issue": "2",
-            "page_range": "149-157",
-            "doi": "10.1111/j.1365-3040.1995.tb00348.x"
-        },
-        {
             "title": "Characterisation of non-uniform photosynthesis induced by abscisic acid in leaves having different mesophyll anatomies",
             "eid": "2-s2.0-1842356296",
             "authors": [
@@ -1646,6 +1646,463 @@
             "issue": "3",
             "page_range": "385-394",
             "doi": ""
+        },
+        {
+            "title": "Integrating the evidence for a terrestrial carbon sink caused by increasing atmospheric CO<inf>2</inf>",
+            "eid": "2-s2.0-85092938048",
+            "authors": [
+                {
+                    "scopus_id": "55629285200",
+                    "name": "Walker A.P.",
+                    "affiliation_id": [
+                        "60003029"
+                    ]
+                },
+                {
+                    "scopus_id": "23011239800",
+                    "name": "De Kauwe M.G.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60028333",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "57021138000",
+                    "name": "Bastos A.",
+                    "affiliation_id": [
+                        "60028717"
+                    ]
+                },
+                {
+                    "scopus_id": "16645047300",
+                    "name": "Belmecheri S.",
+                    "affiliation_id": [
+                        "60010065"
+                    ]
+                },
+                {
+                    "scopus_id": "56825628200",
+                    "name": "Georgiou K.",
+                    "affiliation_id": [
+                        "60012708"
+                    ]
+                },
+                {
+                    "scopus_id": "7005089628",
+                    "name": "Keeling R.F.",
+                    "affiliation_id": [
+                        "60023018"
+                    ]
+                },
+                {
+                    "scopus_id": "7102013897",
+                    "name": "McMahon S.M.",
+                    "affiliation_id": [
+                        "60017825"
+                    ]
+                },
+                {
+                    "scopus_id": "6603835282",
+                    "name": "Medlyn B.E.",
+                    "affiliation_id": [
+                        "60117550"
+                    ]
+                },
+                {
+                    "scopus_id": "7404565766",
+                    "name": "Moore D.J.P.",
+                    "affiliation_id": [
+                        "100809825"
+                    ]
+                },
+                {
+                    "scopus_id": "7005923200",
+                    "name": "Norby R.J.",
+                    "affiliation_id": [
+                        "60003029"
+                    ]
+                },
+                {
+                    "scopus_id": "57203178036",
+                    "name": "Zaehle S.",
+                    "affiliation_id": [
+                        "60020318"
+                    ]
+                },
+                {
+                    "scopus_id": "59157686100",
+                    "name": "Anderson-Teixeira K.J.",
+                    "affiliation_id": [
+                        "60025643",
+                        "60030522"
+                    ]
+                },
+                {
+                    "scopus_id": "6507001590",
+                    "name": "Battipaglia G.",
+                    "affiliation_id": [
+                        "60026777"
+                    ]
+                },
+                {
+                    "scopus_id": "12786571000",
+                    "name": "Brienen R.J.W.",
+                    "affiliation_id": [
+                        "60012070"
+                    ]
+                },
+                {
+                    "scopus_id": "57195985373",
+                    "name": "Cabugao K.G.",
+                    "affiliation_id": [
+                        "60003029"
+                    ]
+                },
+                {
+                    "scopus_id": "54390704000",
+                    "name": "Cailleret M.",
+                    "affiliation_id": [
+                        "60102127",
+                        "60008588"
+                    ]
+                },
+                {
+                    "scopus_id": "24467447400",
+                    "name": "Campbell E.",
+                    "affiliation_id": [
+                        "60029241"
+                    ]
+                },
+                {
+                    "scopus_id": "7006765673",
+                    "name": "Canadell J.G.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "55399842300",
+                    "name": "Ciais P.",
+                    "affiliation_id": [
+                        "60029937"
+                    ]
+                },
+                {
+                    "scopus_id": "56781041000",
+                    "name": "Craig M.E.",
+                    "affiliation_id": [
+                        "60003029"
+                    ]
+                },
+                {
+                    "scopus_id": "7006667536",
+                    "name": "Ellsworth D.S.",
+                    "affiliation_id": [
+                        "60117550"
+                    ]
+                },
+                {
+                    "scopus_id": "7005853435",
+                    "name": "Farquhar G.D.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "35203227000",
+                    "name": "Fatichi S.",
+                    "affiliation_id": [
+                        "60017161",
+                        "60025858"
+                    ]
+                },
+                {
+                    "scopus_id": "57203460307",
+                    "name": "Fisher J.B.",
+                    "affiliation_id": [
+                        "60009037"
+                    ]
+                },
+                {
+                    "scopus_id": "8976327600",
+                    "name": "Frank D.C.",
+                    "affiliation_id": [
+                        "60010065"
+                    ]
+                },
+                {
+                    "scopus_id": "26654233100",
+                    "name": "Graven H.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "7202674824",
+                    "name": "Gu L.",
+                    "affiliation_id": [
+                        "60003029"
+                    ]
+                },
+                {
+                    "scopus_id": "6507592546",
+                    "name": "Haverd V.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "57193462915",
+                    "name": "Heilman K.",
+                    "affiliation_id": [
+                        "60010065"
+                    ]
+                },
+                {
+                    "scopus_id": "7005902195",
+                    "name": "Heimann M.",
+                    "affiliation_id": [
+                        "60020318"
+                    ]
+                },
+                {
+                    "scopus_id": "7003965032",
+                    "name": "Hungate B.A.",
+                    "affiliation_id": [
+                        "60023517"
+                    ]
+                },
+                {
+                    "scopus_id": "8251200100",
+                    "name": "Iversen C.M.",
+                    "affiliation_id": [
+                        "60003029"
+                    ]
+                },
+                {
+                    "scopus_id": "7004423053",
+                    "name": "Joos F.",
+                    "affiliation_id": [
+                        "60020486"
+                    ]
+                },
+                {
+                    "scopus_id": "56525828600",
+                    "name": "Jiang M.",
+                    "affiliation_id": [
+                        "60117550"
+                    ]
+                },
+                {
+                    "scopus_id": "33567888000",
+                    "name": "Keenan T.F.",
+                    "affiliation_id": [
+                        "60121458",
+                        "60007174"
+                    ]
+                },
+                {
+                    "scopus_id": "56921650900",
+                    "name": "Knauer J.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "57220500985",
+                    "name": "K\u00f6rner C.",
+                    "affiliation_id": [
+                        "60023588"
+                    ]
+                },
+                {
+                    "scopus_id": "57216584465",
+                    "name": "Leshyk V.O.",
+                    "affiliation_id": [
+                        "60023517"
+                    ]
+                },
+                {
+                    "scopus_id": "8507122600",
+                    "name": "Leuzinger S.",
+                    "affiliation_id": [
+                        "60023760"
+                    ]
+                },
+                {
+                    "scopus_id": "57193384612",
+                    "name": "Liu Y.",
+                    "affiliation_id": [
+                        "60003029"
+                    ]
+                },
+                {
+                    "scopus_id": "36337978300",
+                    "name": "MacBean N.",
+                    "affiliation_id": [
+                        "60021121"
+                    ]
+                },
+                {
+                    "scopus_id": "7004035832",
+                    "name": "Malhi Y.",
+                    "affiliation_id": [
+                        "60026851"
+                    ]
+                },
+                {
+                    "scopus_id": "6602871885",
+                    "name": "McVicar T.R.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006747772",
+                    "name": "Penuelas J.",
+                    "affiliation_id": [
+                        "60006754",
+                        "60022367"
+                    ]
+                },
+                {
+                    "scopus_id": "26421368700",
+                    "name": "Pongratz J.",
+                    "affiliation_id": [
+                        "60028717"
+                    ]
+                },
+                {
+                    "scopus_id": "57193429823",
+                    "name": "Powell A.S.",
+                    "affiliation_id": [
+                        "60003029"
+                    ]
+                },
+                {
+                    "scopus_id": "16178212500",
+                    "name": "Riutta T.",
+                    "affiliation_id": [
+                        "60026851"
+                    ]
+                },
+                {
+                    "scopus_id": "57197874469",
+                    "name": "Sabot M.E.B.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60028333",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "6603720027",
+                    "name": "Schleucher J.",
+                    "affiliation_id": [
+                        "60031040"
+                    ]
+                },
+                {
+                    "scopus_id": "6603113016",
+                    "name": "Sitch S.",
+                    "affiliation_id": [
+                        "60026479"
+                    ]
+                },
+                {
+                    "scopus_id": "55727166700",
+                    "name": "Smith W.K.",
+                    "affiliation_id": [
+                        "100809825"
+                    ]
+                },
+                {
+                    "scopus_id": "36544482000",
+                    "name": "Sulman B.",
+                    "affiliation_id": [
+                        "60003029"
+                    ]
+                },
+                {
+                    "scopus_id": "55693583100",
+                    "name": "Taylor B.",
+                    "affiliation_id": [
+                        "60017825"
+                    ]
+                },
+                {
+                    "scopus_id": "57131006800",
+                    "name": "Terrer C.",
+                    "affiliation_id": [
+                        "60026175"
+                    ]
+                },
+                {
+                    "scopus_id": "6604022152",
+                    "name": "Torn M.S.",
+                    "affiliation_id": [
+                        "60007174"
+                    ]
+                },
+                {
+                    "scopus_id": "6602102587",
+                    "name": "Treseder K.K.",
+                    "affiliation_id": [
+                        "60007278"
+                    ]
+                },
+                {
+                    "scopus_id": "56509633200",
+                    "name": "Trugman A.T.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006334079",
+                    "name": "Trumbore S.E.",
+                    "affiliation_id": [
+                        "60020318"
+                    ]
+                },
+                {
+                    "scopus_id": "59157717700",
+                    "name": "van Mantgem P.J.",
+                    "affiliation_id": [
+                        "60011347"
+                    ]
+                },
+                {
+                    "scopus_id": "15128416400",
+                    "name": "Voelker S.L.",
+                    "affiliation_id": [
+                        "60028269"
+                    ]
+                },
+                {
+                    "scopus_id": "36877081000",
+                    "name": "Whelan M.E.",
+                    "affiliation_id": [
+                        "60119141"
+                    ]
+                },
+                {
+                    "scopus_id": "9039487900",
+                    "name": "Zuidema P.A.",
+                    "affiliation_id": [
+                        "60004156"
+                    ]
+                }
+            ],
+            "citations": 291,
+            "publication_name": "New Phytologist",
+            "issn": "0028646X",
+            "cover_date": "2021-03-01",
+            "venue": "Journal",
+            "volume": "229",
+            "issue": "5",
+            "page_range": "2413-2445",
+            "doi": "10.1111/nph.16866"
         },
         {
             "title": "Global variability in leaf respiration in relation to climate, plant functional types and leaf traits",
@@ -2217,463 +2674,6 @@
             "doi": "10.1104/pp.106.093559"
         },
         {
-            "title": "Integrating the evidence for a terrestrial carbon sink caused by increasing atmospheric CO<inf>2</inf>",
-            "eid": "2-s2.0-85092938048",
-            "authors": [
-                {
-                    "scopus_id": "55629285200",
-                    "name": "Walker A.P.",
-                    "affiliation_id": [
-                        "60003029"
-                    ]
-                },
-                {
-                    "scopus_id": "23011239800",
-                    "name": "De Kauwe M.G.",
-                    "affiliation_id": [
-                        "60028333",
-                        "60028333",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "57021138000",
-                    "name": "Bastos A.",
-                    "affiliation_id": [
-                        "60028717"
-                    ]
-                },
-                {
-                    "scopus_id": "16645047300",
-                    "name": "Belmecheri S.",
-                    "affiliation_id": [
-                        "60010065"
-                    ]
-                },
-                {
-                    "scopus_id": "56825628200",
-                    "name": "Georgiou K.",
-                    "affiliation_id": [
-                        "60012708"
-                    ]
-                },
-                {
-                    "scopus_id": "7005089628",
-                    "name": "Keeling R.F.",
-                    "affiliation_id": [
-                        "60023018"
-                    ]
-                },
-                {
-                    "scopus_id": "7102013897",
-                    "name": "McMahon S.M.",
-                    "affiliation_id": [
-                        "60017825"
-                    ]
-                },
-                {
-                    "scopus_id": "6603835282",
-                    "name": "Medlyn B.E.",
-                    "affiliation_id": [
-                        "60117550"
-                    ]
-                },
-                {
-                    "scopus_id": "7404565766",
-                    "name": "Moore D.J.P.",
-                    "affiliation_id": [
-                        "100809825"
-                    ]
-                },
-                {
-                    "scopus_id": "7005923200",
-                    "name": "Norby R.J.",
-                    "affiliation_id": [
-                        "60003029"
-                    ]
-                },
-                {
-                    "scopus_id": "57203178036",
-                    "name": "Zaehle S.",
-                    "affiliation_id": [
-                        "60020318"
-                    ]
-                },
-                {
-                    "scopus_id": "59157686100",
-                    "name": "Anderson-Teixeira K.J.",
-                    "affiliation_id": [
-                        "60025643",
-                        "60030522"
-                    ]
-                },
-                {
-                    "scopus_id": "6507001590",
-                    "name": "Battipaglia G.",
-                    "affiliation_id": [
-                        "60026777"
-                    ]
-                },
-                {
-                    "scopus_id": "12786571000",
-                    "name": "Brienen R.J.W.",
-                    "affiliation_id": [
-                        "60012070"
-                    ]
-                },
-                {
-                    "scopus_id": "57195985373",
-                    "name": "Cabugao K.G.",
-                    "affiliation_id": [
-                        "60003029"
-                    ]
-                },
-                {
-                    "scopus_id": "54390704000",
-                    "name": "Cailleret M.",
-                    "affiliation_id": [
-                        "60102127",
-                        "60008588"
-                    ]
-                },
-                {
-                    "scopus_id": "24467447400",
-                    "name": "Campbell E.",
-                    "affiliation_id": [
-                        "60029241"
-                    ]
-                },
-                {
-                    "scopus_id": "7006765673",
-                    "name": "Canadell J.G.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "55399842300",
-                    "name": "Ciais P.",
-                    "affiliation_id": [
-                        "60029937"
-                    ]
-                },
-                {
-                    "scopus_id": "56781041000",
-                    "name": "Craig M.E.",
-                    "affiliation_id": [
-                        "60003029"
-                    ]
-                },
-                {
-                    "scopus_id": "7006667536",
-                    "name": "Ellsworth D.S.",
-                    "affiliation_id": [
-                        "60117550"
-                    ]
-                },
-                {
-                    "scopus_id": "7005853435",
-                    "name": "Farquhar G.D.",
-                    "affiliation_id": [
-                        "60159889"
-                    ]
-                },
-                {
-                    "scopus_id": "35203227000",
-                    "name": "Fatichi S.",
-                    "affiliation_id": [
-                        "60017161",
-                        "60025858"
-                    ]
-                },
-                {
-                    "scopus_id": "57203460307",
-                    "name": "Fisher J.B.",
-                    "affiliation_id": [
-                        "60009037"
-                    ]
-                },
-                {
-                    "scopus_id": "8976327600",
-                    "name": "Frank D.C.",
-                    "affiliation_id": [
-                        "60010065"
-                    ]
-                },
-                {
-                    "scopus_id": "26654233100",
-                    "name": "Graven H.",
-                    "affiliation_id": [
-                        "60015150"
-                    ]
-                },
-                {
-                    "scopus_id": "7202674824",
-                    "name": "Gu L.",
-                    "affiliation_id": [
-                        "60003029"
-                    ]
-                },
-                {
-                    "scopus_id": "6507592546",
-                    "name": "Haverd V.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "57193462915",
-                    "name": "Heilman K.",
-                    "affiliation_id": [
-                        "60010065"
-                    ]
-                },
-                {
-                    "scopus_id": "7005902195",
-                    "name": "Heimann M.",
-                    "affiliation_id": [
-                        "60020318"
-                    ]
-                },
-                {
-                    "scopus_id": "7003965032",
-                    "name": "Hungate B.A.",
-                    "affiliation_id": [
-                        "60023517"
-                    ]
-                },
-                {
-                    "scopus_id": "8251200100",
-                    "name": "Iversen C.M.",
-                    "affiliation_id": [
-                        "60003029"
-                    ]
-                },
-                {
-                    "scopus_id": "7004423053",
-                    "name": "Joos F.",
-                    "affiliation_id": [
-                        "60020486"
-                    ]
-                },
-                {
-                    "scopus_id": "56525828600",
-                    "name": "Jiang M.",
-                    "affiliation_id": [
-                        "60117550"
-                    ]
-                },
-                {
-                    "scopus_id": "33567888000",
-                    "name": "Keenan T.F.",
-                    "affiliation_id": [
-                        "60121458",
-                        "60007174"
-                    ]
-                },
-                {
-                    "scopus_id": "56921650900",
-                    "name": "Knauer J.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "57220500985",
-                    "name": "K\u00f6rner C.",
-                    "affiliation_id": [
-                        "60023588"
-                    ]
-                },
-                {
-                    "scopus_id": "57216584465",
-                    "name": "Leshyk V.O.",
-                    "affiliation_id": [
-                        "60023517"
-                    ]
-                },
-                {
-                    "scopus_id": "8507122600",
-                    "name": "Leuzinger S.",
-                    "affiliation_id": [
-                        "60023760"
-                    ]
-                },
-                {
-                    "scopus_id": "57193384612",
-                    "name": "Liu Y.",
-                    "affiliation_id": [
-                        "60003029"
-                    ]
-                },
-                {
-                    "scopus_id": "36337978300",
-                    "name": "MacBean N.",
-                    "affiliation_id": [
-                        "60021121"
-                    ]
-                },
-                {
-                    "scopus_id": "7004035832",
-                    "name": "Malhi Y.",
-                    "affiliation_id": [
-                        "60026851"
-                    ]
-                },
-                {
-                    "scopus_id": "6602871885",
-                    "name": "McVicar T.R.",
-                    "affiliation_id": [
-                        "60029470",
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7006747772",
-                    "name": "Penuelas J.",
-                    "affiliation_id": [
-                        "60006754",
-                        "60022367"
-                    ]
-                },
-                {
-                    "scopus_id": "26421368700",
-                    "name": "Pongratz J.",
-                    "affiliation_id": [
-                        "60028717"
-                    ]
-                },
-                {
-                    "scopus_id": "57193429823",
-                    "name": "Powell A.S.",
-                    "affiliation_id": [
-                        "60003029"
-                    ]
-                },
-                {
-                    "scopus_id": "16178212500",
-                    "name": "Riutta T.",
-                    "affiliation_id": [
-                        "60026851"
-                    ]
-                },
-                {
-                    "scopus_id": "57197874469",
-                    "name": "Sabot M.E.B.",
-                    "affiliation_id": [
-                        "60028333",
-                        "60028333",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "6603720027",
-                    "name": "Schleucher J.",
-                    "affiliation_id": [
-                        "60031040"
-                    ]
-                },
-                {
-                    "scopus_id": "6603113016",
-                    "name": "Sitch S.",
-                    "affiliation_id": [
-                        "60026479"
-                    ]
-                },
-                {
-                    "scopus_id": "55727166700",
-                    "name": "Smith W.K.",
-                    "affiliation_id": [
-                        "100809825"
-                    ]
-                },
-                {
-                    "scopus_id": "36544482000",
-                    "name": "Sulman B.",
-                    "affiliation_id": [
-                        "60003029"
-                    ]
-                },
-                {
-                    "scopus_id": "55693583100",
-                    "name": "Taylor B.",
-                    "affiliation_id": [
-                        "60017825"
-                    ]
-                },
-                {
-                    "scopus_id": "57131006800",
-                    "name": "Terrer C.",
-                    "affiliation_id": [
-                        "60026175"
-                    ]
-                },
-                {
-                    "scopus_id": "6604022152",
-                    "name": "Torn M.S.",
-                    "affiliation_id": [
-                        "60007174"
-                    ]
-                },
-                {
-                    "scopus_id": "6602102587",
-                    "name": "Treseder K.K.",
-                    "affiliation_id": [
-                        "60007278"
-                    ]
-                },
-                {
-                    "scopus_id": "56509633200",
-                    "name": "Trugman A.T.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7006334079",
-                    "name": "Trumbore S.E.",
-                    "affiliation_id": [
-                        "60020318"
-                    ]
-                },
-                {
-                    "scopus_id": "59157717700",
-                    "name": "van Mantgem P.J.",
-                    "affiliation_id": [
-                        "60011347"
-                    ]
-                },
-                {
-                    "scopus_id": "15128416400",
-                    "name": "Voelker S.L.",
-                    "affiliation_id": [
-                        "60028269"
-                    ]
-                },
-                {
-                    "scopus_id": "36877081000",
-                    "name": "Whelan M.E.",
-                    "affiliation_id": [
-                        "60119141"
-                    ]
-                },
-                {
-                    "scopus_id": "9039487900",
-                    "name": "Zuidema P.A.",
-                    "affiliation_id": [
-                        "60004156"
-                    ]
-                }
-            ],
-            "citations": 288,
-            "publication_name": "New Phytologist",
-            "issn": "0028646X",
-            "cover_date": "2021-03-01",
-            "venue": "Journal",
-            "volume": "229",
-            "issue": "5",
-            "page_range": "2413-2445",
-            "doi": "10.1111/nph.16866"
-        },
-        {
             "title": "A hydromechanical and biochemical model of stomatal conductance",
             "eid": "2-s2.0-0142071749",
             "authors": [
@@ -2889,6 +2889,71 @@
             "doi": "10.1071/a97039"
         },
         {
+            "title": "The CO<inf>2</inf> dependence of photosynthesis, plant growth responses to elevated atmospheric CO<inf>2</inf> concentrations and their interaction with soil nutrient status. I. General principles and forest ecosystems",
+            "eid": "2-s2.0-0029667587",
+            "authors": [
+                {
+                    "scopus_id": "7402365467",
+                    "name": "Lloyd J.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7005853435",
+                    "name": "Farquhar G.D.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 265,
+            "publication_name": "Functional Ecology",
+            "issn": "02698463",
+            "cover_date": "1996-01-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "1",
+            "page_range": "4-32",
+            "doi": "10.2307/2390258"
+        },
+        {
+            "title": "Water-use efficiency and carbon isotope discrimination in peanut under water deficit conditions",
+            "eid": "2-s2.0-0028066489",
+            "authors": [
+                {
+                    "scopus_id": "7402848832",
+                    "name": "Wright G.",
+                    "affiliation_id": [
+                        "60019523"
+                    ]
+                },
+                {
+                    "scopus_id": "7403068740",
+                    "name": "Rao R.",
+                    "affiliation_id": [
+                        "60019523"
+                    ]
+                },
+                {
+                    "scopus_id": "7005853435",
+                    "name": "Farquhar G.",
+                    "affiliation_id": [
+                        "60019523"
+                    ]
+                }
+            ],
+            "citations": 265,
+            "publication_name": "Crop Science",
+            "issn": "0011183X",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "34",
+            "issue": "1",
+            "page_range": "92-97",
+            "doi": "10.2135/cropsci1994.0011183X003400010016x"
+        },
+        {
             "title": "Low conductances for CO<inf>2</inf> diffusion from stomata to the sites of carboxylation in leaves of woody species",
             "eid": "2-s2.0-84989134679",
             "authors": [
@@ -2933,71 +2998,6 @@
             "doi": "10.1111/j.1365-3040.1992.tb01021.x"
         },
         {
-            "title": "The CO<inf>2</inf> dependence of photosynthesis, plant growth responses to elevated atmospheric CO<inf>2</inf> concentrations and their interaction with soil nutrient status. I. General principles and forest ecosystems",
-            "eid": "2-s2.0-0029667587",
-            "authors": [
-                {
-                    "scopus_id": "7402365467",
-                    "name": "Lloyd J.",
-                    "affiliation_id": [
-                        "60159889"
-                    ]
-                },
-                {
-                    "scopus_id": "7005853435",
-                    "name": "Farquhar G.D.",
-                    "affiliation_id": [
-                        "60159889"
-                    ]
-                }
-            ],
-            "citations": 264,
-            "publication_name": "Functional Ecology",
-            "issn": "02698463",
-            "cover_date": "1996-01-01",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "1",
-            "page_range": "4-32",
-            "doi": "10.2307/2390258"
-        },
-        {
-            "title": "Water-use efficiency and carbon isotope discrimination in peanut under water deficit conditions",
-            "eid": "2-s2.0-0028066489",
-            "authors": [
-                {
-                    "scopus_id": "7402848832",
-                    "name": "Wright G.",
-                    "affiliation_id": [
-                        "60019523"
-                    ]
-                },
-                {
-                    "scopus_id": "7403068740",
-                    "name": "Rao R.",
-                    "affiliation_id": [
-                        "60019523"
-                    ]
-                },
-                {
-                    "scopus_id": "7005853435",
-                    "name": "Farquhar G.",
-                    "affiliation_id": [
-                        "60019523"
-                    ]
-                }
-            ],
-            "citations": 264,
-            "publication_name": "Crop Science",
-            "issn": "0011183X",
-            "cover_date": "1994-01-01",
-            "venue": "Journal",
-            "volume": "34",
-            "issue": "1",
-            "page_range": "92-97",
-            "doi": "10.2135/cropsci1994.0011183X003400010016x"
-        },
-        {
             "title": "Models of photosynthesis",
             "eid": "2-s2.0-0035143897",
             "authors": [
@@ -3023,7 +3023,7 @@
                     ]
                 }
             ],
-            "citations": 261,
+            "citations": 263,
             "publication_name": "Plant Physiology",
             "issn": "00320889",
             "cover_date": "2001-01-01",
@@ -3228,7 +3228,7 @@
                     ]
                 }
             ],
-            "citations": 240,
+            "citations": 243,
             "publication_name": "Nature Plants",
             "issn": "",
             "cover_date": "2019-04-01",
@@ -3901,7 +3901,7 @@
                     ]
                 }
             ],
-            "citations": 171,
+            "citations": 172,
             "publication_name": "Advances in Agronomy",
             "issn": "00652113",
             "cover_date": "1980-01-01",
@@ -3930,7 +3930,7 @@
                     ]
                 }
             ],
-            "citations": 170,
+            "citations": 171,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2003-03-28",
@@ -4097,7 +4097,7 @@
                     ]
                 }
             ],
-            "citations": 156,
+            "citations": 157,
             "publication_name": "Geography Compass",
             "issn": "",
             "cover_date": "2009-04-01",
@@ -5109,7 +5109,7 @@
                     ]
                 }
             ],
-            "citations": 135,
+            "citations": 136,
             "publication_name": "Plant, Cell and Environment",
             "issn": "01407791",
             "cover_date": "1997-01-01",
@@ -7213,6 +7213,49 @@
             "doi": "10.1111/geb.12764"
         },
         {
+            "title": "Rainfall statistics, stationarity, and climate change",
+            "eid": "2-s2.0-85042916003",
+            "authors": [
+                {
+                    "scopus_id": "14022015000",
+                    "name": "Sun F.",
+                    "affiliation_id": [
+                        "60031150",
+                        "60073730",
+                        "60159889",
+                        "60106372",
+                        "60027363"
+                    ]
+                },
+                {
+                    "scopus_id": "7003663632",
+                    "name": "Roderick M.L.",
+                    "affiliation_id": [
+                        "60159889",
+                        "60106372",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7005853435",
+                    "name": "Farquhar G.D.",
+                    "affiliation_id": [
+                        "60159889",
+                        "60106372"
+                    ]
+                }
+            ],
+            "citations": 85,
+            "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
+            "issn": "00278424",
+            "cover_date": "2018-03-06",
+            "venue": "Journal",
+            "volume": "115",
+            "issue": "10",
+            "page_range": "2305-2310",
+            "doi": "10.1073/pnas.1705349115"
+        },
+        {
             "title": "Dependence of plastoquinol diffusion on the shape, size, and density of integral thylakoid proteins",
             "eid": "2-s2.0-0345170107",
             "authors": [
@@ -7256,49 +7299,6 @@
             "issue": "2-3",
             "page_range": "97-109",
             "doi": "10.1016/j.bbabio.2003.09.004"
-        },
-        {
-            "title": "Rainfall statistics, stationarity, and climate change",
-            "eid": "2-s2.0-85042916003",
-            "authors": [
-                {
-                    "scopus_id": "14022015000",
-                    "name": "Sun F.",
-                    "affiliation_id": [
-                        "60031150",
-                        "60073730",
-                        "60159889",
-                        "60106372",
-                        "60027363"
-                    ]
-                },
-                {
-                    "scopus_id": "7003663632",
-                    "name": "Roderick M.L.",
-                    "affiliation_id": [
-                        "60159889",
-                        "60106372",
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7005853435",
-                    "name": "Farquhar G.D.",
-                    "affiliation_id": [
-                        "60159889",
-                        "60106372"
-                    ]
-                }
-            ],
-            "citations": 84,
-            "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
-            "issn": "00278424",
-            "cover_date": "2018-03-06",
-            "venue": "Journal",
-            "volume": "115",
-            "issue": "10",
-            "page_range": "2305-2310",
-            "doi": "10.1073/pnas.1705349115"
         },
         {
             "title": "Terrestrial carbon storage at the LGM [10]",
@@ -7810,7 +7810,7 @@
                     "scopus_id": "7006163980",
                     "name": "Lorimer G.H.",
                     "affiliation_id": [
-                        "60020304"
+                        "60151558"
                     ]
                 },
                 {
@@ -8145,6 +8145,42 @@
             "doi": "10.1071/PP9940221"
         },
         {
+            "title": "Optimal plant water economy",
+            "eid": "2-s2.0-84991670305",
+            "authors": [
+                {
+                    "scopus_id": "7101745347",
+                    "name": "Buckley T.N.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6701785976",
+                    "name": "Sack L.",
+                    "affiliation_id": [
+                        "60027550"
+                    ]
+                },
+                {
+                    "scopus_id": "7005853435",
+                    "name": "Farquhar G.D.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 68,
+            "publication_name": "Plant Cell and Environment",
+            "issn": "01407791",
+            "cover_date": "2017-06-01",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "6",
+            "page_range": "881-896",
+            "doi": "10.1111/pce.12823"
+        },
+        {
             "title": "Ammonia volatilization from senescing leaves of maize",
             "eid": "2-s2.0-0000396057",
             "authors": [
@@ -8179,42 +8215,6 @@
             "issue": "4386",
             "page_range": "1257-1258",
             "doi": "10.1126/science.203.4386.1257"
-        },
-        {
-            "title": "Optimal plant water economy",
-            "eid": "2-s2.0-84991670305",
-            "authors": [
-                {
-                    "scopus_id": "7101745347",
-                    "name": "Buckley T.N.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6701785976",
-                    "name": "Sack L.",
-                    "affiliation_id": [
-                        "60027550"
-                    ]
-                },
-                {
-                    "scopus_id": "7005853435",
-                    "name": "Farquhar G.D.",
-                    "affiliation_id": [
-                        "60159889"
-                    ]
-                }
-            ],
-            "citations": 67,
-            "publication_name": "Plant Cell and Environment",
-            "issn": "01407791",
-            "cover_date": "2017-06-01",
-            "venue": "Journal",
-            "volume": "40",
-            "issue": "6",
-            "page_range": "881-896",
-            "doi": "10.1111/pce.12823"
         },
         {
             "title": "Evaluation of models of leaf water <sup>18</sup>O enrichment using measurements of spatial patterns of vein xylem water, leaf water and dry matter in maize leaves",
@@ -12482,6 +12482,65 @@
             "doi": "10.21273/jashs.122.2.226"
         },
         {
+            "title": "Ribulose 1,5-bisphosphate carboxylase/oxygenase activates O<inf>2</inf> by electron transfer",
+            "eid": "2-s2.0-85092322871",
+            "authors": [
+                {
+                    "scopus_id": "23093081100",
+                    "name": "Bathellier C.",
+                    "affiliation_id": [
+                        "60110862",
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "56140762200",
+                    "name": "Yu L.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7005853435",
+                    "name": "Farquhar G.D.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7004203856",
+                    "name": "Coote M.L.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006163980",
+                    "name": "Lorimer G.H.",
+                    "affiliation_id": [
+                        "60151558"
+                    ]
+                },
+                {
+                    "scopus_id": "7801438744",
+                    "name": "Tcherkez G.",
+                    "affiliation_id": [
+                        "60159889",
+                        "60012772"
+                    ]
+                }
+            ],
+            "citations": 22,
+            "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
+            "issn": "00278424",
+            "cover_date": "2020-09-29",
+            "venue": "Journal",
+            "volume": "117",
+            "issue": "39",
+            "page_range": "24234-24242",
+            "doi": "10.1073/pnas.2008824117"
+        },
+        {
             "title": "Using stable carbon isotopes to study C <inf>3</inf> and C <inf>4</inf> photosynthesis: Models and calculations",
             "eid": "2-s2.0-85049678956",
             "authors": [
@@ -12619,65 +12678,6 @@
             "issue": "9",
             "page_range": "1675-1685",
             "doi": "10.1016/0045-6535(96)00187-7"
-        },
-        {
-            "title": "Ribulose 1,5-bisphosphate carboxylase/oxygenase activates O<inf>2</inf> by electron transfer",
-            "eid": "2-s2.0-85092322871",
-            "authors": [
-                {
-                    "scopus_id": "23093081100",
-                    "name": "Bathellier C.",
-                    "affiliation_id": [
-                        "60110862",
-                        "60159889"
-                    ]
-                },
-                {
-                    "scopus_id": "56140762200",
-                    "name": "Yu L.J.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7005853435",
-                    "name": "Farquhar G.D.",
-                    "affiliation_id": [
-                        "60159889"
-                    ]
-                },
-                {
-                    "scopus_id": "7004203856",
-                    "name": "Coote M.L.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7006163980",
-                    "name": "Lorimer G.H.",
-                    "affiliation_id": [
-                        "60020304"
-                    ]
-                },
-                {
-                    "scopus_id": "7801438744",
-                    "name": "Tcherkez G.",
-                    "affiliation_id": [
-                        "60159889",
-                        "60012772"
-                    ]
-                }
-            ],
-            "citations": 21,
-            "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
-            "issn": "00278424",
-            "cover_date": "2020-09-29",
-            "venue": "Journal",
-            "volume": "117",
-            "issue": "39",
-            "page_range": "24234-24242",
-            "doi": "10.1073/pnas.2008824117"
         },
         {
             "title": "Two-source \u03b4<sup>18</sup>O Method to Validate the CO<sup>18</sup>O-photosynthetic discrimination model: Implications for mesophyll conductance",
@@ -15522,6 +15522,5 @@
             "$": "Environmental Science (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:37:35",
-    "c-score": null
+    "date fetched": "2024-07-12 18:53:15"
 }

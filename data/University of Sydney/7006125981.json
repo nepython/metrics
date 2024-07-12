@@ -23,7 +23,7 @@
                     ]
                 }
             ],
-            "citations": 6251,
+            "citations": 6267,
             "publication_name": "Gender and Society",
             "issn": "08912432",
             "cover_date": "2005-01-01",
@@ -67,7 +67,7 @@
                     ]
                 }
             ],
-            "citations": 494,
+            "citations": 495,
             "publication_name": "Men and Masculinities",
             "issn": "1097184X",
             "cover_date": "1999-01-01",
@@ -89,7 +89,7 @@
                     ]
                 }
             ],
-            "citations": 488,
+            "citations": 489,
             "publication_name": "Social Science and Medicine",
             "issn": "02779536",
             "cover_date": "2012-06-01",
@@ -133,7 +133,7 @@
                     ]
                 }
             ],
-            "citations": 376,
+            "citations": 378,
             "publication_name": "Theory and Society",
             "issn": "03042421",
             "cover_date": "1990-10-01",
@@ -155,7 +155,7 @@
                     ]
                 }
             ],
-            "citations": 361,
+            "citations": 362,
             "publication_name": "Theory and Society",
             "issn": "03042421",
             "cover_date": "1993-10-01",
@@ -177,7 +177,7 @@
                     ]
                 }
             ],
-            "citations": 350,
+            "citations": 351,
             "publication_name": "Signs",
             "issn": "00979740",
             "cover_date": "2005-03-01",
@@ -186,6 +186,26 @@
             "issue": "3",
             "page_range": "1801-1825",
             "doi": "10.1086/427525"
+        },
+        {
+            "title": "Teaching the boys: New research on masculinity, and gender strategies for schools",
+            "eid": "2-s2.0-0030527180",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.W.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 348,
+            "publication_name": "Teachers College Record",
+            "issn": "01614681",
+            "cover_date": "1996-01-01",
+            "venue": "Journal",
+            "volume": "98",
+            "issue": "2",
+            "page_range": null,
+            "doi": ""
         },
         {
             "title": "Good teachers on dangerous ground: Towards a new view of teacher quality and professionalism",
@@ -208,26 +228,6 @@
             "issue": "3",
             "page_range": "213-229",
             "doi": "10.1080/17508480902998421"
-        },
-        {
-            "title": "Teaching the boys: New research on masculinity, and gender strategies for schools",
-            "eid": "2-s2.0-0030527180",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R.W.",
-                    "affiliation_id": []
-                }
-            ],
-            "citations": 347,
-            "publication_name": "Teachers College Record",
-            "issn": "01614681",
-            "cover_date": "1996-01-01",
-            "venue": "Journal",
-            "volume": "98",
-            "issue": "2",
-            "page_range": null,
-            "doi": ""
         },
         {
             "title": "Why is classical theory classical?",
@@ -271,7 +271,7 @@
                     ]
                 }
             ],
-            "citations": 322,
+            "citations": 323,
             "publication_name": "Men and Masculinities",
             "issn": "1097184X",
             "cover_date": "2005-04-01",
@@ -486,7 +486,7 @@
                     ]
                 }
             ],
-            "citations": 183,
+            "citations": 184,
             "publication_name": "Theory and Society",
             "issn": "03042421",
             "cover_date": "2014-03-01",
@@ -854,7 +854,7 @@
                     ]
                 }
             ],
-            "citations": 138,
+            "citations": 139,
             "publication_name": "Revista Estudos Feministas",
             "issn": "0104026X",
             "cover_date": "2013-01-01",
@@ -887,6 +887,29 @@
             "doi": "10.1177/136248060200600104"
         },
         {
+            "title": "Masculinity construction and sports in boys' education: A framework for thinking about the issue",
+            "eid": "2-s2.0-47549088653",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 136,
+            "publication_name": "Sport, Education and Society",
+            "issn": "13573322",
+            "cover_date": "2008-05-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "2",
+            "page_range": "131-145",
+            "doi": "10.1080/13573320801957053"
+        },
+        {
             "title": "The northern theory of globalization",
             "eid": "2-s2.0-36148953319",
             "authors": [
@@ -910,29 +933,6 @@
             "doi": "10.1111/j.1467-9558.2007.00314.x"
         },
         {
-            "title": "Masculinity construction and sports in boys' education: A framework for thinking about the issue",
-            "eid": "2-s2.0-47549088653",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 134,
-            "publication_name": "Sport, Education and Society",
-            "issn": "13573322",
-            "cover_date": "2008-05-01",
-            "venue": "Journal",
-            "volume": "13",
-            "issue": "2",
-            "page_range": "131-145",
-            "doi": "10.1080/13573320801957053"
-        },
-        {
             "title": "Northern theory: The political geography of general social theory",
             "eid": "2-s2.0-33748850592",
             "authors": [
@@ -944,7 +944,7 @@
                     ]
                 }
             ],
-            "citations": 129,
+            "citations": 130,
             "publication_name": "Theory and Society",
             "issn": "03042421",
             "cover_date": "2006-04-01",
@@ -966,7 +966,7 @@
                     ]
                 }
             ],
-            "citations": 127,
+            "citations": 128,
             "publication_name": "Third World Quarterly",
             "issn": "01436597",
             "cover_date": "2011-09-01",
@@ -1031,7 +1031,7 @@
                     ]
                 }
             ],
-            "citations": 119,
+            "citations": 120,
             "publication_name": "Journal of Sociology",
             "issn": "14407833",
             "cover_date": "2009-01-01",
@@ -1117,7 +1117,7 @@
                     ]
                 }
             ],
-            "citations": 106,
+            "citations": 107,
             "publication_name": "Contemporary Sociology",
             "issn": "00943061",
             "cover_date": "2018-07-01",
@@ -1249,7 +1249,7 @@
                     ]
                 }
             ],
-            "citations": 90,
+            "citations": 92,
             "publication_name": "NORMA",
             "issn": "18902138",
             "cover_date": "2014-01-01",
@@ -1347,6 +1347,28 @@
             "doi": "10.1080/07294360.2017.1252311"
         },
         {
+            "title": "Why do market 'reforms' persistently increase inequality?",
+            "eid": "2-s2.0-84878970458",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 79,
+            "publication_name": "Discourse",
+            "issn": "01596306",
+            "cover_date": "2013-05-01",
+            "venue": "Journal",
+            "volume": "34",
+            "issue": "2",
+            "page_range": "279-285",
+            "doi": "10.1080/01596306.2013.770253"
+        },
+        {
             "title": "A whole new world: Remaking Masculinity in the Context of the Environmental Movement",
             "eid": "2-s2.0-84973832882",
             "authors": [
@@ -1367,28 +1389,6 @@
             "issue": "4",
             "page_range": "452-478",
             "doi": "10.1177/089124390004004003"
-        },
-        {
-            "title": "Why do market 'reforms' persistently increase inequality?",
-            "eid": "2-s2.0-84878970458",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 78,
-            "publication_name": "Discourse",
-            "issn": "01596306",
-            "cover_date": "2013-05-01",
-            "venue": "Journal",
-            "volume": "34",
-            "issue": "2",
-            "page_range": "279-285",
-            "doi": "10.1080/01596306.2013.770253"
         },
         {
             "title": "Introduction",
@@ -1440,7 +1440,7 @@
                     ]
                 }
             ],
-            "citations": 76,
+            "citations": 77,
             "publication_name": "Irish Journal of Sociology",
             "issn": "07916035",
             "cover_date": "2005-12-01",
@@ -1534,7 +1534,7 @@
                     ]
                 }
             ],
-            "citations": 59,
+            "citations": 60,
             "publication_name": "Sociological Review",
             "issn": "00380261",
             "cover_date": "2018-01-01",
@@ -2446,6 +2446,28 @@
             "doi": "10.1177/1363460709352723"
         },
         {
+            "title": "Transgender health: on a world scale",
+            "eid": "2-s2.0-85101657737",
+            "authors": [
+                {
+                    "scopus_id": "7006125981",
+                    "name": "Connell R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 20,
+            "publication_name": "Health Sociology Review",
+            "issn": "14461242",
+            "cover_date": "2021-01-01",
+            "venue": "Journal",
+            "volume": "30",
+            "issue": "1",
+            "page_range": "87-94",
+            "doi": "10.1080/14461242.2020.1868899"
+        },
+        {
             "title": "Working class homosexuality and hiv/aids prevention: Some recent research from sydney, australia",
             "eid": "2-s2.0-84963434637",
             "authors": [
@@ -2524,28 +2546,6 @@
             "issue": "3",
             "page_range": "288-291",
             "doi": "10.1177/0268580911404452"
-        },
-        {
-            "title": "Transgender health: on a world scale",
-            "eid": "2-s2.0-85101657737",
-            "authors": [
-                {
-                    "scopus_id": "7006125981",
-                    "name": "Connell R.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 19,
-            "publication_name": "Health Sociology Review",
-            "issn": "14461242",
-            "cover_date": "2021-01-01",
-            "venue": "Journal",
-            "volume": "30",
-            "issue": "1",
-            "page_range": "87-94",
-            "doi": "10.1080/14461242.2020.1868899"
         },
         {
             "title": "Canons and colonies: The global trajectory of sociology",
@@ -5051,6 +5051,5 @@
             "$": "Medicine (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:41:38",
-    "c-score": null
+    "date fetched": "2024-07-12 20:40:09"
 }

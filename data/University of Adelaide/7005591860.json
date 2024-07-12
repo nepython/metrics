@@ -28,7 +28,7 @@
                     ]
                 }
             ],
-            "citations": 2883,
+            "citations": 2889,
             "publication_name": "Journal of Climate &amp; Applied Meteorology",
             "issn": "",
             "cover_date": "1984-01-01",
@@ -228,7 +228,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 1044,
+            "citations": 1046,
             "publication_name": "Am J Sci",
             "issn": "",
             "cover_date": "1978-01-01",
@@ -335,7 +335,7 @@
                     ]
                 }
             ],
-            "citations": 654,
+            "citations": 655,
             "publication_name": "Water Resources Research",
             "issn": "00431397",
             "cover_date": "1998-01-01",
@@ -592,7 +592,7 @@
                     ]
                 }
             ],
-            "citations": 512,
+            "citations": 513,
             "publication_name": "Geophysical Research Letters",
             "issn": "00948276",
             "cover_date": "2000-05-01",
@@ -628,7 +628,7 @@
                     ]
                 }
             ],
-            "citations": 500,
+            "citations": 501,
             "publication_name": "Atmospheric Chemistry and Physics",
             "issn": "16807316",
             "cover_date": "2011-02-21",
@@ -943,7 +943,7 @@
                     ]
                 }
             ],
-            "citations": 324,
+            "citations": 325,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2006-10-20",
@@ -1151,7 +1151,7 @@
                     ]
                 }
             ],
-            "citations": 266,
+            "citations": 267,
             "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
             "issn": "00278424",
             "cover_date": "2007-09-25",
@@ -1530,7 +1530,7 @@
                     ]
                 }
             ],
-            "citations": 239,
+            "citations": 241,
             "publication_name": "Journal of Climate",
             "issn": "08948755",
             "cover_date": "2004-10-01",
@@ -1912,105 +1912,6 @@
             "doi": "10.1016/0016-7037(76)90176-9"
         },
         {
-            "title": "Behavior of tropopause height and atmospheric temperature in models, reanalyses, and observations: Decadal changes",
-            "eid": "2-s2.0-0347269079",
-            "authors": [
-                {
-                    "scopus_id": "7004222705",
-                    "name": "Santer B.D.",
-                    "affiliation_id": [
-                        "60098644"
-                    ]
-                },
-                {
-                    "scopus_id": "7004194999",
-                    "name": "Sausen R.",
-                    "affiliation_id": [
-                        "60007798"
-                    ]
-                },
-                {
-                    "scopus_id": "7005591860",
-                    "name": "Wigley T.M.L.",
-                    "affiliation_id": [
-                        "60021243"
-                    ]
-                },
-                {
-                    "scopus_id": "7401974644",
-                    "name": "Boyle J.S.",
-                    "affiliation_id": [
-                        "60098644"
-                    ]
-                },
-                {
-                    "scopus_id": "6506819877",
-                    "name": "AchutaRao K.",
-                    "affiliation_id": [
-                        "60098644"
-                    ]
-                },
-                {
-                    "scopus_id": "6602963031",
-                    "name": "Doutriaux C.",
-                    "affiliation_id": [
-                        "60098644"
-                    ]
-                },
-                {
-                    "scopus_id": "7404334532",
-                    "name": "Hansen J.E.",
-                    "affiliation_id": [
-                        "60106662"
-                    ]
-                },
-                {
-                    "scopus_id": "7006518289",
-                    "name": "Meehl G.A.",
-                    "affiliation_id": [
-                        "60106662"
-                    ]
-                },
-                {
-                    "scopus_id": "7003979342",
-                    "name": "Roeckner E.",
-                    "affiliation_id": [
-                        "60028564"
-                    ]
-                },
-                {
-                    "scopus_id": "6604021707",
-                    "name": "Ruedy R.",
-                    "affiliation_id": [
-                        "60106662"
-                    ]
-                },
-                {
-                    "scopus_id": "35561911800",
-                    "name": "Schmidt G.",
-                    "affiliation_id": [
-                        "60106662"
-                    ]
-                },
-                {
-                    "scopus_id": "57210518852",
-                    "name": "Taylor K.E.",
-                    "affiliation_id": [
-                        "60098644"
-                    ]
-                }
-            ],
-            "citations": 186,
-            "publication_name": "Journal of Geophysical Research: Atmospheres",
-            "issn": "01480227",
-            "cover_date": "2003-01-16",
-            "venue": "Journal",
-            "volume": "108",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1029/2002jd002258"
-        },
-        {
             "title": "A review of uncertainties in global temperature projections over the twenty-first century",
             "eid": "2-s2.0-48549085677",
             "authors": [
@@ -2116,7 +2017,7 @@
                     ]
                 }
             ],
-            "citations": 185,
+            "citations": 186,
             "publication_name": "Journal of Climate",
             "issn": "08948755",
             "cover_date": "2008-08-11",
@@ -2125,6 +2026,105 @@
             "issue": "11",
             "page_range": "2651-2663",
             "doi": "10.1175/2007JCLI2119.1"
+        },
+        {
+            "title": "Behavior of tropopause height and atmospheric temperature in models, reanalyses, and observations: Decadal changes",
+            "eid": "2-s2.0-0347269079",
+            "authors": [
+                {
+                    "scopus_id": "7004222705",
+                    "name": "Santer B.D.",
+                    "affiliation_id": [
+                        "60098644"
+                    ]
+                },
+                {
+                    "scopus_id": "7004194999",
+                    "name": "Sausen R.",
+                    "affiliation_id": [
+                        "60007798"
+                    ]
+                },
+                {
+                    "scopus_id": "7005591860",
+                    "name": "Wigley T.M.L.",
+                    "affiliation_id": [
+                        "60021243"
+                    ]
+                },
+                {
+                    "scopus_id": "7401974644",
+                    "name": "Boyle J.S.",
+                    "affiliation_id": [
+                        "60098644"
+                    ]
+                },
+                {
+                    "scopus_id": "6506819877",
+                    "name": "AchutaRao K.",
+                    "affiliation_id": [
+                        "60098644"
+                    ]
+                },
+                {
+                    "scopus_id": "6602963031",
+                    "name": "Doutriaux C.",
+                    "affiliation_id": [
+                        "60098644"
+                    ]
+                },
+                {
+                    "scopus_id": "7404334532",
+                    "name": "Hansen J.E.",
+                    "affiliation_id": [
+                        "60106662"
+                    ]
+                },
+                {
+                    "scopus_id": "7006518289",
+                    "name": "Meehl G.A.",
+                    "affiliation_id": [
+                        "60106662"
+                    ]
+                },
+                {
+                    "scopus_id": "7003979342",
+                    "name": "Roeckner E.",
+                    "affiliation_id": [
+                        "60028564"
+                    ]
+                },
+                {
+                    "scopus_id": "6604021707",
+                    "name": "Ruedy R.",
+                    "affiliation_id": [
+                        "60106662"
+                    ]
+                },
+                {
+                    "scopus_id": "35561911800",
+                    "name": "Schmidt G.",
+                    "affiliation_id": [
+                        "60106662"
+                    ]
+                },
+                {
+                    "scopus_id": "57210518852",
+                    "name": "Taylor K.E.",
+                    "affiliation_id": [
+                        "60098644"
+                    ]
+                }
+            ],
+            "citations": 186,
+            "publication_name": "Journal of Geophysical Research: Atmospheres",
+            "issn": "01480227",
+            "cover_date": "2003-01-16",
+            "venue": "Journal",
+            "volume": "108",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1029/2002jd002258"
         },
         {
             "title": "Spatial patterns of precipitation in England and Wales and a revised, homogeneous England and Wales precipitation series",
@@ -3838,6 +3838,42 @@
             "doi": "10.1038/360328a0"
         },
         {
+            "title": "Cross-dating methods in dendrochronology",
+            "eid": "2-s2.0-0023513544",
+            "authors": [
+                {
+                    "scopus_id": "7005591860",
+                    "name": "Wigley T.",
+                    "affiliation_id": [
+                        "60000112"
+                    ]
+                },
+                {
+                    "scopus_id": "55768583400",
+                    "name": "Jones P.",
+                    "affiliation_id": [
+                        "60000112"
+                    ]
+                },
+                {
+                    "scopus_id": "7003548766",
+                    "name": "Briffa K.",
+                    "affiliation_id": [
+                        "60000112"
+                    ]
+                }
+            ],
+            "citations": 102,
+            "publication_name": "Journal of Archaeological Science",
+            "issn": "03054403",
+            "cover_date": "1987-01-01",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "1",
+            "page_range": "51-64",
+            "doi": "10.1016/S0305-4403(87)80005-5"
+        },
+        {
             "title": "Precipitation in Britain: An analysis of area\u2010average data updated to 1989",
             "eid": "2-s2.0-0026267650",
             "authors": [
@@ -3872,42 +3908,6 @@
             "issue": "3",
             "page_range": "331-345",
             "doi": "10.1002/joc.3370110308"
-        },
-        {
-            "title": "Cross-dating methods in dendrochronology",
-            "eid": "2-s2.0-0023513544",
-            "authors": [
-                {
-                    "scopus_id": "7005591860",
-                    "name": "Wigley T.",
-                    "affiliation_id": [
-                        "60000112"
-                    ]
-                },
-                {
-                    "scopus_id": "55768583400",
-                    "name": "Jones P.",
-                    "affiliation_id": [
-                        "60000112"
-                    ]
-                },
-                {
-                    "scopus_id": "7003548766",
-                    "name": "Briffa K.",
-                    "affiliation_id": [
-                        "60000112"
-                    ]
-                }
-            ],
-            "citations": 101,
-            "publication_name": "Journal of Archaeological Science",
-            "issn": "03054403",
-            "cover_date": "1987-01-01",
-            "venue": "Journal",
-            "volume": "14",
-            "issue": "1",
-            "page_range": "51-64",
-            "doi": "10.1016/S0305-4403(87)80005-5"
         },
         {
             "title": "Accounting for the effects of volcanoes and ENSO in comparisons of modeled and observed temperature trends",
@@ -4118,7 +4118,7 @@
                     ]
                 }
             ],
-            "citations": 89,
+            "citations": 90,
             "publication_name": "Ecological Applications",
             "issn": "10510761",
             "cover_date": "2011-12-01",
@@ -4676,6 +4676,58 @@
             "doi": ""
         },
         {
+            "title": "Persistent Quaternary climate refugia are hospices for biodiversity in the Anthropocene",
+            "eid": "2-s2.0-85079013472",
+            "authors": [
+                {
+                    "scopus_id": "57199191975",
+                    "name": "Brown S.C.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7005591860",
+                    "name": "Wigley T.M.L.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60021243"
+                    ]
+                },
+                {
+                    "scopus_id": "6701853567",
+                    "name": "Otto-Bliesner B.L.",
+                    "affiliation_id": [
+                        "60021243"
+                    ]
+                },
+                {
+                    "scopus_id": "6602128406",
+                    "name": "Rahbek C.",
+                    "affiliation_id": [
+                        "60030840"
+                    ]
+                },
+                {
+                    "scopus_id": "14632151800",
+                    "name": "Fordham D.A.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60030840"
+                    ]
+                }
+            ],
+            "citations": 72,
+            "publication_name": "Nature Climate Change",
+            "issn": "1758678X",
+            "cover_date": "2020-03-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "3",
+            "page_range": "244-248",
+            "doi": "10.1038/s41558-019-0682-7"
+        },
+        {
             "title": "Anthropogenic influence on the autocorrelation structure of hemispheric- mean temperatures",
             "eid": "2-s2.0-0032573380",
             "authors": [
@@ -4739,58 +4791,6 @@
             "issue": "3",
             "page_range": "286-307",
             "doi": "10.1016/0033-5894(83)90014-5"
-        },
-        {
-            "title": "Persistent Quaternary climate refugia are hospices for biodiversity in the Anthropocene",
-            "eid": "2-s2.0-85079013472",
-            "authors": [
-                {
-                    "scopus_id": "57199191975",
-                    "name": "Brown S.C.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7005591860",
-                    "name": "Wigley T.M.L.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60021243"
-                    ]
-                },
-                {
-                    "scopus_id": "6701853567",
-                    "name": "Otto-Bliesner B.L.",
-                    "affiliation_id": [
-                        "60021243"
-                    ]
-                },
-                {
-                    "scopus_id": "6602128406",
-                    "name": "Rahbek C.",
-                    "affiliation_id": [
-                        "60030840"
-                    ]
-                },
-                {
-                    "scopus_id": "14632151800",
-                    "name": "Fordham D.A.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60030840"
-                    ]
-                }
-            ],
-            "citations": 71,
-            "publication_name": "Nature Climate Change",
-            "issn": "1758678X",
-            "cover_date": "2020-03-01",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "3",
-            "page_range": "244-248",
-            "doi": "10.1038/s41558-019-0682-7"
         },
         {
             "title": "Correlation methods in fingerprint detection studies",
@@ -6653,6 +6653,35 @@
             "doi": "10.1007/s10584-017-2119-5"
         },
         {
+            "title": "Dry years in south-east England since 1698 [6]",
+            "eid": "2-s2.0-0017578638",
+            "authors": [
+                {
+                    "scopus_id": "7005591860",
+                    "name": "Wigley T.",
+                    "affiliation_id": [
+                        "60000112"
+                    ]
+                },
+                {
+                    "scopus_id": "7102823761",
+                    "name": "Atkinson T.",
+                    "affiliation_id": [
+                        "60000112"
+                    ]
+                }
+            ],
+            "citations": 32,
+            "publication_name": "Nature",
+            "issn": "00280836",
+            "cover_date": "1977-12-01",
+            "venue": "Journal",
+            "volume": "265",
+            "issue": "5593",
+            "page_range": "431-434",
+            "doi": "10.1038/265431a0"
+        },
+        {
             "title": "Why decadal to century timescale palaeoclimate data are needed to explain present-day patterns of biological diversity and change",
             "eid": "2-s2.0-85032806225",
             "authors": [
@@ -6740,35 +6769,6 @@
             "issue": "141",
             "page_range": "341-351",
             "doi": "10.1017/S0022143000004196"
-        },
-        {
-            "title": "Dry years in south-east England since 1698 [6]",
-            "eid": "2-s2.0-0017578638",
-            "authors": [
-                {
-                    "scopus_id": "7005591860",
-                    "name": "Wigley T.",
-                    "affiliation_id": [
-                        "60000112"
-                    ]
-                },
-                {
-                    "scopus_id": "7102823761",
-                    "name": "Atkinson T.",
-                    "affiliation_id": [
-                        "60000112"
-                    ]
-                }
-            ],
-            "citations": 31,
-            "publication_name": "Nature",
-            "issn": "00280836",
-            "cover_date": "1977-12-01",
-            "venue": "Journal",
-            "volume": "265",
-            "issue": "5593",
-            "page_range": "431-434",
-            "doi": "10.1038/265431a0"
         },
         {
             "title": "Quantitative analyses of modern pollen-climate relationships in new zealand indigenous forests",
@@ -9190,28 +9190,6 @@
             "doi": "10.1007/s10584-021-03249-z"
         },
         {
-            "title": "How important are carbon cycle uncertainties",
-            "eid": "2-s2.0-85082254756",
-            "authors": [
-                {
-                    "scopus_id": "7005591860",
-                    "name": "Wigley T.M.L.",
-                    "affiliation_id": [
-                        "60015590"
-                    ]
-                }
-            ],
-            "citations": 6,
-            "publication_name": "Climate Change and the Agenda for Research",
-            "issn": "",
-            "cover_date": "2019-01-01",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "169-191",
-            "doi": "10.4324/9780429041808-11"
-        },
-        {
             "title": "Response",
             "eid": "2-s2.0-70449815362",
             "authors": [
@@ -9307,7 +9285,7 @@
                     ]
                 }
             ],
-            "citations": 6,
+            "citations": 7,
             "publication_name": "Eos",
             "issn": "00963941",
             "cover_date": "2003-11-04",
@@ -9316,6 +9294,28 @@
             "issue": "44",
             "page_range": "473-474",
             "doi": "10.1029/2003eo440008"
+        },
+        {
+            "title": "How important are carbon cycle uncertainties",
+            "eid": "2-s2.0-85082254756",
+            "authors": [
+                {
+                    "scopus_id": "7005591860",
+                    "name": "Wigley T.M.L.",
+                    "affiliation_id": [
+                        "60015590"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Climate Change and the Agenda for Research",
+            "issn": "",
+            "cover_date": "2019-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "169-191",
+            "doi": "10.4324/9780429041808-11"
         },
         {
             "title": "Climatic interpretation of \u03b4<sup>18</sup>O and \u03b4D in tree rings",
@@ -11146,6 +11146,5 @@
             "$": "Multidisciplinary"
         }
     ],
-    "date fetched": "2024-06-30 08:33:52",
-    "c-score": null
+    "date fetched": "2024-07-12 18:42:06"
 }

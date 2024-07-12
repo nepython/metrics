@@ -134,7 +134,7 @@
                     ]
                 }
             ],
-            "citations": 1970,
+            "citations": 1984,
             "publication_name": "New England Journal of Medicine",
             "issn": "00284793",
             "cover_date": "2004-02-26",
@@ -370,7 +370,7 @@
                     ]
                 }
             ],
-            "citations": 1062,
+            "citations": 1063,
             "publication_name": "Gastroenterology",
             "issn": "00165085",
             "cover_date": "2004-01-01",
@@ -413,7 +413,7 @@
                     ]
                 }
             ],
-            "citations": 1056,
+            "citations": 1057,
             "publication_name": "Gut",
             "issn": "00175749",
             "cover_date": "1999-01-01",
@@ -534,7 +534,7 @@
                     ]
                 }
             ],
-            "citations": 897,
+            "citations": 899,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2017-03-25",
@@ -620,7 +620,7 @@
                     ]
                 }
             ],
-            "citations": 826,
+            "citations": 827,
             "publication_name": "Gut",
             "issn": "00175749",
             "cover_date": "2004-01-01",
@@ -972,7 +972,7 @@
                     ]
                 }
             ],
-            "citations": 634,
+            "citations": 636,
             "publication_name": "Gastroenterology",
             "issn": "00165085",
             "cover_date": "2013-01-01",
@@ -1059,7 +1059,7 @@
                     ]
                 }
             ],
-            "citations": 564,
+            "citations": 568,
             "publication_name": "Gastroenterology",
             "issn": "00165085",
             "cover_date": "2005-01-01",
@@ -1519,7 +1519,7 @@
                     ]
                 }
             ],
-            "citations": 475,
+            "citations": 476,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "1994-05-21",
@@ -1528,6 +1528,50 @@
             "issue": "8908",
             "page_range": "1249-1252",
             "doi": "10.1016/S0140-6736(94)92150-4"
+        },
+        {
+            "title": "Bone marrow toxicity caused by azathioprine in inflammatory bowel disease: 27 years of experience",
+            "eid": "2-s2.0-0027164795",
+            "authors": [
+                {
+                    "scopus_id": "6701347396",
+                    "name": "Connell W.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.",
+                    "affiliation_id": [
+                        "60022734",
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7403187286",
+                    "name": "Ritchie J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7102104770",
+                    "name": "Lennard-Jones J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 465,
+            "publication_name": "Gut",
+            "issn": "00175749",
+            "cover_date": "1993-01-01",
+            "venue": "Journal",
+            "volume": "34",
+            "issue": "8",
+            "page_range": "1081-1085",
+            "doi": "10.1136/gut.34.8.1081"
         },
         {
             "title": "Mechanisms of action of probiotics: Recent advances",
@@ -1579,50 +1623,6 @@
             "issue": "2",
             "page_range": "300-310",
             "doi": "10.1002/ibd.20602"
-        },
-        {
-            "title": "Bone marrow toxicity caused by azathioprine in inflammatory bowel disease: 27 years of experience",
-            "eid": "2-s2.0-0027164795",
-            "authors": [
-                {
-                    "scopus_id": "6701347396",
-                    "name": "Connell W.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.",
-                    "affiliation_id": [
-                        "60022734",
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7403187286",
-                    "name": "Ritchie J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7102104770",
-                    "name": "Lennard-Jones J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 461,
-            "publication_name": "Gut",
-            "issn": "00175749",
-            "cover_date": "1993-01-01",
-            "venue": "Journal",
-            "volume": "34",
-            "issue": "8",
-            "page_range": "1081-1085",
-            "doi": "10.1136/gut.34.8.1081"
         },
         {
             "title": "Crohn's disease management after intestinal resection: A randomised trial",
@@ -1937,7 +1937,7 @@
                     ]
                 }
             ],
-            "citations": 436,
+            "citations": 437,
             "publication_name": "Gastroenterology",
             "issn": "00165085",
             "cover_date": "2005-01-01",
@@ -2145,7 +2145,7 @@
                     "scopus_id": "26643536100",
                     "name": "Herfarth H.",
                     "affiliation_id": [
-                        "60025111"
+                        "60020469"
                     ]
                 },
                 {
@@ -2629,7 +2629,7 @@
                     ]
                 }
             ],
-            "citations": 335,
+            "citations": 336,
             "publication_name": "Gut",
             "issn": "00175749",
             "cover_date": "2009-01-01",
@@ -2714,7 +2714,7 @@
                     ]
                 }
             ],
-            "citations": 329,
+            "citations": 331,
             "publication_name": "Gastroenterology",
             "issn": "00165085",
             "cover_date": "2007-01-01",
@@ -2794,7 +2794,7 @@
                     ]
                 }
             ],
-            "citations": 324,
+            "citations": 325,
             "publication_name": "Lancet",
             "issn": "01406736",
             "cover_date": "1996-06-15",
@@ -2912,7 +2912,7 @@
                     ]
                 }
             ],
-            "citations": 318,
+            "citations": 320,
             "publication_name": "Journal of Crohn's and Colitis",
             "issn": "18739946",
             "cover_date": "2017-10-01",
@@ -3016,7 +3016,7 @@
                     ]
                 }
             ],
-            "citations": 301,
+            "citations": 302,
             "publication_name": "Gut",
             "issn": "00175749",
             "cover_date": "2014-01-01",
@@ -3902,6 +3902,49 @@
             "doi": ""
         },
         {
+            "title": "Haemorrhoids: Pathology, pathophysiology and aetiology",
+            "eid": "2-s2.0-0028309511",
+            "authors": [
+                {
+                    "scopus_id": "7003619118",
+                    "name": "Loder P.B.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "59157648000",
+                    "name": "Nicholls R.J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7404241438",
+                    "name": "Phillips R.K.S.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 282,
+            "publication_name": "British Journal of Surgery",
+            "issn": "00071323",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "81",
+            "issue": "7",
+            "page_range": "946-954",
+            "doi": "10.1002/bjs.1800810707"
+        },
+        {
             "title": "Most dysplasia in ulcerative colitis is visible at colonoscopy",
             "eid": "2-s2.0-4444253821",
             "authors": [
@@ -3958,49 +4001,6 @@
             "issue": "3",
             "page_range": "334-339",
             "doi": "10.1016/S0016-5107(04)01710-9"
-        },
-        {
-            "title": "Haemorrhoids: Pathology, pathophysiology and aetiology",
-            "eid": "2-s2.0-0028309511",
-            "authors": [
-                {
-                    "scopus_id": "7003619118",
-                    "name": "Loder P.B.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "59157648000",
-                    "name": "Nicholls R.J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7404241438",
-                    "name": "Phillips R.K.S.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 281,
-            "publication_name": "British Journal of Surgery",
-            "issn": "00071323",
-            "cover_date": "1994-01-01",
-            "venue": "Journal",
-            "volume": "81",
-            "issue": "7",
-            "page_range": "946-954",
-            "doi": "10.1002/bjs.1800810707"
         },
         {
             "title": "Development of the first disability index for inflammatory bowel disease based on the international classification of functioning, disability and health",
@@ -4555,7 +4555,7 @@
                     ]
                 }
             ],
-            "citations": 273,
+            "citations": 275,
             "publication_name": "Gastroenterology",
             "issn": "00165085",
             "cover_date": "2001-01-01",
@@ -4683,7 +4683,7 @@
                     ]
                 }
             ],
-            "citations": 255,
+            "citations": 257,
             "publication_name": "Clinical Gastroenterology and Hepatology",
             "issn": "15423565",
             "cover_date": "2007-01-01",
@@ -5065,7 +5065,7 @@
                     ]
                 }
             ],
-            "citations": 241,
+            "citations": 242,
             "publication_name": "Neurogastroenterology and Motility",
             "issn": "13501925",
             "cover_date": "2011-08-01",
@@ -6021,7 +6021,7 @@
                     ]
                 }
             ],
-            "citations": 203,
+            "citations": 204,
             "publication_name": "Alimentary Pharmacology and Therapeutics",
             "issn": "02692813",
             "cover_date": "2008-10-01",
@@ -6556,7 +6556,7 @@
                     ]
                 }
             ],
-            "citations": 188,
+            "citations": 189,
             "publication_name": "Inflammatory Bowel Diseases",
             "issn": "10780998",
             "cover_date": "2015-04-03",
@@ -6610,6 +6610,50 @@
             "doi": "10.1016/0020-7292(93)90514-W"
         },
         {
+            "title": "Urbanization and the gut microbiota in health and inflammatory bowel disease",
+            "eid": "2-s2.0-85045653616",
+            "authors": [
+                {
+                    "scopus_id": "56666992000",
+                    "name": "Zuo T.",
+                    "affiliation_id": [
+                        "60002798"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60001522"
+                    ]
+                },
+                {
+                    "scopus_id": "7102945104",
+                    "name": "Colombel J.F.",
+                    "affiliation_id": [
+                        "60012981"
+                    ]
+                },
+                {
+                    "scopus_id": "16319816500",
+                    "name": "Ng S.C.",
+                    "affiliation_id": [
+                        "60002798",
+                        "60086464"
+                    ]
+                }
+            ],
+            "citations": 187,
+            "publication_name": "Nature Reviews Gastroenterology and Hepatology",
+            "issn": "17595045",
+            "cover_date": "2018-07-01",
+            "venue": "Journal",
+            "volume": "15",
+            "issue": "7",
+            "page_range": "440-452",
+            "doi": "10.1038/s41575-018-0003-z"
+        },
+        {
             "title": "Medium-term results of permanent sacral nerve stimulation for faecal incontinence",
             "eid": "2-s2.0-0036066263",
             "authors": [
@@ -6660,50 +6704,6 @@
             "doi": "10.1046/j.1365-2168.2002.02119.x"
         },
         {
-            "title": "Urbanization and the gut microbiota in health and inflammatory bowel disease",
-            "eid": "2-s2.0-85045653616",
-            "authors": [
-                {
-                    "scopus_id": "56666992000",
-                    "name": "Zuo T.",
-                    "affiliation_id": [
-                        "60002798"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60001522"
-                    ]
-                },
-                {
-                    "scopus_id": "7102945104",
-                    "name": "Colombel J.F.",
-                    "affiliation_id": [
-                        "60012981"
-                    ]
-                },
-                {
-                    "scopus_id": "16319816500",
-                    "name": "Ng S.C.",
-                    "affiliation_id": [
-                        "60002798",
-                        "60086464"
-                    ]
-                }
-            ],
-            "citations": 184,
-            "publication_name": "Nature Reviews Gastroenterology and Hepatology",
-            "issn": "17595045",
-            "cover_date": "2018-07-01",
-            "venue": "Journal",
-            "volume": "15",
-            "issue": "7",
-            "page_range": "440-452",
-            "doi": "10.1038/s41575-018-0003-z"
-        },
-        {
             "title": "The clinical course of fistulating Crohn's disease",
             "eid": "2-s2.0-0038528406",
             "authors": [
@@ -6751,7 +6751,7 @@
                     ]
                 }
             ],
-            "citations": 184,
+            "citations": 186,
             "publication_name": "Alimentary Pharmacology and Therapeutics",
             "issn": "02692813",
             "cover_date": "2003-05-01",
@@ -7081,136 +7081,6 @@
             "doi": "10.1016/S0009-9260(05)81819-7"
         },
         {
-            "title": "Smokers with active Crohn's disease have a clinically relevant dysbiosis of the gastrointestinal microbiota",
-            "eid": "2-s2.0-84861331645",
-            "authors": [
-                {
-                    "scopus_id": "42360922000",
-                    "name": "Benjamin J.L.",
-                    "affiliation_id": [
-                        "60177635"
-                    ]
-                },
-                {
-                    "scopus_id": "35080375400",
-                    "name": "Hedin C.R.H.",
-                    "affiliation_id": [
-                        "60177635"
-                    ]
-                },
-                {
-                    "scopus_id": "14521152000",
-                    "name": "Koutsoumpas A.",
-                    "affiliation_id": [
-                        "60177635"
-                    ]
-                },
-                {
-                    "scopus_id": "16319816500",
-                    "name": "Ng S.C.",
-                    "affiliation_id": [
-                        "60015150",
-                        "60024787"
-                    ]
-                },
-                {
-                    "scopus_id": "15751173300",
-                    "name": "McCarthy N.E.",
-                    "affiliation_id": [
-                        "60021435"
-                    ]
-                },
-                {
-                    "scopus_id": "8964026000",
-                    "name": "Prescott N.J.",
-                    "affiliation_id": [
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "24076883800",
-                    "name": "Pessoa-Lopes P.",
-                    "affiliation_id": [
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "7004609303",
-                    "name": "Mathew C.G.",
-                    "affiliation_id": [
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "7202371835",
-                    "name": "Sanderson J.",
-                    "affiliation_id": [
-                        "60177635"
-                    ]
-                },
-                {
-                    "scopus_id": "7201706094",
-                    "name": "Hart A.L.",
-                    "affiliation_id": [
-                        "60015150"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60015150",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7202603546",
-                    "name": "Knight S.C.",
-                    "affiliation_id": [
-                        "60015150"
-                    ]
-                },
-                {
-                    "scopus_id": "7203066754",
-                    "name": "Forbes A.",
-                    "affiliation_id": [
-                        "60022148"
-                    ]
-                },
-                {
-                    "scopus_id": "7003499380",
-                    "name": "Stagg A.J.",
-                    "affiliation_id": [
-                        "60021435"
-                    ]
-                },
-                {
-                    "scopus_id": "7201432421",
-                    "name": "Lindsay J.O.",
-                    "affiliation_id": [
-                        "60021435",
-                        "60159931"
-                    ]
-                },
-                {
-                    "scopus_id": "7005842086",
-                    "name": "Whelan K.",
-                    "affiliation_id": [
-                        "60177635"
-                    ]
-                }
-            ],
-            "citations": 172,
-            "publication_name": "Inflammatory Bowel Diseases",
-            "issn": "10780998",
-            "cover_date": "2012-06-01",
-            "venue": "Journal",
-            "volume": "18",
-            "issue": "6",
-            "page_range": "1092-1100",
-            "doi": "10.1002/ibd.21864"
-        },
-        {
             "title": "Dietary Guidance From the International Organization for the Study of Inflammatory Bowel Diseases",
             "eid": "2-s2.0-85083427765",
             "authors": [
@@ -7377,7 +7247,7 @@
                     ]
                 }
             ],
-            "citations": 169,
+            "citations": 172,
             "publication_name": "Clinical Gastroenterology and Hepatology",
             "issn": "15423565",
             "cover_date": "2020-05-01",
@@ -7386,6 +7256,136 @@
             "issue": "6",
             "page_range": "1381-1392",
             "doi": "10.1016/j.cgh.2020.01.046"
+        },
+        {
+            "title": "Smokers with active Crohn's disease have a clinically relevant dysbiosis of the gastrointestinal microbiota",
+            "eid": "2-s2.0-84861331645",
+            "authors": [
+                {
+                    "scopus_id": "42360922000",
+                    "name": "Benjamin J.L.",
+                    "affiliation_id": [
+                        "60177635"
+                    ]
+                },
+                {
+                    "scopus_id": "35080375400",
+                    "name": "Hedin C.R.H.",
+                    "affiliation_id": [
+                        "60177635"
+                    ]
+                },
+                {
+                    "scopus_id": "14521152000",
+                    "name": "Koutsoumpas A.",
+                    "affiliation_id": [
+                        "60177635"
+                    ]
+                },
+                {
+                    "scopus_id": "16319816500",
+                    "name": "Ng S.C.",
+                    "affiliation_id": [
+                        "60015150",
+                        "60024787"
+                    ]
+                },
+                {
+                    "scopus_id": "15751173300",
+                    "name": "McCarthy N.E.",
+                    "affiliation_id": [
+                        "60021435"
+                    ]
+                },
+                {
+                    "scopus_id": "8964026000",
+                    "name": "Prescott N.J.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "24076883800",
+                    "name": "Pessoa-Lopes P.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7004609303",
+                    "name": "Mathew C.G.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7202371835",
+                    "name": "Sanderson J.",
+                    "affiliation_id": [
+                        "60177635"
+                    ]
+                },
+                {
+                    "scopus_id": "7201706094",
+                    "name": "Hart A.L.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60015150",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7202603546",
+                    "name": "Knight S.C.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "7203066754",
+                    "name": "Forbes A.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "7003499380",
+                    "name": "Stagg A.J.",
+                    "affiliation_id": [
+                        "60021435"
+                    ]
+                },
+                {
+                    "scopus_id": "7201432421",
+                    "name": "Lindsay J.O.",
+                    "affiliation_id": [
+                        "60021435",
+                        "60159931"
+                    ]
+                },
+                {
+                    "scopus_id": "7005842086",
+                    "name": "Whelan K.",
+                    "affiliation_id": [
+                        "60177635"
+                    ]
+                }
+            ],
+            "citations": 172,
+            "publication_name": "Inflammatory Bowel Diseases",
+            "issn": "10780998",
+            "cover_date": "2012-06-01",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "6",
+            "page_range": "1092-1100",
+            "doi": "10.1002/ibd.21864"
         },
         {
             "title": "Population Density and Risk of Inflammatory Bowel Disease: A Prospective Population-Based Study in 13 Countries or Regions in Asia-Pacific",
@@ -7714,7 +7714,7 @@
                     ]
                 }
             ],
-            "citations": 169,
+            "citations": 170,
             "publication_name": "American Journal of Gastroenterology",
             "issn": "00029270",
             "cover_date": "2019-01-01",
@@ -8356,6 +8356,71 @@
             "doi": "10.1111/j.1365-2036.2007.03361.x"
         },
         {
+            "title": "Multicenter, 4-week, double-blind, randomized, placebo-controlled trial of sodium picosulfate in patients with chronic constipation",
+            "eid": "2-s2.0-77950519743",
+            "authors": [
+                {
+                    "scopus_id": "35332854800",
+                    "name": "Mueller-Lissner S.",
+                    "affiliation_id": [
+                        "60026245"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "7102576130",
+                    "name": "Wald A.",
+                    "affiliation_id": [
+                        "60025553"
+                    ]
+                },
+                {
+                    "scopus_id": "23492632500",
+                    "name": "Hinkel U.",
+                    "affiliation_id": [
+                        "60011807"
+                    ]
+                },
+                {
+                    "scopus_id": "36059294600",
+                    "name": "Koehler U.",
+                    "affiliation_id": [
+                        "60011807"
+                    ]
+                },
+                {
+                    "scopus_id": "36059980600",
+                    "name": "Richter E.",
+                    "affiliation_id": [
+                        "60011807"
+                    ]
+                },
+                {
+                    "scopus_id": "6602476231",
+                    "name": "Bubeck J.",
+                    "affiliation_id": [
+                        "60011807"
+                    ]
+                }
+            ],
+            "citations": 150,
+            "publication_name": "American Journal of Gastroenterology",
+            "issn": "00029270",
+            "cover_date": "2010-04-01",
+            "venue": "Journal",
+            "volume": "105",
+            "issue": "4",
+            "page_range": "897-903",
+            "doi": "10.1038/ajg.2010.41"
+        },
+        {
             "title": "Oral Bisacodyl Is Effective and Well-Tolerated in Patients With Chronic Constipation",
             "eid": "2-s2.0-80955180121",
             "authors": [
@@ -8412,71 +8477,6 @@
             "issue": "7",
             "page_range": "577-583",
             "doi": "10.1016/j.cgh.2011.03.026"
-        },
-        {
-            "title": "Multicenter, 4-week, double-blind, randomized, placebo-controlled trial of sodium picosulfate in patients with chronic constipation",
-            "eid": "2-s2.0-77950519743",
-            "authors": [
-                {
-                    "scopus_id": "35332854800",
-                    "name": "Mueller-Lissner S.",
-                    "affiliation_id": [
-                        "60026245"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60015150"
-                    ]
-                },
-                {
-                    "scopus_id": "7102576130",
-                    "name": "Wald A.",
-                    "affiliation_id": [
-                        "60025553"
-                    ]
-                },
-                {
-                    "scopus_id": "23492632500",
-                    "name": "Hinkel U.",
-                    "affiliation_id": [
-                        "60011807"
-                    ]
-                },
-                {
-                    "scopus_id": "36059294600",
-                    "name": "Koehler U.",
-                    "affiliation_id": [
-                        "60011807"
-                    ]
-                },
-                {
-                    "scopus_id": "36059980600",
-                    "name": "Richter E.",
-                    "affiliation_id": [
-                        "60011807"
-                    ]
-                },
-                {
-                    "scopus_id": "6602476231",
-                    "name": "Bubeck J.",
-                    "affiliation_id": [
-                        "60011807"
-                    ]
-                }
-            ],
-            "citations": 149,
-            "publication_name": "American Journal of Gastroenterology",
-            "issn": "00029270",
-            "cover_date": "2010-04-01",
-            "venue": "Journal",
-            "volume": "105",
-            "issue": "4",
-            "page_range": "897-903",
-            "doi": "10.1038/ajg.2010.41"
         },
         {
             "title": "Permanent sacral nerve stimulation for treatment of idiopathic constipation",
@@ -9021,50 +9021,6 @@
             "doi": "10.1136/gut.40.1.9"
         },
         {
-            "title": "Double-blind crossover study of sacral nerve stimulation for fecal incontinence",
-            "eid": "2-s2.0-0034059214",
-            "authors": [
-                {
-                    "scopus_id": "57207954920",
-                    "name": "Vaizey C.J.",
-                    "affiliation_id": [
-                        "60022734",
-                        "60031636"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "16937112400",
-                    "name": "Roy A.J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "59157648000",
-                    "name": "Nicholls R.J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 144,
-            "publication_name": "Diseases of the Colon and Rectum",
-            "issn": "00123706",
-            "cover_date": "2000-01-01",
-            "venue": "Journal",
-            "volume": "43",
-            "issue": "3",
-            "page_range": "298-302",
-            "doi": "10.1007/BF02258292"
-        },
-        {
             "title": "Response of fistulating Crohn's disease to infliximab treatment assessed by magnetic resonance imaging",
             "eid": "2-s2.0-0037325450",
             "authors": [
@@ -9112,7 +9068,7 @@
                     ]
                 }
             ],
-            "citations": 142,
+            "citations": 144,
             "publication_name": "Alimentary Pharmacology and Therapeutics",
             "issn": "02692813",
             "cover_date": "2003-02-01",
@@ -9121,6 +9077,50 @@
             "issue": "3",
             "page_range": "387-393",
             "doi": "10.1046/j.1365-2036.2003.01427.x"
+        },
+        {
+            "title": "Double-blind crossover study of sacral nerve stimulation for fecal incontinence",
+            "eid": "2-s2.0-0034059214",
+            "authors": [
+                {
+                    "scopus_id": "57207954920",
+                    "name": "Vaizey C.J.",
+                    "affiliation_id": [
+                        "60022734",
+                        "60031636"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "16937112400",
+                    "name": "Roy A.J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "59157648000",
+                    "name": "Nicholls R.J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 144,
+            "publication_name": "Diseases of the Colon and Rectum",
+            "issn": "00123706",
+            "cover_date": "2000-01-01",
+            "venue": "Journal",
+            "volume": "43",
+            "issue": "3",
+            "page_range": "298-302",
+            "doi": "10.1007/BF02258292"
         },
         {
             "title": "Unsuspected sphincter damage following childbirth revealed by anal endosonography",
@@ -9458,6 +9458,63 @@
             "doi": "10.1002/ibd.22977"
         },
         {
+            "title": "Prevalence of bowel dysfunction in patients with multiple sclerosis and bladder dysfunction",
+            "eid": "2-s2.0-0028859109",
+            "authors": [
+                {
+                    "scopus_id": "16410794700",
+                    "name": "Chia Y.W.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7203060047",
+                    "name": "Fowler C.J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7402290951",
+                    "name": "Henry M.M.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7005538075",
+                    "name": "Lemieux M.C.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7101990692",
+                    "name": "Swash M.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 129,
+            "publication_name": "Journal of Neurology",
+            "issn": "03405354",
+            "cover_date": "1995-02-01",
+            "venue": "Journal",
+            "volume": "242",
+            "issue": "2",
+            "page_range": "105-108",
+            "doi": "10.1007/BF00887825"
+        },
+        {
             "title": "Association between specific mucosa-associated microbiota in Crohn's disease at the time of resection and subsequent disease recurrence: A pilot study",
             "eid": "2-s2.0-84921481734",
             "authors": [
@@ -9557,63 +9614,6 @@
             "issue": "2",
             "page_range": "268-278",
             "doi": "10.1111/jgh.12694"
-        },
-        {
-            "title": "Prevalence of bowel dysfunction in patients with multiple sclerosis and bladder dysfunction",
-            "eid": "2-s2.0-0028859109",
-            "authors": [
-                {
-                    "scopus_id": "16410794700",
-                    "name": "Chia Y.W.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7203060047",
-                    "name": "Fowler C.J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7402290951",
-                    "name": "Henry M.M.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7005538075",
-                    "name": "Lemieux M.C.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7101990692",
-                    "name": "Swash M.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 128,
-            "publication_name": "Journal of Neurology",
-            "issn": "03405354",
-            "cover_date": "1995-02-01",
-            "venue": "Journal",
-            "volume": "242",
-            "issue": "2",
-            "page_range": "105-108",
-            "doi": "10.1007/BF00887825"
         },
         {
             "title": "Vasoactive intestinal polypeptide levels in sigmoid colon in idiopathic constipation and diverticular disease",
@@ -9753,7 +9753,7 @@
                     ]
                 }
             ],
-            "citations": 126,
+            "citations": 127,
             "publication_name": "International Journal of Colorectal Disease",
             "issn": "01791958",
             "cover_date": "1992-03-01",
@@ -10244,6 +10244,51 @@
             "doi": "10.1136/gutjnl-2015-310151"
         },
         {
+            "title": "Proteus spp. as putative gastrointestinal pathogens",
+            "eid": "2-s2.0-85048719643",
+            "authors": [
+                {
+                    "scopus_id": "56457433900",
+                    "name": "Hamilton A.L.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "16319816500",
+                    "name": "Ng S.C.",
+                    "affiliation_id": [
+                        "60086464"
+                    ]
+                },
+                {
+                    "scopus_id": "7201675268",
+                    "name": "Morrison M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 119,
+            "publication_name": "Clinical Microbiology Reviews",
+            "issn": "08938512",
+            "cover_date": "2018-07-01",
+            "venue": "Journal",
+            "volume": "31",
+            "issue": "3",
+            "page_range": null,
+            "doi": "10.1128/CMR.00085-17"
+        },
+        {
             "title": "Proctographic features of anismus",
             "eid": "2-s2.0-0028884770",
             "authors": [
@@ -10285,51 +10330,6 @@
             "issue": "3",
             "page_range": "679-682",
             "doi": "10.1148/radiology.197.3.7480738"
-        },
-        {
-            "title": "Proteus spp. as putative gastrointestinal pathogens",
-            "eid": "2-s2.0-85048719643",
-            "authors": [
-                {
-                    "scopus_id": "56457433900",
-                    "name": "Hamilton A.L.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "16319816500",
-                    "name": "Ng S.C.",
-                    "affiliation_id": [
-                        "60086464"
-                    ]
-                },
-                {
-                    "scopus_id": "7201675268",
-                    "name": "Morrison M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 118,
-            "publication_name": "Clinical Microbiology Reviews",
-            "issn": "08938512",
-            "cover_date": "2018-07-01",
-            "venue": "Journal",
-            "volume": "31",
-            "issue": "3",
-            "page_range": null,
-            "doi": "10.1128/CMR.00085-17"
         },
         {
             "title": "Long-term MRI-guided combined anti-TNF-\u03b1 and thiopurine therapy for crohn's perianal fistulas",
@@ -10474,7 +10474,7 @@
                     ]
                 }
             ],
-            "citations": 115,
+            "citations": 116,
             "publication_name": "Gut",
             "issn": "00175749",
             "cover_date": "1995-01-01",
@@ -10983,6 +10983,77 @@
             "doi": "10.1046/j.1365-2168.1998.00575.x"
         },
         {
+            "title": "Disturbed gastric emptying in the short bowel syndrome. Evidence for a 'colonic brake'",
+            "eid": "2-s2.0-0027199215",
+            "authors": [
+                {
+                    "scopus_id": "35496565000",
+                    "name": "Nightingale J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7004386074",
+                    "name": "Van Der Sijp J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7401776173",
+                    "name": "Morris G.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7402985206",
+                    "name": "Walker E.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7005321964",
+                    "name": "Mather S.",
+                    "affiliation_id": [
+                        "60004093"
+                    ]
+                },
+                {
+                    "scopus_id": "7102818900",
+                    "name": "Britton K.",
+                    "affiliation_id": [
+                        "60004093"
+                    ]
+                },
+                {
+                    "scopus_id": "7102104770",
+                    "name": "Lennard-Jones J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 109,
+            "publication_name": "Gut",
+            "issn": "00175749",
+            "cover_date": "1993-01-01",
+            "venue": "Journal",
+            "volume": "34",
+            "issue": "9",
+            "page_range": "1171-1176",
+            "doi": "10.1136/gut.34.9.1171"
+        },
+        {
             "title": "Donor recruitment for fecal microbiota transplantation",
             "eid": "2-s2.0-84932108691",
             "authors": [
@@ -11115,163 +11186,6 @@
             "doi": "10.1136/bmj.316.7130.528"
         },
         {
-            "title": "Disturbed gastric emptying in the short bowel syndrome. Evidence for a 'colonic brake'",
-            "eid": "2-s2.0-0027199215",
-            "authors": [
-                {
-                    "scopus_id": "35496565000",
-                    "name": "Nightingale J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7004386074",
-                    "name": "Van Der Sijp J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7401776173",
-                    "name": "Morris G.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7402985206",
-                    "name": "Walker E.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7005321964",
-                    "name": "Mather S.",
-                    "affiliation_id": [
-                        "60004093"
-                    ]
-                },
-                {
-                    "scopus_id": "7102818900",
-                    "name": "Britton K.",
-                    "affiliation_id": [
-                        "60004093"
-                    ]
-                },
-                {
-                    "scopus_id": "7102104770",
-                    "name": "Lennard-Jones J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 108,
-            "publication_name": "Gut",
-            "issn": "00175749",
-            "cover_date": "1993-01-01",
-            "venue": "Journal",
-            "volume": "34",
-            "issue": "9",
-            "page_range": "1171-1176",
-            "doi": "10.1136/gut.34.9.1171"
-        },
-        {
-            "title": "Predictive factors for successful sacral nerve stimulation in the treatment of faecal incontinence: A 10-year cohort analysis",
-            "eid": "2-s2.0-39649084913",
-            "authors": [
-                {
-                    "scopus_id": "23570493200",
-                    "name": "Dudding T.C.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "6603820349",
-                    "name": "Par\u00e9s D.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "57207954920",
-                    "name": "Vaizey C.J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 107,
-            "publication_name": "Colorectal Disease",
-            "issn": "14628910",
-            "cover_date": "2008-03-01",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "3",
-            "page_range": "249-256",
-            "doi": "10.1111/j.1463-1318.2007.01319.x"
-        },
-        {
-            "title": "Effect of a novel prokinetic drug, R093877, on gastrointestinal transit in healthy volunteers",
-            "eid": "2-s2.0-0031950380",
-            "authors": [
-                {
-                    "scopus_id": "7003781894",
-                    "name": "Emmanuel A.V.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "16937112400",
-                    "name": "Roy A.J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "18833430900",
-                    "name": "Antonelli K.",
-                    "affiliation_id": [
-                        "101676338"
-                    ]
-                }
-            ],
-            "citations": 107,
-            "publication_name": "Gut",
-            "issn": "00175749",
-            "cover_date": "1998-01-01",
-            "venue": "Journal",
-            "volume": "42",
-            "issue": "4",
-            "page_range": "511-516",
-            "doi": "10.1136/gut.42.4.511"
-        },
-        {
             "title": "Fungal Trans-kingdom Dynamics Linked to Responsiveness to Fecal Microbiota Transplantation (FMT) Therapy in Ulcerative Colitis",
             "eid": "2-s2.0-85084267143",
             "authors": [
@@ -11368,7 +11282,7 @@
                     ]
                 }
             ],
-            "citations": 106,
+            "citations": 107,
             "publication_name": "Cell Host and Microbe",
             "issn": "19313128",
             "cover_date": "2020-05-13",
@@ -11377,6 +11291,92 @@
             "issue": "5",
             "page_range": "823-829.e3",
             "doi": "10.1016/j.chom.2020.03.006"
+        },
+        {
+            "title": "Predictive factors for successful sacral nerve stimulation in the treatment of faecal incontinence: A 10-year cohort analysis",
+            "eid": "2-s2.0-39649084913",
+            "authors": [
+                {
+                    "scopus_id": "23570493200",
+                    "name": "Dudding T.C.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "6603820349",
+                    "name": "Par\u00e9s D.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "57207954920",
+                    "name": "Vaizey C.J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 107,
+            "publication_name": "Colorectal Disease",
+            "issn": "14628910",
+            "cover_date": "2008-03-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "3",
+            "page_range": "249-256",
+            "doi": "10.1111/j.1463-1318.2007.01319.x"
+        },
+        {
+            "title": "Effect of a novel prokinetic drug, R093877, on gastrointestinal transit in healthy volunteers",
+            "eid": "2-s2.0-0031950380",
+            "authors": [
+                {
+                    "scopus_id": "7003781894",
+                    "name": "Emmanuel A.V.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "16937112400",
+                    "name": "Roy A.J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "18833430900",
+                    "name": "Antonelli K.",
+                    "affiliation_id": [
+                        "101676338"
+                    ]
+                }
+            ],
+            "citations": 107,
+            "publication_name": "Gut",
+            "issn": "00175749",
+            "cover_date": "1998-01-01",
+            "venue": "Journal",
+            "volume": "42",
+            "issue": "4",
+            "page_range": "511-516",
+            "doi": "10.1136/gut.42.4.511"
         },
         {
             "title": "Efficacy of thiopurines and adalimumab in preventing Crohn's disease recurrence in high-risk patients - A POCER study analysis",
@@ -12973,7 +12973,7 @@
                     "scopus_id": "7003739875",
                     "name": "Mahachai V.",
                     "affiliation_id": [
-                        "60022183",
+                        "60002620",
                         "123629376"
                     ]
                 },
@@ -14060,57 +14060,6 @@
             "doi": "10.1046/j.1365-2168.1998.00854.x"
         },
         {
-            "title": "Randomised clinical trial: The efficacy of prucalopride in patients with chronic intestinal pseudo-obstruction - A double-blind, placebo-controlled, cross-over, multiple n = 1 study",
-            "eid": "2-s2.0-83555168315",
-            "authors": [
-                {
-                    "scopus_id": "7003781894",
-                    "name": "Emmanuel A.",
-                    "affiliation_id": [
-                        "60022148"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60015150"
-                    ]
-                },
-                {
-                    "scopus_id": "16937112400",
-                    "name": "Roy A.",
-                    "affiliation_id": [
-                        "60022148"
-                    ]
-                },
-                {
-                    "scopus_id": "24331732400",
-                    "name": "Kerstens R.",
-                    "affiliation_id": [
-                        "60094723"
-                    ]
-                },
-                {
-                    "scopus_id": "24333536800",
-                    "name": "Vandeplassche L.",
-                    "affiliation_id": [
-                        "60094723"
-                    ]
-                }
-            ],
-            "citations": 84,
-            "publication_name": "Alimentary Pharmacology and Therapeutics",
-            "issn": "02692813",
-            "cover_date": "2012-01-01",
-            "venue": "Journal",
-            "volume": "35",
-            "issue": "1",
-            "page_range": "48-55",
-            "doi": "10.1111/j.1365-2036.2011.04907.x"
-        },
-        {
             "title": "Comparison of two adalimumab treatment schedule strategies for moderate-to-severe crohn's disease: Results from the CHARM trial",
             "eid": "2-s2.0-66949133561",
             "authors": [
@@ -14186,7 +14135,7 @@
                     ]
                 }
             ],
-            "citations": 84,
+            "citations": 85,
             "publication_name": "American Journal of Gastroenterology",
             "issn": "00029270",
             "cover_date": "2009-05-01",
@@ -14195,6 +14144,57 @@
             "issue": "5",
             "page_range": "1170-1179",
             "doi": "10.1038/ajg.2009.59"
+        },
+        {
+            "title": "Randomised clinical trial: The efficacy of prucalopride in patients with chronic intestinal pseudo-obstruction - A double-blind, placebo-controlled, cross-over, multiple n = 1 study",
+            "eid": "2-s2.0-83555168315",
+            "authors": [
+                {
+                    "scopus_id": "7003781894",
+                    "name": "Emmanuel A.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "16937112400",
+                    "name": "Roy A.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "24331732400",
+                    "name": "Kerstens R.",
+                    "affiliation_id": [
+                        "60094723"
+                    ]
+                },
+                {
+                    "scopus_id": "24333536800",
+                    "name": "Vandeplassche L.",
+                    "affiliation_id": [
+                        "60094723"
+                    ]
+                }
+            ],
+            "citations": 84,
+            "publication_name": "Alimentary Pharmacology and Therapeutics",
+            "issn": "02692813",
+            "cover_date": "2012-01-01",
+            "venue": "Journal",
+            "volume": "35",
+            "issue": "1",
+            "page_range": "48-55",
+            "doi": "10.1111/j.1365-2036.2011.04907.x"
         },
         {
             "title": "Ghrelin for the Gastroenterologist: History and Potential",
@@ -16846,6 +16846,50 @@
             "doi": "10.1097/MIB.0000000000000629"
         },
         {
+            "title": "Behavioural therapy (biofeedback) for solitary rectal ulcer syndrome improves symptoms and mucosal blood flow",
+            "eid": "2-s2.0-1242272865",
+            "authors": [
+                {
+                    "scopus_id": "34968221100",
+                    "name": "Jarrett M.E.D.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7003781894",
+                    "name": "Emmanuel A.V.",
+                    "affiliation_id": [
+                        "60022734",
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "57207954920",
+                    "name": "Vaizey C.J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 60,
+            "publication_name": "Gut",
+            "issn": "00175749",
+            "cover_date": "2004-03-01",
+            "venue": "Journal",
+            "volume": "53",
+            "issue": "3",
+            "page_range": "368-370",
+            "doi": "10.1136/gut.2003.025643"
+        },
+        {
             "title": "Laser doppler flowmetry as a measure of extrinsic colonic innervation in functional bowel disease",
             "eid": "2-s2.0-0034022128",
             "authors": [
@@ -17044,50 +17088,6 @@
             "issue": "10",
             "page_range": "1479-1488",
             "doi": "10.1111/j.1365-2036.2006.02903.x"
-        },
-        {
-            "title": "Behavioural therapy (biofeedback) for solitary rectal ulcer syndrome improves symptoms and mucosal blood flow",
-            "eid": "2-s2.0-1242272865",
-            "authors": [
-                {
-                    "scopus_id": "34968221100",
-                    "name": "Jarrett M.E.D.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7003781894",
-                    "name": "Emmanuel A.V.",
-                    "affiliation_id": [
-                        "60022734",
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "57207954920",
-                    "name": "Vaizey C.J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 59,
-            "publication_name": "Gut",
-            "issn": "00175749",
-            "cover_date": "2004-03-01",
-            "venue": "Journal",
-            "volume": "53",
-            "issue": "3",
-            "page_range": "368-370",
-            "doi": "10.1136/gut.2003.025643"
         },
         {
             "title": "Immunohistochemical study of the colonic muscle and innervation in idiopathic chronic constipation",
@@ -18060,6 +18060,70 @@
             "doi": "10.1007/s10350-004-0919-y"
         },
         {
+            "title": "Olsalazine is not superior to placebo in maintaining remission of inactive Crohn's colitis and ileocolitis: A double blind, parallel, randomised, multicentre study",
+            "eid": "2-s2.0-0034820760",
+            "authors": [
+                {
+                    "scopus_id": "7004125825",
+                    "name": "Mahmud N.",
+                    "affiliation_id": [
+                        "60003167"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7006404107",
+                    "name": "Dupas J.L.",
+                    "affiliation_id": [
+                        "60002810"
+                    ]
+                },
+                {
+                    "scopus_id": "35354571700",
+                    "name": "Jewell D.P.",
+                    "affiliation_id": [
+                        "60003410"
+                    ]
+                },
+                {
+                    "scopus_id": "7101876350",
+                    "name": "O'Morain C.A.",
+                    "affiliation_id": [
+                        "60011149"
+                    ]
+                },
+                {
+                    "scopus_id": "35309074000",
+                    "name": "Weir D.G.",
+                    "affiliation_id": [
+                        "60003167"
+                    ]
+                },
+                {
+                    "scopus_id": "7102908266",
+                    "name": "Kelleher D.",
+                    "affiliation_id": [
+                        "60003167"
+                    ]
+                }
+            ],
+            "citations": 51,
+            "publication_name": "Gut",
+            "issn": "00175749",
+            "cover_date": "2001-10-06",
+            "venue": "Journal",
+            "volume": "49",
+            "issue": "4",
+            "page_range": "552-556",
+            "doi": "10.1136/gut.49.4.552"
+        },
+        {
             "title": "Proctocolectomy with restorative ileoanal reservoir for severe idiopathic constipation - Report of two cases",
             "eid": "2-s2.0-0024257631",
             "authors": [
@@ -18152,68 +18216,40 @@
             "doi": "10.1185/030079907X178865"
         },
         {
-            "title": "Olsalazine is not superior to placebo in maintaining remission of inactive Crohn's colitis and ileocolitis: A double blind, parallel, randomised, multicentre study",
-            "eid": "2-s2.0-0034820760",
+            "title": "Results of behavioral treatment (biofeedback) for solitary rectal ulcer syndrome",
+            "eid": "2-s2.0-0035142003",
             "authors": [
                 {
-                    "scopus_id": "7004125825",
-                    "name": "Mahmud N.",
-                    "affiliation_id": [
-                        "60003167"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
+                    "scopus_id": "7003952714",
+                    "name": "Malouf A.",
                     "affiliation_id": [
                         "60022734"
                     ]
                 },
                 {
-                    "scopus_id": "7006404107",
-                    "name": "Dupas J.L.",
+                    "scopus_id": "57207954920",
+                    "name": "Vaizey C.",
                     "affiliation_id": [
-                        "60002810"
+                        "60022734"
                     ]
                 },
                 {
-                    "scopus_id": "35354571700",
-                    "name": "Jewell D.P.",
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.",
                     "affiliation_id": [
-                        "60003410"
-                    ]
-                },
-                {
-                    "scopus_id": "7101876350",
-                    "name": "O'Morain C.A.",
-                    "affiliation_id": [
-                        "60011149"
-                    ]
-                },
-                {
-                    "scopus_id": "35309074000",
-                    "name": "Weir D.G.",
-                    "affiliation_id": [
-                        "60003167"
-                    ]
-                },
-                {
-                    "scopus_id": "7102908266",
-                    "name": "Kelleher D.",
-                    "affiliation_id": [
-                        "60003167"
+                        "60022734"
                     ]
                 }
             ],
             "citations": 50,
-            "publication_name": "Gut",
-            "issn": "00175749",
-            "cover_date": "2001-10-06",
+            "publication_name": "Diseases of the Colon and Rectum",
+            "issn": "00123706",
+            "cover_date": "2001-01-01",
             "venue": "Journal",
-            "volume": "49",
-            "issue": "4",
-            "page_range": "552-556",
-            "doi": "10.1136/gut.49.4.552"
+            "volume": "44",
+            "issue": "1",
+            "page_range": "72-76",
+            "doi": "10.1007/BF02234824"
         },
         {
             "title": "Effect of pregnancy on anal sphincter morphology and function",
@@ -18317,40 +18353,113 @@
             "doi": "10.1111/j.1365-2036.2008.03801.x"
         },
         {
-            "title": "Results of behavioral treatment (biofeedback) for solitary rectal ulcer syndrome",
-            "eid": "2-s2.0-0035142003",
+            "title": "Gut mucosal response to food antigens in Crohn's disease",
+            "eid": "2-s2.0-0036829422",
             "authors": [
                 {
-                    "scopus_id": "7003952714",
-                    "name": "Malouf A.",
+                    "scopus_id": "57225244836",
+                    "name": "Van Den Bogaerde J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7103370080",
+                    "name": "Cahill J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7003781894",
+                    "name": "Emmanuel A.V.",
                     "affiliation_id": [
                         "60022734"
                     ]
                 },
                 {
                     "scopus_id": "57207954920",
-                    "name": "Vaizey C.",
+                    "name": "Vaizey C.J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7101787266",
+                    "name": "Talbot I.C.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7202603546",
+                    "name": "Knight S.C.",
+                    "affiliation_id": [
+                        "60175990"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60022734",
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 49,
+            "publication_name": "Alimentary Pharmacology and Therapeutics",
+            "issn": "02692813",
+            "cover_date": "2002-11-01",
+            "venue": "Journal",
+            "volume": "16",
+            "issue": "11",
+            "page_range": "1903-1915",
+            "doi": "10.1046/j.1365-2036.2002.01360.x"
+        },
+        {
+            "title": "Pathology of the rectal wall in solitary rectal ulcer syndrome and complete rectal prolapse",
+            "eid": "2-s2.0-0029880749",
+            "authors": [
+                {
+                    "scopus_id": "16406983600",
+                    "name": "Kang Y.S.",
                     "affiliation_id": [
                         "60022734"
                     ]
                 },
                 {
                     "scopus_id": "35402069200",
-                    "name": "Kamm M.",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60022734",
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "55538834700",
+                    "name": "Engel A.F.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7101787266",
+                    "name": "Talbot I.C.",
                     "affiliation_id": [
                         "60022734"
                     ]
                 }
             ],
             "citations": 49,
-            "publication_name": "Diseases of the Colon and Rectum",
-            "issn": "00123706",
-            "cover_date": "2001-01-01",
+            "publication_name": "Gut",
+            "issn": "00175749",
+            "cover_date": "1996-01-01",
             "venue": "Journal",
-            "volume": "44",
-            "issue": "1",
-            "page_range": "72-76",
-            "doi": "10.1007/BF02234824"
+            "volume": "38",
+            "issue": "4",
+            "page_range": "587-590",
+            "doi": "10.1136/gut.38.4.587"
         },
         {
             "title": "The acute effect of straining on pelvic floor neurological function",
@@ -18583,115 +18692,6 @@
             "doi": "10.1097/01.WON.0000436670.56153.7b"
         },
         {
-            "title": "Gut mucosal response to food antigens in Crohn's disease",
-            "eid": "2-s2.0-0036829422",
-            "authors": [
-                {
-                    "scopus_id": "57225244836",
-                    "name": "Van Den Bogaerde J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7103370080",
-                    "name": "Cahill J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7003781894",
-                    "name": "Emmanuel A.V.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "57207954920",
-                    "name": "Vaizey C.J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7101787266",
-                    "name": "Talbot I.C.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7202603546",
-                    "name": "Knight S.C.",
-                    "affiliation_id": [
-                        "60175990"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60022734",
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 48,
-            "publication_name": "Alimentary Pharmacology and Therapeutics",
-            "issn": "02692813",
-            "cover_date": "2002-11-01",
-            "venue": "Journal",
-            "volume": "16",
-            "issue": "11",
-            "page_range": "1903-1915",
-            "doi": "10.1046/j.1365-2036.2002.01360.x"
-        },
-        {
-            "title": "Pathology of the rectal wall in solitary rectal ulcer syndrome and complete rectal prolapse",
-            "eid": "2-s2.0-0029880749",
-            "authors": [
-                {
-                    "scopus_id": "16406983600",
-                    "name": "Kang Y.S.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60022734",
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "55538834700",
-                    "name": "Engel A.F.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7101787266",
-                    "name": "Talbot I.C.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 48,
-            "publication_name": "Gut",
-            "issn": "00175749",
-            "cover_date": "1996-01-01",
-            "venue": "Journal",
-            "volume": "38",
-            "issue": "4",
-            "page_range": "587-590",
-            "doi": "10.1136/gut.38.4.587"
-        },
-        {
             "title": "Abnormal internal anal sphincter fibrosis and elasticity in fecal incontinence",
             "eid": "2-s2.0-0028941467",
             "authors": [
@@ -18768,7 +18768,7 @@
                 },
                 {
                     "scopus_id": "35402069200",
-                    "name": "Kamm M.",
+                    "name": "Kamm M.A.",
                     "affiliation_id": [
                         "60022148"
                     ]
@@ -18782,7 +18782,7 @@
                 },
                 {
                     "scopus_id": "7102104770",
-                    "name": "Lennard-Jones J.",
+                    "name": "Lennard-Jones J.E.",
                     "affiliation_id": [
                         "60022148"
                     ]
@@ -20124,358 +20124,6 @@
             "doi": "10.1046/j.1365-2036.2001.01032.x"
         },
         {
-            "title": "A mechanistic role for leptin in human dendritic cell migration: Differences between ileum and colon in health and Crohn's disease",
-            "eid": "2-s2.0-84879350349",
-            "authors": [
-                {
-                    "scopus_id": "55820176100",
-                    "name": "Al-Hassi H.O.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "16836282400",
-                    "name": "Bernardo D.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "36634535100",
-                    "name": "Murugananthan A.U.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "37034567100",
-                    "name": "Mann E.R.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7004765778",
-                    "name": "English N.R.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "57213879975",
-                    "name": "Jones A.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "15829091800",
-                    "name": "Arebi N.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7201706094",
-                    "name": "Hart A.L.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "57214957661",
-                    "name": "Blakemore A.I.F.",
-                    "affiliation_id": [
-                        "60020413"
-                    ]
-                },
-                {
-                    "scopus_id": "7003499380",
-                    "name": "Stagg A.J.",
-                    "affiliation_id": [
-                        "60021435"
-                    ]
-                },
-                {
-                    "scopus_id": "7202603546",
-                    "name": "Knight S.C.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 39,
-            "publication_name": "Mucosal Immunology",
-            "issn": "19330219",
-            "cover_date": "2013-01-01",
-            "venue": "Journal",
-            "volume": "6",
-            "issue": "4",
-            "page_range": "751-761",
-            "doi": "10.1038/mi.2012.113"
-        },
-        {
-            "title": "The effect of Khat (Catha edulis) as an appetite suppressant is independent of ghrelin and PYY secretion",
-            "eid": "2-s2.0-50349100433",
-            "authors": [
-                {
-                    "scopus_id": "57202223898",
-                    "name": "Murray C.D.R.",
-                    "affiliation_id": [
-                        "60032819"
-                    ]
-                },
-                {
-                    "scopus_id": "56962726600",
-                    "name": "Le Roux C.W.",
-                    "affiliation_id": [
-                        "60015150"
-                    ]
-                },
-                {
-                    "scopus_id": "7003781894",
-                    "name": "Emmanuel A.V.",
-                    "affiliation_id": [
-                        "60027403"
-                    ]
-                },
-                {
-                    "scopus_id": "7004106850",
-                    "name": "Halket J.M.",
-                    "affiliation_id": [
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "6603487634",
-                    "name": "Przyborowska A.M.",
-                    "affiliation_id": [
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60015150"
-                    ]
-                },
-                {
-                    "scopus_id": "35460136700",
-                    "name": "Murray-Lyon I.M.",
-                    "affiliation_id": [
-                        "60015150"
-                    ]
-                }
-            ],
-            "citations": 39,
-            "publication_name": "Appetite",
-            "issn": "01956663",
-            "cover_date": "2008-11-01",
-            "venue": "Journal",
-            "volume": "51",
-            "issue": "3",
-            "page_range": "747-750",
-            "doi": "10.1016/j.appet.2008.06.012"
-        },
-        {
-            "title": "Long-term results of perianal silicone injection for faecal incontinence",
-            "eid": "2-s2.0-34147167493",
-            "authors": [
-                {
-                    "scopus_id": "16203355000",
-                    "name": "Maeda Y.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "57207954920",
-                    "name": "Vaizey C.J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 39,
-            "publication_name": "Colorectal Disease",
-            "issn": "14628910",
-            "cover_date": "2007-05-01",
-            "venue": "Journal",
-            "volume": "9",
-            "issue": "4",
-            "page_range": "357-361",
-            "doi": "10.1111/j.1463-1318.2006.01164.x"
-        },
-        {
-            "title": "The anal sphincter in idiopathic megarectum: Effects of manual disimpaction under general anesthetic",
-            "eid": "2-s2.0-0029997386",
-            "authors": [
-                {
-                    "scopus_id": "7005742063",
-                    "name": "Gattuso J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "55642708000",
-                    "name": "Halligan S.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7202862415",
-                    "name": "Bartram C.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 39,
-            "publication_name": "Diseases of the Colon and Rectum",
-            "issn": "00123706",
-            "cover_date": "1996-04-01",
-            "venue": "Journal",
-            "volume": "39",
-            "issue": "4",
-            "page_range": "435-439",
-            "doi": "10.1007/BF02054060"
-        },
-        {
-            "title": "The management of constipation in adults",
-            "eid": "2-s2.0-0027376948",
-            "authors": [
-                {
-                    "scopus_id": "7005742063",
-                    "name": "GATTUSO J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "KAMM M.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 39,
-            "publication_name": "Alimentary Pharmacology &amp; Therapeutics",
-            "issn": "02692813",
-            "cover_date": "1993-01-01",
-            "venue": "Journal",
-            "volume": "7",
-            "issue": "5",
-            "page_range": "487-500",
-            "doi": "10.1111/j.1365-2036.1993.tb00124.x"
-        },
-        {
-            "title": "Addition of thiopurines can recapture response in patients with Crohn's disease who have lost response to anti-tumor necrosis factor monotherapy",
-            "eid": "2-s2.0-84897629643",
-            "authors": [
-                {
-                    "scopus_id": "56013316700",
-                    "name": "Ong D.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60031325"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.",
-                    "affiliation_id": [
-                        "60001522"
-                    ]
-                },
-                {
-                    "scopus_id": "36018163600",
-                    "name": "Hartono J.",
-                    "affiliation_id": [
-                        "60031325"
-                    ]
-                },
-                {
-                    "scopus_id": "24167002500",
-                    "name": "Lust M.",
-                    "affiliation_id": [
-                        "60001522"
-                    ]
-                }
-            ],
-            "citations": 38,
-            "publication_name": "Journal of Gastroenterology and Hepatology (Australia)",
-            "issn": "08159319",
-            "cover_date": "2013-01-01",
-            "venue": "Journal",
-            "volume": "28",
-            "issue": "10",
-            "page_range": "1595-1599",
-            "doi": "10.1111/jgh.12263"
-        },
-        {
-            "title": "Pilot study of two new injectable bulking agents for the treatment of faecal incontinence",
-            "eid": "2-s2.0-39649116698",
-            "authors": [
-                {
-                    "scopus_id": "16203355000",
-                    "name": "Maeda Y.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "57207954920",
-                    "name": "Vaizey C.J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 38,
-            "publication_name": "Colorectal Disease",
-            "issn": "14628910",
-            "cover_date": "2008-03-01",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "3",
-            "page_range": "268-272",
-            "doi": "10.1111/j.1463-1318.2007.01318.x"
-        },
-        {
             "title": "Lifestyle, behaviour, and environmental modification for the management of patients with inflammatory bowel diseases: an International Organization for Study of Inflammatory Bowel Diseases consensus",
             "eid": "2-s2.0-85131835044",
             "authors": [
@@ -21021,7 +20669,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 37,
+            "citations": 39,
             "publication_name": "The Lancet Gastroenterology and Hepatology",
             "issn": "24681253",
             "cover_date": "2022-07-01",
@@ -21030,6 +20678,358 @@
             "issue": "7",
             "page_range": "666-678",
             "doi": "10.1016/S2468-1253(22)00021-8"
+        },
+        {
+            "title": "A mechanistic role for leptin in human dendritic cell migration: Differences between ileum and colon in health and Crohn's disease",
+            "eid": "2-s2.0-84879350349",
+            "authors": [
+                {
+                    "scopus_id": "55820176100",
+                    "name": "Al-Hassi H.O.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "16836282400",
+                    "name": "Bernardo D.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "36634535100",
+                    "name": "Murugananthan A.U.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "37034567100",
+                    "name": "Mann E.R.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7004765778",
+                    "name": "English N.R.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "57213879975",
+                    "name": "Jones A.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "15829091800",
+                    "name": "Arebi N.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7201706094",
+                    "name": "Hart A.L.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "57214957661",
+                    "name": "Blakemore A.I.F.",
+                    "affiliation_id": [
+                        "60020413"
+                    ]
+                },
+                {
+                    "scopus_id": "7003499380",
+                    "name": "Stagg A.J.",
+                    "affiliation_id": [
+                        "60021435"
+                    ]
+                },
+                {
+                    "scopus_id": "7202603546",
+                    "name": "Knight S.C.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 39,
+            "publication_name": "Mucosal Immunology",
+            "issn": "19330219",
+            "cover_date": "2013-01-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "4",
+            "page_range": "751-761",
+            "doi": "10.1038/mi.2012.113"
+        },
+        {
+            "title": "The effect of Khat (Catha edulis) as an appetite suppressant is independent of ghrelin and PYY secretion",
+            "eid": "2-s2.0-50349100433",
+            "authors": [
+                {
+                    "scopus_id": "57202223898",
+                    "name": "Murray C.D.R.",
+                    "affiliation_id": [
+                        "60032819"
+                    ]
+                },
+                {
+                    "scopus_id": "56962726600",
+                    "name": "Le Roux C.W.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "7003781894",
+                    "name": "Emmanuel A.V.",
+                    "affiliation_id": [
+                        "60027403"
+                    ]
+                },
+                {
+                    "scopus_id": "7004106850",
+                    "name": "Halket J.M.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "6603487634",
+                    "name": "Przyborowska A.M.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "35460136700",
+                    "name": "Murray-Lyon I.M.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                }
+            ],
+            "citations": 39,
+            "publication_name": "Appetite",
+            "issn": "01956663",
+            "cover_date": "2008-11-01",
+            "venue": "Journal",
+            "volume": "51",
+            "issue": "3",
+            "page_range": "747-750",
+            "doi": "10.1016/j.appet.2008.06.012"
+        },
+        {
+            "title": "Long-term results of perianal silicone injection for faecal incontinence",
+            "eid": "2-s2.0-34147167493",
+            "authors": [
+                {
+                    "scopus_id": "16203355000",
+                    "name": "Maeda Y.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "57207954920",
+                    "name": "Vaizey C.J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 39,
+            "publication_name": "Colorectal Disease",
+            "issn": "14628910",
+            "cover_date": "2007-05-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "4",
+            "page_range": "357-361",
+            "doi": "10.1111/j.1463-1318.2006.01164.x"
+        },
+        {
+            "title": "The anal sphincter in idiopathic megarectum: Effects of manual disimpaction under general anesthetic",
+            "eid": "2-s2.0-0029997386",
+            "authors": [
+                {
+                    "scopus_id": "7005742063",
+                    "name": "Gattuso J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "55642708000",
+                    "name": "Halligan S.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7202862415",
+                    "name": "Bartram C.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 39,
+            "publication_name": "Diseases of the Colon and Rectum",
+            "issn": "00123706",
+            "cover_date": "1996-04-01",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "4",
+            "page_range": "435-439",
+            "doi": "10.1007/BF02054060"
+        },
+        {
+            "title": "The management of constipation in adults",
+            "eid": "2-s2.0-0027376948",
+            "authors": [
+                {
+                    "scopus_id": "7005742063",
+                    "name": "GATTUSO J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "KAMM M.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 39,
+            "publication_name": "Alimentary Pharmacology &amp; Therapeutics",
+            "issn": "02692813",
+            "cover_date": "1993-01-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "5",
+            "page_range": "487-500",
+            "doi": "10.1111/j.1365-2036.1993.tb00124.x"
+        },
+        {
+            "title": "Addition of thiopurines can recapture response in patients with Crohn's disease who have lost response to anti-tumor necrosis factor monotherapy",
+            "eid": "2-s2.0-84897629643",
+            "authors": [
+                {
+                    "scopus_id": "56013316700",
+                    "name": "Ong D.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60031325"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.",
+                    "affiliation_id": [
+                        "60001522"
+                    ]
+                },
+                {
+                    "scopus_id": "36018163600",
+                    "name": "Hartono J.",
+                    "affiliation_id": [
+                        "60031325"
+                    ]
+                },
+                {
+                    "scopus_id": "24167002500",
+                    "name": "Lust M.",
+                    "affiliation_id": [
+                        "60001522"
+                    ]
+                }
+            ],
+            "citations": 38,
+            "publication_name": "Journal of Gastroenterology and Hepatology (Australia)",
+            "issn": "08159319",
+            "cover_date": "2013-01-01",
+            "venue": "Journal",
+            "volume": "28",
+            "issue": "10",
+            "page_range": "1595-1599",
+            "doi": "10.1111/jgh.12263"
+        },
+        {
+            "title": "Pilot study of two new injectable bulking agents for the treatment of faecal incontinence",
+            "eid": "2-s2.0-39649116698",
+            "authors": [
+                {
+                    "scopus_id": "16203355000",
+                    "name": "Maeda Y.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "57207954920",
+                    "name": "Vaizey C.J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 38,
+            "publication_name": "Colorectal Disease",
+            "issn": "14628910",
+            "cover_date": "2008-03-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "3",
+            "page_range": "268-272",
+            "doi": "10.1111/j.1463-1318.2007.01318.x"
         },
         {
             "title": "Postoperative recurrence of Crohn's disease: Impact of endoscopic monitoring and treatment step-up",
@@ -21937,6 +21937,35 @@
             "doi": "10.1002/bjs.1800790210"
         },
         {
+            "title": "Management of idiopathic megarectum and megacolon",
+            "eid": "2-s2.0-0025878350",
+            "authors": [
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7004847981",
+                    "name": "Stabile G.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 34,
+            "publication_name": "British Journal of Surgery",
+            "issn": "00071323",
+            "cover_date": "1991-01-01",
+            "venue": "Journal",
+            "volume": "78",
+            "issue": "8",
+            "page_range": "899-900",
+            "doi": "10.1002/bjs.1800780803"
+        },
+        {
             "title": "Review article: Population screening for colorectal cancer",
             "eid": "2-s2.0-28844440452",
             "authors": [
@@ -22130,35 +22159,6 @@
             "issue": "1",
             "page_range": "76-78",
             "doi": "10.1007/s002610000100"
-        },
-        {
-            "title": "Management of idiopathic megarectum and megacolon",
-            "eid": "2-s2.0-0025878350",
-            "authors": [
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7004847981",
-                    "name": "Stabile G.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 33,
-            "publication_name": "British Journal of Surgery",
-            "issn": "00071323",
-            "cover_date": "1991-01-01",
-            "venue": "Journal",
-            "volume": "78",
-            "issue": "8",
-            "page_range": "899-900",
-            "doi": "10.1002/bjs.1800780803"
         },
         {
             "title": "Rectodynamics - quantifying rectal evacuation",
@@ -22753,127 +22753,6 @@
             "doi": "10.1007/s003840050059"
         },
         {
-            "title": "Gastroenterologist perceptions of faecal microbiota transplantation",
-            "eid": "2-s2.0-84944096837",
-            "authors": [
-                {
-                    "scopus_id": "26642046400",
-                    "name": "Paramsothy S.",
-                    "affiliation_id": [
-                        "60025702"
-                    ]
-                },
-                {
-                    "scopus_id": "22936329300",
-                    "name": "Walsh A.J.",
-                    "affiliation_id": [
-                        "60025702"
-                    ]
-                },
-                {
-                    "scopus_id": "24529556700",
-                    "name": "Borody T.",
-                    "affiliation_id": [
-                        "60016244"
-                    ]
-                },
-                {
-                    "scopus_id": "56693966200",
-                    "name": "Samuel D.",
-                    "affiliation_id": [
-                        "60025155"
-                    ]
-                },
-                {
-                    "scopus_id": "57225244836",
-                    "name": "Van Den Bogaerde J.",
-                    "affiliation_id": [
-                        "60028119"
-                    ]
-                },
-                {
-                    "scopus_id": "57218574553",
-                    "name": "Leong R.W.L.",
-                    "affiliation_id": [
-                        "60025155"
-                    ]
-                },
-                {
-                    "scopus_id": "7102767368",
-                    "name": "Connor S.",
-                    "affiliation_id": [
-                        "60005506"
-                    ]
-                },
-                {
-                    "scopus_id": "56693721400",
-                    "name": "Ng W.",
-                    "affiliation_id": [
-                        "60005506"
-                    ]
-                },
-                {
-                    "scopus_id": "7202670433",
-                    "name": "Mitchell H.M.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "8833063900",
-                    "name": "Kaakoush N.O.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 29,
-            "publication_name": "World Journal of Gastroenterology",
-            "issn": "10079327",
-            "cover_date": "2015-10-14",
-            "venue": "Journal",
-            "volume": "21",
-            "issue": "38",
-            "page_range": "10907-10914",
-            "doi": "10.3748/wjg.v21.i38.10907"
-        },
-        {
-            "title": "The internal anal sphincter - new insights into faecal incontinence",
-            "eid": "2-s2.0-0025922047",
-            "authors": [
-                {
-                    "scopus_id": "7004189169",
-                    "name": "Speakman C.T.M.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 29,
-            "publication_name": "Gut",
-            "issn": "00175749",
-            "cover_date": "1991-01-01",
-            "venue": "Journal",
-            "volume": "32",
-            "issue": "4",
-            "page_range": "345-346",
-            "doi": "10.1136/gut.32.4.345"
-        },
-        {
             "title": "Intensive drug therapy versus standard drug therapy for symptomatic intestinal Crohn's disease strictures (STRIDENT): an open-label, single-centre, randomised controlled trial",
             "eid": "2-s2.0-85122941363",
             "authors": [
@@ -23011,7 +22890,7 @@
                     ]
                 }
             ],
-            "citations": 28,
+            "citations": 29,
             "publication_name": "The Lancet Gastroenterology and Hepatology",
             "issn": "24681253",
             "cover_date": "2022-04-01",
@@ -23020,6 +22899,127 @@
             "issue": "4",
             "page_range": "318-331",
             "doi": "10.1016/S2468-1253(21)00393-9"
+        },
+        {
+            "title": "Gastroenterologist perceptions of faecal microbiota transplantation",
+            "eid": "2-s2.0-84944096837",
+            "authors": [
+                {
+                    "scopus_id": "26642046400",
+                    "name": "Paramsothy S.",
+                    "affiliation_id": [
+                        "60025702"
+                    ]
+                },
+                {
+                    "scopus_id": "22936329300",
+                    "name": "Walsh A.J.",
+                    "affiliation_id": [
+                        "60025702"
+                    ]
+                },
+                {
+                    "scopus_id": "24529556700",
+                    "name": "Borody T.",
+                    "affiliation_id": [
+                        "60016244"
+                    ]
+                },
+                {
+                    "scopus_id": "56693966200",
+                    "name": "Samuel D.",
+                    "affiliation_id": [
+                        "60025155"
+                    ]
+                },
+                {
+                    "scopus_id": "57225244836",
+                    "name": "Van Den Bogaerde J.",
+                    "affiliation_id": [
+                        "60028119"
+                    ]
+                },
+                {
+                    "scopus_id": "57218574553",
+                    "name": "Leong R.W.L.",
+                    "affiliation_id": [
+                        "60025155"
+                    ]
+                },
+                {
+                    "scopus_id": "7102767368",
+                    "name": "Connor S.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
+                },
+                {
+                    "scopus_id": "56693721400",
+                    "name": "Ng W.",
+                    "affiliation_id": [
+                        "60005506"
+                    ]
+                },
+                {
+                    "scopus_id": "7202670433",
+                    "name": "Mitchell H.M.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "8833063900",
+                    "name": "Kaakoush N.O.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "World Journal of Gastroenterology",
+            "issn": "10079327",
+            "cover_date": "2015-10-14",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "38",
+            "page_range": "10907-10914",
+            "doi": "10.3748/wjg.v21.i38.10907"
+        },
+        {
+            "title": "The internal anal sphincter - new insights into faecal incontinence",
+            "eid": "2-s2.0-0025922047",
+            "authors": [
+                {
+                    "scopus_id": "7004189169",
+                    "name": "Speakman C.T.M.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "Gut",
+            "issn": "00175749",
+            "cover_date": "1991-01-01",
+            "venue": "Journal",
+            "volume": "32",
+            "issue": "4",
+            "page_range": "345-346",
+            "doi": "10.1136/gut.32.4.345"
         },
         {
             "title": "Effect of intestinal resection on quality of life in Crohn's disease",
@@ -25589,6 +25589,42 @@
             "doi": "10.1046/j.1463-1318.2002.00372.x"
         },
         {
+            "title": "Reproducible assessment of vaginal and rectal mucosal and skin blood flow: Laser doppler fluximetry of the pelvic microcirculation",
+            "eid": "2-s2.0-0033970081",
+            "authors": [
+                {
+                    "scopus_id": "7003781894",
+                    "name": "Emmanuel A.V.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "24494137600",
+                    "name": "Beard R.W.",
+                    "affiliation_id": [
+                        "60031535"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Clinical Science",
+            "issn": "01435221",
+            "cover_date": "2000-01-01",
+            "venue": "Journal",
+            "volume": "98",
+            "issue": "2",
+            "page_range": "201-207",
+            "doi": "10.1042/cs0980201"
+        },
+        {
             "title": "Oesophageal epithelial innervation in health and reflux oesophagitis",
             "eid": "2-s2.0-0033057105",
             "authors": [
@@ -25945,42 +25981,6 @@
             "doi": "10.1007/s10350-007-0215-8"
         },
         {
-            "title": "Reproducible assessment of vaginal and rectal mucosal and skin blood flow: Laser doppler fluximetry of the pelvic microcirculation",
-            "eid": "2-s2.0-0033970081",
-            "authors": [
-                {
-                    "scopus_id": "7003781894",
-                    "name": "Emmanuel A.V.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "24494137600",
-                    "name": "Beard R.W.",
-                    "affiliation_id": [
-                        "60031535"
-                    ]
-                }
-            ],
-            "citations": 20,
-            "publication_name": "Clinical Science",
-            "issn": "01435221",
-            "cover_date": "2000-01-01",
-            "venue": "Journal",
-            "volume": "98",
-            "issue": "2",
-            "page_range": "201-207",
-            "doi": "10.1042/cs0980201"
-        },
-        {
             "title": "The surgical treatment of severe idiopathic constipation",
             "eid": "2-s2.0-0023488458",
             "authors": [
@@ -26001,6 +26001,123 @@
             "issue": "4",
             "page_range": "229-235",
             "doi": "10.1007/BF01649511"
+        },
+        {
+            "title": "Long-Term Outcome of Multidisciplinary Versus Standard Gastroenterologist Care for Functional Gastrointestinal Disorders: A Randomized Trial",
+            "eid": "2-s2.0-85127351463",
+            "authors": [
+                {
+                    "scopus_id": "57191724252",
+                    "name": "Basnayake C.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57205737538",
+                    "name": "Stanley A.",
+                    "affiliation_id": [
+                        "60001522"
+                    ]
+                },
+                {
+                    "scopus_id": "23978989900",
+                    "name": "Wilson-O'Brien A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57205745309",
+                    "name": "Burrell K.",
+                    "affiliation_id": [
+                        "60001522"
+                    ]
+                },
+                {
+                    "scopus_id": "57218479726",
+                    "name": "Lees-Trinca I.",
+                    "affiliation_id": [
+                        "60001522"
+                    ]
+                },
+                {
+                    "scopus_id": "56428767900",
+                    "name": "Khera A.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57218481768",
+                    "name": "Kantidakis J.",
+                    "affiliation_id": [
+                        "60001522"
+                    ]
+                },
+                {
+                    "scopus_id": "56797751000",
+                    "name": "Wong O.",
+                    "affiliation_id": [
+                        "60001522"
+                    ]
+                },
+                {
+                    "scopus_id": "59110894900",
+                    "name": "Fox K.",
+                    "affiliation_id": [
+                        "60001522"
+                    ]
+                },
+                {
+                    "scopus_id": "36045241200",
+                    "name": "Talley N.J.",
+                    "affiliation_id": [
+                        "60010571"
+                    ]
+                },
+                {
+                    "scopus_id": "7003970080",
+                    "name": "Liew D.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7004224788",
+                    "name": "Salzberg M.R.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "25653525300",
+                    "name": "Thompson A.J.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 19,
+            "publication_name": "Clinical Gastroenterology and Hepatology",
+            "issn": "15423565",
+            "cover_date": "2022-09-01",
+            "venue": "Journal",
+            "volume": "20",
+            "issue": "9",
+            "page_range": "2102-2111.e9",
+            "doi": "10.1016/j.cgh.2021.12.005"
         },
         {
             "title": "Outcome of hospital outpatient treatment of functional gastrointestinal disorders",
@@ -26401,123 +26518,6 @@
             "issue": "5",
             "page_range": "680-688",
             "doi": "10.1093/ibd/izab134"
-        },
-        {
-            "title": "Long-Term Outcome of Multidisciplinary Versus Standard Gastroenterologist Care for Functional Gastrointestinal Disorders: A Randomized Trial",
-            "eid": "2-s2.0-85127351463",
-            "authors": [
-                {
-                    "scopus_id": "57191724252",
-                    "name": "Basnayake C.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57205737538",
-                    "name": "Stanley A.",
-                    "affiliation_id": [
-                        "60001522"
-                    ]
-                },
-                {
-                    "scopus_id": "23978989900",
-                    "name": "Wilson-O'Brien A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57205745309",
-                    "name": "Burrell K.",
-                    "affiliation_id": [
-                        "60001522"
-                    ]
-                },
-                {
-                    "scopus_id": "57218479726",
-                    "name": "Lees-Trinca I.",
-                    "affiliation_id": [
-                        "60001522"
-                    ]
-                },
-                {
-                    "scopus_id": "56428767900",
-                    "name": "Khera A.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57218481768",
-                    "name": "Kantidakis J.",
-                    "affiliation_id": [
-                        "60001522"
-                    ]
-                },
-                {
-                    "scopus_id": "56797751000",
-                    "name": "Wong O.",
-                    "affiliation_id": [
-                        "60001522"
-                    ]
-                },
-                {
-                    "scopus_id": "59110894900",
-                    "name": "Fox K.",
-                    "affiliation_id": [
-                        "60001522"
-                    ]
-                },
-                {
-                    "scopus_id": "36045241200",
-                    "name": "Talley N.J.",
-                    "affiliation_id": [
-                        "60010571"
-                    ]
-                },
-                {
-                    "scopus_id": "7003970080",
-                    "name": "Liew D.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7004224788",
-                    "name": "Salzberg M.R.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "25653525300",
-                    "name": "Thompson A.J.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 18,
-            "publication_name": "Clinical Gastroenterology and Hepatology",
-            "issn": "15423565",
-            "cover_date": "2022-09-01",
-            "venue": "Journal",
-            "volume": "20",
-            "issue": "9",
-            "page_range": "2102-2111.e9",
-            "doi": "10.1016/j.cgh.2021.12.005"
         },
         {
             "title": "Telehealth model of care for outpatient inflammatory bowel disease care in the setting of the COVID-19 pandemic",
@@ -27632,6 +27632,63 @@
             "doi": "10.1111/jgh.14908"
         },
         {
+            "title": "Pudendal nerve stimulation for bowel dysfunction in complete cauda equina syndrome",
+            "eid": "2-s2.0-84894036395",
+            "authors": [
+                {
+                    "scopus_id": "26030941900",
+                    "name": "George A.T.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "23570493200",
+                    "name": "Dudding T.C.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "24758068100",
+                    "name": "Gurmany S.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "59157648000",
+                    "name": "Nicholls R.J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "57207954920",
+                    "name": "Vaizey C.J.",
+                    "affiliation_id": [
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Annals of Surgery",
+            "issn": "00034932",
+            "cover_date": "2014-03-01",
+            "venue": "Journal",
+            "volume": "259",
+            "issue": "3",
+            "page_range": "502-507",
+            "doi": "10.1097/SLA.0b013e31828e7602"
+        },
+        {
             "title": "Constipation.",
             "eid": "2-s2.0-17444447564",
             "authors": [
@@ -28025,63 +28082,6 @@
             "issue": "2",
             "page_range": "152-163",
             "doi": "10.5217/ir.2016.14.2.152"
-        },
-        {
-            "title": "Pudendal nerve stimulation for bowel dysfunction in complete cauda equina syndrome",
-            "eid": "2-s2.0-84894036395",
-            "authors": [
-                {
-                    "scopus_id": "26030941900",
-                    "name": "George A.T.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "23570493200",
-                    "name": "Dudding T.C.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "24758068100",
-                    "name": "Gurmany S.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "59157648000",
-                    "name": "Nicholls R.J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "57207954920",
-                    "name": "Vaizey C.J.",
-                    "affiliation_id": [
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 14,
-            "publication_name": "Annals of Surgery",
-            "issn": "00034932",
-            "cover_date": "2014-03-01",
-            "venue": "Journal",
-            "volume": "259",
-            "issue": "3",
-            "page_range": "502-507",
-            "doi": "10.1097/SLA.0b013e31828e7602"
         },
         {
             "title": "Comparison of clinical outcome between open and percutaneous lead insertion for permanent sacral nerve neurostimulation for the treatment of fecal incontinence",
@@ -29197,6 +29197,45 @@
             "doi": "10.1053/j.gastro.2004.03.042"
         },
         {
+            "title": "Low dose interferon gamma for refractory Crohn's disease",
+            "eid": "2-s2.0-0031406121",
+            "authors": [
+                {
+                    "scopus_id": "6701668226",
+                    "name": "Debinski H.",
+                    "affiliation_id": [
+                        "60022734",
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "7203066754",
+                    "name": "Forbes A.",
+                    "affiliation_id": [
+                        "60022734",
+                        "60022734"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60022734",
+                        "60022734"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Italian Journal of Gastroenterology and Hepatology",
+            "issn": "11258055",
+            "cover_date": "1997-12-01",
+            "venue": "Journal",
+            "volume": "29",
+            "issue": "5",
+            "page_range": "403-406",
+            "doi": ""
+        },
+        {
             "title": "Abnormalities of innervation of internal anal sphincter in fecal incontinence",
             "eid": "2-s2.0-0027449240",
             "authors": [
@@ -29594,45 +29633,6 @@
             "doi": "10.1016/S0002-9343(99)00079-0"
         },
         {
-            "title": "Low dose interferon gamma for refractory Crohn's disease",
-            "eid": "2-s2.0-0031406121",
-            "authors": [
-                {
-                    "scopus_id": "6701668226",
-                    "name": "Debinski H.",
-                    "affiliation_id": [
-                        "60022734",
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "7203066754",
-                    "name": "Forbes A.",
-                    "affiliation_id": [
-                        "60022734",
-                        "60022734"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60022734",
-                        "60022734"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "Italian Journal of Gastroenterology and Hepatology",
-            "issn": "11258055",
-            "cover_date": "1997-12-01",
-            "venue": "Journal",
-            "volume": "29",
-            "issue": "5",
-            "page_range": "403-406",
-            "doi": ""
-        },
-        {
             "title": "Decreased sensitivity of muscarinic but not 5\u2010hydroxytryptamine receptors of the internal anal sphincter in neurogenic faecal incontinence",
             "eid": "2-s2.0-0026657240",
             "authors": [
@@ -30008,6 +30008,53 @@
             "issue": "6",
             "page_range": "572-578",
             "doi": "10.1159/000007709"
+        },
+        {
+            "title": "The gut microbiota and gut disease",
+            "eid": "2-s2.0-85117239211",
+            "authors": [
+                {
+                    "scopus_id": "56481697900",
+                    "name": "Fehily S.R.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57191724252",
+                    "name": "Basnayake C.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56567316500",
+                    "name": "Wright E.K.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Internal Medicine Journal",
+            "issn": "14440903",
+            "cover_date": "2021-10-01",
+            "venue": "Journal",
+            "volume": "51",
+            "issue": "10",
+            "page_range": "1594-1604",
+            "doi": "10.1111/imj.15520"
         },
         {
             "title": "Systematic review: efficacy of escalated maintenance anti-tumour necrosis factor therapy in Crohn's disease",
@@ -30464,53 +30511,6 @@
             "issue": "2",
             "page_range": "29-35",
             "doi": ""
-        },
-        {
-            "title": "The gut microbiota and gut disease",
-            "eid": "2-s2.0-85117239211",
-            "authors": [
-                {
-                    "scopus_id": "56481697900",
-                    "name": "Fehily S.R.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57191724252",
-                    "name": "Basnayake C.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56567316500",
-                    "name": "Wright E.K.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 7,
-            "publication_name": "Internal Medicine Journal",
-            "issn": "14440903",
-            "cover_date": "2021-10-01",
-            "venue": "Journal",
-            "volume": "51",
-            "issue": "10",
-            "page_range": "1594-1604",
-            "doi": "10.1111/imj.15520"
         },
         {
             "title": "Pharmacological modulation of gut mucosal and large vessel blood flow",
@@ -31600,6 +31600,118 @@
             "doi": "10.1111/j.1445-2197.1986.tb02380.x"
         },
         {
+            "title": "Adalimumab Clearance, Rather Than Trough Level, May Have Greatest Relevance to Crohn\u2019s Disease Therapeutic Outcomes Assessed Clinically and Endoscopically",
+            "eid": "2-s2.0-85178476689",
+            "authors": [
+                {
+                    "scopus_id": "56567316500",
+                    "name": "Wright E.K.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "24436876600",
+                    "name": "Chaparro M.",
+                    "affiliation_id": [
+                        "60024257"
+                    ]
+                },
+                {
+                    "scopus_id": "57215644580",
+                    "name": "Gionchetti P.",
+                    "affiliation_id": [
+                        "60024574"
+                    ]
+                },
+                {
+                    "scopus_id": "56457433900",
+                    "name": "Hamilton A.L.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57003368200",
+                    "name": "Schulberg J.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60026553",
+                        "60005087"
+                    ]
+                },
+                {
+                    "scopus_id": "15738414000",
+                    "name": "Gisbert J.P.",
+                    "affiliation_id": [
+                        "60024257"
+                    ]
+                },
+                {
+                    "scopus_id": "57190111507",
+                    "name": "Valerii M.C.",
+                    "affiliation_id": [
+                        "60024574"
+                    ]
+                },
+                {
+                    "scopus_id": "7003296092",
+                    "name": "Rizzello F.",
+                    "affiliation_id": [
+                        "60024574"
+                    ]
+                },
+                {
+                    "scopus_id": "25924786600",
+                    "name": "De Cruz P.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60005087"
+                    ]
+                },
+                {
+                    "scopus_id": "7005547339",
+                    "name": "Panetta J.C.",
+                    "affiliation_id": [
+                        "60019905"
+                    ]
+                },
+                {
+                    "scopus_id": "58911028800",
+                    "name": "der Wind A.E.V.",
+                    "affiliation_id": [
+                        "112703379"
+                    ]
+                },
+                {
+                    "scopus_id": "35402069200",
+                    "name": "Kamm M.A.",
+                    "affiliation_id": [
+                        "60001522",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57203540247",
+                    "name": "Dervieux T.",
+                    "affiliation_id": [
+                        "112703379"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Journal of Crohn's and Colitis",
+            "issn": "18739946",
+            "cover_date": "2024-02-01",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "2",
+            "page_range": "212-222",
+            "doi": "10.1093/ecco-jcc/jjad140"
+        },
+        {
             "title": "Pelvic floor behavioral treatment for fecal incontinence and constipation in quiescent inflammatory bowel disease",
             "eid": "2-s2.0-85125375673",
             "authors": [
@@ -31995,118 +32107,6 @@
             "issue": "8",
             "page_range": "783-784",
             "doi": "10.1007/BF02048375"
-        },
-        {
-            "title": "Adalimumab Clearance, Rather Than Trough Level, May Have Greatest Relevance to Crohn\u2019s Disease Therapeutic Outcomes Assessed Clinically and Endoscopically",
-            "eid": "2-s2.0-85178476689",
-            "authors": [
-                {
-                    "scopus_id": "56567316500",
-                    "name": "Wright E.K.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "24436876600",
-                    "name": "Chaparro M.",
-                    "affiliation_id": [
-                        "60024257"
-                    ]
-                },
-                {
-                    "scopus_id": "57215644580",
-                    "name": "Gionchetti P.",
-                    "affiliation_id": [
-                        "60024574"
-                    ]
-                },
-                {
-                    "scopus_id": "56457433900",
-                    "name": "Hamilton A.L.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57003368200",
-                    "name": "Schulberg J.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60026553",
-                        "60005087"
-                    ]
-                },
-                {
-                    "scopus_id": "15738414000",
-                    "name": "Gisbert J.P.",
-                    "affiliation_id": [
-                        "60024257"
-                    ]
-                },
-                {
-                    "scopus_id": "57190111507",
-                    "name": "Valerii M.C.",
-                    "affiliation_id": [
-                        "60024574"
-                    ]
-                },
-                {
-                    "scopus_id": "7003296092",
-                    "name": "Rizzello F.",
-                    "affiliation_id": [
-                        "60024574"
-                    ]
-                },
-                {
-                    "scopus_id": "25924786600",
-                    "name": "De Cruz P.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60005087"
-                    ]
-                },
-                {
-                    "scopus_id": "7005547339",
-                    "name": "Panetta J.C.",
-                    "affiliation_id": [
-                        "60019905"
-                    ]
-                },
-                {
-                    "scopus_id": "58911028800",
-                    "name": "der Wind A.E.V.",
-                    "affiliation_id": [
-                        "112703379"
-                    ]
-                },
-                {
-                    "scopus_id": "35402069200",
-                    "name": "Kamm M.A.",
-                    "affiliation_id": [
-                        "60001522",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57203540247",
-                    "name": "Dervieux T.",
-                    "affiliation_id": [
-                        "112703379"
-                    ]
-                }
-            ],
-            "citations": 3,
-            "publication_name": "Journal of Crohn's and Colitis",
-            "issn": "18739946",
-            "cover_date": "2024-02-01",
-            "venue": "Journal",
-            "volume": "18",
-            "issue": "2",
-            "page_range": "212-222",
-            "doi": "10.1093/ecco-jcc/jjad140"
         },
         {
             "title": "Childhood antibiotics as a risk factor for Crohn's disease: The ENIGMA International Cohort Study",
@@ -36654,6 +36654,5 @@
             "$": "Immunology and Microbiology (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:47:46",
-    "c-score": null
+    "date fetched": "2024-07-12 19:09:40"
 }

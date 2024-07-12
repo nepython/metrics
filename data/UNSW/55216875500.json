@@ -21,7 +21,7 @@
                     ]
                 }
             ],
-            "citations": 1223,
+            "citations": 1225,
             "publication_name": "Surveys in Geophysics",
             "issn": "01693298",
             "cover_date": "2011-09-01",
@@ -52,7 +52,7 @@
                     ]
                 }
             ],
-            "citations": 1216,
+            "citations": 1217,
             "publication_name": "Geophysical Research Letters",
             "issn": "00948276",
             "cover_date": "2006-01-16",
@@ -232,7 +232,7 @@
                     ]
                 }
             ],
-            "citations": 526,
+            "citations": 527,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2007-05-04",
@@ -978,63 +978,6 @@
             "doi": "10.5194/essd-10-1551-2018"
         },
         {
-            "title": "Unabated planetary warming and its ocean structure since 2006",
-            "eid": "2-s2.0-84923915684",
-            "authors": [
-                {
-                    "scopus_id": "7003777393",
-                    "name": "Roemmich D.",
-                    "affiliation_id": [
-                        "60023018"
-                    ]
-                },
-                {
-                    "scopus_id": "55216875500",
-                    "name": "Church J.",
-                    "affiliation_id": [
-                        "60088298"
-                    ]
-                },
-                {
-                    "scopus_id": "7006151108",
-                    "name": "Gilson J.",
-                    "affiliation_id": [
-                        "60023018"
-                    ]
-                },
-                {
-                    "scopus_id": "6508268565",
-                    "name": "Monselesan D.",
-                    "affiliation_id": [
-                        "60088298"
-                    ]
-                },
-                {
-                    "scopus_id": "7102274999",
-                    "name": "Sutton P.",
-                    "affiliation_id": [
-                        "60024594"
-                    ]
-                },
-                {
-                    "scopus_id": "55901810200",
-                    "name": "Wijffels S.",
-                    "affiliation_id": [
-                        "60088298"
-                    ]
-                }
-            ],
-            "citations": 362,
-            "publication_name": "Nature Climate Change",
-            "issn": "1758678X",
-            "cover_date": "2015-02-25",
-            "venue": "Journal",
-            "volume": "5",
-            "issue": "3",
-            "page_range": "240-245",
-            "doi": "10.1038/nclimate2513"
-        },
-        {
             "title": "A review of global ocean temperature observations: Implications for ocean heat content estimates and climate change",
             "eid": "2-s2.0-84884383193",
             "authors": [
@@ -1240,7 +1183,7 @@
                     ]
                 }
             ],
-            "citations": 362,
+            "citations": 363,
             "publication_name": "Reviews of Geophysics",
             "issn": "87551209",
             "cover_date": "2013-09-01",
@@ -1249,6 +1192,63 @@
             "issue": "3",
             "page_range": "450-483",
             "doi": "10.1002/rog.20022"
+        },
+        {
+            "title": "Unabated planetary warming and its ocean structure since 2006",
+            "eid": "2-s2.0-84923915684",
+            "authors": [
+                {
+                    "scopus_id": "7003777393",
+                    "name": "Roemmich D.",
+                    "affiliation_id": [
+                        "60023018"
+                    ]
+                },
+                {
+                    "scopus_id": "55216875500",
+                    "name": "Church J.",
+                    "affiliation_id": [
+                        "60088298"
+                    ]
+                },
+                {
+                    "scopus_id": "7006151108",
+                    "name": "Gilson J.",
+                    "affiliation_id": [
+                        "60023018"
+                    ]
+                },
+                {
+                    "scopus_id": "6508268565",
+                    "name": "Monselesan D.",
+                    "affiliation_id": [
+                        "60088298"
+                    ]
+                },
+                {
+                    "scopus_id": "7102274999",
+                    "name": "Sutton P.",
+                    "affiliation_id": [
+                        "60024594"
+                    ]
+                },
+                {
+                    "scopus_id": "55901810200",
+                    "name": "Wijffels S.",
+                    "affiliation_id": [
+                        "60088298"
+                    ]
+                }
+            ],
+            "citations": 362,
+            "publication_name": "Nature Climate Change",
+            "issn": "1758678X",
+            "cover_date": "2015-02-25",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "3",
+            "page_range": "240-245",
+            "doi": "10.1038/nclimate2513"
         },
         {
             "title": "The increasing rate of global mean sea-level rise during 1993-2014",
@@ -1307,7 +1307,7 @@
                     "scopus_id": "26323129100",
                     "name": "Harig C.",
                     "affiliation_id": [
-                        "60010065"
+                        "60150063"
                     ]
                 }
             ],
@@ -1561,7 +1561,7 @@
                     ]
                 }
             ],
-            "citations": 242,
+            "citations": 243,
             "publication_name": "Nature Geoscience",
             "issn": "17520894",
             "cover_date": "2013-06-01",
@@ -1712,7 +1712,7 @@
                     ]
                 }
             ],
-            "citations": 226,
+            "citations": 227,
             "publication_name": "Geophysical Research Letters",
             "issn": "00948276",
             "cover_date": "2011-12-01",
@@ -1745,7 +1745,7 @@
                     ]
                 }
             ],
-            "citations": 224,
+            "citations": 225,
             "publication_name": "Geophysical Research Letters",
             "issn": "00948276",
             "cover_date": "2012-11-01",
@@ -1913,7 +1913,7 @@
                     ]
                 }
             ],
-            "citations": 206,
+            "citations": 207,
             "publication_name": "Nature Climate Change",
             "issn": "1758678X",
             "cover_date": "2015-06-26",
@@ -3831,7 +3831,7 @@
                     ]
                 }
             ],
-            "citations": 100,
+            "citations": 101,
             "publication_name": "Earth's Future",
             "issn": "",
             "cover_date": "2019-03-01",
@@ -4618,7 +4618,7 @@
                     ]
                 }
             ],
-            "citations": 74,
+            "citations": 75,
             "publication_name": "Marine Geodesy",
             "issn": "01490419",
             "cover_date": "2011-07-01",
@@ -6617,6 +6617,64 @@
             "doi": "10.1038/s41467-021-21265-6"
         },
         {
+            "title": "Sea-Level Trend Uncertainty With Pacific Climatic Variability and Temporally-Correlated Noise",
+            "eid": "2-s2.0-85043524907",
+            "authors": [
+                {
+                    "scopus_id": "55061596200",
+                    "name": "Royston S.",
+                    "affiliation_id": [
+                        "60015356"
+                    ]
+                },
+                {
+                    "scopus_id": "7402884230",
+                    "name": "Watson C.S.",
+                    "affiliation_id": [
+                        "60015356"
+                    ]
+                },
+                {
+                    "scopus_id": "35580507900",
+                    "name": "Legr\u00e9sy B.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60022330"
+                    ]
+                },
+                {
+                    "scopus_id": "58890506000",
+                    "name": "King M.A.",
+                    "affiliation_id": [
+                        "60015356"
+                    ]
+                },
+                {
+                    "scopus_id": "55216875500",
+                    "name": "Church J.A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7102400901",
+                    "name": "Bos M.S.",
+                    "affiliation_id": [
+                        "60001002"
+                    ]
+                }
+            ],
+            "citations": 37,
+            "publication_name": "Journal of Geophysical Research: Oceans",
+            "issn": "21699275",
+            "cover_date": "2018-03-01",
+            "venue": "Journal",
+            "volume": "123",
+            "issue": "3",
+            "page_range": "1978-1993",
+            "doi": "10.1002/2017JC013655"
+        },
+        {
             "title": "Basal melt, seasonal water mass transformation, ocean current variability, and deep convection processes along the Amery Ice Shelf calving front, East Antarctica",
             "eid": "2-s2.0-84978435077",
             "authors": [
@@ -7218,64 +7276,6 @@
             "issue": "9",
             "page_range": "1747-1749",
             "doi": "10.1175/1520-0485(1983)013<1747:APUATT>2.0.CO;2"
-        },
-        {
-            "title": "Sea-Level Trend Uncertainty With Pacific Climatic Variability and Temporally-Correlated Noise",
-            "eid": "2-s2.0-85043524907",
-            "authors": [
-                {
-                    "scopus_id": "55061596200",
-                    "name": "Royston S.",
-                    "affiliation_id": [
-                        "60015356"
-                    ]
-                },
-                {
-                    "scopus_id": "7402884230",
-                    "name": "Watson C.S.",
-                    "affiliation_id": [
-                        "60015356"
-                    ]
-                },
-                {
-                    "scopus_id": "35580507900",
-                    "name": "Legr\u00e9sy B.",
-                    "affiliation_id": [
-                        "60029470",
-                        "60022330"
-                    ]
-                },
-                {
-                    "scopus_id": "58890506000",
-                    "name": "King M.A.",
-                    "affiliation_id": [
-                        "60015356"
-                    ]
-                },
-                {
-                    "scopus_id": "55216875500",
-                    "name": "Church J.A.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7102400901",
-                    "name": "Bos M.S.",
-                    "affiliation_id": [
-                        "60001002"
-                    ]
-                }
-            ],
-            "citations": 36,
-            "publication_name": "Journal of Geophysical Research: Oceans",
-            "issn": "21699275",
-            "cover_date": "2018-03-01",
-            "venue": "Journal",
-            "volume": "123",
-            "issue": "3",
-            "page_range": "1978-1993",
-            "doi": "10.1002/2017JC013655"
         },
         {
             "title": "A Mass and Energy Conservation Analysis of Drift in the CMIP6 Ensemble",
@@ -8780,6 +8780,54 @@
             "doi": "10.1016/B978-0-12-391851-2.00027-1"
         },
         {
+            "title": "Comment on Ocean heat content and Earth's radiation imbalance. II. Relation to climate shifts",
+            "eid": "2-s2.0-84868139063",
+            "authors": [
+                {
+                    "scopus_id": "55382209900",
+                    "name": "Nuccitelli D.",
+                    "affiliation_id": [
+                        "60076593"
+                    ]
+                },
+                {
+                    "scopus_id": "56030191500",
+                    "name": "Way R.",
+                    "affiliation_id": [
+                        "60019000"
+                    ]
+                },
+                {
+                    "scopus_id": "55382250500",
+                    "name": "Painting R.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55216875500",
+                    "name": "Church J.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "55382564200",
+                    "name": "Cook J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 17,
+            "publication_name": "Physics Letters, Section A: General, Atomic and Solid State Physics",
+            "issn": "03759601",
+            "cover_date": "2012-10-01",
+            "venue": "Journal",
+            "volume": "376",
+            "issue": "45",
+            "page_range": "3466-3468",
+            "doi": "10.1016/j.physleta.2012.10.010"
+        },
+        {
             "title": "Chapter 1.2 Ocean processes and climate phenomena",
             "eid": "2-s2.0-77956782756",
             "authors": [
@@ -8880,90 +8928,6 @@
             "issue": "1",
             "page_range": "1-10",
             "doi": "10.1071/MF9830001"
-        },
-        {
-            "title": "Comment on Ocean heat content and Earth's radiation imbalance. II. Relation to climate shifts",
-            "eid": "2-s2.0-84868139063",
-            "authors": [
-                {
-                    "scopus_id": "55382209900",
-                    "name": "Nuccitelli D.",
-                    "affiliation_id": [
-                        "60076593"
-                    ]
-                },
-                {
-                    "scopus_id": "56030191500",
-                    "name": "Way R.",
-                    "affiliation_id": [
-                        "60019000"
-                    ]
-                },
-                {
-                    "scopus_id": "55382250500",
-                    "name": "Painting R.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "55216875500",
-                    "name": "Church J.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "55382564200",
-                    "name": "Cook J.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 16,
-            "publication_name": "Physics Letters, Section A: General, Atomic and Solid State Physics",
-            "issn": "03759601",
-            "cover_date": "2012-10-01",
-            "venue": "Journal",
-            "volume": "376",
-            "issue": "45",
-            "page_range": "3466-3468",
-            "doi": "10.1016/j.physleta.2012.10.010"
-        },
-        {
-            "title": "Current and density observations across the wake of Hurricane Gay",
-            "eid": "2-s2.0-0012252076",
-            "authors": [
-                {
-                    "scopus_id": "55216875500",
-                    "name": "Church J.A.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "34975057000",
-                    "name": "Joyce T.M.",
-                    "affiliation_id": [
-                        "60013609"
-                    ]
-                },
-                {
-                    "scopus_id": "55456758000",
-                    "name": "Price J.F.",
-                    "affiliation_id": [
-                        "60013609"
-                    ]
-                }
-            ],
-            "citations": 16,
-            "publication_name": "Journal of Physical Oceanography",
-            "issn": "00223670",
-            "cover_date": "1989-02-01",
-            "venue": "Journal",
-            "volume": "19",
-            "issue": "2",
-            "page_range": "259-265",
-            "doi": "10.1175/1520-0485(1989)019<0259:CADOAT>2.0.CO;2"
         },
         {
             "title": "A High-End Estimate of Sea Level Rise for Practitioners",
@@ -9172,7 +9136,7 @@
                     ]
                 }
             ],
-            "citations": 15,
+            "citations": 16,
             "publication_name": "Earth's Future",
             "issn": "",
             "cover_date": "2022-11-01",
@@ -9181,6 +9145,42 @@
             "issue": "11",
             "page_range": null,
             "doi": "10.1029/2022EF002751"
+        },
+        {
+            "title": "Current and density observations across the wake of Hurricane Gay",
+            "eid": "2-s2.0-0012252076",
+            "authors": [
+                {
+                    "scopus_id": "55216875500",
+                    "name": "Church J.A.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "34975057000",
+                    "name": "Joyce T.M.",
+                    "affiliation_id": [
+                        "60013609"
+                    ]
+                },
+                {
+                    "scopus_id": "55456758000",
+                    "name": "Price J.F.",
+                    "affiliation_id": [
+                        "60013609"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Journal of Physical Oceanography",
+            "issn": "00223670",
+            "cover_date": "1989-02-01",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "2",
+            "page_range": "259-265",
+            "doi": "10.1175/1520-0485(1989)019<0259:CADOAT>2.0.CO;2"
         },
         {
             "title": "Regional Sea Level Variability and Trends, 1960\u20132007: A Comparison of Sea Level Reconstructions and Ocean Syntheses",
@@ -9634,7 +9634,7 @@
                     ]
                 }
             ],
-            "citations": 12,
+            "citations": 13,
             "publication_name": "Journal of Climate",
             "issn": "08948755",
             "cover_date": "2019-01-01",
@@ -9837,7 +9837,7 @@
                     "name": "Bao X.",
                     "affiliation_id": [
                         "60022422",
-                        "60022422"
+                        "60132944"
                     ]
                 }
             ],
@@ -11846,6 +11846,5 @@
             "$": "Agricultural and Biological Sciences (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:11:21",
-    "c-score": null
+    "date fetched": "2024-07-12 19:51:28"
 }

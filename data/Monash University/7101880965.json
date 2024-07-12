@@ -1,0 +1,2749 @@
+{
+    "scopus_id": "7101880965",
+    "name": "Monaghan, Joseph J.",
+    "publications": [
+        {
+            "title": "Smoothed particle hydrodynamics",
+            "eid": "2-s2.0-0142088484",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 4282,
+            "publication_name": "Annual Review of Astronomy and Astrophysics",
+            "issn": "00664146",
+            "cover_date": "1992-01-01",
+            "venue": "Book Series",
+            "volume": "30",
+            "issue": "1",
+            "page_range": "543-574",
+            "doi": "10.1146/annurev.aa.30.090192.002551"
+        },
+        {
+            "title": "Simulating free surface flows with SPH",
+            "eid": "2-s2.0-28144440714",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 3003,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "110",
+            "issue": "2",
+            "page_range": "399-406",
+            "doi": "10.1006/jcph.1994.1034"
+        },
+        {
+            "title": "Smoothed particle hydrodynamics",
+            "eid": "2-s2.0-22544448703",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 2391,
+            "publication_name": "Reports on Progress in Physics",
+            "issn": "00344885",
+            "cover_date": "2005-08-01",
+            "venue": "Journal",
+            "volume": "68",
+            "issue": "8",
+            "page_range": "1703-1759",
+            "doi": "10.1088/0034-4885/68/8/R01"
+        },
+        {
+            "title": "Shock simulation by the particle method SPH",
+            "eid": "2-s2.0-33644851328",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "24513838800",
+                    "name": "Gingold R.A.",
+                    "affiliation_id": [
+                        "60015827"
+                    ]
+                }
+            ],
+            "citations": 1070,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "1983-01-01",
+            "venue": "Journal",
+            "volume": "52",
+            "issue": "2",
+            "page_range": "374-389",
+            "doi": "10.1016/0021-9991(83)90036-0"
+        },
+        {
+            "title": "An introduction to SPH",
+            "eid": "2-s2.0-0023165466",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019598",
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 957,
+            "publication_name": "Computer Physics Communications",
+            "issn": "00104655",
+            "cover_date": "1988-01-01",
+            "venue": "Journal",
+            "volume": "48",
+            "issue": "1",
+            "page_range": "89-96",
+            "doi": "10.1016/0010-4655(88)90026-4"
+        },
+        {
+            "title": "SPH without a Tensile Instability",
+            "eid": "2-s2.0-0000227110",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 743,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "2000-04-10",
+            "venue": "Journal",
+            "volume": "159",
+            "issue": "2",
+            "page_range": "290-311",
+            "doi": "10.1006/jcph.2000.6439"
+        },
+        {
+            "title": "On the problem of penetration in particle methods",
+            "eid": "2-s2.0-2342616998",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019598"
+                    ]
+                }
+            ],
+            "citations": 658,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "1989-01-01",
+            "venue": "Journal",
+            "volume": "82",
+            "issue": "1",
+            "page_range": "1-15",
+            "doi": "10.1016/0021-9991(89)90032-6"
+        },
+        {
+            "title": "Smoothed particle hydrodynamics and its diverse applications",
+            "eid": "2-s2.0-84555202477",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 638,
+            "publication_name": "Annual Review of Fluid Mechanics",
+            "issn": "00664189",
+            "cover_date": "2011-12-01",
+            "venue": "Book Series",
+            "volume": "44",
+            "issue": "",
+            "page_range": "323-346",
+            "doi": "10.1146/annurev-fluid-120710-101220"
+        },
+        {
+            "title": "SPH elastic dynamics",
+            "eid": "2-s2.0-0035850697",
+            "authors": [
+                {
+                    "scopus_id": "7404300385",
+                    "name": "Gray J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7103062555",
+                    "name": "Swift R.",
+                    "affiliation_id": [
+                        "60006164"
+                    ]
+                }
+            ],
+            "citations": 589,
+            "publication_name": "Computer Methods in Applied Mechanics and Engineering",
+            "issn": "00457825",
+            "cover_date": "2001-10-12",
+            "venue": "Journal",
+            "volume": "190",
+            "issue": "49-50",
+            "page_range": "6641-6662",
+            "doi": "10.1016/S0045-7825(01)00254-7"
+        },
+        {
+            "title": "Conduction Modelling Using Smoothed Particle Hydrodynamics",
+            "eid": "2-s2.0-0000031020",
+            "authors": [
+                {
+                    "scopus_id": "7202290548",
+                    "name": "Cleary P.W.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 538,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "1999-01-01",
+            "venue": "Journal",
+            "volume": "148",
+            "issue": "1",
+            "page_range": "227-264",
+            "doi": "10.1006/jcph.1998.6118"
+        },
+        {
+            "title": "Solitary waves on a cretan beach",
+            "eid": "2-s2.0-0032771978",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57197882236",
+                    "name": "Kos A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 474,
+            "publication_name": "Journal of Waterway, Port, Coastal and Ocean Engineering",
+            "issn": "0733950X",
+            "cover_date": "1999-01-01",
+            "venue": "Journal",
+            "volume": "125",
+            "issue": "3",
+            "page_range": "145-154",
+            "doi": "10.1061/(asce)0733-950x(1999)125:3(145)"
+        },
+        {
+            "title": "SPH simulation of multi-phase flow",
+            "eid": "2-s2.0-0029632864",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "16447602700",
+                    "name": "Kocharyan A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 418,
+            "publication_name": "Computer Physics Communications",
+            "issn": "00104655",
+            "cover_date": "1995-05-02",
+            "venue": "Journal",
+            "volume": "87",
+            "issue": "1-2",
+            "page_range": "225-235",
+            "doi": "10.1016/0010-4655(94)00174-Z"
+        },
+        {
+            "title": "Particle methods for hydrodynamics",
+            "eid": "2-s2.0-0022146897",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 368,
+            "publication_name": "Computer Physics Reports",
+            "issn": "01677977",
+            "cover_date": "1985-01-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "2",
+            "page_range": "71-124",
+            "doi": "10.1016/0167-7977(85)90010-3"
+        },
+        {
+            "title": "A switch to reduce SPH viscosity",
+            "eid": "2-s2.0-0031232447",
+            "authors": [
+                {
+                    "scopus_id": "55730082800",
+                    "name": "Morris J.P.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60032781"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 345,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "1997-09-01",
+            "venue": "Journal",
+            "volume": "136",
+            "issue": "1",
+            "page_range": "41-50",
+            "doi": "10.1006/jcph.1997.5690"
+        },
+        {
+            "title": "SPH and Riemann Solvers",
+            "eid": "2-s2.0-0031572112",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 335,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "1997-09-15",
+            "venue": "Journal",
+            "volume": "136",
+            "issue": "2",
+            "page_range": "298-307",
+            "doi": "10.1006/jcph.1997.5732"
+        },
+        {
+            "title": "Kernel estimates as a basis for general particle methods in hydrodynamics",
+            "eid": "2-s2.0-33645123735",
+            "authors": [
+                {
+                    "scopus_id": "24513838800",
+                    "name": "Gingold R.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 323,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "1982-01-01",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "3",
+            "page_range": "429-453",
+            "doi": "10.1016/0021-9991(82)90025-0"
+        },
+        {
+            "title": "SPH particle boundary forces for arbitrary boundaries",
+            "eid": "2-s2.0-69349104479",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "24485111900",
+                    "name": "Kajtar J.B.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 275,
+            "publication_name": "Computer Physics Communications",
+            "issn": "00104655",
+            "cover_date": "2009-10-01",
+            "venue": "Journal",
+            "volume": "180",
+            "issue": "10",
+            "page_range": "1811-1820",
+            "doi": "10.1016/j.cpc.2009.05.008"
+        },
+        {
+            "title": "An energy-conserving formalism for adaptive gravitational force softening in smoothed particle hydrodynamics and N-body codes",
+            "eid": "2-s2.0-33846411399",
+            "authors": [
+                {
+                    "scopus_id": "35184737800",
+                    "name": "Price D.J.",
+                    "affiliation_id": [
+                        "60026479"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 266,
+            "publication_name": "Monthly Notices of the Royal Astronomical Society",
+            "issn": "00358711",
+            "cover_date": "2007-01-01",
+            "venue": "Journal",
+            "volume": "374",
+            "issue": "4",
+            "page_range": "1347-1358",
+            "doi": "10.1111/j.1365-2966.2006.11241.x"
+        },
+        {
+            "title": "Fluid motion generated by impact",
+            "eid": "2-s2.0-0242468323",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57197882236",
+                    "name": "Kos A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7004559596",
+                    "name": "Issa N.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 224,
+            "publication_name": "Journal of Waterway, Port, Coastal and Ocean Engineering",
+            "issn": "0733950X",
+            "cover_date": "2003-11-01",
+            "venue": "Journal",
+            "volume": "129",
+            "issue": "6",
+            "page_range": "250-259",
+            "doi": "10.1061/(ASCE)0733-950X(2003)129:6(250)"
+        },
+        {
+            "title": "A simple SPH algorithm for multi-fluid flow with high densityratios",
+            "eid": "2-s2.0-84872045174",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "26632500300",
+                    "name": "Rafiee A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 206,
+            "publication_name": "International Journal for Numerical Methods in Fluids",
+            "issn": "02712091",
+            "cover_date": "2013-02-20",
+            "venue": "Journal",
+            "volume": "71",
+            "issue": "5",
+            "page_range": "537-561",
+            "doi": "10.1002/fld.3671"
+        },
+        {
+            "title": "Extrapolating B splines for interpolation",
+            "eid": "2-s2.0-0000710017",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 200,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "1985-09-15",
+            "venue": "Journal",
+            "volume": "60",
+            "issue": "2",
+            "page_range": "253-262",
+            "doi": "10.1016/0021-9991(85)90006-3"
+        },
+        {
+            "title": "Gravity currents descending a ramp in a stratified tank",
+            "eid": "2-s2.0-0032689785",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "56052932000",
+                    "name": "Cas R.A.F.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57197882236",
+                    "name": "Kos A.M.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57190397547",
+                    "name": "Hallworth M.",
+                    "affiliation_id": [
+                        "60119937"
+                    ]
+                }
+            ],
+            "citations": 175,
+            "publication_name": "Journal of Fluid Mechanics",
+            "issn": "00221120",
+            "cover_date": "1999-01-25",
+            "venue": "Journal",
+            "volume": "379",
+            "issue": "",
+            "page_range": "39-70",
+            "doi": "10.1017/s0022112098003280"
+        },
+        {
+            "title": "SPH compressible turbulence",
+            "eid": "2-s2.0-0041813283",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 158,
+            "publication_name": "Monthly Notices of the Royal Astronomical Society",
+            "issn": "00358711",
+            "cover_date": "2002-09-21",
+            "venue": "Journal",
+            "volume": "335",
+            "issue": "3",
+            "page_range": "843-852",
+            "doi": "10.1046/j.1365-8711.2002.05678.x"
+        },
+        {
+            "title": "Scott Russell's wave generator",
+            "eid": "2-s2.0-0034093021",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57197882236",
+                    "name": "Kos A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 151,
+            "publication_name": "Physics of Fluids",
+            "issn": "10706631",
+            "cover_date": "2000-01-01",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "3",
+            "page_range": "622-630",
+            "doi": "10.1063/1.870269"
+        },
+        {
+            "title": "Smoothed Particle Magnetohydrodynamics - II. Variational principles and variable smoothing-length terms",
+            "eid": "2-s2.0-1142276372",
+            "authors": [
+                {
+                    "scopus_id": "35184737800",
+                    "name": "Price D.J.",
+                    "affiliation_id": [
+                        "60019598"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 127,
+            "publication_name": "Monthly Notices of the Royal Astronomical Society",
+            "issn": "00358711",
+            "cover_date": "2004-02-11",
+            "venue": "Journal",
+            "volume": "348",
+            "issue": "1",
+            "page_range": "139-152",
+            "doi": "10.1111/j.1365-2966.2004.07346.x"
+        },
+        {
+            "title": "SPH modelling of water waves generated by submarine landslides",
+            "eid": "2-s2.0-78649926983",
+            "authors": [
+                {
+                    "scopus_id": "36665749600",
+                    "name": "Capone T.",
+                    "affiliation_id": [
+                        "60032350"
+                    ]
+                },
+                {
+                    "scopus_id": "6506070630",
+                    "name": "Panizzo A.",
+                    "affiliation_id": [
+                        "60032350"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 104,
+            "publication_name": "Journal of Hydraulic Research",
+            "issn": "00221686",
+            "cover_date": "2010-12-15",
+            "venue": "Journal",
+            "volume": "48",
+            "issue": "SUPPL. 1",
+            "page_range": "80-84",
+            "doi": "10.1080/00221686.2010.9641248"
+        },
+        {
+            "title": "Smoothed particle magnetohydrodynamics - III. Multidimensional tests and the \u25bd \u00b7 B = 0 constraint",
+            "eid": "2-s2.0-28744445642",
+            "authors": [
+                {
+                    "scopus_id": "35184737800",
+                    "name": "Price D.J.",
+                    "affiliation_id": [
+                        "60026479"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 100,
+            "publication_name": "Monthly Notices of the Royal Astronomical Society",
+            "issn": "00358711",
+            "cover_date": "2005-12-01",
+            "venue": "Journal",
+            "volume": "364",
+            "issue": "2",
+            "page_range": "384-406",
+            "doi": "10.1111/j.1365-2966.2005.09576.x"
+        },
+        {
+            "title": "A faster algorithm for smoothed particle hydrodynamics with radiative transfer in the flux-limited diffusion approximation",
+            "eid": "2-s2.0-29144484104",
+            "authors": [
+                {
+                    "scopus_id": "23053640700",
+                    "name": "Whitehouse S.C.",
+                    "affiliation_id": [
+                        "60026479"
+                    ]
+                },
+                {
+                    "scopus_id": "7006410527",
+                    "name": "Bate M.R.",
+                    "affiliation_id": [
+                        "60026479"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 94,
+            "publication_name": "Monthly Notices of the Royal Astronomical Society",
+            "issn": "00358711",
+            "cover_date": "2005-12-21",
+            "venue": "Journal",
+            "volume": "364",
+            "issue": "4",
+            "page_range": "1367-1377",
+            "doi": "10.1111/j.1365-2966.2005.09683.x"
+        },
+        {
+            "title": "Smoothed Particle Magnetohydrodynamics - I. Algorithm and tests in one dimension",
+            "eid": "2-s2.0-1142276367",
+            "authors": [
+                {
+                    "scopus_id": "35184737800",
+                    "name": "Price D.J.",
+                    "affiliation_id": [
+                        "60019598"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 92,
+            "publication_name": "Monthly Notices of the Royal Astronomical Society",
+            "issn": "00358711",
+            "cover_date": "2004-02-11",
+            "venue": "Journal",
+            "volume": "348",
+            "issue": "1",
+            "page_range": "123-138",
+            "doi": "10.1111/j.1365-2966.2004.07345.x"
+        },
+        {
+            "title": "Solidification using smoothed particle hydrodynamics",
+            "eid": "2-s2.0-18144432040",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7005798848",
+                    "name": "Huppert H.E.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "56858535700",
+                    "name": "Worster M.G.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                }
+            ],
+            "citations": 89,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "2005-07-01",
+            "venue": "Journal",
+            "volume": "206",
+            "issue": "2",
+            "page_range": "684-705",
+            "doi": "10.1016/j.jcp.2004.11.039"
+        },
+        {
+            "title": "Implicit SPH drag and dusty gas dynamics",
+            "eid": "2-s2.0-0031541281",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 76,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "1997-01-01",
+            "venue": "Journal",
+            "volume": "138",
+            "issue": "2",
+            "page_range": "801-820",
+            "doi": "10.1006/jcph.1997.5846"
+        },
+        {
+            "title": "A simulation of the collapse and fragmentation of cooling molecular clouds",
+            "eid": "2-s2.0-0001947863",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "6701646239",
+                    "name": "Lattanzio J.C.",
+                    "affiliation_id": [
+                        "60026175",
+                        "60025038"
+                    ]
+                }
+            ],
+            "citations": 75,
+            "publication_name": "Astrophysical Journal",
+            "issn": "0004637X",
+            "cover_date": "1991-07-01",
+            "venue": "Journal",
+            "volume": "375",
+            "issue": "1",
+            "page_range": "177-189",
+            "doi": "10.1086/170179"
+        },
+        {
+            "title": "Numerical modelling of stress fields and fracture around magma chambers",
+            "eid": "2-s2.0-2942689899",
+            "authors": [
+                {
+                    "scopus_id": "7404300385",
+                    "name": "Gray J.",
+                    "affiliation_id": [
+                        "60033125",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 73,
+            "publication_name": "Journal of Volcanology and Geothermal Research",
+            "issn": "03770273",
+            "cover_date": "2004-07-30",
+            "venue": "Journal",
+            "volume": "135",
+            "issue": "3",
+            "page_range": "259-283",
+            "doi": "10.1016/j.jvolgeores.2004.03.005"
+        },
+        {
+            "title": "Artificial viscosity for particle methods",
+            "eid": "2-s2.0-0022058239",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "55300232300",
+                    "name": "Pongracic H.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 71,
+            "publication_name": "Applied Numerical Mathematics",
+            "issn": "01689274",
+            "cover_date": "1985-01-01",
+            "venue": "Journal",
+            "volume": "1",
+            "issue": "3",
+            "page_range": "187-194",
+            "doi": "10.1016/0168-9274(85)90015-7"
+        },
+        {
+            "title": "SPH simulations of swimming linked bodies",
+            "eid": "2-s2.0-49349108742",
+            "authors": [
+                {
+                    "scopus_id": "24485111900",
+                    "name": "Kajtar J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 62,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "2008-10-01",
+            "venue": "Journal",
+            "volume": "227",
+            "issue": "19",
+            "page_range": "8568-8587",
+            "doi": "10.1016/j.jcp.2008.06.004"
+        },
+        {
+            "title": "Gravity currents and solitary waves",
+            "eid": "2-s2.0-0008295451",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 59,
+            "publication_name": "Physica D: Nonlinear Phenomena",
+            "issn": "01672789",
+            "cover_date": "1996-01-01",
+            "venue": "Journal",
+            "volume": "98",
+            "issue": "2-4",
+            "page_range": "523-533",
+            "doi": "10.1016/0167-2789(96)00110-8"
+        },
+        {
+            "title": "Solitary waves on a cretan beach",
+            "eid": "2-s2.0-33747187216",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57197882236",
+                    "name": "Kos A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 58,
+            "publication_name": "Journal of Waterway, Port, Coastal and Ocean Engineering",
+            "issn": "0733950X",
+            "cover_date": "1999-12-01",
+            "venue": "Journal",
+            "volume": "125",
+            "issue": "3",
+            "page_range": "136-144",
+            "doi": ""
+        },
+        {
+            "title": "Smoothed particle hydrodynamic simulations of shear flow",
+            "eid": "2-s2.0-33645078663",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 58,
+            "publication_name": "Monthly Notices of the Royal Astronomical Society",
+            "issn": "00358711",
+            "cover_date": "2006-01-01",
+            "venue": "Journal",
+            "volume": "365",
+            "issue": "1",
+            "page_range": "199-213",
+            "doi": "10.1111/j.1365-2966.2005.09704.x"
+        },
+        {
+            "title": "Variational principles for relativistic smoothed particle hydrodynamics",
+            "eid": "2-s2.0-0041849760",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "35184737800",
+                    "name": "Price D.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 58,
+            "publication_name": "Monthly Notices of the Royal Astronomical Society",
+            "issn": "00358711",
+            "cover_date": "2001-12-01",
+            "venue": "Journal",
+            "volume": "328",
+            "issue": "2",
+            "page_range": "381-392",
+            "doi": "10.1046/j.1365-8711.2001.04742.x"
+        },
+        {
+            "title": "A turbulence model for smoothed particle hydrodynamics",
+            "eid": "2-s2.0-79958827074",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 48,
+            "publication_name": "European Journal of Mechanics, B/Fluids",
+            "issn": "09977546",
+            "cover_date": "2011-07-01",
+            "venue": "Journal",
+            "volume": "30",
+            "issue": "4",
+            "page_range": "360-370",
+            "doi": "10.1016/j.euromechflu.2011.04.002"
+        },
+        {
+            "title": "A study of solid wall models for weakly compressible SPH",
+            "eid": "2-s2.0-84939140900",
+            "authors": [
+                {
+                    "scopus_id": "56971126100",
+                    "name": "Valizadeh A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 46,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "2015-11-01",
+            "venue": "Journal",
+            "volume": "300",
+            "issue": "",
+            "page_range": "5-19",
+            "doi": "10.1016/j.jcp.2015.07.033"
+        },
+        {
+            "title": "Analysis of mixing in a Twin Cam Mixer using smoothed particle hydrodynamics",
+            "eid": "2-s2.0-49049113877",
+            "authors": [
+                {
+                    "scopus_id": "57193379753",
+                    "name": "Robinson M.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7202290548",
+                    "name": "Cleary P.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 45,
+            "publication_name": "AIChE Journal",
+            "issn": "00011541",
+            "cover_date": "2008-08-01",
+            "venue": "Journal",
+            "volume": "54",
+            "issue": "8",
+            "page_range": "1987-1998",
+            "doi": "10.1002/aic.11530"
+        },
+        {
+            "title": "Ultrarelativistic SPH",
+            "eid": "2-s2.0-0031188099",
+            "authors": [
+                {
+                    "scopus_id": "14521785200",
+                    "name": "Chow E.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 39,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "1997-07-01",
+            "venue": "Journal",
+            "volume": "134",
+            "issue": "2",
+            "page_range": "296-305",
+            "doi": "10.1006/jcph.1997.5708"
+        },
+        {
+            "title": "Modeling two-phase flows using SPH method",
+            "eid": "2-s2.0-67650070353",
+            "authors": [
+                {
+                    "scopus_id": "56971126100",
+                    "name": "Valizadeh A.",
+                    "affiliation_id": [
+                        "60032053"
+                    ]
+                },
+                {
+                    "scopus_id": "24472441900",
+                    "name": "Shafieefar M.",
+                    "affiliation_id": [
+                        "60032053"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "26868191500",
+                    "name": "Salehi Neyshaboori S.",
+                    "affiliation_id": [
+                        "60032053"
+                    ]
+                }
+            ],
+            "citations": 32,
+            "publication_name": "Journal of Applied Sciences",
+            "issn": "18125654",
+            "cover_date": "2008-12-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "21",
+            "page_range": "3817-3826",
+            "doi": "10.3923/jas.2008.3817.3826"
+        },
+        {
+            "title": "High Reynolds number gravity currents along V-shaped valleys",
+            "eid": "2-s2.0-67651119870",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "6507454628",
+                    "name": "M\u00e9riaux C.A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7005798848",
+                    "name": "Huppert H.E.",
+                    "affiliation_id": [
+                        "60119937"
+                    ]
+                },
+                {
+                    "scopus_id": "58370794300",
+                    "name": "Monaghan J.M.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "European Journal of Mechanics, B/Fluids",
+            "issn": "09977546",
+            "cover_date": "2009-09-01",
+            "venue": "Journal",
+            "volume": "28",
+            "issue": "5",
+            "page_range": "651-659",
+            "doi": "10.1016/j.euromechflu.2009.05.005"
+        },
+        {
+            "title": "Direct numerical simulation of decaying two-dimensional turbulence in a no-slip square box using smoothed particle hydrodynamics",
+            "eid": "2-s2.0-84864739791",
+            "authors": [
+                {
+                    "scopus_id": "57193379753",
+                    "name": "Robinson M.",
+                    "affiliation_id": [
+                        "60020599"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 25,
+            "publication_name": "International Journal for Numerical Methods in Fluids",
+            "issn": "02712091",
+            "cover_date": "2012-09-10",
+            "venue": "Journal",
+            "volume": "70",
+            "issue": "1",
+            "page_range": "37-55",
+            "doi": "10.1002/fld.2677"
+        },
+        {
+            "title": "Toward a realistic three-body problem",
+            "eid": "2-s2.0-0242418377",
+            "authors": [
+                {
+                    "scopus_id": "7202290548",
+                    "name": "Cleary P.W.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 25,
+            "publication_name": "Astrophysical Journal",
+            "issn": "0004637X",
+            "cover_date": "1990-01-20",
+            "venue": "Journal",
+            "volume": "349",
+            "issue": "1",
+            "page_range": "150-162",
+            "doi": "10.1086/168302"
+        },
+        {
+            "title": "Can a single bubble sink a ship?",
+            "eid": "2-s2.0-0042762257",
+            "authors": [
+                {
+                    "scopus_id": "55358883700",
+                    "name": "May D.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "American Journal of Physics",
+            "issn": "00029505",
+            "cover_date": "2003-09-01",
+            "venue": "Journal",
+            "volume": "71",
+            "issue": "9",
+            "page_range": "842-849",
+            "doi": "10.1119/1.1582187"
+        },
+        {
+            "title": "Smoothed particle hydrodynamics non-Newtonian model for ice-sheet and ice-shelf dynamics",
+            "eid": "2-s2.0-84875848636",
+            "authors": [
+                {
+                    "scopus_id": "25630839500",
+                    "name": "Pan W.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "6603046931",
+                    "name": "Tartakovsky A.M.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 23,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "2013-06-01",
+            "venue": "Journal",
+            "volume": "242",
+            "issue": "",
+            "page_range": "828-842",
+            "doi": "10.1016/j.jcp.2012.10.027"
+        },
+        {
+            "title": "On the dynamics of swimming linked bodies",
+            "eid": "2-s2.0-77953726527",
+            "authors": [
+                {
+                    "scopus_id": "24485111900",
+                    "name": "Kajtar J.B.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 23,
+            "publication_name": "European Journal of Mechanics, B/Fluids",
+            "issn": "09977546",
+            "cover_date": "2010-09-01",
+            "venue": "Journal",
+            "volume": "29",
+            "issue": "5",
+            "page_range": "377-386",
+            "doi": "10.1016/j.euromechflu.2010.05.003"
+        },
+        {
+            "title": "Gravity current interaction with interfaces",
+            "eid": "2-s2.0-33846827098",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 23,
+            "publication_name": "Annual Review of Fluid Mechanics",
+            "issn": "00664189",
+            "cover_date": "2007-02-12",
+            "venue": "Book Series",
+            "volume": "39",
+            "issue": "",
+            "page_range": "245-261",
+            "doi": "10.1146/annurev.fluid.39.050905.110218"
+        },
+        {
+            "title": "SPH simulation of skipping stones",
+            "eid": "2-s2.0-84994759934",
+            "authors": [
+                {
+                    "scopus_id": "57205480212",
+                    "name": "Yan R.",
+                    "affiliation_id": [
+                        "60003977"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 22,
+            "publication_name": "European Journal of Mechanics, B/Fluids",
+            "issn": "09977546",
+            "cover_date": "2017-01-01",
+            "venue": "Journal",
+            "volume": "61",
+            "issue": "",
+            "page_range": "61-71",
+            "doi": "10.1016/j.euromechflu.2016.10.001"
+        },
+        {
+            "title": "Particulate gravity currents along V-shaped valleys",
+            "eid": "2-s2.0-69649103253",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "6507454628",
+                    "name": "M\u00e9rieux C.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7005798848",
+                    "name": "Huppert H.E.",
+                    "affiliation_id": [
+                        "60119937"
+                    ]
+                },
+                {
+                    "scopus_id": "57535457700",
+                    "name": "Mansour J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Journal of Fluid Mechanics",
+            "issn": "00221120",
+            "cover_date": "2009-01-01",
+            "venue": "Journal",
+            "volume": "631",
+            "issue": "",
+            "page_range": "419-440",
+            "doi": "10.1017/S0022112009007174"
+        },
+        {
+            "title": "SPH simulations of accretion disks and narrow rings",
+            "eid": "2-s2.0-0030527272",
+            "authors": [
+                {
+                    "scopus_id": "57204037737",
+                    "name": "Maddison S.T.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7404761876",
+                    "name": "Murray J.R.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 20,
+            "publication_name": "Publications of the Astronomical Society of Australia",
+            "issn": "13233580",
+            "cover_date": "1996-01-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "1",
+            "page_range": "66-70",
+            "doi": "10.1017/S1323358000020555"
+        },
+        {
+            "title": "The effect of air on solid body impact with water in two dimensions",
+            "eid": "2-s2.0-84947763305",
+            "authors": [
+                {
+                    "scopus_id": "57205480212",
+                    "name": "Yan R.",
+                    "affiliation_id": [
+                        "60003977"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "56971126100",
+                    "name": "Valizadeh A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "35231723700",
+                    "name": "Xu F.",
+                    "affiliation_id": [
+                        "60003977"
+                    ]
+                }
+            ],
+            "citations": 19,
+            "publication_name": "Journal of Fluids and Structures",
+            "issn": "08899746",
+            "cover_date": "2015-11-01",
+            "venue": "Journal",
+            "volume": "59",
+            "issue": "",
+            "page_range": "146-164",
+            "doi": "10.1016/j.jfluidstructs.2015.08.015"
+        },
+        {
+            "title": "On the swimming of fish like bodies near free and fixed boundaries",
+            "eid": "2-s2.0-84857921758",
+            "authors": [
+                {
+                    "scopus_id": "24485111900",
+                    "name": "Kajtar J.B.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 17,
+            "publication_name": "European Journal of Mechanics, B/Fluids",
+            "issn": "09977546",
+            "cover_date": "2012-05-01",
+            "venue": "Journal",
+            "volume": "33",
+            "issue": "",
+            "page_range": "1-13",
+            "doi": "10.1016/j.euromechflu.2011.12.005"
+        },
+        {
+            "title": "Sedimentation in homogeneous and inhomogeneous fluids using SPH",
+            "eid": "2-s2.0-84924241230",
+            "authors": [
+                {
+                    "scopus_id": "24479416200",
+                    "name": "Kwon J.",
+                    "affiliation_id": [
+                        "60013682"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "International Journal of Multiphase Flow",
+            "issn": "03019322",
+            "cover_date": "2015-06-01",
+            "venue": "Journal",
+            "volume": "72",
+            "issue": "",
+            "page_range": "155-164",
+            "doi": "10.1016/j.ijmultiphaseflow.2015.02.004"
+        },
+        {
+            "title": "Instantaneous dynamic pressure effects on the behaviour of lithic boulders in pyroclastic flows: The Abrigo Ignimbrite, Tenerife, Canary Islands",
+            "eid": "2-s2.0-33751250165",
+            "authors": [
+                {
+                    "scopus_id": "56201814100",
+                    "name": "Pittari A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "56052932000",
+                    "name": "Cas R.A.F.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7202923564",
+                    "name": "Mart\u00ed J.",
+                    "affiliation_id": [
+                        "60029205"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Bulletin of Volcanology",
+            "issn": "02588900",
+            "cover_date": "2007-01-01",
+            "venue": "Journal",
+            "volume": "69",
+            "issue": "3",
+            "page_range": "265-279",
+            "doi": "10.1007/s00445-006-0072-7"
+        },
+        {
+            "title": "Vorticity, angular momentum, and cloud fragmentation",
+            "eid": "2-s2.0-12044256200",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Astrophysical Journal",
+            "issn": "0004637X",
+            "cover_date": "1994-01-10",
+            "venue": "Journal",
+            "volume": "420",
+            "issue": "2",
+            "page_range": "692-704",
+            "doi": "10.1086/173596"
+        },
+        {
+            "title": "Conservation of circulation in SPH for 2D free-surface flows",
+            "eid": "2-s2.0-84877634765",
+            "authors": [
+                {
+                    "scopus_id": "16021542200",
+                    "name": "Antuono M.",
+                    "affiliation_id": [
+                        "60073821"
+                    ]
+                },
+                {
+                    "scopus_id": "6602456780",
+                    "name": "Colagrossi A.",
+                    "affiliation_id": [
+                        "60073821",
+                        "60013141"
+                    ]
+                },
+                {
+                    "scopus_id": "6603071618",
+                    "name": "Le Touz\u00e9 D.",
+                    "affiliation_id": [
+                        "60008134"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 14,
+            "publication_name": "International Journal for Numerical Methods in Fluids",
+            "issn": "02712091",
+            "cover_date": "2013-06-20",
+            "venue": "Journal",
+            "volume": "72",
+            "issue": "5",
+            "page_range": "583-606",
+            "doi": "10.1002/fld.3757"
+        },
+        {
+            "title": "Smoothed particle hydrodynamics simulations of turbulence in fixed and rotating boxes in two dimensions with no-slip boundaries",
+            "eid": "2-s2.0-84859313663",
+            "authors": [
+                {
+                    "scopus_id": "56971126100",
+                    "name": "Valizadeh A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 14,
+            "publication_name": "Physics of Fluids",
+            "issn": "10706631",
+            "cover_date": "2012-03-14",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "3",
+            "page_range": null,
+            "doi": "10.1063/1.3693136"
+        },
+        {
+            "title": "Volcanoes, Tsunamis and the demise of the Minoans",
+            "eid": "2-s2.0-0000319075",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "55219499800",
+                    "name": "Bicknell P.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "55879298300",
+                    "name": "Humble R.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Physica D: Nonlinear Phenomena",
+            "issn": "01672789",
+            "cover_date": "1994-10-01",
+            "venue": "Journal",
+            "volume": "77",
+            "issue": "1-3",
+            "page_range": "217-228",
+            "doi": "10.1016/0167-2789(94)90135-X"
+        },
+        {
+            "title": "An SPH study of driven turbulence near a free surface in a tank under gravity",
+            "eid": "2-s2.0-85039996878",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "6507454628",
+                    "name": "M\u00e9riaux C.A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "European Journal of Mechanics, B/Fluids",
+            "issn": "09977546",
+            "cover_date": "2018-03-01",
+            "venue": "Journal",
+            "volume": "68",
+            "issue": "",
+            "page_range": "201-210",
+            "doi": "10.1016/j.euromechflu.2017.12.008"
+        },
+        {
+            "title": "A smoothed-particle hydrodynamics model for ice-sheet and ice-shelf dynamics",
+            "eid": "2-s2.0-84862273475",
+            "authors": [
+                {
+                    "scopus_id": "25630839500",
+                    "name": "Pan W.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "6603046931",
+                    "name": "Tartakovsky A.M.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Journal of Glaciology",
+            "issn": "00221430",
+            "cover_date": "2012-04-01",
+            "venue": "Journal",
+            "volume": "58",
+            "issue": "208",
+            "page_range": "216-222",
+            "doi": "10.3189/2012JoG11J084"
+        },
+        {
+            "title": "On the integration of the SPH equations for a dusty fluid with high drag",
+            "eid": "2-s2.0-85074374891",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "European Journal of Mechanics, B/Fluids",
+            "issn": "09977546",
+            "cover_date": "2020-01-01",
+            "venue": "Journal",
+            "volume": "79",
+            "issue": "",
+            "page_range": "454-462",
+            "doi": "10.1016/j.euromechflu.2019.10.006"
+        },
+        {
+            "title": "A novel SPH method for sedimentation in a turbulent fluid",
+            "eid": "2-s2.0-84939552578",
+            "authors": [
+                {
+                    "scopus_id": "24479416200",
+                    "name": "Kwon J.",
+                    "affiliation_id": [
+                        "60013682"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "2015-11-01",
+            "venue": "Journal",
+            "volume": "300",
+            "issue": "",
+            "page_range": "520-532",
+            "doi": "10.1016/j.jcp.2015.06.040"
+        },
+        {
+            "title": "SPH simulation of 2D turbulence driven by a cylindrical stirrer",
+            "eid": "2-s2.0-84921479920",
+            "authors": [
+                {
+                    "scopus_id": "56971126100",
+                    "name": "Valizadeh A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "European Journal of Mechanics, B/Fluids",
+            "issn": "09977546",
+            "cover_date": "2015-01-01",
+            "venue": "Journal",
+            "volume": "51",
+            "issue": "",
+            "page_range": "44-53",
+            "doi": "10.1016/j.euromechflu.2014.11.002"
+        },
+        {
+            "title": "Toy Stars in two dimensions",
+            "eid": "2-s2.0-33645065571",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "35184737800",
+                    "name": "Price D.J.",
+                    "affiliation_id": [
+                        "60026479"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "Monthly Notices of the Royal Astronomical Society",
+            "issn": "00358711",
+            "cover_date": "2006-01-01",
+            "venue": "Journal",
+            "volume": "365",
+            "issue": "3",
+            "page_range": "991-1006",
+            "doi": "10.1111/j.1365-2966.2005.09783.x"
+        },
+        {
+            "title": "Simulation of free surface flows with SPH",
+            "eid": "2-s2.0-0028045824",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7404622051",
+                    "name": "Thompson M.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7006700786",
+                    "name": "Hourigan K.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "American Society of Mechanical Engineers, Fluids Engineering Division (Publication) FED",
+            "issn": "",
+            "cover_date": "1994-01-01",
+            "venue": "Conference Proceeding",
+            "volume": "196",
+            "issue": "",
+            "page_range": "375-380",
+            "doi": ""
+        },
+        {
+            "title": "SPH-\u03f5 simulation of 2D turbulence driven by a moving cylinder",
+            "eid": "2-s2.0-85018692446",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "European Journal of Mechanics, B/Fluids",
+            "issn": "09977546",
+            "cover_date": "2017-09-01",
+            "venue": "Journal",
+            "volume": "65",
+            "issue": "",
+            "page_range": "486-493",
+            "doi": "10.1016/j.euromechflu.2017.03.011"
+        },
+        {
+            "title": "On the integration of the SPH equations for a highly viscous fluid",
+            "eid": "2-s2.0-85066747078",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "2019-10-01",
+            "venue": "Journal",
+            "volume": "394",
+            "issue": "",
+            "page_range": "166-176",
+            "doi": "10.1016/j.jcp.2019.05.019"
+        },
+        {
+            "title": "Caldera collapse and the generation of waves",
+            "eid": "2-s2.0-33750213006",
+            "authors": [
+                {
+                    "scopus_id": "7404300385",
+                    "name": "Gray J.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60033125"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Geochemistry, Geophysics, Geosystems",
+            "issn": "15252027",
+            "cover_date": "2003-02-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "2",
+            "page_range": null,
+            "doi": "10.1029/2002GC000411"
+        },
+        {
+            "title": "Vortex particle methods for periodic channel flow",
+            "eid": "2-s2.0-2842606663",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "55879298300",
+                    "name": "Humble R.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "1993-01-01",
+            "venue": "Journal",
+            "volume": "107",
+            "issue": "1",
+            "page_range": "152-159",
+            "doi": "10.1006/jcph.1993.1132"
+        },
+        {
+            "title": "Leonardo da Vinci's turbulent tank in two dimensions",
+            "eid": "2-s2.0-84896545134",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "24485111900",
+                    "name": "Kajtar J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "European Journal of Mechanics, B/Fluids",
+            "issn": "09977546",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "44",
+            "issue": "",
+            "page_range": "1-9",
+            "doi": "10.1016/j.euromechflu.2013.09.005"
+        },
+        {
+            "title": "SPH simulation of 2D sloshing flow in a rectangular tank",
+            "eid": "2-s2.0-74549191329",
+            "authors": [
+                {
+                    "scopus_id": "26632500300",
+                    "name": "Rafiee A.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "35293844200",
+                    "name": "Thioagarajan K.P.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Proceedings of the International Offshore and Polar Engineering Conference",
+            "issn": "10986189",
+            "cover_date": "2009-12-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "205-212",
+            "doi": ""
+        },
+        {
+            "title": "Statistical mechanics and the gravothermal catastrophe",
+            "eid": "2-s2.0-36749107612",
+            "authors": [
+                {
+                    "scopus_id": "7003915104",
+                    "name": "Cally P.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Journal of Mathematical Physics",
+            "issn": "00222488",
+            "cover_date": "1980-01-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "2",
+            "page_range": "348-351",
+            "doi": "10.1063/1.524886"
+        },
+        {
+            "title": "Axisymmetric stars with both poloidal and toroidal magnetic fields",
+            "eid": "2-s2.0-34250388910",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Astrophysics and Space Science",
+            "issn": "0004640X",
+            "cover_date": "1976-04-01",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "2",
+            "page_range": "385-391",
+            "doi": "10.1007/BF00640453"
+        },
+        {
+            "title": "Numerical study of density ratio effects and compressibility of gas phase in sloshing",
+            "eid": "2-s2.0-84856989162",
+            "authors": [
+                {
+                    "scopus_id": "26632500300",
+                    "name": "Rafiee A.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7004888457",
+                    "name": "Thiagarajan K.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "17th Australasian Fluid Mechanics Conference 2010",
+            "issn": "",
+            "cover_date": "2010-12-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "417-420",
+            "doi": ""
+        },
+        {
+            "title": "SPH simulation of 2D sloshing flow in a rectangular tank",
+            "eid": "2-s2.0-73849140145",
+            "authors": [
+                {
+                    "scopus_id": "26632500300",
+                    "name": "Rafiee A.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "35293844200",
+                    "name": "Thioagarajan K.P.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Proceedings of the International Offshore and Polar Engineering Conference",
+            "issn": "10986189",
+            "cover_date": "2009-12-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": ""
+        },
+        {
+            "title": "Toy stars in one dimension",
+            "eid": "2-s2.0-2942594285",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "35184737800",
+                    "name": "Price D.J.",
+                    "affiliation_id": [
+                        "60019598"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Monthly Notices of the Royal Astronomical Society",
+            "issn": "00358711",
+            "cover_date": "2004-06-01",
+            "venue": "Journal",
+            "volume": "350",
+            "issue": "4",
+            "page_range": "1449-1456",
+            "doi": "10.1111/j.1365-2966.2004.07748.x"
+        },
+        {
+            "title": "What can we learn from large bodies moving in a turbulent fluid?",
+            "eid": "2-s2.0-85051671880",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "6507454628",
+                    "name": "M\u00e9riaux C.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "European Journal of Mechanics, B/Fluids",
+            "issn": "09977546",
+            "cover_date": "2018-11-01",
+            "venue": "Journal",
+            "volume": "72",
+            "issue": "",
+            "page_range": "519-530",
+            "doi": "10.1016/j.euromechflu.2018.06.003"
+        },
+        {
+            "title": "A study of energy spectra calculated with disordered particles",
+            "eid": "2-s2.0-84941883431",
+            "authors": [
+                {
+                    "scopus_id": "56971126100",
+                    "name": "Valizadeh A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Computers and Fluids",
+            "issn": "00457930",
+            "cover_date": "2015-11-20",
+            "venue": "Journal",
+            "volume": "122",
+            "issue": "",
+            "page_range": "83-89",
+            "doi": "10.1016/j.compfluid.2015.08.019"
+        },
+        {
+            "title": "Smoothed particle magnetohydrodynamics: Some shocking results",
+            "eid": "2-s2.0-6344289225",
+            "authors": [
+                {
+                    "scopus_id": "35184737800",
+                    "name": "Price D.",
+                    "affiliation_id": [
+                        "60019598"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Astrophysics and Space Science",
+            "issn": "0004640X",
+            "cover_date": "2004-01-01",
+            "venue": "Journal",
+            "volume": "292",
+            "issue": "1-4",
+            "page_range": "279-283",
+            "doi": "10.1023/B:ASTR.0000045028.86318.ac"
+        },
+        {
+            "title": "Dispersion of finite-size particles probing inhomogeneous and anisotropic turbulence",
+            "eid": "2-s2.0-85085841752",
+            "authors": [
+                {
+                    "scopus_id": "6507454628",
+                    "name": "M\u00e9riaux C.A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "9037147000",
+                    "name": "Teixeira M.A.C.",
+                    "affiliation_id": [
+                        "60012197"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "36607640700",
+                    "name": "Cohen R.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "57215217538",
+                    "name": "Cleary P.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "European Journal of Mechanics, B/Fluids",
+            "issn": "09977546",
+            "cover_date": "2020-11-01",
+            "venue": "Journal",
+            "volume": "84",
+            "issue": "",
+            "page_range": "93-109",
+            "doi": "10.1016/j.euromechflu.2020.05.015"
+        },
+        {
+            "title": "Energy transfer in a particle \u03b1 model",
+            "eid": "2-s2.0-28644438983",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Journal of Turbulence",
+            "issn": "14685248",
+            "cover_date": "2004-03-10",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1088/1468-5248/5/1/012"
+        },
+        {
+            "title": "Flaws in the Modern Laplacian Theory",
+            "eid": "2-s2.0-34249760828",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Earth, Moon, and Planets",
+            "issn": "01679295",
+            "cover_date": "1995-11-01",
+            "venue": "Journal",
+            "volume": "71",
+            "issue": "1-2",
+            "page_range": "73-84",
+            "doi": "10.1007/BF00612871"
+        },
+        {
+            "title": "A study of waves developed by caldera collapse",
+            "eid": "2-s2.0-0032232734",
+            "authors": [
+                {
+                    "scopus_id": "7404300385",
+                    "name": "Gray J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Proceedings of the 1998 Thirteenth Australasian Fluid Mechanics Conference, Melbourne, Australia, 13-18 December 1998",
+            "issn": "",
+            "cover_date": "1998-12-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "279-282",
+            "doi": ""
+        },
+        {
+            "title": "APPLICATIONS OF THE PARTICLE METHOD SPH TO HYPERSONIC FLOW.",
+            "eid": "2-s2.0-0022940004",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "",
+            "issn": "",
+            "cover_date": "1986-12-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "357-365",
+            "doi": ""
+        },
+        {
+            "title": "Comparison between Simulations and Theory: Where we stand",
+            "eid": "2-s2.0-79956211271",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Proceedings of the International Astronomical Union",
+            "issn": "17439213",
+            "cover_date": "2011-01-01",
+            "venue": "Book Series",
+            "volume": "6",
+            "issue": "S270",
+            "page_range": "521-526",
+            "doi": "10.1017/S1743921311000913"
+        },
+        {
+            "title": "Erratum: Particulate gravity currents along V-shaped valleys (Journal of Fluid Mechanics (2009) 631 (419-440) DOI: 10.1017/S0022112009007174)",
+            "eid": "2-s2.0-76249121063",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6507454628",
+                    "name": "Mriaux C.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7005798848",
+                    "name": "Huppert H.E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57535457700",
+                    "name": "Mansour J.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Journal of Fluid Mechanics",
+            "issn": "00221120",
+            "cover_date": "2009-01-01",
+            "venue": "Journal",
+            "volume": "637",
+            "issue": "",
+            "page_range": "475",
+            "doi": "10.1017/S0022112009991595"
+        },
+        {
+            "title": "A note on larson's particle method",
+            "eid": "2-s2.0-49049152548",
+            "authors": [
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019598"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Journal of Computational Physics",
+            "issn": "00219991",
+            "cover_date": "1981-01-01",
+            "venue": "Journal",
+            "volume": "44",
+            "issue": "2",
+            "page_range": "397-399",
+            "doi": "10.1016/0021-9991(81)90060-7"
+        },
+        {
+            "title": "On the non-linear decay motion of an oscillatory plate",
+            "eid": "2-s2.0-27744605585",
+            "authors": [
+                {
+                    "scopus_id": "9240732800",
+                    "name": "Abdolmaleki K.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7004888457",
+                    "name": "Thiagarajan K.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7101880965",
+                    "name": "Monaghan J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Proceedings of the International Conference on Offshore Mechanics and Arctic Engineering - OMAE",
+            "issn": "",
+            "cover_date": "2005-11-21",
+            "venue": "Conference Proceeding",
+            "volume": "1 A",
+            "issue": "",
+            "page_range": "193-201",
+            "doi": "10.1115/OMAE2005-67095"
+        }
+    ],
+    "affiliation": "Monash University",
+    "affiliation_id": "60019578",
+    "city": "Clayton",
+    "country": "Australia",
+    "document_count": 92,
+    "subject_area": [
+        {
+            "@abbrev": "MATH",
+            "@frequency": "75",
+            "$": "Mathematics (all)"
+        },
+        {
+            "@abbrev": "PHYS",
+            "@frequency": "72",
+            "$": "Physics and Astronomy (all)"
+        },
+        {
+            "@abbrev": "ENGI",
+            "@frequency": "51",
+            "$": "Engineering (all)"
+        }
+    ],
+    "date fetched": "2024-07-12 19:44:04"
+}

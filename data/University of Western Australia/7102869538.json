@@ -337,7 +337,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 2097,
+            "citations": 2101,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2017-03-15",
@@ -532,7 +532,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 1390,
+            "citations": 1397,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2018-01-05",
@@ -561,7 +561,7 @@
                     ]
                 }
             ],
-            "citations": 1350,
+            "citations": 1352,
             "publication_name": "Earth and Planetary Science Letters",
             "issn": "0012821X",
             "cover_date": "1991-01-01",
@@ -654,7 +654,7 @@
                     ]
                 }
             ],
-            "citations": 835,
+            "citations": 836,
             "publication_name": "Geochimica et Cosmochimica Acta",
             "issn": "00167037",
             "cover_date": "1981-01-01",
@@ -1038,7 +1038,7 @@
                     ]
                 }
             ],
-            "citations": 557,
+            "citations": 558,
             "publication_name": "Estuaries and Coasts",
             "issn": "15592723",
             "cover_date": "2013-03-01",
@@ -1081,7 +1081,7 @@
                     ]
                 }
             ],
-            "citations": 473,
+            "citations": 474,
             "publication_name": "Geochimica et Cosmochimica Acta",
             "issn": "00167037",
             "cover_date": "1988-01-01",
@@ -1117,7 +1117,7 @@
                     ]
                 }
             ],
-            "citations": 465,
+            "citations": 467,
             "publication_name": "Geochimica et Cosmochimica Acta",
             "issn": "00167037",
             "cover_date": "1983-01-01",
@@ -1164,7 +1164,7 @@
                     ]
                 }
             ],
-            "citations": 449,
+            "citations": 450,
             "publication_name": "Nature Climate Change",
             "issn": "1758678X",
             "cover_date": "2012-08-01",
@@ -1877,7 +1877,7 @@
                     ]
                 }
             ],
-            "citations": 259,
+            "citations": 260,
             "publication_name": "Journal of Human Evolution",
             "issn": "00472484",
             "cover_date": "2005-01-01",
@@ -1930,35 +1930,6 @@
             "issue": "3-4",
             "page_range": "476-486",
             "doi": "10.1016/j.epsl.2008.02.011"
-        },
-        {
-            "title": "Strontium/calcium ratios in modern porites corals from the Great Barrier Reef as a proxy for sea surface temperature: Calibration of the thermometer and monitoring of ENSO",
-            "eid": "2-s2.0-0030729593",
-            "authors": [
-                {
-                    "scopus_id": "7005455806",
-                    "name": "Alibert C.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 253,
-            "publication_name": "Paleoceanography",
-            "issn": "08838305",
-            "cover_date": "1997-06-01",
-            "venue": "Journal",
-            "volume": "12",
-            "issue": "3",
-            "page_range": "345-363",
-            "doi": "10.1029/97PA00318"
         },
         {
             "title": "In situ U-series dating by laser-ablation multi-collector ICPMS: New prospects for Quaternary geochronology",
@@ -2043,7 +2014,7 @@
                     ]
                 }
             ],
-            "citations": 252,
+            "citations": 253,
             "publication_name": "Quaternary Science Reviews",
             "issn": "02773791",
             "cover_date": "2005-12-01",
@@ -2052,6 +2023,35 @@
             "issue": "23-24",
             "page_range": "2523-2538",
             "doi": "10.1016/j.quascirev.2005.07.006"
+        },
+        {
+            "title": "Strontium/calcium ratios in modern porites corals from the Great Barrier Reef as a proxy for sea surface temperature: Calibration of the thermometer and monitoring of ENSO",
+            "eid": "2-s2.0-0030729593",
+            "authors": [
+                {
+                    "scopus_id": "7005455806",
+                    "name": "Alibert C.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 253,
+            "publication_name": "Paleoceanography",
+            "issn": "08838305",
+            "cover_date": "1997-06-01",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "3",
+            "page_range": "345-363",
+            "doi": "10.1029/97PA00318"
         },
         {
             "title": "Abrupt decrease in tropical pacific sea surface salinity at end of little ice age",
@@ -2528,7 +2528,7 @@
                     ]
                 }
             ],
-            "citations": 186,
+            "citations": 187,
             "publication_name": "Geochimica et Cosmochimica Acta",
             "issn": "00167037",
             "cover_date": "1993-01-01",
@@ -3109,7 +3109,7 @@
                     ]
                 }
             ],
-            "citations": 166,
+            "citations": 167,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2005-09-30",
@@ -3145,7 +3145,7 @@
                     ]
                 }
             ],
-            "citations": 166,
+            "citations": 167,
             "publication_name": "Quaternary Research",
             "issn": "00335894",
             "cover_date": "1998-01-01",
@@ -3282,7 +3282,7 @@
                     ]
                 }
             ],
-            "citations": 162,
+            "citations": 164,
             "publication_name": "Earth and Planetary Science Letters",
             "issn": "0012821X",
             "cover_date": "2011-03-01",
@@ -3656,56 +3656,6 @@
             "doi": "10.1016/0016-7037(85)90050-X"
         },
         {
-            "title": "The geochemistry and petrogenesis of basalts from the Taupo Volcanic Zone and Kermadec Island Arc, S.W. Pacific",
-            "eid": "2-s2.0-0027387288",
-            "authors": [
-                {
-                    "scopus_id": "7202222481",
-                    "name": "Gamble J.A.",
-                    "affiliation_id": [
-                        "60002316"
-                    ]
-                },
-                {
-                    "scopus_id": "7404425799",
-                    "name": "Smith I.E.M.",
-                    "affiliation_id": [
-                        "60005686"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.T.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7202751667",
-                    "name": "Graham I.J.",
-                    "affiliation_id": [
-                        "60019354"
-                    ]
-                },
-                {
-                    "scopus_id": "6602857708",
-                    "name": "Kokelaar B.P.",
-                    "affiliation_id": [
-                        "60020661"
-                    ]
-                }
-            ],
-            "citations": 148,
-            "publication_name": "Journal of Volcanology and Geothermal Research",
-            "issn": "03770273",
-            "cover_date": "1993-01-01",
-            "venue": "Journal",
-            "volume": "54",
-            "issue": "3-4",
-            "page_range": "265-290",
-            "doi": "10.1016/0377-0273(93)90067-2"
-        },
-        {
             "title": "Global declines in coral reef calcium carbonate production under ocean acidification and warming",
             "eid": "2-s2.0-85105769555",
             "authors": [
@@ -3882,7 +3832,7 @@
                     ]
                 }
             ],
-            "citations": 147,
+            "citations": 148,
             "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
             "issn": "00278424",
             "cover_date": "2021-05-25",
@@ -3891,6 +3841,56 @@
             "issue": "21",
             "page_range": null,
             "doi": "10.1073/pnas.2015265118"
+        },
+        {
+            "title": "The geochemistry and petrogenesis of basalts from the Taupo Volcanic Zone and Kermadec Island Arc, S.W. Pacific",
+            "eid": "2-s2.0-0027387288",
+            "authors": [
+                {
+                    "scopus_id": "7202222481",
+                    "name": "Gamble J.A.",
+                    "affiliation_id": [
+                        "60002316"
+                    ]
+                },
+                {
+                    "scopus_id": "7404425799",
+                    "name": "Smith I.E.M.",
+                    "affiliation_id": [
+                        "60005686"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.T.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7202751667",
+                    "name": "Graham I.J.",
+                    "affiliation_id": [
+                        "60019354"
+                    ]
+                },
+                {
+                    "scopus_id": "6602857708",
+                    "name": "Kokelaar B.P.",
+                    "affiliation_id": [
+                        "60020661"
+                    ]
+                }
+            ],
+            "citations": 148,
+            "publication_name": "Journal of Volcanology and Geothermal Research",
+            "issn": "03770273",
+            "cover_date": "1993-01-01",
+            "venue": "Journal",
+            "volume": "54",
+            "issue": "3-4",
+            "page_range": "265-290",
+            "doi": "10.1016/0377-0273(93)90067-2"
         },
         {
             "title": "Source of trace element variability in Great Barrier Reef corals affected by the Burdekin flood plumes",
@@ -4504,7 +4504,7 @@
                     ]
                 }
             ],
-            "citations": 124,
+            "citations": 125,
             "publication_name": "Scientific Reports",
             "issn": "",
             "cover_date": "2017-12-01",
@@ -4579,6 +4579,60 @@
             "issue": "1-2",
             "page_range": "45-60",
             "doi": "10.1016/j.chemgeo.2007.07.020"
+        },
+        {
+            "title": "Coral calcification in a changing World and the interactive dynamics of pH and DIC upregulation",
+            "eid": "2-s2.0-85020051816",
+            "authors": [
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.T.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "55934759900",
+                    "name": "D'Olivo J.P.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "6701598140",
+                    "name": "Falter J.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7005724085",
+                    "name": "Holcomb M.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7201799101",
+                    "name": "Trotter J.A.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 118,
+            "publication_name": "Nature Communications",
+            "issn": "",
+            "cover_date": "2017-05-30",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1038/ncomms15686"
         },
         {
             "title": "Boron isotope geochemistry of Australian salt lakes",
@@ -4696,6 +4750,72 @@
             "doi": "10.1016/b978-0-444-42273-6.50023-7"
         },
         {
+            "title": "Coral calcifying fluid pH dictates response to ocean acidification",
+            "eid": "2-s2.0-84902161089",
+            "authors": [
+                {
+                    "scopus_id": "7005724085",
+                    "name": "Holcomb M.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806",
+                        "60008134"
+                    ]
+                },
+                {
+                    "scopus_id": "24172849800",
+                    "name": "Venn A.A.",
+                    "affiliation_id": [
+                        "60008134"
+                    ]
+                },
+                {
+                    "scopus_id": "6602773089",
+                    "name": "Tambutt\u00e9 E.",
+                    "affiliation_id": [
+                        "60008134"
+                    ]
+                },
+                {
+                    "scopus_id": "6507063305",
+                    "name": "Tambutt\u00e9 S.",
+                    "affiliation_id": [
+                        "60008134"
+                    ]
+                },
+                {
+                    "scopus_id": "7003604806",
+                    "name": "Allemand D.",
+                    "affiliation_id": [
+                        "60008134"
+                    ]
+                },
+                {
+                    "scopus_id": "7201799101",
+                    "name": "Trotter J.",
+                    "affiliation_id": [
+                        "60008134"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 115,
+            "publication_name": "Scientific Reports",
+            "issn": "",
+            "cover_date": "2014-06-06",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1038/srep05207"
+        },
+        {
             "title": "Orbital forcing of the marine isotope stage 9 interglacial",
             "eid": "2-s2.0-0035846927",
             "authors": [
@@ -4758,126 +4878,6 @@
             "issue": "5502",
             "page_range": "290-293",
             "doi": "10.1126/science.291.5502.290"
-        },
-        {
-            "title": "Coral calcification in a changing World and the interactive dynamics of pH and DIC upregulation",
-            "eid": "2-s2.0-85020051816",
-            "authors": [
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.T.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "55934759900",
-                    "name": "D'Olivo J.P.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "6701598140",
-                    "name": "Falter J.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7005724085",
-                    "name": "Holcomb M.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7201799101",
-                    "name": "Trotter J.A.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 114,
-            "publication_name": "Nature Communications",
-            "issn": "",
-            "cover_date": "2017-05-30",
-            "venue": "Journal",
-            "volume": "8",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1038/ncomms15686"
-        },
-        {
-            "title": "Coral calcifying fluid pH dictates response to ocean acidification",
-            "eid": "2-s2.0-84902161089",
-            "authors": [
-                {
-                    "scopus_id": "7005724085",
-                    "name": "Holcomb M.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806",
-                        "60008134"
-                    ]
-                },
-                {
-                    "scopus_id": "24172849800",
-                    "name": "Venn A.A.",
-                    "affiliation_id": [
-                        "60008134"
-                    ]
-                },
-                {
-                    "scopus_id": "6602773089",
-                    "name": "Tambutt\u00e9 E.",
-                    "affiliation_id": [
-                        "60008134"
-                    ]
-                },
-                {
-                    "scopus_id": "6507063305",
-                    "name": "Tambutt\u00e9 S.",
-                    "affiliation_id": [
-                        "60008134"
-                    ]
-                },
-                {
-                    "scopus_id": "7003604806",
-                    "name": "Allemand D.",
-                    "affiliation_id": [
-                        "60008134"
-                    ]
-                },
-                {
-                    "scopus_id": "7201799101",
-                    "name": "Trotter J.",
-                    "affiliation_id": [
-                        "60008134"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 114,
-            "publication_name": "Scientific Reports",
-            "issn": "",
-            "cover_date": "2014-06-06",
-            "venue": "Journal",
-            "volume": "4",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1038/srep05207"
         },
         {
             "title": "Coral record of equatorial sea-surface temperatures during the penultimate deglaciation at Huon Peninsula",
@@ -5706,6 +5706,49 @@
             "doi": "10.1016/0012-821x(95)00230-a"
         },
         {
+            "title": "Tracing the life history of individual barramundi using laser ablation MC-ICP-MS Sr-isotopic and Sr/Ba ratios in otoliths",
+            "eid": "2-s2.0-25144472703",
+            "authors": [
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6602615339",
+                    "name": "Cappo M.",
+                    "affiliation_id": [
+                        "60014975"
+                    ]
+                },
+                {
+                    "scopus_id": "8891693000",
+                    "name": "Aumend J.",
+                    "affiliation_id": [
+                        "60014975"
+                    ]
+                },
+                {
+                    "scopus_id": "55455002400",
+                    "name": "M\u00fcller W.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 95,
+            "publication_name": "Marine and Freshwater Research",
+            "issn": "13231650",
+            "cover_date": "2005-09-30",
+            "venue": "Journal",
+            "volume": "56",
+            "issue": "5",
+            "page_range": "637-644",
+            "doi": "10.1071/MF04184"
+        },
+        {
             "title": "East African soil erosion recorded in a 300 year old coral colony from Kenya",
             "eid": "2-s2.0-34547978910",
             "authors": [
@@ -5755,7 +5798,7 @@
                     "scopus_id": "7403376169",
                     "name": "Cole J.E.",
                     "affiliation_id": [
-                        "60010065"
+                        "60150063"
                     ]
                 },
                 {
@@ -5775,49 +5818,6 @@
             "issue": "4",
             "page_range": null,
             "doi": "10.1029/2006GL028525"
-        },
-        {
-            "title": "Tracing the life history of individual barramundi using laser ablation MC-ICP-MS Sr-isotopic and Sr/Ba ratios in otoliths",
-            "eid": "2-s2.0-25144472703",
-            "authors": [
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "6602615339",
-                    "name": "Cappo M.",
-                    "affiliation_id": [
-                        "60014975"
-                    ]
-                },
-                {
-                    "scopus_id": "8891693000",
-                    "name": "Aumend J.",
-                    "affiliation_id": [
-                        "60014975"
-                    ]
-                },
-                {
-                    "scopus_id": "55455002400",
-                    "name": "M\u00fcller W.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 94,
-            "publication_name": "Marine and Freshwater Research",
-            "issn": "13231650",
-            "cover_date": "2005-09-30",
-            "venue": "Journal",
-            "volume": "56",
-            "issue": "5",
-            "page_range": "637-644",
-            "doi": "10.1071/MF04184"
         },
         {
             "title": "Aeolian contribution to strontium and strontium isotope variations in a tasmanian speleothem",
@@ -6990,6 +6990,56 @@
             "doi": "10.1016/j.epsl.2007.10.010"
         },
         {
+            "title": "Sourcing sediment using multiple tracers in the catchment of Lake Argyle, Northwestern Australia",
+            "eid": "2-s2.0-0036581830",
+            "authors": [
+                {
+                    "scopus_id": "7003639138",
+                    "name": "Wasson R.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6603650785",
+                    "name": "Caitcheon G.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "55934934600",
+                    "name": "Murray A.S.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "16194835700",
+                    "name": "Quade J.",
+                    "affiliation_id": [
+                        "60150063"
+                    ]
+                }
+            ],
+            "citations": 78,
+            "publication_name": "Environmental Management",
+            "issn": "0364152X",
+            "cover_date": "2002-05-01",
+            "venue": "Journal",
+            "volume": "29",
+            "issue": "5",
+            "page_range": "634-646",
+            "doi": "10.1007/s00267-001-0049-4"
+        },
+        {
             "title": "Geochemical and Sr-Nd isotopic mapping of source provinces for the Mawson charnockites, east Antarctica: Implications for proterozoic tectonics and Gondwana reconstruction",
             "eid": "2-s2.0-0031411342",
             "authors": [
@@ -7035,56 +7085,6 @@
             "doi": "10.1016/s0301-9268(97)00030-2"
         },
         {
-            "title": "Sourcing sediment using multiple tracers in the catchment of Lake Argyle, Northwestern Australia",
-            "eid": "2-s2.0-0036581830",
-            "authors": [
-                {
-                    "scopus_id": "7003639138",
-                    "name": "Wasson R.J.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "6603650785",
-                    "name": "Caitcheon G.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "55934934600",
-                    "name": "Murray A.S.",
-                    "affiliation_id": [
-                        "60029616"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "16194835700",
-                    "name": "Quade J.",
-                    "affiliation_id": [
-                        "60010065"
-                    ]
-                }
-            ],
-            "citations": 77,
-            "publication_name": "Environmental Management",
-            "issn": "0364152X",
-            "cover_date": "2002-05-01",
-            "venue": "Journal",
-            "volume": "29",
-            "issue": "5",
-            "page_range": "634-646",
-            "doi": "10.1007/s00267-001-0049-4"
-        },
-        {
             "title": "SmNd mineral isochron ages of Late Proterozoic dyke swarms in Australia: evidence for two distinctive events of mafic magmatism and crustal extension",
             "eid": "2-s2.0-0027799326",
             "authors": [
@@ -7112,6 +7112,52 @@
             "issue": "1-4",
             "page_range": "341-354",
             "doi": "10.1016/0009-2541(93)90079-X"
+        },
+        {
+            "title": "Factors affecting B/Ca ratios in synthetic aragonite",
+            "eid": "2-s2.0-84973131016",
+            "authors": [
+                {
+                    "scopus_id": "7005724085",
+                    "name": "Holcomb M.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806",
+                        "60072608"
+                    ]
+                },
+                {
+                    "scopus_id": "56469750400",
+                    "name": "DeCarlo T.M.",
+                    "affiliation_id": [
+                        "60013609"
+                    ]
+                },
+                {
+                    "scopus_id": "7007024616",
+                    "name": "Gaetani G.A.",
+                    "affiliation_id": [
+                        "60013609"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 76,
+            "publication_name": "Chemical Geology",
+            "issn": "00092541",
+            "cover_date": "2016-10-25",
+            "venue": "Journal",
+            "volume": "437",
+            "issue": "",
+            "page_range": "67-76",
+            "doi": "10.1016/j.chemgeo.2016.05.007"
         },
         {
             "title": "Phosphorus in cold-water corals as a proxy for seawater nutrient chemistry",
@@ -7210,52 +7256,6 @@
             "issue": "1878",
             "page_range": null,
             "doi": "10.1098/rspb.2018.0564"
-        },
-        {
-            "title": "Factors affecting B/Ca ratios in synthetic aragonite",
-            "eid": "2-s2.0-84973131016",
-            "authors": [
-                {
-                    "scopus_id": "7005724085",
-                    "name": "Holcomb M.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806",
-                        "60072608"
-                    ]
-                },
-                {
-                    "scopus_id": "56469750400",
-                    "name": "DeCarlo T.M.",
-                    "affiliation_id": [
-                        "60013609"
-                    ]
-                },
-                {
-                    "scopus_id": "7007024616",
-                    "name": "Gaetani G.A.",
-                    "affiliation_id": [
-                        "60013609"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 74,
-            "publication_name": "Chemical Geology",
-            "issn": "00092541",
-            "cover_date": "2016-10-25",
-            "venue": "Journal",
-            "volume": "437",
-            "issue": "",
-            "page_range": "67-76",
-            "doi": "10.1016/j.chemgeo.2016.05.007"
         },
         {
             "title": "Comparison of dermal absorption of zinc from different sunscreen formulations and differing UV exposure based on stable isotope tracing",
@@ -8108,6 +8108,35 @@
             "doi": "10.1038/s41467-019-12065-0"
         },
         {
+            "title": "Response of coral calcification and calcifying fluid composition to thermally induced bleaching stress",
+            "eid": "2-s2.0-85019864713",
+            "authors": [
+                {
+                    "scopus_id": "55934759900",
+                    "name": "D'Olivo J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 62,
+            "publication_name": "Scientific Reports",
+            "issn": "",
+            "cover_date": "2017-12-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1038/s41598-017-02306-x"
+        },
+        {
             "title": "A coralline alga gains tolerance to ocean acidification over multiple generations of exposure",
             "eid": "2-s2.0-85078225469",
             "authors": [
@@ -8347,35 +8376,6 @@
             "issue": "1",
             "page_range": "1-9",
             "doi": "10.1111/j.1442-9993.2008.01938.x"
-        },
-        {
-            "title": "Response of coral calcification and calcifying fluid composition to thermally induced bleaching stress",
-            "eid": "2-s2.0-85019864713",
-            "authors": [
-                {
-                    "scopus_id": "55934759900",
-                    "name": "D'Olivo J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 60,
-            "publication_name": "Scientific Reports",
-            "issn": "",
-            "cover_date": "2017-12-01",
-            "venue": "Journal",
-            "volume": "7",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1038/s41598-017-02306-x"
         },
         {
             "title": "Coral record of southeast Indian Ocean marine heatwaves with intensified Western Pacific temperature gradient",
@@ -9517,6 +9517,45 @@
             "doi": "10.5194/bg-14-5253-2017"
         },
         {
+            "title": "Decoupling between the response of coral calcifying fluid pH and calcification to ocean acidification",
+            "eid": "2-s2.0-85027096246",
+            "authors": [
+                {
+                    "scopus_id": "35811982200",
+                    "name": "Comeau S.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60189142"
+                    ]
+                },
+                {
+                    "scopus_id": "36599949700",
+                    "name": "Cornwall C.E.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60189142"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.T.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60189142"
+                    ]
+                }
+            ],
+            "citations": 52,
+            "publication_name": "Scientific Reports",
+            "issn": "",
+            "cover_date": "2017-12-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1038/s41598-017-08003-z"
+        },
+        {
             "title": "Precise and accurate determination of <sup>147</sup>Sm/<sup>144</sup>Nd and <sup>143</sup>Nd/<sup>144</sup>Nd in monazite using laser ablation-MC-ICPMS",
             "eid": "2-s2.0-79851511143",
             "authors": [
@@ -9567,43 +9606,47 @@
             "doi": "10.1016/j.chemgeo.2011.01.008"
         },
         {
-            "title": "Decoupling between the response of coral calcifying fluid pH and calcification to ocean acidification",
-            "eid": "2-s2.0-85027096246",
+            "title": "A lower crustal origin for massif-type anorthosites",
+            "eid": "2-s2.0-0021638855",
             "authors": [
                 {
-                    "scopus_id": "35811982200",
-                    "name": "Comeau S.",
+                    "scopus_id": "55462785800",
+                    "name": "Taylor S.",
                     "affiliation_id": [
-                        "60031806",
-                        "60189142"
+                        "60008950"
                     ]
                 },
                 {
-                    "scopus_id": "36599949700",
-                    "name": "Cornwall C.E.",
+                    "scopus_id": "7401749394",
+                    "name": "Campbell I.",
                     "affiliation_id": [
-                        "60031806",
-                        "60189142"
+                        "60008950"
                     ]
                 },
                 {
                     "scopus_id": "7102869538",
-                    "name": "McCulloch M.T.",
+                    "name": "McCulloch M.",
                     "affiliation_id": [
-                        "60031806",
-                        "60189142"
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7005625814",
+                    "name": "McLennan S.",
+                    "affiliation_id": [
+                        "60008950"
                     ]
                 }
             ],
-            "citations": 50,
-            "publication_name": "Scientific Reports",
-            "issn": "",
-            "cover_date": "2017-12-01",
+            "citations": 51,
+            "publication_name": "Nature",
+            "issn": "00280836",
+            "cover_date": "1984-12-01",
             "venue": "Journal",
-            "volume": "7",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1038/s41598-017-08003-z"
+            "volume": "311",
+            "issue": "5984",
+            "page_range": "372-374",
+            "doi": "10.1038/311372a0"
         },
         {
             "title": "Arc and back-arc geochemistry in the southern Kermadec Arc-Ngatoro Basin and offshore Taupo Volcanic Zone, SW Pacific",
@@ -9647,49 +9690,6 @@
             "issue": "",
             "page_range": "193-212",
             "doi": ""
-        },
-        {
-            "title": "A lower crustal origin for massif-type anorthosites",
-            "eid": "2-s2.0-0021638855",
-            "authors": [
-                {
-                    "scopus_id": "55462785800",
-                    "name": "Taylor S.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7401749394",
-                    "name": "Campbell I.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7005625814",
-                    "name": "McLennan S.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 50,
-            "publication_name": "Nature",
-            "issn": "00280836",
-            "cover_date": "1984-12-01",
-            "venue": "Journal",
-            "volume": "311",
-            "issue": "5984",
-            "page_range": "372-374",
-            "doi": "10.1038/311372a0"
         },
         {
             "title": "Acclimatization of massive reef-building corals to consecutive heatwaves",
@@ -11233,6 +11233,150 @@
             "doi": "10.1080/08120099408728150"
         },
         {
+            "title": "Coral Li/Mg thermometry: Caveats and constraints",
+            "eid": "2-s2.0-85068506810",
+            "authors": [
+                {
+                    "scopus_id": "57209739374",
+                    "name": "Cuny-Guirriec K.",
+                    "affiliation_id": [
+                        "60029937"
+                    ]
+                },
+                {
+                    "scopus_id": "6603742759",
+                    "name": "Douville E.",
+                    "affiliation_id": [
+                        "60029937"
+                    ]
+                },
+                {
+                    "scopus_id": "57202475672",
+                    "name": "Reynaud S.",
+                    "affiliation_id": [
+                        "60072608"
+                    ]
+                },
+                {
+                    "scopus_id": "7003604806",
+                    "name": "Allemand D.",
+                    "affiliation_id": [
+                        "60072608"
+                    ]
+                },
+                {
+                    "scopus_id": "55173034500",
+                    "name": "Bordier L.",
+                    "affiliation_id": [
+                        "60029937"
+                    ]
+                },
+                {
+                    "scopus_id": "57209738201",
+                    "name": "Canesi M.",
+                    "affiliation_id": [
+                        "60029937"
+                    ]
+                },
+                {
+                    "scopus_id": "6603796076",
+                    "name": "Mazzoli C.",
+                    "affiliation_id": [
+                        "60000481"
+                    ]
+                },
+                {
+                    "scopus_id": "7005311713",
+                    "name": "Taviani M.",
+                    "affiliation_id": [
+                        "60104470",
+                        "60013609",
+                        "60073807"
+                    ]
+                },
+                {
+                    "scopus_id": "22933353200",
+                    "name": "Canese S.",
+                    "affiliation_id": [
+                        "60113282"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7201799101",
+                    "name": "Trotter J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57203893600",
+                    "name": "Rico-Esenaro S.D.",
+                    "affiliation_id": [
+                        "60032442"
+                    ]
+                },
+                {
+                    "scopus_id": "7004711888",
+                    "name": "Sanchez-Cabeza J.A.",
+                    "affiliation_id": [
+                        "60032442"
+                    ]
+                },
+                {
+                    "scopus_id": "57226202463",
+                    "name": "Ruiz-Fern\u00e1ndez A.C.",
+                    "affiliation_id": [
+                        "60032442"
+                    ]
+                },
+                {
+                    "scopus_id": "6602317051",
+                    "name": "Carricart-Ganivet J.P.",
+                    "affiliation_id": [
+                        "60032442"
+                    ]
+                },
+                {
+                    "scopus_id": "57200625223",
+                    "name": "Scott P.M.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "6508195321",
+                    "name": "Sadekov A.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "56261588500",
+                    "name": "Montagna P.",
+                    "affiliation_id": [
+                        "60104470",
+                        "60033011"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Chemical Geology",
+            "issn": "00092541",
+            "cover_date": "2019-09-30",
+            "venue": "Journal",
+            "volume": "523",
+            "issue": "",
+            "page_range": "162-178",
+            "doi": "10.1016/j.chemgeo.2019.03.038"
+        },
+        {
             "title": "Sr and Nd isotope systematics of polymetamorphic Archean gneisses from southern West Greenland and northern Labrador",
             "eid": "2-s2.0-0024530427",
             "authors": [
@@ -11413,148 +11557,50 @@
             "doi": "10.1038/s41598-019-49044-w"
         },
         {
-            "title": "Coral Li/Mg thermometry: Caveats and constraints",
-            "eid": "2-s2.0-85068506810",
+            "title": "A universal multi-trace element calibration for reconstructing sea surface temperatures from long-lived Porites corals: Removing \u2018vital-effects\u2019",
+            "eid": "2-s2.0-85051277717",
             "authors": [
                 {
-                    "scopus_id": "57209739374",
-                    "name": "Cuny-Guirriec K.",
+                    "scopus_id": "55934759900",
+                    "name": "D'Olivo J.P.",
                     "affiliation_id": [
-                        "60029937"
+                        "60189142",
+                        "60031806"
                     ]
                 },
                 {
-                    "scopus_id": "6603742759",
-                    "name": "Douville E.",
+                    "scopus_id": "7202616985",
+                    "name": "Sinclair D.J.",
                     "affiliation_id": [
-                        "60029937"
+                        "60002316"
                     ]
                 },
                 {
-                    "scopus_id": "57202475672",
-                    "name": "Reynaud S.",
+                    "scopus_id": "13907083200",
+                    "name": "Rankenburg K.",
                     "affiliation_id": [
-                        "60072608"
-                    ]
-                },
-                {
-                    "scopus_id": "7003604806",
-                    "name": "Allemand D.",
-                    "affiliation_id": [
-                        "60072608"
-                    ]
-                },
-                {
-                    "scopus_id": "55173034500",
-                    "name": "Bordier L.",
-                    "affiliation_id": [
-                        "60029937"
-                    ]
-                },
-                {
-                    "scopus_id": "57209738201",
-                    "name": "Canesi M.",
-                    "affiliation_id": [
-                        "60029937"
-                    ]
-                },
-                {
-                    "scopus_id": "6603796076",
-                    "name": "Mazzoli C.",
-                    "affiliation_id": [
-                        "60000481"
-                    ]
-                },
-                {
-                    "scopus_id": "7005311713",
-                    "name": "Taviani M.",
-                    "affiliation_id": [
-                        "60104470",
-                        "60013609",
-                        "60073807"
-                    ]
-                },
-                {
-                    "scopus_id": "22933353200",
-                    "name": "Canese S.",
-                    "affiliation_id": [
-                        "60113282"
+                        "60031806",
+                        "60189232"
                     ]
                 },
                 {
                     "scopus_id": "7102869538",
-                    "name": "McCulloch M.",
+                    "name": "McCulloch M.T.",
                     "affiliation_id": [
+                        "60189142",
                         "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7201799101",
-                    "name": "Trotter J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57203893600",
-                    "name": "Rico-Esenaro S.D.",
-                    "affiliation_id": [
-                        "60032442"
-                    ]
-                },
-                {
-                    "scopus_id": "7004711888",
-                    "name": "Sanchez-Cabeza J.A.",
-                    "affiliation_id": [
-                        "60032442"
-                    ]
-                },
-                {
-                    "scopus_id": "57226202463",
-                    "name": "Ruiz-Fern\u00e1ndez A.C.",
-                    "affiliation_id": [
-                        "60032442"
-                    ]
-                },
-                {
-                    "scopus_id": "6602317051",
-                    "name": "Carricart-Ganivet J.P.",
-                    "affiliation_id": [
-                        "60032442"
-                    ]
-                },
-                {
-                    "scopus_id": "57200625223",
-                    "name": "Scott P.M.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "6508195321",
-                    "name": "Sadekov A.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "56261588500",
-                    "name": "Montagna P.",
-                    "affiliation_id": [
-                        "60104470",
-                        "60033011"
                     ]
                 }
             ],
             "citations": 35,
-            "publication_name": "Chemical Geology",
-            "issn": "00092541",
-            "cover_date": "2019-09-30",
+            "publication_name": "Geochimica et Cosmochimica Acta",
+            "issn": "00167037",
+            "cover_date": "2018-10-15",
             "venue": "Journal",
-            "volume": "523",
+            "volume": "239",
             "issue": "",
-            "page_range": "162-178",
-            "doi": "10.1016/j.chemgeo.2019.03.038"
+            "page_range": "109-135",
+            "doi": "10.1016/j.gca.2018.07.035"
         },
         {
             "title": "Stable isotopes (\u03b4<sup>18</sup>O and \u03b4<sup>13</sup>C), trace and minor element compositions of Recent scleractinians and Last Glacial bivalves at the Santa Maria di Leuca deep-water coral province, Ionian Sea",
@@ -11728,52 +11774,6 @@
             "issue": "1-2",
             "page_range": "102-117",
             "doi": "10.1016/j.chemgeo.2006.01.002"
-        },
-        {
-            "title": "A universal multi-trace element calibration for reconstructing sea surface temperatures from long-lived Porites corals: Removing \u2018vital-effects\u2019",
-            "eid": "2-s2.0-85051277717",
-            "authors": [
-                {
-                    "scopus_id": "55934759900",
-                    "name": "D'Olivo J.P.",
-                    "affiliation_id": [
-                        "60189142",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7202616985",
-                    "name": "Sinclair D.J.",
-                    "affiliation_id": [
-                        "60002316"
-                    ]
-                },
-                {
-                    "scopus_id": "13907083200",
-                    "name": "Rankenburg K.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60189232"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.T.",
-                    "affiliation_id": [
-                        "60189142",
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 34,
-            "publication_name": "Geochimica et Cosmochimica Acta",
-            "issn": "00167037",
-            "cover_date": "2018-10-15",
-            "venue": "Journal",
-            "volume": "239",
-            "issue": "",
-            "page_range": "109-135",
-            "doi": "10.1016/j.gca.2018.07.035"
         },
         {
             "title": "Elemental signatures of Pomacentrus coelestis otoliths at multiple spatial scales on the Great Barrier Reef, Australia",
@@ -12107,6 +12107,152 @@
             "issue": "3-4",
             "page_range": "301-315",
             "doi": "10.1016/0009-2541(90)90095-O"
+        },
+        {
+            "title": "Sub-Permil Interlaboratory Consistency for Solution-Based Boron Isotope Analyses on Marine Carbonates",
+            "eid": "2-s2.0-85096712169",
+            "authors": [
+                {
+                    "scopus_id": "16686165600",
+                    "name": "Gutjahr M.",
+                    "affiliation_id": [
+                        "60079129"
+                    ]
+                },
+                {
+                    "scopus_id": "55173034500",
+                    "name": "Bordier L.",
+                    "affiliation_id": [
+                        "60029937"
+                    ]
+                },
+                {
+                    "scopus_id": "6603742759",
+                    "name": "Douville E.",
+                    "affiliation_id": [
+                        "60029937"
+                    ]
+                },
+                {
+                    "scopus_id": "54787692600",
+                    "name": "Farmer J.",
+                    "affiliation_id": [
+                        "60033011",
+                        "60003269"
+                    ]
+                },
+                {
+                    "scopus_id": "7403211753",
+                    "name": "Foster G.L.",
+                    "affiliation_id": [
+                        "60025225"
+                    ]
+                },
+                {
+                    "scopus_id": "14064738200",
+                    "name": "Hathorne E.C.",
+                    "affiliation_id": [
+                        "60079129"
+                    ]
+                },
+                {
+                    "scopus_id": "6603263815",
+                    "name": "H\u00f6nisch B.",
+                    "affiliation_id": [
+                        "60033011"
+                    ]
+                },
+                {
+                    "scopus_id": "57206504666",
+                    "name": "Lemarchand D.",
+                    "affiliation_id": [
+                        "60103368"
+                    ]
+                },
+                {
+                    "scopus_id": "6602469695",
+                    "name": "Louvat P.",
+                    "affiliation_id": [
+                        "60001970"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "56317139800",
+                    "name": "Noireaux J.",
+                    "affiliation_id": [
+                        "60001970"
+                    ]
+                },
+                {
+                    "scopus_id": "55853458600",
+                    "name": "Pallavicini N.",
+                    "affiliation_id": [
+                        "60118502"
+                    ]
+                },
+                {
+                    "scopus_id": "36454830900",
+                    "name": "Rae J.W.B.",
+                    "affiliation_id": [
+                        "60086312",
+                        "60022132"
+                    ]
+                },
+                {
+                    "scopus_id": "55922679500",
+                    "name": "Rodushkin I.",
+                    "affiliation_id": [
+                        "60118502",
+                        "60007183"
+                    ]
+                },
+                {
+                    "scopus_id": "55344873500",
+                    "name": "Roux P.",
+                    "affiliation_id": [
+                        "60103368",
+                        "60111958"
+                    ]
+                },
+                {
+                    "scopus_id": "56706757900",
+                    "name": "Stewart J.A.",
+                    "affiliation_id": [
+                        "60025225",
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "55859840200",
+                    "name": "Thil F.",
+                    "affiliation_id": [
+                        "60029937"
+                    ]
+                },
+                {
+                    "scopus_id": "7102288679",
+                    "name": "You C.F.",
+                    "affiliation_id": [
+                        "60014982"
+                    ]
+                }
+            ],
+            "citations": 32,
+            "publication_name": "Geostandards and Geoanalytical Research",
+            "issn": "16394488",
+            "cover_date": "2021-03-01",
+            "venue": "Journal",
+            "volume": "45",
+            "issue": "1",
+            "page_range": "59-75",
+            "doi": "10.1111/ggr.12364"
         },
         {
             "title": "Perennial growth of hermatypic corals at Rottnest Island, Western Australia (32\u00b0S)",
@@ -12623,152 +12769,6 @@
             "doi": "10.1016/0012-821X(76)90192-8"
         },
         {
-            "title": "Sub-Permil Interlaboratory Consistency for Solution-Based Boron Isotope Analyses on Marine Carbonates",
-            "eid": "2-s2.0-85096712169",
-            "authors": [
-                {
-                    "scopus_id": "16686165600",
-                    "name": "Gutjahr M.",
-                    "affiliation_id": [
-                        "60079129"
-                    ]
-                },
-                {
-                    "scopus_id": "55173034500",
-                    "name": "Bordier L.",
-                    "affiliation_id": [
-                        "60029937"
-                    ]
-                },
-                {
-                    "scopus_id": "6603742759",
-                    "name": "Douville E.",
-                    "affiliation_id": [
-                        "60029937"
-                    ]
-                },
-                {
-                    "scopus_id": "54787692600",
-                    "name": "Farmer J.",
-                    "affiliation_id": [
-                        "60033011",
-                        "60003269"
-                    ]
-                },
-                {
-                    "scopus_id": "7403211753",
-                    "name": "Foster G.L.",
-                    "affiliation_id": [
-                        "60025225"
-                    ]
-                },
-                {
-                    "scopus_id": "14064738200",
-                    "name": "Hathorne E.C.",
-                    "affiliation_id": [
-                        "60079129"
-                    ]
-                },
-                {
-                    "scopus_id": "6603263815",
-                    "name": "H\u00f6nisch B.",
-                    "affiliation_id": [
-                        "60033011"
-                    ]
-                },
-                {
-                    "scopus_id": "57206504666",
-                    "name": "Lemarchand D.",
-                    "affiliation_id": [
-                        "60103368"
-                    ]
-                },
-                {
-                    "scopus_id": "6602469695",
-                    "name": "Louvat P.",
-                    "affiliation_id": [
-                        "60001970"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "56317139800",
-                    "name": "Noireaux J.",
-                    "affiliation_id": [
-                        "60001970"
-                    ]
-                },
-                {
-                    "scopus_id": "55853458600",
-                    "name": "Pallavicini N.",
-                    "affiliation_id": [
-                        "60118502"
-                    ]
-                },
-                {
-                    "scopus_id": "36454830900",
-                    "name": "Rae J.W.B.",
-                    "affiliation_id": [
-                        "60086312",
-                        "60022132"
-                    ]
-                },
-                {
-                    "scopus_id": "55922679500",
-                    "name": "Rodushkin I.",
-                    "affiliation_id": [
-                        "60118502",
-                        "60007183"
-                    ]
-                },
-                {
-                    "scopus_id": "55344873500",
-                    "name": "Roux P.",
-                    "affiliation_id": [
-                        "60103368",
-                        "60111958"
-                    ]
-                },
-                {
-                    "scopus_id": "56706757900",
-                    "name": "Stewart J.A.",
-                    "affiliation_id": [
-                        "60025225",
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "55859840200",
-                    "name": "Thil F.",
-                    "affiliation_id": [
-                        "60029937"
-                    ]
-                },
-                {
-                    "scopus_id": "7102288679",
-                    "name": "You C.F.",
-                    "affiliation_id": [
-                        "60014982"
-                    ]
-                }
-            ],
-            "citations": 30,
-            "publication_name": "Geostandards and Geoanalytical Research",
-            "issn": "16394488",
-            "cover_date": "2021-03-01",
-            "venue": "Journal",
-            "volume": "45",
-            "issue": "1",
-            "page_range": "59-75",
-            "doi": "10.1111/ggr.12364"
-        },
-        {
             "title": "Response of Acropora digitifera to ocean acidification: constraints from \u03b4<sup>11</sup>B, Sr, Mg, and Ba compositions of aragonitic skeletons cultured under variable seawater pH",
             "eid": "2-s2.0-84947125617",
             "authors": [
@@ -13255,6 +13255,45 @@
             "doi": "10.1016/j.geomorph.2008.06.004"
         },
         {
+            "title": "Active modulation of the calcifying fluid carbonate chemistry (\u03b4<sup>11</sup>B, B/Ca) and seasonally invariant coral calcification at sub-Tropical limits",
+            "eid": "2-s2.0-85032213501",
+            "authors": [
+                {
+                    "scopus_id": "56583346400",
+                    "name": "Ross C.L.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "6701598140",
+                    "name": "Falter J.L.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.T.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 25,
+            "publication_name": "Scientific Reports",
+            "issn": "",
+            "cover_date": "2017-12-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1038/s41598-017-14066-9"
+        },
+        {
             "title": "Coral records of reef-water pH across the central Great Barrier Reef, Australia: Assessing the influence of river runoff on inshore reefs",
             "eid": "2-s2.0-84923362533",
             "authors": [
@@ -13441,6 +13480,52 @@
             "doi": "10.1016/j.csr.2004.07.013"
         },
         {
+            "title": "Deconvolving the long-term impacts of ocean acidification and warming on coral biomineralisation",
+            "eid": "2-s2.0-85071401379",
+            "authors": [
+                {
+                    "scopus_id": "55934759900",
+                    "name": "D'Olivo J.P.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60189142"
+                    ]
+                },
+                {
+                    "scopus_id": "57210753573",
+                    "name": "Ellwood G.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "56469750400",
+                    "name": "DeCarlo T.M.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60189142"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.T.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60189142"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "Earth and Planetary Science Letters",
+            "issn": "0012821X",
+            "cover_date": "2019-11-15",
+            "venue": "Journal",
+            "volume": "526",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.epsl.2019.115785"
+        },
+        {
             "title": "Environmental and physiochemical controls on coral calcification along a latitudinal temperature gradient in Western Australia",
             "eid": "2-s2.0-85056742560",
             "authors": [
@@ -13481,45 +13566,6 @@
             "issue": "2",
             "page_range": "431-447",
             "doi": "10.1111/gcb.14488"
-        },
-        {
-            "title": "Active modulation of the calcifying fluid carbonate chemistry (\u03b4<sup>11</sup>B, B/Ca) and seasonally invariant coral calcification at sub-Tropical limits",
-            "eid": "2-s2.0-85032213501",
-            "authors": [
-                {
-                    "scopus_id": "56583346400",
-                    "name": "Ross C.L.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "6701598140",
-                    "name": "Falter J.L.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.T.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 24,
-            "publication_name": "Scientific Reports",
-            "issn": "",
-            "cover_date": "2017-12-01",
-            "venue": "Journal",
-            "volume": "7",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1038/s41598-017-14066-9"
         },
         {
             "title": "Environmental constraints on Holocene cold-water coral reef growth off Norway: Insights from a multiproxy approach",
@@ -13785,6 +13831,43 @@
             "doi": "10.1016/j.quageo.2008.10.001"
         },
         {
+            "title": "U-series evidence for widespread reef development in Shark Bay during the last interglacial",
+            "eid": "2-s2.0-40649086594",
+            "authors": [
+                {
+                    "scopus_id": "58114173500",
+                    "name": "O'Leary M.J.",
+                    "affiliation_id": [
+                        "60019870",
+                        "60022046"
+                    ]
+                },
+                {
+                    "scopus_id": "7003591250",
+                    "name": "Hearty P.J.",
+                    "affiliation_id": [
+                        "60011664"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.T.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+            "issn": "00310182",
+            "cover_date": "2008-03-31",
+            "venue": "Journal",
+            "volume": "259",
+            "issue": "4",
+            "page_range": "424-435",
+            "doi": "10.1016/j.palaeo.2007.10.022"
+        },
+        {
             "title": "Detailed mass spectrometric U-series analyses of two teeth from the archaeological site of Pech de l'Aze II: Implications for uranium migration and dating",
             "eid": "2-s2.0-0343484943",
             "authors": [
@@ -13826,6 +13909,49 @@
             "issue": "10",
             "page_range": "1301-1310",
             "doi": "10.1006/jasc.1998.0371"
+        },
+        {
+            "title": "A strontium isotopic investigation of the Bjerkreim-Sokndal layered intrusion, Southwest Norway",
+            "eid": "2-s2.0-0029769347",
+            "authors": [
+                {
+                    "scopus_id": "7201827825",
+                    "name": "Nielsen F.M.",
+                    "affiliation_id": [
+                        "60083053"
+                    ]
+                },
+                {
+                    "scopus_id": "7401749394",
+                    "name": "Campbell I.H.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "8625317900",
+                    "name": "Wilson J.R.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "Journal of Petrology",
+            "issn": "00223530",
+            "cover_date": "1996-01-01",
+            "venue": "Journal",
+            "volume": "37",
+            "issue": "1",
+            "page_range": "171-193",
+            "doi": "10.1093/petrology/37.1.171"
         },
         {
             "title": "Nd and Sr isotope geochemistry of leucite-bearing lavas from Gaussberg, East Antarctica.",
@@ -13920,132 +14046,6 @@
             "issue": "2",
             "page_range": "121-140",
             "doi": "10.1007/s12210-008-0007-7"
-        },
-        {
-            "title": "U-series evidence for widespread reef development in Shark Bay during the last interglacial",
-            "eid": "2-s2.0-40649086594",
-            "authors": [
-                {
-                    "scopus_id": "58114173500",
-                    "name": "O'Leary M.J.",
-                    "affiliation_id": [
-                        "60019870",
-                        "60022046"
-                    ]
-                },
-                {
-                    "scopus_id": "7003591250",
-                    "name": "Hearty P.J.",
-                    "affiliation_id": [
-                        "60011664"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.T.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 23,
-            "publication_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
-            "issn": "00310182",
-            "cover_date": "2008-03-31",
-            "venue": "Journal",
-            "volume": "259",
-            "issue": "4",
-            "page_range": "424-435",
-            "doi": "10.1016/j.palaeo.2007.10.022"
-        },
-        {
-            "title": "A strontium isotopic investigation of the Bjerkreim-Sokndal layered intrusion, Southwest Norway",
-            "eid": "2-s2.0-0029769347",
-            "authors": [
-                {
-                    "scopus_id": "7201827825",
-                    "name": "Nielsen F.M.",
-                    "affiliation_id": [
-                        "60083053"
-                    ]
-                },
-                {
-                    "scopus_id": "7401749394",
-                    "name": "Campbell I.H.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "8625317900",
-                    "name": "Wilson J.R.",
-                    "affiliation_id": [
-                        "60029616"
-                    ]
-                }
-            ],
-            "citations": 23,
-            "publication_name": "Journal of Petrology",
-            "issn": "00223530",
-            "cover_date": "1996-01-01",
-            "venue": "Journal",
-            "volume": "37",
-            "issue": "1",
-            "page_range": "171-193",
-            "doi": "10.1093/petrology/37.1.171"
-        },
-        {
-            "title": "Deconvolving the long-term impacts of ocean acidification and warming on coral biomineralisation",
-            "eid": "2-s2.0-85071401379",
-            "authors": [
-                {
-                    "scopus_id": "55934759900",
-                    "name": "D'Olivo J.P.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60189142"
-                    ]
-                },
-                {
-                    "scopus_id": "57210753573",
-                    "name": "Ellwood G.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "56469750400",
-                    "name": "DeCarlo T.M.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60189142"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.T.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60189142"
-                    ]
-                }
-            ],
-            "citations": 22,
-            "publication_name": "Earth and Planetary Science Letters",
-            "issn": "0012821X",
-            "cover_date": "2019-11-15",
-            "venue": "Journal",
-            "volume": "526",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.epsl.2019.115785"
         },
         {
             "title": "Dating of chemical weathering processes by in situ measurement of U-series disequilibria in supergene Fe-oxy/hydroxides using LA-MC-ICPMS",
@@ -14569,6 +14569,109 @@
             "doi": "10.1130/0091-7613(1986)14<585:SARDOA>2.0.CO;2"
         },
         {
+            "title": "Anthropogenic ocean warming and acidification recorded by Sr/Ca, Li/Mg, \u03b4<sup>11</sup>B and B/Ca in Porites coral from the Kimberley region of northwestern Australia",
+            "eid": "2-s2.0-85065174178",
+            "authors": [
+                {
+                    "scopus_id": "57192167350",
+                    "name": "Chen X.",
+                    "affiliation_id": [
+                        "60028965",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "55934759900",
+                    "name": "D'Olivo J.P.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "24330125600",
+                    "name": "Wei G.",
+                    "affiliation_id": [
+                        "60028965"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 18,
+            "publication_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
+            "issn": "00310182",
+            "cover_date": "2019-08-15",
+            "venue": "Journal",
+            "volume": "528",
+            "issue": "",
+            "page_range": "50-59",
+            "doi": "10.1016/j.palaeo.2019.04.033"
+        },
+        {
+            "title": "Accurate and precise microscale measurements of boron isotope ratios in calcium carbonates using laser ablation multicollector-ICPMS",
+            "eid": "2-s2.0-85062637059",
+            "authors": [
+                {
+                    "scopus_id": "6508195321",
+                    "name": "Sadekov A.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "23019145500",
+                    "name": "Lloyd N.S.",
+                    "affiliation_id": [
+                        "60102534"
+                    ]
+                },
+                {
+                    "scopus_id": "24784038500",
+                    "name": "Misra S.",
+                    "affiliation_id": [
+                        "60014097"
+                    ]
+                },
+                {
+                    "scopus_id": "7201799101",
+                    "name": "Trotter J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "55934759900",
+                    "name": "D'Olivo J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "Mcculloch M.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 18,
+            "publication_name": "Journal of Analytical Atomic Spectrometry",
+            "issn": "02679477",
+            "cover_date": "2019-03-01",
+            "venue": "Journal",
+            "volume": "34",
+            "issue": "3",
+            "page_range": "550-560",
+            "doi": "10.1039/c8ja00444g"
+        },
+        {
             "title": "Contrasting zircon u-pb and model sm-nd ages for the archaean logue Brook Granite",
             "eid": "2-s2.0-0022850032",
             "authors": [
@@ -14641,35 +14744,30 @@
             "doi": "10.1080/00167618308729243"
         },
         {
-            "title": "Anthropogenic ocean warming and acidification recorded by Sr/Ca, Li/Mg, \u03b4<sup>11</sup>B and B/Ca in Porites coral from the Kimberley region of northwestern Australia",
-            "eid": "2-s2.0-85065174178",
+            "title": "Calibration of Sr/Ca, Li/Mg and Sr-U Paleothermometry in Branching and Foliose Corals",
+            "eid": "2-s2.0-85070705640",
             "authors": [
                 {
-                    "scopus_id": "57192167350",
-                    "name": "Chen X.",
-                    "affiliation_id": [
-                        "60028965",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "55934759900",
-                    "name": "D'Olivo J.P.",
+                    "scopus_id": "56583346400",
+                    "name": "Ross C.L.",
                     "affiliation_id": [
                         "60031806",
-                        "60031806"
+                        "60031806",
+                        "116342144"
                     ]
                 },
                 {
-                    "scopus_id": "24330125600",
-                    "name": "Wei G.",
+                    "scopus_id": "56469750400",
+                    "name": "DeCarlo T.M.",
                     "affiliation_id": [
-                        "60028965"
+                        "60031806",
+                        "60031806",
+                        "60092945"
                     ]
                 },
                 {
                     "scopus_id": "7102869538",
-                    "name": "McCulloch M.",
+                    "name": "McCulloch M.T.",
                     "affiliation_id": [
                         "60031806",
                         "60031806"
@@ -14677,71 +14775,14 @@
                 }
             ],
             "citations": 17,
-            "publication_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
-            "issn": "00310182",
-            "cover_date": "2019-08-15",
-            "venue": "Journal",
-            "volume": "528",
-            "issue": "",
-            "page_range": "50-59",
-            "doi": "10.1016/j.palaeo.2019.04.033"
-        },
-        {
-            "title": "Accurate and precise microscale measurements of boron isotope ratios in calcium carbonates using laser ablation multicollector-ICPMS",
-            "eid": "2-s2.0-85062637059",
-            "authors": [
-                {
-                    "scopus_id": "6508195321",
-                    "name": "Sadekov A.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "23019145500",
-                    "name": "Lloyd N.S.",
-                    "affiliation_id": [
-                        "60102534"
-                    ]
-                },
-                {
-                    "scopus_id": "24784038500",
-                    "name": "Misra S.",
-                    "affiliation_id": [
-                        "60014097"
-                    ]
-                },
-                {
-                    "scopus_id": "7201799101",
-                    "name": "Trotter J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "55934759900",
-                    "name": "D'Olivo J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "Mcculloch M.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 17,
-            "publication_name": "Journal of Analytical Atomic Spectrometry",
-            "issn": "02679477",
-            "cover_date": "2019-03-01",
+            "publication_name": "Paleoceanography and Paleoclimatology",
+            "issn": "25724517",
+            "cover_date": "2019-08-01",
             "venue": "Journal",
             "volume": "34",
-            "issue": "3",
-            "page_range": "550-560",
-            "doi": "10.1039/c8ja00444g"
+            "issue": "8",
+            "page_range": "1271-1291",
+            "doi": "10.1029/2018PA003426"
         },
         {
             "title": "Assessment of coral \u03b4<sup>44/40</sup>Ca as a paleoclimate proxy in the Great Barrier Reef of Australia",
@@ -14906,47 +14947,6 @@
             "doi": "10.1007/s00338-009-0533-5"
         },
         {
-            "title": "Calibration of Sr/Ca, Li/Mg and Sr-U Paleothermometry in Branching and Foliose Corals",
-            "eid": "2-s2.0-85070705640",
-            "authors": [
-                {
-                    "scopus_id": "56583346400",
-                    "name": "Ross C.L.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806",
-                        "116342144"
-                    ]
-                },
-                {
-                    "scopus_id": "56469750400",
-                    "name": "DeCarlo T.M.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806",
-                        "60092945"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.T.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 16,
-            "publication_name": "Paleoceanography and Paleoclimatology",
-            "issn": "25724517",
-            "cover_date": "2019-08-01",
-            "venue": "Journal",
-            "volume": "34",
-            "issue": "8",
-            "page_range": "1271-1291",
-            "doi": "10.1029/2018PA003426"
-        },
-        {
             "title": "Boron isotope composition of the cold-water coral Lophelia pertusa along the Norwegian margin: Zooming into a potential pH-proxy by combining bulk and high-resolution approaches",
             "eid": "2-s2.0-85060578513",
             "authors": [
@@ -15030,6 +15030,70 @@
             "issue": "",
             "page_range": "143-152",
             "doi": "10.1016/j.chemgeo.2019.01.005"
+        },
+        {
+            "title": "Differential response of corals to regional mass-warming events as evident from skeletal Sr/Ca and Mg/Ca ratios",
+            "eid": "2-s2.0-85018991322",
+            "authors": [
+                {
+                    "scopus_id": "56924585700",
+                    "name": "Clarke H.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "55934759900",
+                    "name": "D'Olivo J.P.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "6701598140",
+                    "name": "Falter J.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "55966596400",
+                    "name": "Zinke J.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60014975",
+                        "60030718"
+                    ]
+                },
+                {
+                    "scopus_id": "9844801400",
+                    "name": "Lowe R.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Geochemistry, Geophysics, Geosystems",
+            "issn": "",
+            "cover_date": "2017-05-01",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "5",
+            "page_range": "1794-1809",
+            "doi": "10.1002/2016GC006788"
         },
         {
             "title": "Short-term coral bleaching is not recorded by skeletal boron isotopes",
@@ -15348,70 +15412,6 @@
             "issue": "2",
             "page_range": "552-564",
             "doi": "10.1002/esp.4516"
-        },
-        {
-            "title": "Differential response of corals to regional mass-warming events as evident from skeletal Sr/Ca and Mg/Ca ratios",
-            "eid": "2-s2.0-85018991322",
-            "authors": [
-                {
-                    "scopus_id": "56924585700",
-                    "name": "Clarke H.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "55934759900",
-                    "name": "D'Olivo J.P.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "6701598140",
-                    "name": "Falter J.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "55966596400",
-                    "name": "Zinke J.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60014975",
-                        "60030718"
-                    ]
-                },
-                {
-                    "scopus_id": "9844801400",
-                    "name": "Lowe R.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Geochemistry, Geophysics, Geosystems",
-            "issn": "",
-            "cover_date": "2017-05-01",
-            "venue": "Journal",
-            "volume": "18",
-            "issue": "5",
-            "page_range": "1794-1809",
-            "doi": "10.1002/2016GC006788"
         },
         {
             "title": "Coral proxy record of decadal-scale reduction in base flow from Moloka'i, Hawaii",
@@ -15863,6 +15863,72 @@
             "doi": "10.1016/j.gca.2010.01.017"
         },
         {
+            "title": "pH variability at volcanic CO<inf>2</inf> seeps regulates coral calcifying fluid chemistry",
+            "eid": "2-s2.0-85124171418",
+            "authors": [
+                {
+                    "scopus_id": "35811982200",
+                    "name": "Comeau S.",
+                    "affiliation_id": [
+                        "60001422",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "36599949700",
+                    "name": "Cornwall C.E.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60002316"
+                    ]
+                },
+                {
+                    "scopus_id": "57063406900",
+                    "name": "Shlesinger T.",
+                    "affiliation_id": [
+                        "60010339"
+                    ]
+                },
+                {
+                    "scopus_id": "8262939100",
+                    "name": "Hoogenboom M.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "56632618600",
+                    "name": "Mana R.",
+                    "affiliation_id": [
+                        "60071765"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.T.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "11940588800",
+                    "name": "Rodolfo-Metalpa R.",
+                    "affiliation_id": [
+                        "60008134"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Global Change Biology",
+            "issn": "13541013",
+            "cover_date": "2022-04-01",
+            "venue": "Journal",
+            "volume": "28",
+            "issue": "8",
+            "page_range": "2751-2763",
+            "doi": "10.1111/gcb.16093"
+        },
+        {
             "title": "Heat stress differentially impacts key calcification mechanisms in reef-building corals",
             "eid": "2-s2.0-85099113009",
             "authors": [
@@ -15920,6 +15986,60 @@
             "issue": "2",
             "page_range": "459-471",
             "doi": "10.1007/s00338-020-02038-x"
+        },
+        {
+            "title": "Coral Records of Variable Stress Impacts and Possible Acclimatization to Recent Marine Heat Wave Events on the Northwest Shelf of Australia",
+            "eid": "2-s2.0-85074760861",
+            "authors": [
+                {
+                    "scopus_id": "56924585700",
+                    "name": "Clarke H.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "55934759900",
+                    "name": "D'Olivo J.P.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57196042658",
+                    "name": "Conde M.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "55523524600",
+                    "name": "Evans R.D.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.T.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Paleoceanography and Paleoclimatology",
+            "issn": "25724517",
+            "cover_date": "2019-11-01",
+            "venue": "Journal",
+            "volume": "34",
+            "issue": "11",
+            "page_range": "1672-1688",
+            "doi": "10.1029/2018PA003509"
         },
         {
             "title": "Multi-trace-element sea surface temperature coral reconstruction for the southern Mozambique Channel reveals teleconnections with the tropical Atlantic",
@@ -16075,72 +16195,6 @@
             "doi": ""
         },
         {
-            "title": "pH variability at volcanic CO<inf>2</inf> seeps regulates coral calcifying fluid chemistry",
-            "eid": "2-s2.0-85124171418",
-            "authors": [
-                {
-                    "scopus_id": "35811982200",
-                    "name": "Comeau S.",
-                    "affiliation_id": [
-                        "60001422",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "36599949700",
-                    "name": "Cornwall C.E.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60002316"
-                    ]
-                },
-                {
-                    "scopus_id": "57063406900",
-                    "name": "Shlesinger T.",
-                    "affiliation_id": [
-                        "60010339"
-                    ]
-                },
-                {
-                    "scopus_id": "8262939100",
-                    "name": "Hoogenboom M.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "56632618600",
-                    "name": "Mana R.",
-                    "affiliation_id": [
-                        "60071765"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.T.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "11940588800",
-                    "name": "Rodolfo-Metalpa R.",
-                    "affiliation_id": [
-                        "60008134"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "Global Change Biology",
-            "issn": "13541013",
-            "cover_date": "2022-04-01",
-            "venue": "Journal",
-            "volume": "28",
-            "issue": "8",
-            "page_range": "2751-2763",
-            "doi": "10.1111/gcb.16093"
-        },
-        {
             "title": "Terrestrial Signature in Coral Ba/Ca, \u03b4<sup>18</sup>O, and \u03b4<sup>13</sup>C Records From a Macrotide-Dominated Nearshore Reef Environment, Kimberley Region of Northwestern Australia",
             "eid": "2-s2.0-85082431184",
             "authors": [
@@ -16186,60 +16240,6 @@
             "issue": "3",
             "page_range": null,
             "doi": "10.1029/2019JG005394"
-        },
-        {
-            "title": "Coral Records of Variable Stress Impacts and Possible Acclimatization to Recent Marine Heat Wave Events on the Northwest Shelf of Australia",
-            "eid": "2-s2.0-85074760861",
-            "authors": [
-                {
-                    "scopus_id": "56924585700",
-                    "name": "Clarke H.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "55934759900",
-                    "name": "D'Olivo J.P.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57196042658",
-                    "name": "Conde M.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "55523524600",
-                    "name": "Evans R.D.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.T.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "Paleoceanography and Paleoclimatology",
-            "issn": "25724517",
-            "cover_date": "2019-11-01",
-            "venue": "Journal",
-            "volume": "34",
-            "issue": "11",
-            "page_range": "1672-1688",
-            "doi": "10.1029/2018PA003509"
         },
         {
             "title": "Early archean sm-nd model ages from a tonalitic gneiss, northern michigan",
@@ -16579,6 +16579,45 @@
             "doi": "10.1098/rspb.2021.0130"
         },
         {
+            "title": "Diurnal cycles of coral calcifying fluid aragonite saturation state",
+            "eid": "2-s2.0-85060882323",
+            "authors": [
+                {
+                    "scopus_id": "56469750400",
+                    "name": "DeCarlo T.M.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "56583346400",
+                    "name": "Ross C.L.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7102869538",
+                    "name": "McCulloch M.T.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Marine Biology",
+            "issn": "00253162",
+            "cover_date": "2019-03-01",
+            "venue": "Journal",
+            "volume": "166",
+            "issue": "3",
+            "page_range": null,
+            "doi": "10.1007/s00227-019-3468-6"
+        },
+        {
             "title": "Disappearance of Acropora from the Marquesas (French Polynesia) during the last deglacial period",
             "eid": "2-s2.0-80355132059",
             "authors": [
@@ -16634,23 +16673,58 @@
             "doi": "10.1007/s00338-011-0810-y"
         },
         {
-            "title": "Diurnal cycles of coral calcifying fluid aragonite saturation state",
-            "eid": "2-s2.0-85060882323",
+            "title": "Coral calcification mechanisms in a warming ocean and the interactive effects of temperature and light",
+            "eid": "2-s2.0-85130427066",
             "authors": [
                 {
-                    "scopus_id": "56469750400",
-                    "name": "DeCarlo T.M.",
+                    "scopus_id": "56583346400",
+                    "name": "Ross C.L.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806",
+                        "120609814"
+                    ]
+                },
+                {
+                    "scopus_id": "57701445700",
+                    "name": "Warnes A.",
                     "affiliation_id": [
                         "60031806",
                         "60031806"
                     ]
                 },
                 {
-                    "scopus_id": "56583346400",
-                    "name": "Ross C.L.",
+                    "scopus_id": "35811982200",
+                    "name": "Comeau S.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806",
+                        "60001422"
+                    ]
+                },
+                {
+                    "scopus_id": "36599949700",
+                    "name": "Cornwall C.E.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806",
+                        "60002316"
+                    ]
+                },
+                {
+                    "scopus_id": "57192692677",
+                    "name": "Cuttler M.V.W.",
                     "affiliation_id": [
                         "60031806",
                         "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57211020747",
+                    "name": "Naugle M.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60011941"
                     ]
                 },
                 {
@@ -16660,17 +16734,26 @@
                         "60031806",
                         "60031806"
                     ]
+                },
+                {
+                    "scopus_id": "35263301100",
+                    "name": "Schoepf V.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031806",
+                        "60028596"
+                    ]
                 }
             ],
             "citations": 7,
-            "publication_name": "Marine Biology",
-            "issn": "00253162",
-            "cover_date": "2019-03-01",
+            "publication_name": "Communications Earth and Environment",
+            "issn": "",
+            "cover_date": "2022-12-01",
             "venue": "Journal",
-            "volume": "166",
-            "issue": "3",
+            "volume": "3",
+            "issue": "1",
             "page_range": null,
-            "doi": "10.1007/s00227-019-3468-6"
+            "doi": "10.1038/s43247-022-00396-8"
         },
         {
             "title": "\u03b4<sup>34</sup>S character of organosulfur compounds in kerogen and bitumen fractions of sedimentary rocks",
@@ -16766,89 +16849,6 @@
             "issue": "2",
             "page_range": "171-177",
             "doi": "10.1038/s41558-023-01919-7"
-        },
-        {
-            "title": "Coral calcification mechanisms in a warming ocean and the interactive effects of temperature and light",
-            "eid": "2-s2.0-85130427066",
-            "authors": [
-                {
-                    "scopus_id": "56583346400",
-                    "name": "Ross C.L.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806",
-                        "120609814"
-                    ]
-                },
-                {
-                    "scopus_id": "57701445700",
-                    "name": "Warnes A.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "35811982200",
-                    "name": "Comeau S.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806",
-                        "60001422"
-                    ]
-                },
-                {
-                    "scopus_id": "36599949700",
-                    "name": "Cornwall C.E.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806",
-                        "60002316"
-                    ]
-                },
-                {
-                    "scopus_id": "57192692677",
-                    "name": "Cuttler M.V.W.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57211020747",
-                    "name": "Naugle M.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60011941"
-                    ]
-                },
-                {
-                    "scopus_id": "7102869538",
-                    "name": "McCulloch M.T.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "35263301100",
-                    "name": "Schoepf V.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806",
-                        "60028596"
-                    ]
-                }
-            ],
-            "citations": 6,
-            "publication_name": "Communications Earth and Environment",
-            "issn": "",
-            "cover_date": "2022-12-01",
-            "venue": "Journal",
-            "volume": "3",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1038/s43247-022-00396-8"
         },
         {
             "title": "Impacts of coral bleaching on pH and oxygen gradients across the coral concentration boundary layer: a microsensor study",
@@ -18141,6 +18141,5 @@
             "$": "Agricultural and Biological Sciences (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:54:03",
-    "c-score": null
+    "date fetched": "2024-07-12 21:03:21"
 }

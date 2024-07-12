@@ -143,7 +143,7 @@
                     ]
                 }
             ],
-            "citations": 459,
+            "citations": 460,
             "publication_name": "SIAM Journal on Control and Optimization",
             "issn": "03630129",
             "cover_date": "2008-11-12",
@@ -207,7 +207,7 @@
                     ]
                 }
             ],
-            "citations": 422,
+            "citations": 423,
             "publication_name": "Proceedings - IEEE INFOCOM",
             "issn": "0743166X",
             "cover_date": "2004-11-22",
@@ -257,7 +257,7 @@
                     ]
                 }
             ],
-            "citations": 390,
+            "citations": 391,
             "publication_name": "Automatica",
             "issn": "00051098",
             "cover_date": "2010-03-01",
@@ -311,7 +311,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 338,
+            "citations": 339,
             "publication_name": "SIAM Journal on Control and Optimization",
             "issn": "03630129",
             "cover_date": "1981-01-01",
@@ -441,7 +441,7 @@
                     ]
                 }
             ],
-            "citations": 267,
+            "citations": 268,
             "publication_name": "SIAM Journal on Control and Optimization",
             "issn": "03630129",
             "cover_date": "2008-11-12",
@@ -622,7 +622,7 @@
                     ]
                 }
             ],
-            "citations": 209,
+            "citations": 210,
             "publication_name": "International Journal of Robust and Nonlinear Control",
             "issn": "10498923",
             "cover_date": "2001-04-30",
@@ -644,7 +644,7 @@
                     ]
                 }
             ],
-            "citations": 204,
+            "citations": 207,
             "publication_name": "Stochastic Processes and their Applications",
             "issn": "03044149",
             "cover_date": "1982-01-01",
@@ -1599,7 +1599,7 @@
                     ]
                 }
             ],
-            "citations": 141,
+            "citations": 142,
             "publication_name": "SIAM Journal on Control and Optimization",
             "issn": "03630129",
             "cover_date": "2009-01-01",
@@ -1608,6 +1608,42 @@
             "issue": "1",
             "page_range": "206-233",
             "doi": "10.1137/060678592"
+        },
+        {
+            "title": "The multi-agent rendezvous problem. Part 1: The synchronous case",
+            "eid": "2-s2.0-53249101881",
+            "authors": [
+                {
+                    "scopus_id": "55709998500",
+                    "name": "Lin J.",
+                    "affiliation_id": [
+                        "60019463"
+                    ]
+                },
+                {
+                    "scopus_id": "7102718521",
+                    "name": "Morse A.",
+                    "affiliation_id": [
+                        "60005455"
+                    ]
+                },
+                {
+                    "scopus_id": "7404263205",
+                    "name": "Anderson B.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 140,
+            "publication_name": "SIAM Journal on Control and Optimization",
+            "issn": "03630129",
+            "cover_date": "2007-12-01",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "6",
+            "page_range": "2096-2119",
+            "doi": "10.1137/040620552"
         },
         {
             "title": "Greatest Common Divisors via Generalized Sylvester and Bezout Matrices",
@@ -1651,42 +1687,6 @@
             "issue": "6",
             "page_range": "1043-1047",
             "doi": "10.1109/TAC.1978.1101890"
-        },
-        {
-            "title": "The multi-agent rendezvous problem. Part 1: The synchronous case",
-            "eid": "2-s2.0-53249101881",
-            "authors": [
-                {
-                    "scopus_id": "55709998500",
-                    "name": "Lin J.",
-                    "affiliation_id": [
-                        "60019463"
-                    ]
-                },
-                {
-                    "scopus_id": "7102718521",
-                    "name": "Morse A.",
-                    "affiliation_id": [
-                        "60005455"
-                    ]
-                },
-                {
-                    "scopus_id": "7404263205",
-                    "name": "Anderson B.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 139,
-            "publication_name": "SIAM Journal on Control and Optimization",
-            "issn": "03630129",
-            "cover_date": "2007-12-01",
-            "venue": "Journal",
-            "volume": "46",
-            "issue": "6",
-            "page_range": "2096-2119",
-            "doi": "10.1137/040620552"
         },
         {
             "title": "Control of a three-coleader formation in the plane",
@@ -1889,6 +1889,65 @@
             "doi": "10.1016/j.arcontrol.2008.06.001"
         },
         {
+            "title": "Bearing-Based Formation Control of a Group of Agents with Leader-First Follower Structure",
+            "eid": "2-s2.0-85046821139",
+            "authors": [
+                {
+                    "scopus_id": "56541188900",
+                    "name": "Trinh M.H.",
+                    "affiliation_id": [
+                        "60068688"
+                    ]
+                },
+                {
+                    "scopus_id": "55490078500",
+                    "name": "Zhao S.",
+                    "affiliation_id": [
+                        "60001881"
+                    ]
+                },
+                {
+                    "scopus_id": "7404239832",
+                    "name": "Sun Z.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23570307200",
+                    "name": "Zelazo D.",
+                    "affiliation_id": [
+                        "60068688",
+                        "60022403"
+                    ]
+                },
+                {
+                    "scopus_id": "7404263205",
+                    "name": "Anderson B.D.O.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60013614"
+                    ]
+                },
+                {
+                    "scopus_id": "7202928314",
+                    "name": "Ahn H.S.",
+                    "affiliation_id": [
+                        "60068688"
+                    ]
+                }
+            ],
+            "citations": 116,
+            "publication_name": "IEEE Transactions on Automatic Control",
+            "issn": "00189286",
+            "cover_date": "2019-02-01",
+            "venue": "Journal",
+            "volume": "64",
+            "issue": "2",
+            "page_range": "598-613",
+            "doi": "10.1109/TAC.2018.2836022"
+        },
+        {
             "title": "Control of minimally persistent leader-remote-follower and coleader formations in the plane",
             "eid": "2-s2.0-83255193596",
             "authors": [
@@ -1957,65 +2016,6 @@
             "doi": ""
         },
         {
-            "title": "Bearing-Based Formation Control of a Group of Agents with Leader-First Follower Structure",
-            "eid": "2-s2.0-85046821139",
-            "authors": [
-                {
-                    "scopus_id": "56541188900",
-                    "name": "Trinh M.H.",
-                    "affiliation_id": [
-                        "60068688"
-                    ]
-                },
-                {
-                    "scopus_id": "55490078500",
-                    "name": "Zhao S.",
-                    "affiliation_id": [
-                        "60001881"
-                    ]
-                },
-                {
-                    "scopus_id": "7404239832",
-                    "name": "Sun Z.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "23570307200",
-                    "name": "Zelazo D.",
-                    "affiliation_id": [
-                        "60068688",
-                        "60022403"
-                    ]
-                },
-                {
-                    "scopus_id": "7404263205",
-                    "name": "Anderson B.D.O.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60013614"
-                    ]
-                },
-                {
-                    "scopus_id": "7202928314",
-                    "name": "Ahn H.S.",
-                    "affiliation_id": [
-                        "60068688"
-                    ]
-                }
-            ],
-            "citations": 115,
-            "publication_name": "IEEE Transactions on Automatic Control",
-            "issn": "00189286",
-            "cover_date": "2019-02-01",
-            "venue": "Journal",
-            "volume": "64",
-            "issue": "2",
-            "page_range": "598-613",
-            "doi": "10.1109/TAC.2018.2836022"
-        },
-        {
             "title": "Accuracy-enhancing methods for balancing-related frequency-weighted model and controller reduction",
             "eid": "2-s2.0-0037402067",
             "authors": [
@@ -2072,7 +2072,7 @@
                     ]
                 }
             ],
-            "citations": 111,
+            "citations": 113,
             "publication_name": "Conference Proceedings of 2007 Information, Decision and Control, IDC",
             "issn": "",
             "cover_date": "2007-09-27",
@@ -2280,7 +2280,7 @@
                     ]
                 }
             ],
-            "citations": 100,
+            "citations": 102,
             "publication_name": "International Journal of Automation and Computing",
             "issn": "14768186",
             "cover_date": "2019-04-01",
@@ -2372,6 +2372,42 @@
             "doi": "10.1109/TAC.1980.1102433"
         },
         {
+            "title": "Network Flows That Solve Linear Equations",
+            "eid": "2-s2.0-85028764439",
+            "authors": [
+                {
+                    "scopus_id": "45361541700",
+                    "name": "Shi G.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7404263205",
+                    "name": "Anderson B.D.O.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006716093",
+                    "name": "Helmke U.",
+                    "affiliation_id": [
+                        "60012689"
+                    ]
+                }
+            ],
+            "citations": 96,
+            "publication_name": "IEEE Transactions on Automatic Control",
+            "issn": "00189286",
+            "cover_date": "2017-06-01",
+            "venue": "Journal",
+            "volume": "62",
+            "issue": "6",
+            "page_range": "2659-2674",
+            "doi": "10.1109/TAC.2016.2612819"
+        },
+        {
             "title": "Sensor network localization with imprecise distances",
             "eid": "2-s2.0-33748417260",
             "authors": [
@@ -2407,42 +2443,6 @@
             "issue": "11",
             "page_range": "887-893",
             "doi": "10.1016/j.sysconle.2006.05.004"
-        },
-        {
-            "title": "Network Flows That Solve Linear Equations",
-            "eid": "2-s2.0-85028764439",
-            "authors": [
-                {
-                    "scopus_id": "45361541700",
-                    "name": "Shi G.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7404263205",
-                    "name": "Anderson B.D.O.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7006716093",
-                    "name": "Helmke U.",
-                    "affiliation_id": [
-                        "60012689"
-                    ]
-                }
-            ],
-            "citations": 95,
-            "publication_name": "IEEE Transactions on Automatic Control",
-            "issn": "00189286",
-            "cover_date": "2017-06-01",
-            "venue": "Journal",
-            "volume": "62",
-            "issue": "6",
-            "page_range": "2659-2674",
-            "doi": "10.1109/TAC.2016.2612819"
         },
         {
             "title": "A new approach to adaptive robust control",
@@ -3866,6 +3866,59 @@
             "doi": "10.1109/cdc.2006.376808"
         },
         {
+            "title": "An influence network model to study discrepancies in expressed and private opinions",
+            "eid": "2-s2.0-85067191452",
+            "authors": [
+                {
+                    "scopus_id": "56203529600",
+                    "name": "Ye M.",
+                    "affiliation_id": [
+                        "60010023",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "56067963400",
+                    "name": "Qin Y.",
+                    "affiliation_id": [
+                        "60010023"
+                    ]
+                },
+                {
+                    "scopus_id": "57192255738",
+                    "name": "Govaert A.",
+                    "affiliation_id": [
+                        "60010023"
+                    ]
+                },
+                {
+                    "scopus_id": "7404263205",
+                    "name": "Anderson B.D.O.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60013614",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "57199509213",
+                    "name": "Cao M.",
+                    "affiliation_id": [
+                        "60010023"
+                    ]
+                }
+            ],
+            "citations": 70,
+            "publication_name": "Automatica",
+            "issn": "00051098",
+            "cover_date": "2019-09-01",
+            "venue": "Journal",
+            "volume": "107",
+            "issue": "",
+            "page_range": "371-381",
+            "doi": "10.1016/j.automatica.2019.05.059"
+        },
+        {
             "title": "Multi-target localization and circumnavigation by a single agent using bearing measurements",
             "eid": "2-s2.0-84939575871",
             "authors": [
@@ -4041,57 +4094,47 @@
             "doi": "10.1109/TAC.2008.920239"
         },
         {
-            "title": "An influence network model to study discrepancies in expressed and private opinions",
-            "eid": "2-s2.0-85067191452",
+            "title": "Decentralized gradient algorithm for solution of a linear equation",
+            "eid": "2-s2.0-84989352556",
             "authors": [
-                {
-                    "scopus_id": "56203529600",
-                    "name": "Ye M.",
-                    "affiliation_id": [
-                        "60010023",
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "56067963400",
-                    "name": "Qin Y.",
-                    "affiliation_id": [
-                        "60010023"
-                    ]
-                },
-                {
-                    "scopus_id": "57192255738",
-                    "name": "Govaert A.",
-                    "affiliation_id": [
-                        "60010023"
-                    ]
-                },
                 {
                     "scopus_id": "7404263205",
                     "name": "Anderson B.D.O.",
                     "affiliation_id": [
-                        "60008950",
-                        "60013614",
-                        "60029470"
+                        "60008950"
                     ]
                 },
                 {
-                    "scopus_id": "57199509213",
-                    "name": "Cao M.",
+                    "scopus_id": "37057661700",
+                    "name": "Mou S.",
                     "affiliation_id": [
-                        "60010023"
+                        "60148444"
+                    ]
+                },
+                {
+                    "scopus_id": "7102718521",
+                    "name": "Morse A.S.",
+                    "affiliation_id": [
+                        "60157832"
+                    ]
+                },
+                {
+                    "scopus_id": "7006716093",
+                    "name": "Helmke U.",
+                    "affiliation_id": [
+                        "60012689"
                     ]
                 }
             ],
             "citations": 68,
-            "publication_name": "Automatica",
-            "issn": "00051098",
-            "cover_date": "2019-09-01",
+            "publication_name": "Numerical Algebra, Control and Optimization",
+            "issn": "21553289",
+            "cover_date": "2016-09-01",
             "venue": "Journal",
-            "volume": "107",
-            "issue": "",
-            "page_range": "371-381",
-            "doi": "10.1016/j.automatica.2019.05.059"
+            "volume": "6",
+            "issue": "3",
+            "page_range": "319-328",
+            "doi": "10.3934/naco.2016014"
         },
         {
             "title": "Global Adaptive Pole Positioning",
@@ -4148,49 +4191,6 @@
             "issue": "6",
             "page_range": "488-492",
             "doi": "10.1016/0016-0032(68)90053-7"
-        },
-        {
-            "title": "Decentralized gradient algorithm for solution of a linear equation",
-            "eid": "2-s2.0-84989352556",
-            "authors": [
-                {
-                    "scopus_id": "7404263205",
-                    "name": "Anderson B.D.O.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "37057661700",
-                    "name": "Mou S.",
-                    "affiliation_id": [
-                        "60148444"
-                    ]
-                },
-                {
-                    "scopus_id": "7102718521",
-                    "name": "Morse A.S.",
-                    "affiliation_id": [
-                        "60157832"
-                    ]
-                },
-                {
-                    "scopus_id": "7006716093",
-                    "name": "Helmke U.",
-                    "affiliation_id": [
-                        "60012689"
-                    ]
-                }
-            ],
-            "citations": 67,
-            "publication_name": "Numerical Algebra, Control and Optimization",
-            "issn": "21553289",
-            "cover_date": "2016-09-01",
-            "venue": "Journal",
-            "volume": "6",
-            "issue": "3",
-            "page_range": "319-328",
-            "doi": "10.3934/naco.2016014"
         },
         {
             "title": "Rational interpolation and state-variable realizations",
@@ -4469,6 +4469,44 @@
             "doi": "10.23919/ecc.2007.7068231"
         },
         {
+            "title": "A \"mixed\" small gain and passivity theorem in the frequency domain",
+            "eid": "2-s2.0-34447574955",
+            "authors": [
+                {
+                    "scopus_id": "8288469600",
+                    "name": "Griggs W.M.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7404263205",
+                    "name": "Anderson B.D.O.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "6603764210",
+                    "name": "Lanzon A.",
+                    "affiliation_id": [
+                        "60003771"
+                    ]
+                }
+            ],
+            "citations": 62,
+            "publication_name": "Systems and Control Letters",
+            "issn": "01676911",
+            "cover_date": "2007-09-01",
+            "venue": "Journal",
+            "volume": "56",
+            "issue": "9-10",
+            "page_range": "596-602",
+            "doi": "10.1016/j.sysconle.2007.04.005"
+        },
+        {
             "title": "Adaptive Frequency Sampling Filters",
             "eid": "2-s2.0-0019582939",
             "authors": [
@@ -4527,118 +4565,6 @@
             "doi": "10.1109/TCS.1974.1083834"
         },
         {
-            "title": "Analysis of noisy bearing-only network localization",
-            "eid": "2-s2.0-84871768473",
-            "authors": [
-                {
-                    "scopus_id": "24781540400",
-                    "name": "Shames I.",
-                    "affiliation_id": [
-                        "60002014"
-                    ]
-                },
-                {
-                    "scopus_id": "16237864000",
-                    "name": "Bishop A.N.",
-                    "affiliation_id": [
-                        "60029470",
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7404263205",
-                    "name": "Anderson B.D.O.",
-                    "affiliation_id": [
-                        "60029470",
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 61,
-            "publication_name": "IEEE Transactions on Automatic Control",
-            "issn": "00189286",
-            "cover_date": "2013-01-07",
-            "venue": "Journal",
-            "volume": "58",
-            "issue": "1",
-            "page_range": "247-252",
-            "doi": "10.1109/TAC.2012.2206693"
-        },
-        {
-            "title": "A \"mixed\" small gain and passivity theorem in the frequency domain",
-            "eid": "2-s2.0-34447574955",
-            "authors": [
-                {
-                    "scopus_id": "8288469600",
-                    "name": "Griggs W.M.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "7404263205",
-                    "name": "Anderson B.D.O.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "6603764210",
-                    "name": "Lanzon A.",
-                    "affiliation_id": [
-                        "60003771"
-                    ]
-                }
-            ],
-            "citations": 61,
-            "publication_name": "Systems and Control Letters",
-            "issn": "01676911",
-            "cover_date": "2007-09-01",
-            "venue": "Journal",
-            "volume": "56",
-            "issue": "9-10",
-            "page_range": "596-602",
-            "doi": "10.1016/j.sysconle.2007.04.005"
-        },
-        {
-            "title": "Identifiability of MIMO linear dynamic systems operating in closed loop",
-            "eid": "2-s2.0-0001502499",
-            "authors": [
-                {
-                    "scopus_id": "7402229975",
-                    "name": "Ng T.S.",
-                    "affiliation_id": [
-                        "60010571"
-                    ]
-                },
-                {
-                    "scopus_id": "7201955514",
-                    "name": "Goodwin G.C.",
-                    "affiliation_id": [
-                        "60010571"
-                    ]
-                },
-                {
-                    "scopus_id": "7404263205",
-                    "name": "Anderson B.D.O.",
-                    "affiliation_id": [
-                        "60010571"
-                    ]
-                }
-            ],
-            "citations": 61,
-            "publication_name": "Automatica",
-            "issn": "00051098",
-            "cover_date": "1977-01-01",
-            "venue": "Journal",
-            "volume": "13",
-            "issue": "5",
-            "page_range": "477-485",
-            "doi": "10.1016/0005-1098(77)90068-1"
-        },
-        {
             "title": "Evolution of Social Power in Social Networks with Dynamic Topology",
             "eid": "2-s2.0-85041823402",
             "authors": [
@@ -4682,7 +4608,7 @@
                     ]
                 }
             ],
-            "citations": 60,
+            "citations": 61,
             "publication_name": "IEEE Transactions on Automatic Control",
             "issn": "00189286",
             "cover_date": "2018-11-01",
@@ -4691,6 +4617,80 @@
             "issue": "11",
             "page_range": "3793-3808",
             "doi": "10.1109/TAC.2018.2805261"
+        },
+        {
+            "title": "Analysis of noisy bearing-only network localization",
+            "eid": "2-s2.0-84871768473",
+            "authors": [
+                {
+                    "scopus_id": "24781540400",
+                    "name": "Shames I.",
+                    "affiliation_id": [
+                        "60002014"
+                    ]
+                },
+                {
+                    "scopus_id": "16237864000",
+                    "name": "Bishop A.N.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7404263205",
+                    "name": "Anderson B.D.O.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 61,
+            "publication_name": "IEEE Transactions on Automatic Control",
+            "issn": "00189286",
+            "cover_date": "2013-01-07",
+            "venue": "Journal",
+            "volume": "58",
+            "issue": "1",
+            "page_range": "247-252",
+            "doi": "10.1109/TAC.2012.2206693"
+        },
+        {
+            "title": "Identifiability of MIMO linear dynamic systems operating in closed loop",
+            "eid": "2-s2.0-0001502499",
+            "authors": [
+                {
+                    "scopus_id": "7402229975",
+                    "name": "Ng T.S.",
+                    "affiliation_id": [
+                        "60010571"
+                    ]
+                },
+                {
+                    "scopus_id": "7201955514",
+                    "name": "Goodwin G.C.",
+                    "affiliation_id": [
+                        "60010571"
+                    ]
+                },
+                {
+                    "scopus_id": "7404263205",
+                    "name": "Anderson B.D.O.",
+                    "affiliation_id": [
+                        "60010571"
+                    ]
+                }
+            ],
+            "citations": 61,
+            "publication_name": "Automatica",
+            "issn": "00051098",
+            "cover_date": "1977-01-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "5",
+            "page_range": "477-485",
+            "doi": "10.1016/0005-1098(77)90068-1"
         },
         {
             "title": "On the information propagation process in mobile vehicular ad hoc networks",
@@ -5208,7 +5208,7 @@
                     "scopus_id": "8732155900",
                     "name": "Mao G.",
                     "affiliation_id": [
-                        "60025709"
+                        "60090755"
                     ]
                 },
                 {
@@ -5992,6 +5992,35 @@
             "doi": "10.1007/pl00009846"
         },
         {
+            "title": "Optimal control problems over large time intervals",
+            "eid": "2-s2.0-0023345826",
+            "authors": [
+                {
+                    "scopus_id": "7404263205",
+                    "name": "Anderson B.D.O.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7005274236",
+                    "name": "Kokotovic P.V.",
+                    "affiliation_id": [
+                        "60158506"
+                    ]
+                }
+            ],
+            "citations": 46,
+            "publication_name": "Automatica",
+            "issn": "00051098",
+            "cover_date": "1987-01-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "3",
+            "page_range": "355-363",
+            "doi": "10.1016/0005-1098(87)90008-2"
+        },
+        {
             "title": "Close target reconnaissance using autonomous UAV formations",
             "eid": "2-s2.0-62949187480",
             "authors": [
@@ -6126,35 +6155,6 @@
             "issue": "9",
             "page_range": "1079-1086",
             "doi": "10.1016/S0967-0661(02)00231-9"
-        },
-        {
-            "title": "Optimal control problems over large time intervals",
-            "eid": "2-s2.0-0023345826",
-            "authors": [
-                {
-                    "scopus_id": "7404263205",
-                    "name": "Anderson B.D.O.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7005274236",
-                    "name": "Kokotovic P.V.",
-                    "affiliation_id": [
-                        "60158506"
-                    ]
-                }
-            ],
-            "citations": 45,
-            "publication_name": "Automatica",
-            "issn": "00051098",
-            "cover_date": "1987-01-01",
-            "venue": "Journal",
-            "volume": "23",
-            "issue": "3",
-            "page_range": "355-363",
-            "doi": "10.1016/0005-1098(87)90008-2"
         },
         {
             "title": "An interpolation theory approach to H<sup>\u221e</sup> controller degree bounds",
@@ -7236,6 +7236,49 @@
             "doi": "10.1109/TVT.2009.2026480"
         },
         {
+            "title": "Interconnections of nonlinear systems with \"mixed\" small gain and passivity properties and associated input-output stability results",
+            "eid": "2-s2.0-60449110284",
+            "authors": [
+                {
+                    "scopus_id": "8288469600",
+                    "name": "Griggs W.M.",
+                    "affiliation_id": [
+                        "60026281"
+                    ]
+                },
+                {
+                    "scopus_id": "7404263205",
+                    "name": "Anderson B.D.O.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6603764210",
+                    "name": "Lanzon A.",
+                    "affiliation_id": [
+                        "60003771"
+                    ]
+                },
+                {
+                    "scopus_id": "17435677100",
+                    "name": "Rotkowitz M.C.",
+                    "affiliation_id": [
+                        "60118849"
+                    ]
+                }
+            ],
+            "citations": 37,
+            "publication_name": "Systems and Control Letters",
+            "issn": "01676911",
+            "cover_date": "2009-04-01",
+            "venue": "Journal",
+            "volume": "58",
+            "issue": "4",
+            "page_range": "289-295",
+            "doi": "10.1016/j.sysconle.2008.11.006"
+        },
+        {
             "title": "H<inf>\u221e</inf> design to generalize internal model control",
             "eid": "2-s2.0-33748922787",
             "authors": [
@@ -7520,49 +7563,6 @@
             "issue": "9",
             "page_range": "4458-4469",
             "doi": "10.1109/TSP.2008.924138"
-        },
-        {
-            "title": "Interconnections of nonlinear systems with \"mixed\" small gain and passivity properties and associated input-output stability results",
-            "eid": "2-s2.0-60449110284",
-            "authors": [
-                {
-                    "scopus_id": "8288469600",
-                    "name": "Griggs W.M.",
-                    "affiliation_id": [
-                        "60026281"
-                    ]
-                },
-                {
-                    "scopus_id": "7404263205",
-                    "name": "Anderson B.D.O.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "6603764210",
-                    "name": "Lanzon A.",
-                    "affiliation_id": [
-                        "60003771"
-                    ]
-                },
-                {
-                    "scopus_id": "17435677100",
-                    "name": "Rotkowitz M.C.",
-                    "affiliation_id": [
-                        "60278781"
-                    ]
-                }
-            ],
-            "citations": 36,
-            "publication_name": "Systems and Control Letters",
-            "issn": "01676911",
-            "cover_date": "2009-04-01",
-            "venue": "Journal",
-            "volume": "58",
-            "issue": "4",
-            "page_range": "289-295",
-            "doi": "10.1016/j.sysconle.2008.11.006"
         },
         {
             "title": "On Jointly Stationary Feedback-Free Stochastic Processes",
@@ -8304,6 +8304,50 @@
             "doi": "10.1109/TASSP.1981.1163595"
         },
         {
+            "title": "An Arrow\u2013Hurwicz\u2013Uzawa type flow as least squares solver for network linear equations",
+            "eid": "2-s2.0-85065784020",
+            "authors": [
+                {
+                    "scopus_id": "57196089000",
+                    "name": "Liu Y.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "35076161600",
+                    "name": "Lageman C.",
+                    "affiliation_id": [
+                        "60012689"
+                    ]
+                },
+                {
+                    "scopus_id": "7404263205",
+                    "name": "Anderson B.D.O.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60013614"
+                    ]
+                },
+                {
+                    "scopus_id": "45361541700",
+                    "name": "Shi G.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 32,
+            "publication_name": "Automatica",
+            "issn": "00051098",
+            "cover_date": "2019-02-01",
+            "venue": "Journal",
+            "volume": "100",
+            "issue": "",
+            "page_range": "187-193",
+            "doi": "10.1016/j.automatica.2018.10.007"
+        },
+        {
             "title": "Evaluation of the probability of k-hop connection in homogeneous wireless sensor networks",
             "eid": "2-s2.0-39349114210",
             "authors": [
@@ -8604,50 +8648,6 @@
             "issue": "3",
             "page_range": "684-694",
             "doi": "10.1109/TASSP.1981.1163598"
-        },
-        {
-            "title": "An Arrow\u2013Hurwicz\u2013Uzawa type flow as least squares solver for network linear equations",
-            "eid": "2-s2.0-85065784020",
-            "authors": [
-                {
-                    "scopus_id": "57196089000",
-                    "name": "Liu Y.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "35076161600",
-                    "name": "Lageman C.",
-                    "affiliation_id": [
-                        "60012689"
-                    ]
-                },
-                {
-                    "scopus_id": "7404263205",
-                    "name": "Anderson B.D.O.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60013614"
-                    ]
-                },
-                {
-                    "scopus_id": "45361541700",
-                    "name": "Shi G.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 30,
-            "publication_name": "Automatica",
-            "issn": "00051098",
-            "cover_date": "2019-02-01",
-            "venue": "Journal",
-            "volume": "100",
-            "issue": "",
-            "page_range": "187-193",
-            "doi": "10.1016/j.automatica.2018.10.007"
         },
         {
             "title": "Combining distance-based formation shape control with formation translation",
@@ -9470,6 +9470,49 @@
             "doi": "10.1016/j.sysconle.2009.11.006"
         },
         {
+            "title": "Localization of sensor networks using sweeps",
+            "eid": "2-s2.0-33751049038",
+            "authors": [
+                {
+                    "scopus_id": "26029355500",
+                    "name": "Fang J.",
+                    "affiliation_id": [
+                        "60157832"
+                    ]
+                },
+                {
+                    "scopus_id": "57199509213",
+                    "name": "Cao M.",
+                    "affiliation_id": [
+                        "60157832"
+                    ]
+                },
+                {
+                    "scopus_id": "7102718521",
+                    "name": "Morse A.S.",
+                    "affiliation_id": [
+                        "60157832"
+                    ]
+                },
+                {
+                    "scopus_id": "7404263205",
+                    "name": "Anderson B.D.O.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "Proceedings of the IEEE Conference on Decision and Control",
+            "issn": "07431546",
+            "cover_date": "2006-01-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "4645-4650",
+            "doi": "10.1109/cdc.2006.377052"
+        },
+        {
             "title": "Local Convergence of the Sato Blind Equalizer and Generalizations Under Practical Constraints",
             "eid": "2-s2.0-0027307913",
             "authors": [
@@ -9646,49 +9689,6 @@
             "issue": "",
             "page_range": "2829-2834",
             "doi": "10.1109/CDC.2005.1582592"
-        },
-        {
-            "title": "Localization of sensor networks using sweeps",
-            "eid": "2-s2.0-33751049038",
-            "authors": [
-                {
-                    "scopus_id": "26029355500",
-                    "name": "Fang J.",
-                    "affiliation_id": [
-                        "60157832"
-                    ]
-                },
-                {
-                    "scopus_id": "57199509213",
-                    "name": "Cao M.",
-                    "affiliation_id": [
-                        "60157832"
-                    ]
-                },
-                {
-                    "scopus_id": "7102718521",
-                    "name": "Morse A.S.",
-                    "affiliation_id": [
-                        "60157832"
-                    ]
-                },
-                {
-                    "scopus_id": "7404263205",
-                    "name": "Anderson B.D.O.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 26,
-            "publication_name": "Proceedings of the IEEE Conference on Decision and Control",
-            "issn": "07431546",
-            "cover_date": "2006-01-01",
-            "venue": "Conference Proceeding",
-            "volume": "",
-            "issue": "",
-            "page_range": "4645-4650",
-            "doi": "10.1109/cdc.2006.377052"
         },
         {
             "title": "Exponential stability of filters and smoothers for hidden markov models",
@@ -11438,6 +11438,88 @@
             "doi": "10.1109/TAC.1979.1102056"
         },
         {
+            "title": "Distributed algorithms with finite data rates that solve linear equations",
+            "eid": "2-s2.0-85085248377",
+            "authors": [
+                {
+                    "scopus_id": "56673471100",
+                    "name": "Lei J.",
+                    "affiliation_id": [
+                        "60073652",
+                        "60073652"
+                    ]
+                },
+                {
+                    "scopus_id": "55585611900",
+                    "name": "Yi P.",
+                    "affiliation_id": [
+                        "60073652",
+                        "60073652"
+                    ]
+                },
+                {
+                    "scopus_id": "45361541700",
+                    "name": "Shi G.",
+                    "affiliation_id": [
+                        "60090755"
+                    ]
+                },
+                {
+                    "scopus_id": "7404263205",
+                    "name": "Anderson B.D.O.",
+                    "affiliation_id": [
+                        "60013614",
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 20,
+            "publication_name": "SIAM Journal on Optimization",
+            "issn": "10526234",
+            "cover_date": "2020-01-01",
+            "venue": "Journal",
+            "volume": "30",
+            "issue": "2",
+            "page_range": "1191-1222",
+            "doi": "10.1137/19M1258864"
+        },
+        {
+            "title": "Scalable, Distributed Algorithms for Solving Linear Equations via Double-Layered Networks",
+            "eid": "2-s2.0-85081584216",
+            "authors": [
+                {
+                    "scopus_id": "57193632560",
+                    "name": "Wang X.",
+                    "affiliation_id": [
+                        "60148444"
+                    ]
+                },
+                {
+                    "scopus_id": "37057661700",
+                    "name": "Mou S.",
+                    "affiliation_id": [
+                        "60148444"
+                    ]
+                },
+                {
+                    "scopus_id": "7404263205",
+                    "name": "Anderson B.D.O.",
+                    "affiliation_id": [
+                        "60013614"
+                    ]
+                }
+            ],
+            "citations": 20,
+            "publication_name": "IEEE Transactions on Automatic Control",
+            "issn": "00189286",
+            "cover_date": "2020-03-01",
+            "venue": "Journal",
+            "volume": "65",
+            "issue": "3",
+            "page_range": "1132-1143",
+            "doi": "10.1109/TAC.2019.2919101"
+        },
+        {
             "title": "A new distributed Zeno-free event-triggered algorithm for multi-agent consensus",
             "eid": "2-s2.0-85010831577",
             "authors": [
@@ -11784,88 +11866,6 @@
             "issue": "2",
             "page_range": "69-76",
             "doi": "10.1016/S0167-6911(82)80013-3"
-        },
-        {
-            "title": "Distributed algorithms with finite data rates that solve linear equations",
-            "eid": "2-s2.0-85085248377",
-            "authors": [
-                {
-                    "scopus_id": "56673471100",
-                    "name": "Lei J.",
-                    "affiliation_id": [
-                        "60073652",
-                        "60073652"
-                    ]
-                },
-                {
-                    "scopus_id": "55585611900",
-                    "name": "Yi P.",
-                    "affiliation_id": [
-                        "60073652",
-                        "60073652"
-                    ]
-                },
-                {
-                    "scopus_id": "45361541700",
-                    "name": "Shi G.",
-                    "affiliation_id": [
-                        "60090755"
-                    ]
-                },
-                {
-                    "scopus_id": "7404263205",
-                    "name": "Anderson B.D.O.",
-                    "affiliation_id": [
-                        "60013614",
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 19,
-            "publication_name": "SIAM Journal on Optimization",
-            "issn": "10526234",
-            "cover_date": "2020-01-01",
-            "venue": "Journal",
-            "volume": "30",
-            "issue": "2",
-            "page_range": "1191-1222",
-            "doi": "10.1137/19M1258864"
-        },
-        {
-            "title": "Scalable, Distributed Algorithms for Solving Linear Equations via Double-Layered Networks",
-            "eid": "2-s2.0-85081584216",
-            "authors": [
-                {
-                    "scopus_id": "57193632560",
-                    "name": "Wang X.",
-                    "affiliation_id": [
-                        "60148444"
-                    ]
-                },
-                {
-                    "scopus_id": "37057661700",
-                    "name": "Mou S.",
-                    "affiliation_id": [
-                        "60148444"
-                    ]
-                },
-                {
-                    "scopus_id": "7404263205",
-                    "name": "Anderson B.D.O.",
-                    "affiliation_id": [
-                        "60013614"
-                    ]
-                }
-            ],
-            "citations": 19,
-            "publication_name": "IEEE Transactions on Automatic Control",
-            "issn": "00189286",
-            "cover_date": "2020-03-01",
-            "venue": "Journal",
-            "volume": "65",
-            "issue": "3",
-            "page_range": "1132-1143",
-            "doi": "10.1109/TAC.2019.2919101"
         },
         {
             "title": "Rigid Motions of 3-D Undirected Formations with Mismatch between Desired Distances",
@@ -12819,6 +12819,51 @@
             "doi": "10.1111/jtsa.12430"
         },
         {
+            "title": "Comments on \u201cDistributed event-triggered control of multi-agent systems with combinational measurements\u201d",
+            "eid": "2-s2.0-85044904813",
+            "authors": [
+                {
+                    "scopus_id": "7404239832",
+                    "name": "Sun Z.",
+                    "affiliation_id": [
+                        "60013614",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "55967950700",
+                    "name": "Huang N.",
+                    "affiliation_id": [
+                        "60013614"
+                    ]
+                },
+                {
+                    "scopus_id": "7404263205",
+                    "name": "Anderson B.D.O.",
+                    "affiliation_id": [
+                        "60013614",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7101936870",
+                    "name": "Duan Z.",
+                    "affiliation_id": [
+                        "60014966"
+                    ]
+                }
+            ],
+            "citations": 17,
+            "publication_name": "Automatica",
+            "issn": "00051098",
+            "cover_date": "2018-06-01",
+            "venue": "Journal",
+            "volume": "92",
+            "issue": "",
+            "page_range": "264-265",
+            "doi": "10.1016/j.automatica.2018.03.026"
+        },
+        {
             "title": "Localization Bias Reduction in Wireless Sensor Networks",
             "eid": "2-s2.0-84927605292",
             "authors": [
@@ -13317,49 +13362,49 @@
             "doi": "10.1080/00207179208934347"
         },
         {
-            "title": "Comments on \u201cDistributed event-triggered control of multi-agent systems with combinational measurements\u201d",
-            "eid": "2-s2.0-85044904813",
+            "title": "Network flows that solve least squares for linear equations",
+            "eid": "2-s2.0-85087197770",
             "authors": [
                 {
-                    "scopus_id": "7404239832",
-                    "name": "Sun Z.",
+                    "scopus_id": "57196089000",
+                    "name": "Liu Y.",
                     "affiliation_id": [
-                        "60013614",
                         "60008950"
                     ]
                 },
                 {
-                    "scopus_id": "55967950700",
-                    "name": "Huang N.",
+                    "scopus_id": "36572214800",
+                    "name": "Lou Y.",
                     "affiliation_id": [
-                        "60013614"
+                        "60003707"
                     ]
                 },
                 {
                     "scopus_id": "7404263205",
                     "name": "Anderson B.D.O.",
                     "affiliation_id": [
+                        "60008950",
                         "60013614",
-                        "60008950"
+                        "60029470"
                     ]
                 },
                 {
-                    "scopus_id": "7101936870",
-                    "name": "Duan Z.",
+                    "scopus_id": "45361541700",
+                    "name": "Shi G.",
                     "affiliation_id": [
-                        "60014966"
+                        "60025709"
                     ]
                 }
             ],
             "citations": 16,
             "publication_name": "Automatica",
             "issn": "00051098",
-            "cover_date": "2018-06-01",
+            "cover_date": "2020-10-01",
             "venue": "Journal",
-            "volume": "92",
+            "volume": "120",
             "issue": "",
-            "page_range": "264-265",
-            "doi": "10.1016/j.automatica.2018.03.026"
+            "page_range": null,
+            "doi": "10.1016/j.automatica.2020.109108"
         },
         {
             "title": "Comments on \u201cGlobal stabilization of rigid formations in the plane [Automatica 49 (2013) 1436\u20131441]\u201d",
@@ -13855,51 +13900,6 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1016/j.automatica.2020.109125"
-        },
-        {
-            "title": "Network flows that solve least squares for linear equations",
-            "eid": "2-s2.0-85087197770",
-            "authors": [
-                {
-                    "scopus_id": "57196089000",
-                    "name": "Liu Y.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "36572214800",
-                    "name": "Lou Y.",
-                    "affiliation_id": [
-                        "60003707"
-                    ]
-                },
-                {
-                    "scopus_id": "7404263205",
-                    "name": "Anderson B.D.O.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60013614",
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "45361541700",
-                    "name": "Shi G.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Automatica",
-            "issn": "00051098",
-            "cover_date": "2020-10-01",
-            "venue": "Journal",
-            "volume": "120",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.automatica.2020.109108"
         },
         {
             "title": "Consensus and Disagreement of Heterogeneous Belief Systems in Influence Networks",
@@ -15596,14 +15596,14 @@
                     "scopus_id": "20436590300",
                     "name": "Ta X.",
                     "affiliation_id": [
-                        "60025709"
+                        "60090755"
                     ]
                 },
                 {
                     "scopus_id": "8732155900",
                     "name": "Mao G.",
                     "affiliation_id": [
-                        "60025709"
+                        "60090755"
                     ]
                 },
                 {
@@ -18075,14 +18075,14 @@
                     "scopus_id": "20436590300",
                     "name": "Ta X.",
                     "affiliation_id": [
-                        "60025709"
+                        "60090755"
                     ]
                 },
                 {
                     "scopus_id": "8732155900",
                     "name": "Mao G.",
                     "affiliation_id": [
-                        "60025709"
+                        "60090755"
                     ]
                 },
                 {
@@ -36389,6 +36389,5 @@
             "$": "Mathematics (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:39:40",
-    "c-score": null
+    "date fetched": "2024-07-12 18:55:26"
 }

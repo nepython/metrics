@@ -22,7 +22,7 @@
                     ]
                 }
             ],
-            "citations": 530,
+            "citations": 531,
             "publication_name": "Risk and Everyday Life",
             "issn": "",
             "cover_date": "2003-01-01",
@@ -44,7 +44,7 @@
                     ]
                 }
             ],
-            "citations": 464,
+            "citations": 468,
             "publication_name": "Social Theory and Health",
             "issn": "14778211",
             "cover_date": "2013-08-01",
@@ -110,7 +110,7 @@
                     ]
                 }
             ],
-            "citations": 370,
+            "citations": 371,
             "publication_name": "International Journal of Health Services",
             "issn": "00207314",
             "cover_date": "1993-01-01",
@@ -143,28 +143,6 @@
             "doi": "10.4135/9781446254530"
         },
         {
-            "title": "M-health and health promotion: The digital cyborg and surveillance society",
-            "eid": "2-s2.0-84864741139",
-            "authors": [
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 289,
-            "publication_name": "Social Theory and Health",
-            "issn": "14778211",
-            "cover_date": "2012-08-01",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "3",
-            "page_range": "229-244",
-            "doi": "10.1057/sth.2012.6"
-        },
-        {
             "title": "The datafied child: The dataveillance of children and implications for their rights",
             "eid": "2-s2.0-85019246887",
             "authors": [
@@ -183,7 +161,7 @@
                     ]
                 }
             ],
-            "citations": 288,
+            "citations": 291,
             "publication_name": "New Media and Society",
             "issn": "14614448",
             "cover_date": "2017-05-01",
@@ -192,6 +170,28 @@
             "issue": "5",
             "page_range": "780-794",
             "doi": "10.1177/1461444816686328"
+        },
+        {
+            "title": "M-health and health promotion: The digital cyborg and surveillance society",
+            "eid": "2-s2.0-84864741139",
+            "authors": [
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 290,
+            "publication_name": "Social Theory and Health",
+            "issn": "14778211",
+            "cover_date": "2012-08-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "3",
+            "page_range": "229-244",
+            "doi": "10.1057/sth.2012.6"
         },
         {
             "title": "Discourse analysis: a new methodology for understanding the ideologies of health and illness",
@@ -205,7 +205,7 @@
                     ]
                 }
             ],
-            "citations": 272,
+            "citations": 273,
             "publication_name": "Australian Journal of Public Health",
             "issn": "10357319",
             "cover_date": "1992-01-01",
@@ -230,7 +230,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 238,
+            "citations": 239,
             "publication_name": "Health, Risk and Society",
             "issn": "13698575",
             "cover_date": "2002-07-04",
@@ -252,7 +252,7 @@
                     ]
                 }
             ],
-            "citations": 234,
+            "citations": 235,
             "publication_name": "Critical Public Health",
             "issn": "09581596",
             "cover_date": "2012-09-01",
@@ -274,7 +274,7 @@
                     ]
                 }
             ],
-            "citations": 221,
+            "citations": 222,
             "publication_name": "Economy and Society",
             "issn": "03085147",
             "cover_date": "2016-01-02",
@@ -318,7 +318,7 @@
                     ]
                 }
             ],
-            "citations": 216,
+            "citations": 217,
             "publication_name": "Culture, Health and Sexuality",
             "issn": "13691058",
             "cover_date": "2015-04-21",
@@ -391,7 +391,7 @@
                     ]
                 }
             ],
-            "citations": 198,
+            "citations": 199,
             "publication_name": "BMC Pregnancy and Childbirth",
             "issn": "",
             "cover_date": "2016-07-19",
@@ -509,7 +509,7 @@
                     ]
                 }
             ],
-            "citations": 182,
+            "citations": 183,
             "publication_name": "Sociology of health &amp; illness",
             "issn": "",
             "cover_date": "2014-07-01",
@@ -611,7 +611,7 @@
                     ]
                 }
             ],
-            "citations": 170,
+            "citations": 172,
             "publication_name": "Women and Birth",
             "issn": "18715192",
             "cover_date": "2016-08-01",
@@ -726,6 +726,28 @@
             "doi": "10.1177/2053951718786314"
         },
         {
+            "title": "Digital health: Critical and cross-disciplinary perspectives",
+            "eid": "2-s2.0-85038245422",
+            "authors": [
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60022193"
+                    ]
+                }
+            ],
+            "citations": 140,
+            "publication_name": "Digital Health: Critical and Cross-Disciplinary Perspectives",
+            "issn": "",
+            "cover_date": "2017-08-18",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "1-170",
+            "doi": "10.4324/9781315648835"
+        },
+        {
             "title": "Mundane data: The routines, contingencies and accomplishments of digital living",
             "eid": "2-s2.0-85074213868",
             "authors": [
@@ -770,28 +792,6 @@
             "doi": "10.1177/2053951717700924"
         },
         {
-            "title": "Digital health: Critical and cross-disciplinary perspectives",
-            "eid": "2-s2.0-85038245422",
-            "authors": [
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60022193"
-                    ]
-                }
-            ],
-            "citations": 139,
-            "publication_name": "Digital Health: Critical and Cross-Disciplinary Perspectives",
-            "issn": "",
-            "cover_date": "2017-08-18",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "1-170",
-            "doi": "10.4324/9781315648835"
-        },
-        {
             "title": "'The best thing for the baby': Mothers' concepts and experiences related to promoting their infants' health and development",
             "eid": "2-s2.0-84859123388",
             "authors": [
@@ -803,7 +803,7 @@
                     ]
                 }
             ],
-            "citations": 129,
+            "citations": 131,
             "publication_name": "Health, Risk and Society",
             "issn": "13698575",
             "cover_date": "2011-10-01",
@@ -812,35 +812,6 @@
             "issue": "7-8",
             "page_range": "637-651",
             "doi": "10.1080/13698575.2011.624179"
-        },
-        {
-            "title": "Technology, selfhood and physical disability",
-            "eid": "2-s2.0-0034015361",
-            "authors": [
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60001248"
-                    ]
-                },
-                {
-                    "scopus_id": "7003307497",
-                    "name": "Seymour W.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                }
-            ],
-            "citations": 124,
-            "publication_name": "Social Science and Medicine",
-            "issn": "02779536",
-            "cover_date": "2000-01-01",
-            "venue": "Journal",
-            "volume": "50",
-            "issue": "12",
-            "page_range": "1851-1862",
-            "doi": "10.1016/S0277-9536(99)00422-0"
         },
         {
             "title": "The Lancet and Financial Times Commission on governing health futures 2030: growing up in a digital world",
@@ -1034,7 +1005,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 123,
+            "citations": 126,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2021-11-06",
@@ -1043,6 +1014,35 @@
             "issue": "10312",
             "page_range": "1727-1776",
             "doi": "10.1016/S0140-6736(21)01824-9"
+        },
+        {
+            "title": "Technology, selfhood and physical disability",
+            "eid": "2-s2.0-0034015361",
+            "authors": [
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60001248"
+                    ]
+                },
+                {
+                    "scopus_id": "7003307497",
+                    "name": "Seymour W.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                }
+            ],
+            "citations": 124,
+            "publication_name": "Social Science and Medicine",
+            "issn": "02779536",
+            "cover_date": "2000-01-01",
+            "venue": "Journal",
+            "volume": "50",
+            "issue": "12",
+            "page_range": "1851-1862",
+            "doi": "10.1016/S0277-9536(99)00422-0"
         },
         {
             "title": "Parenting and Digital Media: From the Early Web to Contemporary Digital Society",
@@ -1114,7 +1114,7 @@
                     ]
                 }
             ],
-            "citations": 112,
+            "citations": 113,
             "publication_name": "New Media and Society",
             "issn": "14614448",
             "cover_date": "2017-10-01",
@@ -1238,7 +1238,7 @@
                     ]
                 }
             ],
-            "citations": 96,
+            "citations": 97,
             "publication_name": "Sociology of Health &amp; Illness",
             "issn": "01419889",
             "cover_date": "1995-01-01",
@@ -1260,7 +1260,7 @@
                     ]
                 }
             ],
-            "citations": 95,
+            "citations": 97,
             "publication_name": "The Social Worlds of the Unborn",
             "issn": "",
             "cover_date": "2013-06-19",
@@ -1352,7 +1352,7 @@
                     ]
                 }
             ],
-            "citations": 91,
+            "citations": 92,
             "publication_name": "Media International Australia",
             "issn": "1329878X",
             "cover_date": "2021-02-01",
@@ -1377,7 +1377,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 91,
+            "citations": 92,
             "publication_name": "British Journal of Sociology",
             "issn": "00071315",
             "cover_date": "1999-01-01",
@@ -1386,6 +1386,28 @@
             "issue": "3",
             "page_range": "507-523",
             "doi": "10.1111/j.1468-4446.1999.00507.x"
+        },
+        {
+            "title": "Infant embodiment and interembodiment: A review of sociocultural perspectives",
+            "eid": "2-s2.0-84873929955",
+            "authors": [
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 87,
+            "publication_name": "Childhood",
+            "issn": "09075682",
+            "cover_date": "2013-01-01",
+            "venue": "Journal",
+            "volume": "20",
+            "issue": "1",
+            "page_range": "37-50",
+            "doi": "10.1177/0907568212447244"
         },
         {
             "title": "Doctors on the medical profession",
@@ -1408,28 +1430,6 @@
             "issue": "4",
             "page_range": "480-497",
             "doi": "10.1111/j.1467-9566.1997.tb00414.x"
-        },
-        {
-            "title": "Infant embodiment and interembodiment: A review of sociocultural perspectives",
-            "eid": "2-s2.0-84873929955",
-            "authors": [
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 86,
-            "publication_name": "Childhood",
-            "issn": "09075682",
-            "cover_date": "2013-01-01",
-            "venue": "Journal",
-            "volume": "20",
-            "issue": "1",
-            "page_range": "37-50",
-            "doi": "10.1177/0907568212447244"
         },
         {
             "title": "Holding the line online: Exploring wired relationships for people with disabilities",
@@ -1524,7 +1524,7 @@
                     ]
                 }
             ],
-            "citations": 76,
+            "citations": 78,
             "publication_name": "Food and Foodways",
             "issn": "07409710",
             "cover_date": "2018-10-02",
@@ -1586,28 +1586,6 @@
             "doi": "10.1080/14461242.2016.1228149"
         },
         {
-            "title": "Digital companion species and eating data: Implications for theorising digital data\u2013human assemblages",
-            "eid": "2-s2.0-85013584234",
-            "authors": [
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60022193"
-                    ]
-                }
-            ],
-            "citations": 72,
-            "publication_name": "Big Data and Society",
-            "issn": "",
-            "cover_date": "2016-01-05",
-            "venue": "Journal",
-            "volume": "3",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1177/2053951715619947"
-        },
-        {
             "title": "The affective intensities of datafied space",
             "eid": "2-s2.0-84994056207",
             "authors": [
@@ -1641,7 +1619,7 @@
                     ]
                 }
             ],
-            "citations": 72,
+            "citations": 73,
             "publication_name": "Emotion, Space and Society",
             "issn": "17554586",
             "cover_date": "2016-11-01",
@@ -1663,7 +1641,7 @@
                     ]
                 }
             ],
-            "citations": 72,
+            "citations": 73,
             "publication_name": "Body &amp; Society",
             "issn": "1357034X",
             "cover_date": "1995-01-01",
@@ -1672,6 +1650,28 @@
             "issue": "3-4",
             "page_range": "97-112",
             "doi": "10.1177/1357034X95001003006"
+        },
+        {
+            "title": "Digital companion species and eating data: Implications for theorising digital data\u2013human assemblages",
+            "eid": "2-s2.0-85013584234",
+            "authors": [
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60022193"
+                    ]
+                }
+            ],
+            "citations": 72,
+            "publication_name": "Big Data and Society",
+            "issn": "",
+            "cover_date": "2016-01-05",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1177/2053951715619947"
         },
         {
             "title": "\u2018What are you feeling right now?\u2019 communities of maternal feeling on Mumsnet",
@@ -1863,6 +1863,35 @@
             "doi": "10.1177/000486589903200102"
         },
         {
+            "title": "The more-than-human sensorium: Sensory engagements with digital self-tracking technologies",
+            "eid": "2-s2.0-85052053063",
+            "authors": [
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60022193"
+                    ]
+                },
+                {
+                    "scopus_id": "55621626300",
+                    "name": "Maslen S.",
+                    "affiliation_id": [
+                        "60022193"
+                    ]
+                }
+            ],
+            "citations": 59,
+            "publication_name": "Senses and Society",
+            "issn": "17458927",
+            "cover_date": "2018-01-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "2",
+            "page_range": "190-202",
+            "doi": "10.1080/17458927.2018.1480177"
+        },
+        {
             "title": "\u2018Depends on whos got the data\u2019: Public understandings of personal digital dataveillance",
             "eid": "2-s2.0-85019434790",
             "authors": [
@@ -1941,35 +1970,6 @@
             "issue": "4",
             "page_range": "706-711",
             "doi": "10.3390/soc4040706"
-        },
-        {
-            "title": "The more-than-human sensorium: Sensory engagements with digital self-tracking technologies",
-            "eid": "2-s2.0-85052053063",
-            "authors": [
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60022193"
-                    ]
-                },
-                {
-                    "scopus_id": "55621626300",
-                    "name": "Maslen S.",
-                    "affiliation_id": [
-                        "60022193"
-                    ]
-                }
-            ],
-            "citations": 58,
-            "publication_name": "Senses and Society",
-            "issn": "17458927",
-            "cover_date": "2018-01-01",
-            "venue": "Journal",
-            "volume": "13",
-            "issue": "2",
-            "page_range": "190-202",
-            "doi": "10.1080/17458927.2018.1480177"
         },
         {
             "title": "Road rage: Drivers\u2019 understandings and experiences",
@@ -2215,7 +2215,7 @@
                     ]
                 }
             ],
-            "citations": 53,
+            "citations": 54,
             "publication_name": "Sociology of Health and Illness",
             "issn": "01419889",
             "cover_date": "2000-01-01",
@@ -2327,28 +2327,6 @@
             "doi": "10.1016/0277-9536(94)00317-M"
         },
         {
-            "title": "\u2018Better understanding about what's going on\u2019: young Australians\u2019 use of digital technologies for health and fitness",
-            "eid": "2-s2.0-85058192561",
-            "authors": [
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60022193"
-                    ]
-                }
-            ],
-            "citations": 50,
-            "publication_name": "Sport, Education and Society",
-            "issn": "13573322",
-            "cover_date": "2020-01-02",
-            "venue": "Journal",
-            "volume": "25",
-            "issue": "1",
-            "page_range": "1-13",
-            "doi": "10.1080/13573322.2018.1555661"
-        },
-        {
             "title": "Empathetic technologies: digital materiality and video ethnography",
             "eid": "2-s2.0-85038004404",
             "authors": [
@@ -2381,7 +2359,7 @@
                     ]
                 }
             ],
-            "citations": 50,
+            "citations": 51,
             "publication_name": "Visual Studies",
             "issn": "1472586X",
             "cover_date": "2017-10-02",
@@ -2390,6 +2368,28 @@
             "issue": "4",
             "page_range": "371-381",
             "doi": "10.1080/1472586X.2017.1396192"
+        },
+        {
+            "title": "\u2018Better understanding about what's going on\u2019: young Australians\u2019 use of digital technologies for health and fitness",
+            "eid": "2-s2.0-85058192561",
+            "authors": [
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60022193"
+                    ]
+                }
+            ],
+            "citations": 50,
+            "publication_name": "Sport, Education and Society",
+            "issn": "13573322",
+            "cover_date": "2020-01-02",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "1",
+            "page_range": "1-13",
+            "doi": "10.1080/13573322.2018.1555661"
         },
         {
             "title": "The thing-power of the human-app health assemblage: thinking with vital materialism",
@@ -2414,6 +2414,28 @@
             "doi": "10.1057/s41285-019-00096-y"
         },
         {
+            "title": "\u2018It Just Gives Me a Bit of Peace of Mind\u2019: Australian Women\u2019s Use of Digital Media for Pregnancy and Early Motherhood",
+            "eid": "2-s2.0-85057580051",
+            "authors": [
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60022193"
+                    ]
+                }
+            ],
+            "citations": 48,
+            "publication_name": "Societies",
+            "issn": "",
+            "cover_date": "2017-09-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "3",
+            "page_range": null,
+            "doi": "10.3390/soc7030025"
+        },
+        {
             "title": "You are your data: Self-tracking practices and concepts of data",
             "eid": "2-s2.0-85027357522",
             "authors": [
@@ -2434,28 +2456,6 @@
             "issue": "",
             "page_range": "61-79",
             "doi": "10.1007/978-3-658-13137-1_4"
-        },
-        {
-            "title": "\u2018It Just Gives Me a Bit of Peace of Mind\u2019: Australian Women\u2019s Use of Digital Media for Pregnancy and Early Motherhood",
-            "eid": "2-s2.0-85057580051",
-            "authors": [
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60022193"
-                    ]
-                }
-            ],
-            "citations": 47,
-            "publication_name": "Societies",
-            "issn": "",
-            "cover_date": "2017-09-01",
-            "venue": "Journal",
-            "volume": "7",
-            "issue": "3",
-            "page_range": null,
-            "doi": "10.3390/soc7030025"
         },
         {
             "title": "Consuming risk, consuming science: The case of GM foods",
@@ -2798,6 +2798,28 @@
             "doi": "10.1177/1357034X98004002002"
         },
         {
+            "title": "AIDS risk and heterosexuality in the Australian press",
+            "eid": "2-s2.0-0002752051",
+            "authors": [
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60017803"
+                    ]
+                }
+            ],
+            "citations": 37,
+            "publication_name": "Discourse &amp; Society",
+            "issn": "09579265",
+            "cover_date": "1993-01-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "3",
+            "page_range": "307-328",
+            "doi": "10.1177/0957926593004003002"
+        },
+        {
             "title": "Learning about COVID-19: a qualitative interview study of Australians\u2019 use of information sources",
             "eid": "2-s2.0-85103941793",
             "authors": [
@@ -2869,28 +2891,6 @@
             "issue": "2",
             "page_range": "111-118",
             "doi": "10.1093/heapro/9.2.111"
-        },
-        {
-            "title": "AIDS risk and heterosexuality in the Australian press",
-            "eid": "2-s2.0-0002752051",
-            "authors": [
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60017803"
-                    ]
-                }
-            ],
-            "citations": 36,
-            "publication_name": "Discourse &amp; Society",
-            "issn": "09579265",
-            "cover_date": "1993-01-01",
-            "venue": "Journal",
-            "volume": "4",
-            "issue": "3",
-            "page_range": "307-328",
-            "doi": "10.1177/0957926593004003002"
         },
         {
             "title": "The COVID-19 crisis: Social Perspectives",
@@ -3090,6 +3090,35 @@
             "doi": "10.1080/21604851.2013.784050"
         },
         {
+            "title": "Remote Fieldwork in Homes During the COVID-19 Pandemic: Video-Call Ethnography and Map Drawing Methods",
+            "eid": "2-s2.0-85127157936",
+            "authors": [
+                {
+                    "scopus_id": "57217861520",
+                    "name": "Watson A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 32,
+            "publication_name": "International Journal of Qualitative Methods",
+            "issn": "",
+            "cover_date": "2022-02-24",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1177/16094069221078376"
+        },
+        {
             "title": "'All red in the face': Students' views on school-based HIV/AIDS and sexuality education",
             "eid": "2-s2.0-0042599121",
             "authors": [
@@ -3117,35 +3146,6 @@
             "issue": "2",
             "page_range": "252-271",
             "doi": "10.1111/j.1467-954X.1996.tb00424.x"
-        },
-        {
-            "title": "Remote Fieldwork in Homes During the COVID-19 Pandemic: Video-Call Ethnography and Map Drawing Methods",
-            "eid": "2-s2.0-85127157936",
-            "authors": [
-                {
-                    "scopus_id": "57217861520",
-                    "name": "Watson A.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 31,
-            "publication_name": "International Journal of Qualitative Methods",
-            "issn": "",
-            "cover_date": "2022-02-24",
-            "venue": "Journal",
-            "volume": "21",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1177/16094069221078376"
         },
         {
             "title": "Cooking, Eating, Uploading: Digital Food Cultures",
@@ -3228,6 +3228,28 @@
             "doi": "10.1080/15528014.2018.1451044"
         },
         {
+            "title": "Contextualising COVID-19: Sociocultural perspectives on contagion",
+            "eid": "2-s2.0-85104743654",
+            "authors": [
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "The COVID-19 Crisis: Social Perspectives",
+            "issn": "",
+            "cover_date": "2021-04-20",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "14-24",
+            "doi": "10.4324/9781003111344-3"
+        },
+        {
             "title": "\"The right way of doing it all\": First-time Australian mothers' decisions about paid employment",
             "eid": "2-s2.0-0036275397",
             "authors": [
@@ -3286,8 +3308,8 @@
             "doi": "10.1177/13548565211042460"
         },
         {
-            "title": "Contextualising COVID-19: Sociocultural perspectives on contagion",
-            "eid": "2-s2.0-85104743654",
+            "title": "\u2018Things that matter\u2019: poetic inquiry and more-than-human health literacy",
+            "eid": "2-s2.0-85075047538",
             "authors": [
                 {
                     "scopus_id": "7006014326",
@@ -3298,14 +3320,14 @@
                 }
             ],
             "citations": 28,
-            "publication_name": "The COVID-19 Crisis: Social Perspectives",
-            "issn": "",
-            "cover_date": "2021-04-20",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "14-24",
-            "doi": "10.4324/9781003111344-3"
+            "publication_name": "Qualitative Research in Sport, Exercise and Health",
+            "issn": "2159676X",
+            "cover_date": "2021-01-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "2",
+            "page_range": "267-282",
+            "doi": "10.1080/2159676X.2019.1690564"
         },
         {
             "title": "Psychoanalytic sociology and the medical encounter: Parsons and beyond",
@@ -3331,26 +3353,40 @@
             "doi": "10.1111/j.1467-9566.1997.tb00420.x"
         },
         {
-            "title": "\u2018Things that matter\u2019: poetic inquiry and more-than-human health literacy",
-            "eid": "2-s2.0-85075047538",
+            "title": "The COVID digital home assemblage: Transforming the home into a work space during the crisis",
+            "eid": "2-s2.0-85111530619",
             "authors": [
+                {
+                    "scopus_id": "57217861520",
+                    "name": "Watson A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
                 {
                     "scopus_id": "7006014326",
                     "name": "Lupton D.",
                     "affiliation_id": [
                         "60028333"
                     ]
+                },
+                {
+                    "scopus_id": "7103243232",
+                    "name": "Michael M.",
+                    "affiliation_id": [
+                        "60026479"
+                    ]
                 }
             ],
-            "citations": 27,
-            "publication_name": "Qualitative Research in Sport, Exercise and Health",
-            "issn": "2159676X",
-            "cover_date": "2021-01-01",
+            "citations": 26,
+            "publication_name": "Convergence",
+            "issn": "13548565",
+            "cover_date": "2021-10-01",
             "venue": "Journal",
-            "volume": "13",
-            "issue": "2",
-            "page_range": "267-282",
-            "doi": "10.1080/2159676X.2019.1690564"
+            "volume": "27",
+            "issue": "5",
+            "page_range": "1207-1221",
+            "doi": "10.1177/13548565211030848"
         },
         {
             "title": "Special section on \u2018Sociology and the Coronavirus (COVID-19) Pandemic\u2019",
@@ -3541,42 +3577,6 @@
             "doi": "10.1111/j.1753-6405.1995.tb00418.x"
         },
         {
-            "title": "The COVID digital home assemblage: Transforming the home into a work space during the crisis",
-            "eid": "2-s2.0-85111530619",
-            "authors": [
-                {
-                    "scopus_id": "57217861520",
-                    "name": "Watson A.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7103243232",
-                    "name": "Michael M.",
-                    "affiliation_id": [
-                        "60026479"
-                    ]
-                }
-            ],
-            "citations": 25,
-            "publication_name": "Convergence",
-            "issn": "13548565",
-            "cover_date": "2021-10-01",
-            "venue": "Journal",
-            "volume": "27",
-            "issue": "5",
-            "page_range": "1207-1221",
-            "doi": "10.1177/13548565211030848"
-        },
-        {
             "title": "\u2018The appy for a happy pappy\u2019: expectant fatherhood and pregnancy apps",
             "eid": "2-s2.0-85015675024",
             "authors": [
@@ -3655,6 +3655,53 @@
             "issue": "",
             "page_range": "151-168",
             "doi": ""
+        },
+        {
+            "title": "EVERYDAY AUTOMATION: Experiencing and Anticipating Emerging Technologies",
+            "eid": "2-s2.0-85140964555",
+            "authors": [
+                {
+                    "scopus_id": "7003587141",
+                    "name": "Pink S.",
+                    "affiliation_id": [
+                        "60019578",
+                        "126924253",
+                        "125284323"
+                    ]
+                },
+                {
+                    "scopus_id": "55437943100",
+                    "name": "Berg M.",
+                    "affiliation_id": [
+                        "60007905"
+                    ]
+                },
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60028333",
+                        "128817858",
+                        "126924253"
+                    ]
+                },
+                {
+                    "scopus_id": "36642702800",
+                    "name": "Ruckenstein M.",
+                    "affiliation_id": [
+                        "60002952"
+                    ]
+                }
+            ],
+            "citations": 23,
+            "publication_name": "Everyday Automation: Experiencing and Anticipating Emerging Technologies",
+            "issn": "",
+            "cover_date": "2022-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "1-234",
+            "doi": "10.4324/9781003170884"
         },
         {
             "title": "Australian women\u2019s use of health and fitness apps and wearable devices: a feminist new materialism analysis",
@@ -3813,53 +3860,6 @@
             "doi": "10.1111/j.1753-6405.1991.tb00334.x"
         },
         {
-            "title": "EVERYDAY AUTOMATION: Experiencing and Anticipating Emerging Technologies",
-            "eid": "2-s2.0-85140964555",
-            "authors": [
-                {
-                    "scopus_id": "7003587141",
-                    "name": "Pink S.",
-                    "affiliation_id": [
-                        "60019578",
-                        "126924253",
-                        "125284323"
-                    ]
-                },
-                {
-                    "scopus_id": "55437943100",
-                    "name": "Berg M.",
-                    "affiliation_id": [
-                        "60007905"
-                    ]
-                },
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60028333",
-                        "128817858",
-                        "126924253"
-                    ]
-                },
-                {
-                    "scopus_id": "36642702800",
-                    "name": "Ruckenstein M.",
-                    "affiliation_id": [
-                        "60002952"
-                    ]
-                }
-            ],
-            "citations": 22,
-            "publication_name": "Everyday Automation: Experiencing and Anticipating Emerging Technologies",
-            "issn": "",
-            "cover_date": "2022-01-01",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "1-234",
-            "doi": "10.4324/9781003170884"
-        },
-        {
             "title": "Thinking With Care About Personal Data Profiling: A More-Than-Human Approach",
             "eid": "2-s2.0-85089105773",
             "authors": [
@@ -3984,6 +3984,28 @@
             "doi": "10.1093/her/8.1.5"
         },
         {
+            "title": "\u2018Not the Real Me\u2019: Social Imaginaries of Personal Data Profiling",
+            "eid": "2-s2.0-85089088782",
+            "authors": [
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Cultural Sociology",
+            "issn": "17499755",
+            "cover_date": "2021-03-01",
+            "venue": "Journal",
+            "volume": "15",
+            "issue": "1",
+            "page_range": "3-21",
+            "doi": "10.1177/1749975520939779"
+        },
+        {
             "title": "The digital academic: Identities, contexts and politics",
             "eid": "2-s2.0-85050304370",
             "authors": [
@@ -4040,28 +4062,6 @@
             "doi": ""
         },
         {
-            "title": "\u2018Not the Real Me\u2019: Social Imaginaries of Personal Data Profiling",
-            "eid": "2-s2.0-85089088782",
-            "authors": [
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 20,
-            "publication_name": "Cultural Sociology",
-            "issn": "17499755",
-            "cover_date": "2021-03-01",
-            "venue": "Journal",
-            "volume": "15",
-            "issue": "1",
-            "page_range": "3-21",
-            "doi": "10.1177/1749975520939779"
-        },
-        {
             "title": "From complacency to panic: AIDS and heterosexuals in the Australian press, July 1986 to June 1988",
             "eid": "2-s2.0-0026594214",
             "authors": [
@@ -4111,6 +4111,28 @@
             "issue": "",
             "page_range": "151-167",
             "doi": "10.4324/9781315109930_8"
+        },
+        {
+            "title": "Foreword: lively devices, lively data and lively leisure studies",
+            "eid": "2-s2.0-84981271650",
+            "authors": [
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60022193"
+                    ]
+                }
+            ],
+            "citations": 18,
+            "publication_name": "Leisure Studies",
+            "issn": "02614367",
+            "cover_date": "2016-11-01",
+            "venue": "Journal",
+            "volume": "35",
+            "issue": "6",
+            "page_range": "709-711",
+            "doi": "10.1080/02614367.2016.1216582"
         },
         {
             "title": "The construction of patienthood in medical advertising",
@@ -4182,6 +4204,28 @@
             "doi": "10.4324/9781003170884-1"
         },
         {
+            "title": "The Internet of Things: Social dimensions",
+            "eid": "2-s2.0-85077887663",
+            "authors": [
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 17,
+            "publication_name": "Sociology Compass",
+            "issn": "",
+            "cover_date": "2020-04-01",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "4",
+            "page_range": null,
+            "doi": "10.1111/soc4.12770"
+        },
+        {
             "title": "The digital academic: Critical perspectives on digital technologies in higher education",
             "eid": "2-s2.0-85050288325",
             "authors": [
@@ -4218,28 +4262,6 @@
             "doi": "10.4324/9781315473611"
         },
         {
-            "title": "Foreword: lively devices, lively data and lively leisure studies",
-            "eid": "2-s2.0-84981271650",
-            "authors": [
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60022193"
-                    ]
-                }
-            ],
-            "citations": 17,
-            "publication_name": "Leisure Studies",
-            "issn": "02614367",
-            "cover_date": "2016-11-01",
-            "venue": "Journal",
-            "volume": "35",
-            "issue": "6",
-            "page_range": "709-711",
-            "doi": "10.1080/02614367.2016.1216582"
-        },
-        {
             "title": "Consuming work: Computers, subjectivity and appropriation in the university workplace",
             "eid": "2-s2.0-0042855043",
             "authors": [
@@ -4263,28 +4285,6 @@
             "issue": "4",
             "page_range": "803-827",
             "doi": "10.1111/1467-954X.00141"
-        },
-        {
-            "title": "The Internet of Things: Social dimensions",
-            "eid": "2-s2.0-85077887663",
-            "authors": [
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 16,
-            "publication_name": "Sociology Compass",
-            "issn": "",
-            "cover_date": "2020-04-01",
-            "venue": "Journal",
-            "volume": "14",
-            "issue": "4",
-            "page_range": null,
-            "doi": "10.1111/soc4.12770"
         },
         {
             "title": "Future of food in the digital realm",
@@ -4642,6 +4642,28 @@
             "doi": "10.1177/136345939700100106"
         },
         {
+            "title": "The Condom in the Age of AIDS: Newly Respectable or Still a Dirty Word? A Discourse Analysis",
+            "eid": "2-s2.0-84965520876",
+            "authors": [
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60017803"
+                    ]
+                }
+            ],
+            "citations": 14,
+            "publication_name": "Qualitative Health Research",
+            "issn": "10497323",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "3",
+            "page_range": "304-320",
+            "doi": "10.1177/104973239400400304"
+        },
+        {
             "title": "A more-than-human approach to bioethics: The example of digital health",
             "eid": "2-s2.0-85089384782",
             "authors": [
@@ -4742,28 +4764,6 @@
             "issue": "",
             "page_range": "85-102",
             "doi": "10.4337/9781784717766"
-        },
-        {
-            "title": "The Condom in the Age of AIDS: Newly Respectable or Still a Dirty Word? A Discourse Analysis",
-            "eid": "2-s2.0-84965520876",
-            "authors": [
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60017803"
-                    ]
-                }
-            ],
-            "citations": 13,
-            "publication_name": "Qualitative Health Research",
-            "issn": "10497323",
-            "cover_date": "1994-01-01",
-            "venue": "Journal",
-            "volume": "4",
-            "issue": "3",
-            "page_range": "304-320",
-            "doi": "10.1177/104973239400400304"
         },
         {
             "title": "Risk and governmentality",
@@ -4937,6 +4937,28 @@
             "doi": "10.1177/144078330203800101"
         },
         {
+            "title": "\u201cSharing Is Caring:\u201d Australian Self-Trackers' Concepts and Practices of Personal Data Sharing and Privacy",
+            "eid": "2-s2.0-85128361250",
+            "authors": [
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Frontiers in Digital Health",
+            "issn": "",
+            "cover_date": "2021-01-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.3389/fdgth.2021.649275"
+        },
+        {
             "title": "Tactics, affects and agencies in digital privacy narratives: a story completion study",
             "eid": "2-s2.0-85092475693",
             "authors": [
@@ -4995,8 +5017,8 @@
             "doi": "10.1080/1369118X.2019.1602665"
         },
         {
-            "title": "\u201cSharing Is Caring:\u201d Australian Self-Trackers' Concepts and Practices of Personal Data Sharing and Privacy",
-            "eid": "2-s2.0-85128361250",
+            "title": "Coping with COVID-19: The sociomaterial dimensions of living with pre-existing mental illness during the early stages of the coronavirus crisis",
+            "eid": "2-s2.0-85119059267",
             "authors": [
                 {
                     "scopus_id": "7006014326",
@@ -5004,17 +5026,24 @@
                     "affiliation_id": [
                         "60028333"
                     ]
+                },
+                {
+                    "scopus_id": "57200400091",
+                    "name": "Lewis S.",
+                    "affiliation_id": [
+                        "60010710"
+                    ]
                 }
             ],
             "citations": 10,
-            "publication_name": "Frontiers in Digital Health",
-            "issn": "",
-            "cover_date": "2021-01-01",
+            "publication_name": "Emotion, Space and Society",
+            "issn": "17554586",
+            "cover_date": "2022-02-01",
             "venue": "Journal",
-            "volume": "3",
+            "volume": "42",
             "issue": "",
             "page_range": null,
-            "doi": "10.3389/fdgth.2021.649275"
+            "doi": "10.1016/j.emospa.2021.100860"
         },
         {
             "title": "\u2018Next generation PE\u2019? A sociomaterial approach to digitised health and physical education",
@@ -5110,35 +5139,6 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1016/j.socscimed.2021.114669"
-        },
-        {
-            "title": "Coping with COVID-19: The sociomaterial dimensions of living with pre-existing mental illness during the early stages of the coronavirus crisis",
-            "eid": "2-s2.0-85119059267",
-            "authors": [
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "57200400091",
-                    "name": "Lewis S.",
-                    "affiliation_id": [
-                        "60010710"
-                    ]
-                }
-            ],
-            "citations": 9,
-            "publication_name": "Emotion, Space and Society",
-            "issn": "17554586",
-            "cover_date": "2022-02-01",
-            "venue": "Journal",
-            "volume": "42",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.emospa.2021.100860"
         },
         {
             "title": "\u2018Honestly no, I\u2019ve never looked at it\u2019: teachers\u2019 understandings and practices related to students\u2019 personal data in digitised health and physical education",
@@ -5330,6 +5330,28 @@
             "doi": "10.1177/2056305117702541"
         },
         {
+            "title": "Fat, second edition",
+            "eid": "2-s2.0-85136405293",
+            "authors": [
+                {
+                    "scopus_id": "7006014326",
+                    "name": "Lupton D.",
+                    "affiliation_id": [
+                        "60022193"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Fat, Second Edition",
+            "issn": "",
+            "cover_date": "2018-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "1-128",
+            "doi": "10.4324/9781351029025"
+        },
+        {
             "title": "\u2018The hardest job I\u2019ve ever done\u2019: a qualitative exploration of the factors affecting junior doctors\u2019 mental health and well-being during medical training in Australia",
             "eid": "2-s2.0-85121332350",
             "authors": [
@@ -5462,28 +5484,6 @@
             "issue": "1",
             "page_range": "36-65",
             "doi": "10.1177/07255136221133178"
-        },
-        {
-            "title": "Fat, second edition",
-            "eid": "2-s2.0-85136405293",
-            "authors": [
-                {
-                    "scopus_id": "7006014326",
-                    "name": "Lupton D.",
-                    "affiliation_id": [
-                        "60022193"
-                    ]
-                }
-            ],
-            "citations": 6,
-            "publication_name": "Fat, Second Edition",
-            "issn": "",
-            "cover_date": "2018-01-01",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "1-128",
-            "doi": "10.4324/9781351029025"
         },
         {
             "title": "Quantified data &amp; social relationships",
@@ -7202,6 +7202,5 @@
             "$": "Psychology (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:16:22",
-    "c-score": null
+    "date fetched": "2024-07-12 19:56:46"
 }

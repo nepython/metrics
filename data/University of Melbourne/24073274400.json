@@ -707,7 +707,7 @@
                     ]
                 }
             ],
-            "citations": 6900,
+            "citations": 6905,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-12-01",
@@ -1421,7 +1421,7 @@
                     ]
                 }
             ],
-            "citations": 6228,
+            "citations": 6234,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -2134,7 +2134,7 @@
                     ]
                 }
             ],
-            "citations": 5994,
+            "citations": 6008,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2015-01-10",
@@ -2868,7 +2868,7 @@
                     ]
                 }
             ],
-            "citations": 5425,
+            "citations": 5443,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2017-09-16",
@@ -3585,7 +3585,7 @@
                     ]
                 }
             ],
-            "citations": 5131,
+            "citations": 5135,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2015-08-22",
@@ -4305,7 +4305,7 @@
                     ]
                 }
             ],
-            "citations": 3195,
+            "citations": 3200,
             "publication_name": "JAMA Oncology",
             "issn": "23742437",
             "cover_date": "2017-04-01",
@@ -5025,7 +5025,7 @@
                     ]
                 }
             ],
-            "citations": 2401,
+            "citations": 2402,
             "publication_name": "JAMA Oncology",
             "issn": "23742437",
             "cover_date": "2015-07-01",
@@ -5170,7 +5170,7 @@
                     ]
                 }
             ],
-            "citations": 2355,
+            "citations": 2359,
             "publication_name": "Annals of the Rheumatic Diseases",
             "issn": "00034967",
             "cover_date": "2014-01-01",
@@ -5894,7 +5894,7 @@
                     ]
                 }
             ],
-            "citations": 2155,
+            "citations": 2161,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2015-12-05",
@@ -7341,7 +7341,7 @@
                     ]
                 }
             ],
-            "citations": 1115,
+            "citations": 1116,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2014-09-22",
@@ -8059,7 +8059,7 @@
                     ]
                 }
             ],
-            "citations": 738,
+            "citations": 739,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2014-01-01",
@@ -9550,7 +9550,7 @@
                     ]
                 }
             ],
-            "citations": 467,
+            "citations": 468,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2017-07-15",
@@ -10289,7 +10289,7 @@
                     ]
                 }
             ],
-            "citations": 378,
+            "citations": 379,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -10406,7 +10406,7 @@
                     ]
                 }
             ],
-            "citations": 256,
+            "citations": 259,
             "publication_name": "European Journal of Cancer",
             "issn": "09598049",
             "cover_date": "2019-01-01",
@@ -10475,7 +10475,7 @@
                     ]
                 }
             ],
-            "citations": 247,
+            "citations": 248,
             "publication_name": "Journal of the American Academy of Dermatology",
             "issn": "01909622",
             "cover_date": "2012-02-01",
@@ -11240,7 +11240,7 @@
                     "scopus_id": "34571763200",
                     "name": "Pincus H.A.",
                     "affiliation_id": [
-                        "60030162",
+                        "60027565",
                         "60003873"
                     ]
                 },
@@ -11266,7 +11266,7 @@
                     ]
                 },
                 {
-                    "scopus_id": "39162051200",
+                    "scopus_id": "59164759400",
                     "name": "Smithson D.",
                     "affiliation_id": [
                         "60111965"
@@ -11375,7 +11375,7 @@
                     ]
                 }
             ],
-            "citations": 70,
+            "citations": 71,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2017-02-01",
@@ -12065,7 +12065,7 @@
                     ]
                 }
             ],
-            "citations": 33,
+            "citations": 34,
             "publication_name": "European Journal of Cancer",
             "issn": "09598049",
             "cover_date": "2020-09-01",
@@ -12345,6 +12345,51 @@
             "doi": "10.1007/s11136-010-9844-9"
         },
         {
+            "title": "Psychometric evaluation of the PROMIS\u00ae Depression Item Bank: an illustration of classical test theory methods",
+            "eid": "2-s2.0-85077525037",
+            "authors": [
+                {
+                    "scopus_id": "24073274400",
+                    "name": "Nolte S.",
+                    "affiliation_id": [
+                        "60026245",
+                        "60018805"
+                    ]
+                },
+                {
+                    "scopus_id": "36450197100",
+                    "name": "Coon C.",
+                    "affiliation_id": [
+                        "115873741"
+                    ]
+                },
+                {
+                    "scopus_id": "6603830659",
+                    "name": "Hudgens S.",
+                    "affiliation_id": [
+                        "115328525"
+                    ]
+                },
+                {
+                    "scopus_id": "54985466200",
+                    "name": "Verdam M.G.E.",
+                    "affiliation_id": [
+                        "60002483",
+                        "60019816"
+                    ]
+                }
+            ],
+            "citations": 26,
+            "publication_name": "Journal of Patient-Reported Outcomes",
+            "issn": "",
+            "cover_date": "2019-12-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s41687-019-0127-0"
+        },
+        {
             "title": "Absence of social desirability bias in the evaluation of chronic disease self-management interventions",
             "eid": "2-s2.0-84879812483",
             "authors": [
@@ -12380,51 +12425,6 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1186/1477-7525-11-114"
-        },
-        {
-            "title": "Psychometric evaluation of the PROMIS\u00ae Depression Item Bank: an illustration of classical test theory methods",
-            "eid": "2-s2.0-85077525037",
-            "authors": [
-                {
-                    "scopus_id": "24073274400",
-                    "name": "Nolte S.",
-                    "affiliation_id": [
-                        "60026245",
-                        "60018805"
-                    ]
-                },
-                {
-                    "scopus_id": "36450197100",
-                    "name": "Coon C.",
-                    "affiliation_id": [
-                        "115873741"
-                    ]
-                },
-                {
-                    "scopus_id": "6603830659",
-                    "name": "Hudgens S.",
-                    "affiliation_id": [
-                        "115328525"
-                    ]
-                },
-                {
-                    "scopus_id": "54985466200",
-                    "name": "Verdam M.G.E.",
-                    "affiliation_id": [
-                        "60002483",
-                        "60019816"
-                    ]
-                }
-            ],
-            "citations": 25,
-            "publication_name": "Journal of Patient-Reported Outcomes",
-            "issn": "",
-            "cover_date": "2019-12-01",
-            "venue": "Journal",
-            "volume": "3",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1186/s41687-019-0127-0"
         },
         {
             "title": "Predictors of self-reported health-related quality of life according to the EQ-5D-Y in chronically ill children and adolescents with asthma, diabetes, and juvenile arthritis: longitudinal results",
@@ -14758,6 +14758,75 @@
             "doi": "10.1007/s11136-015-1123-3"
         },
         {
+            "title": "The German SCREEN project - Design and evaluation of the communication strategy",
+            "eid": "2-s2.0-84922444988",
+            "authors": [
+                {
+                    "scopus_id": "56100061400",
+                    "name": "Anders M.P.",
+                    "affiliation_id": [
+                        "108401661"
+                    ]
+                },
+                {
+                    "scopus_id": "24073274400",
+                    "name": "Nolte S.",
+                    "affiliation_id": [
+                        "108401661",
+                        "60026245",
+                        "60018805"
+                    ]
+                },
+                {
+                    "scopus_id": "23394255900",
+                    "name": "Waldmann A.",
+                    "affiliation_id": [
+                        "60012408"
+                    ]
+                },
+                {
+                    "scopus_id": "8565737500",
+                    "name": "Capellaro M.",
+                    "affiliation_id": [
+                        "114976718"
+                    ]
+                },
+                {
+                    "scopus_id": "7004620071",
+                    "name": "Volkmer B.",
+                    "affiliation_id": [
+                        "108401661",
+                        "112598143"
+                    ]
+                },
+                {
+                    "scopus_id": "6701568041",
+                    "name": "Greinert R.",
+                    "affiliation_id": [
+                        "108401661",
+                        "112598143"
+                    ]
+                },
+                {
+                    "scopus_id": "35555979200",
+                    "name": "Breitbart E.W.",
+                    "affiliation_id": [
+                        "108401661",
+                        "112598143"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "European Journal of Public Health",
+            "issn": "11011262",
+            "cover_date": "2015-02-01",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "1",
+            "page_range": "150-155",
+            "doi": "10.1093/eurpub/cku047"
+        },
+        {
             "title": "Measurement of stable changes of self-management skills after rehabilitation: a latent state\u2013trait analysis of the Health Education Impact Questionnaire (heiQ\u2122)",
             "eid": "2-s2.0-84912050601",
             "authors": [
@@ -14842,75 +14911,6 @@
             "issue": "9",
             "page_range": "2531-2543",
             "doi": "10.1007/s11136-014-0693-9"
-        },
-        {
-            "title": "The German SCREEN project - Design and evaluation of the communication strategy",
-            "eid": "2-s2.0-84922444988",
-            "authors": [
-                {
-                    "scopus_id": "56100061400",
-                    "name": "Anders M.P.",
-                    "affiliation_id": [
-                        "108401661"
-                    ]
-                },
-                {
-                    "scopus_id": "24073274400",
-                    "name": "Nolte S.",
-                    "affiliation_id": [
-                        "108401661",
-                        "60026245",
-                        "60018805"
-                    ]
-                },
-                {
-                    "scopus_id": "23394255900",
-                    "name": "Waldmann A.",
-                    "affiliation_id": [
-                        "60012408"
-                    ]
-                },
-                {
-                    "scopus_id": "8565737500",
-                    "name": "Capellaro M.",
-                    "affiliation_id": [
-                        "114976718"
-                    ]
-                },
-                {
-                    "scopus_id": "7004620071",
-                    "name": "Volkmer B.",
-                    "affiliation_id": [
-                        "108401661",
-                        "112598143"
-                    ]
-                },
-                {
-                    "scopus_id": "6701568041",
-                    "name": "Greinert R.",
-                    "affiliation_id": [
-                        "108401661",
-                        "112598143"
-                    ]
-                },
-                {
-                    "scopus_id": "35555979200",
-                    "name": "Breitbart E.W.",
-                    "affiliation_id": [
-                        "108401661",
-                        "112598143"
-                    ]
-                }
-            ],
-            "citations": 11,
-            "publication_name": "European Journal of Public Health",
-            "issn": "11011262",
-            "cover_date": "2015-02-01",
-            "venue": "Journal",
-            "volume": "25",
-            "issue": "1",
-            "page_range": "150-155",
-            "doi": "10.1093/eurpub/cku047"
         },
         {
             "title": "Different aspects of self-reported quality of life in 450 German melanoma survivors",
@@ -17765,6 +17765,5 @@
             "$": "Psychology (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:49:42",
-    "c-score": null
+    "date fetched": "2024-07-12 19:11:26"
 }

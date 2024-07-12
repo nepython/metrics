@@ -57,7 +57,7 @@
                     ]
                 }
             ],
-            "citations": 1803,
+            "citations": 1807,
             "publication_name": "Conservation Biology",
             "issn": "08888892",
             "cover_date": "1992-01-01",
@@ -198,7 +198,7 @@
                     ]
                 }
             ],
-            "citations": 1520,
+            "citations": 1522,
             "publication_name": "Global Ecology and Biogeography",
             "issn": "1466822X",
             "cover_date": "2006-01-01",
@@ -234,7 +234,7 @@
                     ]
                 }
             ],
-            "citations": 1390,
+            "citations": 1391,
             "publication_name": "Trends in Ecology and Evolution",
             "issn": "01695347",
             "cover_date": "2009-11-01",
@@ -313,7 +313,7 @@
                     ]
                 }
             ],
-            "citations": 1195,
+            "citations": 1196,
             "publication_name": "BioScience",
             "issn": "00063568",
             "cover_date": "2004-01-01",
@@ -627,7 +627,7 @@
                     ]
                 }
             ],
-            "citations": 728,
+            "citations": 729,
             "publication_name": "Diversity and Distributions",
             "issn": "13669516",
             "cover_date": "2007-01-01",
@@ -663,7 +663,7 @@
                     ]
                 }
             ],
-            "citations": 677,
+            "citations": 679,
             "publication_name": "Trends in Ecology and Evolution",
             "issn": "01695347",
             "cover_date": "2008-02-01",
@@ -706,7 +706,7 @@
                     ]
                 }
             ],
-            "citations": 668,
+            "citations": 670,
             "publication_name": "Restoration Ecology",
             "issn": "10612971",
             "cover_date": "2006-06-01",
@@ -735,7 +735,7 @@
                     ]
                 }
             ],
-            "citations": 645,
+            "citations": 649,
             "publication_name": "Landscape Ecology",
             "issn": "09212973",
             "cover_date": "2002-11-12",
@@ -764,7 +764,7 @@
                     ]
                 }
             ],
-            "citations": 635,
+            "citations": 636,
             "publication_name": "Restoration Ecology",
             "issn": "10612971",
             "cover_date": "2001-07-19",
@@ -1119,7 +1119,7 @@
                     ]
                 }
             ],
-            "citations": 490,
+            "citations": 492,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2009-07-31",
@@ -1128,6 +1128,42 @@
             "issue": "5940",
             "page_range": "567-569",
             "doi": "10.1126/science.1172977"
+        },
+        {
+            "title": "Management of novel ecosystems: Are novel approaches required?",
+            "eid": "2-s2.0-57449116566",
+            "authors": [
+                {
+                    "scopus_id": "7003301963",
+                    "name": "Seastedt T.",
+                    "affiliation_id": [
+                        "60000221"
+                    ]
+                },
+                {
+                    "scopus_id": "7202267633",
+                    "name": "Hobbs R.",
+                    "affiliation_id": [
+                        "60019939"
+                    ]
+                },
+                {
+                    "scopus_id": "6603129971",
+                    "name": "Suding K.",
+                    "affiliation_id": [
+                        "60007278"
+                    ]
+                }
+            ],
+            "citations": 441,
+            "publication_name": "Frontiers in Ecology and the Environment",
+            "issn": "15409295",
+            "cover_date": "2008-12-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "10",
+            "page_range": "547-553",
+            "doi": "10.1890/070046"
         },
         {
             "title": "An Integrated Approach to the Ecology and Management of Plant Invasions",
@@ -1157,42 +1193,6 @@
             "issue": "4",
             "page_range": "761-770",
             "doi": "10.1046/j.1523-1739.1995.09040761.x"
-        },
-        {
-            "title": "Management of novel ecosystems: Are novel approaches required?",
-            "eid": "2-s2.0-57449116566",
-            "authors": [
-                {
-                    "scopus_id": "7003301963",
-                    "name": "Seastedt T.",
-                    "affiliation_id": [
-                        "60000221"
-                    ]
-                },
-                {
-                    "scopus_id": "7202267633",
-                    "name": "Hobbs R.",
-                    "affiliation_id": [
-                        "60019939"
-                    ]
-                },
-                {
-                    "scopus_id": "6603129971",
-                    "name": "Suding K.",
-                    "affiliation_id": [
-                        "60007278"
-                    ]
-                }
-            ],
-            "citations": 440,
-            "publication_name": "Frontiers in Ecology and the Environment",
-            "issn": "15409295",
-            "cover_date": "2008-12-01",
-            "venue": "Journal",
-            "volume": "6",
-            "issue": "10",
-            "page_range": "547-553",
-            "doi": "10.1890/070046"
         },
         {
             "title": "A framework for conceptualizing human effects on landscapes and its relevance to management and research models",
@@ -1411,7 +1411,7 @@
                     ]
                 }
             ],
-            "citations": 384,
+            "citations": 386,
             "publication_name": "Novel Ecosystems: Intervening in the New Ecological World Order",
             "issn": "",
             "cover_date": "2013-01-31",
@@ -1624,7 +1624,7 @@
                     ]
                 }
             ],
-            "citations": 365,
+            "citations": 369,
             "publication_name": "Frontiers in Ecology and the Environment",
             "issn": "15409295",
             "cover_date": "2014-12-01",
@@ -1733,7 +1733,7 @@
                     ]
                 }
             ],
-            "citations": 320,
+            "citations": 321,
             "publication_name": "BioScience",
             "issn": "00063568",
             "cover_date": "2011-06-01",
@@ -1742,6 +1742,44 @@
             "issue": "6",
             "page_range": "442-450",
             "doi": "10.1525/bio.2011.61.6.6"
+        },
+        {
+            "title": "Hurdles and opportunities for landscape-scale restoration",
+            "eid": "2-s2.0-84873297219",
+            "authors": [
+                {
+                    "scopus_id": "25652066700",
+                    "name": "Menz M.H.M.",
+                    "affiliation_id": [
+                        "60005833",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "35556048900",
+                    "name": "Dixon K.W.",
+                    "affiliation_id": [
+                        "60005833",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7202267633",
+                    "name": "Hobbs R.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 316,
+            "publication_name": "Science",
+            "issn": "00368075",
+            "cover_date": "2013-02-01",
+            "venue": "Journal",
+            "volume": "339",
+            "issue": "6119",
+            "page_range": "526-527",
+            "doi": "10.1126/science.1228334"
         },
         {
             "title": "Grazing effects on plant cover, soil and microclimate in fragmented woodlands in south-western Australia: Implications for restoration",
@@ -1780,44 +1818,6 @@
             "doi": "10.1046/j.1442-9993.2000.01030.x"
         },
         {
-            "title": "Hurdles and opportunities for landscape-scale restoration",
-            "eid": "2-s2.0-84873297219",
-            "authors": [
-                {
-                    "scopus_id": "25652066700",
-                    "name": "Menz M.H.M.",
-                    "affiliation_id": [
-                        "60005833",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "35556048900",
-                    "name": "Dixon K.W.",
-                    "affiliation_id": [
-                        "60005833",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7202267633",
-                    "name": "Hobbs R.J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 315,
-            "publication_name": "Science",
-            "issn": "00368075",
-            "cover_date": "2013-02-01",
-            "venue": "Journal",
-            "volume": "339",
-            "issue": "6119",
-            "page_range": "526-527",
-            "doi": "10.1126/science.1228334"
-        },
-        {
             "title": "Time for a change: Dynamic urban ecology",
             "eid": "2-s2.0-84857191610",
             "authors": [
@@ -1836,7 +1836,7 @@
                     ]
                 }
             ],
-            "citations": 314,
+            "citations": 315,
             "publication_name": "Trends in Ecology and Evolution",
             "issn": "01695347",
             "cover_date": "2012-03-01",
@@ -2452,7 +2452,7 @@
                     ]
                 }
             ],
-            "citations": 209,
+            "citations": 210,
             "publication_name": "Australian Journal of Botany",
             "issn": "00671924",
             "cover_date": "1997-01-01",
@@ -2866,7 +2866,7 @@
                     ]
                 }
             ],
-            "citations": 170,
+            "citations": 172,
             "publication_name": "BioScience",
             "issn": "00063568",
             "cover_date": "2016-06-01",
@@ -2973,7 +2973,7 @@
                     ]
                 }
             ],
-            "citations": 160,
+            "citations": 161,
             "publication_name": "Ecology",
             "issn": "00129658",
             "cover_date": "2014-01-01",
@@ -3152,7 +3152,7 @@
                     ]
                 }
             ],
-            "citations": 151,
+            "citations": 152,
             "publication_name": "Ecosystem Services",
             "issn": "22120416",
             "cover_date": "2017-06-01",
@@ -3531,7 +3531,7 @@
                     ]
                 }
             ],
-            "citations": 141,
+            "citations": 142,
             "publication_name": "Austral Ecology",
             "issn": "14429985",
             "cover_date": "2012-05-01",
@@ -3625,7 +3625,7 @@
                     ]
                 }
             ],
-            "citations": 133,
+            "citations": 134,
             "publication_name": "Nature Climate Change",
             "issn": "1758678X",
             "cover_date": "2013-10-01",
@@ -4095,35 +4095,6 @@
             "doi": "10.1111/j.1523-1739.1998.96233.x"
         },
         {
-            "title": "Identifying linkages among conceptual models of ecosystem degradation and restoration: Towards an integrative framework",
-            "eid": "2-s2.0-33747364517",
-            "authors": [
-                {
-                    "scopus_id": "23569892800",
-                    "name": "King E.",
-                    "affiliation_id": [
-                        "60014439"
-                    ]
-                },
-                {
-                    "scopus_id": "7202267633",
-                    "name": "Hobbs R.",
-                    "affiliation_id": [
-                        "60019939"
-                    ]
-                }
-            ],
-            "citations": 118,
-            "publication_name": "Restoration Ecology",
-            "issn": "10612971",
-            "cover_date": "2006-09-01",
-            "venue": "Journal",
-            "volume": "14",
-            "issue": "3",
-            "page_range": "369-378",
-            "doi": "10.1111/j.1526-100X.2006.00145.x"
-        },
-        {
             "title": "Opportunities and Challenges for Ecological Restoration within REDD+",
             "eid": "2-s2.0-81355138590",
             "authors": [
@@ -4227,7 +4198,7 @@
                     ]
                 }
             ],
-            "citations": 117,
+            "citations": 119,
             "publication_name": "Restoration Ecology",
             "issn": "10612971",
             "cover_date": "2011-11-01",
@@ -4236,6 +4207,35 @@
             "issue": "6",
             "page_range": "683-689",
             "doi": "10.1111/j.1526-100X.2011.00822.x"
+        },
+        {
+            "title": "Identifying linkages among conceptual models of ecosystem degradation and restoration: Towards an integrative framework",
+            "eid": "2-s2.0-33747364517",
+            "authors": [
+                {
+                    "scopus_id": "23569892800",
+                    "name": "King E.",
+                    "affiliation_id": [
+                        "60014439"
+                    ]
+                },
+                {
+                    "scopus_id": "7202267633",
+                    "name": "Hobbs R.",
+                    "affiliation_id": [
+                        "60019939"
+                    ]
+                }
+            ],
+            "citations": 118,
+            "publication_name": "Restoration Ecology",
+            "issn": "10612971",
+            "cover_date": "2006-09-01",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "3",
+            "page_range": "369-378",
+            "doi": "10.1111/j.1526-100X.2006.00145.x"
         },
         {
             "title": "Long-term data reveal complex dynamics in grassland in relation to climate and disturbance",
@@ -4627,7 +4627,7 @@
                     ]
                 }
             ],
-            "citations": 88,
+            "citations": 89,
             "publication_name": "Ecology",
             "issn": "00129658",
             "cover_date": "2014-09-01",
@@ -4819,36 +4819,36 @@
             "authors": [
                 {
                     "scopus_id": "6602129537",
-                    "name": "Hiers J.",
+                    "name": "Hiers J.K.",
                     "affiliation_id": [
                         "60014397"
                     ]
                 },
                 {
                     "scopus_id": "7402695641",
-                    "name": "Jackson S.",
+                    "name": "Jackson S.T.",
                     "affiliation_id": [
                         "60011347",
-                        "60010065"
+                        "60150063"
                     ]
                 },
                 {
                     "scopus_id": "7202267633",
-                    "name": "Hobbs R.",
+                    "name": "Hobbs R.J.",
                     "affiliation_id": [
                         "60031806"
                     ]
                 },
                 {
                     "scopus_id": "7007044685",
-                    "name": "Bernhardt E.",
+                    "name": "Bernhardt E.S.",
                     "affiliation_id": [
                         "60008724"
                     ]
                 },
                 {
                     "scopus_id": "14072178800",
-                    "name": "Valentine L.",
+                    "name": "Valentine L.E.",
                     "affiliation_id": [
                         "60031806"
                     ]
@@ -5231,7 +5231,7 @@
                     ]
                 }
             ],
-            "citations": 78,
+            "citations": 79,
             "publication_name": "Nature Ecology and Evolution",
             "issn": "",
             "cover_date": "2018-05-01",
@@ -5664,6 +5664,28 @@
             "doi": "10.1007/s00267-008-9187-2"
         },
         {
+            "title": "Degraded or just different? Perceptions and value judgements in restoration decisions",
+            "eid": "2-s2.0-84960077673",
+            "authors": [
+                {
+                    "scopus_id": "7202267633",
+                    "name": "Hobbs R.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 70,
+            "publication_name": "Restoration Ecology",
+            "issn": "10612971",
+            "cover_date": "2016-03-01",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "2",
+            "page_range": "153-158",
+            "doi": "10.1111/rec.12336"
+        },
+        {
             "title": "Using Landsat observations (1988\u20132017) and Google Earth Engine to detect vegetation cover changes in rangelands - A first step towards identifying degraded lands for conservation",
             "eid": "2-s2.0-85069687076",
             "authors": [
@@ -5728,28 +5750,6 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1016/j.rse.2019.111317"
-        },
-        {
-            "title": "Degraded or just different? Perceptions and value judgements in restoration decisions",
-            "eid": "2-s2.0-84960077673",
-            "authors": [
-                {
-                    "scopus_id": "7202267633",
-                    "name": "Hobbs R.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 69,
-            "publication_name": "Restoration Ecology",
-            "issn": "10612971",
-            "cover_date": "2016-03-01",
-            "venue": "Journal",
-            "volume": "24",
-            "issue": "2",
-            "page_range": "153-158",
-            "doi": "10.1111/rec.12336"
         },
         {
             "title": "Are offsets effective? An evaluation of recent environmental offsets in Western Australia",
@@ -5885,7 +5885,7 @@
                     ]
                 }
             ],
-            "citations": 66,
+            "citations": 67,
             "publication_name": "Plant and Soil",
             "issn": "0032079X",
             "cover_date": "2006-02-01",
@@ -5914,7 +5914,7 @@
                     ]
                 }
             ],
-            "citations": 66,
+            "citations": 65,
             "publication_name": "Ecological Management and Restoration",
             "issn": "14427001",
             "cover_date": "2003-02-01",
@@ -6877,31 +6877,31 @@
             "authors": [
                 {
                     "scopus_id": "7202267633",
-                    "name": "Hobbs R.",
+                    "name": "Hobbs R.J.",
                     "affiliation_id": [
                         "60031806"
                     ]
                 },
                 {
                     "scopus_id": "14072178800",
-                    "name": "Valentine L.",
+                    "name": "Valentine L.E.",
                     "affiliation_id": [
                         "60031806"
                     ]
                 },
                 {
                     "scopus_id": "7004429557",
-                    "name": "Standish R.",
+                    "name": "Standish R.J.",
                     "affiliation_id": [
                         "60019939"
                     ]
                 },
                 {
                     "scopus_id": "7402695641",
-                    "name": "Jackson S.",
+                    "name": "Jackson S.T.",
                     "affiliation_id": [
                         "60011347",
-                        "60010065"
+                        "60150063"
                     ]
                 }
             ],
@@ -6941,7 +6941,7 @@
                     ]
                 }
             ],
-            "citations": 52,
+            "citations": 53,
             "publication_name": "Trends in Ecology and Evolution",
             "issn": "01695347",
             "cover_date": "2014-12-01",
@@ -10846,6 +10846,49 @@
             "doi": ""
         },
         {
+            "title": "Translocations of digging mammals and their potential for ecosystem restoration: a review of goals and monitoring programmes",
+            "eid": "2-s2.0-85088286685",
+            "authors": [
+                {
+                    "scopus_id": "57211600693",
+                    "name": "Palmer B.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "14072178800",
+                    "name": "Valentine L.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "13407588200",
+                    "name": "Page M.",
+                    "affiliation_id": [
+                        "60008291"
+                    ]
+                },
+                {
+                    "scopus_id": "7202267633",
+                    "name": "Hobbs R.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 23,
+            "publication_name": "Mammal Review",
+            "issn": "03051838",
+            "cover_date": "2020-10-01",
+            "venue": "Journal",
+            "volume": "50",
+            "issue": "4",
+            "page_range": "382-398",
+            "doi": "10.1111/mam.12208"
+        },
+        {
             "title": "Ecological connectivity or barrier fence? Critical choices on the agricultural margins of Western Australia",
             "eid": "2-s2.0-84925872943",
             "authors": [
@@ -11098,49 +11141,6 @@
             "doi": "10.1016/j.ecoleng.2020.106103"
         },
         {
-            "title": "Translocations of digging mammals and their potential for ecosystem restoration: a review of goals and monitoring programmes",
-            "eid": "2-s2.0-85088286685",
-            "authors": [
-                {
-                    "scopus_id": "57211600693",
-                    "name": "Palmer B.J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "14072178800",
-                    "name": "Valentine L.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "13407588200",
-                    "name": "Page M.",
-                    "affiliation_id": [
-                        "60008291"
-                    ]
-                },
-                {
-                    "scopus_id": "7202267633",
-                    "name": "Hobbs R.J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 22,
-            "publication_name": "Mammal Review",
-            "issn": "03051838",
-            "cover_date": "2020-10-01",
-            "venue": "Journal",
-            "volume": "50",
-            "issue": "4",
-            "page_range": "382-398",
-            "doi": "10.1111/mam.12208"
-        },
-        {
             "title": "The relative influence of in situ and neighborhood factors on reptile recolonization in post-mining restoration sites",
             "eid": "2-s2.0-84979085018",
             "authors": [
@@ -11232,7 +11232,7 @@
                     ]
                 }
             ],
-            "citations": 20,
+            "citations": 21,
             "publication_name": "Restoration Ecology",
             "issn": "10612971",
             "cover_date": "2018-09-01",
@@ -11283,7 +11283,7 @@
                     ]
                 }
             ],
-            "citations": 20,
+            "citations": 21,
             "publication_name": "Journal of Environmental Management",
             "issn": "03014797",
             "cover_date": "2018-01-15",
@@ -11292,6 +11292,42 @@
             "issue": "",
             "page_range": "446-457",
             "doi": "10.1016/j.jenvman.2017.10.036"
+        },
+        {
+            "title": "An overview of the ecology, management and conservation of Australia's temperate woodlands",
+            "eid": "2-s2.0-78649706105",
+            "authors": [
+                {
+                    "scopus_id": "35510108300",
+                    "name": "Lindenmayer D.",
+                    "affiliation_id": [
+                        "60082291"
+                    ]
+                },
+                {
+                    "scopus_id": "40460915100",
+                    "name": "Bennett A.",
+                    "affiliation_id": [
+                        "60018805"
+                    ]
+                },
+                {
+                    "scopus_id": "7202267633",
+                    "name": "Hobbs R.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Ecological Management and Restoration",
+            "issn": "14427001",
+            "cover_date": "2010-12-01",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "3",
+            "page_range": "201-209",
+            "doi": "10.1111/j.1442-8903.2010.00550.x"
         },
         {
             "title": "Novel Ecosystems: Intervening in the New Ecological World Order",
@@ -11328,42 +11364,6 @@
             "issue": "",
             "page_range": "1-368",
             "doi": "10.1002/9781118354186"
-        },
-        {
-            "title": "An overview of the ecology, management and conservation of Australia's temperate woodlands",
-            "eid": "2-s2.0-78649706105",
-            "authors": [
-                {
-                    "scopus_id": "35510108300",
-                    "name": "Lindenmayer D.",
-                    "affiliation_id": [
-                        "60082291"
-                    ]
-                },
-                {
-                    "scopus_id": "40460915100",
-                    "name": "Bennett A.",
-                    "affiliation_id": [
-                        "60018805"
-                    ]
-                },
-                {
-                    "scopus_id": "7202267633",
-                    "name": "Hobbs R.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 20,
-            "publication_name": "Ecological Management and Restoration",
-            "issn": "14427001",
-            "cover_date": "2010-12-01",
-            "venue": "Journal",
-            "volume": "11",
-            "issue": "3",
-            "page_range": "201-209",
-            "doi": "10.1111/j.1442-8903.2010.00550.x"
         },
         {
             "title": "Does habitat structure influence capture probabilities? A study of reptiles in a eucalypt forest",
@@ -12487,6 +12487,149 @@
             "doi": "10.1007/BF02347186"
         },
         {
+            "title": "The long and the short of it: Mechanisms of synchronous and compensatory dynamics across temporal scales",
+            "eid": "2-s2.0-85126007064",
+            "authors": [
+                {
+                    "scopus_id": "57220369954",
+                    "name": "Shoemaker L.G.",
+                    "affiliation_id": [
+                        "60008827"
+                    ]
+                },
+                {
+                    "scopus_id": "37074563800",
+                    "name": "Hallett L.M.",
+                    "affiliation_id": [
+                        "60012317"
+                    ]
+                },
+                {
+                    "scopus_id": "57188699351",
+                    "name": "Zhao L.",
+                    "affiliation_id": [
+                        "60013551"
+                    ]
+                },
+                {
+                    "scopus_id": "6603661153",
+                    "name": "Reuman D.C.",
+                    "affiliation_id": [
+                        "60015457"
+                    ]
+                },
+                {
+                    "scopus_id": "56245379600",
+                    "name": "Wang S.",
+                    "affiliation_id": [
+                        "60014966"
+                    ]
+                },
+                {
+                    "scopus_id": "57207605233",
+                    "name": "Cottingham K.L.",
+                    "affiliation_id": [
+                        "60170289"
+                    ]
+                },
+                {
+                    "scopus_id": "7202267633",
+                    "name": "Hobbs R.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "56313856700",
+                    "name": "Castorani M.C.N.",
+                    "affiliation_id": [
+                        "60021918"
+                    ]
+                },
+                {
+                    "scopus_id": "7006534739",
+                    "name": "Downing A.L.",
+                    "affiliation_id": [
+                        "60015120"
+                    ]
+                },
+                {
+                    "scopus_id": "57191571613",
+                    "name": "Dudney J.C.",
+                    "affiliation_id": [
+                        "60014439",
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "56494623600",
+                    "name": "Fey S.B.",
+                    "affiliation_id": [
+                        "60022844"
+                    ]
+                },
+                {
+                    "scopus_id": "38662404700",
+                    "name": "Gherardi L.A.",
+                    "affiliation_id": [
+                        "60121458"
+                    ]
+                },
+                {
+                    "scopus_id": "55531067600",
+                    "name": "Lany N.",
+                    "affiliation_id": [
+                        "60031707"
+                    ]
+                },
+                {
+                    "scopus_id": "56671374600",
+                    "name": "Portales-Reyes C.",
+                    "affiliation_id": [
+                        "60029445"
+                    ]
+                },
+                {
+                    "scopus_id": "8930868500",
+                    "name": "Rypel A.L.",
+                    "affiliation_id": [
+                        "60014439"
+                    ]
+                },
+                {
+                    "scopus_id": "36926276800",
+                    "name": "Sheppard L.W.",
+                    "affiliation_id": [
+                        "60015457"
+                    ]
+                },
+                {
+                    "scopus_id": "56305405200",
+                    "name": "Walter J.A.",
+                    "affiliation_id": [
+                        "60021918",
+                        "60159938"
+                    ]
+                },
+                {
+                    "scopus_id": "6603129971",
+                    "name": "Suding K.N.",
+                    "affiliation_id": [
+                        "60000221"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Ecology",
+            "issn": "00129658",
+            "cover_date": "2022-04-01",
+            "venue": "Journal",
+            "volume": "103",
+            "issue": "4",
+            "page_range": null,
+            "doi": "10.1002/ecy.3650"
+        },
+        {
             "title": "Micro-scale geography of synchrony in a serpentine plant community",
             "eid": "2-s2.0-85091486558",
             "authors": [
@@ -13097,149 +13240,6 @@
             "issue": "4",
             "page_range": "195-202",
             "doi": "10.1046/j.1526-0992.2001.01041.x"
-        },
-        {
-            "title": "The long and the short of it: Mechanisms of synchronous and compensatory dynamics across temporal scales",
-            "eid": "2-s2.0-85126007064",
-            "authors": [
-                {
-                    "scopus_id": "57220369954",
-                    "name": "Shoemaker L.G.",
-                    "affiliation_id": [
-                        "60008827"
-                    ]
-                },
-                {
-                    "scopus_id": "37074563800",
-                    "name": "Hallett L.M.",
-                    "affiliation_id": [
-                        "60012317"
-                    ]
-                },
-                {
-                    "scopus_id": "57188699351",
-                    "name": "Zhao L.",
-                    "affiliation_id": [
-                        "60013551"
-                    ]
-                },
-                {
-                    "scopus_id": "6603661153",
-                    "name": "Reuman D.C.",
-                    "affiliation_id": [
-                        "60015457"
-                    ]
-                },
-                {
-                    "scopus_id": "56245379600",
-                    "name": "Wang S.",
-                    "affiliation_id": [
-                        "60014966"
-                    ]
-                },
-                {
-                    "scopus_id": "57207605233",
-                    "name": "Cottingham K.L.",
-                    "affiliation_id": [
-                        "60170289"
-                    ]
-                },
-                {
-                    "scopus_id": "7202267633",
-                    "name": "Hobbs R.J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "56313856700",
-                    "name": "Castorani M.C.N.",
-                    "affiliation_id": [
-                        "60021918"
-                    ]
-                },
-                {
-                    "scopus_id": "7006534739",
-                    "name": "Downing A.L.",
-                    "affiliation_id": [
-                        "60015120"
-                    ]
-                },
-                {
-                    "scopus_id": "57191571613",
-                    "name": "Dudney J.C.",
-                    "affiliation_id": [
-                        "60014439",
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "56494623600",
-                    "name": "Fey S.B.",
-                    "affiliation_id": [
-                        "60022844"
-                    ]
-                },
-                {
-                    "scopus_id": "38662404700",
-                    "name": "Gherardi L.A.",
-                    "affiliation_id": [
-                        "60121458"
-                    ]
-                },
-                {
-                    "scopus_id": "55531067600",
-                    "name": "Lany N.",
-                    "affiliation_id": [
-                        "60031707"
-                    ]
-                },
-                {
-                    "scopus_id": "56671374600",
-                    "name": "Portales-Reyes C.",
-                    "affiliation_id": [
-                        "60029445"
-                    ]
-                },
-                {
-                    "scopus_id": "8930868500",
-                    "name": "Rypel A.L.",
-                    "affiliation_id": [
-                        "60014439"
-                    ]
-                },
-                {
-                    "scopus_id": "36926276800",
-                    "name": "Sheppard L.W.",
-                    "affiliation_id": [
-                        "60015457"
-                    ]
-                },
-                {
-                    "scopus_id": "56305405200",
-                    "name": "Walter J.A.",
-                    "affiliation_id": [
-                        "60021918",
-                        "60159938"
-                    ]
-                },
-                {
-                    "scopus_id": "6603129971",
-                    "name": "Suding K.N.",
-                    "affiliation_id": [
-                        "60000221"
-                    ]
-                }
-            ],
-            "citations": 14,
-            "publication_name": "Ecology",
-            "issn": "00129658",
-            "cover_date": "2022-04-01",
-            "venue": "Journal",
-            "volume": "103",
-            "issue": "4",
-            "page_range": null,
-            "doi": "10.1002/ecy.3650"
         },
         {
             "title": "Nutrient enrichment diminishes plant diversity and density, and alters long-term ecological trajectories, in a biodiverse forest restoration",
@@ -14224,6 +14224,49 @@
             "doi": "10.1007/BF00156624"
         },
         {
+            "title": "Glomalin-Related Soil Protein Reflects the Heterogeneity of Substrate and Vegetation in the campo rupestre Ecosystem",
+            "eid": "2-s2.0-85102069360",
+            "authors": [
+                {
+                    "scopus_id": "7005491006",
+                    "name": "Gomes V.M.",
+                    "affiliation_id": [
+                        "60030074"
+                    ]
+                },
+                {
+                    "scopus_id": "51663102800",
+                    "name": "Assis I.R.",
+                    "affiliation_id": [
+                        "60013918"
+                    ]
+                },
+                {
+                    "scopus_id": "7202267633",
+                    "name": "Hobbs R.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7101790742",
+                    "name": "Fernandes G.W.",
+                    "affiliation_id": [
+                        "60030074"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Journal of Soil Science and Plant Nutrition",
+            "issn": "07189508",
+            "cover_date": "2021-03-01",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "1",
+            "page_range": "733-743",
+            "doi": "10.1007/s42729-020-00396-7"
+        },
+        {
             "title": "Restoration ecology: Are we making an impact?",
             "eid": "2-s2.0-37249006218",
             "authors": [
@@ -14415,49 +14458,6 @@
             "issue": "5",
             "page_range": "1359-1376",
             "doi": "10.1007/s10980-021-01207-9"
-        },
-        {
-            "title": "Glomalin-Related Soil Protein Reflects the Heterogeneity of Substrate and Vegetation in the campo rupestre Ecosystem",
-            "eid": "2-s2.0-85102069360",
-            "authors": [
-                {
-                    "scopus_id": "7005491006",
-                    "name": "Gomes V.M.",
-                    "affiliation_id": [
-                        "60030074"
-                    ]
-                },
-                {
-                    "scopus_id": "51663102800",
-                    "name": "Assis I.R.",
-                    "affiliation_id": [
-                        "60013918"
-                    ]
-                },
-                {
-                    "scopus_id": "7202267633",
-                    "name": "Hobbs R.J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7101790742",
-                    "name": "Fernandes G.W.",
-                    "affiliation_id": [
-                        "60030074"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "Journal of Soil Science and Plant Nutrition",
-            "issn": "07189508",
-            "cover_date": "2021-03-01",
-            "venue": "Journal",
-            "volume": "21",
-            "issue": "1",
-            "page_range": "733-743",
-            "doi": "10.1007/s42729-020-00396-7"
         },
         {
             "title": "A triage framework for managing novel, hybrid, and designed marine ecosystems",
@@ -16091,6 +16091,57 @@
             "doi": "10.1002/ece3.7218"
         },
         {
+            "title": "Gut passage time and viability of seeds consumed by Australian marsupials",
+            "eid": "2-s2.0-85096471823",
+            "authors": [
+                {
+                    "scopus_id": "57191544099",
+                    "name": "Beca G.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57211600693",
+                    "name": "Palmer B.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "14072178800",
+                    "name": "Valentine L.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "55607854400",
+                    "name": "Erickson T.E.",
+                    "affiliation_id": [
+                        "60031806",
+                        "101438905"
+                    ]
+                },
+                {
+                    "scopus_id": "7202267633",
+                    "name": "Hobbs R.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Australian Mammalogy",
+            "issn": "03100049",
+            "cover_date": "2020-01-01",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1071/AM20063"
+        },
+        {
             "title": "Revegetation guide to the Central Wheatbelt",
             "eid": "2-s2.0-85040900490",
             "authors": [
@@ -16186,9 +16237,16 @@
             "doi": "10.1002/ece3.8496"
         },
         {
-            "title": "Gut passage time and viability of seeds consumed by Australian marsupials",
-            "eid": "2-s2.0-85096471823",
+            "title": "New evidence of seed dispersal identified in Australian mammals",
+            "eid": "2-s2.0-85108563044",
             "authors": [
+                {
+                    "scopus_id": "57211600693",
+                    "name": "Palmer B.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
                 {
                     "scopus_id": "57191544099",
                     "name": "Beca G.",
@@ -16197,8 +16255,16 @@
                     ]
                 },
                 {
-                    "scopus_id": "57211600693",
-                    "name": "Palmer B.",
+                    "scopus_id": "55607854400",
+                    "name": "Erickson T.E.",
+                    "affiliation_id": [
+                        "60031806",
+                        "126172956"
+                    ]
+                },
+                {
+                    "scopus_id": "7202267633",
+                    "name": "Hobbs R.J.",
                     "affiliation_id": [
                         "60031806"
                     ]
@@ -16209,32 +16275,17 @@
                     "affiliation_id": [
                         "60031806"
                     ]
-                },
-                {
-                    "scopus_id": "55607854400",
-                    "name": "Erickson T.E.",
-                    "affiliation_id": [
-                        "60031806",
-                        "101438905"
-                    ]
-                },
-                {
-                    "scopus_id": "7202267633",
-                    "name": "Hobbs R.J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
                 }
             ],
             "citations": 4,
-            "publication_name": "Australian Mammalogy",
-            "issn": "03100049",
-            "cover_date": "2020-01-01",
+            "publication_name": "Wildlife Research",
+            "issn": "10353712",
+            "cover_date": "2021-10-01",
             "venue": "Journal",
-            "volume": "",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1071/AM20063"
+            "volume": "48",
+            "issue": "7",
+            "page_range": "635-642",
+            "doi": "10.1071/WR21015"
         },
         {
             "title": "Rewilding and restoration",
@@ -16548,57 +16599,6 @@
             "issue": "1",
             "page_range": "1-2",
             "doi": "10.1046/j.1442-8903.2000.00023.x"
-        },
-        {
-            "title": "New evidence of seed dispersal identified in Australian mammals",
-            "eid": "2-s2.0-85108563044",
-            "authors": [
-                {
-                    "scopus_id": "57211600693",
-                    "name": "Palmer B.J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57191544099",
-                    "name": "Beca G.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "55607854400",
-                    "name": "Erickson T.E.",
-                    "affiliation_id": [
-                        "60031806",
-                        "126172956"
-                    ]
-                },
-                {
-                    "scopus_id": "7202267633",
-                    "name": "Hobbs R.J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "14072178800",
-                    "name": "Valentine L.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 3,
-            "publication_name": "Wildlife Research",
-            "issn": "10353712",
-            "cover_date": "2021-10-01",
-            "venue": "Journal",
-            "volume": "48",
-            "issue": "7",
-            "page_range": "635-642",
-            "doi": "10.1071/WR21015"
         },
         {
             "title": "Environmental Management and Restoration in a Changing Climate",
@@ -17592,10 +17592,10 @@
             "citations": 0,
             "publication_name": "Restoration Ecology",
             "issn": "10612971",
-            "cover_date": "2024-01-01",
+            "cover_date": "2024-07-01",
             "venue": "Journal",
-            "volume": "",
-            "issue": "",
+            "volume": "32",
+            "issue": "5",
             "page_range": null,
             "doi": "10.1111/rec.14152"
         },
@@ -18053,6 +18053,5 @@
             "$": "Earth and Planetary Sciences (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:50:38",
-    "c-score": null
+    "date fetched": "2024-07-12 20:59:44"
 }

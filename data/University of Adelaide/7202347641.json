@@ -1999,7 +1999,7 @@
                     "scopus_id": "6507266975",
                     "name": "Braund P.S.",
                     "affiliation_id": [
-                        "60033125",
+                        "60171766",
                         "60009171"
                     ]
                 },
@@ -2049,7 +2049,7 @@
                     "scopus_id": "7006672694",
                     "name": "Tomaszewski M.",
                     "affiliation_id": [
-                        "60033125",
+                        "60171766",
                         "60009171"
                     ]
                 },
@@ -2220,7 +2220,7 @@
                     ]
                 }
             ],
-            "citations": 1678,
+            "citations": 1681,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2011-10-06",
@@ -2966,7 +2966,7 @@
                     "scopus_id": "26658649200",
                     "name": "Rafelt S.",
                     "affiliation_id": [
-                        "60033125"
+                        "60171766"
                     ]
                 },
                 {
@@ -2986,7 +2986,7 @@
                     ]
                 }
             ],
-            "citations": 1541,
+            "citations": 1542,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2010-10-14",
@@ -3770,7 +3770,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 1124,
+            "citations": 1128,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2015-02-12",
@@ -3800,7 +3800,7 @@
                     ]
                 }
             ],
-            "citations": 1003,
+            "citations": 1005,
             "publication_name": "Lancet",
             "issn": "01406736",
             "cover_date": "2003-02-15",
@@ -5814,7 +5814,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 752,
+            "citations": 753,
             "publication_name": "PLoS Medicine",
             "issn": "15491277",
             "cover_date": "2013-02-05",
@@ -7121,7 +7121,7 @@
                     ]
                 }
             ],
-            "citations": 625,
+            "citations": 626,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2012-06-01",
@@ -7860,7 +7860,7 @@
                     ]
                 }
             ],
-            "citations": 580,
+            "citations": 582,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2013-01-01",
@@ -8064,7 +8064,7 @@
                     "scopus_id": "7403692293",
                     "name": "Lin D.Y.",
                     "affiliation_id": [
-                        "60025111"
+                        "60016639"
                     ]
                 },
                 {
@@ -8615,7 +8615,7 @@
                     ]
                 }
             ],
-            "citations": 479,
+            "citations": 480,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2013-05-01",
@@ -9313,7 +9313,7 @@
                     ]
                 }
             ],
-            "citations": 471,
+            "citations": 472,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2010-01-01",
@@ -9401,7 +9401,7 @@
                     ]
                 }
             ],
-            "citations": 454,
+            "citations": 456,
             "publication_name": "Human Molecular Genetics",
             "issn": "09646906",
             "cover_date": "2006-06-01",
@@ -13516,7 +13516,7 @@
                     ]
                 }
             ],
-            "citations": 325,
+            "citations": 326,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2012-10-11",
@@ -13581,7 +13581,7 @@
                     ]
                 }
             ],
-            "citations": 317,
+            "citations": 318,
             "publication_name": "Scientific Reports",
             "issn": "",
             "cover_date": "2015-07-09",
@@ -14350,7 +14350,7 @@
                     ]
                 }
             ],
-            "citations": 311,
+            "citations": 312,
             "publication_name": "PLoS Genetics",
             "issn": "15537390",
             "cover_date": "2013-06-01",
@@ -14853,7 +14853,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 309,
+            "citations": 310,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2011-09-01",
@@ -15477,7 +15477,7 @@
                     ]
                 }
             ],
-            "citations": 297,
+            "citations": 299,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2012-05-01",
@@ -18012,7 +18012,7 @@
                     ]
                 }
             ],
-            "citations": 272,
+            "citations": 273,
             "publication_name": "PLoS Genetics",
             "issn": "15537390",
             "cover_date": "2015-01-01",
@@ -18584,7 +18584,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 249,
+            "citations": 250,
             "publication_name": "BMJ",
             "issn": "",
             "cover_date": "2011-02-19",
@@ -18725,7 +18725,7 @@
                     ]
                 }
             ],
-            "citations": 213,
+            "citations": 214,
             "publication_name": "Lancet",
             "issn": "01406736",
             "cover_date": "2007-06-16",
@@ -18942,7 +18942,7 @@
                     ]
                 }
             ],
-            "citations": 199,
+            "citations": 201,
             "publication_name": "Genomics",
             "issn": "08887543",
             "cover_date": "2003-01-01",
@@ -20695,7 +20695,7 @@
                     ]
                 }
             ],
-            "citations": 154,
+            "citations": 155,
             "publication_name": "American Journal of Respiratory and Critical Care Medicine",
             "issn": "1073449X",
             "cover_date": "2002-12-01",
@@ -22480,7 +22480,7 @@
                     ]
                 }
             ],
-            "citations": 145,
+            "citations": 146,
             "publication_name": "International Journal of Epidemiology",
             "issn": "03005771",
             "cover_date": "2010-01-01",
@@ -23234,7 +23234,7 @@
                     ]
                 }
             ],
-            "citations": 144,
+            "citations": 145,
             "publication_name": "PLoS Genetics",
             "issn": "15537390",
             "cover_date": "2017-04-01",
@@ -25421,85 +25421,6 @@
             "doi": "10.1111/j.1365-2222.1995.tb01111.x"
         },
         {
-            "title": "Association between osteopontin and human abdominal aortic aneurysm",
-            "eid": "2-s2.0-33847020790",
-            "authors": [
-                {
-                    "scopus_id": "7005096118",
-                    "name": "Golledge J.",
-                    "affiliation_id": [
-                        "60019870",
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "15069095600",
-                    "name": "Muller J.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "35752517300",
-                    "name": "Shephard N.",
-                    "affiliation_id": [
-                        "60005202"
-                    ]
-                },
-                {
-                    "scopus_id": "24358911300",
-                    "name": "Clancy P.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "23036699400",
-                    "name": "Smallwood L.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "8596985800",
-                    "name": "Moran C.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "57191255361",
-                    "name": "Dear A.E.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.J.",
-                    "affiliation_id": [
-                        "60005202"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 117,
-            "publication_name": "Arteriosclerosis, Thrombosis, and Vascular Biology",
-            "issn": "10795642",
-            "cover_date": "2007-03-01",
-            "venue": "Journal",
-            "volume": "27",
-            "issue": "3",
-            "page_range": "655-660",
-            "doi": "10.1161/01.ATV.0000255560.49503.4e"
-        },
-        {
             "title": "Toward a roadmap in global biobanking for health",
             "eid": "2-s2.0-84867741263",
             "authors": [
@@ -25685,7 +25606,7 @@
                     ]
                 }
             ],
-            "citations": 116,
+            "citations": 117,
             "publication_name": "European Journal of Human Genetics",
             "issn": "10184813",
             "cover_date": "2012-11-01",
@@ -25694,6 +25615,85 @@
             "issue": "11",
             "page_range": "1105-1111",
             "doi": "10.1038/ejhg.2012.96"
+        },
+        {
+            "title": "Association between osteopontin and human abdominal aortic aneurysm",
+            "eid": "2-s2.0-33847020790",
+            "authors": [
+                {
+                    "scopus_id": "7005096118",
+                    "name": "Golledge J.",
+                    "affiliation_id": [
+                        "60019870",
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "15069095600",
+                    "name": "Muller J.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "35752517300",
+                    "name": "Shephard N.",
+                    "affiliation_id": [
+                        "60005202"
+                    ]
+                },
+                {
+                    "scopus_id": "24358911300",
+                    "name": "Clancy P.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "23036699400",
+                    "name": "Smallwood L.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "8596985800",
+                    "name": "Moran C.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "57191255361",
+                    "name": "Dear A.E.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.J.",
+                    "affiliation_id": [
+                        "60005202"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 117,
+            "publication_name": "Arteriosclerosis, Thrombosis, and Vascular Biology",
+            "issn": "10795642",
+            "cover_date": "2007-03-01",
+            "venue": "Journal",
+            "volume": "27",
+            "issue": "3",
+            "page_range": "655-660",
+            "doi": "10.1161/01.ATV.0000255560.49503.4e"
         },
         {
             "title": "Perinatal and childhood origins of cardiovascular disease",
@@ -26304,6 +26304,105 @@
             "doi": "10.1136/jmg.35.6.463"
         },
         {
+            "title": "A survey of clinicians on the use of artificial intelligence in ophthalmology, dermatology, radiology and radiation oncology",
+            "eid": "2-s2.0-85102064023",
+            "authors": [
+                {
+                    "scopus_id": "57201291269",
+                    "name": "Scheetz J.",
+                    "affiliation_id": [
+                        "60019331"
+                    ]
+                },
+                {
+                    "scopus_id": "57201773662",
+                    "name": "Rothschild P.",
+                    "affiliation_id": [
+                        "60019331",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56684726100",
+                    "name": "McGuinness M.",
+                    "affiliation_id": [
+                        "60019331",
+                        "60118547"
+                    ]
+                },
+                {
+                    "scopus_id": "56335458600",
+                    "name": "Hadoux X.",
+                    "affiliation_id": [
+                        "60019331"
+                    ]
+                },
+                {
+                    "scopus_id": "7102788402",
+                    "name": "Soyer H.P.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60025258"
+                    ]
+                },
+                {
+                    "scopus_id": "7005192283",
+                    "name": "Janda M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57222259602",
+                    "name": "Condon J.J.J.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "57190029830",
+                    "name": "Oakden-Rayner L.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.J.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "57192643589",
+                    "name": "Keel S.",
+                    "affiliation_id": [
+                        "60019331"
+                    ]
+                },
+                {
+                    "scopus_id": "56804917700",
+                    "name": "van Wijngaarden P.",
+                    "affiliation_id": [
+                        "60019331",
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 102,
+            "publication_name": "Scientific Reports",
+            "issn": "",
+            "cover_date": "2021-12-01",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1038/s41598-021-84698-5"
+        },
+        {
             "title": "JLIN: A java based linkage disequilibrium plotter",
             "eid": "2-s2.0-33644950268",
             "authors": [
@@ -26695,105 +26794,6 @@
             "issue": "4",
             "page_range": "445-459",
             "doi": "10.1007/s00439-009-0643-8"
-        },
-        {
-            "title": "A survey of clinicians on the use of artificial intelligence in ophthalmology, dermatology, radiology and radiation oncology",
-            "eid": "2-s2.0-85102064023",
-            "authors": [
-                {
-                    "scopus_id": "57201291269",
-                    "name": "Scheetz J.",
-                    "affiliation_id": [
-                        "60019331"
-                    ]
-                },
-                {
-                    "scopus_id": "57201773662",
-                    "name": "Rothschild P.",
-                    "affiliation_id": [
-                        "60019331",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56684726100",
-                    "name": "McGuinness M.",
-                    "affiliation_id": [
-                        "60019331",
-                        "60118547"
-                    ]
-                },
-                {
-                    "scopus_id": "56335458600",
-                    "name": "Hadoux X.",
-                    "affiliation_id": [
-                        "60019331"
-                    ]
-                },
-                {
-                    "scopus_id": "7102788402",
-                    "name": "Soyer H.P.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60025258"
-                    ]
-                },
-                {
-                    "scopus_id": "7005192283",
-                    "name": "Janda M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57222259602",
-                    "name": "Condon J.J.J.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "57190029830",
-                    "name": "Oakden-Rayner L.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.J.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "57192643589",
-                    "name": "Keel S.",
-                    "affiliation_id": [
-                        "60019331"
-                    ]
-                },
-                {
-                    "scopus_id": "56804917700",
-                    "name": "van Wijngaarden P.",
-                    "affiliation_id": [
-                        "60019331",
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 99,
-            "publication_name": "Scientific Reports",
-            "issn": "",
-            "cover_date": "2021-12-01",
-            "venue": "Journal",
-            "volume": "11",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1038/s41598-021-84698-5"
         },
         {
             "title": "Genome-wide linkage analysis of bronchodilator responsiveness and post-bronchodilator spirometric phenotypes in chronic obstructive pulmonary disease",
@@ -28068,7 +28068,7 @@
                     "scopus_id": "6604075920",
                     "name": "Catellier D.",
                     "affiliation_id": [
-                        "60025111"
+                        "60016639"
                     ]
                 },
                 {
@@ -28755,6 +28755,535 @@
             "issue": "6",
             "page_range": "1805-1812",
             "doi": "10.2337/db10-1575"
+        },
+        {
+            "title": "Causal effect of plasminogen activator inhibitor type 1 on coronary heart disease",
+            "eid": "2-s2.0-85020419920",
+            "authors": [
+                {
+                    "scopus_id": "53364434600",
+                    "name": "Song C.",
+                    "affiliation_id": [
+                        "60022386",
+                        "60005281"
+                    ]
+                },
+                {
+                    "scopus_id": "57722208500",
+                    "name": "Burgess S.",
+                    "affiliation_id": [
+                        "60120011"
+                    ]
+                },
+                {
+                    "scopus_id": "57222589447",
+                    "name": "Eicher J.D.",
+                    "affiliation_id": [
+                        "60022386",
+                        "60005281"
+                    ]
+                },
+                {
+                    "scopus_id": "7202453700",
+                    "name": "O'Donnell C.J.",
+                    "affiliation_id": [
+                        "60022386",
+                        "112587752"
+                    ]
+                },
+                {
+                    "scopus_id": "57206922867",
+                    "name": "Johnson A.D.",
+                    "affiliation_id": [
+                        "60022386",
+                        "60005281"
+                    ]
+                },
+                {
+                    "scopus_id": "56640005600",
+                    "name": "Huang J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "12242471200",
+                    "name": "Sabater-Lleal M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57202567488",
+                    "name": "Asselbergs F.W.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6701660940",
+                    "name": "Tregouet D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "37098955800",
+                    "name": "Shin S.Y.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7402608341",
+                    "name": "Ding J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7005604946",
+                    "name": "Baumert J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "40361472700",
+                    "name": "Oudot-Mellakh T.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "30467529300",
+                    "name": "Folkersen L.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7403173535",
+                    "name": "Smith N.L.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7404835124",
+                    "name": "Williams S.M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57916394200",
+                    "name": "Ikram M.A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "34872560400",
+                    "name": "Kleber M.E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7401884069",
+                    "name": "Becker D.M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "44061988600",
+                    "name": "Truong V.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6603325445",
+                    "name": "Mychaleckyj J.C.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "25622860500",
+                    "name": "Tang W.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7404077037",
+                    "name": "Yang Q.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6602244170",
+                    "name": "Sennblad B.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57199210697",
+                    "name": "Moore J.H.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "8059345500",
+                    "name": "Williams F.M.K.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "16023891700",
+                    "name": "Dehghan A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "24779993900",
+                    "name": "Silbernagel G.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35241422200",
+                    "name": "Schrijvers E.M.C.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55501035800",
+                    "name": "Smith S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "26649957300",
+                    "name": "Karakas M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57206318627",
+                    "name": "Tofler G.H.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7007036421",
+                    "name": "Silveira A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55124900800",
+                    "name": "Navis G.J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57197441343",
+                    "name": "Lohman K.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57211183641",
+                    "name": "Chen M.H.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7402105900",
+                    "name": "Peters A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "14323071100",
+                    "name": "Goel A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "26767851800",
+                    "name": "Hopewell J.C.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57214438415",
+                    "name": "Chambers J.C.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57191531896",
+                    "name": "Saleheen D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "13002970100",
+                    "name": "Lundmark P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35374213400",
+                    "name": "Psaty B.M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "20434386200",
+                    "name": "Strawbridge R.J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "14624780200",
+                    "name": "Boehm B.O.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7402910500",
+                    "name": "Carter A.M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35242861500",
+                    "name": "Meisinger C.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57217855716",
+                    "name": "Peden J.F.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6603292486",
+                    "name": "Bis J.C.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006533169",
+                    "name": "McKnight B.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6602262468",
+                    "name": "\u00d6hrvik J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7403523428",
+                    "name": "Taylor K.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35375531100",
+                    "name": "Franzosi M.G.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57210975060",
+                    "name": "Seedorf U.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57201515523",
+                    "name": "Collins R.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006378998",
+                    "name": "Franco-Cereceda A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7005911199",
+                    "name": "Syv\u00e4nen A.C.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7005360646",
+                    "name": "Goodall A.H.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6701472152",
+                    "name": "Yanek L.R.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7103113524",
+                    "name": "Cushman M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57202315232",
+                    "name": "M\u00fcller-Nurasyid M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "36043809200",
+                    "name": "Folsom A.R.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "36096488700",
+                    "name": "Basu S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7003781591",
+                    "name": "Matijevic N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7103238396",
+                    "name": "van Gilst W.H.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "56188131900",
+                    "name": "Kooner J.S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006642150",
+                    "name": "Danesh J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55248074700",
+                    "name": "Clarke R.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006125159",
+                    "name": "Meigs J.B.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6602176567",
+                    "name": "Kathiresan S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7202322545",
+                    "name": "Reilly M.P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "23482042200",
+                    "name": "Klopp N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35375662400",
+                    "name": "Harris T.B.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006382883",
+                    "name": "Winkelmann B.R.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "21933603900",
+                    "name": "Grant P.J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7004140531",
+                    "name": "Hillege H.L.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7004286071",
+                    "name": "Watkins H.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35351391300",
+                    "name": "Spector T.D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7202306431",
+                    "name": "Becker L.C.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7102382615",
+                    "name": "Tracy R.P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57220877383",
+                    "name": "M\u00e4rz W.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35231615000",
+                    "name": "Uitterlinden A.G.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57197587414",
+                    "name": "Eriksson P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7101622418",
+                    "name": "Cambien F.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7003880520",
+                    "name": "Morange P.E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55586732900",
+                    "name": "Koenig W.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55800239500",
+                    "name": "Soranzo N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6602378288",
+                    "name": "van der Harst P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "58871676000",
+                    "name": "Liu Y.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7101682939",
+                    "name": "Hamsten A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "14029825300",
+                    "name": "Ehret G.B.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7005376453",
+                    "name": "Munroe P.B.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "14120284900",
+                    "name": "Rice K.M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6602159493",
+                    "name": "Bochud M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6701612213",
+                    "name": "Chasman D.I.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "56424163100",
+                    "name": "Smith A.V.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57207482196",
+                    "name": "Tobin M.D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57195139489",
+                    "name": "Verwoert G.C.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57198416377",
+                    "name": "Hwang S.J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "18133984000",
+                    "name": "Pihur V.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 94,
+            "publication_name": "Journal of the American Heart Association",
+            "issn": "",
+            "cover_date": "2017-06-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "6",
+            "page_range": null,
+            "doi": "10.1161/JAHA.116.004918"
         },
         {
             "title": "Common variants at 12q15 and 12q24 are associated with infant head circumference",
@@ -29612,535 +30141,6 @@
             "doi": "10.1164/rccm.200110-018OC"
         },
         {
-            "title": "Causal effect of plasminogen activator inhibitor type 1 on coronary heart disease",
-            "eid": "2-s2.0-85020419920",
-            "authors": [
-                {
-                    "scopus_id": "53364434600",
-                    "name": "Song C.",
-                    "affiliation_id": [
-                        "60022386",
-                        "60005281"
-                    ]
-                },
-                {
-                    "scopus_id": "57722208500",
-                    "name": "Burgess S.",
-                    "affiliation_id": [
-                        "60120011"
-                    ]
-                },
-                {
-                    "scopus_id": "57222589447",
-                    "name": "Eicher J.D.",
-                    "affiliation_id": [
-                        "60022386",
-                        "60005281"
-                    ]
-                },
-                {
-                    "scopus_id": "7202453700",
-                    "name": "O'Donnell C.J.",
-                    "affiliation_id": [
-                        "60022386",
-                        "112587752"
-                    ]
-                },
-                {
-                    "scopus_id": "57206922867",
-                    "name": "Johnson A.D.",
-                    "affiliation_id": [
-                        "60022386",
-                        "60005281"
-                    ]
-                },
-                {
-                    "scopus_id": "56640005600",
-                    "name": "Huang J.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "12242471200",
-                    "name": "Sabater-Lleal M.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57202567488",
-                    "name": "Asselbergs F.W.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "6701660940",
-                    "name": "Tregouet D.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "37098955800",
-                    "name": "Shin S.Y.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7402608341",
-                    "name": "Ding J.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7005604946",
-                    "name": "Baumert J.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "40361472700",
-                    "name": "Oudot-Mellakh T.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "30467529300",
-                    "name": "Folkersen L.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7403173535",
-                    "name": "Smith N.L.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7404835124",
-                    "name": "Williams S.M.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57916394200",
-                    "name": "Ikram M.A.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "34872560400",
-                    "name": "Kleber M.E.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7401884069",
-                    "name": "Becker D.M.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "44061988600",
-                    "name": "Truong V.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "6603325445",
-                    "name": "Mychaleckyj J.C.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "25622860500",
-                    "name": "Tang W.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7404077037",
-                    "name": "Yang Q.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "6602244170",
-                    "name": "Sennblad B.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57199210697",
-                    "name": "Moore J.H.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "8059345500",
-                    "name": "Williams F.M.K.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "16023891700",
-                    "name": "Dehghan A.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "24779993900",
-                    "name": "Silbernagel G.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "35241422200",
-                    "name": "Schrijvers E.M.C.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "55501035800",
-                    "name": "Smith S.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "26649957300",
-                    "name": "Karakas M.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57206318627",
-                    "name": "Tofler G.H.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7007036421",
-                    "name": "Silveira A.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "55124900800",
-                    "name": "Navis G.J.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57197441343",
-                    "name": "Lohman K.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57211183641",
-                    "name": "Chen M.H.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7402105900",
-                    "name": "Peters A.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "14323071100",
-                    "name": "Goel A.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "26767851800",
-                    "name": "Hopewell J.C.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57214438415",
-                    "name": "Chambers J.C.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57191531896",
-                    "name": "Saleheen D.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "13002970100",
-                    "name": "Lundmark P.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "35374213400",
-                    "name": "Psaty B.M.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "20434386200",
-                    "name": "Strawbridge R.J.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "14624780200",
-                    "name": "Boehm B.O.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7402910500",
-                    "name": "Carter A.M.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "35242861500",
-                    "name": "Meisinger C.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57217855716",
-                    "name": "Peden J.F.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "6603292486",
-                    "name": "Bis J.C.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7006533169",
-                    "name": "McKnight B.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "6602262468",
-                    "name": "\u00d6hrvik J.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7403523428",
-                    "name": "Taylor K.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "35375531100",
-                    "name": "Franzosi M.G.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57210975060",
-                    "name": "Seedorf U.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57201515523",
-                    "name": "Collins R.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7006378998",
-                    "name": "Franco-Cereceda A.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7005911199",
-                    "name": "Syv\u00e4nen A.C.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7005360646",
-                    "name": "Goodall A.H.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "6701472152",
-                    "name": "Yanek L.R.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7103113524",
-                    "name": "Cushman M.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57202315232",
-                    "name": "M\u00fcller-Nurasyid M.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "36043809200",
-                    "name": "Folsom A.R.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "36096488700",
-                    "name": "Basu S.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7003781591",
-                    "name": "Matijevic N.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7103238396",
-                    "name": "van Gilst W.H.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "56188131900",
-                    "name": "Kooner J.S.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7006642150",
-                    "name": "Danesh J.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "55248074700",
-                    "name": "Clarke R.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7006125159",
-                    "name": "Meigs J.B.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "6602176567",
-                    "name": "Kathiresan S.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7202322545",
-                    "name": "Reilly M.P.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "23482042200",
-                    "name": "Klopp N.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "35375662400",
-                    "name": "Harris T.B.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7006382883",
-                    "name": "Winkelmann B.R.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "21933603900",
-                    "name": "Grant P.J.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7004140531",
-                    "name": "Hillege H.L.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7004286071",
-                    "name": "Watkins H.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "35351391300",
-                    "name": "Spector T.D.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7202306431",
-                    "name": "Becker L.C.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7102382615",
-                    "name": "Tracy R.P.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57220877383",
-                    "name": "M\u00e4rz W.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "35231615000",
-                    "name": "Uitterlinden A.G.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57197587414",
-                    "name": "Eriksson P.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7101622418",
-                    "name": "Cambien F.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7003880520",
-                    "name": "Morange P.E.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "55586732900",
-                    "name": "Koenig W.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "55800239500",
-                    "name": "Soranzo N.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "6602378288",
-                    "name": "van der Harst P.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "58871676000",
-                    "name": "Liu Y.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7101682939",
-                    "name": "Hamsten A.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "14029825300",
-                    "name": "Ehret G.B.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7005376453",
-                    "name": "Munroe P.B.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "14120284900",
-                    "name": "Rice K.M.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "6602159493",
-                    "name": "Bochud M.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "6701612213",
-                    "name": "Chasman D.I.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "56424163100",
-                    "name": "Smith A.V.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57207482196",
-                    "name": "Tobin M.D.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57195139489",
-                    "name": "Verwoert G.C.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57198416377",
-                    "name": "Hwang S.J.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "18133984000",
-                    "name": "Pihur V.",
-                    "affiliation_id": []
-                }
-            ],
-            "citations": 92,
-            "publication_name": "Journal of the American Heart Association",
-            "issn": "",
-            "cover_date": "2017-06-01",
-            "venue": "Journal",
-            "volume": "6",
-            "issue": "6",
-            "page_range": null,
-            "doi": "10.1161/JAHA.116.004918"
-        },
-        {
             "title": "Linkage of chromosome 5q and 11q gene markers to asthma-associated quantitative traits in Australian children",
             "eid": "2-s2.0-0032417095",
             "authors": [
@@ -30266,180 +30266,6 @@
             "issue": "4",
             "page_range": "433-439",
             "doi": "10.1111/j.1365-2222.2006.02457.x"
-        },
-        {
-            "title": "The association of C-reactive protein and CRP genotype with coronary heart disease: Findings from five studies with 4,610 cases amongst 18,637 participants",
-            "eid": "2-s2.0-51649121111",
-            "authors": [
-                {
-                    "scopus_id": "7102452820",
-                    "name": "Lawlor D.A.",
-                    "affiliation_id": [
-                        "60020650",
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "8674387800",
-                    "name": "Harbord R.M.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "35355373400",
-                    "name": "Timpson N.J.",
-                    "affiliation_id": [
-                        "60020650",
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "57212976450",
-                    "name": "Lowe G.D.O.",
-                    "affiliation_id": [
-                        "60001490"
-                    ]
-                },
-                {
-                    "scopus_id": "7006433197",
-                    "name": "Rumley A.",
-                    "affiliation_id": [
-                        "60001490"
-                    ]
-                },
-                {
-                    "scopus_id": "6603377285",
-                    "name": "Gaunt T.R.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "7102890161",
-                    "name": "Baker I.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "7006211976",
-                    "name": "Yarnell J.W.G.",
-                    "affiliation_id": [
-                        "60029738"
-                    ]
-                },
-                {
-                    "scopus_id": "7004391239",
-                    "name": "Kivim\u00e4ki M.",
-                    "affiliation_id": [
-                        "60022148"
-                    ]
-                },
-                {
-                    "scopus_id": "57189230664",
-                    "name": "Kumari M.",
-                    "affiliation_id": [
-                        "60022148"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "26426193300",
-                    "name": "Jamrozik K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7102816661",
-                    "name": "Hankey G.J.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "35481288100",
-                    "name": "Almeida O.P.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7006112267",
-                    "name": "Flicker L.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57200630008",
-                    "name": "Warrington N.",
-                    "affiliation_id": [
-                        "60005202"
-                    ]
-                },
-                {
-                    "scopus_id": "35418876900",
-                    "name": "Marmot M.G.",
-                    "affiliation_id": [
-                        "60022148"
-                    ]
-                },
-                {
-                    "scopus_id": "7006649063",
-                    "name": "Ben-Shlomo Y.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.J.",
-                    "affiliation_id": [
-                        "60020650",
-                        "60005202"
-                    ]
-                },
-                {
-                    "scopus_id": "7005110344",
-                    "name": "Day I.N.M.",
-                    "affiliation_id": [
-                        "60020650",
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "7102093023",
-                    "name": "Ebrahim S.",
-                    "affiliation_id": [
-                        "60031331"
-                    ]
-                },
-                {
-                    "scopus_id": "35354080500",
-                    "name": "Smith G.D.",
-                    "affiliation_id": [
-                        "60020650",
-                        "60020650"
-                    ]
-                }
-            ],
-            "citations": 88,
-            "publication_name": "PLoS ONE",
-            "issn": "",
-            "cover_date": "2008-08-20",
-            "venue": "Journal",
-            "volume": "3",
-            "issue": "8",
-            "page_range": null,
-            "doi": "10.1371/journal.pone.0003011"
         },
         {
             "title": "Gene-age interactions in blood pressure regulation: A large-scale investigation with the CHARGE, global BPgen, and ICBP consortia",
@@ -31116,7 +30942,7 @@
                     "affiliation_id": [
                         "60017161",
                         "60106366",
-                        "60026680",
+                        "60106366",
                         "60095034"
                     ]
                 },
@@ -31220,7 +31046,7 @@
                     ]
                 }
             ],
-            "citations": 87,
+            "citations": 88,
             "publication_name": "American Journal of Human Genetics",
             "issn": "00029297",
             "cover_date": "2014-07-03",
@@ -31229,6 +31055,180 @@
             "issue": "1",
             "page_range": "24-38",
             "doi": "10.1016/j.ajhg.2014.05.010"
+        },
+        {
+            "title": "The association of C-reactive protein and CRP genotype with coronary heart disease: Findings from five studies with 4,610 cases amongst 18,637 participants",
+            "eid": "2-s2.0-51649121111",
+            "authors": [
+                {
+                    "scopus_id": "7102452820",
+                    "name": "Lawlor D.A.",
+                    "affiliation_id": [
+                        "60020650",
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "8674387800",
+                    "name": "Harbord R.M.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "35355373400",
+                    "name": "Timpson N.J.",
+                    "affiliation_id": [
+                        "60020650",
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "57212976450",
+                    "name": "Lowe G.D.O.",
+                    "affiliation_id": [
+                        "60001490"
+                    ]
+                },
+                {
+                    "scopus_id": "7006433197",
+                    "name": "Rumley A.",
+                    "affiliation_id": [
+                        "60001490"
+                    ]
+                },
+                {
+                    "scopus_id": "6603377285",
+                    "name": "Gaunt T.R.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "7102890161",
+                    "name": "Baker I.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "7006211976",
+                    "name": "Yarnell J.W.G.",
+                    "affiliation_id": [
+                        "60029738"
+                    ]
+                },
+                {
+                    "scopus_id": "7004391239",
+                    "name": "Kivim\u00e4ki M.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "57189230664",
+                    "name": "Kumari M.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "26426193300",
+                    "name": "Jamrozik K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7102816661",
+                    "name": "Hankey G.J.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "35481288100",
+                    "name": "Almeida O.P.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7006112267",
+                    "name": "Flicker L.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57200630008",
+                    "name": "Warrington N.",
+                    "affiliation_id": [
+                        "60005202"
+                    ]
+                },
+                {
+                    "scopus_id": "35418876900",
+                    "name": "Marmot M.G.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "7006649063",
+                    "name": "Ben-Shlomo Y.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.J.",
+                    "affiliation_id": [
+                        "60020650",
+                        "60005202"
+                    ]
+                },
+                {
+                    "scopus_id": "7005110344",
+                    "name": "Day I.N.M.",
+                    "affiliation_id": [
+                        "60020650",
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "7102093023",
+                    "name": "Ebrahim S.",
+                    "affiliation_id": [
+                        "60031331"
+                    ]
+                },
+                {
+                    "scopus_id": "35354080500",
+                    "name": "Smith G.D.",
+                    "affiliation_id": [
+                        "60020650",
+                        "60020650"
+                    ]
+                }
+            ],
+            "citations": 88,
+            "publication_name": "PLoS ONE",
+            "issn": "",
+            "cover_date": "2008-08-20",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "8",
+            "page_range": null,
+            "doi": "10.1371/journal.pone.0003011"
         },
         {
             "title": "Toll-like receptor 6 gene (TLR6): Single-nucleotide polymorphism frequencies and preliminary association with the diagnosis of asthma",
@@ -34354,6 +34354,37 @@
             "doi": "10.1093/hmg/ddu150"
         },
         {
+            "title": "Genomic approaches to understanding obstructive sleep apnea",
+            "eid": "2-s2.0-0038240595",
+            "authors": [
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.",
+                    "affiliation_id": [
+                        "60016782",
+                        "60000305"
+                    ]
+                },
+                {
+                    "scopus_id": "7102381732",
+                    "name": "Redline S.",
+                    "affiliation_id": [
+                        "60000305",
+                        "60031833"
+                    ]
+                }
+            ],
+            "citations": 72,
+            "publication_name": "Respiratory Physiology and Neurobiology",
+            "issn": "15699048",
+            "cover_date": "2003-05-30",
+            "venue": "Journal",
+            "volume": "135",
+            "issue": "2-3",
+            "page_range": "187-205",
+            "doi": "10.1016/S1569-9048(03)00044-2"
+        },
+        {
             "title": "Sequence Variants in Three Loci Influence Monocyte Counts and Erythrocyte Volume",
             "eid": "2-s2.0-72149102717",
             "authors": [
@@ -34529,37 +34560,6 @@
             "issue": "5",
             "page_range": "745-749",
             "doi": "10.1016/j.ajhg.2009.10.005"
-        },
-        {
-            "title": "Genomic approaches to understanding obstructive sleep apnea",
-            "eid": "2-s2.0-0038240595",
-            "authors": [
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.",
-                    "affiliation_id": [
-                        "60016782",
-                        "60000305"
-                    ]
-                },
-                {
-                    "scopus_id": "7102381732",
-                    "name": "Redline S.",
-                    "affiliation_id": [
-                        "60000305",
-                        "60031833"
-                    ]
-                }
-            ],
-            "citations": 70,
-            "publication_name": "Respiratory Physiology and Neurobiology",
-            "issn": "15699048",
-            "cover_date": "2003-05-30",
-            "venue": "Journal",
-            "volume": "135",
-            "issue": "2-3",
-            "page_range": "187-205",
-            "doi": "10.1016/S1569-9048(03)00044-2"
         },
         {
             "title": "Association between liver-specific gene polymorphisms and their expression levels with nonalcoholic fatty liver disease",
@@ -35795,6 +35795,94 @@
             "doi": "10.1038/sj.ejhg.5200551"
         },
         {
+            "title": "The genetics of obstructive sleep apnoea",
+            "eid": "2-s2.0-85036589286",
+            "authors": [
+                {
+                    "scopus_id": "7401816826",
+                    "name": "Mukherjee S.",
+                    "affiliation_id": [
+                        "112865241",
+                        "60189490"
+                    ]
+                },
+                {
+                    "scopus_id": "7006931003",
+                    "name": "Saxena R.",
+                    "affiliation_id": [
+                        "60029929",
+                        "60001001"
+                    ]
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.J.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 62,
+            "publication_name": "Respirology",
+            "issn": "13237799",
+            "cover_date": "2018-01-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "1",
+            "page_range": "18-27",
+            "doi": "10.1111/resp.13212"
+        },
+        {
+            "title": "Asthma, rhinitis, and skin test reactivity to aeroallergens in families of asthmatic subjects in Anqing, China",
+            "eid": "2-s2.0-0035033405",
+            "authors": [
+                {
+                    "scopus_id": "7004338434",
+                    "name": "Celed\u00f3n J.",
+                    "affiliation_id": [
+                        "60006577",
+                        "60016782"
+                    ]
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.",
+                    "affiliation_id": [
+                        "102014244"
+                    ]
+                },
+                {
+                    "scopus_id": "36040917900",
+                    "name": "Weiss S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "12797489300",
+                    "name": "Wang B.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7402681897",
+                    "name": "Fang Z.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "34868966600",
+                    "name": "Xu X.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 62,
+            "publication_name": "American Journal of Respiratory and Critical Care Medicine",
+            "issn": "1073449X",
+            "cover_date": "2001-01-01",
+            "venue": "Journal",
+            "volume": "163",
+            "issue": "5",
+            "page_range": "1108-1112",
+            "doi": "10.1164/ajrccm.163.5.2005086"
+        },
+        {
             "title": "Antenatal antecedents of moderate and severe cerebral palsy",
             "eid": "2-s2.0-0028970071",
             "authors": [
@@ -35838,234 +35926,6 @@
             "issue": "2",
             "page_range": "171-184",
             "doi": "10.1111/j.1365-3016.1995.tb00132.x"
-        },
-        {
-            "title": "Asthma, rhinitis, and skin test reactivity to aeroallergens in families of asthmatic subjects in Anqing, China",
-            "eid": "2-s2.0-0035033405",
-            "authors": [
-                {
-                    "scopus_id": "7004338434",
-                    "name": "Celed\u00f3n J.",
-                    "affiliation_id": [
-                        "60006577",
-                        "60016782"
-                    ]
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.",
-                    "affiliation_id": [
-                        "102014244"
-                    ]
-                },
-                {
-                    "scopus_id": "36040917900",
-                    "name": "Weiss S.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "12797489300",
-                    "name": "Wang B.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7402681897",
-                    "name": "Fang Z.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "34868966600",
-                    "name": "Xu X.",
-                    "affiliation_id": []
-                }
-            ],
-            "citations": 61,
-            "publication_name": "American Journal of Respiratory and Critical Care Medicine",
-            "issn": "1073449X",
-            "cover_date": "2001-01-01",
-            "venue": "Journal",
-            "volume": "163",
-            "issue": "5",
-            "page_range": "1108-1112",
-            "doi": "10.1164/ajrccm.163.5.2005086"
-        },
-        {
-            "title": "The genetics of obstructive sleep apnoea",
-            "eid": "2-s2.0-85036589286",
-            "authors": [
-                {
-                    "scopus_id": "7401816826",
-                    "name": "Mukherjee S.",
-                    "affiliation_id": [
-                        "112865241",
-                        "60189490"
-                    ]
-                },
-                {
-                    "scopus_id": "7006931003",
-                    "name": "Saxena R.",
-                    "affiliation_id": [
-                        "60029929",
-                        "60001001"
-                    ]
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.J.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                }
-            ],
-            "citations": 60,
-            "publication_name": "Respirology",
-            "issn": "13237799",
-            "cover_date": "2018-01-01",
-            "venue": "Journal",
-            "volume": "23",
-            "issue": "1",
-            "page_range": "18-27",
-            "doi": "10.1111/resp.13212"
-        },
-        {
-            "title": "An integrated systems biology approach to the study of preterm birth using \"-omic\" technology - a guideline for research",
-            "eid": "2-s2.0-80053905126",
-            "authors": [
-                {
-                    "scopus_id": "25936205800",
-                    "name": "Gracie S.",
-                    "affiliation_id": [
-                        "60030835"
-                    ]
-                },
-                {
-                    "scopus_id": "57203081812",
-                    "name": "Pennell C.",
-                    "affiliation_id": [
-                        "60089711"
-                    ]
-                },
-                {
-                    "scopus_id": "6602176739",
-                    "name": "Ekman-Ordeberg G.",
-                    "affiliation_id": [
-                        "60019295"
-                    ]
-                },
-                {
-                    "scopus_id": "7005986644",
-                    "name": "Lye S.",
-                    "affiliation_id": [
-                        "60027016"
-                    ]
-                },
-                {
-                    "scopus_id": "35511108500",
-                    "name": "McManaman J.",
-                    "affiliation_id": [
-                        "60028421"
-                    ]
-                },
-                {
-                    "scopus_id": "7404835124",
-                    "name": "Williams S.",
-                    "affiliation_id": [
-                        "60030769"
-                    ]
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.",
-                    "affiliation_id": [
-                        "60101854"
-                    ]
-                },
-                {
-                    "scopus_id": "35237020700",
-                    "name": "Kelley M.",
-                    "affiliation_id": [
-                        "60028548",
-                        "108289026"
-                    ]
-                },
-                {
-                    "scopus_id": "35566257700",
-                    "name": "Menon R.",
-                    "affiliation_id": [
-                        "60000928",
-                        "60010263"
-                    ]
-                },
-                {
-                    "scopus_id": "7004495175",
-                    "name": "Gravett M.",
-                    "affiliation_id": [
-                        "108289026",
-                        "60028548"
-                    ]
-                }
-            ],
-            "citations": 59,
-            "publication_name": "BMC Pregnancy and Childbirth",
-            "issn": "",
-            "cover_date": "2011-10-12",
-            "venue": "Journal",
-            "volume": "11",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1186/1471-2393-11-71"
-        },
-        {
-            "title": "Association of a missense mutation in the NOS3 gene with exhaled nitric oxide levels",
-            "eid": "2-s2.0-0043167810",
-            "authors": [
-                {
-                    "scopus_id": "6603503294",
-                    "name": "Van's Gravesande K.S.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7006457379",
-                    "name": "Wechsler M.E.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "55585860400",
-                    "name": "Grasemann H.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57216597621",
-                    "name": "Silverman E.S.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7005711540",
-                    "name": "Le L.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.J.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "8232502600",
-                    "name": "Drazen J.M.",
-                    "affiliation_id": [
-                        "60016782"
-                    ]
-                }
-            ],
-            "citations": 59,
-            "publication_name": "American Journal of Respiratory and Critical Care Medicine",
-            "issn": "1073449X",
-            "cover_date": "2003-07-15",
-            "venue": "Journal",
-            "volume": "168",
-            "issue": "2",
-            "page_range": "228-231",
-            "doi": "10.1164/rccm.200212-1491BC"
         },
         {
             "title": "Multiethnic meta-analysis identifies RAI1 as a possible obstructive sleep apnea-related quantitative trait locus in men",
@@ -36538,7 +36398,7 @@
                     ]
                 }
             ],
-            "citations": 58,
+            "citations": 59,
             "publication_name": "American Journal of Respiratory Cell and Molecular Biology",
             "issn": "10441549",
             "cover_date": "2018-03-01",
@@ -36547,6 +36407,146 @@
             "issue": "3",
             "page_range": "391-401",
             "doi": "10.1165/rcmb.2017-0237OC"
+        },
+        {
+            "title": "An integrated systems biology approach to the study of preterm birth using \"-omic\" technology - a guideline for research",
+            "eid": "2-s2.0-80053905126",
+            "authors": [
+                {
+                    "scopus_id": "25936205800",
+                    "name": "Gracie S.",
+                    "affiliation_id": [
+                        "60030835"
+                    ]
+                },
+                {
+                    "scopus_id": "57203081812",
+                    "name": "Pennell C.",
+                    "affiliation_id": [
+                        "60089711"
+                    ]
+                },
+                {
+                    "scopus_id": "6602176739",
+                    "name": "Ekman-Ordeberg G.",
+                    "affiliation_id": [
+                        "60019295"
+                    ]
+                },
+                {
+                    "scopus_id": "7005986644",
+                    "name": "Lye S.",
+                    "affiliation_id": [
+                        "60027016"
+                    ]
+                },
+                {
+                    "scopus_id": "35511108500",
+                    "name": "McManaman J.",
+                    "affiliation_id": [
+                        "60028421"
+                    ]
+                },
+                {
+                    "scopus_id": "7404835124",
+                    "name": "Williams S.",
+                    "affiliation_id": [
+                        "60030769"
+                    ]
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.",
+                    "affiliation_id": [
+                        "60101854"
+                    ]
+                },
+                {
+                    "scopus_id": "35237020700",
+                    "name": "Kelley M.",
+                    "affiliation_id": [
+                        "60028548",
+                        "108289026"
+                    ]
+                },
+                {
+                    "scopus_id": "35566257700",
+                    "name": "Menon R.",
+                    "affiliation_id": [
+                        "60000928",
+                        "60010263"
+                    ]
+                },
+                {
+                    "scopus_id": "7004495175",
+                    "name": "Gravett M.",
+                    "affiliation_id": [
+                        "108289026",
+                        "60028548"
+                    ]
+                }
+            ],
+            "citations": 59,
+            "publication_name": "BMC Pregnancy and Childbirth",
+            "issn": "",
+            "cover_date": "2011-10-12",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1186/1471-2393-11-71"
+        },
+        {
+            "title": "Association of a missense mutation in the NOS3 gene with exhaled nitric oxide levels",
+            "eid": "2-s2.0-0043167810",
+            "authors": [
+                {
+                    "scopus_id": "6603503294",
+                    "name": "Van's Gravesande K.S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006457379",
+                    "name": "Wechsler M.E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55585860400",
+                    "name": "Grasemann H.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57216597621",
+                    "name": "Silverman E.S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7005711540",
+                    "name": "Le L.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "8232502600",
+                    "name": "Drazen J.M.",
+                    "affiliation_id": [
+                        "60016782"
+                    ]
+                }
+            ],
+            "citations": 59,
+            "publication_name": "American Journal of Respiratory and Critical Care Medicine",
+            "issn": "1073449X",
+            "cover_date": "2003-07-15",
+            "venue": "Journal",
+            "volume": "168",
+            "issue": "2",
+            "page_range": "228-231",
+            "doi": "10.1164/rccm.200212-1491BC"
         },
         {
             "title": "Association of an allelic variant of interleukin-6 with subclinical carotid atherosclerosis in an Australian community population",
@@ -37336,6 +37336,63 @@
             "doi": "10.1183/09031936.00063406"
         },
         {
+            "title": "Endothelial nitric oxide synthase variants in cystic fibrosis lung disease",
+            "eid": "2-s2.0-0037322132",
+            "authors": [
+                {
+                    "scopus_id": "55585860400",
+                    "name": "Grasemann H.",
+                    "affiliation_id": [
+                        "60014264"
+                    ]
+                },
+                {
+                    "scopus_id": "6603503294",
+                    "name": "Van's Gravesande K.S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55886492200",
+                    "name": "B\u00fcscher R.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6602240131",
+                    "name": "Knauer N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57216597621",
+                    "name": "Silverman E.S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "8232502600",
+                    "name": "Drazen J.M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "56214449500",
+                    "name": "Ratjen F.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 57,
+            "publication_name": "American Journal of Respiratory and Critical Care Medicine",
+            "issn": "1073449X",
+            "cover_date": "2003-02-01",
+            "venue": "Journal",
+            "volume": "167",
+            "issue": "3",
+            "page_range": "390-394",
+            "doi": "10.1164/rccm.200202-155OC"
+        },
+        {
             "title": "Genetic Variants Associated with Increased Risk of Malignant Pleural Mesothelioma: A Genome-Wide Association Study",
             "eid": "2-s2.0-84876527407",
             "authors": [
@@ -37595,7 +37652,7 @@
                     "scopus_id": "7005867038",
                     "name": "Ugolini D.",
                     "affiliation_id": [
-                        "60107402"
+                        "60003700"
                     ]
                 },
                 {
@@ -37631,63 +37688,6 @@
             "issue": "4",
             "page_range": null,
             "doi": "10.1371/journal.pone.0061253"
-        },
-        {
-            "title": "Endothelial nitric oxide synthase variants in cystic fibrosis lung disease",
-            "eid": "2-s2.0-0037322132",
-            "authors": [
-                {
-                    "scopus_id": "55585860400",
-                    "name": "Grasemann H.",
-                    "affiliation_id": [
-                        "60014264"
-                    ]
-                },
-                {
-                    "scopus_id": "6603503294",
-                    "name": "Van's Gravesande K.S.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "55886492200",
-                    "name": "B\u00fcscher R.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "6602240131",
-                    "name": "Knauer N.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57216597621",
-                    "name": "Silverman E.S.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.J.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "8232502600",
-                    "name": "Drazen J.M.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "56214449500",
-                    "name": "Ratjen F.",
-                    "affiliation_id": []
-                }
-            ],
-            "citations": 56,
-            "publication_name": "American Journal of Respiratory and Critical Care Medicine",
-            "issn": "1073449X",
-            "cover_date": "2003-02-01",
-            "venue": "Journal",
-            "volume": "167",
-            "issue": "3",
-            "page_range": "390-394",
-            "doi": "10.1164/rccm.200202-155OC"
         },
         {
             "title": "A principal component meta-analysis on multiple anthropometric traits identifies novel loci for body shape",
@@ -40046,7 +40046,7 @@
                         "60032114",
                         "60068590",
                         "60032114",
-                        "60025111"
+                        "60016639"
                     ]
                 },
                 {
@@ -41323,7 +41323,7 @@
                     "scopus_id": "7403692293",
                     "name": "Lin D.Y.",
                     "affiliation_id": [
-                        "60025111"
+                        "60016639"
                     ]
                 },
                 {
@@ -41807,47 +41807,6 @@
             "doi": "10.1016/j.ajhg.2013.06.011"
         },
         {
-            "title": "Variance components analysis for pedigree-based censored survival data using generalized linear mixed models (GLMMs) and Gibbs sampling in BUGS",
-            "eid": "2-s2.0-0033850292",
-            "authors": [
-                {
-                    "scopus_id": "6506887814",
-                    "name": "Scurrah K.",
-                    "affiliation_id": [
-                        "60000096",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.",
-                    "affiliation_id": [
-                        "60000096",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7202230787",
-                    "name": "Burton P.",
-                    "affiliation_id": [
-                        "60000096",
-                        "60031806",
-                        "60033125",
-                        "60033125"
-                    ]
-                }
-            ],
-            "citations": 48,
-            "publication_name": "Genetic Epidemiology",
-            "issn": "07410395",
-            "cover_date": "2000-09-19",
-            "venue": "Journal",
-            "volume": "19",
-            "issue": "2",
-            "page_range": "127-148",
-            "doi": "10.1002/1098-2272(200009)19:2<127::AID-GEPI2>3.0.CO;2-S"
-        },
-        {
             "title": "Association of Genetic Loci with Sleep Apnea in European Americans and African-Americans: The Candidate Gene Association Resource (CARe)",
             "eid": "2-s2.0-84869110487",
             "authors": [
@@ -41912,7 +41871,7 @@
                     "scopus_id": "35334319300",
                     "name": "Gharib S.A.",
                     "affiliation_id": [
-                        "60008980"
+                        "60028548"
                     ]
                 },
                 {
@@ -41991,7 +41950,7 @@
                     ]
                 }
             ],
-            "citations": 47,
+            "citations": 48,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2012-11-14",
@@ -42000,6 +41959,47 @@
             "issue": "11",
             "page_range": null,
             "doi": "10.1371/journal.pone.0048836"
+        },
+        {
+            "title": "Variance components analysis for pedigree-based censored survival data using generalized linear mixed models (GLMMs) and Gibbs sampling in BUGS",
+            "eid": "2-s2.0-0033850292",
+            "authors": [
+                {
+                    "scopus_id": "6506887814",
+                    "name": "Scurrah K.",
+                    "affiliation_id": [
+                        "60000096",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.",
+                    "affiliation_id": [
+                        "60000096",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7202230787",
+                    "name": "Burton P.",
+                    "affiliation_id": [
+                        "60000096",
+                        "60031806",
+                        "60033125",
+                        "60033125"
+                    ]
+                }
+            ],
+            "citations": 48,
+            "publication_name": "Genetic Epidemiology",
+            "issn": "07410395",
+            "cover_date": "2000-09-19",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "2",
+            "page_range": "127-148",
+            "doi": "10.1002/1098-2272(200009)19:2<127::AID-GEPI2>3.0.CO;2-S"
         },
         {
             "title": "Ascertainment adjustment: Where does it take us?",
@@ -42565,7 +42565,7 @@
                     "scopus_id": "7005867038",
                     "name": "Ugolini D.",
                     "affiliation_id": [
-                        "60107402"
+                        "60003700"
                     ]
                 },
                 {
@@ -46761,6 +46761,53 @@
             "doi": "10.1002/gepi.6"
         },
         {
+            "title": "Physical activity is associated with reduced prevalence of self-reported obstructive sleep apnea in a large, general population cohort study",
+            "eid": "2-s2.0-85088107098",
+            "authors": [
+                {
+                    "scopus_id": "57216863056",
+                    "name": "Hall K.A.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "56555562800",
+                    "name": "Singh M.M.",
+                    "affiliation_id": [
+                        "60002401",
+                        "117861011",
+                        "60016900"
+                    ]
+                },
+                {
+                    "scopus_id": "7401816826",
+                    "name": "Mukherjee S.",
+                    "affiliation_id": [
+                        "118159753",
+                        "60189490"
+                    ]
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.J.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 26,
+            "publication_name": "Journal of Clinical Sleep Medicine",
+            "issn": "15509389",
+            "cover_date": "2020-07-15",
+            "venue": "Journal",
+            "volume": "16",
+            "issue": "7",
+            "page_range": "1179-1187",
+            "doi": "10.5664/jcsm.8456"
+        },
+        {
             "title": "Genetic influences on trajectories of systolic blood pressure across childhood and adolescence",
             "eid": "2-s2.0-84892404295",
             "authors": [
@@ -46994,247 +47041,6 @@
             "issue": "5",
             "page_range": "1063-1077",
             "doi": "10.1093/ije/dyi069"
-        },
-        {
-            "title": "Physical activity is associated with reduced prevalence of self-reported obstructive sleep apnea in a large, general population cohort study",
-            "eid": "2-s2.0-85088107098",
-            "authors": [
-                {
-                    "scopus_id": "57216863056",
-                    "name": "Hall K.A.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "56555562800",
-                    "name": "Singh M.M.",
-                    "affiliation_id": [
-                        "60002401",
-                        "117861011",
-                        "60016900"
-                    ]
-                },
-                {
-                    "scopus_id": "7401816826",
-                    "name": "Mukherjee S.",
-                    "affiliation_id": [
-                        "118159753",
-                        "60189490"
-                    ]
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.J.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                }
-            ],
-            "citations": 25,
-            "publication_name": "Journal of Clinical Sleep Medicine",
-            "issn": "15509389",
-            "cover_date": "2020-07-15",
-            "venue": "Journal",
-            "volume": "16",
-            "issue": "7",
-            "page_range": "1179-1187",
-            "doi": "10.5664/jcsm.8456"
-        },
-        {
-            "title": "Hospitalisation with infection, asthma and allergy in kawasaki disease patients and their families: Genealogical analysis using linked population data",
-            "eid": "2-s2.0-82155192612",
-            "authors": [
-                {
-                    "scopus_id": "35202529600",
-                    "name": "Webster R.J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "56962751500",
-                    "name": "Carter K.W.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                },
-                {
-                    "scopus_id": "57200630008",
-                    "name": "Warrington N.M.",
-                    "affiliation_id": [
-                        "60089711"
-                    ]
-                },
-                {
-                    "scopus_id": "24166907300",
-                    "name": "Loh A.M.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "16204760800",
-                    "name": "Zaloumis S.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7005692728",
-                    "name": "Kuijpers T.W.",
-                    "affiliation_id": [
-                        "60070178"
-                    ]
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7004057895",
-                    "name": "Burgner D.P.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60026489"
-                    ]
-                }
-            ],
-            "citations": 25,
-            "publication_name": "PLoS ONE",
-            "issn": "",
-            "cover_date": "2011-11-28",
-            "venue": "Journal",
-            "volume": "6",
-            "issue": "11",
-            "page_range": null,
-            "doi": "10.1371/journal.pone.0028004"
-        },
-        {
-            "title": "Apolipoprotein E genotype is associated with serum C-reactive protein but not abdominal aortic aneurysm",
-            "eid": "2-s2.0-77950023603",
-            "authors": [
-                {
-                    "scopus_id": "7005096118",
-                    "name": "Golledge J.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "6602826709",
-                    "name": "Biros E.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "57209307625",
-                    "name": "Cooper M.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57200630008",
-                    "name": "Warrington N.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 25,
-            "publication_name": "Atherosclerosis",
-            "issn": "00219150",
-            "cover_date": "2010-04-01",
-            "venue": "Journal",
-            "volume": "209",
-            "issue": "2",
-            "page_range": "487-491",
-            "doi": "10.1016/j.atherosclerosis.2009.09.027"
-        },
-        {
-            "title": "Possible association between genetic polymorphisms in transforming growth factor \u03b2 receptors, serum transforming growth factor \u03b21 concentration and abdominal aortic aneurysm",
-            "eid": "2-s2.0-66749149455",
-            "authors": [
-                {
-                    "scopus_id": "7005096118",
-                    "name": "Golledge J.",
-                    "affiliation_id": [
-                        "60019870",
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "24358911300",
-                    "name": "Clancy P.",
-                    "affiliation_id": [
-                        "60019870"
-                    ]
-                },
-                {
-                    "scopus_id": "7406141342",
-                    "name": "Jones G.T.",
-                    "affiliation_id": [
-                        "60017311"
-                    ]
-                },
-                {
-                    "scopus_id": "57209307625",
-                    "name": "Cooper M.",
-                    "affiliation_id": [
-                        "60005202"
-                    ]
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.J.",
-                    "affiliation_id": [
-                        "60005202"
-                    ]
-                },
-                {
-                    "scopus_id": "7005233425",
-                    "name": "Van Rij A.M.",
-                    "affiliation_id": [
-                        "60017311"
-                    ]
-                },
-                {
-                    "scopus_id": "57208099127",
-                    "name": "Norman P.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 25,
-            "publication_name": "British Journal of Surgery",
-            "issn": "00071323",
-            "cover_date": "2009-06-01",
-            "venue": "Journal",
-            "volume": "96",
-            "issue": "6",
-            "page_range": "628-632",
-            "doi": "10.1002/bjs.6633"
         },
         {
             "title": "Associations of variants in the hexokinase 1 and interleukin 18 receptor regions with oxyhemoglobin saturation during sleep",
@@ -47591,7 +47397,7 @@
                     ]
                 }
             ],
-            "citations": 24,
+            "citations": 25,
             "publication_name": "PLoS Genetics",
             "issn": "15537390",
             "cover_date": "2019-01-01",
@@ -47600,6 +47406,200 @@
             "issue": "4",
             "page_range": null,
             "doi": "10.1371/journal.pgen.1007739"
+        },
+        {
+            "title": "Hospitalisation with infection, asthma and allergy in kawasaki disease patients and their families: Genealogical analysis using linked population data",
+            "eid": "2-s2.0-82155192612",
+            "authors": [
+                {
+                    "scopus_id": "35202529600",
+                    "name": "Webster R.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "56962751500",
+                    "name": "Carter K.W.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "57200630008",
+                    "name": "Warrington N.M.",
+                    "affiliation_id": [
+                        "60089711"
+                    ]
+                },
+                {
+                    "scopus_id": "24166907300",
+                    "name": "Loh A.M.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "16204760800",
+                    "name": "Zaloumis S.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7005692728",
+                    "name": "Kuijpers T.W.",
+                    "affiliation_id": [
+                        "60070178"
+                    ]
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7004057895",
+                    "name": "Burgner D.P.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60026489"
+                    ]
+                }
+            ],
+            "citations": 25,
+            "publication_name": "PLoS ONE",
+            "issn": "",
+            "cover_date": "2011-11-28",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "11",
+            "page_range": null,
+            "doi": "10.1371/journal.pone.0028004"
+        },
+        {
+            "title": "Apolipoprotein E genotype is associated with serum C-reactive protein but not abdominal aortic aneurysm",
+            "eid": "2-s2.0-77950023603",
+            "authors": [
+                {
+                    "scopus_id": "7005096118",
+                    "name": "Golledge J.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "6602826709",
+                    "name": "Biros E.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "57209307625",
+                    "name": "Cooper M.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57200630008",
+                    "name": "Warrington N.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 25,
+            "publication_name": "Atherosclerosis",
+            "issn": "00219150",
+            "cover_date": "2010-04-01",
+            "venue": "Journal",
+            "volume": "209",
+            "issue": "2",
+            "page_range": "487-491",
+            "doi": "10.1016/j.atherosclerosis.2009.09.027"
+        },
+        {
+            "title": "Possible association between genetic polymorphisms in transforming growth factor \u03b2 receptors, serum transforming growth factor \u03b21 concentration and abdominal aortic aneurysm",
+            "eid": "2-s2.0-66749149455",
+            "authors": [
+                {
+                    "scopus_id": "7005096118",
+                    "name": "Golledge J.",
+                    "affiliation_id": [
+                        "60019870",
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "24358911300",
+                    "name": "Clancy P.",
+                    "affiliation_id": [
+                        "60019870"
+                    ]
+                },
+                {
+                    "scopus_id": "7406141342",
+                    "name": "Jones G.T.",
+                    "affiliation_id": [
+                        "60017311"
+                    ]
+                },
+                {
+                    "scopus_id": "57209307625",
+                    "name": "Cooper M.",
+                    "affiliation_id": [
+                        "60005202"
+                    ]
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.J.",
+                    "affiliation_id": [
+                        "60005202"
+                    ]
+                },
+                {
+                    "scopus_id": "7005233425",
+                    "name": "Van Rij A.M.",
+                    "affiliation_id": [
+                        "60017311"
+                    ]
+                },
+                {
+                    "scopus_id": "57208099127",
+                    "name": "Norman P.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 25,
+            "publication_name": "British Journal of Surgery",
+            "issn": "00071323",
+            "cover_date": "2009-06-01",
+            "venue": "Journal",
+            "volume": "96",
+            "issue": "6",
+            "page_range": "628-632",
+            "doi": "10.1002/bjs.6633"
         },
         {
             "title": "Bayesian methods for meta-analysis of causal relationships estimated using genetic instrumental variables",
@@ -49868,6 +49868,96 @@
             "doi": "10.1016/j.ypmed.2012.03.004"
         },
         {
+            "title": "Cohort profile: The Western Australian Sleep Health Study",
+            "eid": "2-s2.0-84859156824",
+            "authors": [
+                {
+                    "scopus_id": "7401816826",
+                    "name": "Mukherjee S.",
+                    "affiliation_id": [
+                        "108290248",
+                        "60025898",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7102116776",
+                    "name": "Hillman D.",
+                    "affiliation_id": [
+                        "108290248",
+                        "60025898"
+                    ]
+                },
+                {
+                    "scopus_id": "36059520100",
+                    "name": "Lee J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "35740257900",
+                    "name": "Fedson A.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "35741983800",
+                    "name": "Simpson L.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57191383310",
+                    "name": "Ward K.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "36953218600",
+                    "name": "Love G.",
+                    "affiliation_id": [
+                        "60025898"
+                    ]
+                },
+                {
+                    "scopus_id": "55467937300",
+                    "name": "Edwards C.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "18438467300",
+                    "name": "Szegner B.",
+                    "affiliation_id": [
+                        "108290248",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.J.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60101854"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Sleep and Breathing",
+            "issn": "15209512",
+            "cover_date": "2012-03-01",
+            "venue": "Journal",
+            "volume": "16",
+            "issue": "1",
+            "page_range": "205-215",
+            "doi": "10.1007/s11325-011-0491-3"
+        },
+        {
             "title": "15-lipoxygenase gene variants are associated with carotid plaque but not carotid intima-media thickness",
             "eid": "2-s2.0-44149089293",
             "authors": [
@@ -50952,96 +51042,6 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1186/s12931-015-0238-y"
-        },
-        {
-            "title": "Cohort profile: The Western Australian Sleep Health Study",
-            "eid": "2-s2.0-84859156824",
-            "authors": [
-                {
-                    "scopus_id": "7401816826",
-                    "name": "Mukherjee S.",
-                    "affiliation_id": [
-                        "108290248",
-                        "60025898",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7102116776",
-                    "name": "Hillman D.",
-                    "affiliation_id": [
-                        "108290248",
-                        "60025898"
-                    ]
-                },
-                {
-                    "scopus_id": "36059520100",
-                    "name": "Lee J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "35740257900",
-                    "name": "Fedson A.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "35741983800",
-                    "name": "Simpson L.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57191383310",
-                    "name": "Ward K.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "36953218600",
-                    "name": "Love G.",
-                    "affiliation_id": [
-                        "60025898"
-                    ]
-                },
-                {
-                    "scopus_id": "55467937300",
-                    "name": "Edwards C.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "18438467300",
-                    "name": "Szegner B.",
-                    "affiliation_id": [
-                        "108290248",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.J.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60101854"
-                    ]
-                }
-            ],
-            "citations": 14,
-            "publication_name": "Sleep and Breathing",
-            "issn": "15209512",
-            "cover_date": "2012-03-01",
-            "venue": "Journal",
-            "volume": "16",
-            "issue": "1",
-            "page_range": "205-215",
-            "doi": "10.1007/s11325-011-0491-3"
         },
         {
             "title": "1-Hydroxypyrene as a biomarker of occupational exposure to polycyclic aromatic hydrocarbons (PAH) in boilermakers",
@@ -56525,6 +56525,168 @@
             "doi": "10.1002/gepi.2001.21.s1.s130"
         },
         {
+            "title": "Leveraging pleiotropy to discover and interpret GWAS results for sleep-associated traits",
+            "eid": "2-s2.0-85145980909",
+            "authors": [
+                {
+                    "scopus_id": "41361149000",
+                    "name": "Chun S.",
+                    "affiliation_id": [
+                        "60016782",
+                        "60030521",
+                        "116065242",
+                        "60002746"
+                    ]
+                },
+                {
+                    "scopus_id": "55337097800",
+                    "name": "Akle S.",
+                    "affiliation_id": [
+                        "60016782",
+                        "116065242",
+                        "60009982"
+                    ]
+                },
+                {
+                    "scopus_id": "57193537255",
+                    "name": "Teodosiadis A.",
+                    "affiliation_id": [
+                        "116065242"
+                    ]
+                },
+                {
+                    "scopus_id": "6701813089",
+                    "name": "Cade B.E.",
+                    "affiliation_id": [
+                        "60016782",
+                        "60002746",
+                        "60001001"
+                    ]
+                },
+                {
+                    "scopus_id": "57208128597",
+                    "name": "Wang H.",
+                    "affiliation_id": [
+                        "60016782",
+                        "60002746",
+                        "60001001"
+                    ]
+                },
+                {
+                    "scopus_id": "57206407070",
+                    "name": "Sofer T.",
+                    "affiliation_id": [
+                        "60016782",
+                        "60002746"
+                    ]
+                },
+                {
+                    "scopus_id": "37060867300",
+                    "name": "Evans D.S.",
+                    "affiliation_id": [
+                        "60021137"
+                    ]
+                },
+                {
+                    "scopus_id": "7202636199",
+                    "name": "Stone K.L.",
+                    "affiliation_id": [
+                        "60021137"
+                    ]
+                },
+                {
+                    "scopus_id": "35334319300",
+                    "name": "Gharib S.A.",
+                    "affiliation_id": [
+                        "60028548",
+                        "60015481"
+                    ]
+                },
+                {
+                    "scopus_id": "59195328300",
+                    "name": "Mukherjeei S.",
+                    "affiliation_id": [
+                        "118159753",
+                        "60189490"
+                    ]
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.J.",
+                    "affiliation_id": [
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "7102116776",
+                    "name": "Hillman D.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60025898"
+                    ]
+                },
+                {
+                    "scopus_id": "56284453500",
+                    "name": "Rotter J.I.",
+                    "affiliation_id": [
+                        "60016081"
+                    ]
+                },
+                {
+                    "scopus_id": "7005846343",
+                    "name": "Hanis C.L.",
+                    "affiliation_id": [
+                        "60012516"
+                    ]
+                },
+                {
+                    "scopus_id": "6603232343",
+                    "name": "Stamatoyannopoulos J.A.",
+                    "affiliation_id": [
+                        "116065242",
+                        "60015481"
+                    ]
+                },
+                {
+                    "scopus_id": "7102381732",
+                    "name": "Redline S.",
+                    "affiliation_id": [
+                        "60016782",
+                        "60002746",
+                        "60030058"
+                    ]
+                },
+                {
+                    "scopus_id": "57216599330",
+                    "name": "Cotsapas C.",
+                    "affiliation_id": [
+                        "116065242",
+                        "60001001",
+                        "60017994",
+                        "60017994"
+                    ]
+                },
+                {
+                    "scopus_id": "35351656700",
+                    "name": "Sunyaev S.R.",
+                    "affiliation_id": [
+                        "60016782",
+                        "116065242",
+                        "60002746"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "PLoS Genetics",
+            "issn": "15537390",
+            "cover_date": "2022-12-01",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "12 December",
+            "page_range": null,
+            "doi": "10.1371/journal.pgen.1010557"
+        },
+        {
             "title": "Approaches to evaluate gene-environment interactions underlying the developmental origins of health and disease",
             "eid": "2-s2.0-79959497110",
             "authors": [
@@ -60240,24 +60402,23 @@
     "affiliation_id": "60016849",
     "city": "Toronto",
     "country": "Canada",
-    "document_count": 309,
+    "document_count": 310,
     "subject_area": [
         {
             "@abbrev": "MEDI",
-            "@frequency": "367",
+            "@frequency": "368",
             "$": "Medicine (all)"
         },
         {
             "@abbrev": "BIOC",
-            "@frequency": "174",
+            "@frequency": "177",
             "$": "Biochemistry, Genetics and Molecular Biology (all)"
         },
         {
-            "@abbrev": "NEUR",
+            "@abbrev": "IMMU",
             "@frequency": "26",
-            "$": "Neuroscience (all)"
+            "$": "Immunology and Microbiology (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:31:56",
-    "c-score": null
+    "date fetched": "2024-07-12 18:40:06"
 }

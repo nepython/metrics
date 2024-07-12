@@ -21,7 +21,7 @@
                     ]
                 }
             ],
-            "citations": 9808,
+            "citations": 9833,
             "publication_name": "Annual Review of Plant Biology",
             "issn": "15435008",
             "cover_date": "2008-06-17",
@@ -43,7 +43,7 @@
                     ]
                 }
             ],
-            "citations": 4875,
+            "citations": 4884,
             "publication_name": "Plant, Cell and Environment",
             "issn": "01407791",
             "cover_date": "2002-03-11",
@@ -65,7 +65,7 @@
                     ]
                 }
             ],
-            "citations": 2043,
+            "citations": 2045,
             "publication_name": "New Phytologist",
             "issn": "0028646X",
             "cover_date": "2005-09-01",
@@ -101,7 +101,7 @@
                     ]
                 }
             ],
-            "citations": 1464,
+            "citations": 1468,
             "publication_name": "Journal of Experimental Botany",
             "issn": "00220957",
             "cover_date": "2006-03-01",
@@ -148,7 +148,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 990,
+            "citations": 991,
             "publication_name": "Australian Journal of Plant Physiology",
             "issn": "03107841",
             "cover_date": "1986-01-01",
@@ -178,7 +178,7 @@
                     ]
                 }
             ],
-            "citations": 827,
+            "citations": 834,
             "publication_name": "New Phytologist",
             "issn": "0028646X",
             "cover_date": "2015-11-01",
@@ -207,7 +207,7 @@
                     ]
                 }
             ],
-            "citations": 646,
+            "citations": 648,
             "publication_name": "Plant and Soil",
             "issn": "0032079X",
             "cover_date": "2003-06-01",
@@ -317,7 +317,7 @@
                     ]
                 }
             ],
-            "citations": 631,
+            "citations": 633,
             "publication_name": "Nature Biotechnology",
             "issn": "10870156",
             "cover_date": "2012-04-01",
@@ -395,7 +395,7 @@
                     ]
                 }
             ],
-            "citations": 419,
+            "citations": 420,
             "publication_name": "Journal of Experimental Botany",
             "issn": "00220957",
             "cover_date": "2006-03-01",
@@ -495,7 +495,7 @@
                     ]
                 }
             ],
-            "citations": 389,
+            "citations": 390,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2013-05-13",
@@ -540,7 +540,7 @@
                     ]
                 }
             ],
-            "citations": 380,
+            "citations": 381,
             "publication_name": "Journal of Experimental Botany",
             "issn": "00220957",
             "cover_date": "2011-05-01",
@@ -778,7 +778,7 @@
                     ]
                 }
             ],
-            "citations": 323,
+            "citations": 324,
             "publication_name": "Australian Journal of Plant Physiology",
             "issn": "03107841",
             "cover_date": "1995-01-01",
@@ -815,7 +815,7 @@
                     ]
                 }
             ],
-            "citations": 303,
+            "citations": 304,
             "publication_name": "Plant Physiology",
             "issn": "00320889",
             "cover_date": "2006-01-01",
@@ -858,7 +858,7 @@
                     ]
                 }
             ],
-            "citations": 293,
+            "citations": 295,
             "publication_name": "Journal of Experimental Botany",
             "issn": "00220957",
             "cover_date": "2002-01-01",
@@ -1051,7 +1051,7 @@
                     ]
                 }
             ],
-            "citations": 291,
+            "citations": 294,
             "publication_name": "New Phytologist",
             "issn": "0028646X",
             "cover_date": "2020-02-01",
@@ -1187,7 +1187,7 @@
                     ]
                 }
             ],
-            "citations": 262,
+            "citations": 263,
             "publication_name": "Functional Plant Biology",
             "issn": "14454408",
             "cover_date": "2002-12-01",
@@ -1290,7 +1290,7 @@
                     ]
                 }
             ],
-            "citations": 244,
+            "citations": 245,
             "publication_name": "Plant Physiology",
             "issn": "00320889",
             "cover_date": "2006-01-01",
@@ -1335,7 +1335,7 @@
                     ]
                 }
             ],
-            "citations": 238,
+            "citations": 239,
             "publication_name": "New Phytologist",
             "issn": "0028646X",
             "cover_date": "2020-02-01",
@@ -1549,7 +1549,7 @@
                     ]
                 }
             ],
-            "citations": 204,
+            "citations": 206,
             "publication_name": "Advances in Agronomy",
             "issn": "00652113",
             "cover_date": "2021-01-01",
@@ -1592,7 +1592,7 @@
                     ]
                 }
             ],
-            "citations": 202,
+            "citations": 203,
             "publication_name": "Plant Physiology",
             "issn": "00320889",
             "cover_date": "1998-01-01",
@@ -1635,7 +1635,7 @@
                     ]
                 }
             ],
-            "citations": 198,
+            "citations": 199,
             "publication_name": "Functional Plant Biology",
             "issn": "14454408",
             "cover_date": "2004-12-01",
@@ -1786,7 +1786,7 @@
                     ]
                 }
             ],
-            "citations": 180,
+            "citations": 182,
             "publication_name": "Plant, Cell and Environment",
             "issn": "01407791",
             "cover_date": "2006-12-01",
@@ -1854,28 +1854,6 @@
             "doi": "10.1093/jxb/erx142"
         },
         {
-            "title": "Plant Adaptations to Salt and Water Stress. Differences and Commonalities",
-            "eid": "2-s2.0-79955131946",
-            "authors": [
-                {
-                    "scopus_id": "57204334287",
-                    "name": "Munns R.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 167,
-            "publication_name": "Advances in Botanical Research",
-            "issn": "00652296",
-            "cover_date": "2011-04-29",
-            "venue": "Book Series",
-            "volume": "57",
-            "issue": "",
-            "page_range": "1-32",
-            "doi": "10.1016/B978-0-12-387692-8.00001-1"
-        },
-        {
             "title": "Measuring soluble ion concentrations (Na(+), K(+), Cl(-)) in salt-treated plants.",
             "eid": "2-s2.0-77954048882",
             "authors": [
@@ -1902,7 +1880,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 167,
+            "citations": 169,
             "publication_name": "Methods in molecular biology (Clifton, N.J.)",
             "issn": "",
             "cover_date": "2010-01-01",
@@ -1911,6 +1889,28 @@
             "issue": "",
             "page_range": "371-382",
             "doi": "10.1007/978-1-60761-702-0_23"
+        },
+        {
+            "title": "Plant Adaptations to Salt and Water Stress. Differences and Commonalities",
+            "eid": "2-s2.0-79955131946",
+            "authors": [
+                {
+                    "scopus_id": "57204334287",
+                    "name": "Munns R.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 167,
+            "publication_name": "Advances in Botanical Research",
+            "issn": "00652296",
+            "cover_date": "2011-04-29",
+            "venue": "Book Series",
+            "volume": "57",
+            "issue": "",
+            "page_range": "1-32",
+            "doi": "10.1016/B978-0-12-387692-8.00001-1"
         },
         {
             "title": "The Na<sup>+</sup> transporter, TaHKT1;5-D, limits shoot Na<sup>+</sup> accumulation in bread wheat",
@@ -2348,7 +2348,7 @@
                     ]
                 }
             ],
-            "citations": 121,
+            "citations": 122,
             "publication_name": "Functional Plant Biology",
             "issn": "14454408",
             "cover_date": "2008-03-27",
@@ -2993,64 +2993,6 @@
             "doi": "10.1111/j.1365-3040.2008.01864.x"
         },
         {
-            "title": "Impact of ancestral wheat sodium exclusion genes Nax1 and Nax2 on grain yield of durum wheat on saline soils",
-            "eid": "2-s2.0-84863842656",
-            "authors": [
-                {
-                    "scopus_id": "7401669873",
-                    "name": "James R.A.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "53867755600",
-                    "name": "Blake C.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "55537628100",
-                    "name": "Zwart A.B.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "7005175522",
-                    "name": "Hare R.A.",
-                    "affiliation_id": [
-                        "60003763"
-                    ]
-                },
-                {
-                    "scopus_id": "6603756870",
-                    "name": "Rathjen A.J.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "57204334287",
-                    "name": "Munns R.",
-                    "affiliation_id": [
-                        "60029470",
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 84,
-            "publication_name": "Functional Plant Biology",
-            "issn": "14454408",
-            "cover_date": "2012-07-19",
-            "venue": "Journal",
-            "volume": "39",
-            "issue": "7",
-            "page_range": "609-618",
-            "doi": "10.1071/FP12121"
-        },
-        {
             "title": "The potential for developing fodder plants for the salt-affected areas of southern and eastern Australia: An overview",
             "eid": "2-s2.0-21244504297",
             "authors": [
@@ -3182,7 +3124,7 @@
                     ]
                 }
             ],
-            "citations": 84,
+            "citations": 85,
             "publication_name": "Australian Journal of Experimental Agriculture",
             "issn": "08161089",
             "cover_date": "2005-07-11",
@@ -3191,6 +3133,64 @@
             "issue": "4",
             "page_range": "301-329",
             "doi": "10.1071/EA04020"
+        },
+        {
+            "title": "Impact of ancestral wheat sodium exclusion genes Nax1 and Nax2 on grain yield of durum wheat on saline soils",
+            "eid": "2-s2.0-84863842656",
+            "authors": [
+                {
+                    "scopus_id": "7401669873",
+                    "name": "James R.A.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "53867755600",
+                    "name": "Blake C.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "55537628100",
+                    "name": "Zwart A.B.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7005175522",
+                    "name": "Hare R.A.",
+                    "affiliation_id": [
+                        "60003763"
+                    ]
+                },
+                {
+                    "scopus_id": "6603756870",
+                    "name": "Rathjen A.J.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "57204334287",
+                    "name": "Munns R.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 84,
+            "publication_name": "Functional Plant Biology",
+            "issn": "14454408",
+            "cover_date": "2012-07-19",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "7",
+            "page_range": "609-618",
+            "doi": "10.1071/FP12121"
         },
         {
             "title": "Effect of sodium exclusion trait on chlorophyll retention and growth of durum wheat in saline soil",
@@ -3290,7 +3290,7 @@
                     ]
                 }
             ],
-            "citations": 70,
+            "citations": 71,
             "publication_name": "Theoretical and Applied Genetics",
             "issn": "00405752",
             "cover_date": "1992-08-01",
@@ -3400,6 +3400,92 @@
             "issue": "6",
             "page_range": "497-507",
             "doi": "10.1071/PP9840497"
+        },
+        {
+            "title": "A sodium transporter HvHKT1;1 confers salt tolerance in barley via regulating tissue and cell ion homeostasis",
+            "eid": "2-s2.0-85053272904",
+            "authors": [
+                {
+                    "scopus_id": "55489243000",
+                    "name": "Han Y.",
+                    "affiliation_id": [
+                        "60003970"
+                    ]
+                },
+                {
+                    "scopus_id": "57194014181",
+                    "name": "Yin S.",
+                    "affiliation_id": [
+                        "60003970"
+                    ]
+                },
+                {
+                    "scopus_id": "56203912000",
+                    "name": "Huang L.",
+                    "affiliation_id": [
+                        "60003970"
+                    ]
+                },
+                {
+                    "scopus_id": "54938839800",
+                    "name": "Wu X.",
+                    "affiliation_id": [
+                        "60003970"
+                    ]
+                },
+                {
+                    "scopus_id": "56198828900",
+                    "name": "Zeng J.",
+                    "affiliation_id": [
+                        "60003970"
+                    ]
+                },
+                {
+                    "scopus_id": "55640266500",
+                    "name": "Liu X.",
+                    "affiliation_id": [
+                        "60117550"
+                    ]
+                },
+                {
+                    "scopus_id": "26665116400",
+                    "name": "Qiu L.",
+                    "affiliation_id": [
+                        "60003970"
+                    ]
+                },
+                {
+                    "scopus_id": "57204334287",
+                    "name": "Munns R.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57211449346",
+                    "name": "Chen Z.H.",
+                    "affiliation_id": [
+                        "60003970",
+                        "60117550"
+                    ]
+                },
+                {
+                    "scopus_id": "8042421900",
+                    "name": "Zhang G.",
+                    "affiliation_id": [
+                        "60003970"
+                    ]
+                }
+            ],
+            "citations": 61,
+            "publication_name": "Plant and Cell Physiology",
+            "issn": "00320781",
+            "cover_date": "2018-10-01",
+            "venue": "Journal",
+            "volume": "59",
+            "issue": "10",
+            "page_range": "1976-1989",
+            "doi": "10.1093/pcp/pcy116"
         },
         {
             "title": "Breeding strategies for structuring salinity tolerance in wheat",
@@ -3514,92 +3600,6 @@
             "issue": "",
             "page_range": "121-187",
             "doi": "10.1016/bs.agron.2019.01.005"
-        },
-        {
-            "title": "A sodium transporter HvHKT1;1 confers salt tolerance in barley via regulating tissue and cell ion homeostasis",
-            "eid": "2-s2.0-85053272904",
-            "authors": [
-                {
-                    "scopus_id": "55489243000",
-                    "name": "Han Y.",
-                    "affiliation_id": [
-                        "60003970"
-                    ]
-                },
-                {
-                    "scopus_id": "57194014181",
-                    "name": "Yin S.",
-                    "affiliation_id": [
-                        "60003970"
-                    ]
-                },
-                {
-                    "scopus_id": "56203912000",
-                    "name": "Huang L.",
-                    "affiliation_id": [
-                        "60003970"
-                    ]
-                },
-                {
-                    "scopus_id": "54938839800",
-                    "name": "Wu X.",
-                    "affiliation_id": [
-                        "60003970"
-                    ]
-                },
-                {
-                    "scopus_id": "56198828900",
-                    "name": "Zeng J.",
-                    "affiliation_id": [
-                        "60003970"
-                    ]
-                },
-                {
-                    "scopus_id": "55640266500",
-                    "name": "Liu X.",
-                    "affiliation_id": [
-                        "60117550"
-                    ]
-                },
-                {
-                    "scopus_id": "26665116400",
-                    "name": "Qiu L.",
-                    "affiliation_id": [
-                        "60003970"
-                    ]
-                },
-                {
-                    "scopus_id": "57204334287",
-                    "name": "Munns R.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57211449346",
-                    "name": "Chen Z.H.",
-                    "affiliation_id": [
-                        "60003970",
-                        "60117550"
-                    ]
-                },
-                {
-                    "scopus_id": "8042421900",
-                    "name": "Zhang G.",
-                    "affiliation_id": [
-                        "60003970"
-                    ]
-                }
-            ],
-            "citations": 60,
-            "publication_name": "Plant and Cell Physiology",
-            "issn": "00320781",
-            "cover_date": "2018-10-01",
-            "venue": "Journal",
-            "volume": "59",
-            "issue": "10",
-            "page_range": "1976-1989",
-            "doi": "10.1093/pcp/pcy116"
         },
         {
             "title": "Concentrations and transport of solutes in xylem and phloem along the leaf axis of NaCl-treated Hordeum vulgare",
@@ -3928,7 +3928,7 @@
                     ]
                 }
             ],
-            "citations": 53,
+            "citations": 54,
             "publication_name": "New Phytologist",
             "issn": "0028646X",
             "cover_date": "2019-01-01",
@@ -5866,6 +5866,5 @@
             "$": "Medicine (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:51:24",
-    "c-score": null
+    "date fetched": "2024-07-12 21:01:07"
 }

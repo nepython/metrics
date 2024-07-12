@@ -28,7 +28,7 @@
                     ]
                 }
             ],
-            "citations": 5162,
+            "citations": 5179,
             "publication_name": "Computers and Geosciences",
             "issn": "00983004",
             "cover_date": "1984-01-01",
@@ -57,7 +57,7 @@
                     ]
                 }
             ],
-            "citations": 1664,
+            "citations": 1665,
             "publication_name": "IEEE Transactions on Fuzzy Systems",
             "issn": "10636706",
             "cover_date": "1995-01-01",
@@ -100,7 +100,7 @@
                     ]
                 }
             ],
-            "citations": 1084,
+            "citations": 1088,
             "publication_name": "IEEE Transactions on Fuzzy Systems",
             "issn": "10636706",
             "cover_date": "2005-08-01",
@@ -152,7 +152,7 @@
                     ]
                 }
             ],
-            "citations": 945,
+            "citations": 946,
             "publication_name": "IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics",
             "issn": "10834419",
             "cover_date": "1998-12-01",
@@ -251,7 +251,7 @@
                     ]
                 }
             ],
-            "citations": 803,
+            "citations": 804,
             "publication_name": "Medical Physics",
             "issn": "00942405",
             "cover_date": "1993-01-01",
@@ -366,7 +366,7 @@
                     ]
                 }
             ],
-            "citations": 486,
+            "citations": 487,
             "publication_name": "IEEE Transactions on Neural Networks",
             "issn": "10459227",
             "cover_date": "1992-01-01",
@@ -426,7 +426,7 @@
                     ]
                 }
             ],
-            "citations": 421,
+            "citations": 422,
             "publication_name": "IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics",
             "issn": "10834419",
             "cover_date": "2001-10-01",
@@ -586,7 +586,7 @@
                     ]
                 }
             ],
-            "citations": 388,
+            "citations": 389,
             "publication_name": "IEEE Transactions on Fuzzy Systems",
             "issn": "10636706",
             "cover_date": "1996-12-01",
@@ -658,7 +658,7 @@
                     ]
                 }
             ],
-            "citations": 322,
+            "citations": 323,
             "publication_name": "IEEE International Conference on Fuzzy Systems",
             "issn": "",
             "cover_date": "1997-01-01",
@@ -754,7 +754,7 @@
                     ]
                 }
             ],
-            "citations": 282,
+            "citations": 283,
             "publication_name": "Pattern Recognition",
             "issn": "00313203",
             "cover_date": "1994-01-01",
@@ -790,7 +790,7 @@
                     ]
                 }
             ],
-            "citations": 280,
+            "citations": 281,
             "publication_name": "Pattern Recognition",
             "issn": "00313203",
             "cover_date": "1989-01-01",
@@ -819,7 +819,7 @@
                     ]
                 }
             ],
-            "citations": 274,
+            "citations": 275,
             "publication_name": "IEEE Transactions on Fuzzy Systems",
             "issn": "10636706",
             "cover_date": "1994-01-01",
@@ -956,7 +956,7 @@
                     ]
                 }
             ],
-            "citations": 220,
+            "citations": 221,
             "publication_name": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
             "issn": "03029743",
             "cover_date": "2002-01-01",
@@ -1590,7 +1590,7 @@
                     ]
                 }
             ],
-            "citations": 122,
+            "citations": 124,
             "publication_name": "Fuzzy Sets and Systems",
             "issn": "01650114",
             "cover_date": "1986-01-01",
@@ -1669,7 +1669,7 @@
                     ]
                 }
             ],
-            "citations": 110,
+            "citations": 111,
             "publication_name": "IEEE Transactions on Knowledge and Data Engineering",
             "issn": "10414347",
             "cover_date": "2012-04-18",
@@ -1712,7 +1712,7 @@
                     ]
                 }
             ],
-            "citations": 104,
+            "citations": 105,
             "publication_name": "IEEE Transactions on Fuzzy Systems",
             "issn": "10636706",
             "cover_date": "2010-10-01",
@@ -2403,7 +2403,7 @@
                     ]
                 }
             ],
-            "citations": 83,
+            "citations": 84,
             "publication_name": "Journal of Intelligent and Fuzzy Systems",
             "issn": "10641246",
             "cover_date": "1993-01-01",
@@ -3607,6 +3607,113 @@
             "doi": "10.1016/0031-3203(88)90037-4"
         },
         {
+            "title": "A Scalable Framework for Trajectory Prediction",
+            "eid": "2-s2.0-85077517056",
+            "authors": [
+                {
+                    "scopus_id": "57195573889",
+                    "name": "Rathore P.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56888248700",
+                    "name": "Kumar D.",
+                    "affiliation_id": [
+                        "60032781"
+                    ]
+                },
+                {
+                    "scopus_id": "23478300900",
+                    "name": "Rajasegarar S.",
+                    "affiliation_id": [
+                        "60018805"
+                    ]
+                },
+                {
+                    "scopus_id": "7005048570",
+                    "name": "Palaniswami M.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7005397898",
+                    "name": "Bezdek J.C.",
+                    "affiliation_id": [
+                        "60118847"
+                    ]
+                }
+            ],
+            "citations": 46,
+            "publication_name": "IEEE Transactions on Intelligent Transportation Systems",
+            "issn": "15249050",
+            "cover_date": "2019-10-01",
+            "venue": "Journal",
+            "volume": "20",
+            "issue": "10",
+            "page_range": "3860-3874",
+            "doi": "10.1109/TITS.2019.2899179"
+        },
+        {
+            "title": "Efficient Unsupervised Parameter Estimation for One-Class Support Vector Machines",
+            "eid": "2-s2.0-85040974345",
+            "authors": [
+                {
+                    "scopus_id": "56403360500",
+                    "name": "Ghafoori Z.",
+                    "affiliation_id": [
+                        "60118847"
+                    ]
+                },
+                {
+                    "scopus_id": "54791054200",
+                    "name": "Erfani S.M.",
+                    "affiliation_id": [
+                        "60118847"
+                    ]
+                },
+                {
+                    "scopus_id": "23478300900",
+                    "name": "Rajasegarar S.",
+                    "affiliation_id": [
+                        "60018805"
+                    ]
+                },
+                {
+                    "scopus_id": "7005397898",
+                    "name": "Bezdek J.C.",
+                    "affiliation_id": [
+                        "60118847"
+                    ]
+                },
+                {
+                    "scopus_id": "55925860100",
+                    "name": "Karunasekera S.",
+                    "affiliation_id": [
+                        "60118847"
+                    ]
+                },
+                {
+                    "scopus_id": "7003524629",
+                    "name": "Leckie C.",
+                    "affiliation_id": [
+                        "60118847"
+                    ]
+                }
+            ],
+            "citations": 46,
+            "publication_name": "IEEE Transactions on Neural Networks and Learning Systems",
+            "issn": "2162237X",
+            "cover_date": "2018-10-01",
+            "venue": "Journal",
+            "volume": "29",
+            "issue": "10",
+            "page_range": "5057-5070",
+            "doi": "10.1109/TNNLS.2017.2785792"
+        },
+        {
             "title": "On relational data versions of c-means algorithms",
             "eid": "2-s2.0-0030149632",
             "authors": [
@@ -3670,113 +3777,6 @@
             "issue": "5",
             "page_range": "787-793",
             "doi": "10.1109/72.159067"
-        },
-        {
-            "title": "A Scalable Framework for Trajectory Prediction",
-            "eid": "2-s2.0-85077517056",
-            "authors": [
-                {
-                    "scopus_id": "57195573889",
-                    "name": "Rathore P.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56888248700",
-                    "name": "Kumar D.",
-                    "affiliation_id": [
-                        "60032781"
-                    ]
-                },
-                {
-                    "scopus_id": "23478300900",
-                    "name": "Rajasegarar S.",
-                    "affiliation_id": [
-                        "60018805"
-                    ]
-                },
-                {
-                    "scopus_id": "7005048570",
-                    "name": "Palaniswami M.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7005397898",
-                    "name": "Bezdek J.C.",
-                    "affiliation_id": [
-                        "60118847"
-                    ]
-                }
-            ],
-            "citations": 45,
-            "publication_name": "IEEE Transactions on Intelligent Transportation Systems",
-            "issn": "15249050",
-            "cover_date": "2019-10-01",
-            "venue": "Journal",
-            "volume": "20",
-            "issue": "10",
-            "page_range": "3860-3874",
-            "doi": "10.1109/TITS.2019.2899179"
-        },
-        {
-            "title": "Efficient Unsupervised Parameter Estimation for One-Class Support Vector Machines",
-            "eid": "2-s2.0-85040974345",
-            "authors": [
-                {
-                    "scopus_id": "56403360500",
-                    "name": "Ghafoori Z.",
-                    "affiliation_id": [
-                        "60118847"
-                    ]
-                },
-                {
-                    "scopus_id": "54791054200",
-                    "name": "Erfani S.M.",
-                    "affiliation_id": [
-                        "60118847"
-                    ]
-                },
-                {
-                    "scopus_id": "23478300900",
-                    "name": "Rajasegarar S.",
-                    "affiliation_id": [
-                        "60018805"
-                    ]
-                },
-                {
-                    "scopus_id": "7005397898",
-                    "name": "Bezdek J.C.",
-                    "affiliation_id": [
-                        "60118847"
-                    ]
-                },
-                {
-                    "scopus_id": "55925860100",
-                    "name": "Karunasekera S.",
-                    "affiliation_id": [
-                        "60118847"
-                    ]
-                },
-                {
-                    "scopus_id": "7003524629",
-                    "name": "Leckie C.",
-                    "affiliation_id": [
-                        "60118847"
-                    ]
-                }
-            ],
-            "citations": 45,
-            "publication_name": "IEEE Transactions on Neural Networks and Learning Systems",
-            "issn": "2162237X",
-            "cover_date": "2018-10-01",
-            "venue": "Journal",
-            "volume": "29",
-            "issue": "10",
-            "page_range": "5057-5070",
-            "doi": "10.1109/TNNLS.2017.2785792"
         },
         {
             "title": "An Application of the C-Varieties Clustering Algorithms to Polygonal Curve Fitting",
@@ -3849,6 +3849,57 @@
             "issue": "7",
             "page_range": "4206-4215",
             "doi": "10.1109/TII.2019.2912465"
+        },
+        {
+            "title": "Enhanced visual analysis for cluster tendency assessment and data partitioning",
+            "eid": "2-s2.0-77956025853",
+            "authors": [
+                {
+                    "scopus_id": "55943587300",
+                    "name": "Wang L.",
+                    "affiliation_id": [
+                        "60018486"
+                    ]
+                },
+                {
+                    "scopus_id": "26656636600",
+                    "name": "Geng X.",
+                    "affiliation_id": [
+                        "60005244",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7005397898",
+                    "name": "Bezdek J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7003524629",
+                    "name": "Leckie C.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56891817800",
+                    "name": "Kotagiri R.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 43,
+            "publication_name": "IEEE Transactions on Knowledge and Data Engineering",
+            "issn": "10414347",
+            "cover_date": "2010-09-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "10",
+            "page_range": "1401-1414",
+            "doi": "10.1109/TKDE.2009.192"
         },
         {
             "title": "Approximate spectral clustering",
@@ -3954,57 +4005,6 @@
             "issue": "1",
             "page_range": "1-12",
             "doi": "10.1080/03637757909375986"
-        },
-        {
-            "title": "Enhanced visual analysis for cluster tendency assessment and data partitioning",
-            "eid": "2-s2.0-77956025853",
-            "authors": [
-                {
-                    "scopus_id": "55943587300",
-                    "name": "Wang L.",
-                    "affiliation_id": [
-                        "60018486"
-                    ]
-                },
-                {
-                    "scopus_id": "26656636600",
-                    "name": "Geng X.",
-                    "affiliation_id": [
-                        "60005244",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7005397898",
-                    "name": "Bezdek J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7003524629",
-                    "name": "Leckie C.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56891817800",
-                    "name": "Kotagiri R.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 42,
-            "publication_name": "IEEE Transactions on Knowledge and Data Engineering",
-            "issn": "10414347",
-            "cover_date": "2010-09-01",
-            "venue": "Journal",
-            "volume": "22",
-            "issue": "10",
-            "page_range": "1401-1414",
-            "doi": "10.1109/TKDE.2009.192"
         },
         {
             "title": "Relational generalizations of cluster validity indices",
@@ -4179,6 +4179,63 @@
             "doi": "10.1016/j.patcog.2014.06.021"
         },
         {
+            "title": "Ground truth bias in external cluster validity indices",
+            "eid": "2-s2.0-85010666282",
+            "authors": [
+                {
+                    "scopus_id": "56358261800",
+                    "name": "Lei Y.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7005397898",
+                    "name": "Bezdek J.C.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "54684961800",
+                    "name": "Romano S.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "26327053300",
+                    "name": "Vinh N.X.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "16068112600",
+                    "name": "Chan J.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                },
+                {
+                    "scopus_id": "7404350735",
+                    "name": "Bailey J.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Pattern Recognition",
+            "issn": "00313203",
+            "cover_date": "2017-05-01",
+            "venue": "Journal",
+            "volume": "65",
+            "issue": "",
+            "page_range": "58-70",
+            "doi": "10.1016/j.patcog.2016.12.003"
+        },
+        {
             "title": "Breast cancer detection using image processing techniques",
             "eid": "2-s2.0-0033713667",
             "authors": [
@@ -4242,63 +4299,6 @@
             "issue": "2",
             "page_range": "207-218",
             "doi": "10.1016/S0165-0114(98)00164-X"
-        },
-        {
-            "title": "Ground truth bias in external cluster validity indices",
-            "eid": "2-s2.0-85010666282",
-            "authors": [
-                {
-                    "scopus_id": "56358261800",
-                    "name": "Lei Y.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7005397898",
-                    "name": "Bezdek J.C.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "54684961800",
-                    "name": "Romano S.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "26327053300",
-                    "name": "Vinh N.X.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "16068112600",
-                    "name": "Chan J.",
-                    "affiliation_id": [
-                        "60011362"
-                    ]
-                },
-                {
-                    "scopus_id": "7404350735",
-                    "name": "Bailey J.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 35,
-            "publication_name": "Pattern Recognition",
-            "issn": "00313203",
-            "cover_date": "2017-05-01",
-            "venue": "Journal",
-            "volume": "65",
-            "issue": "",
-            "page_range": "58-70",
-            "doi": "10.1016/j.patcog.2016.12.003"
         },
         {
             "title": "Anomaly detection in environmental monitoring networks",
@@ -4840,6 +4840,49 @@
             "doi": "10.1109/35.156801"
         },
         {
+            "title": "Clustering in Ordered Dissimilarity Data",
+            "eid": "2-s2.0-67649289957",
+            "authors": [
+                {
+                    "scopus_id": "24767362000",
+                    "name": "Havens T.C.",
+                    "affiliation_id": [
+                        "60152000"
+                    ]
+                },
+                {
+                    "scopus_id": "7005397898",
+                    "name": "Bezdek J.C.",
+                    "affiliation_id": [
+                        "60152000"
+                    ]
+                },
+                {
+                    "scopus_id": "7403486724",
+                    "name": "Keller J.M.",
+                    "affiliation_id": [
+                        "60152000"
+                    ]
+                },
+                {
+                    "scopus_id": "7201384279",
+                    "name": "Popescu M.",
+                    "affiliation_id": [
+                        "60006173"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "International Journal of Intelligent Systems",
+            "issn": "08848173",
+            "cover_date": "2009-05-01",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "5",
+            "page_range": "504-528",
+            "doi": "10.1002/int.20344"
+        },
+        {
             "title": "Some issues in system identification using clustering",
             "eid": "2-s2.0-0030651072",
             "authors": [
@@ -4958,49 +5001,6 @@
             "issue": "6",
             "page_range": "1500-1512",
             "doi": "10.1109/TFUZZ.2016.2540063"
-        },
-        {
-            "title": "Clustering in Ordered Dissimilarity Data",
-            "eid": "2-s2.0-67649289957",
-            "authors": [
-                {
-                    "scopus_id": "24767362000",
-                    "name": "Havens T.C.",
-                    "affiliation_id": [
-                        "60152000"
-                    ]
-                },
-                {
-                    "scopus_id": "7005397898",
-                    "name": "Bezdek J.C.",
-                    "affiliation_id": [
-                        "60152000"
-                    ]
-                },
-                {
-                    "scopus_id": "7403486724",
-                    "name": "Keller J.M.",
-                    "affiliation_id": [
-                        "60152000"
-                    ]
-                },
-                {
-                    "scopus_id": "7201384279",
-                    "name": "Popescu M.",
-                    "affiliation_id": [
-                        "60006173"
-                    ]
-                }
-            ],
-            "citations": 28,
-            "publication_name": "International Journal of Intelligent Systems",
-            "issn": "08848173",
-            "cover_date": "2009-05-01",
-            "venue": "Journal",
-            "volume": "24",
-            "issue": "5",
-            "page_range": "504-528",
-            "doi": "10.1002/int.20344"
         },
         {
             "title": "Approximate clustering in very large relational data",
@@ -6175,6 +6175,50 @@
             "doi": "10.1002/(SICI)1097-4571(198703)38:2<97::AID-ASI3>3.0.CO;2-H"
         },
         {
+            "title": "FORESEEN: Towards Differentially Private Deep Inference for Intelligent Internet of Things",
+            "eid": "2-s2.0-85086736230",
+            "authors": [
+                {
+                    "scopus_id": "57189234207",
+                    "name": "Lyu L.",
+                    "affiliation_id": [
+                        "60017161"
+                    ]
+                },
+                {
+                    "scopus_id": "7005397898",
+                    "name": "Bezdek J.C.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "24465681500",
+                    "name": "Jin J.",
+                    "affiliation_id": [
+                        "60030804"
+                    ]
+                },
+                {
+                    "scopus_id": "56070360300",
+                    "name": "Yang Y.",
+                    "affiliation_id": [
+                        "60105232",
+                        "60271961"
+                    ]
+                }
+            ],
+            "citations": 19,
+            "publication_name": "IEEE Journal on Selected Areas in Communications",
+            "issn": "07338716",
+            "cover_date": "2020-10-01",
+            "venue": "Journal",
+            "volume": "38",
+            "issue": "10",
+            "page_range": "2418-2429",
+            "doi": "10.1109/JSAC.2020.3000374"
+        },
+        {
             "title": "A Note on Self-Organizing Semantic Maps",
             "eid": "2-s2.0-0029373534",
             "authors": [
@@ -6321,50 +6365,6 @@
             "issue": "1",
             "page_range": "91-102",
             "doi": "10.1109/TSMC.2020.3035957"
-        },
-        {
-            "title": "FORESEEN: Towards Differentially Private Deep Inference for Intelligent Internet of Things",
-            "eid": "2-s2.0-85086736230",
-            "authors": [
-                {
-                    "scopus_id": "57189234207",
-                    "name": "Lyu L.",
-                    "affiliation_id": [
-                        "60017161"
-                    ]
-                },
-                {
-                    "scopus_id": "7005397898",
-                    "name": "Bezdek J.C.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "24465681500",
-                    "name": "Jin J.",
-                    "affiliation_id": [
-                        "60030804"
-                    ]
-                },
-                {
-                    "scopus_id": "56070360300",
-                    "name": "Yang Y.",
-                    "affiliation_id": [
-                        "60105232",
-                        "60271961"
-                    ]
-                }
-            ],
-            "citations": 18,
-            "publication_name": "IEEE Journal on Selected Areas in Communications",
-            "issn": "07338716",
-            "cover_date": "2020-10-01",
-            "venue": "Journal",
-            "volume": "38",
-            "issue": "10",
-            "page_range": "2418-2429",
-            "doi": "10.1109/JSAC.2020.3000374"
         },
         {
             "title": "(Automatic) cluster count extraction from unlabeled data sets",
@@ -9091,6 +9091,49 @@
             "doi": "10.1016/j.ins.2021.08.101"
         },
         {
+            "title": "Experiments with maximin sampling",
+            "eid": "2-s2.0-85090503444",
+            "authors": [
+                {
+                    "scopus_id": "57192545800",
+                    "name": "Ibrahim O.A.",
+                    "affiliation_id": [
+                        "60006173"
+                    ]
+                },
+                {
+                    "scopus_id": "7403486724",
+                    "name": "Keller J.",
+                    "affiliation_id": [
+                        "60006173"
+                    ]
+                },
+                {
+                    "scopus_id": "7005397898",
+                    "name": "Bezdek J.C.",
+                    "affiliation_id": [
+                        "60006173"
+                    ]
+                },
+                {
+                    "scopus_id": "7201384279",
+                    "name": "Popescu M.",
+                    "affiliation_id": [
+                        "117881784"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "IEEE International Conference on Fuzzy Systems",
+            "issn": "10987584",
+            "cover_date": "2020-07-01",
+            "venue": "Conference Proceeding",
+            "volume": "2020-July",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1109/FUZZ48607.2020.9177681"
+        },
+        {
             "title": "Seeding on samples for accelerating k-means clustering",
             "eid": "2-s2.0-85076544509",
             "authors": [
@@ -9389,49 +9432,6 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1109/SPCOM50965.2020.9179608"
-        },
-        {
-            "title": "Experiments with maximin sampling",
-            "eid": "2-s2.0-85090503444",
-            "authors": [
-                {
-                    "scopus_id": "57192545800",
-                    "name": "Ibrahim O.A.",
-                    "affiliation_id": [
-                        "60006173"
-                    ]
-                },
-                {
-                    "scopus_id": "7403486724",
-                    "name": "Keller J.",
-                    "affiliation_id": [
-                        "60006173"
-                    ]
-                },
-                {
-                    "scopus_id": "7005397898",
-                    "name": "Bezdek J.C.",
-                    "affiliation_id": [
-                        "60006173"
-                    ]
-                },
-                {
-                    "scopus_id": "7201384279",
-                    "name": "Popescu M.",
-                    "affiliation_id": [
-                        "117881784"
-                    ]
-                }
-            ],
-            "citations": 4,
-            "publication_name": "IEEE International Conference on Fuzzy Systems",
-            "issn": "10987584",
-            "cover_date": "2020-07-01",
-            "venue": "Conference Proceeding",
-            "volume": "2020-July",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1109/FUZZ48607.2020.9177681"
         },
         {
             "title": "Approximate Cluster Heat Maps of Large High-Dimensional Data",
@@ -12712,6 +12712,5 @@
             "$": "Mathematics (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:47:10",
-    "c-score": null
+    "date fetched": "2024-07-12 19:09:04"
 }

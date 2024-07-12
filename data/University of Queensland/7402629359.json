@@ -705,7 +705,7 @@
                     ]
                 }
             ],
-            "citations": 9335,
+            "citations": 9344,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -1420,7 +1420,7 @@
                     ]
                 }
             ],
-            "citations": 6900,
+            "citations": 6905,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-12-01",
@@ -2134,7 +2134,7 @@
                     ]
                 }
             ],
-            "citations": 6228,
+            "citations": 6234,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -2374,7 +2374,7 @@
                     ]
                 }
             ],
-            "citations": 1458,
+            "citations": 1459,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2011-07-07",
@@ -2438,7 +2438,7 @@
                     ]
                 }
             ],
-            "citations": 1082,
+            "citations": 1084,
             "publication_name": "Addiction",
             "issn": "09652140",
             "cover_date": "1995-01-01",
@@ -2468,7 +2468,7 @@
                     ]
                 }
             ],
-            "citations": 943,
+            "citations": 944,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -2497,7 +2497,7 @@
                     ]
                 }
             ],
-            "citations": 903,
+            "citations": 905,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2009-01-01",
@@ -2684,7 +2684,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 869,
+            "citations": 873,
             "publication_name": "The Lancet Psychiatry",
             "issn": "22150366",
             "cover_date": "2018-12-01",
@@ -2928,7 +2928,7 @@
                     ]
                 }
             ],
-            "citations": 674,
+            "citations": 679,
             "publication_name": "Addiction",
             "issn": "09652140",
             "cover_date": "2018-10-01",
@@ -3082,7 +3082,7 @@
                     ]
                 }
             ],
-            "citations": 643,
+            "citations": 645,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2013-01-01",
@@ -3185,7 +3185,7 @@
                     ]
                 }
             ],
-            "citations": 466,
+            "citations": 467,
             "publication_name": "Addiction",
             "issn": "09652140",
             "cover_date": "2003-11-01",
@@ -3238,7 +3238,7 @@
                     ]
                 }
             ],
-            "citations": 439,
+            "citations": 440,
             "publication_name": "Addiction",
             "issn": "09652140",
             "cover_date": "2015-01-01",
@@ -3375,7 +3375,7 @@
                     ]
                 }
             ],
-            "citations": 352,
+            "citations": 353,
             "publication_name": "The Lancet Psychiatry",
             "issn": "22150366",
             "cover_date": "2016-03-01",
@@ -3831,6 +3831,78 @@
             "doi": "10.1097/j.pain.0000000000001293"
         },
         {
+            "title": "Cannabinoids for the treatment of mental disorders and symptoms of mental disorders: a systematic review and meta-analysis",
+            "eid": "2-s2.0-85075156886",
+            "authors": [
+                {
+                    "scopus_id": "56642426100",
+                    "name": "Black N.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "37066657300",
+                    "name": "Stockings E.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "23990257200",
+                    "name": "Campbell G.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "57210908469",
+                    "name": "Tran L.T.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "57194019386",
+                    "name": "Zagic D.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.D.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "50961122100",
+                    "name": "Farrell M.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7004040033",
+                    "name": "Degenhardt L.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                }
+            ],
+            "citations": 303,
+            "publication_name": "The Lancet Psychiatry",
+            "issn": "22150366",
+            "cover_date": "2019-12-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "12",
+            "page_range": "995-1010",
+            "doi": "10.1016/S2215-0366(19)30401-8"
+        },
+        {
             "title": "Australia's mental health: An overview of the general population survey",
             "eid": "2-s2.0-0034112270",
             "authors": [
@@ -3908,78 +3980,6 @@
             "issue": "8",
             "page_range": "1113-1125",
             "doi": "10.1046/j.1360-0443.2001.96811135.x"
-        },
-        {
-            "title": "Cannabinoids for the treatment of mental disorders and symptoms of mental disorders: a systematic review and meta-analysis",
-            "eid": "2-s2.0-85075156886",
-            "authors": [
-                {
-                    "scopus_id": "56642426100",
-                    "name": "Black N.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "37066657300",
-                    "name": "Stockings E.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "23990257200",
-                    "name": "Campbell G.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "57210908469",
-                    "name": "Tran L.T.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "57194019386",
-                    "name": "Zagic D.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.D.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "50961122100",
-                    "name": "Farrell M.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7004040033",
-                    "name": "Degenhardt L.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                }
-            ],
-            "citations": 300,
-            "publication_name": "The Lancet Psychiatry",
-            "issn": "22150366",
-            "cover_date": "2019-12-01",
-            "venue": "Journal",
-            "volume": "6",
-            "issue": "12",
-            "page_range": "995-1010",
-            "doi": "10.1016/S2215-0366(19)30401-8"
         },
         {
             "title": "Overdose among heroin users in Sydney, Australia: I. Prevalence and correlates of non-fatal overdose",
@@ -4463,6 +4463,72 @@
             "doi": "10.1016/S0376-8716(03)00064-4"
         },
         {
+            "title": "Public health implications of legalising the production and sale of cannabis for medicinal and recreational use",
+            "eid": "2-s2.0-85073695474",
+            "authors": [
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "56633409600",
+                    "name": "Stjepanovi\u0107 D.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7004463460",
+                    "name": "Caulkins J.",
+                    "affiliation_id": [
+                        "60027950"
+                    ]
+                },
+                {
+                    "scopus_id": "7004900664",
+                    "name": "Lynskey M.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "57214397752",
+                    "name": "Leung J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "23990257200",
+                    "name": "Campbell G.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7004040033",
+                    "name": "Degenhardt L.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                }
+            ],
+            "citations": 231,
+            "publication_name": "The Lancet",
+            "issn": "01406736",
+            "cover_date": "2019-10-26",
+            "venue": "Journal",
+            "volume": "394",
+            "issue": "10208",
+            "page_range": "1580-1590",
+            "doi": "10.1016/S0140-6736(19)31789-1"
+        },
+        {
             "title": "The Global Epidemiology and Contribution of Cannabis Use and Dependence to the Global Burden of Disease: Results from the GBD 2010 Study",
             "eid": "2-s2.0-84886266151",
             "authors": [
@@ -4644,7 +4710,7 @@
                     ]
                 }
             ],
-            "citations": 229,
+            "citations": 230,
             "publication_name": "The Lancet Infectious Diseases",
             "issn": "14733099",
             "cover_date": "2016-12-01",
@@ -4653,72 +4719,6 @@
             "issue": "12",
             "page_range": "1385-1398",
             "doi": "10.1016/S1473-3099(16)30325-5"
-        },
-        {
-            "title": "Public health implications of legalising the production and sale of cannabis for medicinal and recreational use",
-            "eid": "2-s2.0-85073695474",
-            "authors": [
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "56633409600",
-                    "name": "Stjepanovi\u0107 D.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7004463460",
-                    "name": "Caulkins J.",
-                    "affiliation_id": [
-                        "60027950"
-                    ]
-                },
-                {
-                    "scopus_id": "7004900664",
-                    "name": "Lynskey M.",
-                    "affiliation_id": [
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "57214397752",
-                    "name": "Leung J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "23990257200",
-                    "name": "Campbell G.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7004040033",
-                    "name": "Degenhardt L.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                }
-            ],
-            "citations": 228,
-            "publication_name": "The Lancet",
-            "issn": "01406736",
-            "cover_date": "2019-10-26",
-            "venue": "Journal",
-            "volume": "394",
-            "issue": "10208",
-            "page_range": "1580-1590",
-            "doi": "10.1016/S0140-6736(19)31789-1"
         },
         {
             "title": "The reliability and validity of a scale to measure HIV risk-taking behaviour among intravenous drug users",
@@ -4791,7 +4791,7 @@
                     ]
                 }
             ],
-            "citations": 225,
+            "citations": 226,
             "publication_name": "Addiction (Abingdon, England)",
             "issn": "",
             "cover_date": "2016-10-01",
@@ -4885,7 +4885,7 @@
                     ]
                 }
             ],
-            "citations": 210,
+            "citations": 211,
             "publication_name": "The Lancet Psychiatry",
             "issn": "22150366",
             "cover_date": "2016-03-01",
@@ -5934,7 +5934,7 @@
                     ]
                 }
             ],
-            "citations": 186,
+            "citations": 187,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2019-11-02",
@@ -5995,7 +5995,7 @@
                     ]
                 }
             ],
-            "citations": 185,
+            "citations": 186,
             "publication_name": "Nature Reviews Disease Primers",
             "issn": "",
             "cover_date": "2021-12-01",
@@ -6190,6 +6190,36 @@
             "doi": "10.1097/00004872-198402000-00015"
         },
         {
+            "title": "Assessing the public health impacts of legalizing recreational cannabis use: the US experience",
+            "eid": "2-s2.0-85084510005",
+            "authors": [
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7004900664",
+                    "name": "Lynskey M.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 170,
+            "publication_name": "World Psychiatry",
+            "issn": "17238617",
+            "cover_date": "2020-06-01",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "2",
+            "page_range": "179-186",
+            "doi": "10.1002/wps.20735"
+        },
+        {
             "title": "The adverse health effects of cannabis use: What are they, and what are their implications for policy?",
             "eid": "2-s2.0-70349417905",
             "authors": [
@@ -6283,36 +6313,6 @@
             "issue": "9069",
             "page_range": "1897-1900",
             "doi": "10.1016/S0140-6736(97)04572-8"
-        },
-        {
-            "title": "Assessing the public health impacts of legalizing recreational cannabis use: the US experience",
-            "eid": "2-s2.0-85084510005",
-            "authors": [
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "7004900664",
-                    "name": "Lynskey M.",
-                    "affiliation_id": [
-                        "60011520"
-                    ]
-                }
-            ],
-            "citations": 167,
-            "publication_name": "World Psychiatry",
-            "issn": "17238617",
-            "cover_date": "2020-06-01",
-            "venue": "Journal",
-            "volume": "19",
-            "issue": "2",
-            "page_range": "179-186",
-            "doi": "10.1002/wps.20735"
         },
         {
             "title": "Effect of cannabis use in people with chronic non-cancer pain prescribed opioids: findings from a 4-year prospective cohort study",
@@ -6427,7 +6427,7 @@
                     ]
                 }
             ],
-            "citations": 164,
+            "citations": 165,
             "publication_name": "The Lancet Public Health",
             "issn": "",
             "cover_date": "2018-07-01",
@@ -6722,7 +6722,7 @@
                     ]
                 }
             ],
-            "citations": 153,
+            "citations": 154,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2011-11-30",
@@ -6758,7 +6758,7 @@
                     ]
                 }
             ],
-            "citations": 149,
+            "citations": 150,
             "publication_name": "Lancet Oncology",
             "issn": "14702045",
             "cover_date": "2005-01-01",
@@ -7106,7 +7106,7 @@
                     ]
                 }
             ],
-            "citations": 140,
+            "citations": 141,
             "publication_name": "Clinical Pharmacology and Therapeutics",
             "issn": "00099236",
             "cover_date": "2015-06-01",
@@ -7290,7 +7290,7 @@
                     ]
                 }
             ],
-            "citations": 136,
+            "citations": 137,
             "publication_name": "Drug and Alcohol Dependence",
             "issn": "03768716",
             "cover_date": "2017-10-01",
@@ -7708,7 +7708,7 @@
                     ]
                 }
             ],
-            "citations": 128,
+            "citations": 129,
             "publication_name": "Journal of Neurology, Neurosurgery and Psychiatry",
             "issn": "00223050",
             "cover_date": "2018-07-01",
@@ -7983,7 +7983,7 @@
                     ]
                 }
             ],
-            "citations": 119,
+            "citations": 120,
             "publication_name": "Drug and Alcohol Review",
             "issn": "09595236",
             "cover_date": "2017-03-01",
@@ -8349,7 +8349,7 @@
                     ]
                 }
             ],
-            "citations": 110,
+            "citations": 111,
             "publication_name": "World Psychiatry",
             "issn": "17238617",
             "cover_date": "2008-01-01",
@@ -8823,6 +8823,78 @@
             "doi": "10.1001/archpsyc.1985.01790290015001"
         },
         {
+            "title": "Social, demographic, and economic correlates of food and chemical consumption measured by wastewater-based epidemiology",
+            "eid": "2-s2.0-85073723859",
+            "authors": [
+                {
+                    "scopus_id": "57202604068",
+                    "name": "Choi P.M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55938442900",
+                    "name": "Tscharke B.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "25825702400",
+                    "name": "Samanipour S.",
+                    "affiliation_id": [
+                        "60026169"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.D.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "8450161900",
+                    "name": "Gartner C.E.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57212221160",
+                    "name": "Mueller J.F.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57204870448",
+                    "name": "Thomas K.V.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57941900000",
+                    "name": "O\u2019Brien J.W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 99,
+            "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
+            "issn": "00278424",
+            "cover_date": "2019-10-22",
+            "venue": "Journal",
+            "volume": "116",
+            "issue": "43",
+            "page_range": "21864-21873",
+            "doi": "10.1073/pnas.1910242116"
+        },
+        {
             "title": "Mobile phones in research and treatment: Ethical guidelines and future directions",
             "eid": "2-s2.0-85032966063",
             "authors": [
@@ -9049,78 +9121,6 @@
             "issue": "2",
             "page_range": "119-124",
             "doi": "10.1136/tc.11.2.119"
-        },
-        {
-            "title": "Social, demographic, and economic correlates of food and chemical consumption measured by wastewater-based epidemiology",
-            "eid": "2-s2.0-85073723859",
-            "authors": [
-                {
-                    "scopus_id": "57202604068",
-                    "name": "Choi P.M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "55938442900",
-                    "name": "Tscharke B.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "25825702400",
-                    "name": "Samanipour S.",
-                    "affiliation_id": [
-                        "60026169"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.D.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "8450161900",
-                    "name": "Gartner C.E.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57212221160",
-                    "name": "Mueller J.F.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57204870448",
-                    "name": "Thomas K.V.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57941900000",
-                    "name": "O\u2019Brien J.W.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 98,
-            "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
-            "issn": "00278424",
-            "cover_date": "2019-10-22",
-            "venue": "Journal",
-            "volume": "116",
-            "issue": "43",
-            "page_range": "21864-21873",
-            "doi": "10.1073/pnas.1910242116"
         },
         {
             "title": "The prognosis of depression in old age",
@@ -9387,28 +9387,6 @@
             "doi": "10.1111/j.1467-842X.2000.tb01605.x"
         },
         {
-            "title": "Cannabis use and the mental health of young people",
-            "eid": "2-s2.0-33644925868",
-            "authors": [
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 93,
-            "publication_name": "Australian and New Zealand Journal of Psychiatry",
-            "issn": "00048674",
-            "cover_date": "2006-02-01",
-            "venue": "Journal",
-            "volume": "40",
-            "issue": "2",
-            "page_range": "105-113",
-            "doi": "10.1111/j.1440-1614.2006.01756.x"
-        },
-        {
             "title": "Evaluating the impacts of cannabis legalization: The International Cannabis Policy Study",
             "eid": "2-s2.0-85079906624",
             "authors": [
@@ -9455,7 +9433,7 @@
                     ]
                 }
             ],
-            "citations": 92,
+            "citations": 93,
             "publication_name": "International Journal of Drug Policy",
             "issn": "09553959",
             "cover_date": "2020-03-01",
@@ -9464,6 +9442,28 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1016/j.drugpo.2020.102698"
+        },
+        {
+            "title": "Cannabis use and the mental health of young people",
+            "eid": "2-s2.0-33644925868",
+            "authors": [
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 93,
+            "publication_name": "Australian and New Zealand Journal of Psychiatry",
+            "issn": "00048674",
+            "cover_date": "2006-02-01",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "2",
+            "page_range": "105-113",
+            "doi": "10.1111/j.1440-1614.2006.01756.x"
         },
         {
             "title": "The Neurobiology of \"food Addiction\" and Its Implications for Obesity Treatment and Policy",
@@ -9879,43 +9879,6 @@
             "doi": "10.1002/gps.930050304"
         },
         {
-            "title": "Cannabis use and psychotic disorders: An update",
-            "eid": "2-s2.0-4944222090",
-            "authors": [
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7004040033",
-                    "name": "Degenhardt L.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7004157315",
-                    "name": "Teesson M.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                }
-            ],
-            "citations": 89,
-            "publication_name": "Drug and Alcohol Review",
-            "issn": "09595236",
-            "cover_date": "2004-12-01",
-            "venue": "Journal",
-            "volume": "23",
-            "issue": "4",
-            "page_range": "433-443",
-            "doi": "10.1080/09595230412331324554"
-        },
-        {
             "title": "Spatial variations in the consumption of illicit stimulant drugs across Australia: A nationwide application of wastewater-based epidemiology",
             "eid": "2-s2.0-84971655275",
             "authors": [
@@ -10005,7 +9968,7 @@
                     ]
                 }
             ],
-            "citations": 88,
+            "citations": 89,
             "publication_name": "Science of the Total Environment",
             "issn": "00489697",
             "cover_date": "2016-10-15",
@@ -10083,7 +10046,7 @@
                     ]
                 }
             ],
-            "citations": 88,
+            "citations": 89,
             "publication_name": "Addictive Behaviors",
             "issn": "03064603",
             "cover_date": "2010-08-01",
@@ -10092,6 +10055,43 @@
             "issue": "8",
             "page_range": "741-749",
             "doi": "10.1016/j.addbeh.2010.03.019"
+        },
+        {
+            "title": "Cannabis use and psychotic disorders: An update",
+            "eid": "2-s2.0-4944222090",
+            "authors": [
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7004040033",
+                    "name": "Degenhardt L.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7004157315",
+                    "name": "Teesson M.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                }
+            ],
+            "citations": 89,
+            "publication_name": "Drug and Alcohol Review",
+            "issn": "09595236",
+            "cover_date": "2004-12-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "4",
+            "page_range": "433-443",
+            "doi": "10.1080/09595230412331324554"
         },
         {
             "title": "Using cohort studies to estimate mortality among injecting drug users that is not attributable to AIDS",
@@ -10512,6 +10512,81 @@
             "doi": "10.1016/S0140-6736(00)02276-5"
         },
         {
+            "title": "Tobacco and nicotine use",
+            "eid": "2-s2.0-85127063565",
+            "authors": [
+                {
+                    "scopus_id": "6602513830",
+                    "name": "Le Foll B.",
+                    "affiliation_id": [
+                        "60016849",
+                        "60016849"
+                    ]
+                },
+                {
+                    "scopus_id": "57086140800",
+                    "name": "Piper M.E.",
+                    "affiliation_id": [
+                        "60025553",
+                        "60032179"
+                    ]
+                },
+                {
+                    "scopus_id": "7203059068",
+                    "name": "Fowler C.D.",
+                    "affiliation_id": [
+                        "60007278"
+                    ]
+                },
+                {
+                    "scopus_id": "56232905600",
+                    "name": "Tonstad S.",
+                    "affiliation_id": [
+                        "60105037"
+                    ]
+                },
+                {
+                    "scopus_id": "6701374894",
+                    "name": "Bierut L.",
+                    "affiliation_id": [
+                        "60022756"
+                    ]
+                },
+                {
+                    "scopus_id": "35262773400",
+                    "name": "Lu L.",
+                    "affiliation_id": [
+                        "60121976",
+                        "60004573"
+                    ]
+                },
+                {
+                    "scopus_id": "7102630216",
+                    "name": "Jha P.",
+                    "affiliation_id": [
+                        "60016849"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.D.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 83,
+            "publication_name": "Nature Reviews Disease Primers",
+            "issn": "",
+            "cover_date": "2022-12-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1038/s41572-022-00346-w"
+        },
+        {
             "title": "Heroin-assisted treatment as a response to the public health problem of opiate dependence",
             "eid": "2-s2.0-18544390700",
             "authors": [
@@ -10688,6 +10763,96 @@
             "doi": "10.2196/JMIR.4827"
         },
         {
+            "title": "Pharmaceutical Opioid Use and Dependence among People Living with Chronic Pain: Associations Observed within the Pain and Opioids in Treatment (POINT) Cohort",
+            "eid": "2-s2.0-84941744186",
+            "authors": [
+                {
+                    "scopus_id": "23990257200",
+                    "name": "Campbell G.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "57210512321",
+                    "name": "Nielsen S.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "24477825300",
+                    "name": "Larance B.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "57226264157",
+                    "name": "Bruno R.",
+                    "affiliation_id": [
+                        "60015356"
+                    ]
+                },
+                {
+                    "scopus_id": "56962788900",
+                    "name": "Mattick R.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "6701542318",
+                    "name": "Lintzeris N.",
+                    "affiliation_id": [
+                        "60121699",
+                        "60189901"
+                    ]
+                },
+                {
+                    "scopus_id": "7405991194",
+                    "name": "Cohen M.",
+                    "affiliation_id": [
+                        "60017448"
+                    ]
+                },
+                {
+                    "scopus_id": "57213078002",
+                    "name": "Smith K.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7004040033",
+                    "name": "Degenhardt L.",
+                    "affiliation_id": [
+                        "60109564",
+                        "60026553",
+                        "60009102",
+                        "60015481"
+                    ]
+                }
+            ],
+            "citations": 81,
+            "publication_name": "Pain Medicine (United States)",
+            "issn": "15262375",
+            "cover_date": "2015-09-01",
+            "venue": "Journal",
+            "volume": "16",
+            "issue": "9",
+            "page_range": "1745-1758",
+            "doi": "10.1111/pme.12773"
+        },
+        {
             "title": "Opioid agonist pharmacotherapy in New South Wales from 1985 to 2006: Patient characteristics and patterns and predictors of treatment retention",
             "eid": "2-s2.0-67650462253",
             "authors": [
@@ -10775,171 +10940,6 @@
             "issue": "4",
             "page_range": "485-490",
             "doi": "10.1046/j.1360-0443.2000.9544851.x"
-        },
-        {
-            "title": "Tobacco and nicotine use",
-            "eid": "2-s2.0-85127063565",
-            "authors": [
-                {
-                    "scopus_id": "6602513830",
-                    "name": "Le Foll B.",
-                    "affiliation_id": [
-                        "60016849",
-                        "60016849"
-                    ]
-                },
-                {
-                    "scopus_id": "57086140800",
-                    "name": "Piper M.E.",
-                    "affiliation_id": [
-                        "60025553",
-                        "60032179"
-                    ]
-                },
-                {
-                    "scopus_id": "7203059068",
-                    "name": "Fowler C.D.",
-                    "affiliation_id": [
-                        "60007278"
-                    ]
-                },
-                {
-                    "scopus_id": "56232905600",
-                    "name": "Tonstad S.",
-                    "affiliation_id": [
-                        "60105037"
-                    ]
-                },
-                {
-                    "scopus_id": "6701374894",
-                    "name": "Bierut L.",
-                    "affiliation_id": [
-                        "60022756"
-                    ]
-                },
-                {
-                    "scopus_id": "35262773400",
-                    "name": "Lu L.",
-                    "affiliation_id": [
-                        "60121976",
-                        "60004573"
-                    ]
-                },
-                {
-                    "scopus_id": "7102630216",
-                    "name": "Jha P.",
-                    "affiliation_id": [
-                        "60016849"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.D.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 80,
-            "publication_name": "Nature Reviews Disease Primers",
-            "issn": "",
-            "cover_date": "2022-12-01",
-            "venue": "Journal",
-            "volume": "8",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1038/s41572-022-00346-w"
-        },
-        {
-            "title": "Pharmaceutical Opioid Use and Dependence among People Living with Chronic Pain: Associations Observed within the Pain and Opioids in Treatment (POINT) Cohort",
-            "eid": "2-s2.0-84941744186",
-            "authors": [
-                {
-                    "scopus_id": "23990257200",
-                    "name": "Campbell G.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "57210512321",
-                    "name": "Nielsen S.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "24477825300",
-                    "name": "Larance B.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "57226264157",
-                    "name": "Bruno R.",
-                    "affiliation_id": [
-                        "60015356"
-                    ]
-                },
-                {
-                    "scopus_id": "56962788900",
-                    "name": "Mattick R.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "6701542318",
-                    "name": "Lintzeris N.",
-                    "affiliation_id": [
-                        "60121699",
-                        "60189901"
-                    ]
-                },
-                {
-                    "scopus_id": "7405991194",
-                    "name": "Cohen M.",
-                    "affiliation_id": [
-                        "60017448"
-                    ]
-                },
-                {
-                    "scopus_id": "57213078002",
-                    "name": "Smith K.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7004040033",
-                    "name": "Degenhardt L.",
-                    "affiliation_id": [
-                        "60109564",
-                        "60026553",
-                        "60009102",
-                        "60015481"
-                    ]
-                }
-            ],
-            "citations": 80,
-            "publication_name": "Pain Medicine (United States)",
-            "issn": "15262375",
-            "cover_date": "2015-09-01",
-            "venue": "Journal",
-            "volume": "16",
-            "issue": "9",
-            "page_range": "1745-1758",
-            "doi": "10.1111/pme.12773"
         },
         {
             "title": "The distribution of naloxone to heroin users",
@@ -11586,6 +11586,50 @@
             "doi": "10.1007/bf03404169"
         },
         {
+            "title": "Evaluating explanations of the Australian 'heroin shortage'",
+            "eid": "2-s2.0-11844271105",
+            "authors": [
+                {
+                    "scopus_id": "7004040033",
+                    "name": "Degenhardt L.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "34572232800",
+                    "name": "Reuter P.",
+                    "affiliation_id": [
+                        "60020304"
+                    ]
+                },
+                {
+                    "scopus_id": "7202596904",
+                    "name": "Collins L.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60109564",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 73,
+            "publication_name": "Addiction",
+            "issn": "09652140",
+            "cover_date": "2005-04-01",
+            "venue": "Journal",
+            "volume": "100",
+            "issue": "4",
+            "page_range": "459-469",
+            "doi": "10.1111/j.1360-0443.2005.01000.x"
+        },
+        {
             "title": "Benzodiazepine use among injecting heroin users",
             "eid": "2-s2.0-0029008022",
             "authors": [
@@ -11706,50 +11750,6 @@
             "issue": "7",
             "page_range": "1164-1173",
             "doi": "10.1111/j.1360-0443.2010.02926.x"
-        },
-        {
-            "title": "Evaluating explanations of the Australian 'heroin shortage'",
-            "eid": "2-s2.0-11844271105",
-            "authors": [
-                {
-                    "scopus_id": "7004040033",
-                    "name": "Degenhardt L.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "34572232800",
-                    "name": "Reuter P.",
-                    "affiliation_id": [
-                        "60020304"
-                    ]
-                },
-                {
-                    "scopus_id": "7202596904",
-                    "name": "Collins L.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60109564",
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 72,
-            "publication_name": "Addiction",
-            "issn": "09652140",
-            "cover_date": "2005-04-01",
-            "venue": "Journal",
-            "volume": "100",
-            "issue": "4",
-            "page_range": "459-469",
-            "doi": "10.1111/j.1360-0443.2005.01000.x"
         },
         {
             "title": "Characteristics of DSM-IV and ICD-10 cannabis dependence among Australian adults: Results from the National Survey of Mental Health and Wellbeing",
@@ -11974,42 +11974,6 @@
             "doi": "10.1177/0004867412460591"
         },
         {
-            "title": "Opioid overdose mortality in Australia, 1964-1997: Birth-cohort trends",
-            "eid": "2-s2.0-0033526792",
-            "authors": [
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.D.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7004040033",
-                    "name": "Degenhardt L.J.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7004900664",
-                    "name": "Lynskey M.T.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                }
-            ],
-            "citations": 69,
-            "publication_name": "Medical Journal of Australia",
-            "issn": "0025729X",
-            "cover_date": "1999-07-05",
-            "venue": "Journal",
-            "volume": "171",
-            "issue": "1",
-            "page_range": "34-37",
-            "doi": "10.5694/j.1326-5377.1999.tb123495.x"
-        },
-        {
             "title": "Benzodiazepine use and HIV risk-taking behaviour among injecting drug users",
             "eid": "2-s2.0-0026658616",
             "authors": [
@@ -12042,7 +12006,7 @@
                     ]
                 }
             ],
-            "citations": 69,
+            "citations": 70,
             "publication_name": "Drug and Alcohol Dependence",
             "issn": "03768716",
             "cover_date": "1992-01-01",
@@ -12105,7 +12069,7 @@
                     ]
                 }
             ],
-            "citations": 68,
+            "citations": 69,
             "publication_name": "Addiction",
             "issn": "09652140",
             "cover_date": "2021-10-01",
@@ -12148,7 +12112,7 @@
                     ]
                 }
             ],
-            "citations": 68,
+            "citations": 69,
             "publication_name": "AJOB Neuroscience",
             "issn": "21507740",
             "cover_date": "2011-10-01",
@@ -12157,6 +12121,99 @@
             "issue": "4",
             "page_range": "38-43",
             "doi": "10.1080/21507740.2011.611122"
+        },
+        {
+            "title": "Opioid overdose mortality in Australia, 1964-1997: Birth-cohort trends",
+            "eid": "2-s2.0-0033526792",
+            "authors": [
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.D.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7004040033",
+                    "name": "Degenhardt L.J.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7004900664",
+                    "name": "Lynskey M.T.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                }
+            ],
+            "citations": 69,
+            "publication_name": "Medical Journal of Australia",
+            "issn": "0025729X",
+            "cover_date": "1999-07-05",
+            "venue": "Journal",
+            "volume": "171",
+            "issue": "1",
+            "page_range": "34-37",
+            "doi": "10.5694/j.1326-5377.1999.tb123495.x"
+        },
+        {
+            "title": "Cannabis and COVID-19: Reasons for Concern",
+            "eid": "2-s2.0-85098770888",
+            "authors": [
+                {
+                    "scopus_id": "24068215200",
+                    "name": "van Laar M.W.",
+                    "affiliation_id": [
+                        "60008312"
+                    ]
+                },
+                {
+                    "scopus_id": "57221315650",
+                    "name": "Oomen P.E.",
+                    "affiliation_id": [
+                        "60008312"
+                    ]
+                },
+                {
+                    "scopus_id": "57218611743",
+                    "name": "van Miltenburg C.J.A.",
+                    "affiliation_id": [
+                        "60008312"
+                    ]
+                },
+                {
+                    "scopus_id": "57221303090",
+                    "name": "Vercoulen E.",
+                    "affiliation_id": [
+                        "60008312"
+                    ]
+                },
+                {
+                    "scopus_id": "35077456700",
+                    "name": "Freeman T.P.",
+                    "affiliation_id": [
+                        "60171498"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.D.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 67,
+            "publication_name": "Frontiers in Psychiatry",
+            "issn": "",
+            "cover_date": "2020-12-21",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.3389/fpsyt.2020.601653"
         },
         {
             "title": "User characteristics and effect profile of Butane Hash Oil: An extremely high-potency cannabis concentrate",
@@ -12216,63 +12273,6 @@
             "issue": "",
             "page_range": "32-38",
             "doi": "10.1016/j.drugalcdep.2017.04.014"
-        },
-        {
-            "title": "Cannabis and COVID-19: Reasons for Concern",
-            "eid": "2-s2.0-85098770888",
-            "authors": [
-                {
-                    "scopus_id": "24068215200",
-                    "name": "van Laar M.W.",
-                    "affiliation_id": [
-                        "60008312"
-                    ]
-                },
-                {
-                    "scopus_id": "57221315650",
-                    "name": "Oomen P.E.",
-                    "affiliation_id": [
-                        "60008312"
-                    ]
-                },
-                {
-                    "scopus_id": "57218611743",
-                    "name": "van Miltenburg C.J.A.",
-                    "affiliation_id": [
-                        "60008312"
-                    ]
-                },
-                {
-                    "scopus_id": "57221303090",
-                    "name": "Vercoulen E.",
-                    "affiliation_id": [
-                        "60008312"
-                    ]
-                },
-                {
-                    "scopus_id": "35077456700",
-                    "name": "Freeman T.P.",
-                    "affiliation_id": [
-                        "60171498"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.D.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 66,
-            "publication_name": "Frontiers in Psychiatry",
-            "issn": "",
-            "cover_date": "2020-12-21",
-            "venue": "Journal",
-            "volume": "11",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.3389/fpsyt.2020.601653"
         },
         {
             "title": "Why it is probably too soon to assess the public health effects of legalisation of recreational cannabis use in the USA",
@@ -13221,6 +13221,98 @@
             "doi": "10.1016/S0376-8716(96)01309-9"
         },
         {
+            "title": "Galvanizers, guides, champions, and shields: The many ways that policymakers use public health researchers",
+            "eid": "2-s2.0-84555187533",
+            "authors": [
+                {
+                    "scopus_id": "36131235900",
+                    "name": "Haynes A.S.",
+                    "affiliation_id": [
+                        "60138870",
+                        "60025709",
+                        "101653205",
+                        "60031004",
+                        "60103753"
+                    ]
+                },
+                {
+                    "scopus_id": "23034419500",
+                    "name": "Gillespie J.A.",
+                    "affiliation_id": [
+                        "60138870",
+                        "60025709",
+                        "101653205",
+                        "60031004",
+                        "60103753"
+                    ]
+                },
+                {
+                    "scopus_id": "37074328000",
+                    "name": "Derrick G.E.",
+                    "affiliation_id": [
+                        "60138870",
+                        "60025709",
+                        "101653205",
+                        "60031004",
+                        "60103753"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.D.",
+                    "affiliation_id": [
+                        "60138870",
+                        "60025709",
+                        "101653205",
+                        "60031004",
+                        "60103753"
+                    ]
+                },
+                {
+                    "scopus_id": "7005737922",
+                    "name": "Redman S.",
+                    "affiliation_id": [
+                        "60138870",
+                        "60025709",
+                        "101653205",
+                        "60031004",
+                        "60103753"
+                    ]
+                },
+                {
+                    "scopus_id": "55221487800",
+                    "name": "Chapman S.",
+                    "affiliation_id": [
+                        "60138870",
+                        "60025709",
+                        "101653205",
+                        "60031004",
+                        "60103753"
+                    ]
+                },
+                {
+                    "scopus_id": "6505959269",
+                    "name": "Sturk H.",
+                    "affiliation_id": [
+                        "60138870",
+                        "60025709",
+                        "101653205",
+                        "60031004",
+                        "60103753"
+                    ]
+                }
+            ],
+            "citations": 61,
+            "publication_name": "Milbank Quarterly",
+            "issn": "0887378X",
+            "cover_date": "2011-12-01",
+            "venue": "Journal",
+            "volume": "89",
+            "issue": "4",
+            "page_range": "564-598",
+            "doi": "10.1111/j.1468-0009.2011.00643.x"
+        },
+        {
             "title": "Patterns of co-morbidity between alcohol use and other substance use in the Australian population",
             "eid": "2-s2.0-0037360508",
             "authors": [
@@ -13307,98 +13399,6 @@
             "issue": "8",
             "page_range": "777-778",
             "doi": "10.1001/jamapsychiatry.2020.0339"
-        },
-        {
-            "title": "Galvanizers, guides, champions, and shields: The many ways that policymakers use public health researchers",
-            "eid": "2-s2.0-84555187533",
-            "authors": [
-                {
-                    "scopus_id": "36131235900",
-                    "name": "Haynes A.S.",
-                    "affiliation_id": [
-                        "60138870",
-                        "60025709",
-                        "101653205",
-                        "60031004",
-                        "60103753"
-                    ]
-                },
-                {
-                    "scopus_id": "23034419500",
-                    "name": "Gillespie J.A.",
-                    "affiliation_id": [
-                        "60138870",
-                        "60025709",
-                        "101653205",
-                        "60031004",
-                        "60103753"
-                    ]
-                },
-                {
-                    "scopus_id": "37074328000",
-                    "name": "Derrick G.E.",
-                    "affiliation_id": [
-                        "60138870",
-                        "60025709",
-                        "101653205",
-                        "60031004",
-                        "60103753"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.D.",
-                    "affiliation_id": [
-                        "60138870",
-                        "60025709",
-                        "101653205",
-                        "60031004",
-                        "60103753"
-                    ]
-                },
-                {
-                    "scopus_id": "7005737922",
-                    "name": "Redman S.",
-                    "affiliation_id": [
-                        "60138870",
-                        "60025709",
-                        "101653205",
-                        "60031004",
-                        "60103753"
-                    ]
-                },
-                {
-                    "scopus_id": "55221487800",
-                    "name": "Chapman S.",
-                    "affiliation_id": [
-                        "60138870",
-                        "60025709",
-                        "101653205",
-                        "60031004",
-                        "60103753"
-                    ]
-                },
-                {
-                    "scopus_id": "6505959269",
-                    "name": "Sturk H.",
-                    "affiliation_id": [
-                        "60138870",
-                        "60025709",
-                        "101653205",
-                        "60031004",
-                        "60103753"
-                    ]
-                }
-            ],
-            "citations": 60,
-            "publication_name": "Milbank Quarterly",
-            "issn": "0887378X",
-            "cover_date": "2011-12-01",
-            "venue": "Journal",
-            "volume": "89",
-            "issue": "4",
-            "page_range": "564-598",
-            "doi": "10.1111/j.1468-0009.2011.00643.x"
         },
         {
             "title": "The development of an early warning system to detect trends in illicit drug use in Australia: The illicit drug reporting system",
@@ -13967,6 +13967,92 @@
             "doi": "10.1016/S0899-3289(97)90003-1"
         },
         {
+            "title": "Which adolescents develop persistent substance dependence in adulthood? Using population-representative longitudinal data to inform universal risk assessment",
+            "eid": "2-s2.0-84958213150",
+            "authors": [
+                {
+                    "scopus_id": "16068882500",
+                    "name": "Meier M.H.",
+                    "affiliation_id": [
+                        "60003892"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60110780",
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7102382566",
+                    "name": "Caspi A.",
+                    "affiliation_id": [
+                        "60008724",
+                        "60113147",
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "15121924900",
+                    "name": "Belsky D.W.",
+                    "affiliation_id": [
+                        "60113147",
+                        "60008724"
+                    ]
+                },
+                {
+                    "scopus_id": "23986969700",
+                    "name": "Cerd\u00e1 M.",
+                    "affiliation_id": [
+                        "60014439"
+                    ]
+                },
+                {
+                    "scopus_id": "7006621849",
+                    "name": "Harrington H.L.",
+                    "affiliation_id": [
+                        "60008724",
+                        "60113147"
+                    ]
+                },
+                {
+                    "scopus_id": "7004454931",
+                    "name": "Houts R.",
+                    "affiliation_id": [
+                        "60008724",
+                        "60113147"
+                    ]
+                },
+                {
+                    "scopus_id": "7006256743",
+                    "name": "Poulton R.",
+                    "affiliation_id": [
+                        "60017311"
+                    ]
+                },
+                {
+                    "scopus_id": "7005557909",
+                    "name": "Moffitt T.E.",
+                    "affiliation_id": [
+                        "60008724",
+                        "60113147",
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 58,
+            "publication_name": "Psychological Medicine",
+            "issn": "00332917",
+            "cover_date": "2016-03-01",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "4",
+            "page_range": "877-889",
+            "doi": "10.1017/S0033291715002482"
+        },
+        {
             "title": "Sewage epidemiology and illicit drug research: The development of ethical research guidelines",
             "eid": "2-s2.0-84889634135",
             "authors": [
@@ -14250,92 +14336,6 @@
             "issue": "1",
             "page_range": "56-64",
             "doi": "10.1001/jama.2021.7621"
-        },
-        {
-            "title": "Which adolescents develop persistent substance dependence in adulthood? Using population-representative longitudinal data to inform universal risk assessment",
-            "eid": "2-s2.0-84958213150",
-            "authors": [
-                {
-                    "scopus_id": "16068882500",
-                    "name": "Meier M.H.",
-                    "affiliation_id": [
-                        "60003892"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60110780",
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "7102382566",
-                    "name": "Caspi A.",
-                    "affiliation_id": [
-                        "60008724",
-                        "60113147",
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "15121924900",
-                    "name": "Belsky D.W.",
-                    "affiliation_id": [
-                        "60113147",
-                        "60008724"
-                    ]
-                },
-                {
-                    "scopus_id": "23986969700",
-                    "name": "Cerd\u00e1 M.",
-                    "affiliation_id": [
-                        "60014439"
-                    ]
-                },
-                {
-                    "scopus_id": "7006621849",
-                    "name": "Harrington H.L.",
-                    "affiliation_id": [
-                        "60008724",
-                        "60113147"
-                    ]
-                },
-                {
-                    "scopus_id": "7004454931",
-                    "name": "Houts R.",
-                    "affiliation_id": [
-                        "60008724",
-                        "60113147"
-                    ]
-                },
-                {
-                    "scopus_id": "7006256743",
-                    "name": "Poulton R.",
-                    "affiliation_id": [
-                        "60017311"
-                    ]
-                },
-                {
-                    "scopus_id": "7005557909",
-                    "name": "Moffitt T.E.",
-                    "affiliation_id": [
-                        "60008724",
-                        "60113147",
-                        "60011520"
-                    ]
-                }
-            ],
-            "citations": 57,
-            "publication_name": "Psychological Medicine",
-            "issn": "00332917",
-            "cover_date": "2016-03-01",
-            "venue": "Journal",
-            "volume": "46",
-            "issue": "4",
-            "page_range": "877-889",
-            "doi": "10.1017/S0033291715002482"
         },
         {
             "title": "Methadone maintenance treatment reduces heroin injection in New South Wales prisons",
@@ -16282,7 +16282,7 @@
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "113052109"
                     ]
                 }
@@ -16953,6 +16953,35 @@
             "doi": "10.1007/bf03405515"
         },
         {
+            "title": "Cannabis use and cancer",
+            "eid": "2-s2.0-0036196190",
+            "authors": [
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "59106885300",
+                    "name": "Macphee D.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                }
+            ],
+            "citations": 44,
+            "publication_name": "Addiction",
+            "issn": "09652140",
+            "cover_date": "2002-01-01",
+            "venue": "Journal",
+            "volume": "97",
+            "issue": "3",
+            "page_range": "243-247",
+            "doi": "10.1046/j.1360-0443.2002.00003.x"
+        },
+        {
             "title": "The structure and correlates of alcohol dependence: WHO collaborative project on the early detection of persons with harmful alcohol consumption\u2014III",
             "eid": "2-s2.0-0027452410",
             "authors": [
@@ -17448,35 +17477,6 @@
             "doi": "10.1111/j.1440-1614.2006.01917.x"
         },
         {
-            "title": "Cannabis use and cancer",
-            "eid": "2-s2.0-0036196190",
-            "authors": [
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "59106885300",
-                    "name": "Macphee D.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                }
-            ],
-            "citations": 43,
-            "publication_name": "Addiction",
-            "issn": "09652140",
-            "cover_date": "2002-01-01",
-            "venue": "Journal",
-            "volume": "97",
-            "issue": "3",
-            "page_range": "243-247",
-            "doi": "10.1046/j.1360-0443.2002.00003.x"
-        },
-        {
             "title": "Back-projection estimates of the number of dependent heroin users in Australia",
             "eid": "2-s2.0-0035107235",
             "authors": [
@@ -17684,6 +17684,108 @@
             "issue": "3",
             "page_range": "289-297",
             "doi": "10.1080/09595239800187121"
+        },
+        {
+            "title": "Vaping on TikTok: a systematic thematic analysis",
+            "eid": "2-s2.0-85111433640",
+            "authors": [
+                {
+                    "scopus_id": "57219095080",
+                    "name": "Sun T.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60165386"
+                    ]
+                },
+                {
+                    "scopus_id": "57201069236",
+                    "name": "Lim C.C.W.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60165386"
+                    ]
+                },
+                {
+                    "scopus_id": "57218317543",
+                    "name": "Chung J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57256669800",
+                    "name": "Cheng B.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57226398744",
+                    "name": "Davidson L.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57221859952",
+                    "name": "Tisdale C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57214397752",
+                    "name": "Leung J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "8450161900",
+                    "name": "Gartner C.E.",
+                    "affiliation_id": [
+                        "60165386"
+                    ]
+                },
+                {
+                    "scopus_id": "55491158300",
+                    "name": "Connor J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.D.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "54879684200",
+                    "name": "Chan G.C.K.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60165386"
+                    ]
+                }
+            ],
+            "citations": 41,
+            "publication_name": "Tobacco Control",
+            "issn": "09644563",
+            "cover_date": "2023-03-01",
+            "venue": "Journal",
+            "volume": "32",
+            "issue": "2",
+            "page_range": "251-254",
+            "doi": "10.1136/tobaccocontrol-2021-056619"
         },
         {
             "title": "Defined daily doses (DDD) do not accurately reflect opioid doses used in contemporary chronic pain treatment",
@@ -18068,108 +18170,6 @@
             "doi": "10.5694/j.1326-5377.2007.tb00840.x"
         },
         {
-            "title": "Vaping on TikTok: a systematic thematic analysis",
-            "eid": "2-s2.0-85111433640",
-            "authors": [
-                {
-                    "scopus_id": "57219095080",
-                    "name": "Sun T.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60165386"
-                    ]
-                },
-                {
-                    "scopus_id": "57201069236",
-                    "name": "Lim C.C.W.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60165386"
-                    ]
-                },
-                {
-                    "scopus_id": "57218317543",
-                    "name": "Chung J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57256669800",
-                    "name": "Cheng B.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57226398744",
-                    "name": "Davidson L.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57221859952",
-                    "name": "Tisdale C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57214397752",
-                    "name": "Leung J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "8450161900",
-                    "name": "Gartner C.E.",
-                    "affiliation_id": [
-                        "60165386"
-                    ]
-                },
-                {
-                    "scopus_id": "55491158300",
-                    "name": "Connor J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.D.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "54879684200",
-                    "name": "Chan G.C.K.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60165386"
-                    ]
-                }
-            ],
-            "citations": 39,
-            "publication_name": "Tobacco Control",
-            "issn": "09644563",
-            "cover_date": "2023-03-01",
-            "venue": "Journal",
-            "volume": "32",
-            "issue": "2",
-            "page_range": "251-254",
-            "doi": "10.1136/tobaccocontrol-2021-056619"
-        },
-        {
             "title": "A systematic review and meta-analysis of naltrexone implants for the treatment of opioid dependence",
             "eid": "2-s2.0-84897602802",
             "authors": [
@@ -18465,6 +18465,77 @@
             "issue": "2",
             "page_range": "142-148",
             "doi": "10.1111/j.1753-6405.1995.tb00364.x"
+        },
+        {
+            "title": "Trends in the use of cannabis products in Canada and the USA, 2018 \u2013 2020: Findings from the International Cannabis Policy Study",
+            "eid": "2-s2.0-85133103170",
+            "authors": [
+                {
+                    "scopus_id": "7202006759",
+                    "name": "Hammond D.",
+                    "affiliation_id": [
+                        "60014171"
+                    ]
+                },
+                {
+                    "scopus_id": "49961528500",
+                    "name": "Goodman S.",
+                    "affiliation_id": [
+                        "60014171"
+                    ]
+                },
+                {
+                    "scopus_id": "56506881800",
+                    "name": "Wadsworth E.",
+                    "affiliation_id": [
+                        "60014171"
+                    ]
+                },
+                {
+                    "scopus_id": "35077456700",
+                    "name": "Freeman T.P.",
+                    "affiliation_id": [
+                        "60171498"
+                    ]
+                },
+                {
+                    "scopus_id": "23392373200",
+                    "name": "Kilmer B.",
+                    "affiliation_id": [
+                        "60003873"
+                    ]
+                },
+                {
+                    "scopus_id": "37001236300",
+                    "name": "Schauer G.",
+                    "affiliation_id": [
+                        "60028548"
+                    ]
+                },
+                {
+                    "scopus_id": "6603430738",
+                    "name": "Pacula R.L.",
+                    "affiliation_id": [
+                        "60029311"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 38,
+            "publication_name": "International Journal of Drug Policy",
+            "issn": "09553959",
+            "cover_date": "2022-07-01",
+            "venue": "Journal",
+            "volume": "105",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.drugpo.2022.103716"
         },
         {
             "title": "Prevalence of Adolescent Cannabis Vaping: A Systematic Review and Meta-analysis of US and Canadian Studies",
@@ -19160,77 +19231,6 @@
             "doi": "10.3109/00048678509158831"
         },
         {
-            "title": "Trends in the use of cannabis products in Canada and the USA, 2018 \u2013 2020: Findings from the International Cannabis Policy Study",
-            "eid": "2-s2.0-85133103170",
-            "authors": [
-                {
-                    "scopus_id": "7202006759",
-                    "name": "Hammond D.",
-                    "affiliation_id": [
-                        "60014171"
-                    ]
-                },
-                {
-                    "scopus_id": "49961528500",
-                    "name": "Goodman S.",
-                    "affiliation_id": [
-                        "60014171"
-                    ]
-                },
-                {
-                    "scopus_id": "56506881800",
-                    "name": "Wadsworth E.",
-                    "affiliation_id": [
-                        "60014171"
-                    ]
-                },
-                {
-                    "scopus_id": "35077456700",
-                    "name": "Freeman T.P.",
-                    "affiliation_id": [
-                        "60171498"
-                    ]
-                },
-                {
-                    "scopus_id": "23392373200",
-                    "name": "Kilmer B.",
-                    "affiliation_id": [
-                        "60003873"
-                    ]
-                },
-                {
-                    "scopus_id": "37001236300",
-                    "name": "Schauer G.",
-                    "affiliation_id": [
-                        "60028548"
-                    ]
-                },
-                {
-                    "scopus_id": "6603430738",
-                    "name": "Pacula R.L.",
-                    "affiliation_id": [
-                        "60029311"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 37,
-            "publication_name": "International Journal of Drug Policy",
-            "issn": "09553959",
-            "cover_date": "2022-07-01",
-            "venue": "Journal",
-            "volume": "105",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.drugpo.2022.103716"
-        },
-        {
             "title": "Parental supply of alcohol to Australian minors: An analysis of six nationally representative surveys spanning 15 years",
             "eid": "2-s2.0-84963831415",
             "authors": [
@@ -19552,6 +19552,109 @@
             "doi": "10.1016/0277-9536(88)90013-5"
         },
         {
+            "title": "The future of the international drug control system and national drug prohibitions",
+            "eid": "2-s2.0-85028990834",
+            "authors": [
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60011520",
+                        "60031004",
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Addiction",
+            "issn": "09652140",
+            "cover_date": "2018-07-01",
+            "venue": "Journal",
+            "volume": "113",
+            "issue": "7",
+            "page_range": "1210-1223",
+            "doi": "10.1111/add.13941"
+        },
+        {
+            "title": "Monitoring temporal changes in use of two cathinones in a large urban catchment in Queensland, Australia",
+            "eid": "2-s2.0-84952684917",
+            "authors": [
+                {
+                    "scopus_id": "57197775331",
+                    "name": "Thai P.K.",
+                    "affiliation_id": [
+                        "60011019",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57200819953",
+                    "name": "Lai F.Y.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "54385056700",
+                    "name": "Edirisinghe M.",
+                    "affiliation_id": [
+                        "60000664"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57226264157",
+                    "name": "Bruno R.",
+                    "affiliation_id": [
+                        "60015356"
+                    ]
+                },
+                {
+                    "scopus_id": "57941900000",
+                    "name": "O'Brien J.W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7102484044",
+                    "name": "Prichard J.",
+                    "affiliation_id": [
+                        "60015356"
+                    ]
+                },
+                {
+                    "scopus_id": "56337473100",
+                    "name": "Kirkbride K.P.",
+                    "affiliation_id": [
+                        "60020828"
+                    ]
+                },
+                {
+                    "scopus_id": "57212221160",
+                    "name": "Mueller J.F.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Science of the Total Environment",
+            "issn": "00489697",
+            "cover_date": "2016-03-01",
+            "venue": "Journal",
+            "volume": "545-546",
+            "issue": "",
+            "page_range": "250-255",
+            "doi": "10.1016/j.scitotenv.2015.12.038"
+        },
+        {
             "title": "Under what conditions is it ethical to offer incentives to encourage drug-using women to use long-acting forms of contraception?",
             "eid": "2-s2.0-84860573275",
             "authors": [
@@ -19656,6 +19759,53 @@
             "doi": "10.1080/09595230120079594"
         },
         {
+            "title": "An overview of select cannabis use and supply indicators pre- and post-legalization in Canada",
+            "eid": "2-s2.0-85116636258",
+            "authors": [
+                {
+                    "scopus_id": "56603004800",
+                    "name": "Fischer B.",
+                    "affiliation_id": [
+                        "60018491",
+                        "60016849",
+                        "60014992"
+                    ]
+                },
+                {
+                    "scopus_id": "57215776540",
+                    "name": "Lee A.",
+                    "affiliation_id": [
+                        "60018491"
+                    ]
+                },
+                {
+                    "scopus_id": "57206364720",
+                    "name": "Robinson T.",
+                    "affiliation_id": [
+                        "60018491",
+                        "60026748"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "118067637",
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 35,
+            "publication_name": "Substance Abuse: Treatment, Prevention, and Policy",
+            "issn": "",
+            "cover_date": "2021-12-01",
+            "venue": "Journal",
+            "volume": "16",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s13011-021-00405-7"
+        },
+        {
             "title": "Lessons from the public health responses to the US outbreak of vaping-related lung injury",
             "eid": "2-s2.0-85085604878",
             "authors": [
@@ -19692,109 +19842,6 @@
             "doi": "10.1111/add.15108"
         },
         {
-            "title": "The future of the international drug control system and national drug prohibitions",
-            "eid": "2-s2.0-85028990834",
-            "authors": [
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60011520",
-                        "60031004",
-                        "60011520"
-                    ]
-                }
-            ],
-            "citations": 35,
-            "publication_name": "Addiction",
-            "issn": "09652140",
-            "cover_date": "2018-07-01",
-            "venue": "Journal",
-            "volume": "113",
-            "issue": "7",
-            "page_range": "1210-1223",
-            "doi": "10.1111/add.13941"
-        },
-        {
-            "title": "Monitoring temporal changes in use of two cathinones in a large urban catchment in Queensland, Australia",
-            "eid": "2-s2.0-84952684917",
-            "authors": [
-                {
-                    "scopus_id": "57197775331",
-                    "name": "Thai P.K.",
-                    "affiliation_id": [
-                        "60011019",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57200819953",
-                    "name": "Lai F.Y.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "54385056700",
-                    "name": "Edirisinghe M.",
-                    "affiliation_id": [
-                        "60000664"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57226264157",
-                    "name": "Bruno R.",
-                    "affiliation_id": [
-                        "60015356"
-                    ]
-                },
-                {
-                    "scopus_id": "57941900000",
-                    "name": "O'Brien J.W.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7102484044",
-                    "name": "Prichard J.",
-                    "affiliation_id": [
-                        "60015356"
-                    ]
-                },
-                {
-                    "scopus_id": "56337473100",
-                    "name": "Kirkbride K.P.",
-                    "affiliation_id": [
-                        "60020828"
-                    ]
-                },
-                {
-                    "scopus_id": "57212221160",
-                    "name": "Mueller J.F.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 35,
-            "publication_name": "Science of the Total Environment",
-            "issn": "00489697",
-            "cover_date": "2016-03-01",
-            "venue": "Journal",
-            "volume": "545-546",
-            "issue": "",
-            "page_range": "250-255",
-            "doi": "10.1016/j.scitotenv.2015.12.038"
-        },
-        {
             "title": "Lessons for Enhancement From the History of Cocaine and Amphetamine Use",
             "eid": "2-s2.0-84860341138",
             "authors": [
@@ -19829,6 +19876,49 @@
             "issue": "2",
             "page_range": "24-29",
             "doi": "10.1080/21507740.2012.663056"
+        },
+        {
+            "title": "Academic doping or Viagra for the brain? the history of recreational drug use and pharmacological enhancement can provide insight into these uses of neuropharmaceuticals",
+            "eid": "2-s2.0-79952282872",
+            "authors": [
+                {
+                    "scopus_id": "8632011700",
+                    "name": "Lucke J.C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "51763080600",
+                    "name": "Bell S.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "22136253200",
+                    "name": "Partridge B.J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.D.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 35,
+            "publication_name": "EMBO Reports",
+            "issn": "1469221X",
+            "cover_date": "2011-03-01",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "3",
+            "page_range": "197-201",
+            "doi": "10.1038/embor.2011.15"
         },
         {
             "title": "Neuroscience research on the addictions: A prospectus for future ethical and policy analysis",
@@ -20154,53 +20244,6 @@
             "doi": "10.1176/appi.ajp.2021.21060664"
         },
         {
-            "title": "An overview of select cannabis use and supply indicators pre- and post-legalization in Canada",
-            "eid": "2-s2.0-85116636258",
-            "authors": [
-                {
-                    "scopus_id": "56603004800",
-                    "name": "Fischer B.",
-                    "affiliation_id": [
-                        "60018491",
-                        "60016849",
-                        "60014992"
-                    ]
-                },
-                {
-                    "scopus_id": "57215776540",
-                    "name": "Lee A.",
-                    "affiliation_id": [
-                        "60018491"
-                    ]
-                },
-                {
-                    "scopus_id": "57206364720",
-                    "name": "Robinson T.",
-                    "affiliation_id": [
-                        "60018491",
-                        "60026748"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "118067637",
-                        "60011520"
-                    ]
-                }
-            ],
-            "citations": 34,
-            "publication_name": "Substance Abuse: Treatment, Prevention, and Policy",
-            "issn": "",
-            "cover_date": "2021-12-01",
-            "venue": "Journal",
-            "volume": "16",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1186/s13011-021-00405-7"
-        },
-        {
             "title": "It is premature to expand access to medicinal cannabis in hopes of solving the US opioid crisis",
             "eid": "2-s2.0-85046490720",
             "authors": [
@@ -20257,6 +20300,74 @@
             "issue": "6",
             "page_range": "987-988",
             "doi": "10.1111/add.14139"
+        },
+        {
+            "title": "Rural and Urban Differences in Adolescent Alcohol Use, Alcohol Supply, and Parental Drinking",
+            "eid": "2-s2.0-85027924091",
+            "authors": [
+                {
+                    "scopus_id": "54879684200",
+                    "name": "Chan G.C.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57214397752",
+                    "name": "Leung J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60091926",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "56575965400",
+                    "name": "Quinn C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7402153607",
+                    "name": "Kelly A.B.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55491158300",
+                    "name": "Connor J.P.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "56526633800",
+                    "name": "Weier M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.D.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60011520"
+                    ]
+                }
+            ],
+            "citations": 34,
+            "publication_name": "The Journal of rural health : official journal of the American Rural Health Association and the National Rural Health Care Association",
+            "issn": "",
+            "cover_date": "2016-06-01",
+            "venue": "Journal",
+            "volume": "32",
+            "issue": "3",
+            "page_range": "280-286",
+            "doi": "10.1111/jrh.12151"
         },
         {
             "title": "Psychosis in Indigenous populations of Cape York and the Torres Strait",
@@ -20328,49 +20439,6 @@
             "issue": "2",
             "page_range": "133-135",
             "doi": "10.5694/mja11.10118"
-        },
-        {
-            "title": "Academic doping or Viagra for the brain? the history of recreational drug use and pharmacological enhancement can provide insight into these uses of neuropharmaceuticals",
-            "eid": "2-s2.0-79952282872",
-            "authors": [
-                {
-                    "scopus_id": "8632011700",
-                    "name": "Lucke J.C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "51763080600",
-                    "name": "Bell S.K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "22136253200",
-                    "name": "Partridge B.J.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.D.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 34,
-            "publication_name": "EMBO Reports",
-            "issn": "1469221X",
-            "cover_date": "2011-03-01",
-            "venue": "Journal",
-            "volume": "12",
-            "issue": "3",
-            "page_range": "197-201",
-            "doi": "10.1038/embor.2011.15"
         },
         {
             "title": "Ethical concerns in the community about technologies to extend human life span",
@@ -20489,42 +20557,34 @@
             "doi": "10.1111/j.1360-0443.2007.02070.x"
         },
         {
-            "title": "Rural and Urban Differences in Adolescent Alcohol Use, Alcohol Supply, and Parental Drinking",
-            "eid": "2-s2.0-85027924091",
+            "title": "Researchers' perspectives on scientific and ethical issues with transcranial direct current stimulation: An international survey",
+            "eid": "2-s2.0-84931281994",
             "authors": [
                 {
-                    "scopus_id": "54879684200",
-                    "name": "Chan G.C.K.",
+                    "scopus_id": "56688557900",
+                    "name": "Riggall K.",
                     "affiliation_id": [
                         "60031004"
                     ]
                 },
                 {
-                    "scopus_id": "57214397752",
-                    "name": "Leung J.",
+                    "scopus_id": "33367648800",
+                    "name": "Forlini C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "35320939900",
+                    "name": "Carter A.",
                     "affiliation_id": [
                         "60031004",
-                        "60091926",
-                        "60031004"
+                        "60019578"
                     ]
                 },
                 {
-                    "scopus_id": "56575965400",
-                    "name": "Quinn C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7402153607",
-                    "name": "Kelly A.B.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "55491158300",
-                    "name": "Connor J.P.",
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
                     "affiliation_id": [
                         "60031004",
                         "60031004"
@@ -20538,23 +20598,29 @@
                     ]
                 },
                 {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.D.",
+                    "scopus_id": "22136253200",
+                    "name": "Partridge B.",
                     "affiliation_id": [
-                        "60031004",
-                        "60011520"
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "22735009900",
+                    "name": "Meinzer M.",
+                    "affiliation_id": [
+                        "60031004"
                     ]
                 }
             ],
             "citations": 33,
-            "publication_name": "The Journal of rural health : official journal of the American Rural Health Association and the National Rural Health Care Association",
+            "publication_name": "Scientific Reports",
             "issn": "",
-            "cover_date": "2016-06-01",
+            "cover_date": "2015-06-12",
             "venue": "Journal",
-            "volume": "32",
-            "issue": "3",
-            "page_range": "280-286",
-            "doi": "10.1111/jrh.12151"
+            "volume": "5",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1038/srep10618"
         },
         {
             "title": "Opioid analgesic prescribing in Australia: A focus on gender and age",
@@ -20917,72 +20983,6 @@
             "issue": "7",
             "page_range": "1052-1061",
             "doi": "10.1080/10826084.2022.2063893"
-        },
-        {
-            "title": "Researchers' perspectives on scientific and ethical issues with transcranial direct current stimulation: An international survey",
-            "eid": "2-s2.0-84931281994",
-            "authors": [
-                {
-                    "scopus_id": "56688557900",
-                    "name": "Riggall K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "33367648800",
-                    "name": "Forlini C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "35320939900",
-                    "name": "Carter A.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "56526633800",
-                    "name": "Weier M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "22136253200",
-                    "name": "Partridge B.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "22735009900",
-                    "name": "Meinzer M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 32,
-            "publication_name": "Scientific Reports",
-            "issn": "",
-            "cover_date": "2015-06-12",
-            "venue": "Journal",
-            "volume": "5",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1038/srep10618"
         },
         {
             "title": "Evidence of HIV transmission in an Australian prison [6]",
@@ -24044,6 +24044,28 @@
             "doi": "10.1017/S0033291721004207"
         },
         {
+            "title": "The costs and benefits of cannabis control policies",
+            "eid": "2-s2.0-85094906288",
+            "authors": [
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 22,
+            "publication_name": "Dialogues in Clinical Neuroscience",
+            "issn": "12948322",
+            "cover_date": "2020-09-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "3",
+            "page_range": "281-287",
+            "doi": "10.31887/DCNS.2020.22.3/WHALL"
+        },
+        {
             "title": "Initial indicators of the public health impacts of non-medical cannabis legalization in Canada",
             "eid": "2-s2.0-85081916987",
             "authors": [
@@ -24596,9 +24618,107 @@
             "doi": "10.1111/add.15424"
         },
         {
-            "title": "The costs and benefits of cannabis control policies",
-            "eid": "2-s2.0-85094906288",
+            "title": "Young-adult compared to adolescent onset of regular cannabis use: A 20-year prospective cohort study of later consequences",
+            "eid": "2-s2.0-85099862332",
             "authors": [
+                {
+                    "scopus_id": "54879684200",
+                    "name": "Chan G.C.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57192198562",
+                    "name": "Becker D.",
+                    "affiliation_id": [
+                        "60009102"
+                    ]
+                },
+                {
+                    "scopus_id": "7006862228",
+                    "name": "Butterworth P.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60119186"
+                    ]
+                },
+                {
+                    "scopus_id": "55803040600",
+                    "name": "Hines L.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "7102070982",
+                    "name": "Coffey C.",
+                    "affiliation_id": [
+                        "60009102"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7102184358",
+                    "name": "Patton G.",
+                    "affiliation_id": [
+                        "60009102"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Drug and Alcohol Review",
+            "issn": "09595236",
+            "cover_date": "2021-05-01",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "4",
+            "page_range": "627-636",
+            "doi": "10.1111/dar.13239"
+        },
+        {
+            "title": "Cannabinoids for the treatment of spasticity",
+            "eid": "2-s2.0-85060586570",
+            "authors": [
+                {
+                    "scopus_id": "57210512321",
+                    "name": "Nielsen S.",
+                    "affiliation_id": [
+                        "60012932",
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "23485762700",
+                    "name": "Murnion B.",
+                    "affiliation_id": [
+                        "60019544",
+                        "60212079",
+                        "60010710"
+                    ]
+                },
+                {
+                    "scopus_id": "23990257200",
+                    "name": "Campbell G.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7401639149",
+                    "name": "Young H.",
+                    "affiliation_id": [
+                        "60010710",
+                        "60006974",
+                        "60026571"
+                    ]
+                },
                 {
                     "scopus_id": "7402629359",
                     "name": "Hall W.",
@@ -24608,14 +24728,14 @@
                 }
             ],
             "citations": 21,
-            "publication_name": "Dialogues in Clinical Neuroscience",
-            "issn": "12948322",
-            "cover_date": "2020-09-01",
+            "publication_name": "Developmental Medicine and Child Neurology",
+            "issn": "00121622",
+            "cover_date": "2019-06-01",
             "venue": "Journal",
-            "volume": "22",
-            "issue": "3",
-            "page_range": "281-287",
-            "doi": "10.31887/DCNS.2020.22.3/WHALL"
+            "volume": "61",
+            "issue": "6",
+            "page_range": "631-638",
+            "doi": "10.1111/dmcn.14165"
         },
         {
             "title": "Predictors of retention in a randomised trial of smoking cessation in low-socioeconomic status Australian smokers",
@@ -25024,14 +25144,14 @@
                     "scopus_id": "7003664892",
                     "name": "Einfeld S.L.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "7402629359",
                     "name": "Hall W.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 }
             ],
@@ -25110,124 +25230,74 @@
             "doi": "10.1017/S0033291722000502"
         },
         {
-            "title": "Young-adult compared to adolescent onset of regular cannabis use: A 20-year prospective cohort study of later consequences",
-            "eid": "2-s2.0-85099862332",
+            "title": "Alcohol consumption and consequences in adolescents in 68 low and middle-income countries \u2013 a multi-country comparison of risks by sex",
+            "eid": "2-s2.0-85074485402",
             "authors": [
+                {
+                    "scopus_id": "57214397752",
+                    "name": "Leung J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60109564",
+                        "60031004",
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "57201798721",
+                    "name": "Chiu V.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60109564",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55491158300",
+                    "name": "Connor J.P.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "54405795600",
+                    "name": "Peacock A.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7402153607",
+                    "name": "Kelly A.B.",
+                    "affiliation_id": [
+                        "60011019"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60011520"
+                    ]
+                },
                 {
                     "scopus_id": "54879684200",
                     "name": "Chan G.C.K.",
                     "affiliation_id": [
                         "60031004"
                     ]
-                },
-                {
-                    "scopus_id": "57192198562",
-                    "name": "Becker D.",
-                    "affiliation_id": [
-                        "60009102"
-                    ]
-                },
-                {
-                    "scopus_id": "7006862228",
-                    "name": "Butterworth P.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60119186"
-                    ]
-                },
-                {
-                    "scopus_id": "55803040600",
-                    "name": "Hines L.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "7102070982",
-                    "name": "Coffey C.",
-                    "affiliation_id": [
-                        "60009102"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7102184358",
-                    "name": "Patton G.",
-                    "affiliation_id": [
-                        "60009102"
-                    ]
                 }
             ],
             "citations": 20,
-            "publication_name": "Drug and Alcohol Review",
-            "issn": "09595236",
-            "cover_date": "2021-05-01",
+            "publication_name": "Drug and Alcohol Dependence",
+            "issn": "03768716",
+            "cover_date": "2019-12-01",
             "venue": "Journal",
-            "volume": "40",
-            "issue": "4",
-            "page_range": "627-636",
-            "doi": "10.1111/dar.13239"
-        },
-        {
-            "title": "Cannabinoids for the treatment of spasticity",
-            "eid": "2-s2.0-85060586570",
-            "authors": [
-                {
-                    "scopus_id": "57210512321",
-                    "name": "Nielsen S.",
-                    "affiliation_id": [
-                        "60012932",
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "23485762700",
-                    "name": "Murnion B.",
-                    "affiliation_id": [
-                        "60019544",
-                        "60212079",
-                        "60010710"
-                    ]
-                },
-                {
-                    "scopus_id": "23990257200",
-                    "name": "Campbell G.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7401639149",
-                    "name": "Young H.",
-                    "affiliation_id": [
-                        "60010710",
-                        "60006974",
-                        "60026571"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 20,
-            "publication_name": "Developmental Medicine and Child Neurology",
-            "issn": "00121622",
-            "cover_date": "2019-06-01",
-            "venue": "Journal",
-            "volume": "61",
-            "issue": "6",
-            "page_range": "631-638",
-            "doi": "10.1111/dmcn.14165"
+            "volume": "205",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.drugalcdep.2019.06.022"
         },
         {
             "title": "Does the social context of early alcohol use affect risky drinking in adolescents? Prospective cohort study",
@@ -25717,76 +25787,6 @@
             "issue": "1",
             "page_range": "19-26",
             "doi": "10.1080/09540129550126920"
-        },
-        {
-            "title": "Alcohol consumption and consequences in adolescents in 68 low and middle-income countries \u2013 a multi-country comparison of risks by sex",
-            "eid": "2-s2.0-85074485402",
-            "authors": [
-                {
-                    "scopus_id": "57214397752",
-                    "name": "Leung J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60109564",
-                        "60031004",
-                        "60091926"
-                    ]
-                },
-                {
-                    "scopus_id": "57201798721",
-                    "name": "Chiu V.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60109564",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "55491158300",
-                    "name": "Connor J.P.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "54405795600",
-                    "name": "Peacock A.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7402153607",
-                    "name": "Kelly A.B.",
-                    "affiliation_id": [
-                        "60011019"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "54879684200",
-                    "name": "Chan G.C.K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 19,
-            "publication_name": "Drug and Alcohol Dependence",
-            "issn": "03768716",
-            "cover_date": "2019-12-01",
-            "venue": "Journal",
-            "volume": "205",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.drugalcdep.2019.06.022"
         },
         {
             "title": "The Global Epidemiology and Disease Burden of Cannabis Use and Dependence",
@@ -27459,6 +27459,51 @@
             "doi": "10.1111/add.15631"
         },
         {
+            "title": "Do Cannabis Users Reduce Their THC Dosages When Using More Potent Cannabis Products? A Review",
+            "eid": "2-s2.0-85102134362",
+            "authors": [
+                {
+                    "scopus_id": "57214397752",
+                    "name": "Leung J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "56633409600",
+                    "name": "Stjepanovi\u0107 D.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "58465069300",
+                    "name": "Dawson D.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.D.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Frontiers in Psychiatry",
+            "issn": "",
+            "cover_date": "2021-02-18",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.3389/fpsyt.2021.630602"
+        },
+        {
             "title": "Translational hurdles with cannabis medicines",
             "eid": "2-s2.0-85083215157",
             "authors": [
@@ -27593,6 +27638,36 @@
             "issue": "1",
             "page_range": "103-110",
             "doi": "10.1007/s12152-017-9303-1"
+        },
+        {
+            "title": "Lee Robins' studies of heroin use among US Vietnam veterans",
+            "eid": "2-s2.0-84992488222",
+            "authors": [
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60011520",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "56526633800",
+                    "name": "Weier M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Addiction",
+            "issn": "09652140",
+            "cover_date": "2017-01-01",
+            "venue": "Journal",
+            "volume": "112",
+            "issue": "1",
+            "page_range": "176-180",
+            "doi": "10.1111/add.13584"
         },
         {
             "title": "Tobacco harm reduction in people with serious mental illnesses",
@@ -28178,7 +28253,7 @@
                     "scopus_id": "7402629359",
                     "name": "Hall W.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 }
             ],
@@ -28191,81 +28266,6 @@
             "issue": "4",
             "page_range": "507-513",
             "doi": "10.3109/00048678709158918"
-        },
-        {
-            "title": "Do Cannabis Users Reduce Their THC Dosages When Using More Potent Cannabis Products? A Review",
-            "eid": "2-s2.0-85102134362",
-            "authors": [
-                {
-                    "scopus_id": "57214397752",
-                    "name": "Leung J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "56633409600",
-                    "name": "Stjepanovi\u0107 D.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "58465069300",
-                    "name": "Dawson D.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.D.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Frontiers in Psychiatry",
-            "issn": "",
-            "cover_date": "2021-02-18",
-            "venue": "Journal",
-            "volume": "12",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.3389/fpsyt.2021.630602"
-        },
-        {
-            "title": "Lee Robins' studies of heroin use among US Vietnam veterans",
-            "eid": "2-s2.0-84992488222",
-            "authors": [
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60011520",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "56526633800",
-                    "name": "Weier M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Addiction",
-            "issn": "09652140",
-            "cover_date": "2017-01-01",
-            "venue": "Journal",
-            "volume": "112",
-            "issue": "1",
-            "page_range": "176-180",
-            "doi": "10.1111/add.13584"
         },
         {
             "title": "Management of impulse control disorders in Parkinson's disease",
@@ -28346,7 +28346,7 @@
                     "scopus_id": "7402629359",
                     "name": "Hall W.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
@@ -28742,6 +28742,36 @@
             "issue": "2",
             "page_range": "162-171",
             "doi": "10.1521/pedi.1998.12.2.162"
+        },
+        {
+            "title": "An evaluation of Cloninger's typology of alcohol abuse",
+            "eid": "2-s2.0-0031821368",
+            "authors": [
+                {
+                    "scopus_id": "10242345200",
+                    "name": "Sannibale C.",
+                    "affiliation_id": [
+                        "115072418",
+                        "60028409"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Addiction",
+            "issn": "09652140",
+            "cover_date": "1998-01-01",
+            "venue": "Journal",
+            "volume": "93",
+            "issue": "8",
+            "page_range": "1241-1249",
+            "doi": "10.1046/j.1360-0443.1998.938124112.x"
         },
         {
             "title": "Positive cost effectiveness of early diagnosis of colorectal cancer",
@@ -29764,36 +29794,6 @@
             "doi": "10.1080/713659324"
         },
         {
-            "title": "An evaluation of Cloninger's typology of alcohol abuse",
-            "eid": "2-s2.0-0031821368",
-            "authors": [
-                {
-                    "scopus_id": "10242345200",
-                    "name": "Sannibale C.",
-                    "affiliation_id": [
-                        "115072418",
-                        "60028409"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                }
-            ],
-            "citations": 14,
-            "publication_name": "Addiction",
-            "issn": "09652140",
-            "cover_date": "1998-01-01",
-            "venue": "Journal",
-            "volume": "93",
-            "issue": "8",
-            "page_range": "1241-1249",
-            "doi": "10.1046/j.1360-0443.1998.938124112.x"
-        },
-        {
             "title": "Comparisons of psychological and social factors in patients with chronic oro\u2010facial pain and dental phobic disorders",
             "eid": "2-s2.0-0023425489",
             "authors": [
@@ -29935,6 +29935,71 @@
             "issue": "8",
             "page_range": "1442-1456",
             "doi": "10.1093/pm/pnac029"
+        },
+        {
+            "title": "Can wastewater analysis be used as a tool to assess the burden of pain treatment within a population?",
+            "eid": "2-s2.0-85086369040",
+            "authors": [
+                {
+                    "scopus_id": "56594329500",
+                    "name": "Ahmed F.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55938442900",
+                    "name": "Tscharke B.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57941900000",
+                    "name": "O'Brien J.W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "35553526700",
+                    "name": "Cabot P.J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.D.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57212221160",
+                    "name": "Mueller J.F.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57204870448",
+                    "name": "Thomas K.V.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Environmental Research",
+            "issn": "00139351",
+            "cover_date": "2020-09-01",
+            "venue": "Journal",
+            "volume": "188",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.envres.2020.109769"
         },
         {
             "title": "Miscommunication about the causes of the US outbreak of lung diseases in vapers by public health authorities and the media",
@@ -30744,71 +30809,6 @@
             "doi": ""
         },
         {
-            "title": "Can wastewater analysis be used as a tool to assess the burden of pain treatment within a population?",
-            "eid": "2-s2.0-85086369040",
-            "authors": [
-                {
-                    "scopus_id": "56594329500",
-                    "name": "Ahmed F.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "55938442900",
-                    "name": "Tscharke B.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57941900000",
-                    "name": "O'Brien J.W.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "35553526700",
-                    "name": "Cabot P.J.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.D.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57212221160",
-                    "name": "Mueller J.F.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57204870448",
-                    "name": "Thomas K.V.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 12,
-            "publication_name": "Environmental Research",
-            "issn": "00139351",
-            "cover_date": "2020-09-01",
-            "venue": "Journal",
-            "volume": "188",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.envres.2020.109769"
-        },
-        {
             "title": "Antidepressant Use among People Prescribed Opioids for Chronic Noncancer Pain",
             "eid": "2-s2.0-85076194281",
             "authors": [
@@ -31488,6 +31488,42 @@
             "issue": "8",
             "page_range": "1430-1444",
             "doi": "10.1111/add.16199"
+        },
+        {
+            "title": "How should policymakers regulate the tetrahydrocannabinol content of cannabis products in a legal market?",
+            "eid": "2-s2.0-85146941540",
+            "authors": [
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57214397752",
+                    "name": "Leung J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57212762129",
+                    "name": "Carlini B.H.",
+                    "affiliation_id": [
+                        "60015481"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Addiction",
+            "issn": "09652140",
+            "cover_date": "2023-06-01",
+            "venue": "Journal",
+            "volume": "118",
+            "issue": "6",
+            "page_range": "998-1003",
+            "doi": "10.1111/add.16135"
         },
         {
             "title": "Ensuring access to safe, effective, and affordable cannabis-based medicines",
@@ -33053,42 +33089,6 @@
             "doi": "10.1046/j.1360-0443.1996.9111172713.x"
         },
         {
-            "title": "How should policymakers regulate the tetrahydrocannabinol content of cannabis products in a legal market?",
-            "eid": "2-s2.0-85146941540",
-            "authors": [
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57214397752",
-                    "name": "Leung J.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57212762129",
-                    "name": "Carlini B.H.",
-                    "affiliation_id": [
-                        "60015481"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "Addiction",
-            "issn": "09652140",
-            "cover_date": "2023-06-01",
-            "venue": "Journal",
-            "volume": "118",
-            "issue": "6",
-            "page_range": "998-1003",
-            "doi": "10.1111/add.16135"
-        },
-        {
             "title": "Perceived access to cannabis and ease of purchasing cannabis in retail stores in Canada immediately before and one year after legalization",
             "eid": "2-s2.0-85125187366",
             "authors": [
@@ -33743,7 +33743,7 @@
                     "scopus_id": "7402629359",
                     "name": "Hall W.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
@@ -34987,6 +34987,72 @@
             "doi": "10.1017/S0033291722003191"
         },
         {
+            "title": "A Pragmatic Randomized Comparative Trial of e-Cigarettes and Other Nicotine Products for Quitting or Long-Term Substitution in Smokers",
+            "eid": "2-s2.0-85132131417",
+            "authors": [
+                {
+                    "scopus_id": "36192311800",
+                    "name": "Morphett K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "58452461600",
+                    "name": "Fraser D.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60026655"
+                    ]
+                },
+                {
+                    "scopus_id": "7005900584",
+                    "name": "Borland R.",
+                    "affiliation_id": [
+                        "60118640",
+                        "60001052"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57189948788",
+                    "name": "Walker N.",
+                    "affiliation_id": [
+                        "60005686"
+                    ]
+                },
+                {
+                    "scopus_id": "56560797800",
+                    "name": "Bullen C.",
+                    "affiliation_id": [
+                        "60005686"
+                    ]
+                },
+                {
+                    "scopus_id": "8450161900",
+                    "name": "Gartner C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Nicotine and Tobacco Research",
+            "issn": "14622203",
+            "cover_date": "2022-07-01",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "7",
+            "page_range": "1079-1088",
+            "doi": "10.1093/ntr/ntab266"
+        },
+        {
             "title": "Alcohol advertisers may be using social media to encourage parents to drink during COVID-19",
             "eid": "2-s2.0-85088125455",
             "authors": [
@@ -35734,72 +35800,6 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1007/s11469-022-00986-9"
-        },
-        {
-            "title": "A Pragmatic Randomized Comparative Trial of e-Cigarettes and Other Nicotine Products for Quitting or Long-Term Substitution in Smokers",
-            "eid": "2-s2.0-85132131417",
-            "authors": [
-                {
-                    "scopus_id": "36192311800",
-                    "name": "Morphett K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "58452461600",
-                    "name": "Fraser D.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60026655"
-                    ]
-                },
-                {
-                    "scopus_id": "7005900584",
-                    "name": "Borland R.",
-                    "affiliation_id": [
-                        "60118640",
-                        "60001052"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57189948788",
-                    "name": "Walker N.",
-                    "affiliation_id": [
-                        "60005686"
-                    ]
-                },
-                {
-                    "scopus_id": "56560797800",
-                    "name": "Bullen C.",
-                    "affiliation_id": [
-                        "60005686"
-                    ]
-                },
-                {
-                    "scopus_id": "8450161900",
-                    "name": "Gartner C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 7,
-            "publication_name": "Nicotine and Tobacco Research",
-            "issn": "14622203",
-            "cover_date": "2022-07-01",
-            "venue": "Journal",
-            "volume": "24",
-            "issue": "7",
-            "page_range": "1079-1088",
-            "doi": "10.1093/ntr/ntab266"
         },
         {
             "title": "The Misuse of the precautionary principle in justifying Australia's ban on the sale of nicotine vaping products",
@@ -38026,6 +38026,100 @@
             "doi": "10.1503/cmaj.230808"
         },
         {
+            "title": "Longitudinal association between exposure to e-cigarette advertising and youth e-cigarette use in the United States",
+            "eid": "2-s2.0-85165927462",
+            "authors": [
+                {
+                    "scopus_id": "57219095080",
+                    "name": "Sun T.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57202424871",
+                    "name": "Vu G.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57201069236",
+                    "name": "Lim C.C.W.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57403961500",
+                    "name": "Johnson B.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "56633409600",
+                    "name": "Stjepanovi\u0107 D.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57214397752",
+                    "name": "Leung J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55491158300",
+                    "name": "Connor J.P.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "8450161900",
+                    "name": "Gartner C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.D.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "54879684200",
+                    "name": "Chan G.C.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Addictive Behaviors",
+            "issn": "03064603",
+            "cover_date": "2023-11-01",
+            "venue": "Journal",
+            "volume": "146",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.addbeh.2023.107810"
+        },
+        {
             "title": "How should nicotine vaping be regulated in Australia?",
             "eid": "2-s2.0-85153393486",
             "authors": [
@@ -39329,100 +39423,6 @@
             "issue": "",
             "page_range": "53-82",
             "doi": "10.1007/978-3-031-23658-7_3"
-        },
-        {
-            "title": "Longitudinal association between exposure to e-cigarette advertising and youth e-cigarette use in the United States",
-            "eid": "2-s2.0-85165927462",
-            "authors": [
-                {
-                    "scopus_id": "57219095080",
-                    "name": "Sun T.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57202424871",
-                    "name": "Vu G.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57201069236",
-                    "name": "Lim C.C.W.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57403961500",
-                    "name": "Johnson B.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "56633409600",
-                    "name": "Stjepanovi\u0107 D.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57214397752",
-                    "name": "Leung J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "55491158300",
-                    "name": "Connor J.P.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "8450161900",
-                    "name": "Gartner C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.D.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "54879684200",
-                    "name": "Chan G.C.K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 4,
-            "publication_name": "Addictive Behaviors",
-            "issn": "03064603",
-            "cover_date": "2023-11-01",
-            "venue": "Journal",
-            "volume": "146",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.addbeh.2023.107810"
         },
         {
             "title": "Recommendations for Reducing the Risk of Cannabis Use-Related Adverse Psychosis Outcomes: A Public Mental Health-Oriented Evidence Review",
@@ -41061,6 +41061,194 @@
             "doi": "10.1111/dar.13614"
         },
         {
+            "title": "A wastewater-based evaluation of the effectiveness of codeine control measures in Australia",
+            "eid": "2-s2.0-85143119296",
+            "authors": [
+                {
+                    "scopus_id": "55938442900",
+                    "name": "Tscharke B.J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57941900000",
+                    "name": "O'Brien J.W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "56594329500",
+                    "name": "Ahmed F.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57208485884",
+                    "name": "Nguyen L.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "57208487683",
+                    "name": "Ghetia M.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "54879684200",
+                    "name": "Chan G.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57197775331",
+                    "name": "Thai P.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57657103900",
+                    "name": "Gerber C.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "37036806400",
+                    "name": "Bade R.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "57212221160",
+                    "name": "Mueller J.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57204870448",
+                    "name": "Thomas K.V.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7405246388",
+                    "name": "White J.",
+                    "affiliation_id": [
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Addiction",
+            "issn": "09652140",
+            "cover_date": "2023-03-01",
+            "venue": "Journal",
+            "volume": "118",
+            "issue": "3",
+            "page_range": "480-488",
+            "doi": "10.1111/add.16083"
+        },
+        {
+            "title": "Efficacy of smokeless tobacco for smoking cessation: A systematic review and meta-analysis",
+            "eid": "2-s2.0-85142392198",
+            "authors": [
+                {
+                    "scopus_id": "56633409600",
+                    "name": "Stjepanovi\u0107 D.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57973032900",
+                    "name": "Phartiyal P.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57214397752",
+                    "name": "Leung J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57201069236",
+                    "name": "Lim C.C.W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57219095080",
+                    "name": "Sun T.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57218317543",
+                    "name": "Chung J.Y.C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "8450161900",
+                    "name": "Gartner C.E.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.D.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "54879684200",
+                    "name": "Chan G.C.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Tobacco Control",
+            "issn": "09644563",
+            "cover_date": "2023-11-01",
+            "venue": "Journal",
+            "volume": "32",
+            "issue": "6",
+            "page_range": "757-768",
+            "doi": "10.1136/tobaccocontrol-2021-057019"
+        },
+        {
             "title": "Nicotine vaping was not the cause of e-cigarette, or vaping, product use-associated lung injury in the United States",
             "eid": "2-s2.0-85136467366",
             "authors": [
@@ -42431,6 +42619,28 @@
             "doi": "10.1080/07263869400035321"
         },
         {
+            "title": "Will Australia's tightened prescription system reduce nicotine vaping among young people?",
+            "eid": "2-s2.0-85192050390",
+            "authors": [
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.D.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Addiction",
+            "issn": "09652140",
+            "cover_date": "2024-01-01",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1111/add.16508"
+        },
+        {
             "title": "E-cigarettes: A framework for comparative history and policy",
             "eid": "2-s2.0-85187469768",
             "authors": [
@@ -42838,113 +43048,6 @@
             "doi": "10.1111/dar.13674"
         },
         {
-            "title": "A wastewater-based evaluation of the effectiveness of codeine control measures in Australia",
-            "eid": "2-s2.0-85143119296",
-            "authors": [
-                {
-                    "scopus_id": "55938442900",
-                    "name": "Tscharke B.J.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57941900000",
-                    "name": "O'Brien J.W.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "56594329500",
-                    "name": "Ahmed F.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57208485884",
-                    "name": "Nguyen L.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "57208487683",
-                    "name": "Ghetia M.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "54879684200",
-                    "name": "Chan G.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57197775331",
-                    "name": "Thai P.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57657103900",
-                    "name": "Gerber C.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "37036806400",
-                    "name": "Bade R.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "57212221160",
-                    "name": "Mueller J.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57204870448",
-                    "name": "Thomas K.V.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7405246388",
-                    "name": "White J.",
-                    "affiliation_id": [
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 2,
-            "publication_name": "Addiction",
-            "issn": "09652140",
-            "cover_date": "2023-03-01",
-            "venue": "Journal",
-            "volume": "118",
-            "issue": "3",
-            "page_range": "480-488",
-            "doi": "10.1111/add.16083"
-        },
-        {
             "title": "Trends in cannabis use intention around the period of cannabis legalisation in Australia: An age-period-cohort model",
             "eid": "2-s2.0-85142920393",
             "authors": [
@@ -42999,87 +43102,6 @@
             "issue": "2",
             "page_range": "337-345",
             "doi": "10.1111/dar.13578"
-        },
-        {
-            "title": "Efficacy of smokeless tobacco for smoking cessation: A systematic review and meta-analysis",
-            "eid": "2-s2.0-85142392198",
-            "authors": [
-                {
-                    "scopus_id": "56633409600",
-                    "name": "Stjepanovi\u0107 D.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57973032900",
-                    "name": "Phartiyal P.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57214397752",
-                    "name": "Leung J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57201069236",
-                    "name": "Lim C.C.W.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57219095080",
-                    "name": "Sun T.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57218317543",
-                    "name": "Chung J.Y.C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "8450161900",
-                    "name": "Gartner C.E.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.D.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "54879684200",
-                    "name": "Chan G.C.K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 2,
-            "publication_name": "Tobacco Control",
-            "issn": "09644563",
-            "cover_date": "2023-11-01",
-            "venue": "Journal",
-            "volume": "32",
-            "issue": "6",
-            "page_range": "757-768",
-            "doi": "10.1136/tobaccocontrol-2021-057019"
         },
         {
             "title": "Cannabis use and public health: time for a comprehensive harm-to-others framework",
@@ -44830,6 +44852,67 @@
             "doi": "10.1111/add.16518"
         },
         {
+            "title": "The prevalence of cannabis use disorders in people who use medicinal cannabis: A systematic review and meta-analysis",
+            "eid": "2-s2.0-85187998166",
+            "authors": [
+                {
+                    "scopus_id": "58465069300",
+                    "name": "Dawson D.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "56633409600",
+                    "name": "Stjepanovi\u0107 D.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "25645173700",
+                    "name": "Lorenzetti V.",
+                    "affiliation_id": [
+                        "60010679"
+                    ]
+                },
+                {
+                    "scopus_id": "58942850000",
+                    "name": "Cheung C.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57214397752",
+                    "name": "Leung J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Drug and Alcohol Dependence",
+            "issn": "03768716",
+            "cover_date": "2024-04-01",
+            "venue": "Journal",
+            "volume": "257",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.drugalcdep.2024.111263"
+        },
+        {
             "title": "Do we need clinical trials of high dose stimulant agonist treatment for stimulant use disorders?",
             "eid": "2-s2.0-85181438497",
             "authors": [
@@ -46041,6 +46124,42 @@
             "issue": "9",
             "page_range": "1591-1592",
             "doi": "10.1111/add.14716"
+        },
+        {
+            "title": "Addiction",
+            "eid": "2-s2.0-85069167473",
+            "authors": [
+                {
+                    "scopus_id": "25638460600",
+                    "name": "Capps B.",
+                    "affiliation_id": [
+                        "60017161"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "35320939900",
+                    "name": "Carter A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Encyclopedia of Applied Ethics: Volume 1-4, Second Edition",
+            "issn": "",
+            "cover_date": "2012-01-01",
+            "venue": "Book",
+            "volume": "1-4",
+            "issue": "",
+            "page_range": "22-30",
+            "doi": "10.1016/B978-0-12-373932-2.00125-3"
         },
         {
             "title": "Looking to the future: Clinical and policy implications of the brain disease model of addiction",
@@ -47884,28 +48003,6 @@
             "doi": "10.1007/s00406-024-01829-5"
         },
         {
-            "title": "Will Australia's tightened prescription system reduce nicotine vaping among young people?",
-            "eid": "2-s2.0-85192050390",
-            "authors": [
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.D.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 0,
-            "publication_name": "Addiction",
-            "issn": "09652140",
-            "cover_date": "2024-01-01",
-            "venue": "Journal",
-            "volume": "",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1111/add.16508"
-        },
-        {
             "title": "Seven-years of alcohol consumption in Australia by wastewater analysis: Exploring patterns by remoteness and socioeconomic factors",
             "eid": "2-s2.0-85191869781",
             "authors": [
@@ -48117,67 +48214,6 @@
             "issue": "4",
             "page_range": null,
             "doi": "10.1371/journal.pmed.1004391"
-        },
-        {
-            "title": "The prevalence of cannabis use disorders in people who use medicinal cannabis: A systematic review and meta-analysis",
-            "eid": "2-s2.0-85187998166",
-            "authors": [
-                {
-                    "scopus_id": "58465069300",
-                    "name": "Dawson D.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "56633409600",
-                    "name": "Stjepanovi\u0107 D.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "25645173700",
-                    "name": "Lorenzetti V.",
-                    "affiliation_id": [
-                        "60010679"
-                    ]
-                },
-                {
-                    "scopus_id": "58942850000",
-                    "name": "Cheung C.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57214397752",
-                    "name": "Leung J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 0,
-            "publication_name": "Drug and Alcohol Dependence",
-            "issn": "03768716",
-            "cover_date": "2024-04-01",
-            "venue": "Journal",
-            "volume": "257",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.drugalcdep.2024.111263"
         },
         {
             "title": "Cannabis use and cannabis use disorders and their treatment in the Europe",
@@ -50485,42 +50521,6 @@
             "doi": "10.1016/j.neuron.2019.12.019"
         },
         {
-            "title": "Addiction",
-            "eid": "2-s2.0-85069167473",
-            "authors": [
-                {
-                    "scopus_id": "25638460600",
-                    "name": "Capps B.",
-                    "affiliation_id": [
-                        "60017161"
-                    ]
-                },
-                {
-                    "scopus_id": "7402629359",
-                    "name": "Hall W.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "35320939900",
-                    "name": "Carter A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 0,
-            "publication_name": "Encyclopedia of Applied Ethics: Volume 1-4, Second Edition",
-            "issn": "",
-            "cover_date": "2012-01-01",
-            "venue": "Book",
-            "volume": "1-4",
-            "issue": "",
-            "page_range": "22-30",
-            "doi": "10.1016/B978-0-12-373932-2.00125-3"
-        },
-        {
             "title": "Concussion, neuroethics, and sport: Policies of the past do not suffice for the future",
             "eid": "2-s2.0-85060608289",
             "authors": [
@@ -52549,7 +52549,7 @@
     "subject_area": [
         {
             "@abbrev": "MEDI",
-            "@frequency": "1704",
+            "@frequency": "1705",
             "$": "Medicine (all)"
         },
         {
@@ -52563,6 +52563,5 @@
             "$": "Neuroscience (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:20:24",
-    "c-score": null
+    "date fetched": "2024-07-12 20:08:42"
 }

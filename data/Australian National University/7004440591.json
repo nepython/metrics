@@ -192,7 +192,7 @@
                     ]
                 }
             ],
-            "citations": 6899,
+            "citations": 6913,
             "publication_name": "Ecography",
             "issn": "09067590",
             "cover_date": "2006-04-01",
@@ -214,7 +214,7 @@
                     ]
                 }
             ],
-            "citations": 2824,
+            "citations": 2825,
             "publication_name": "Trends in Ecology and Evolution",
             "issn": "01695347",
             "cover_date": "1994-01-01",
@@ -300,7 +300,7 @@
                     ]
                 }
             ],
-            "citations": 877,
+            "citations": 878,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2009-02-06",
@@ -351,7 +351,7 @@
                     ]
                 }
             ],
-            "citations": 855,
+            "citations": 856,
             "publication_name": "Trends in Ecology and Evolution",
             "issn": "01695347",
             "cover_date": "2004-09-01",
@@ -412,7 +412,7 @@
                     ]
                 }
             ],
-            "citations": 835,
+            "citations": 836,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2008-10-10",
@@ -434,7 +434,7 @@
                     ]
                 }
             ],
-            "citations": 800,
+            "citations": 801,
             "publication_name": "Systematic Biology",
             "issn": "10635157",
             "cover_date": "2002-04-01",
@@ -506,7 +506,7 @@
                     ]
                 }
             ],
-            "citations": 694,
+            "citations": 695,
             "publication_name": "Annual Review of Ecology and Systematics",
             "issn": "00664162",
             "cover_date": "2000-12-01",
@@ -578,7 +578,7 @@
                     ]
                 }
             ],
-            "citations": 657,
+            "citations": 658,
             "publication_name": "Molecular Ecology",
             "issn": "09621083",
             "cover_date": "1994-01-01",
@@ -639,7 +639,7 @@
                     ]
                 }
             ],
-            "citations": 542,
+            "citations": 546,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2013-01-01",
@@ -738,7 +738,7 @@
                     ]
                 }
             ],
-            "citations": 478,
+            "citations": 479,
             "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
             "issn": "00278424",
             "cover_date": "2009-11-17",
@@ -881,7 +881,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 456,
+            "citations": 458,
             "publication_name": "Diversity and Distributions",
             "issn": "13669516",
             "cover_date": "2007-05-01",
@@ -917,7 +917,7 @@
                     ]
                 }
             ],
-            "citations": 439,
+            "citations": 440,
             "publication_name": "Systematic Biology",
             "issn": "10635157",
             "cover_date": "1992-01-01",
@@ -1778,7 +1778,7 @@
                     ]
                 }
             ],
-            "citations": 250,
+            "citations": 251,
             "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
             "issn": "00278424",
             "cover_date": "2002-06-11",
@@ -2063,7 +2063,7 @@
                     ]
                 }
             ],
-            "citations": 202,
+            "citations": 203,
             "publication_name": "BMC Genomics",
             "issn": "",
             "cover_date": "2012-08-17",
@@ -2902,7 +2902,7 @@
                     ]
                 }
             ],
-            "citations": 185,
+            "citations": 186,
             "publication_name": "Ecography",
             "issn": "09067590",
             "cover_date": "2014-01-01",
@@ -4677,6 +4677,59 @@
             "doi": "10.1111/j.0014-3820.2003.tb00219.x"
         },
         {
+            "title": "Reticulation, divergence, and the phylogeography-phylogenetics continuum",
+            "eid": "2-s2.0-84978796135",
+            "authors": [
+                {
+                    "scopus_id": "55543928200",
+                    "name": "Edwards S.V.",
+                    "affiliation_id": [
+                        "60009982"
+                    ]
+                },
+                {
+                    "scopus_id": "54416297200",
+                    "name": "Potter S.",
+                    "affiliation_id": [
+                        "60159889",
+                        "60159820"
+                    ]
+                },
+                {
+                    "scopus_id": "57188837086",
+                    "name": "Schmitt C.J.",
+                    "affiliation_id": [
+                        "60009982"
+                    ]
+                },
+                {
+                    "scopus_id": "8330142300",
+                    "name": "Bragg J.G.",
+                    "affiliation_id": [
+                        "60159889",
+                        "60159820"
+                    ]
+                },
+                {
+                    "scopus_id": "7004440591",
+                    "name": "Moritz C.",
+                    "affiliation_id": [
+                        "60159889",
+                        "60159820"
+                    ]
+                }
+            ],
+            "citations": 110,
+            "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
+            "issn": "00278424",
+            "cover_date": "2016-07-19",
+            "venue": "Journal",
+            "volume": "113",
+            "issue": "29",
+            "page_range": "8025-8032",
+            "doi": "10.1073/pnas.1601066113"
+        },
+        {
             "title": "Diversification and persistence at the arid-monsoonal interface: Australia-wide biogeography of the bynoe's gecko (heteronotia binoei; gekkonidae)",
             "eid": "2-s2.0-77955296794",
             "authors": [
@@ -4721,59 +4774,6 @@
             "issue": "8",
             "page_range": "2293-2314",
             "doi": "10.1111/j.1558-5646.2010.00993.x"
-        },
-        {
-            "title": "Reticulation, divergence, and the phylogeography-phylogenetics continuum",
-            "eid": "2-s2.0-84978796135",
-            "authors": [
-                {
-                    "scopus_id": "55543928200",
-                    "name": "Edwards S.V.",
-                    "affiliation_id": [
-                        "60009982"
-                    ]
-                },
-                {
-                    "scopus_id": "54416297200",
-                    "name": "Potter S.",
-                    "affiliation_id": [
-                        "60159889",
-                        "60159820"
-                    ]
-                },
-                {
-                    "scopus_id": "57188837086",
-                    "name": "Schmitt C.J.",
-                    "affiliation_id": [
-                        "60009982"
-                    ]
-                },
-                {
-                    "scopus_id": "8330142300",
-                    "name": "Bragg J.G.",
-                    "affiliation_id": [
-                        "60159889",
-                        "60159820"
-                    ]
-                },
-                {
-                    "scopus_id": "7004440591",
-                    "name": "Moritz C.",
-                    "affiliation_id": [
-                        "60159889",
-                        "60159820"
-                    ]
-                }
-            ],
-            "citations": 109,
-            "publication_name": "Proceedings of the National Academy of Sciences of the United States of America",
-            "issn": "00278424",
-            "cover_date": "2016-07-19",
-            "venue": "Journal",
-            "volume": "113",
-            "issue": "29",
-            "page_range": "8025-8032",
-            "doi": "10.1073/pnas.1601066113"
         },
         {
             "title": "Evolutionary Biology for the 21st Century",
@@ -4971,6 +4971,56 @@
             "doi": "10.1554/05-487.1"
         },
         {
+            "title": "The California Hotspots Project: Identifying regions of rapid diversification of mammals",
+            "eid": "2-s2.0-37349126038",
+            "authors": [
+                {
+                    "scopus_id": "8703383600",
+                    "name": "Davis E.B.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "57202363471",
+                    "name": "Koo M.S.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "7006433042",
+                    "name": "Conroy C.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "56042267000",
+                    "name": "Patton J.L.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "7004440591",
+                    "name": "Moritz C.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                }
+            ],
+            "citations": 105,
+            "publication_name": "Molecular Ecology",
+            "issn": "09621083",
+            "cover_date": "2008-01-01",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "1",
+            "page_range": "120-138",
+            "doi": "10.1111/j.1365-294X.2007.03469.x"
+        },
+        {
             "title": "Evolutionary biology in biodiversity science, conservation, and policy: A call to action",
             "eid": "2-s2.0-77953772579",
             "authors": [
@@ -5110,56 +5160,6 @@
             "issue": "5",
             "page_range": "1517-1528",
             "doi": "10.1111/j.1558-5646.2010.00947.x"
-        },
-        {
-            "title": "The California Hotspots Project: Identifying regions of rapid diversification of mammals",
-            "eid": "2-s2.0-37349126038",
-            "authors": [
-                {
-                    "scopus_id": "8703383600",
-                    "name": "Davis E.B.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "57202363471",
-                    "name": "Koo M.S.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "7006433042",
-                    "name": "Conroy C.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "56042267000",
-                    "name": "Patton J.L.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                },
-                {
-                    "scopus_id": "7004440591",
-                    "name": "Moritz C.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                }
-            ],
-            "citations": 104,
-            "publication_name": "Molecular Ecology",
-            "issn": "09621083",
-            "cover_date": "2008-01-01",
-            "venue": "Journal",
-            "volume": "17",
-            "issue": "1",
-            "page_range": "120-138",
-            "doi": "10.1111/j.1365-294X.2007.03469.x"
         },
         {
             "title": "Climate change and the origin of migratory pathways in the Swainson's thrush, Catharus ustulatus",
@@ -5494,7 +5494,7 @@
                     ]
                 }
             ],
-            "citations": 95,
+            "citations": 96,
             "publication_name": "Proceedings of the Royal Society B: Biological Sciences",
             "issn": "09628452",
             "cover_date": "2013-01-01",
@@ -6276,6 +6276,50 @@
             "doi": "10.1098/rspb.1991.0063"
         },
         {
+            "title": "The Potential for Rapid Evolution under Anthropogenic Climate Change",
+            "eid": "2-s2.0-85072777101",
+            "authors": [
+                {
+                    "scopus_id": "39161085800",
+                    "name": "Catullo R.A.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "24756370800",
+                    "name": "Llewelyn J.",
+                    "affiliation_id": [
+                        "60020828"
+                    ]
+                },
+                {
+                    "scopus_id": "7401447415",
+                    "name": "Phillips B.L.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7004440591",
+                    "name": "Moritz C.C.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 76,
+            "publication_name": "Current Biology",
+            "issn": "09609822",
+            "cover_date": "2019-10-07",
+            "venue": "Journal",
+            "volume": "29",
+            "issue": "19",
+            "page_range": "R996-R1007",
+            "doi": "10.1016/j.cub.2019.08.028"
+        },
+        {
             "title": "Genetic structure and male-mediated gene flow in the ghost bat (Macroderma gigas)",
             "eid": "2-s2.0-0344433881",
             "authors": [
@@ -6363,50 +6407,6 @@
             "issue": "8",
             "page_range": "1917-1927",
             "doi": "10.1046/j.0962-1083.2001.01337.x"
-        },
-        {
-            "title": "The Potential for Rapid Evolution under Anthropogenic Climate Change",
-            "eid": "2-s2.0-85072777101",
-            "authors": [
-                {
-                    "scopus_id": "39161085800",
-                    "name": "Catullo R.A.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "24756370800",
-                    "name": "Llewelyn J.",
-                    "affiliation_id": [
-                        "60020828"
-                    ]
-                },
-                {
-                    "scopus_id": "7401447415",
-                    "name": "Phillips B.L.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7004440591",
-                    "name": "Moritz C.C.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 75,
-            "publication_name": "Current Biology",
-            "issn": "09609822",
-            "cover_date": "2019-10-07",
-            "venue": "Journal",
-            "volume": "29",
-            "issue": "19",
-            "page_range": "R996-R1007",
-            "doi": "10.1016/j.cub.2019.08.028"
         },
         {
             "title": "Variable responses of skinks to a common history of rainforest fluctuation: Concordance between phylogeography and palaeo-distribution models",
@@ -6925,6 +6925,86 @@
             "doi": "10.1098/rstb.2012.0018"
         },
         {
+            "title": "Analysis of phylogenomic tree space resolves relationships among marsupial families",
+            "eid": "2-s2.0-85047812572",
+            "authors": [
+                {
+                    "scopus_id": "55619024600",
+                    "name": "Duchene D.A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8330142300",
+                    "name": "Bragg J.G.",
+                    "affiliation_id": [
+                        "60159889",
+                        "60025080"
+                    ]
+                },
+                {
+                    "scopus_id": "53063500400",
+                    "name": "Duchene S.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "12773385100",
+                    "name": "Neaves L.E.",
+                    "affiliation_id": [
+                        "60017681"
+                    ]
+                },
+                {
+                    "scopus_id": "54416297200",
+                    "name": "Potter S.",
+                    "affiliation_id": [
+                        "60159889",
+                        "60017681"
+                    ]
+                },
+                {
+                    "scopus_id": "7004440591",
+                    "name": "Moritz C.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "8330842100",
+                    "name": "Johnson R.N.",
+                    "affiliation_id": [
+                        "60017681"
+                    ]
+                },
+                {
+                    "scopus_id": "7403716888",
+                    "name": "Ho S.Y.W.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "35449932000",
+                    "name": "Eldridge M.D.B.",
+                    "affiliation_id": [
+                        "60017681"
+                    ]
+                }
+            ],
+            "citations": 69,
+            "publication_name": "Systematic Biology",
+            "issn": "10635157",
+            "cover_date": "2018-05-01",
+            "venue": "Journal",
+            "volume": "67",
+            "issue": "3",
+            "page_range": "400-412",
+            "doi": "10.1093/sysbio/syx076"
+        },
+        {
             "title": "Heat hardening in a tropical lizard: geographic variation explained by the predictability and variance in environmental temperatures",
             "eid": "2-s2.0-84952701074",
             "authors": [
@@ -7036,86 +7116,6 @@
             "doi": "10.1111/j.1095-8312.1993.tb00882.x"
         },
         {
-            "title": "Analysis of phylogenomic tree space resolves relationships among marsupial families",
-            "eid": "2-s2.0-85047812572",
-            "authors": [
-                {
-                    "scopus_id": "55619024600",
-                    "name": "Duchene D.A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "8330142300",
-                    "name": "Bragg J.G.",
-                    "affiliation_id": [
-                        "60159889",
-                        "60025080"
-                    ]
-                },
-                {
-                    "scopus_id": "53063500400",
-                    "name": "Duchene S.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "12773385100",
-                    "name": "Neaves L.E.",
-                    "affiliation_id": [
-                        "60017681"
-                    ]
-                },
-                {
-                    "scopus_id": "54416297200",
-                    "name": "Potter S.",
-                    "affiliation_id": [
-                        "60159889",
-                        "60017681"
-                    ]
-                },
-                {
-                    "scopus_id": "7004440591",
-                    "name": "Moritz C.",
-                    "affiliation_id": [
-                        "60159889"
-                    ]
-                },
-                {
-                    "scopus_id": "8330842100",
-                    "name": "Johnson R.N.",
-                    "affiliation_id": [
-                        "60017681"
-                    ]
-                },
-                {
-                    "scopus_id": "7403716888",
-                    "name": "Ho S.Y.W.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "35449932000",
-                    "name": "Eldridge M.D.B.",
-                    "affiliation_id": [
-                        "60017681"
-                    ]
-                }
-            ],
-            "citations": 68,
-            "publication_name": "Systematic Biology",
-            "issn": "10635157",
-            "cover_date": "2018-05-01",
-            "venue": "Journal",
-            "volume": "67",
-            "issue": "3",
-            "page_range": "400-412",
-            "doi": "10.1093/sysbio/syx076"
-        },
-        {
             "title": "Extreme population structuring in the threatened ghost bat, Macroderma gigas: Evidence from mitochondrial DNA",
             "eid": "2-s2.0-0028040458",
             "authors": [
@@ -7208,7 +7208,7 @@
                     ]
                 }
             ],
-            "citations": 66,
+            "citations": 67,
             "publication_name": "Evolution",
             "issn": "00143820",
             "cover_date": "2005-01-01",
@@ -7217,6 +7217,71 @@
             "issue": "6",
             "page_range": "1334-1347",
             "doi": "10.1111/j.0014-3820.2005.tb01783.x"
+        },
+        {
+            "title": "Chromosomal speciation in the genomics era: Disentangling phylogenetic evolution of rock-wallabies",
+            "eid": "2-s2.0-85014608614",
+            "authors": [
+                {
+                    "scopus_id": "54416297200",
+                    "name": "Potter S.",
+                    "affiliation_id": [
+                        "60159889",
+                        "60017681"
+                    ]
+                },
+                {
+                    "scopus_id": "8330142300",
+                    "name": "Bragg J.G.",
+                    "affiliation_id": [
+                        "60025080"
+                    ]
+                },
+                {
+                    "scopus_id": "55667860100",
+                    "name": "Blom M.P.K.",
+                    "affiliation_id": [
+                        "60029183"
+                    ]
+                },
+                {
+                    "scopus_id": "8696727400",
+                    "name": "Deakin J.E.",
+                    "affiliation_id": [
+                        "60022193"
+                    ]
+                },
+                {
+                    "scopus_id": "7103091513",
+                    "name": "Kirkpatrick M.",
+                    "affiliation_id": [
+                        "60013372"
+                    ]
+                },
+                {
+                    "scopus_id": "35449932000",
+                    "name": "Eldridge M.D.B.",
+                    "affiliation_id": [
+                        "60017681"
+                    ]
+                },
+                {
+                    "scopus_id": "7004440591",
+                    "name": "Moritz C.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 65,
+            "publication_name": "Frontiers in Genetics",
+            "issn": "",
+            "cover_date": "2017-02-10",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "FEB",
+            "page_range": null,
+            "doi": "10.3389/fgene.2017.00010"
         },
         {
             "title": "A vertebrate reproductive system involving three ploidy levels: Hybrid origin of triploids in a contact zone of diploid and tetraploid palearctic green toads (bufo viridis subgroup)",
@@ -7276,71 +7341,6 @@
             "issue": "4",
             "page_range": "944-959",
             "doi": "10.1111/j.1558-5646.2009.00876.x"
-        },
-        {
-            "title": "Chromosomal speciation in the genomics era: Disentangling phylogenetic evolution of rock-wallabies",
-            "eid": "2-s2.0-85014608614",
-            "authors": [
-                {
-                    "scopus_id": "54416297200",
-                    "name": "Potter S.",
-                    "affiliation_id": [
-                        "60159889",
-                        "60017681"
-                    ]
-                },
-                {
-                    "scopus_id": "8330142300",
-                    "name": "Bragg J.G.",
-                    "affiliation_id": [
-                        "60025080"
-                    ]
-                },
-                {
-                    "scopus_id": "55667860100",
-                    "name": "Blom M.P.K.",
-                    "affiliation_id": [
-                        "60029183"
-                    ]
-                },
-                {
-                    "scopus_id": "8696727400",
-                    "name": "Deakin J.E.",
-                    "affiliation_id": [
-                        "60022193"
-                    ]
-                },
-                {
-                    "scopus_id": "7103091513",
-                    "name": "Kirkpatrick M.",
-                    "affiliation_id": [
-                        "60013372"
-                    ]
-                },
-                {
-                    "scopus_id": "35449932000",
-                    "name": "Eldridge M.D.B.",
-                    "affiliation_id": [
-                        "60017681"
-                    ]
-                },
-                {
-                    "scopus_id": "7004440591",
-                    "name": "Moritz C.",
-                    "affiliation_id": [
-                        "60159889"
-                    ]
-                }
-            ],
-            "citations": 64,
-            "publication_name": "Frontiers in Genetics",
-            "issn": "",
-            "cover_date": "2017-02-10",
-            "venue": "Journal",
-            "volume": "8",
-            "issue": "FEB",
-            "page_range": null,
-            "doi": "10.3389/fgene.2017.00010"
         },
         {
             "title": "Putting indigenous conservation policy into practice delivers biodiversity and cultural benefits",
@@ -7998,6 +7998,80 @@
             "doi": "10.1186/s12862-015-0318-0"
         },
         {
+            "title": "Hybridization due to changing species distributions: Adding problems or solutions to conservation of biodiversity during global change?",
+            "eid": "2-s2.0-84948460617",
+            "authors": [
+                {
+                    "scopus_id": "7102229381",
+                    "name": "Brennan A.C.",
+                    "affiliation_id": [
+                        "60006627",
+                        "60022175"
+                    ]
+                },
+                {
+                    "scopus_id": "7006291221",
+                    "name": "Woodward G.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "57207566950",
+                    "name": "Seehausen O.",
+                    "affiliation_id": [
+                        "60020486",
+                        "60002612"
+                    ]
+                },
+                {
+                    "scopus_id": "8441586400",
+                    "name": "Mu\u00f1oz-Fuentes V.",
+                    "affiliation_id": [
+                        "60006627",
+                        "60072277"
+                    ]
+                },
+                {
+                    "scopus_id": "7004440591",
+                    "name": "Moritz C.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "56166075600",
+                    "name": "Guelmami A.",
+                    "affiliation_id": [
+                        "109298393"
+                    ]
+                },
+                {
+                    "scopus_id": "35794991300",
+                    "name": "Abbott R.J.",
+                    "affiliation_id": [
+                        "60022132"
+                    ]
+                },
+                {
+                    "scopus_id": "6602271603",
+                    "name": "Edelaar P.",
+                    "affiliation_id": [
+                        "60030114"
+                    ]
+                }
+            ],
+            "citations": 53,
+            "publication_name": "Evolutionary Ecology Research",
+            "issn": "15220613",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "16",
+            "issue": "6",
+            "page_range": "475-491",
+            "doi": ""
+        },
+        {
             "title": "Genetic population structure of the Greater Bilby Macrotis lagotis, a marsupial in decline",
             "eid": "2-s2.0-0030609730",
             "authors": [
@@ -8104,80 +8178,6 @@
             "issue": "1702",
             "page_range": null,
             "doi": "10.1098/rstb.2015.0337"
-        },
-        {
-            "title": "Hybridization due to changing species distributions: Adding problems or solutions to conservation of biodiversity during global change?",
-            "eid": "2-s2.0-84948460617",
-            "authors": [
-                {
-                    "scopus_id": "7102229381",
-                    "name": "Brennan A.C.",
-                    "affiliation_id": [
-                        "60006627",
-                        "60022175"
-                    ]
-                },
-                {
-                    "scopus_id": "7006291221",
-                    "name": "Woodward G.",
-                    "affiliation_id": [
-                        "60015150"
-                    ]
-                },
-                {
-                    "scopus_id": "57207566950",
-                    "name": "Seehausen O.",
-                    "affiliation_id": [
-                        "60020486",
-                        "60002612"
-                    ]
-                },
-                {
-                    "scopus_id": "8441586400",
-                    "name": "Mu\u00f1oz-Fuentes V.",
-                    "affiliation_id": [
-                        "60006627",
-                        "60072277"
-                    ]
-                },
-                {
-                    "scopus_id": "7004440591",
-                    "name": "Moritz C.",
-                    "affiliation_id": [
-                        "60159889"
-                    ]
-                },
-                {
-                    "scopus_id": "56166075600",
-                    "name": "Guelmami A.",
-                    "affiliation_id": [
-                        "109298393"
-                    ]
-                },
-                {
-                    "scopus_id": "35794991300",
-                    "name": "Abbott R.J.",
-                    "affiliation_id": [
-                        "60022132"
-                    ]
-                },
-                {
-                    "scopus_id": "6602271603",
-                    "name": "Edelaar P.",
-                    "affiliation_id": [
-                        "60030114"
-                    ]
-                }
-            ],
-            "citations": 52,
-            "publication_name": "Evolutionary Ecology Research",
-            "issn": "15220613",
-            "cover_date": "2014-01-01",
-            "venue": "Journal",
-            "volume": "16",
-            "issue": "6",
-            "page_range": "475-491",
-            "doi": ""
         },
         {
             "title": "Comparative phylogeography of two open forest frogs from eastern Australia",
@@ -9183,6 +9183,60 @@
             "doi": "10.1098/rspb.2011.1738"
         },
         {
+            "title": "Museum Genomics",
+            "eid": "2-s2.0-85118954555",
+            "authors": [
+                {
+                    "scopus_id": "55972378300",
+                    "name": "Card D.C.",
+                    "affiliation_id": [
+                        "60009982",
+                        "60009982"
+                    ]
+                },
+                {
+                    "scopus_id": "7402300615",
+                    "name": "Shapiro B.",
+                    "affiliation_id": [
+                        "60024941",
+                        "60024941"
+                    ]
+                },
+                {
+                    "scopus_id": "7005356409",
+                    "name": "Giribet G.",
+                    "affiliation_id": [
+                        "60009982",
+                        "60009982"
+                    ]
+                },
+                {
+                    "scopus_id": "7004440591",
+                    "name": "Moritz C.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "55543928200",
+                    "name": "Edwards S.V.",
+                    "affiliation_id": [
+                        "60009982",
+                        "60009982"
+                    ]
+                }
+            ],
+            "citations": 46,
+            "publication_name": "Annual Review of Genetics",
+            "issn": "00664197",
+            "cover_date": "2021-01-01",
+            "venue": "Book Series",
+            "volume": "55",
+            "issue": "",
+            "page_range": "633-659",
+            "doi": "10.1146/annurev-genet-071719-020506"
+        },
+        {
             "title": "Persistence in peripheral refugia promotes phenotypic divergence and speciation in a rainforest frog",
             "eid": "2-s2.0-80054889846",
             "authors": [
@@ -9487,60 +9541,6 @@
             "issue": "2-3",
             "page_range": "269-280",
             "doi": "10.1007/BF01435044"
-        },
-        {
-            "title": "Museum Genomics",
-            "eid": "2-s2.0-85118954555",
-            "authors": [
-                {
-                    "scopus_id": "55972378300",
-                    "name": "Card D.C.",
-                    "affiliation_id": [
-                        "60009982",
-                        "60009982"
-                    ]
-                },
-                {
-                    "scopus_id": "7402300615",
-                    "name": "Shapiro B.",
-                    "affiliation_id": [
-                        "60024941",
-                        "60024941"
-                    ]
-                },
-                {
-                    "scopus_id": "7005356409",
-                    "name": "Giribet G.",
-                    "affiliation_id": [
-                        "60009982",
-                        "60009982"
-                    ]
-                },
-                {
-                    "scopus_id": "7004440591",
-                    "name": "Moritz C.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "55543928200",
-                    "name": "Edwards S.V.",
-                    "affiliation_id": [
-                        "60009982",
-                        "60009982"
-                    ]
-                }
-            ],
-            "citations": 43,
-            "publication_name": "Annual Review of Genetics",
-            "issn": "00664197",
-            "cover_date": "2021-01-01",
-            "venue": "Book Series",
-            "volume": "55",
-            "issue": "",
-            "page_range": "633-659",
-            "doi": "10.1146/annurev-genet-071719-020506"
         },
         {
             "title": "Cryptic lineage diversity, body size divergence, and sympatry in a species complex of Australian lizards (Gehyra)",
@@ -11591,6 +11591,64 @@
             "doi": "10.1093/sysbio/syaa054"
         },
         {
+            "title": "Migration of green turtles (Chelonia mydas) from Australasian feeding grounds inferred from genetic analyses",
+            "eid": "2-s2.0-78650271352",
+            "authors": [
+                {
+                    "scopus_id": "15029903200",
+                    "name": "Dethmers K.",
+                    "affiliation_id": [
+                        "60022193",
+                        "60016529"
+                    ]
+                },
+                {
+                    "scopus_id": "14037128600",
+                    "name": "Jensen M.",
+                    "affiliation_id": [
+                        "60022193"
+                    ]
+                },
+                {
+                    "scopus_id": "6602499166",
+                    "name": "Fitzsimmons N.",
+                    "affiliation_id": [
+                        "60022193"
+                    ]
+                },
+                {
+                    "scopus_id": "7003688602",
+                    "name": "Broderick D.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7004169600",
+                    "name": "Limpus C.",
+                    "affiliation_id": [
+                        "60008291"
+                    ]
+                },
+                {
+                    "scopus_id": "7004440591",
+                    "name": "Moritz C.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                }
+            ],
+            "citations": 30,
+            "publication_name": "Marine and Freshwater Research",
+            "issn": "13231650",
+            "cover_date": "2010-12-23",
+            "venue": "Journal",
+            "volume": "61",
+            "issue": "12",
+            "page_range": "1376-1387",
+            "doi": "10.1071/MF10084"
+        },
+        {
             "title": "A phylogeny for the genus Isoodon and a range extension for I. obesulus peninsulae based on mtDNA control region and morphology",
             "eid": "2-s2.0-0034773118",
             "authors": [
@@ -11863,64 +11921,6 @@
             "doi": "10.1111/j.1365-294X.2012.05747.x"
         },
         {
-            "title": "Migration of green turtles (Chelonia mydas) from Australasian feeding grounds inferred from genetic analyses",
-            "eid": "2-s2.0-78650271352",
-            "authors": [
-                {
-                    "scopus_id": "15029903200",
-                    "name": "Dethmers K.",
-                    "affiliation_id": [
-                        "60022193",
-                        "60016529"
-                    ]
-                },
-                {
-                    "scopus_id": "14037128600",
-                    "name": "Jensen M.",
-                    "affiliation_id": [
-                        "60022193"
-                    ]
-                },
-                {
-                    "scopus_id": "6602499166",
-                    "name": "Fitzsimmons N.",
-                    "affiliation_id": [
-                        "60022193"
-                    ]
-                },
-                {
-                    "scopus_id": "7003688602",
-                    "name": "Broderick D.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7004169600",
-                    "name": "Limpus C.",
-                    "affiliation_id": [
-                        "60008291"
-                    ]
-                },
-                {
-                    "scopus_id": "7004440591",
-                    "name": "Moritz C.",
-                    "affiliation_id": [
-                        "60025038"
-                    ]
-                }
-            ],
-            "citations": 29,
-            "publication_name": "Marine and Freshwater Research",
-            "issn": "13231650",
-            "cover_date": "2010-12-23",
-            "venue": "Journal",
-            "volume": "61",
-            "issue": "12",
-            "page_range": "1376-1387",
-            "doi": "10.1071/MF10084"
-        },
-        {
             "title": "Are pheromones key to unlocking cryptic lizard diversity?",
             "eid": "2-s2.0-85068143142",
             "authors": [
@@ -12135,6 +12135,35 @@
             "doi": "10.1006/mpev.2000.0803"
         },
         {
+            "title": "Comparative phylogeography of a sibling pair of rainforest Drosophila species (Drosophila serrata and D. birchii)",
+            "eid": "2-s2.0-0032835707",
+            "authors": [
+                {
+                    "scopus_id": "58447829300",
+                    "name": "Kelemen L.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7004440591",
+                    "name": "Moritz C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "Evolution",
+            "issn": "00143820",
+            "cover_date": "1999-01-01",
+            "venue": "Journal",
+            "volume": "53",
+            "issue": "4",
+            "page_range": "1306-1311",
+            "doi": "10.1111/j.1558-5646.1999.tb04545.x"
+        },
+        {
             "title": "Resolution of natural groups using iterative assignment tests: An example from two species of Australian native rats (Rattus)",
             "eid": "2-s2.0-0034851195",
             "authors": [
@@ -12187,33 +12216,63 @@
             "doi": "10.1046/j.1365-294X.2001.01327.x"
         },
         {
-            "title": "Comparative phylogeography of a sibling pair of rainforest Drosophila species (Drosophila serrata and D. birchii)",
-            "eid": "2-s2.0-0032835707",
+            "title": "Tropical specialist vs. climate generalist: Diversification and demographic history of sister species of Carlia skinks from northwestern Australia",
+            "eid": "2-s2.0-85021222719",
             "authors": [
                 {
-                    "scopus_id": "58447829300",
-                    "name": "Kelemen L.",
+                    "scopus_id": "57194613373",
+                    "name": "Afonso Silva A.C.",
                     "affiliation_id": [
-                        "60031004"
+                        "60159889",
+                        "60002769"
+                    ]
+                },
+                {
+                    "scopus_id": "8330142300",
+                    "name": "Bragg J.G.",
+                    "affiliation_id": [
+                        "60159889",
+                        "112869694"
+                    ]
+                },
+                {
+                    "scopus_id": "54416297200",
+                    "name": "Potter S.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "8966321900",
+                    "name": "Fernandes C.",
+                    "affiliation_id": [
+                        "60002769"
+                    ]
+                },
+                {
+                    "scopus_id": "26643445100",
+                    "name": "Coelho M.M.",
+                    "affiliation_id": [
+                        "60002769"
                     ]
                 },
                 {
                     "scopus_id": "7004440591",
                     "name": "Moritz C.",
                     "affiliation_id": [
-                        "60031004"
+                        "60159889"
                     ]
                 }
             ],
-            "citations": 26,
-            "publication_name": "Evolution",
-            "issn": "00143820",
-            "cover_date": "1999-01-01",
+            "citations": 25,
+            "publication_name": "Molecular Ecology",
+            "issn": "09621083",
+            "cover_date": "2017-08-01",
             "venue": "Journal",
-            "volume": "53",
-            "issue": "4",
-            "page_range": "1306-1311",
-            "doi": "10.1111/j.1558-5646.1999.tb04545.x"
+            "volume": "26",
+            "issue": "15",
+            "page_range": "4045-4058",
+            "doi": "10.1111/mec.14185"
         },
         {
             "title": "Gene flow despite complex Robertsonian fusions among rock-wallaby (Petrogale) species",
@@ -12289,65 +12348,6 @@
             "issue": "18",
             "page_range": "4743-4755",
             "doi": "10.1111/mec.14238"
-        },
-        {
-            "title": "Tropical specialist vs. climate generalist: Diversification and demographic history of sister species of Carlia skinks from northwestern Australia",
-            "eid": "2-s2.0-85021222719",
-            "authors": [
-                {
-                    "scopus_id": "57194613373",
-                    "name": "Afonso Silva A.C.",
-                    "affiliation_id": [
-                        "60159889",
-                        "60002769"
-                    ]
-                },
-                {
-                    "scopus_id": "8330142300",
-                    "name": "Bragg J.G.",
-                    "affiliation_id": [
-                        "60159889",
-                        "112869694"
-                    ]
-                },
-                {
-                    "scopus_id": "54416297200",
-                    "name": "Potter S.",
-                    "affiliation_id": [
-                        "60159889"
-                    ]
-                },
-                {
-                    "scopus_id": "8966321900",
-                    "name": "Fernandes C.",
-                    "affiliation_id": [
-                        "60002769"
-                    ]
-                },
-                {
-                    "scopus_id": "26643445100",
-                    "name": "Coelho M.M.",
-                    "affiliation_id": [
-                        "60002769"
-                    ]
-                },
-                {
-                    "scopus_id": "7004440591",
-                    "name": "Moritz C.",
-                    "affiliation_id": [
-                        "60159889"
-                    ]
-                }
-            ],
-            "citations": 24,
-            "publication_name": "Molecular Ecology",
-            "issn": "09621083",
-            "cover_date": "2017-08-01",
-            "venue": "Journal",
-            "volume": "26",
-            "issue": "15",
-            "page_range": "4045-4058",
-            "doi": "10.1111/mec.14185"
         },
         {
             "title": "Diversification of the Alpine Chipmunk, Tamias alpinus, an alpine endemic of the Sierra Nevada, California",
@@ -15777,6 +15777,79 @@
             "doi": "10.1002/9781444300321.ch10"
         },
         {
+            "title": "Contrasting scales of local persistence between monsoonal and arid biomes in closely related, low-dispersal vertebrates",
+            "eid": "2-s2.0-85074020320",
+            "authors": [
+                {
+                    "scopus_id": "54416297200",
+                    "name": "Potter S.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "57194613373",
+                    "name": "Afonso Silva A.C.",
+                    "affiliation_id": [
+                        "60159889",
+                        "60000179"
+                    ]
+                },
+                {
+                    "scopus_id": "8330142300",
+                    "name": "Bragg J.G.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "58628340100",
+                    "name": "Catalano S.R.",
+                    "affiliation_id": [
+                        "60024485",
+                        "60013121"
+                    ]
+                },
+                {
+                    "scopus_id": "7004116670",
+                    "name": "Donnellan S.",
+                    "affiliation_id": [
+                        "60024485"
+                    ]
+                },
+                {
+                    "scopus_id": "7004801538",
+                    "name": "Doughty P.",
+                    "affiliation_id": [
+                        "60017526"
+                    ]
+                },
+                {
+                    "scopus_id": "55667811600",
+                    "name": "Scott M.L.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7004440591",
+                    "name": "Moritz C.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Journal of Biogeography",
+            "issn": "03050270",
+            "cover_date": "2019-11-01",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "11",
+            "page_range": "2506-2519",
+            "doi": "10.1111/jbi.13698"
+        },
+        {
             "title": "The population biology of Gehyra (Gekkonidae). III. Patterns of microgeographic variation",
             "eid": "2-s2.0-84993915331",
             "authors": [
@@ -16072,79 +16145,6 @@
             "issue": "3",
             "page_range": null,
             "doi": "10.21425/F5FBG43355"
-        },
-        {
-            "title": "Contrasting scales of local persistence between monsoonal and arid biomes in closely related, low-dispersal vertebrates",
-            "eid": "2-s2.0-85074020320",
-            "authors": [
-                {
-                    "scopus_id": "54416297200",
-                    "name": "Potter S.",
-                    "affiliation_id": [
-                        "60159889"
-                    ]
-                },
-                {
-                    "scopus_id": "57194613373",
-                    "name": "Afonso Silva A.C.",
-                    "affiliation_id": [
-                        "60159889",
-                        "60000179"
-                    ]
-                },
-                {
-                    "scopus_id": "8330142300",
-                    "name": "Bragg J.G.",
-                    "affiliation_id": [
-                        "60159889"
-                    ]
-                },
-                {
-                    "scopus_id": "58628340100",
-                    "name": "Catalano S.R.",
-                    "affiliation_id": [
-                        "60024485",
-                        "60013121"
-                    ]
-                },
-                {
-                    "scopus_id": "7004116670",
-                    "name": "Donnellan S.",
-                    "affiliation_id": [
-                        "60024485"
-                    ]
-                },
-                {
-                    "scopus_id": "7004801538",
-                    "name": "Doughty P.",
-                    "affiliation_id": [
-                        "60017526"
-                    ]
-                },
-                {
-                    "scopus_id": "55667811600",
-                    "name": "Scott M.L.",
-                    "affiliation_id": [
-                        "60159889"
-                    ]
-                },
-                {
-                    "scopus_id": "7004440591",
-                    "name": "Moritz C.",
-                    "affiliation_id": [
-                        "60159889"
-                    ]
-                }
-            ],
-            "citations": 7,
-            "publication_name": "Journal of Biogeography",
-            "issn": "03050270",
-            "cover_date": "2019-11-01",
-            "venue": "Journal",
-            "volume": "46",
-            "issue": "11",
-            "page_range": "2506-2519",
-            "doi": "10.1111/jbi.13698"
         },
         {
             "title": "Correction: Lineage range estimation method reveals fine-scale endemism linked to pleistocene stability in Australian rainforest herpetofauna (PLoS ONE (2015) 10:5 (e0126274) DOI: 10.1371/journal.pone.0126274)",
@@ -17958,6 +17958,5 @@
             "$": "Environmental Science (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:41:03",
-    "c-score": null
+    "date fetched": "2024-07-12 18:56:58"
 }

@@ -1,0 +1,3121 @@
+{
+    "scopus_id": "7006549393",
+    "name": "Noble, Ian R.",
+    "publications": [
+        {
+            "title": "Policy: Sustainable development goals for people and planet",
+            "eid": "2-s2.0-84875346108",
+            "authors": [
+                {
+                    "scopus_id": "37661341600",
+                    "name": "Griggs D.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "6505763602",
+                    "name": "Stafford-Smith M.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "6504391553",
+                    "name": "Gaffney O.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "6603746245",
+                    "name": "Rockstr\u00f6m J.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "36183422100",
+                    "name": "\u00d6hman M.C.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "35610899400",
+                    "name": "Shyamsundar P.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7005295903",
+                    "name": "Steffen W.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "55446577900",
+                    "name": "Glaser G.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "35234161600",
+                    "name": "Kanie N.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 1939,
+            "publication_name": "Nature",
+            "issn": "00280836",
+            "cover_date": "2013-03-21",
+            "venue": "Journal",
+            "volume": "495",
+            "issue": "7441",
+            "page_range": "305-307",
+            "doi": "10.1038/495305a"
+        },
+        {
+            "title": "Recent patterns and mechanisms of carbon exchange by terrestrial ecosystems",
+            "eid": "2-s2.0-0035829597",
+            "authors": [
+                {
+                    "scopus_id": "7006993483",
+                    "name": "Schimel D.S.",
+                    "affiliation_id": [
+                        "60020318",
+                        "60021243"
+                    ]
+                },
+                {
+                    "scopus_id": "35478997700",
+                    "name": "House J.I.",
+                    "affiliation_id": [
+                        "60020318"
+                    ]
+                },
+                {
+                    "scopus_id": "57203368107",
+                    "name": "Hibbard K.A.",
+                    "affiliation_id": [
+                        "60027576"
+                    ]
+                },
+                {
+                    "scopus_id": "56240124100",
+                    "name": "Bousquet P.",
+                    "affiliation_id": [
+                        "60045588"
+                    ]
+                },
+                {
+                    "scopus_id": "55399842300",
+                    "name": "Ciais P.",
+                    "affiliation_id": [
+                        "60045588"
+                    ]
+                },
+                {
+                    "scopus_id": "55907220900",
+                    "name": "Peylin P.",
+                    "affiliation_id": [
+                        "60008134"
+                    ]
+                },
+                {
+                    "scopus_id": "6701404373",
+                    "name": "Braswell B.H.",
+                    "affiliation_id": [
+                        "60027576"
+                    ]
+                },
+                {
+                    "scopus_id": "57205311446",
+                    "name": "Apps M.J.",
+                    "affiliation_id": [
+                        "60031148"
+                    ]
+                },
+                {
+                    "scopus_id": "57214502388",
+                    "name": "Baker D.",
+                    "affiliation_id": [
+                        "60021243"
+                    ]
+                },
+                {
+                    "scopus_id": "6602822939",
+                    "name": "Bondeau A.",
+                    "affiliation_id": [
+                        "60025182"
+                    ]
+                },
+                {
+                    "scopus_id": "7006765673",
+                    "name": "Canadell J.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "6603251603",
+                    "name": "Churkina G.",
+                    "affiliation_id": [
+                        "60020318"
+                    ]
+                },
+                {
+                    "scopus_id": "7102478252",
+                    "name": "Cramer W.",
+                    "affiliation_id": [
+                        "60025182"
+                    ]
+                },
+                {
+                    "scopus_id": "57205497429",
+                    "name": "Denning A.S.",
+                    "affiliation_id": [
+                        "60136737"
+                    ]
+                },
+                {
+                    "scopus_id": "7202432336",
+                    "name": "Field C.B.",
+                    "affiliation_id": [
+                        "60024613"
+                    ]
+                },
+                {
+                    "scopus_id": "6602135031",
+                    "name": "Friedlingstein P.",
+                    "affiliation_id": [
+                        "60045588"
+                    ]
+                },
+                {
+                    "scopus_id": "6701553550",
+                    "name": "Goodale C.",
+                    "affiliation_id": [
+                        "60024613"
+                    ]
+                },
+                {
+                    "scopus_id": "7005902195",
+                    "name": "Heimann M.",
+                    "affiliation_id": [
+                        "60020318"
+                    ]
+                },
+                {
+                    "scopus_id": "7101901430",
+                    "name": "Houghton R.A.",
+                    "affiliation_id": [
+                        "60134866"
+                    ]
+                },
+                {
+                    "scopus_id": "7004628271",
+                    "name": "Melillo J.M.",
+                    "affiliation_id": [
+                        "60028402"
+                    ]
+                },
+                {
+                    "scopus_id": "35476924900",
+                    "name": "Moore B.",
+                    "affiliation_id": [
+                        "60027576"
+                    ]
+                },
+                {
+                    "scopus_id": "6602561743",
+                    "name": "Murdiyarso D.",
+                    "affiliation_id": [
+                        "101755260"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7005624522",
+                    "name": "Pacala S.W.",
+                    "affiliation_id": [
+                        "60003269"
+                    ]
+                },
+                {
+                    "scopus_id": "7005712332",
+                    "name": "Prentice I.C.",
+                    "affiliation_id": [
+                        "60020318"
+                    ]
+                },
+                {
+                    "scopus_id": "7005649482",
+                    "name": "Raupach M.R.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "56640963500",
+                    "name": "Rayner P.J.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7006270945",
+                    "name": "Scholes R.J.",
+                    "affiliation_id": [
+                        "60013272"
+                    ]
+                },
+                {
+                    "scopus_id": "7005295903",
+                    "name": "Steffen W.L.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35429150600",
+                    "name": "Wirth C.",
+                    "affiliation_id": [
+                        "60020318"
+                    ]
+                }
+            ],
+            "citations": 1098,
+            "publication_name": "Nature",
+            "issn": "00280836",
+            "cover_date": "2001-11-08",
+            "venue": "Journal",
+            "volume": "414",
+            "issue": "6860",
+            "page_range": "169-172",
+            "doi": "10.1038/35102500"
+        },
+        {
+            "title": "The use of vital attributes to predict successional changes in plant communities subject to recurrent disturbances",
+            "eid": "2-s2.0-0002503470",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "6603131085",
+                    "name": "Slatyer R.O.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 775,
+            "publication_name": "Vegetatio",
+            "issn": "00423106",
+            "cover_date": "1980-12-01",
+            "venue": "Journal",
+            "volume": "43",
+            "issue": "1-2",
+            "page_range": "5-21",
+            "doi": "10.1007/BF00121013"
+        },
+        {
+            "title": "McArthur's fire\u2010danger meters expressed as equations",
+            "eid": "2-s2.0-84984135465",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "NOBLE I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7102592808",
+                    "name": "GILL A.M.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "6505489389",
+                    "name": "BARY G.A.V.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                }
+            ],
+            "citations": 563,
+            "publication_name": "Australian Journal of Ecology",
+            "issn": "0307692X",
+            "cover_date": "1980-01-01",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "2",
+            "page_range": "201-203",
+            "doi": "10.1111/j.1442-9993.1980.tb01243.x"
+        },
+        {
+            "title": "The link between international trade and the global distribution of invasive alien species",
+            "eid": "2-s2.0-41049115011",
+            "authors": [
+                {
+                    "scopus_id": "7102379570",
+                    "name": "Westphal M.I.",
+                    "affiliation_id": [
+                        "60021439",
+                        "60112834"
+                    ]
+                },
+                {
+                    "scopus_id": "56504748200",
+                    "name": "Browne M.",
+                    "affiliation_id": [
+                        "60005686"
+                    ]
+                },
+                {
+                    "scopus_id": "7005084652",
+                    "name": "MacKinnon K.",
+                    "affiliation_id": [
+                        "60112834"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60112834"
+                    ]
+                }
+            ],
+            "citations": 412,
+            "publication_name": "Biological Invasions",
+            "issn": "13873547",
+            "cover_date": "2008-04-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "4",
+            "page_range": "391-398",
+            "doi": "10.1007/s10530-007-9138-5"
+        },
+        {
+            "title": "On the direct effect of clouds and atmospheric particles on the productivity and structure of vegetation",
+            "eid": "2-s2.0-0034773995",
+            "authors": [
+                {
+                    "scopus_id": "7003663632",
+                    "name": "Roderick M.L.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7005853435",
+                    "name": "Farquhar G.D.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7201836842",
+                    "name": "Berry S.L.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 394,
+            "publication_name": "Oecologia",
+            "issn": "00298549",
+            "cover_date": "2001-10-20",
+            "venue": "Journal",
+            "volume": "129",
+            "issue": "1",
+            "page_range": "21-30",
+            "doi": "10.1007/s004420100760"
+        },
+        {
+            "title": "The terrestrial carbon cycle: Implications for the Kyoto Protocol",
+            "eid": "2-s2.0-0032577353",
+            "authors": [
+                {
+                    "scopus_id": "7005295903",
+                    "name": "Steffen W.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7006765673",
+                    "name": "Canadell J.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "57205311446",
+                    "name": "Apps M.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7103397558",
+                    "name": "Schulze E.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "16524864900",
+                    "name": "Jarvis P.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7005870626",
+                    "name": "Baldocchi D.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "55399842300",
+                    "name": "Ciais P.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7102478252",
+                    "name": "Cramer W.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7005417981",
+                    "name": "Ehleringer J.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7005853435",
+                    "name": "Farquhar G.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7202432336",
+                    "name": "Field C.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "57204334613",
+                    "name": "Ghazi A.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7102275153",
+                    "name": "Gifford R.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7005902195",
+                    "name": "Heimann M.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7101901430",
+                    "name": "Houghton R.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7004144124",
+                    "name": "Kabat P.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7101788589",
+                    "name": "K\u00f6rner C.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7006191947",
+                    "name": "Lambin E.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7103323182",
+                    "name": "Linder S.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7006677714",
+                    "name": "Mooney H.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "6602561743",
+                    "name": "Murdiyarso D.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "23397886600",
+                    "name": "Post W.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7005712332",
+                    "name": "Prentice I.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7005649482",
+                    "name": "Raupach M.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "7006993483",
+                    "name": "Schimel D.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "6701775894",
+                    "name": "Shvidenko A.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                },
+                {
+                    "scopus_id": "35410947600",
+                    "name": "Valentini R.",
+                    "affiliation_id": [
+                        "60001785"
+                    ]
+                }
+            ],
+            "citations": 375,
+            "publication_name": "Science",
+            "issn": "00368075",
+            "cover_date": "1998-05-29",
+            "venue": "Journal",
+            "volume": "280",
+            "issue": "5368",
+            "page_range": "1393-1394",
+            "doi": "10.1126/science.280.5368.1393"
+        },
+        {
+            "title": "Induction of sets of rules from animal distribution data: A robust and informative method of data analysis",
+            "eid": "2-s2.0-0001195680",
+            "authors": [
+                {
+                    "scopus_id": "7003279363",
+                    "name": "Stockwell D.R.B.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 335,
+            "publication_name": "Mathematics and Computers in Simulation",
+            "issn": "03784754",
+            "cover_date": "1992-01-01",
+            "venue": "Journal",
+            "volume": "33",
+            "issue": "5-6",
+            "page_range": "385-390",
+            "doi": "10.1016/0378-4754(92)90126-2"
+        },
+        {
+            "title": "Adaptation needs and options",
+            "eid": "2-s2.0-84958980641",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006446222",
+                    "name": "Huq S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6603527521",
+                    "name": "Anokhin Y.A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6603329093",
+                    "name": "Carmin J.A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57193654246",
+                    "name": "Goudou D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6507461159",
+                    "name": "Lansigan F.P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "23482708600",
+                    "name": "Osman-Elasha B.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6507970812",
+                    "name": "Villamizar A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6602116185",
+                    "name": "Patt A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7403989544",
+                    "name": "Takeuchi K.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "56117103600",
+                    "name": "Chu E.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 329,
+            "publication_name": "Climate Change 2014 Impacts, Adaptation and Vulnerability: Part A: Global and Sectoral Aspects",
+            "issn": "",
+            "cover_date": "2015-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "833-868",
+            "doi": "10.1017/CBO9781107415379.019"
+        },
+        {
+            "title": "Forests as human-dominated ecosystems",
+            "eid": "2-s2.0-0030753497",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7003959015",
+                    "name": "Dirzo R.",
+                    "affiliation_id": [
+                        "60032442"
+                    ]
+                }
+            ],
+            "citations": 251,
+            "publication_name": "Science",
+            "issn": "00368075",
+            "cover_date": "1997-07-25",
+            "venue": "Journal",
+            "volume": "277",
+            "issue": "5325",
+            "page_range": "522-525",
+            "doi": "10.1126/science.277.5325.522"
+        },
+        {
+            "title": "An integrated framework for sustainable development goals",
+            "eid": "2-s2.0-84924356905",
+            "authors": [
+                {
+                    "scopus_id": "37661341600",
+                    "name": "Griggs D.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "6505763602",
+                    "name": "Smith M.S.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "6603746245",
+                    "name": "Rockstr\u00f6m J.",
+                    "affiliation_id": [
+                        "60028378"
+                    ]
+                },
+                {
+                    "scopus_id": "36183422100",
+                    "name": "\u00d6hman M.C.",
+                    "affiliation_id": [
+                        "60028378"
+                    ]
+                },
+                {
+                    "scopus_id": "6504391553",
+                    "name": "Gaffney O.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55446577900",
+                    "name": "Glaser G.",
+                    "affiliation_id": [
+                        "100538813"
+                    ]
+                },
+                {
+                    "scopus_id": "35234161600",
+                    "name": "Kanie N.",
+                    "affiliation_id": [
+                        "60031126",
+                        "60029190"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60019578",
+                        "115044835"
+                    ]
+                },
+                {
+                    "scopus_id": "7005295903",
+                    "name": "Steffen W.",
+                    "affiliation_id": [
+                        "60028378",
+                        "60082291"
+                    ]
+                },
+                {
+                    "scopus_id": "35610899400",
+                    "name": "Shyamsundar P.",
+                    "affiliation_id": [
+                        "115044674"
+                    ]
+                }
+            ],
+            "citations": 222,
+            "publication_name": "Ecology and Society",
+            "issn": "",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "4",
+            "page_range": null,
+            "doi": "10.5751/ES-07082-190449"
+        },
+        {
+            "title": "Ecological and physiological characters of invading species.",
+            "eid": "2-s2.0-0022904070",
+            "authors": [
+                {
+                    "scopus_id": "7003769451",
+                    "name": "Newsome A.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                }
+            ],
+            "citations": 198,
+            "publication_name": "Ecology of biological invasions",
+            "issn": "",
+            "cover_date": "1986-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "1-20",
+            "doi": ""
+        },
+        {
+            "title": "A functional classification for predicting the dynamics of landscapes",
+            "eid": "2-s2.0-0029660503",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "6701838004",
+                    "name": "Gitay H.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 179,
+            "publication_name": "Journal of Vegetation Science",
+            "issn": "11009233",
+            "cover_date": "1996-01-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "3",
+            "page_range": "329-336",
+            "doi": "10.2307/3236276"
+        },
+        {
+            "title": "A model of the responses of ecotones to climate change",
+            "eid": "2-s2.0-0027849053",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 123,
+            "publication_name": "Ecological Applications",
+            "issn": "10510761",
+            "cover_date": "1993-01-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "3",
+            "page_range": "396-403",
+            "doi": "10.2307/1941908"
+        },
+        {
+            "title": "Predicting the multiple pathways of plant succession",
+            "eid": "2-s2.0-0018305606",
+            "authors": [
+                {
+                    "scopus_id": "6603215425",
+                    "name": "Cattelino P.J.",
+                    "affiliation_id": [
+                        "100374110"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "6603131085",
+                    "name": "Slatyer R.O.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "6602989502",
+                    "name": "Kessell S.R.",
+                    "affiliation_id": [
+                        "100374110"
+                    ]
+                }
+            ],
+            "citations": 119,
+            "publication_name": "Environmental Management",
+            "issn": "0364152X",
+            "cover_date": "1979-01-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "1",
+            "page_range": "41-50",
+            "doi": "10.1007/BF01867067"
+        },
+        {
+            "title": "Dispersal, variability, and transient niches: species coexistence in a uniformly variable environment.",
+            "eid": "2-s2.0-0022175502",
+            "authors": [
+                {
+                    "scopus_id": "6603877181",
+                    "name": "Comins H.N.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 99,
+            "publication_name": "American Naturalist",
+            "issn": "00030147",
+            "cover_date": "1985-01-01",
+            "venue": "Journal",
+            "volume": "126",
+            "issue": "5",
+            "page_range": "706-723",
+            "doi": "10.1086/284448"
+        },
+        {
+            "title": "Storing carbon on land",
+            "eid": "2-s2.0-0035798237",
+            "authors": [
+                {
+                    "scopus_id": "7006270945",
+                    "name": "Scholes R.",
+                    "affiliation_id": [
+                        "60013272"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60013272"
+                    ]
+                }
+            ],
+            "citations": 94,
+            "publication_name": "Science",
+            "issn": "00368075",
+            "cover_date": "2001-11-02",
+            "venue": "Journal",
+            "volume": "294",
+            "issue": "5544",
+            "page_range": "1012-1013",
+            "doi": "10.1126/science.1065307"
+        },
+        {
+            "title": "A theoretical approach to linking the composition and morphology with the function of leaves",
+            "eid": "2-s2.0-0032753204",
+            "authors": [
+                {
+                    "scopus_id": "7003663632",
+                    "name": "Roderick M.L.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7201836842",
+                    "name": "Berry S.L.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7005853435",
+                    "name": "Farquhar G.D.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 91,
+            "publication_name": "Functional Ecology",
+            "issn": "02698463",
+            "cover_date": "1999-10-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "5",
+            "page_range": "683-695",
+            "doi": "10.1046/j.1365-2435.1999.00368.x"
+        },
+        {
+            "title": "Seed dynamics and factors limiting recruitment of the mallee Eucalyptus incrassata, in semi-arid, south-eastern Australia.",
+            "eid": "2-s2.0-0022251207",
+            "authors": [
+                {
+                    "scopus_id": "6602877247",
+                    "name": "Wellington A.B.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 90,
+            "publication_name": "Journal of Ecology",
+            "issn": "00220477",
+            "cover_date": "1985-01-01",
+            "venue": "Journal",
+            "volume": "73",
+            "issue": "2",
+            "page_range": "657-666",
+            "doi": "10.2307/2260502"
+        },
+        {
+            "title": "Concepts and models of succession in vascular plant communities subject to recurrent fire ( Tasmania).",
+            "eid": "2-s2.0-0019759219",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "6603131085",
+                    "name": "Slatyer R.O.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 87,
+            "publication_name": "Fire and the Australian biota",
+            "issn": "",
+            "cover_date": "1981-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "311-335",
+            "doi": ""
+        },
+        {
+            "title": "A framework for understanding the relationship between environment and vegetation based on the surface area to volume ratio of leaves",
+            "eid": "2-s2.0-0033833229",
+            "authors": [
+                {
+                    "scopus_id": "7003663632",
+                    "name": "Roderick M.L.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7201836842",
+                    "name": "Berry S.L.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 86,
+            "publication_name": "Functional Ecology",
+            "issn": "02698463",
+            "cover_date": "2000-10-03",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "4",
+            "page_range": "423-437",
+            "doi": "10.1046/j.1365-2435.2000.00438.x"
+        },
+        {
+            "title": "A computer model of succession and fire response of the high\u2010altitude Eucalyptus forest of the Brindabella Range, Australian Capital Territory",
+            "eid": "2-s2.0-84984108936",
+            "authors": [
+                {
+                    "scopus_id": "7006015880",
+                    "name": "SHUGART H.H.",
+                    "affiliation_id": [
+                        "60024266"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "NOBLE I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 83,
+            "publication_name": "Australian Journal of Ecology",
+            "issn": "0307692X",
+            "cover_date": "1981-01-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "2",
+            "page_range": "149-164",
+            "doi": "10.1111/j.1442-9993.1981.tb01286.x"
+        },
+        {
+            "title": "Ecological traits of the Eucalyptus L\u2019h\u00e9rit subgenera Monocalyptus and Symphyomyrtus",
+            "eid": "2-s2.0-0024931118",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 77,
+            "publication_name": "Australian Journal of Botany",
+            "issn": "00671924",
+            "cover_date": "1989-01-01",
+            "venue": "Journal",
+            "volume": "37",
+            "issue": "3",
+            "page_range": "207-224",
+            "doi": "10.1071/BT9890207"
+        },
+        {
+            "title": "Estimating woody and herbaceous vegetation cover from time series satellite observations",
+            "eid": "2-s2.0-0033506398",
+            "authors": [
+                {
+                    "scopus_id": "7003663632",
+                    "name": "Roderick M.L.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "6603311295",
+                    "name": "Cridland S.W.",
+                    "affiliation_id": [
+                        "100559176"
+                    ]
+                }
+            ],
+            "citations": 75,
+            "publication_name": "Global Ecology and Biogeography",
+            "issn": "1466822X",
+            "cover_date": "1999-12-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "6",
+            "page_range": "501-508",
+            "doi": "10.1046/j.1365-2699.1999.00153.x"
+        },
+        {
+            "title": "On the relationship between the composition, morphology and function of leaves",
+            "eid": "2-s2.0-0032704108",
+            "authors": [
+                {
+                    "scopus_id": "7003663632",
+                    "name": "Roderick M.L.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7201836842",
+                    "name": "Berry S.L.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7201876792",
+                    "name": "Saunders A.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 71,
+            "publication_name": "Functional Ecology",
+            "issn": "02698463",
+            "cover_date": "1999-10-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "5",
+            "page_range": "696-710",
+            "doi": "10.1046/j.1365-2435.1999.00369.x"
+        },
+        {
+            "title": "An individualistic model of vegetation stand dynamics",
+            "eid": "2-s2.0-0025196940",
+            "authors": [
+                {
+                    "scopus_id": "58345135300",
+                    "name": "Moore A.D.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 70,
+            "publication_name": "Journal of Environmental Management",
+            "issn": "03014797",
+            "cover_date": "1990-01-01",
+            "venue": "Journal",
+            "volume": "31",
+            "issue": "1",
+            "page_range": "61-81",
+            "doi": "10.1016/S0301-4797(05)80015-5"
+        },
+        {
+            "title": "Fire shapes and the adequacy of fire-spread models",
+            "eid": "2-s2.0-0021060734",
+            "authors": [
+                {
+                    "scopus_id": "7404386312",
+                    "name": "Green D.G.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7102592808",
+                    "name": "Gill A.M.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 70,
+            "publication_name": "Ecological Modelling",
+            "issn": "03043800",
+            "cover_date": "1983-01-01",
+            "venue": "Journal",
+            "volume": "20",
+            "issue": "1",
+            "page_range": "33-45",
+            "doi": "10.1016/0304-3800(83)90030-3"
+        },
+        {
+            "title": "Post-fire recruitment and mortality in a population of the mallee Eucalyptus incrassata in semi-arid south-eastern Australia.",
+            "eid": "2-s2.0-0022178750",
+            "authors": [
+                {
+                    "scopus_id": "6602877247",
+                    "name": "Wellington A.B.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 65,
+            "publication_name": "Journal of Ecology",
+            "issn": "00220477",
+            "cover_date": "1985-01-01",
+            "venue": "Journal",
+            "volume": "73",
+            "issue": "2",
+            "page_range": "645-656",
+            "doi": "10.2307/2260501"
+        },
+        {
+            "title": "Sinks and the Kyoto Protocol",
+            "eid": "2-s2.0-0003271658",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006270945",
+                    "name": "Scholes R.J.",
+                    "affiliation_id": [
+                        "60013272"
+                    ]
+                }
+            ],
+            "citations": 62,
+            "publication_name": "Climate Policy",
+            "issn": "14693062",
+            "cover_date": "2001-01-01",
+            "venue": "Journal",
+            "volume": "1",
+            "issue": "1",
+            "page_range": "5-25",
+            "doi": "10.1016/S1469-3062(00)00002-4"
+        },
+        {
+            "title": "Deriving functional types for rain-forest trees",
+            "eid": "2-s2.0-0032732217",
+            "authors": [
+                {
+                    "scopus_id": "6701838004",
+                    "name": "Gitay H.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "57616905100",
+                    "name": "Connell J.H.",
+                    "affiliation_id": [
+                        "60029241"
+                    ]
+                }
+            ],
+            "citations": 55,
+            "publication_name": "Journal of Vegetation Science",
+            "issn": "11009233",
+            "cover_date": "1999-01-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "5",
+            "page_range": "641-650",
+            "doi": "10.2307/3237079"
+        },
+        {
+            "title": "A critical overview of model estimates of net primary productivity for the Australian continent",
+            "eid": "2-s2.0-19944387594",
+            "authors": [
+                {
+                    "scopus_id": "7003807507",
+                    "name": "Roxburgh S.H.",
+                    "affiliation_id": [
+                        "60103601",
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7201928465",
+                    "name": "Barrett D.J.",
+                    "affiliation_id": [
+                        "60103601",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7201836842",
+                    "name": "Berry S.L.",
+                    "affiliation_id": [
+                        "60103601",
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006410049",
+                    "name": "Cartel J.O.",
+                    "affiliation_id": [
+                        "60103601",
+                        "100367931"
+                    ]
+                },
+                {
+                    "scopus_id": "9243863800",
+                    "name": "Davies I.D.",
+                    "affiliation_id": [
+                        "60103601",
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7102275153",
+                    "name": "Gifford R.M.",
+                    "affiliation_id": [
+                        "60103601",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7007111840",
+                    "name": "Kirschbaum M.U.F.",
+                    "affiliation_id": [
+                        "60103601",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7801349685",
+                    "name": "McBeth B.P.",
+                    "affiliation_id": [
+                        "60103601",
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60103601",
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7005868860",
+                    "name": "Parton W.G.",
+                    "affiliation_id": [
+                        "60009226"
+                    ]
+                },
+                {
+                    "scopus_id": "7005649482",
+                    "name": "Raupach M.R.",
+                    "affiliation_id": [
+                        "60103601",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7003663632",
+                    "name": "Roderick M.L.",
+                    "affiliation_id": [
+                        "60103601",
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 51,
+            "publication_name": "Functional Plant Biology",
+            "issn": "14454408",
+            "cover_date": "2004-12-01",
+            "venue": "Journal",
+            "volume": "31",
+            "issue": "11",
+            "page_range": "1043-1059",
+            "doi": "10.1071/FP04100"
+        },
+        {
+            "title": "Subcanopy gaps in temperate and tropical forests",
+            "eid": "2-s2.0-17444388941",
+            "authors": [
+                {
+                    "scopus_id": "57616905100",
+                    "name": "Connell J.H.",
+                    "affiliation_id": [
+                        "60029241"
+                    ]
+                },
+                {
+                    "scopus_id": "7003870984",
+                    "name": "Lowman M.D.",
+                    "affiliation_id": [
+                        "60004393"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 50,
+            "publication_name": "Austral Ecology",
+            "issn": "14429985",
+            "cover_date": "1997-01-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "2",
+            "page_range": "163-168",
+            "doi": "10.1111/j.1442-9993.1997.tb00655.x"
+        },
+        {
+            "title": "Fire and the Australian biota. Papers delivered at a conference convened by the Australian National Committee for SCOPE, Canberra 9- 11 October 1978.",
+            "eid": "2-s2.0-85040297981",
+            "authors": [
+                {
+                    "scopus_id": "7102592808",
+                    "name": "Gill A.M.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7103179971",
+                    "name": "Groves R.H.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                }
+            ],
+            "citations": 49,
+            "publication_name": "Fire and the Australian biota. Papers delivered at a conference convened by the Australian National Committee for SCOPE, Canberra 9- 11 October 1978.",
+            "issn": "",
+            "cover_date": "1981-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": ""
+        },
+        {
+            "title": "Status of coastal dune communities invaded by Chrysanthemoides monilifera",
+            "eid": "2-s2.0-0021569807",
+            "authors": [
+                {
+                    "scopus_id": "7201641747",
+                    "name": "WEISS P.W.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "NOBLE I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 45,
+            "publication_name": "Australian Journal of Ecology",
+            "issn": "0307692X",
+            "cover_date": "1984-01-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "2",
+            "page_range": "93-98",
+            "doi": "10.1111/j.1442-9993.1984.tb01347.x"
+        },
+        {
+            "title": "A forest simulation model for predicting eucalypt dynamics and habitat quality for arboreal marsupials",
+            "eid": "2-s2.0-0030613974",
+            "authors": [
+                {
+                    "scopus_id": "7004227580",
+                    "name": "Pausas J.G.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60017299"
+                    ]
+                },
+                {
+                    "scopus_id": "7202193901",
+                    "name": "Austin M.P.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 42,
+            "publication_name": "Ecological Applications",
+            "issn": "10510761",
+            "cover_date": "1997-01-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "3",
+            "page_range": "921-933",
+            "doi": "10.1890/1051-0761(1997)007[0921:AFSMFP]2.0.CO;2"
+        },
+        {
+            "title": "A global assessment of adaptation investment from the perspectives of equity and efficiency",
+            "eid": "2-s2.0-85004140579",
+            "authors": [
+                {
+                    "scopus_id": "57189663871",
+                    "name": "Chen C.",
+                    "affiliation_id": [
+                        "60021508",
+                        "60021508"
+                    ]
+                },
+                {
+                    "scopus_id": "7004509106",
+                    "name": "Hellmann J.",
+                    "affiliation_id": [
+                        "60029445"
+                    ]
+                },
+                {
+                    "scopus_id": "8533046500",
+                    "name": "Berrang-Ford L.",
+                    "affiliation_id": [
+                        "60002494"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60021508",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "35585006000",
+                    "name": "Regan P.",
+                    "affiliation_id": [
+                        "60021508",
+                        "60021508"
+                    ]
+                }
+            ],
+            "citations": 40,
+            "publication_name": "Mitigation and Adaptation Strategies for Global Change",
+            "issn": "13812386",
+            "cover_date": "2018-01-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "1",
+            "page_range": "101-122",
+            "doi": "10.1007/s11027-016-9731-y"
+        },
+        {
+            "title": "Mortality of lignotuberous seedlings of Eucalyptus species after an intense fire in montane forest",
+            "eid": "2-s2.0-84984097472",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "NOBLE I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Australian Journal of Ecology",
+            "issn": "0307692X",
+            "cover_date": "1984-01-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "1",
+            "page_range": "47-50",
+            "doi": "10.1111/j.1442-9993.1984.tb01617.x"
+        },
+        {
+            "title": "Long-term biomass dynamics in an arid chenopod shrub community at Koonamore, South Australia",
+            "eid": "2-s2.0-84971029583",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 36,
+            "publication_name": "Australian Journal of Botany",
+            "issn": "00671924",
+            "cover_date": "1977-01-01",
+            "venue": "Journal",
+            "volume": "25",
+            "issue": "6",
+            "page_range": "639-653",
+            "doi": "10.1071/BT9770639"
+        },
+        {
+            "title": "A metapopulation simulation model for assessing the likelihood of plant and animal extinctions",
+            "eid": "2-s2.0-0001320052",
+            "authors": [
+                {
+                    "scopus_id": "7006846637",
+                    "name": "Possingham H.P.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "9243863800",
+                    "name": "Davies I.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7102567022",
+                    "name": "Norton T.W.",
+                    "affiliation_id": [
+                        "60082291"
+                    ]
+                }
+            ],
+            "citations": 32,
+            "publication_name": "Mathematics and Computers in Simulation",
+            "issn": "03784754",
+            "cover_date": "1992-01-01",
+            "venue": "Journal",
+            "volume": "33",
+            "issue": "5-6",
+            "page_range": "367-372",
+            "doi": "10.1016/0378-4754(92)90123-X"
+        },
+        {
+            "title": "Interactions between tussock grass (Poa spp.) and Eucalyptus pauciflora seedlings near treeline in South-Eastern Australia",
+            "eid": "2-s2.0-0000557955",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 30,
+            "publication_name": "Oecologia",
+            "issn": "00298549",
+            "cover_date": "1980-01-01",
+            "venue": "Journal",
+            "volume": "45",
+            "issue": "3",
+            "page_range": "350-353",
+            "doi": "10.1007/BF00540204"
+        },
+        {
+            "title": "The relationship between leaf composition and morphology at elevated CO<inf>2</inf> concentrations",
+            "eid": "2-s2.0-0032782344",
+            "authors": [
+                {
+                    "scopus_id": "7003663632",
+                    "name": "Roderick M.L.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7201836842",
+                    "name": "Berry S.L.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 28,
+            "publication_name": "New Phytologist",
+            "issn": "0028646X",
+            "cover_date": "1999-07-01",
+            "venue": "Journal",
+            "volume": "143",
+            "issue": "1",
+            "page_range": "63-72",
+            "doi": "10.1046/j.1469-8137.1999.00438.x"
+        },
+        {
+            "title": "Movement and modelling of buried seed of the invasive perennial Chrysanthemoides monilifera in coastal dunes and biological control",
+            "eid": "2-s2.0-0024881518",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "NOBLE I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7201641747",
+                    "name": "WEISS P.W.",
+                    "affiliation_id": [
+                        "117149471"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "Australian Journal of Ecology",
+            "issn": "0307692X",
+            "cover_date": "1989-01-01",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "1",
+            "page_range": "55-64",
+            "doi": "10.1111/j.1442-9993.1989.tb01008.x"
+        },
+        {
+            "title": "The role of expert systems in vegetation science",
+            "eid": "2-s2.0-0023469243",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "Vegetatio",
+            "issn": "00423106",
+            "cover_date": "1987-04-01",
+            "venue": "Journal",
+            "volume": "69",
+            "issue": "1-3",
+            "page_range": "115-121",
+            "doi": "10.1007/BF00038692"
+        },
+        {
+            "title": "A heat balance model for sheep and its use to predict shade- seeking behaviour in hot conditions.",
+            "eid": "2-s2.0-0022206011",
+            "authors": [
+                {
+                    "scopus_id": "59101225600",
+                    "name": "Smith D.M.S.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "57198611384",
+                    "name": "Jones G.K.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "Journal of Applied Ecology",
+            "issn": "00218901",
+            "cover_date": "1985-01-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "3",
+            "page_range": "753-774",
+            "doi": "10.2307/2403227"
+        },
+        {
+            "title": "Modelling the response of eucalypts to fire, Brindabella Ranges, ACT",
+            "eid": "2-s2.0-17444409342",
+            "authors": [
+                {
+                    "scopus_id": "7004315814",
+                    "name": "Strasser M.J.",
+                    "affiliation_id": [
+                        "60159889",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7004227580",
+                    "name": "Pausas J.G.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 26,
+            "publication_name": "Austral Ecology",
+            "issn": "14429985",
+            "cover_date": "1996-01-01",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "2",
+            "page_range": "341-344",
+            "doi": "10.1111/j.1442-9993.1996.tb00618.x"
+        },
+        {
+            "title": "A simulation model to study land use strategies in swidden agriculture systems",
+            "eid": "2-s2.0-23944435914",
+            "authors": [
+                {
+                    "scopus_id": "8697088700",
+                    "name": "Sulistyawati E.",
+                    "affiliation_id": [
+                        "60069382"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7003663632",
+                    "name": "Roderick M.L.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 23,
+            "publication_name": "Agricultural Systems",
+            "issn": "0308521X",
+            "cover_date": "2005-01-01",
+            "venue": "Journal",
+            "volume": "85",
+            "issue": "3 SPEC. ISS.",
+            "page_range": "271-288",
+            "doi": "10.1016/j.agsy.2005.06.011"
+        },
+        {
+            "title": "Using induction of decision trees to predict greater glider density",
+            "eid": "2-s2.0-0025524365",
+            "authors": [
+                {
+                    "scopus_id": "7003279363",
+                    "name": "Stockwell D.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006933340",
+                    "name": "Davey S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "36082225300",
+                    "name": "Davis J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 22,
+            "publication_name": "AI Applications in Natural Resource Management",
+            "issn": "08966664",
+            "cover_date": "1990-01-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "4",
+            "page_range": "33-43",
+            "doi": ""
+        },
+        {
+            "title": "Interactions between seedlings of Chrysanthemoides monilifera and Acacia longifolia",
+            "eid": "2-s2.0-0021566244",
+            "authors": [
+                {
+                    "scopus_id": "7201641747",
+                    "name": "WEISS P.W.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "NOBLE I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Australian Journal of Ecology",
+            "issn": "0307692X",
+            "cover_date": "1984-01-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "2",
+            "page_range": "107-115",
+            "doi": "10.1111/j.1442-9993.1984.tb01349.x"
+        },
+        {
+            "title": "Interlinkages between desertification, land degradation, food security and greenhouse gas fluxes: Synergies, trade-offs and integrated response options",
+            "eid": "2-s2.0-85187802359",
+            "authors": [
+                {
+                    "scopus_id": "59145849500",
+                    "name": "Smith P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "12244650800",
+                    "name": "Nkem J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "26640190700",
+                    "name": "Calvin K.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55456352500",
+                    "name": "Campbell D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "59146087300",
+                    "name": "Cherubini F.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "59146087400",
+                    "name": "Grassi G.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "59145930200",
+                    "name": "Korotkov V.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "59146240900",
+                    "name": "Hoang A.L.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "59146165600",
+                    "name": "Lwasa S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "59146008000",
+                    "name": "McElwee P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6507253927",
+                    "name": "Nkonya E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "59146400400",
+                    "name": "Saigusa N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57204369590",
+                    "name": "Soussana J.F.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "59145849600",
+                    "name": "Taboada M.A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55842864600",
+                    "name": "Arias-Navarro C.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "9846419000",
+                    "name": "Cavalett O.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "8258491400",
+                    "name": "Cowie A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35478997700",
+                    "name": "House J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "37261541100",
+                    "name": "Huppmann D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57207585460",
+                    "name": "Krishnaswamy J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35732066600",
+                    "name": "Popp A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57211510117",
+                    "name": "Roe S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "23493930400",
+                    "name": "Slade R.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "14018839600",
+                    "name": "Stringer L.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57201320477",
+                    "name": "Vizzarri M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "56598417500",
+                    "name": "Abdulla A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55322269300",
+                    "name": "Yamagata Y.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "59146165700",
+                    "name": "Zatari T.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57212562738",
+                    "name": "Manning F.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "56606299000",
+                    "name": "Nampanzira D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57201748498",
+                    "name": "Smith P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "12244650800",
+                    "name": "Nkem J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "59146322600",
+                    "name": "Calvin K.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "59145930300",
+                    "name": "Campbell D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "23468479700",
+                    "name": "Cherubini F.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201815269",
+                    "name": "Grassi G.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7103292824",
+                    "name": "Korotkov V.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "59146008100",
+                    "name": "Hoang A.L.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "25623779800",
+                    "name": "Lwasa S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "24537336400",
+                    "name": "McElwee P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6507253927",
+                    "name": "Nkonya E.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7004074578",
+                    "name": "Saigusa N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7004515951",
+                    "name": "Soussana J.F.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006962154",
+                    "name": "Taboada M.A.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 20,
+            "publication_name": "Climate Change and Land: An IPCC Special Report on climate change, desertification, land degradation, sustainable land management, food security, and greenhouse gas fluxes in terrestrial ecosystems",
+            "issn": "",
+            "cover_date": "2022-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "551-672",
+            "doi": "10.1017/9781009157988.008"
+        },
+        {
+            "title": "Radiocarbon dating of lignotubers from mallee forms of Eucalyptus.",
+            "eid": "2-s2.0-0018621101",
+            "authors": [
+                {
+                    "scopus_id": "6602877247",
+                    "name": "Wellington A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6603627037",
+                    "name": "Polach H.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Search",
+            "issn": "00049549",
+            "cover_date": "1979-01-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "7-8",
+            "page_range": "282-283",
+            "doi": ""
+        },
+        {
+            "title": "Automatic model simplification: the generation of replacement sequences and their use in vegetation modelling",
+            "eid": "2-s2.0-0027332423",
+            "authors": [
+                {
+                    "scopus_id": "58345135300",
+                    "name": "Moore A.D.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Ecological Modelling",
+            "issn": "03043800",
+            "cover_date": "1993-01-01",
+            "venue": "Journal",
+            "volume": "70",
+            "issue": "1-2",
+            "page_range": "137-157",
+            "doi": "10.1016/0304-3800(93)90077-6"
+        },
+        {
+            "title": "Challenges of a changing Earth",
+            "eid": "2-s2.0-0035576201",
+            "authors": [
+                {
+                    "scopus_id": "7006765673",
+                    "name": "Canadell J.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Trends in Ecology and Evolution",
+            "issn": "01695347",
+            "cover_date": "2001-12-01",
+            "venue": "Journal",
+            "volume": "16",
+            "issue": "12",
+            "page_range": "664-666",
+            "doi": "10.1016/S0169-5347(01)02337-0"
+        },
+        {
+            "title": "Germination and growth models of short-lived grass and forb populations based on long term photo-point data at koonamore, south australia",
+            "eid": "2-s2.0-0005352797",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "58346547800",
+                    "name": "Crisp M.D.",
+                    "affiliation_id": [
+                        "113196475"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Israel Journal of Botany",
+            "issn": "0021213X",
+            "cover_date": "1979-01-01",
+            "venue": "Journal",
+            "volume": "28",
+            "issue": "3-4",
+            "page_range": "195-210",
+            "doi": "10.1080/0021213X.1979.10676868"
+        },
+        {
+            "title": "Can the EU emission trading scheme support CDM forestry?",
+            "eid": "2-s2.0-27244442422",
+            "authors": [
+                {
+                    "scopus_id": "6701758040",
+                    "name": "Schlamadinger B.",
+                    "affiliation_id": [
+                        "60027742"
+                    ]
+                },
+                {
+                    "scopus_id": "15764476400",
+                    "name": "Bosquet B.",
+                    "affiliation_id": [
+                        "60112834"
+                    ]
+                },
+                {
+                    "scopus_id": "24336992700",
+                    "name": "Streck C.",
+                    "affiliation_id": [
+                        "107038289"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60112834"
+                    ]
+                },
+                {
+                    "scopus_id": "56053495700",
+                    "name": "Dutschke M.",
+                    "affiliation_id": [
+                        "60076294"
+                    ]
+                },
+                {
+                    "scopus_id": "35174303300",
+                    "name": "Bird N.",
+                    "affiliation_id": [
+                        "60027742"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Climate Policy",
+            "issn": "14693062",
+            "cover_date": "2005-01-01",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "2",
+            "page_range": "199-208",
+            "doi": "10.1080/14693062.2005.9685550"
+        },
+        {
+            "title": "The fire and flammability niches in plant communities",
+            "eid": "2-s2.0-0028988784",
+            "authors": [
+                {
+                    "scopus_id": "7006846637",
+                    "name": "Possingham H.P.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "6603877181",
+                    "name": "Comins H.N.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Journal of Theoretical Biology",
+            "issn": "00225193",
+            "cover_date": "1995-05-07",
+            "venue": "Journal",
+            "volume": "174",
+            "issue": "1",
+            "page_range": "97-108",
+            "doi": "10.1006/jtbi.1995.0082"
+        },
+        {
+            "title": "Terrestrial Ecosystems",
+            "eid": "2-s2.0-85042820115",
+            "authors": [
+                {
+                    "scopus_id": "7003807507",
+                    "name": "Roxburgh S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Encyclopedia of Biodiversity: Second Edition",
+            "issn": "",
+            "cover_date": "2001-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "128-135",
+            "doi": "10.1016/B978-0-12-384719-5.00143-X"
+        },
+        {
+            "title": "PREDICTING SUCCESSIONAL CHANGE.",
+            "eid": "2-s2.0-0019689777",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 5,
+            "publication_name": "",
+            "issn": "",
+            "cover_date": "1981-12-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "278-300",
+            "doi": ""
+        },
+        {
+            "title": "Embedding a rangeland simulation model within a decision support system",
+            "eid": "2-s2.0-0009939371",
+            "authors": [
+                {
+                    "scopus_id": "7202986894",
+                    "name": "Ludwig J.A.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "58427635400",
+                    "name": "Sinclair R.E.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Mathematics and Computers in Simulation",
+            "issn": "03784754",
+            "cover_date": "1992-01-01",
+            "venue": "Journal",
+            "volume": "33",
+            "issue": "5-6",
+            "page_range": "373-378",
+            "doi": "10.1016/0378-4754(92)90124-Y"
+        },
+        {
+            "title": "Erratum: On the relationship between the composition, morphology and function of leaves (Functional Ecology (1999) 13 (696-710))",
+            "eid": "2-s2.0-0033833814",
+            "authors": [
+                {
+                    "scopus_id": "7003663632",
+                    "name": "Roderick M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201836842",
+                    "name": "Berry S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201876792",
+                    "name": "Saunders A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Functional Ecology",
+            "issn": "02698463",
+            "cover_date": "2000-10-03",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "4",
+            "page_range": "527-528",
+            "doi": "10.1046/j.1365-2435.2000.00459.x"
+        },
+        {
+            "title": "Effect on the biosphere of elevated atmospheric CO<inf>2</inf> [8] (multiple letters)",
+            "eid": "2-s2.0-0033578849",
+            "authors": [
+                {
+                    "scopus_id": "7003286005",
+                    "name": "Bolin B.",
+                    "affiliation_id": [
+                        "101353201"
+                    ]
+                },
+                {
+                    "scopus_id": "7006765673",
+                    "name": "Canadell J.",
+                    "affiliation_id": [
+                        "101353201"
+                    ]
+                },
+                {
+                    "scopus_id": "35476924900",
+                    "name": "Moore B.",
+                    "affiliation_id": [
+                        "101353201"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "101353201"
+                    ]
+                },
+                {
+                    "scopus_id": "7005295903",
+                    "name": "Steffen W.",
+                    "affiliation_id": [
+                        "101353201"
+                    ]
+                },
+                {
+                    "scopus_id": "35553263900",
+                    "name": "Delucia E.H.",
+                    "affiliation_id": [
+                        "101353201"
+                    ]
+                },
+                {
+                    "scopus_id": "7005958495",
+                    "name": "Schlesinger W.H.",
+                    "affiliation_id": [
+                        "101353201"
+                    ]
+                },
+                {
+                    "scopus_id": "7402368664",
+                    "name": "Robertson G.P.",
+                    "affiliation_id": [
+                        "101353201"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Science",
+            "issn": "00368075",
+            "cover_date": "1999-09-17",
+            "venue": "Journal",
+            "volume": "285",
+            "issue": "5435",
+            "page_range": "1851-1852",
+            "doi": ""
+        },
+        {
+            "title": "Fire effects, vital attributes and expert systems.",
+            "eid": "2-s2.0-0022214429",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Technical Memorandum - CSIRO, Australia, Division of Water &amp; Land Resources",
+            "issn": "",
+            "cover_date": "1985-01-01",
+            "venue": "Journal",
+            "volume": "85",
+            "issue": "2",
+            "page_range": "96-103",
+            "doi": ""
+        },
+        {
+            "title": "Sinks and the Kyoto Protocol",
+            "eid": "2-s2.0-85025365576",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "7006270945",
+                    "name": "Scholes R.J.",
+                    "affiliation_id": [
+                        "60013272"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Climate Policy",
+            "issn": "14693062",
+            "cover_date": "2001-01-01",
+            "venue": "Journal",
+            "volume": "1",
+            "issue": "1",
+            "page_range": "5-25",
+            "doi": "10.3763/cpol.2001.0103"
+        },
+        {
+            "title": "The global imperative and policy for carbon sequestration.",
+            "eid": "2-s2.0-34748845762",
+            "authors": [
+                {
+                    "scopus_id": "55192899700",
+                    "name": "Watson R.",
+                    "affiliation_id": [
+                        "60112834"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60112834"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "SEB experimental biology series",
+            "issn": "",
+            "cover_date": "2005-01-01",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "",
+            "page_range": "1-17",
+            "doi": ""
+        },
+        {
+            "title": "Changing metabolism of terrestrial ecosystems under global change",
+            "eid": "2-s2.0-0033670672",
+            "authors": [
+                {
+                    "scopus_id": "7006765673",
+                    "name": "Canadell J.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Ecological Applications",
+            "issn": "10510761",
+            "cover_date": "2000-01-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "6",
+            "page_range": "1551-1552",
+            "doi": "10.1890/1051-0761(2000)010[1551:CMOTEU]2.0.CO;2"
+        },
+        {
+            "title": "The evolving interactions between adaptation research, international policy and development practice",
+            "eid": "2-s2.0-85096310126",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Research Handbook on Climate Change Adaptation Policy",
+            "issn": "",
+            "cover_date": "2019-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "21-48",
+            "doi": "10.4337/9781786432520.00008"
+        },
+        {
+            "title": "The use of dynamic characteristics in vegetation classification.",
+            "eid": "2-s2.0-0019746816",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Vegetation classification in Australia. Proc. workshop 1978",
+            "issn": "",
+            "cover_date": "1981-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "22-29",
+            "doi": ""
+        },
+        {
+            "title": "Foreword",
+            "eid": "2-s2.0-84984147992",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Australian Journal of Ecology",
+            "issn": "0307692X",
+            "cover_date": "1982-01-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "1",
+            "page_range": "1-1",
+            "doi": "10.1111/j.1442-9993.1982.tb01294.x"
+        },
+        {
+            "title": "Trilogy - three hierarchical models of plant succession",
+            "eid": "2-s2.0-45149138137",
+            "authors": [
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.R.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "58345135300",
+                    "name": "Moore A.D.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                },
+                {
+                    "scopus_id": "24370032900",
+                    "name": "Montgomery T.J.",
+                    "affiliation_id": [
+                        "60159889"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Mathematics and Computers in Simulation",
+            "issn": "03784754",
+            "cover_date": "1990-01-01",
+            "venue": "Journal",
+            "volume": "32",
+            "issue": "1-2",
+            "page_range": "221-224",
+            "doi": "10.1016/0378-4754(90)90242-B"
+        },
+        {
+            "title": "Mitigation of greenhouse warming, bio-mass-based energy supply systems and accelerated domestication of energy crops",
+            "eid": "2-s2.0-1542643421",
+            "authors": [
+                {
+                    "scopus_id": "7004937903",
+                    "name": "Ku M.S.B.",
+                    "affiliation_id": [
+                        "60018208"
+                    ]
+                },
+                {
+                    "scopus_id": "6603940555",
+                    "name": "Crosson P.",
+                    "affiliation_id": [
+                        "60027202"
+                    ]
+                },
+                {
+                    "scopus_id": "7203035558",
+                    "name": "Rosenberg N.J.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": [
+                        "60112834"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Applications of Biotechnology to Mitigation of Greenhouse Warming: Proceedings of the St. Michaels II Workshop",
+            "issn": "",
+            "cover_date": "2003-12-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "46-59",
+            "doi": ""
+        },
+        {
+            "title": "Erratum: The relationship between leaf composition and morphology at elevated CO<inf>2</inf> concentrations (New Phytologist) (2000) 143 (63-72))",
+            "eid": "2-s2.0-0035082879",
+            "authors": [
+                {
+                    "scopus_id": "7003663632",
+                    "name": "Roderick M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7201836842",
+                    "name": "Berry S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006549393",
+                    "name": "Noble I.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 0,
+            "publication_name": "New Phytologist",
+            "issn": "0028646X",
+            "cover_date": "2001-04-05",
+            "venue": "Journal",
+            "volume": "149",
+            "issue": "3",
+            "page_range": "599",
+            "doi": "10.1046/j.1469-8137.2001.00056.x"
+        }
+    ],
+    "affiliation": "University of Notre Dame",
+    "affiliation_id": "60021508",
+    "city": "Notre Dame",
+    "country": "United States",
+    "document_count": 70,
+    "subject_area": [
+        {
+            "@abbrev": "ENVI",
+            "@frequency": "65",
+            "$": "Environmental Science (all)"
+        },
+        {
+            "@abbrev": "AGRI",
+            "@frequency": "65",
+            "$": "Agricultural and Biological Sciences (all)"
+        },
+        {
+            "@abbrev": "MATH",
+            "@frequency": "15",
+            "$": "Mathematics (all)"
+        }
+    ],
+    "date fetched": "2024-07-12 18:59:21"
+}

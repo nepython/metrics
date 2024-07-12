@@ -51,7 +51,7 @@
                     ]
                 }
             ],
-            "citations": 3466,
+            "citations": 3493,
             "publication_name": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
             "issn": "10636919",
             "cover_date": "2019-06-01",
@@ -94,7 +94,7 @@
                     ]
                 }
             ],
-            "citations": 3146,
+            "citations": 3156,
             "publication_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
             "issn": "01628828",
             "cover_date": "2007-06-01",
@@ -168,7 +168,7 @@
                     ]
                 }
             ],
-            "citations": 2560,
+            "citations": 2577,
             "publication_name": "IEEE Transactions on Robotics",
             "issn": "15523098",
             "cover_date": "2016-12-01",
@@ -213,7 +213,7 @@
                     ]
                 }
             ],
-            "citations": 2202,
+            "citations": 2208,
             "publication_name": "Proceedings - 30th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017",
             "issn": "",
             "cover_date": "2017-11-06",
@@ -256,7 +256,7 @@
                     ]
                 }
             ],
-            "citations": 973,
+            "citations": 977,
             "publication_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
             "issn": "01628828",
             "cover_date": "2016-10-01",
@@ -299,7 +299,7 @@
                     ]
                 }
             ],
-            "citations": 942,
+            "citations": 945,
             "publication_name": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
             "issn": "03029743",
             "cover_date": "2016-01-01",
@@ -377,7 +377,7 @@
                     ]
                 }
             ],
-            "citations": 709,
+            "citations": 711,
             "publication_name": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
             "issn": "10636919",
             "cover_date": "2018-12-14",
@@ -547,7 +547,7 @@
                     ]
                 }
             ],
-            "citations": 510,
+            "citations": 515,
             "publication_name": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
             "issn": "10636919",
             "cover_date": "2018-12-14",
@@ -804,7 +804,7 @@
                     ]
                 }
             ],
-            "citations": 429,
+            "citations": 430,
             "publication_name": "Advances in Neural Information Processing Systems",
             "issn": "10495258",
             "cover_date": "2017-01-01",
@@ -863,7 +863,7 @@
                     ]
                 }
             ],
-            "citations": 379,
+            "citations": 381,
             "publication_name": "Advances in Neural Information Processing Systems",
             "issn": "10495258",
             "cover_date": "2019-01-01",
@@ -942,7 +942,7 @@
                     ]
                 }
             ],
-            "citations": 340,
+            "citations": 341,
             "publication_name": "31st AAAI Conference on Artificial Intelligence, AAAI 2017",
             "issn": "",
             "cover_date": "2017-01-01",
@@ -993,7 +993,7 @@
                     ]
                 }
             ],
-            "citations": 306,
+            "citations": 309,
             "publication_name": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
             "issn": "10636919",
             "cover_date": "2019-06-01",
@@ -1219,7 +1219,7 @@
                     ]
                 }
             ],
-            "citations": 286,
+            "citations": 287,
             "publication_name": "Advances in Neural Information Processing Systems",
             "issn": "10495258",
             "cover_date": "2019-01-01",
@@ -1412,7 +1412,7 @@
                     ]
                 }
             ],
-            "citations": 255,
+            "citations": 256,
             "publication_name": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
             "issn": "10636919",
             "cover_date": "2016-12-09",
@@ -1469,7 +1469,7 @@
                     ]
                 }
             ],
-            "citations": 241,
+            "citations": 242,
             "publication_name": "Robotics and Autonomous Systems",
             "issn": "09218890",
             "cover_date": "2009-12-31",
@@ -1663,7 +1663,7 @@
                     ]
                 }
             ],
-            "citations": 195,
+            "citations": 198,
             "publication_name": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
             "issn": "10636919",
             "cover_date": "2019-06-01",
@@ -1742,7 +1742,7 @@
                     ]
                 }
             ],
-            "citations": 184,
+            "citations": 185,
             "publication_name": "BMVC 2006 - Proceedings of the British Machine Vision Conference 2006",
             "issn": "",
             "cover_date": "2006-01-01",
@@ -1792,7 +1792,7 @@
                     ]
                 }
             ],
-            "citations": 182,
+            "citations": 183,
             "publication_name": "IEEE International Conference on Intelligent Robots and Systems",
             "issn": "21530858",
             "cover_date": "2017-12-13",
@@ -1845,7 +1845,7 @@
                     ]
                 }
             ],
-            "citations": 177,
+            "citations": 178,
             "publication_name": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
             "issn": "10636919",
             "cover_date": "2018-12-14",
@@ -2114,7 +2114,7 @@
                     ]
                 }
             ],
-            "citations": 153,
+            "citations": 154,
             "publication_name": "International Journal of Computer Vision",
             "issn": "09205691",
             "cover_date": "2021-04-01",
@@ -2920,6 +2920,49 @@
             "doi": "10.1177/0278364909341483"
         },
         {
+            "title": "Fast neural architecture search of compact semantic segmentation models via auxiliary cells",
+            "eid": "2-s2.0-85078746951",
+            "authors": [
+                {
+                    "scopus_id": "57202287634",
+                    "name": "Nekrasov V.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "57188762580",
+                    "name": "Chen H.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7402859952",
+                    "name": "Shen C.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 119,
+            "publication_name": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+            "issn": "10636919",
+            "cover_date": "2019-06-01",
+            "venue": "Conference Proceeding",
+            "volume": "2019-June",
+            "issue": "",
+            "page_range": "9118-9127",
+            "doi": "10.1109/CVPR.2019.00934"
+        },
+        {
             "title": "Dense reconstruction using 3D object shape priors",
             "eid": "2-s2.0-84887351854",
             "authors": [
@@ -2961,49 +3004,6 @@
             "issue": "",
             "page_range": "1288-1295",
             "doi": "10.1109/CVPR.2013.170"
-        },
-        {
-            "title": "Fast neural architecture search of compact semantic segmentation models via auxiliary cells",
-            "eid": "2-s2.0-85078746951",
-            "authors": [
-                {
-                    "scopus_id": "57202287634",
-                    "name": "Nekrasov V.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "57188762580",
-                    "name": "Chen H.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7402859952",
-                    "name": "Shen C.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                }
-            ],
-            "citations": 118,
-            "publication_name": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
-            "issn": "10636919",
-            "cover_date": "2019-06-01",
-            "venue": "Conference Proceeding",
-            "volume": "2019-June",
-            "issue": "",
-            "page_range": "9118-9127",
-            "doi": "10.1109/CVPR.2019.00934"
         },
         {
             "title": "Modelling pedestrian trajectory patterns with Gaussian processes",
@@ -3135,6 +3135,42 @@
             "doi": "10.1109/CVPR.2008.4587672"
         },
         {
+            "title": "On the comparison of uncertainty criteria for active SLAM",
+            "eid": "2-s2.0-84864440024",
+            "authors": [
+                {
+                    "scopus_id": "55373619400",
+                    "name": "Carrillo H.",
+                    "affiliation_id": [
+                        "60016809"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.",
+                    "affiliation_id": [
+                        "60026851"
+                    ]
+                },
+                {
+                    "scopus_id": "7005836419",
+                    "name": "Castellanos J.",
+                    "affiliation_id": [
+                        "60016809"
+                    ]
+                }
+            ],
+            "citations": 112,
+            "publication_name": "Proceedings - IEEE International Conference on Robotics and Automation",
+            "issn": "10504729",
+            "cover_date": "2012-01-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "2080-2087",
+            "doi": "10.1109/ICRA.2012.6224890"
+        },
+        {
             "title": "Single view metrology",
             "eid": "2-s2.0-0033284944",
             "authors": [
@@ -3169,42 +3205,6 @@
             "issue": "",
             "page_range": "434-441",
             "doi": "10.1109/iccv.1999.791253"
-        },
-        {
-            "title": "On the comparison of uncertainty criteria for active SLAM",
-            "eid": "2-s2.0-84864440024",
-            "authors": [
-                {
-                    "scopus_id": "55373619400",
-                    "name": "Carrillo H.",
-                    "affiliation_id": [
-                        "60016809"
-                    ]
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.",
-                    "affiliation_id": [
-                        "60026851"
-                    ]
-                },
-                {
-                    "scopus_id": "7005836419",
-                    "name": "Castellanos J.",
-                    "affiliation_id": [
-                        "60016809"
-                    ]
-                }
-            ],
-            "citations": 111,
-            "publication_name": "Proceedings - IEEE International Conference on Robotics and Automation",
-            "issn": "10504729",
-            "cover_date": "2012-01-01",
-            "venue": "Conference Proceeding",
-            "volume": "",
-            "issue": "",
-            "page_range": "2080-2087",
-            "doi": "10.1109/ICRA.2012.6224890"
         },
         {
             "title": "Manhattan scene understanding using monocular, stereo, and 3D features",
@@ -3311,7 +3311,7 @@
                     ]
                 }
             ],
-            "citations": 106,
+            "citations": 107,
             "publication_name": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
             "issn": "10636919",
             "cover_date": "2016-12-09",
@@ -3436,7 +3436,7 @@
                     ]
                 }
             ],
-            "citations": 101,
+            "citations": 102,
             "publication_name": "International Journal of Computer Vision",
             "issn": "09205691",
             "cover_date": "2021-09-01",
@@ -4634,6 +4634,42 @@
             "doi": "10.1109/34.584099"
         },
         {
+            "title": "Multi-modal auto-encoders as joint estimators for robotics scene understanding",
+            "eid": "2-s2.0-85006336563",
+            "authors": [
+                {
+                    "scopus_id": "35408497400",
+                    "name": "Cadena C.",
+                    "affiliation_id": [
+                        "60025858"
+                    ]
+                },
+                {
+                    "scopus_id": "7103296948",
+                    "name": "Dick A.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.D.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 68,
+            "publication_name": "Robotics: Science and Systems",
+            "issn": "",
+            "cover_date": "2016-01-01",
+            "venue": "Conference Proceeding",
+            "volume": "12",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.15607/rss.2016.xii.041"
+        },
+        {
             "title": "Nonlinear shape manifolds as shape priors in level set segmentation and tracking",
             "eid": "2-s2.0-80052896484",
             "authors": [
@@ -4690,42 +4726,6 @@
             "issue": "",
             "page_range": "1307-1314",
             "doi": "10.1109/CVPR.2010.5539818"
-        },
-        {
-            "title": "Multi-modal auto-encoders as joint estimators for robotics scene understanding",
-            "eid": "2-s2.0-85006336563",
-            "authors": [
-                {
-                    "scopus_id": "35408497400",
-                    "name": "Cadena C.",
-                    "affiliation_id": [
-                        "60025858"
-                    ]
-                },
-                {
-                    "scopus_id": "7103296948",
-                    "name": "Dick A.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.D.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                }
-            ],
-            "citations": 67,
-            "publication_name": "Robotics: Science and Systems",
-            "issn": "",
-            "cover_date": "2016-01-01",
-            "venue": "Conference Proceeding",
-            "volume": "12",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.15607/rss.2016.xii.041"
         },
         {
             "title": "Bootstrapping the Performance of Webly Supervised Semantic Segmentation",
@@ -4882,7 +4882,7 @@
                     ]
                 }
             ],
-            "citations": 63,
+            "citations": 64,
             "publication_name": "ACM Transactions on Graphics",
             "issn": "07300301",
             "cover_date": "2020-06-01",
@@ -5227,6 +5227,73 @@
             "doi": "10.1016/S1364-6826(02)00054-8"
         },
         {
+            "title": "Multi-scale dense networks for deep high dynamic range imaging",
+            "eid": "2-s2.0-85063595800",
+            "authors": [
+                {
+                    "scopus_id": "56603603600",
+                    "name": "Yan Q.",
+                    "affiliation_id": [
+                        "60003977",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "56014009700",
+                    "name": "Gong D.",
+                    "affiliation_id": [
+                        "60003977",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "57191433063",
+                    "name": "Zhang P.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60004538"
+                    ]
+                },
+                {
+                    "scopus_id": "24829507300",
+                    "name": "Shi Q.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "17436184700",
+                    "name": "Sun J.",
+                    "affiliation_id": [
+                        "60003977"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "56075029000",
+                    "name": "Zhang Y.",
+                    "affiliation_id": [
+                        "60003977"
+                    ]
+                }
+            ],
+            "citations": 61,
+            "publication_name": "Proceedings - 2019 IEEE Winter Conference on Applications of Computer Vision, WACV 2019",
+            "issn": "",
+            "cover_date": "2019-03-04",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "41-50",
+            "doi": "10.1109/WACV.2019.00012"
+        },
+        {
             "title": "Geometrically consistent plane extraction for dense indoor 3D maps segmentation",
             "eid": "2-s2.0-85006375541",
             "authors": [
@@ -5318,73 +5385,6 @@
             "issue": "3",
             "page_range": "205-228",
             "doi": "10.1007/BF01539627"
-        },
-        {
-            "title": "Multi-scale dense networks for deep high dynamic range imaging",
-            "eid": "2-s2.0-85063595800",
-            "authors": [
-                {
-                    "scopus_id": "56603603600",
-                    "name": "Yan Q.",
-                    "affiliation_id": [
-                        "60003977",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "56014009700",
-                    "name": "Gong D.",
-                    "affiliation_id": [
-                        "60003977",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "57191433063",
-                    "name": "Zhang P.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60004538"
-                    ]
-                },
-                {
-                    "scopus_id": "24829507300",
-                    "name": "Shi Q.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "17436184700",
-                    "name": "Sun J.",
-                    "affiliation_id": [
-                        "60003977"
-                    ]
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "56075029000",
-                    "name": "Zhang Y.",
-                    "affiliation_id": [
-                        "60003977"
-                    ]
-                }
-            ],
-            "citations": 59,
-            "publication_name": "Proceedings - 2019 IEEE Winter Conference on Applications of Computer Vision, WACV 2019",
-            "issn": "",
-            "cover_date": "2019-03-04",
-            "venue": "Conference Proceeding",
-            "volume": "",
-            "issue": "",
-            "page_range": "41-50",
-            "doi": "10.1109/WACV.2019.00012"
         },
         {
             "title": "Observations of mesospheric wind velocities: 1. Gravity wave horizontal scales and phase velocities determined from spaced wind observations",
@@ -6092,6 +6092,56 @@
             "doi": "10.1109/CVPR42600.2020.00156"
         },
         {
+            "title": "Socially and Contextually Aware Human Motion and Pose Forecasting",
+            "eid": "2-s2.0-85089311140",
+            "authors": [
+                {
+                    "scopus_id": "57211372992",
+                    "name": "Adeli V.",
+                    "affiliation_id": [
+                        "60001800"
+                    ]
+                },
+                {
+                    "scopus_id": "57205548034",
+                    "name": "Adeli E.",
+                    "affiliation_id": [
+                        "60141508"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "22234659400",
+                    "name": "Niebles J.C.",
+                    "affiliation_id": [
+                        "60141508"
+                    ]
+                },
+                {
+                    "scopus_id": "26322043400",
+                    "name": "Rezatofighi H.",
+                    "affiliation_id": [
+                        "60141508"
+                    ]
+                }
+            ],
+            "citations": 49,
+            "publication_name": "IEEE Robotics and Automation Letters",
+            "issn": "",
+            "cover_date": "2020-10-01",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "4",
+            "page_range": "6033-6040",
+            "doi": "10.1109/LRA.2020.3010742"
+        },
+        {
             "title": "High-altitude (0-100 km) global atmospheric reanalysis system: Description and application to the 2014 austral winter of the Deep Propagating Gravity Wave Experiment (DEEPWAVE)",
             "eid": "2-s2.0-85048687814",
             "authors": [
@@ -6389,56 +6439,6 @@
             "issue": "22",
             "page_range": null,
             "doi": "10.1029/96jd03145"
-        },
-        {
-            "title": "Socially and Contextually Aware Human Motion and Pose Forecasting",
-            "eid": "2-s2.0-85089311140",
-            "authors": [
-                {
-                    "scopus_id": "57211372992",
-                    "name": "Adeli V.",
-                    "affiliation_id": [
-                        "60001800"
-                    ]
-                },
-                {
-                    "scopus_id": "57205548034",
-                    "name": "Adeli E.",
-                    "affiliation_id": [
-                        "60141508"
-                    ]
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "22234659400",
-                    "name": "Niebles J.C.",
-                    "affiliation_id": [
-                        "60141508"
-                    ]
-                },
-                {
-                    "scopus_id": "26322043400",
-                    "name": "Rezatofighi H.",
-                    "affiliation_id": [
-                        "60141508"
-                    ]
-                }
-            ],
-            "citations": 48,
-            "publication_name": "IEEE Robotics and Automation Letters",
-            "issn": "",
-            "cover_date": "2020-10-01",
-            "venue": "Journal",
-            "volume": "5",
-            "issue": "4",
-            "page_range": "6033-6040",
-            "doi": "10.1109/LRA.2020.3010742"
         },
         {
             "title": "VHF radar measurements of momentum flux in the summer polar mesosphere over Andenes (69\u00b0N,16\u00b0E), Norway",
@@ -6903,6 +6903,61 @@
             "doi": "10.1029/1998JD200024"
         },
         {
+            "title": "A theoretically sound upper bound on the triplet loss for improving the efficiency of deep distance metric learning",
+            "eid": "2-s2.0-85078805358",
+            "authors": [
+                {
+                    "scopus_id": "56647672700",
+                    "name": "Do T.T.",
+                    "affiliation_id": [
+                        "60020661"
+                    ]
+                },
+                {
+                    "scopus_id": "57213825013",
+                    "name": "Tran T.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "57375362000",
+                    "name": "Kumar V.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57197846978",
+                    "name": "Hoang T.",
+                    "affiliation_id": [
+                        "60104290"
+                    ]
+                },
+                {
+                    "scopus_id": "23003641100",
+                    "name": "Carneiro G.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 46,
+            "publication_name": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+            "issn": "10636919",
+            "cover_date": "2019-06-01",
+            "venue": "Conference Proceeding",
+            "volume": "2019-June",
+            "issue": "",
+            "page_range": "10396-10405",
+            "doi": "10.1109/CVPR.2019.01065"
+        },
+        {
             "title": "Attend in groups: A weakly-supervised deep learning framework for learning from web data",
             "eid": "2-s2.0-85035128536",
             "authors": [
@@ -7106,61 +7161,6 @@
             "issue": "11-12",
             "page_range": "1057-1072",
             "doi": "10.1016/0021-9169(86)90026-7"
-        },
-        {
-            "title": "A theoretically sound upper bound on the triplet loss for improving the efficiency of deep distance metric learning",
-            "eid": "2-s2.0-85078805358",
-            "authors": [
-                {
-                    "scopus_id": "56647672700",
-                    "name": "Do T.T.",
-                    "affiliation_id": [
-                        "60020661"
-                    ]
-                },
-                {
-                    "scopus_id": "57213825013",
-                    "name": "Tran T.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "57375362000",
-                    "name": "Kumar V.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "57197846978",
-                    "name": "Hoang T.",
-                    "affiliation_id": [
-                        "60104290"
-                    ]
-                },
-                {
-                    "scopus_id": "23003641100",
-                    "name": "Carneiro G.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                }
-            ],
-            "citations": 45,
-            "publication_name": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
-            "issn": "10636919",
-            "cover_date": "2019-06-01",
-            "venue": "Conference Proceeding",
-            "volume": "2019-June",
-            "issue": "",
-            "page_range": "10396-10405",
-            "doi": "10.1109/CVPR.2019.01065"
         },
         {
             "title": "Information-theoretic active scene exploration",
@@ -8502,6 +8502,53 @@
             "doi": "10.1109/LRA.2019.2953639"
         },
         {
+            "title": "SceneCut: Joint geometric and object segmentation for indoor scenes",
+            "eid": "2-s2.0-85055134495",
+            "authors": [
+                {
+                    "scopus_id": "57198492406",
+                    "name": "Pham T.",
+                    "affiliation_id": [
+                        "60108693",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "56647672700",
+                    "name": "Do T.",
+                    "affiliation_id": [
+                        "60108693",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "15726514900",
+                    "name": "Sunderhauf N.",
+                    "affiliation_id": [
+                        "60108693",
+                        "60011019"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.",
+                    "affiliation_id": [
+                        "60108693",
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 33,
+            "publication_name": "Proceedings - IEEE International Conference on Robotics and Automation",
+            "issn": "10504729",
+            "cover_date": "2018-09-10",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "3213-3220",
+            "doi": "10.1109/ICRA.2018.8461108"
+        },
+        {
             "title": "The effects of deionization processes on meteor radar diffusion coefficients below 90 km",
             "eid": "2-s2.0-84925009202",
             "authors": [
@@ -8668,30 +8715,27 @@
             "doi": "10.1029/95RS00731"
         },
         {
-            "title": "SceneCut: Joint geometric and object segmentation for indoor scenes",
-            "eid": "2-s2.0-85055134495",
+            "title": "Visual SLAM: Why bundle adjust?",
+            "eid": "2-s2.0-85071431293",
             "authors": [
                 {
-                    "scopus_id": "57198492406",
-                    "name": "Pham T.",
+                    "scopus_id": "57215972296",
+                    "name": "Bustos A.P.",
                     "affiliation_id": [
-                        "60108693",
                         "60009512"
                     ]
                 },
                 {
-                    "scopus_id": "56647672700",
-                    "name": "Do T.",
+                    "scopus_id": "14009152000",
+                    "name": "Chin T.J.",
                     "affiliation_id": [
-                        "60108693",
                         "60009512"
                     ]
                 },
                 {
-                    "scopus_id": "15726514900",
-                    "name": "Sunderhauf N.",
+                    "scopus_id": "7202802431",
+                    "name": "Eriksson A.",
                     "affiliation_id": [
-                        "60108693",
                         "60011019"
                     ]
                 },
@@ -8699,7 +8743,6 @@
                     "scopus_id": "55643335100",
                     "name": "Reid I.",
                     "affiliation_id": [
-                        "60108693",
                         "60009512"
                     ]
                 }
@@ -8707,12 +8750,12 @@
             "citations": 32,
             "publication_name": "Proceedings - IEEE International Conference on Robotics and Automation",
             "issn": "10504729",
-            "cover_date": "2018-09-10",
+            "cover_date": "2019-05-01",
             "venue": "Conference Proceeding",
-            "volume": "",
+            "volume": "2019-May",
             "issue": "",
-            "page_range": "3213-3220",
-            "doi": "10.1109/ICRA.2018.8461108"
+            "page_range": "2385-2391",
+            "doi": "10.1109/ICRA.2019.8793749"
         },
         {
             "title": "Efficient 3D scene labeling using fields of trees",
@@ -8844,49 +8887,6 @@
             "issue": "14",
             "page_range": null,
             "doi": "10.1029/2010GL044086"
-        },
-        {
-            "title": "Visual SLAM: Why bundle adjust?",
-            "eid": "2-s2.0-85071431293",
-            "authors": [
-                {
-                    "scopus_id": "57215972296",
-                    "name": "Bustos A.P.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "14009152000",
-                    "name": "Chin T.J.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7202802431",
-                    "name": "Eriksson A.",
-                    "affiliation_id": [
-                        "60011019"
-                    ]
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                }
-            ],
-            "citations": 31,
-            "publication_name": "Proceedings - IEEE International Conference on Robotics and Automation",
-            "issn": "10504729",
-            "cover_date": "2019-05-01",
-            "venue": "Conference Proceeding",
-            "volume": "2019-May",
-            "issue": "",
-            "page_range": "2385-2391",
-            "doi": "10.1109/ICRA.2019.8793749"
         },
         {
             "title": "Scaling CNNs for High Resolution Volumetric Reconstruction from a Single Image",
@@ -10615,6 +10615,108 @@
             "doi": "10.1109/3468.903865"
         },
         {
+            "title": "Dual-Attention-Guided Network for Ghost-Free High Dynamic Range Imaging",
+            "eid": "2-s2.0-85118197652",
+            "authors": [
+                {
+                    "scopus_id": "56603603600",
+                    "name": "Yan Q.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "56014009700",
+                    "name": "Gong D.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "24829507300",
+                    "name": "Shi J.Q.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "35587677100",
+                    "name": "van den Hengel A.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7402859952",
+                    "name": "Shen C.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "56075029000",
+                    "name": "Zhang Y.",
+                    "affiliation_id": [
+                        "60003977"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "International Journal of Computer Vision",
+            "issn": "09205691",
+            "cover_date": "2022-01-01",
+            "venue": "Journal",
+            "volume": "130",
+            "issue": "1",
+            "page_range": "76-94",
+            "doi": "10.1007/s11263-021-01535-y"
+        },
+        {
+            "title": "Stratospheric tropospheric wind profiling radars in the Australian network",
+            "eid": "2-s2.0-85055883817",
+            "authors": [
+                {
+                    "scopus_id": "55285789200",
+                    "name": "Dolman B.K.",
+                    "affiliation_id": [
+                        "100491349",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.M.",
+                    "affiliation_id": [
+                        "100491349",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "6507994779",
+                    "name": "Tingwell C.",
+                    "affiliation_id": [
+                        "60008506"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "Earth, Planets and Space",
+            "issn": "13438832",
+            "cover_date": "2018-12-01",
+            "venue": "Journal",
+            "volume": "70",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s40623-018-0944-z"
+        },
+        {
             "title": "High- and Middle-Latitude Neutral Mesospheric Density Response to Geomagnetic Storms",
             "eid": "2-s2.0-85040974505",
             "authors": [
@@ -10891,68 +10993,65 @@
             "doi": ""
         },
         {
-            "title": "Dual-Attention-Guided Network for Ghost-Free High Dynamic Range Imaging",
-            "eid": "2-s2.0-85118197652",
+            "title": "Auto-Rectify Network for Unsupervised Indoor Depth Estimation",
+            "eid": "2-s2.0-85121815949",
             "authors": [
                 {
-                    "scopus_id": "56603603600",
-                    "name": "Yan Q.",
+                    "scopus_id": "57191433744",
+                    "name": "Bian J.W.",
                     "affiliation_id": [
-                        "60009512"
+                        "60009512",
+                        "60108693"
                     ]
                 },
                 {
-                    "scopus_id": "56014009700",
-                    "name": "Gong D.",
+                    "scopus_id": "57200627537",
+                    "name": "Zhan H.",
                     "affiliation_id": [
-                        "60009512"
+                        "60009512",
+                        "60108693"
                     ]
                 },
                 {
-                    "scopus_id": "24829507300",
-                    "name": "Shi J.Q.",
+                    "scopus_id": "55922256500",
+                    "name": "Wang N.",
                     "affiliation_id": [
-                        "60009512"
+                        "126789372"
                     ]
                 },
                 {
-                    "scopus_id": "35587677100",
-                    "name": "van den Hengel A.",
+                    "scopus_id": "14009152000",
+                    "name": "Chin T.J.",
                     "affiliation_id": [
-                        "60009512"
+                        "60009512",
+                        "60108693"
                     ]
                 },
                 {
                     "scopus_id": "7402859952",
                     "name": "Shen C.",
                     "affiliation_id": [
-                        "60009512"
+                        "60003970"
                     ]
                 },
                 {
                     "scopus_id": "55643335100",
                     "name": "Reid I.",
                     "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "56075029000",
-                    "name": "Zhang Y.",
-                    "affiliation_id": [
-                        "60003977"
+                        "60009512",
+                        "60108693"
                     ]
                 }
             ],
             "citations": 23,
-            "publication_name": "International Journal of Computer Vision",
-            "issn": "09205691",
-            "cover_date": "2022-01-01",
+            "publication_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+            "issn": "01628828",
+            "cover_date": "2022-12-01",
             "venue": "Journal",
-            "volume": "130",
-            "issue": "1",
-            "page_range": "76-94",
-            "doi": "10.1007/s11263-021-01535-y"
+            "volume": "44",
+            "issue": "12",
+            "page_range": "9802-9813",
+            "doi": "10.1109/TPAMI.2021.3136220"
         },
         {
             "title": "TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild",
@@ -11060,44 +11159,6 @@
             "issue": "",
             "page_range": null,
             "doi": ""
-        },
-        {
-            "title": "Stratospheric tropospheric wind profiling radars in the Australian network",
-            "eid": "2-s2.0-85055883817",
-            "authors": [
-                {
-                    "scopus_id": "55285789200",
-                    "name": "Dolman B.K.",
-                    "affiliation_id": [
-                        "100491349",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.M.",
-                    "affiliation_id": [
-                        "100491349",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "6507994779",
-                    "name": "Tingwell C.",
-                    "affiliation_id": [
-                        "60008506"
-                    ]
-                }
-            ],
-            "citations": 23,
-            "publication_name": "Earth, Planets and Space",
-            "issn": "13438832",
-            "cover_date": "2018-12-01",
-            "venue": "Journal",
-            "volume": "70",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1186/s40623-018-0944-z"
         },
         {
             "title": "Response of neutral mesospheric density to geomagnetic forcing",
@@ -11343,67 +11404,6 @@
             "issue": "14",
             "page_range": "6106-6111",
             "doi": "10.1002/2015GL065066"
-        },
-        {
-            "title": "Auto-Rectify Network for Unsupervised Indoor Depth Estimation",
-            "eid": "2-s2.0-85121815949",
-            "authors": [
-                {
-                    "scopus_id": "57191433744",
-                    "name": "Bian J.W.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60108693"
-                    ]
-                },
-                {
-                    "scopus_id": "57200627537",
-                    "name": "Zhan H.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60108693"
-                    ]
-                },
-                {
-                    "scopus_id": "55922256500",
-                    "name": "Wang N.",
-                    "affiliation_id": [
-                        "126789372"
-                    ]
-                },
-                {
-                    "scopus_id": "14009152000",
-                    "name": "Chin T.J.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60108693"
-                    ]
-                },
-                {
-                    "scopus_id": "7402859952",
-                    "name": "Shen C.",
-                    "affiliation_id": [
-                        "60003970"
-                    ]
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60108693"
-                    ]
-                }
-            ],
-            "citations": 22,
-            "publication_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-            "issn": "01628828",
-            "cover_date": "2022-12-01",
-            "venue": "Journal",
-            "volume": "44",
-            "issue": "12",
-            "page_range": "9802-9813",
-            "doi": "10.1109/TPAMI.2021.3136220"
         },
         {
             "title": "An evaluation of feature matchers for fundamental matrix estimation",
@@ -12234,6 +12234,49 @@
             "doi": "10.1186/s40623-018-0861-1"
         },
         {
+            "title": "Dense monocular reconstruction using surface normals",
+            "eid": "2-s2.0-85028008364",
+            "authors": [
+                {
+                    "scopus_id": "56022245400",
+                    "name": "Weerasekera C.S.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "55556199800",
+                    "name": "Latif Y.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "57196542351",
+                    "name": "Garg R.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 20,
+            "publication_name": "Proceedings - IEEE International Conference on Robotics and Automation",
+            "issn": "10504729",
+            "cover_date": "2017-07-21",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": "2524-2531",
+            "doi": "10.1109/ICRA.2017.7989293"
+        },
+        {
             "title": "MF Doppler and spaced antenna radar measurements of upper middle atmosphere winds",
             "eid": "2-s2.0-38249028641",
             "authors": [
@@ -12591,49 +12634,6 @@
             "issue": "4",
             "page_range": "3183-3195",
             "doi": "10.1002/2017JA025059"
-        },
-        {
-            "title": "Dense monocular reconstruction using surface normals",
-            "eid": "2-s2.0-85028008364",
-            "authors": [
-                {
-                    "scopus_id": "56022245400",
-                    "name": "Weerasekera C.S.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "55556199800",
-                    "name": "Latif Y.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "57196542351",
-                    "name": "Garg R.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                }
-            ],
-            "citations": 19,
-            "publication_name": "Proceedings - IEEE International Conference on Robotics and Automation",
-            "issn": "10504729",
-            "cover_date": "2017-07-21",
-            "venue": "Conference Proceeding",
-            "volume": "",
-            "issue": "",
-            "page_range": "2524-2531",
-            "doi": "10.1109/ICRA.2017.7989293"
         },
         {
             "title": "PWP3D: Real-time segmentation and tracking of 3D objects",
@@ -13397,6 +13397,57 @@
             "doi": "10.1109/ROBOT.2005.1570381"
         },
         {
+            "title": "Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations",
+            "eid": "2-s2.0-85112606603",
+            "authors": [
+                {
+                    "scopus_id": "56085035700",
+                    "name": "Zhuang B.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "22837202600",
+                    "name": "Tan M.",
+                    "affiliation_id": [
+                        "60024542"
+                    ]
+                },
+                {
+                    "scopus_id": "57218349208",
+                    "name": "Liu J.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "54956172800",
+                    "name": "Liu L.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7402859952",
+                    "name": "Shen C.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 15,
+            "publication_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+            "issn": "01628828",
+            "cover_date": "2021-01-01",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1109/TPAMI.2021.3088904"
+        },
+        {
             "title": "The possibility of using all-sky meteor radar to observe ionospheric E-region field-aligned irregularities",
             "eid": "2-s2.0-85068836392",
             "authors": [
@@ -13792,57 +13843,6 @@
             "doi": "10.1016/S1364-6826(02)00220-1"
         },
         {
-            "title": "Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations",
-            "eid": "2-s2.0-85112606603",
-            "authors": [
-                {
-                    "scopus_id": "56085035700",
-                    "name": "Zhuang B.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "22837202600",
-                    "name": "Tan M.",
-                    "affiliation_id": [
-                        "60024542"
-                    ]
-                },
-                {
-                    "scopus_id": "57218349208",
-                    "name": "Liu J.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "54956172800",
-                    "name": "Liu L.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7402859952",
-                    "name": "Shen C.",
-                    "affiliation_id": []
-                }
-            ],
-            "citations": 14,
-            "publication_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-            "issn": "01628828",
-            "cover_date": "2021-01-01",
-            "venue": "Journal",
-            "volume": "",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1109/TPAMI.2021.3088904"
-        },
-        {
             "title": "MOLTR: Multiple Object Localization, Tracking and Reconstruction from Monocular RGB Videos",
             "eid": "2-s2.0-85101735967",
             "authors": [
@@ -14013,6 +14013,74 @@
             "issue": "1",
             "page_range": "15-26",
             "doi": "10.1109/TPAMI.2018.2876413"
+        },
+        {
+            "title": "Observations and Modeling of Traveling Ionospheric Disturbance Signatures From an Australian Network of Oblique Angle-of-Arrival Sounders",
+            "eid": "2-s2.0-85053446584",
+            "authors": [
+                {
+                    "scopus_id": "55320905500",
+                    "name": "Heitmann A.J.",
+                    "affiliation_id": [
+                        "60003480",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "36836802500",
+                    "name": "Cervera M.A.",
+                    "affiliation_id": [
+                        "60003480",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7801607333",
+                    "name": "Gardiner-Garden R.S.",
+                    "affiliation_id": [
+                        "60003480"
+                    ]
+                },
+                {
+                    "scopus_id": "7102342671",
+                    "name": "Holdsworth D.A.",
+                    "affiliation_id": [
+                        "60003480",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7101756082",
+                    "name": "MacKinnon A.D.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.M.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7202945262",
+                    "name": "Ward B.D.",
+                    "affiliation_id": [
+                        "60003480",
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 14,
+            "publication_name": "Radio Science",
+            "issn": "00486604",
+            "cover_date": "2018-09-01",
+            "venue": "Journal",
+            "volume": "53",
+            "issue": "9",
+            "page_range": "1089-1107",
+            "doi": "10.1029/2018RS006613"
         },
         {
             "title": "Target tracking using mean-shift and affine structure",
@@ -14213,74 +14281,6 @@
             "doi": "10.1007/978-3-030-01249-6_1"
         },
         {
-            "title": "Observations and Modeling of Traveling Ionospheric Disturbance Signatures From an Australian Network of Oblique Angle-of-Arrival Sounders",
-            "eid": "2-s2.0-85053446584",
-            "authors": [
-                {
-                    "scopus_id": "55320905500",
-                    "name": "Heitmann A.J.",
-                    "affiliation_id": [
-                        "60003480",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "36836802500",
-                    "name": "Cervera M.A.",
-                    "affiliation_id": [
-                        "60003480",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7801607333",
-                    "name": "Gardiner-Garden R.S.",
-                    "affiliation_id": [
-                        "60003480"
-                    ]
-                },
-                {
-                    "scopus_id": "7102342671",
-                    "name": "Holdsworth D.A.",
-                    "affiliation_id": [
-                        "60003480",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7101756082",
-                    "name": "MacKinnon A.D.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.M.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7202945262",
-                    "name": "Ward B.D.",
-                    "affiliation_id": [
-                        "60003480",
-                        "60009512"
-                    ]
-                }
-            ],
-            "citations": 13,
-            "publication_name": "Radio Science",
-            "issn": "00486604",
-            "cover_date": "2018-09-01",
-            "venue": "Journal",
-            "volume": "53",
-            "issue": "9",
-            "page_range": "1089-1107",
-            "doi": "10.1029/2018RS006613"
-        },
-        {
             "title": "Momentum Flux Spectra of a Mountain Wave Event Over New Zealand",
             "eid": "2-s2.0-85051295880",
             "authors": [
@@ -14415,6 +14415,70 @@
             "issue": "",
             "page_range": "929-937",
             "doi": "10.1109/ICCV.2017.106"
+        },
+        {
+            "title": "Exploiting Temporal Information for DCNN-Based Fine-Grained Object Classification",
+            "eid": "2-s2.0-85011112588",
+            "authors": [
+                {
+                    "scopus_id": "56287884800",
+                    "name": "Ge Z.",
+                    "affiliation_id": [
+                        "60011019"
+                    ]
+                },
+                {
+                    "scopus_id": "55908896000",
+                    "name": "McCool C.",
+                    "affiliation_id": [
+                        "60011019"
+                    ]
+                },
+                {
+                    "scopus_id": "55616049200",
+                    "name": "Sanderson C.",
+                    "affiliation_id": [
+                        "60011019"
+                    ]
+                },
+                {
+                    "scopus_id": "56780574400",
+                    "name": "Wang P.",
+                    "affiliation_id": [
+                        "60011019"
+                    ]
+                },
+                {
+                    "scopus_id": "54956172800",
+                    "name": "Liu L.",
+                    "affiliation_id": [
+                        "60011019"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.",
+                    "affiliation_id": [
+                        "60011019"
+                    ]
+                },
+                {
+                    "scopus_id": "7005306124",
+                    "name": "Corke P.",
+                    "affiliation_id": [
+                        "60011019"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "2016 International Conference on Digital Image Computing: Techniques and Applications, DICTA 2016",
+            "issn": "",
+            "cover_date": "2016-12-22",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1109/DICTA.2016.7797039"
         },
         {
             "title": "Simultaneous localisation and mapping in dynamic environments (SLAMIDE) with reversible data association",
@@ -14639,70 +14703,6 @@
             "issue": "",
             "page_range": "155-171",
             "doi": "10.1007/978-3-030-58586-0_10"
-        },
-        {
-            "title": "Exploiting Temporal Information for DCNN-Based Fine-Grained Object Classification",
-            "eid": "2-s2.0-85011112588",
-            "authors": [
-                {
-                    "scopus_id": "56287884800",
-                    "name": "Ge Z.",
-                    "affiliation_id": [
-                        "60011019"
-                    ]
-                },
-                {
-                    "scopus_id": "55908896000",
-                    "name": "McCool C.",
-                    "affiliation_id": [
-                        "60011019"
-                    ]
-                },
-                {
-                    "scopus_id": "55616049200",
-                    "name": "Sanderson C.",
-                    "affiliation_id": [
-                        "60011019"
-                    ]
-                },
-                {
-                    "scopus_id": "56780574400",
-                    "name": "Wang P.",
-                    "affiliation_id": [
-                        "60011019"
-                    ]
-                },
-                {
-                    "scopus_id": "54956172800",
-                    "name": "Liu L.",
-                    "affiliation_id": [
-                        "60011019"
-                    ]
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.",
-                    "affiliation_id": [
-                        "60011019"
-                    ]
-                },
-                {
-                    "scopus_id": "7005306124",
-                    "name": "Corke P.",
-                    "affiliation_id": [
-                        "60011019"
-                    ]
-                }
-            ],
-            "citations": 12,
-            "publication_name": "2016 International Conference on Digital Image Computing: Techniques and Applications, DICTA 2016",
-            "issn": "",
-            "cover_date": "2016-12-22",
-            "venue": "Conference Proceeding",
-            "volume": "",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1109/DICTA.2016.7797039"
         },
         {
             "title": "Probabilistic parameter selection for learning scene structure from video",
@@ -15097,6 +15097,87 @@
             "issue": "4",
             "page_range": null,
             "doi": "10.1029/2020GL089957"
+        },
+        {
+            "title": "A hybrid probabilistic model for camera relocalization",
+            "eid": "2-s2.0-85084011771",
+            "authors": [
+                {
+                    "scopus_id": "57211033625",
+                    "name": "Cai M.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7402859952",
+                    "name": "Shen C.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "British Machine Vision Conference 2018, BMVC 2018",
+            "issn": "",
+            "cover_date": "2019-01-01",
+            "venue": "Conference Proceeding",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": ""
+        },
+        {
+            "title": "Low Earth Orbit Object Observations Using the Buckland Park VHF Radar",
+            "eid": "2-s2.0-85080101470",
+            "authors": [
+                {
+                    "scopus_id": "7102342671",
+                    "name": "Holdsworth D.A.",
+                    "affiliation_id": [
+                        "60003480",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "56229669800",
+                    "name": "Spargo A.J.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.M.",
+                    "affiliation_id": [
+                        "60009512",
+                        "115064091"
+                    ]
+                },
+                {
+                    "scopus_id": "57215202437",
+                    "name": "Adami C.",
+                    "affiliation_id": [
+                        "115064091"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Radio Science",
+            "issn": "00486604",
+            "cover_date": "2020-02-01",
+            "venue": "Journal",
+            "volume": "55",
+            "issue": "2",
+            "page_range": null,
+            "doi": "10.1029/2019RS006873"
         },
         {
             "title": "Model-Free Tracker for Multiple Objects Using Joint Appearance and Motion Inference",
@@ -15711,42 +15792,6 @@
             "doi": "10.1029/2020JD034301"
         },
         {
-            "title": "A hybrid probabilistic model for camera relocalization",
-            "eid": "2-s2.0-85084011771",
-            "authors": [
-                {
-                    "scopus_id": "57211033625",
-                    "name": "Cai M.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7402859952",
-                    "name": "Shen C.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "British Machine Vision Conference 2018, BMVC 2018",
-            "issn": "",
-            "cover_date": "2019-01-01",
-            "venue": "Conference Proceeding",
-            "volume": "",
-            "issue": "",
-            "page_range": null,
-            "doi": ""
-        },
-        {
             "title": "Object captioning and retrieval with natural language",
             "eid": "2-s2.0-85082474988",
             "authors": [
@@ -15802,51 +15847,6 @@
             "issue": "",
             "page_range": "2584-2592",
             "doi": "10.1109/ICCVW.2019.00316"
-        },
-        {
-            "title": "Low Earth Orbit Object Observations Using the Buckland Park VHF Radar",
-            "eid": "2-s2.0-85080101470",
-            "authors": [
-                {
-                    "scopus_id": "7102342671",
-                    "name": "Holdsworth D.A.",
-                    "affiliation_id": [
-                        "60003480",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "56229669800",
-                    "name": "Spargo A.J.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.M.",
-                    "affiliation_id": [
-                        "60009512",
-                        "115064091"
-                    ]
-                },
-                {
-                    "scopus_id": "57215202437",
-                    "name": "Adami C.",
-                    "affiliation_id": [
-                        "115064091"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "Radio Science",
-            "issn": "00486604",
-            "cover_date": "2020-02-01",
-            "venue": "Journal",
-            "volume": "55",
-            "issue": "2",
-            "page_range": null,
-            "doi": "10.1029/2019RS006873"
         },
         {
             "title": "Improving global multi-target tracking with local updates",
@@ -16806,6 +16806,64 @@
             "doi": "10.1016/0262-8856(96)01095-5"
         },
         {
+            "title": "Structured Binary Neural Networks for Image Recognition",
+            "eid": "2-s2.0-85132593395",
+            "authors": [
+                {
+                    "scopus_id": "56085035700",
+                    "name": "Zhuang B.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7402859952",
+                    "name": "Shen C.",
+                    "affiliation_id": [
+                        "60003970"
+                    ]
+                },
+                {
+                    "scopus_id": "22837202600",
+                    "name": "Tan M.",
+                    "affiliation_id": [
+                        "60024542",
+                        "60001604"
+                    ]
+                },
+                {
+                    "scopus_id": "56881796600",
+                    "name": "Chen P.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "54956172800",
+                    "name": "Liu L.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "International Journal of Computer Vision",
+            "issn": "09205691",
+            "cover_date": "2022-09-01",
+            "venue": "Journal",
+            "volume": "130",
+            "issue": "9",
+            "page_range": "2081-2102",
+            "doi": "10.1007/s11263-022-01638-0"
+        },
+        {
             "title": "A generalized framework for edge-preserving and structure-preserving image smoothing",
             "eid": "2-s2.0-85106414128",
             "authors": [
@@ -17199,64 +17257,6 @@
             "issue": "pt 1",
             "page_range": "718-723",
             "doi": ""
-        },
-        {
-            "title": "Structured Binary Neural Networks for Image Recognition",
-            "eid": "2-s2.0-85132593395",
-            "authors": [
-                {
-                    "scopus_id": "56085035700",
-                    "name": "Zhuang B.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7402859952",
-                    "name": "Shen C.",
-                    "affiliation_id": [
-                        "60003970"
-                    ]
-                },
-                {
-                    "scopus_id": "22837202600",
-                    "name": "Tan M.",
-                    "affiliation_id": [
-                        "60024542",
-                        "60001604"
-                    ]
-                },
-                {
-                    "scopus_id": "56881796600",
-                    "name": "Chen P.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "54956172800",
-                    "name": "Liu L.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                }
-            ],
-            "citations": 6,
-            "publication_name": "International Journal of Computer Vision",
-            "issn": "09205691",
-            "cover_date": "2022-09-01",
-            "venue": "Journal",
-            "volume": "130",
-            "issue": "9",
-            "page_range": "2081-2102",
-            "doi": "10.1007/s11263-022-01638-0"
         },
         {
             "title": "Error analyses of a multistatic meteor radar system to obtain a three-dimensional spatial-resolution distribution",
@@ -19611,6 +19611,51 @@
             "doi": "10.1109/ICRA46639.2022.9811661"
         },
         {
+            "title": "Response of a polarimetric antenna to ionospherically propagated signals",
+            "eid": "2-s2.0-85112420507",
+            "authors": [
+                {
+                    "scopus_id": "56020220100",
+                    "name": "Pederick L.",
+                    "affiliation_id": [
+                        "60003480",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "57149802100",
+                    "name": "Harris T.",
+                    "affiliation_id": [
+                        "60003480",
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7101756082",
+                    "name": "Mackinnon A.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "IEEE Transactions on Antennas and Propagation",
+            "issn": "0018926X",
+            "cover_date": "2021-11-01",
+            "venue": "Journal",
+            "volume": "69",
+            "issue": "11",
+            "page_range": "7846-7854",
+            "doi": "10.1109/TAP.2021.3088283"
+        },
+        {
             "title": "Visual localization under appearance change: filtering approaches",
             "eid": "2-s2.0-85091166016",
             "authors": [
@@ -20102,51 +20147,6 @@
             "issue": "",
             "page_range": "1085-1094",
             "doi": "10.1109/3DV53792.2021.00116"
-        },
-        {
-            "title": "Response of a polarimetric antenna to ionospherically propagated signals",
-            "eid": "2-s2.0-85112420507",
-            "authors": [
-                {
-                    "scopus_id": "56020220100",
-                    "name": "Pederick L.",
-                    "affiliation_id": [
-                        "60003480",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "57149802100",
-                    "name": "Harris T.",
-                    "affiliation_id": [
-                        "60003480",
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7101756082",
-                    "name": "Mackinnon A.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "55643335100",
-                    "name": "Reid I.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                }
-            ],
-            "citations": 1,
-            "publication_name": "IEEE Transactions on Antennas and Propagation",
-            "issn": "0018926X",
-            "cover_date": "2021-11-01",
-            "venue": "Journal",
-            "volume": "69",
-            "issue": "11",
-            "page_range": "7846-7854",
-            "doi": "10.1109/TAP.2021.3088283"
         },
         {
             "title": "Improved visual localization via graph filtering",
@@ -20824,6 +20824,77 @@
             "doi": "10.1006/rtim.1996.0067"
         },
         {
+            "title": "Doppler variations in radar observations of resident space objects: Likely ionospheric Pc1 plasma waves",
+            "eid": "2-s2.0-85197498478",
+            "authors": [
+                {
+                    "scopus_id": "59204931300",
+                    "name": "Jonker J.R.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60003480"
+                    ]
+                },
+                {
+                    "scopus_id": "36836802500",
+                    "name": "Cervera M.A.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60003480"
+                    ]
+                },
+                {
+                    "scopus_id": "57149802100",
+                    "name": "Harris T.J.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60082230"
+                    ]
+                },
+                {
+                    "scopus_id": "7102342671",
+                    "name": "Holdsworth D.A.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60003480"
+                    ]
+                },
+                {
+                    "scopus_id": "7101756082",
+                    "name": "MacKinnon A.D.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "6602562027",
+                    "name": "Neudegg D.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60003480",
+                        "116553112"
+                    ]
+                },
+                {
+                    "scopus_id": "55643335100",
+                    "name": "Reid I.M.",
+                    "affiliation_id": [
+                        "60009512",
+                        "115064091"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Advances in Space Research",
+            "issn": "02731177",
+            "cover_date": "2024-01-01",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.asr.2024.06.009"
+        },
+        {
             "title": "Sensor Allocation and Online-Learning-Based Path Planning for Maritime Situational Awareness Enhancement: A Multi-Agent Approach",
             "eid": "2-s2.0-85186074094",
             "authors": [
@@ -21286,7 +21357,7 @@
     "affiliation_id": "60195969",
     "city": "Abu Dhabi",
     "country": "United Arab Emirates",
-    "document_count": 424,
+    "document_count": 425,
     "subject_area": [
         {
             "@abbrev": "COMP",
@@ -21295,15 +21366,14 @@
         },
         {
             "@abbrev": "EART",
-            "@frequency": "407",
+            "@frequency": "411",
             "$": "Earth and Planetary Sciences (all)"
         },
         {
             "@abbrev": "ENGI",
-            "@frequency": "207",
+            "@frequency": "208",
             "$": "Engineering (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:32:41",
-    "c-score": null
+    "date fetched": "2024-07-12 18:40:51"
 }

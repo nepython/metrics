@@ -190,7 +190,7 @@
                     ]
                 }
             ],
-            "citations": 31257,
+            "citations": 31695,
             "publication_name": "The BMJ",
             "issn": "09598146",
             "cover_date": "2021-03-29",
@@ -400,7 +400,7 @@
                     ]
                 }
             ],
-            "citations": 4281,
+            "citations": 4338,
             "publication_name": "The BMJ",
             "issn": "09598146",
             "cover_date": "2021-03-29",
@@ -611,7 +611,7 @@
                     ]
                 }
             ],
-            "citations": 4041,
+            "citations": 4106,
             "publication_name": "International Journal of Surgery",
             "issn": "17439191",
             "cover_date": "2021-04-01",
@@ -808,7 +808,7 @@
                     ]
                 }
             ],
-            "citations": 3979,
+            "citations": 4033,
             "publication_name": "Systematic Reviews",
             "issn": "",
             "cover_date": "2021-12-01",
@@ -907,7 +907,7 @@
                     ]
                 }
             ],
-            "citations": 1662,
+            "citations": 1670,
             "publication_name": "The BMJ",
             "issn": "09598146",
             "cover_date": "2020-01-16",
@@ -1116,7 +1116,7 @@
                     ]
                 }
             ],
-            "citations": 1416,
+            "citations": 1434,
             "publication_name": "PLoS Medicine",
             "issn": "15491277",
             "cover_date": "2021-03-29",
@@ -1195,7 +1195,7 @@
                     ]
                 }
             ],
-            "citations": 1101,
+            "citations": 1111,
             "publication_name": "Journal of Clinical Epidemiology",
             "issn": "08954356",
             "cover_date": "2021-06-01",
@@ -1405,7 +1405,7 @@
                     ]
                 }
             ],
-            "citations": 1094,
+            "citations": 1105,
             "publication_name": "Journal of Clinical Epidemiology",
             "issn": "08954356",
             "cover_date": "2021-06-01",
@@ -1494,7 +1494,7 @@
                     ]
                 }
             ],
-            "citations": 821,
+            "citations": 823,
             "publication_name": "Implementation Science",
             "issn": "",
             "cover_date": "2012-04-24",
@@ -2039,7 +2039,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 371,
+            "citations": 373,
             "publication_name": "Journal of Clinical Epidemiology",
             "issn": "08954356",
             "cover_date": "2017-11-01",
@@ -2227,7 +2227,7 @@
                     ]
                 }
             ],
-            "citations": 247,
+            "citations": 248,
             "publication_name": "BMJ (Online)",
             "issn": "09598146",
             "cover_date": "2018-01-01",
@@ -2768,7 +2768,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 228,
+            "citations": 229,
             "publication_name": "Journal of Clinical Epidemiology",
             "issn": "08954356",
             "cover_date": "2017-11-01",
@@ -2820,7 +2820,7 @@
                     ]
                 }
             ],
-            "citations": 225,
+            "citations": 226,
             "publication_name": "Cochrane Database of Systematic Reviews",
             "issn": "14651858",
             "cover_date": "2012-11-14",
@@ -2877,7 +2877,7 @@
                     ]
                 }
             ],
-            "citations": 219,
+            "citations": 221,
             "publication_name": "Cochrane Handbook for Systematic Reviews of Interventions",
             "issn": "",
             "cover_date": "2019-01-01",
@@ -2941,7 +2941,7 @@
                     ]
                 }
             ],
-            "citations": 214,
+            "citations": 215,
             "publication_name": "Cochrane Database of Systematic Reviews",
             "issn": "",
             "cover_date": "2014-10-01",
@@ -3102,7 +3102,7 @@
                     ]
                 }
             ],
-            "citations": 194,
+            "citations": 196,
             "publication_name": "The BMJ",
             "issn": "09598146",
             "cover_date": "2022-01-01",
@@ -3625,7 +3625,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 178,
+            "citations": 179,
             "publication_name": "Journal of Clinical Epidemiology",
             "issn": "08954356",
             "cover_date": "2017-11-01",
@@ -3816,7 +3816,7 @@
                     ]
                 }
             ],
-            "citations": 151,
+            "citations": 153,
             "publication_name": "Implementation Science",
             "issn": "",
             "cover_date": "2014-06-19",
@@ -3902,7 +3902,7 @@
                     ]
                 }
             ],
-            "citations": 130,
+            "citations": 131,
             "publication_name": "Cochrane Handbook for Systematic Reviews of Interventions",
             "issn": "",
             "cover_date": "2019-01-01",
@@ -3952,7 +3952,7 @@
                     ]
                 }
             ],
-            "citations": 125,
+            "citations": 126,
             "publication_name": "Cochrane Handbook for Systematic Reviews of Interventions",
             "issn": "",
             "cover_date": "2019-01-01",
@@ -3996,7 +3996,7 @@
                     ]
                 }
             ],
-            "citations": 112,
+            "citations": 114,
             "publication_name": "Journal of Public Health (United Kingdom)",
             "issn": "17413842",
             "cover_date": "2022-12-01",
@@ -4248,7 +4248,7 @@
                     ]
                 }
             ],
-            "citations": 89,
+            "citations": 90,
             "publication_name": "BMC Medical Research Methodology",
             "issn": "",
             "cover_date": "2017-04-26",
@@ -4257,6 +4257,80 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1186/s12874-017-0349-x"
+        },
+        {
+            "title": "Mapping of reporting guidance for systematic reviews and meta-analyses generated a comprehensive item bank for future reporting guidelines",
+            "eid": "2-s2.0-85076027436",
+            "authors": [
+                {
+                    "scopus_id": "35794043800",
+                    "name": "Page M.J.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7202100187",
+                    "name": "McKenzie J.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "36041769200",
+                    "name": "Bossuyt P.M.",
+                    "affiliation_id": [
+                        "60002483"
+                    ]
+                },
+                {
+                    "scopus_id": "57203165324",
+                    "name": "Boutron I.",
+                    "affiliation_id": [
+                        "60000905",
+                        "60123796",
+                        "60029621"
+                    ]
+                },
+                {
+                    "scopus_id": "7102357062",
+                    "name": "Hoffmann T.",
+                    "affiliation_id": [
+                        "60031602"
+                    ]
+                },
+                {
+                    "scopus_id": "57218889692",
+                    "name": "Mulrow C.D.",
+                    "affiliation_id": [
+                        "60018573"
+                    ]
+                },
+                {
+                    "scopus_id": "15844201900",
+                    "name": "Shamseer L.",
+                    "affiliation_id": [
+                        "60028897"
+                    ]
+                },
+                {
+                    "scopus_id": "56350378600",
+                    "name": "Moher D.",
+                    "affiliation_id": [
+                        "60028897",
+                        "60002173"
+                    ]
+                }
+            ],
+            "citations": 86,
+            "publication_name": "Journal of Clinical Epidemiology",
+            "issn": "08954356",
+            "cover_date": "2020-02-01",
+            "venue": "Journal",
+            "volume": "118",
+            "issue": "",
+            "page_range": "60-68",
+            "doi": "10.1016/j.jclinepi.2019.11.010"
         },
         {
             "title": "Overviews of systematic reviews: Great promise, greater challenge",
@@ -4323,80 +4397,6 @@
             "issue": "2",
             "page_range": "156-163",
             "doi": "10.1002/jrsm.1535"
-        },
-        {
-            "title": "Mapping of reporting guidance for systematic reviews and meta-analyses generated a comprehensive item bank for future reporting guidelines",
-            "eid": "2-s2.0-85076027436",
-            "authors": [
-                {
-                    "scopus_id": "35794043800",
-                    "name": "Page M.J.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "7202100187",
-                    "name": "McKenzie J.E.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "36041769200",
-                    "name": "Bossuyt P.M.",
-                    "affiliation_id": [
-                        "60002483"
-                    ]
-                },
-                {
-                    "scopus_id": "57203165324",
-                    "name": "Boutron I.",
-                    "affiliation_id": [
-                        "60000905",
-                        "60123796",
-                        "60029621"
-                    ]
-                },
-                {
-                    "scopus_id": "7102357062",
-                    "name": "Hoffmann T.",
-                    "affiliation_id": [
-                        "60031602"
-                    ]
-                },
-                {
-                    "scopus_id": "57218889692",
-                    "name": "Mulrow C.D.",
-                    "affiliation_id": [
-                        "60018573"
-                    ]
-                },
-                {
-                    "scopus_id": "15844201900",
-                    "name": "Shamseer L.",
-                    "affiliation_id": [
-                        "60028897"
-                    ]
-                },
-                {
-                    "scopus_id": "56350378600",
-                    "name": "Moher D.",
-                    "affiliation_id": [
-                        "60028897",
-                        "60002173"
-                    ]
-                }
-            ],
-            "citations": 84,
-            "publication_name": "Journal of Clinical Epidemiology",
-            "issn": "08954356",
-            "cover_date": "2020-02-01",
-            "venue": "Journal",
-            "volume": "118",
-            "issue": "",
-            "page_range": "60-68",
-            "doi": "10.1016/j.jclinepi.2019.11.010"
         },
         {
             "title": "Evaluation of a Theory-Informed Implementation Intervention for the Management of Acute Low Back Pain in General Medical Practice: The IMPLEMENT Cluster Randomised Trial",
@@ -4643,7 +4643,7 @@
                     ]
                 }
             ],
-            "citations": 77,
+            "citations": 78,
             "publication_name": "Journal of Rehabilitation Medicine",
             "issn": "16501977",
             "cover_date": "2019-01-01",
@@ -5029,7 +5029,7 @@
                     ]
                 }
             ],
-            "citations": 59,
+            "citations": 62,
             "publication_name": "Medicina Fluminensis",
             "issn": "18476864",
             "cover_date": "2021-12-01",
@@ -5038,6 +5038,56 @@
             "issue": "4",
             "page_range": "444-465",
             "doi": "10.21860/medflum2021_264903"
+        },
+        {
+            "title": "Improving Conduct and Reporting of Narrative Synthesis of Quantitative Data (ICONS-Quant): Protocol for a mixed methods study to develop a reporting guideline",
+            "eid": "2-s2.0-85052905775",
+            "authors": [
+                {
+                    "scopus_id": "57208408232",
+                    "name": "Campbell M.",
+                    "affiliation_id": [
+                        "60001490"
+                    ]
+                },
+                {
+                    "scopus_id": "6508254091",
+                    "name": "Katikireddi S.V.",
+                    "affiliation_id": [
+                        "60001490"
+                    ]
+                },
+                {
+                    "scopus_id": "7003405731",
+                    "name": "Sowden A.",
+                    "affiliation_id": [
+                        "60016418"
+                    ]
+                },
+                {
+                    "scopus_id": "7202100187",
+                    "name": "McKenzie J.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7102665660",
+                    "name": "Thomson H.",
+                    "affiliation_id": [
+                        "60001490"
+                    ]
+                }
+            ],
+            "citations": 58,
+            "publication_name": "BMJ Open",
+            "issn": "",
+            "cover_date": "2018-02-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "2",
+            "page_range": null,
+            "doi": "10.1136/bmjopen-2017-020064"
         },
         {
             "title": "A multimicronutrient-fortified seasoning powder enhances the hemoglobin, zinc, and iodine status of primary school children in North East Thailand: A randomized controlled trial of efficacy",
@@ -5244,56 +5294,6 @@
             "issue": "10",
             "page_range": "2677-2684",
             "doi": "10.1093/jn/131.10.2677"
-        },
-        {
-            "title": "Improving Conduct and Reporting of Narrative Synthesis of Quantitative Data (ICONS-Quant): Protocol for a mixed methods study to develop a reporting guideline",
-            "eid": "2-s2.0-85052905775",
-            "authors": [
-                {
-                    "scopus_id": "57208408232",
-                    "name": "Campbell M.",
-                    "affiliation_id": [
-                        "60001490"
-                    ]
-                },
-                {
-                    "scopus_id": "6508254091",
-                    "name": "Katikireddi S.V.",
-                    "affiliation_id": [
-                        "60001490"
-                    ]
-                },
-                {
-                    "scopus_id": "7003405731",
-                    "name": "Sowden A.",
-                    "affiliation_id": [
-                        "60016418"
-                    ]
-                },
-                {
-                    "scopus_id": "7202100187",
-                    "name": "McKenzie J.E.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "7102665660",
-                    "name": "Thomson H.",
-                    "affiliation_id": [
-                        "60001490"
-                    ]
-                }
-            ],
-            "citations": 57,
-            "publication_name": "BMJ Open",
-            "issn": "",
-            "cover_date": "2018-02-01",
-            "venue": "Journal",
-            "volume": "8",
-            "issue": "2",
-            "page_range": null,
-            "doi": "10.1136/bmjopen-2017-020064"
         },
         {
             "title": "Many scenarios exist for selective inclusion and reporting of results in randomized trials and systematic reviews",
@@ -5516,64 +5516,6 @@
             "doi": "10.1007/s40279-016-0582-1"
         },
         {
-            "title": "Exercise therapy, manual therapy, or both, for osteoarthritis of the hip or knee: A factorial randomised controlled trial protocol",
-            "eid": "2-s2.0-61549098740",
-            "authors": [
-                {
-                    "scopus_id": "9845732000",
-                    "name": "Abbott J.H.",
-                    "affiliation_id": [
-                        "60017311"
-                    ]
-                },
-                {
-                    "scopus_id": "26221015700",
-                    "name": "Clare M.C.",
-                    "affiliation_id": [
-                        "60100347"
-                    ]
-                },
-                {
-                    "scopus_id": "7202100187",
-                    "name": "McKenzie J.E.",
-                    "affiliation_id": [
-                        "60100347",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7202105768",
-                    "name": "David G.D.",
-                    "affiliation_id": [
-                        "60017311"
-                    ]
-                },
-                {
-                    "scopus_id": "7006692406",
-                    "name": "Theis J.C.",
-                    "affiliation_id": [
-                        "60100347"
-                    ]
-                },
-                {
-                    "scopus_id": "7403504435",
-                    "name": "Campbell A.J.",
-                    "affiliation_id": [
-                        "60100347"
-                    ]
-                }
-            ],
-            "citations": 53,
-            "publication_name": "Trials",
-            "issn": "17456215",
-            "cover_date": "2009-02-08",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1186/1745-6215-10-11"
-        },
-        {
             "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
             "eid": "2-s2.0-85146493250",
             "authors": [
@@ -5760,7 +5702,7 @@
                     ]
                 }
             ],
-            "citations": 52,
+            "citations": 53,
             "publication_name": "Revista Panamericana de Salud Publica/Pan American Journal of Public Health",
             "issn": "10204989",
             "cover_date": "2022-01-01",
@@ -5769,6 +5711,139 @@
             "issue": "",
             "page_range": null,
             "doi": "10.26633/RPSP.2022.112"
+        },
+        {
+            "title": "Design characteristics and statistical methods used in interrupted time series studies evaluating public health interventions: a review",
+            "eid": "2-s2.0-85081661607",
+            "authors": [
+                {
+                    "scopus_id": "57194609201",
+                    "name": "Turner S.L.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57226233017",
+                    "name": "Karahalios A.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "55555014400",
+                    "name": "Forbes A.B.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57221653809",
+                    "name": "Taljaard M.",
+                    "affiliation_id": [
+                        "60002173",
+                        "60028897"
+                    ]
+                },
+                {
+                    "scopus_id": "34769948000",
+                    "name": "Grimshaw J.M.",
+                    "affiliation_id": [
+                        "60002173",
+                        "60028897",
+                        "60028897"
+                    ]
+                },
+                {
+                    "scopus_id": "57202414600",
+                    "name": "Cheng A.C.",
+                    "affiliation_id": [
+                        "60012932",
+                        "112739603"
+                    ]
+                },
+                {
+                    "scopus_id": "7006671378",
+                    "name": "Bero L.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7202100187",
+                    "name": "McKenzie J.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 53,
+            "publication_name": "Journal of Clinical Epidemiology",
+            "issn": "08954356",
+            "cover_date": "2020-06-01",
+            "venue": "Journal",
+            "volume": "122",
+            "issue": "",
+            "page_range": "1-11",
+            "doi": "10.1016/j.jclinepi.2020.02.006"
+        },
+        {
+            "title": "Exercise therapy, manual therapy, or both, for osteoarthritis of the hip or knee: A factorial randomised controlled trial protocol",
+            "eid": "2-s2.0-61549098740",
+            "authors": [
+                {
+                    "scopus_id": "9845732000",
+                    "name": "Abbott J.H.",
+                    "affiliation_id": [
+                        "60017311"
+                    ]
+                },
+                {
+                    "scopus_id": "26221015700",
+                    "name": "Clare M.C.",
+                    "affiliation_id": [
+                        "60100347"
+                    ]
+                },
+                {
+                    "scopus_id": "7202100187",
+                    "name": "McKenzie J.E.",
+                    "affiliation_id": [
+                        "60100347",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7202105768",
+                    "name": "David G.D.",
+                    "affiliation_id": [
+                        "60017311"
+                    ]
+                },
+                {
+                    "scopus_id": "7006692406",
+                    "name": "Theis J.C.",
+                    "affiliation_id": [
+                        "60100347"
+                    ]
+                },
+                {
+                    "scopus_id": "7403504435",
+                    "name": "Campbell A.J.",
+                    "affiliation_id": [
+                        "60100347"
+                    ]
+                }
+            ],
+            "citations": 53,
+            "publication_name": "Trials",
+            "issn": "17456215",
+            "cover_date": "2009-02-08",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1186/1745-6215-10-11"
         },
         {
             "title": "A micronutrient-fortified seasoning powder reduces morbidity and improves short-term cognitive function, but has no effect on anthropometric measures in primary school children in northeast Thailand: A randomized controlled trial",
@@ -5855,81 +5930,6 @@
             "issue": "6",
             "page_range": "1715-1722",
             "doi": "10.1093/ajcn/87.6.1715"
-        },
-        {
-            "title": "Design characteristics and statistical methods used in interrupted time series studies evaluating public health interventions: a review",
-            "eid": "2-s2.0-85081661607",
-            "authors": [
-                {
-                    "scopus_id": "57194609201",
-                    "name": "Turner S.L.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57226233017",
-                    "name": "Karahalios A.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "55555014400",
-                    "name": "Forbes A.B.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57221653809",
-                    "name": "Taljaard M.",
-                    "affiliation_id": [
-                        "60002173",
-                        "60028897"
-                    ]
-                },
-                {
-                    "scopus_id": "34769948000",
-                    "name": "Grimshaw J.M.",
-                    "affiliation_id": [
-                        "60002173",
-                        "60028897",
-                        "60028897"
-                    ]
-                },
-                {
-                    "scopus_id": "57202414600",
-                    "name": "Cheng A.C.",
-                    "affiliation_id": [
-                        "60012932",
-                        "112739603"
-                    ]
-                },
-                {
-                    "scopus_id": "7006671378",
-                    "name": "Bero L.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7202100187",
-                    "name": "McKenzie J.E.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                }
-            ],
-            "citations": 51,
-            "publication_name": "Journal of Clinical Epidemiology",
-            "issn": "08954356",
-            "cover_date": "2020-06-01",
-            "venue": "Journal",
-            "volume": "122",
-            "issue": "",
-            "page_range": "1-11",
-            "doi": "10.1016/j.jclinepi.2020.02.006"
         },
         {
             "title": "Core domain and outcome measurement sets for shoulder pain trials are needed: Systematic review of physical therapy trials",
@@ -6262,6 +6262,66 @@
             "doi": "10.1016/j.nut.2004.07.004"
         },
         {
+            "title": "Comparison of six statistical methods for interrupted time series studies: empirical evaluation of 190 published series",
+            "eid": "2-s2.0-85109756930",
+            "authors": [
+                {
+                    "scopus_id": "57194609201",
+                    "name": "Turner S.L.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57226233017",
+                    "name": "Karahalios A.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "55555014400",
+                    "name": "Forbes A.B.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57221653809",
+                    "name": "Taljaard M.",
+                    "affiliation_id": [
+                        "60002173",
+                        "60028897"
+                    ]
+                },
+                {
+                    "scopus_id": "34769948000",
+                    "name": "Grimshaw J.M.",
+                    "affiliation_id": [
+                        "60002173",
+                        "60028897",
+                        "60193402"
+                    ]
+                },
+                {
+                    "scopus_id": "7202100187",
+                    "name": "McKenzie J.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 46,
+            "publication_name": "BMC medical research methodology",
+            "issn": "",
+            "cover_date": "2021-06-26",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "1",
+            "page_range": "134",
+            "doi": "10.1186/s12874-021-01306-w"
+        },
+        {
             "title": "Understanding the cluster randomised crossover design: A graphical illustraton of the components of variation and a sample size tutorial",
             "eid": "2-s2.0-85028070876",
             "authors": [
@@ -6356,66 +6416,6 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1186/1471-2288-5-33"
-        },
-        {
-            "title": "Comparison of six statistical methods for interrupted time series studies: empirical evaluation of 190 published series",
-            "eid": "2-s2.0-85109756930",
-            "authors": [
-                {
-                    "scopus_id": "57194609201",
-                    "name": "Turner S.L.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57226233017",
-                    "name": "Karahalios A.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "55555014400",
-                    "name": "Forbes A.B.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57221653809",
-                    "name": "Taljaard M.",
-                    "affiliation_id": [
-                        "60002173",
-                        "60028897"
-                    ]
-                },
-                {
-                    "scopus_id": "34769948000",
-                    "name": "Grimshaw J.M.",
-                    "affiliation_id": [
-                        "60002173",
-                        "60028897",
-                        "60193402"
-                    ]
-                },
-                {
-                    "scopus_id": "7202100187",
-                    "name": "McKenzie J.E.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                }
-            ],
-            "citations": 44,
-            "publication_name": "BMC medical research methodology",
-            "issn": "",
-            "cover_date": "2021-06-26",
-            "venue": "Journal",
-            "volume": "21",
-            "issue": "1",
-            "page_range": "134",
-            "doi": "10.1186/s12874-021-01306-w"
         },
         {
             "title": "Retrieval of overviews of systematic reviews in MEDLINE was improved by the development of an objectively derived and validated search strategy",
@@ -7042,7 +7042,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 35,
+            "citations": 36,
             "publication_name": "BMC Medicine",
             "issn": "",
             "cover_date": "2017-09-11",
@@ -7583,7 +7583,7 @@
                     ]
                 }
             ],
-            "citations": 28,
+            "citations": 29,
             "publication_name": "Systematic Reviews",
             "issn": "",
             "cover_date": "2020-02-13",
@@ -7834,7 +7834,7 @@
                     ]
                 }
             ],
-            "citations": 25,
+            "citations": 26,
             "publication_name": "PLoS Medicine",
             "issn": "15491277",
             "cover_date": "2015-01-01",
@@ -8090,7 +8090,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 23,
+            "citations": 24,
             "publication_name": "Systematic reviews",
             "issn": "",
             "cover_date": "2013-01-01",
@@ -10089,7 +10089,7 @@
                     "scopus_id": "24773047300",
                     "name": "Bosch M.",
                     "affiliation_id": [
-                        "60189663"
+                        "60012932"
                     ]
                 },
                 {
@@ -10110,35 +10110,35 @@
                     "scopus_id": "6506094145",
                     "name": "Tavender E.J.",
                     "affiliation_id": [
-                        "60189663"
+                        "60012932"
                     ]
                 },
                 {
                     "scopus_id": "11539872800",
                     "name": "Bragge P.",
                     "affiliation_id": [
-                        "60189663"
+                        "60012932"
                     ]
                 },
                 {
                     "scopus_id": "37113825700",
                     "name": "Chau M.",
                     "affiliation_id": [
-                        "60189663"
+                        "60012932"
                     ]
                 },
                 {
                     "scopus_id": "25636134700",
                     "name": "Pitt V.",
                     "affiliation_id": [
-                        "60189663"
+                        "60012932"
                     ]
                 },
                 {
                     "scopus_id": "7202782764",
                     "name": "Rosenfeld J.V.",
                     "affiliation_id": [
-                        "60019578"
+                        "60012932"
                     ]
                 },
                 {
@@ -10526,93 +10526,6 @@
             "doi": "10.1136/bmjopen-2018-022912"
         },
         {
-            "title": "Identifying Outcomes of Importance to Communication and Participation",
-            "eid": "2-s2.0-84886836060",
-            "authors": [
-                {
-                    "scopus_id": "7402766207",
-                    "name": "Hill S.",
-                    "affiliation_id": [
-                        "60006925"
-                    ]
-                },
-                {
-                    "scopus_id": "35208531700",
-                    "name": "Lowe D.B.",
-                    "affiliation_id": [
-                        "60006925"
-                    ]
-                },
-                {
-                    "scopus_id": "7202100187",
-                    "name": "Mckenzie J.E.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "The Knowledgeable Patient: Communication and Participation in Health",
-            "issn": "",
-            "cover_date": "2011-09-22",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "40-53",
-            "doi": "10.1002/9781444346855.ch4"
-        },
-        {
-            "title": "Protocol for economic evaluation alongside the IMPLEMENT cluster randomised controlled trial",
-            "eid": "2-s2.0-42149107644",
-            "authors": [
-                {
-                    "scopus_id": "9249818100",
-                    "name": "Mortimer D.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60031846"
-                    ]
-                },
-                {
-                    "scopus_id": "55553742828",
-                    "name": "French S.D.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7202100187",
-                    "name": "McKenzie J.E.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "57193828356",
-                    "name": "O'Connor D.A.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "57203575537",
-                    "name": "Green S.E.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "Implementation Science",
-            "issn": "",
-            "cover_date": "2008-04-21",
-            "venue": "Journal",
-            "volume": "3",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1186/1748-5908-3-12"
-        },
-        {
             "title": "Mortality risks associated with floods in 761 communities worldwide: time series study",
             "eid": "2-s2.0-85174352727",
             "authors": [
@@ -10730,7 +10643,7 @@
                     ]
                 }
             ],
-            "citations": 9,
+            "citations": 10,
             "publication_name": "BMJ",
             "issn": "09598146",
             "cover_date": "2023-01-01",
@@ -10739,6 +10652,93 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1136/bmj-2023-075081"
+        },
+        {
+            "title": "Identifying Outcomes of Importance to Communication and Participation",
+            "eid": "2-s2.0-84886836060",
+            "authors": [
+                {
+                    "scopus_id": "7402766207",
+                    "name": "Hill S.",
+                    "affiliation_id": [
+                        "60006925"
+                    ]
+                },
+                {
+                    "scopus_id": "35208531700",
+                    "name": "Lowe D.B.",
+                    "affiliation_id": [
+                        "60006925"
+                    ]
+                },
+                {
+                    "scopus_id": "7202100187",
+                    "name": "Mckenzie J.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "The Knowledgeable Patient: Communication and Participation in Health",
+            "issn": "",
+            "cover_date": "2011-09-22",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "40-53",
+            "doi": "10.1002/9781444346855.ch4"
+        },
+        {
+            "title": "Protocol for economic evaluation alongside the IMPLEMENT cluster randomised controlled trial",
+            "eid": "2-s2.0-42149107644",
+            "authors": [
+                {
+                    "scopus_id": "9249818100",
+                    "name": "Mortimer D.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60031846"
+                    ]
+                },
+                {
+                    "scopus_id": "55553742828",
+                    "name": "French S.D.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7202100187",
+                    "name": "McKenzie J.E.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57193828356",
+                    "name": "O'Connor D.A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57203575537",
+                    "name": "Green S.E.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "Implementation Science",
+            "issn": "",
+            "cover_date": "2008-04-21",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/1748-5908-3-12"
         },
         {
             "title": "Extension of the PRISMA 2020 statement for living systematic reviews (LSRs): protocol",
@@ -13847,6 +13847,64 @@
             "doi": "10.1016/j.jclinepi.2024.111281"
         },
         {
+            "title": "Comparison of statistical methods used to meta-analyse results from interrupted time series studies: an empirical study",
+            "eid": "2-s2.0-85184788985",
+            "authors": [
+                {
+                    "scopus_id": "57218212961",
+                    "name": "Korevaar E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57194609201",
+                    "name": "Turner S.L.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "55555014400",
+                    "name": "Forbes A.B.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57226233017",
+                    "name": "Karahalios A.",
+                    "affiliation_id": [
+                        "60118547"
+                    ]
+                },
+                {
+                    "scopus_id": "57221653809",
+                    "name": "Taljaard M.",
+                    "affiliation_id": [
+                        "60002173",
+                        "60028897"
+                    ]
+                },
+                {
+                    "scopus_id": "7202100187",
+                    "name": "McKenzie J.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "BMC Medical Research Methodology",
+            "issn": "",
+            "cover_date": "2024-12-01",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s12874-024-02147-z"
+        },
+        {
             "title": "Evaluation of statistical methods used to meta-analyse results from interrupted time series studies: A simulation study",
             "eid": "2-s2.0-85171687690",
             "authors": [
@@ -14305,64 +14363,6 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1002/jrsm.1716"
-        },
-        {
-            "title": "Comparison of statistical methods used to meta-analyse results from interrupted time series studies: an empirical study",
-            "eid": "2-s2.0-85184788985",
-            "authors": [
-                {
-                    "scopus_id": "57218212961",
-                    "name": "Korevaar E.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57194609201",
-                    "name": "Turner S.L.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "55555014400",
-                    "name": "Forbes A.B.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57226233017",
-                    "name": "Karahalios A.",
-                    "affiliation_id": [
-                        "60118547"
-                    ]
-                },
-                {
-                    "scopus_id": "57221653809",
-                    "name": "Taljaard M.",
-                    "affiliation_id": [
-                        "60002173",
-                        "60028897"
-                    ]
-                },
-                {
-                    "scopus_id": "7202100187",
-                    "name": "McKenzie J.E.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                }
-            ],
-            "citations": 0,
-            "publication_name": "BMC Medical Research Methodology",
-            "issn": "",
-            "cover_date": "2024-12-01",
-            "venue": "Journal",
-            "volume": "24",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1186/s12874-024-02147-z"
         },
         {
             "title": "Investigation of bias due to selective inclusion of study effect estimates in meta-analyses of nutrition research",
@@ -14851,6 +14851,5 @@
             "$": "Biochemistry, Genetics and Molecular Biology (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:06:18",
-    "c-score": null
+    "date fetched": "2024-07-12 19:34:43"
 }

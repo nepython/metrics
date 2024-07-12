@@ -1,0 +1,2801 @@
+{
+    "scopus_id": "6701668518",
+    "name": "Trudinger, Neil S.",
+    "publications": [
+        {
+            "title": "On harnack type inequalities and their application to quasilinear elliptic equations",
+            "eid": "2-s2.0-84981761946",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 612,
+            "publication_name": "Communications on Pure and Applied Mathematics",
+            "issn": "00103640",
+            "cover_date": "1967-01-01",
+            "venue": "Journal",
+            "volume": "20",
+            "issue": "4",
+            "page_range": "721-747",
+            "doi": "10.1002/cpa.3160200406"
+        },
+        {
+            "title": "Regularity of potential functions of the optimal transportation problem",
+            "eid": "2-s2.0-22944479926",
+            "authors": [
+                {
+                    "scopus_id": "14050641900",
+                    "name": "Ma X.N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 235,
+            "publication_name": "Archive for Rational Mechanics and Analysis",
+            "issn": "00039527",
+            "cover_date": "2005-08-01",
+            "venue": "Journal",
+            "volume": "177",
+            "issue": "2",
+            "page_range": "151-183",
+            "doi": "10.1007/s00205-005-0362-9"
+        },
+        {
+            "title": "On the Dirichlet problem for Hessian equations",
+            "eid": "2-s2.0-0000246937",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 227,
+            "publication_name": "Acta Mathematica",
+            "issn": "00015962",
+            "cover_date": "1995-09-01",
+            "venue": "Journal",
+            "volume": "175",
+            "issue": "2",
+            "page_range": "151-164",
+            "doi": "10.1007/BF02393303"
+        },
+        {
+            "title": "Orlicz-Sobolev spaces and imbedding theorems",
+            "eid": "2-s2.0-49649151832",
+            "authors": [
+                {
+                    "scopus_id": "24569249100",
+                    "name": "Donaldson T.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 226,
+            "publication_name": "Journal of Functional Analysis",
+            "issn": "00221236",
+            "cover_date": "1971-01-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "1",
+            "page_range": "52-75",
+            "doi": "10.1016/0022-1236(71)90018-8"
+        },
+        {
+            "title": "Pointwise estimates and quasilinear parabolic equations",
+            "eid": "2-s2.0-84981749879",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 196,
+            "publication_name": "Communications on Pure and Applied Mathematics",
+            "issn": "00103640",
+            "cover_date": "1968-01-01",
+            "venue": "Journal",
+            "volume": "21",
+            "issue": "3",
+            "page_range": "205-226",
+            "doi": "10.1002/cpa.3160210302"
+        },
+        {
+            "title": "Hessian measures II",
+            "eid": "2-s2.0-0033235420",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 173,
+            "publication_name": "Annals of Mathematics",
+            "issn": "0003486X",
+            "cover_date": "1999-01-01",
+            "venue": "Journal",
+            "volume": "150",
+            "issue": "2",
+            "page_range": "579-604",
+            "doi": "10.2307/121089"
+        },
+        {
+            "title": "The Dirichlet problem for the prescribed curvature equations",
+            "eid": "2-s2.0-0006460991",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60007363",
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 147,
+            "publication_name": "Archive for Rational Mechanics and Analysis",
+            "issn": "00039527",
+            "cover_date": "1990-01-01",
+            "venue": "Journal",
+            "volume": "111",
+            "issue": "2",
+            "page_range": "153-179",
+            "doi": "10.1007/BF00375406"
+        },
+        {
+            "title": "Nonlinear oblique boundary value problems for nonlinear elliptic equations",
+            "eid": "2-s2.0-84967800148",
+            "authors": [
+                {
+                    "scopus_id": "7003757329",
+                    "name": "Lieberman G.M.",
+                    "affiliation_id": [
+                        "60004354",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60004354",
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 144,
+            "publication_name": "Transactions of the American Mathematical Society",
+            "issn": "00029947",
+            "cover_date": "1986-01-01",
+            "venue": "Journal",
+            "volume": "295",
+            "issue": "2",
+            "page_range": "509-546",
+            "doi": "10.1090/S0002-9947-1986-0833695-6"
+        },
+        {
+            "title": "On the weak continuity of elliptic operators and applications to potential theory",
+            "eid": "2-s2.0-0036322680",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 144,
+            "publication_name": "American Journal of Mathematics",
+            "issn": "00029327",
+            "cover_date": "2002-01-01",
+            "venue": "Journal",
+            "volume": "124",
+            "issue": "2",
+            "page_range": "369-410",
+            "doi": "10.1353/ajm.2002.0012"
+        },
+        {
+            "title": "On the second boundary value problem for monge-amp\u00e8re type equations and optimal transportation",
+            "eid": "2-s2.0-66149192495",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 124,
+            "publication_name": "Annali della Scuola Normale - Classe di Scienze",
+            "issn": "0391173X",
+            "cover_date": "2009-10-19",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "1",
+            "page_range": "143-174",
+            "doi": ""
+        },
+        {
+            "title": "Harnack inequalities for quasi-minima of variational integrals",
+            "eid": "2-s2.0-85051744718",
+            "authors": [
+                {
+                    "scopus_id": "16457168900",
+                    "name": "Di Benedetto E.",
+                    "affiliation_id": [
+                        "60021121"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 115,
+            "publication_name": "Annales de l'Institut Henri Poincare (C) Analyse Non Lineaire",
+            "issn": "02941449",
+            "cover_date": "1984-07-01",
+            "venue": "Journal",
+            "volume": "1",
+            "issue": "4",
+            "page_range": "295-308",
+            "doi": "10.1016/S0294-1449(16)30424-3"
+        },
+        {
+            "title": "The Bernstein problem for affine maximal hypersurfaces",
+            "eid": "2-s2.0-0034348781",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 110,
+            "publication_name": "Inventiones Mathematicae",
+            "issn": "00209910",
+            "cover_date": "2000-01-01",
+            "venue": "Journal",
+            "volume": "140",
+            "issue": "2",
+            "page_range": "399-422",
+            "doi": "10.1007/s002220000059"
+        },
+        {
+            "title": "Weak solutions of Hessian equations",
+            "eid": "2-s2.0-0000984499",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 101,
+            "publication_name": "Communications in Partial Differential Equations",
+            "issn": "03605302",
+            "cover_date": "1997-12-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "7-8",
+            "page_range": "1251-1261",
+            "doi": ""
+        },
+        {
+            "title": "Local estimates for subsolutions and supersolutions of general second order elliptic quasilinear equations",
+            "eid": "2-s2.0-0040030389",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60012708"
+                    ]
+                }
+            ],
+            "citations": 97,
+            "publication_name": "Inventiones Mathematicae",
+            "issn": "00209910",
+            "cover_date": "1980-02-01",
+            "venue": "Journal",
+            "volume": "61",
+            "issue": "1",
+            "page_range": "67-79",
+            "doi": "10.1007/BF01389895"
+        },
+        {
+            "title": "Boundary regularity for the Monge-Amp\u00e8re and affine maximal surface equations",
+            "eid": "2-s2.0-49749101596",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 96,
+            "publication_name": "Annals of Mathematics",
+            "issn": "0003486X",
+            "cover_date": "2008-01-01",
+            "venue": "Journal",
+            "volume": "167",
+            "issue": "3",
+            "page_range": "993-1028",
+            "doi": "10.4007/annals.2008.167.993"
+        },
+        {
+            "title": "Fully nonlinear, uniformly elliptic equations under natural structure conditions",
+            "eid": "2-s2.0-84967707828",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 92,
+            "publication_name": "Transactions of the American Mathematical Society",
+            "issn": "00029947",
+            "cover_date": "1983-01-01",
+            "venue": "Journal",
+            "volume": "278",
+            "issue": "2",
+            "page_range": "751-769",
+            "doi": "10.1090/S0002-9947-1983-0701522-0"
+        },
+        {
+            "title": "The yamabe problem for higher order curvatures",
+            "eid": "2-s2.0-36849036198",
+            "authors": [
+                {
+                    "scopus_id": "7103379326",
+                    "name": "Sheng W.M.",
+                    "affiliation_id": [
+                        "60003970"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.J.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60091946"
+                    ]
+                }
+            ],
+            "citations": 90,
+            "publication_name": "Journal of Differential Geometry",
+            "issn": "0022040X",
+            "cover_date": "2007-01-01",
+            "venue": "Journal",
+            "volume": "77",
+            "issue": "3",
+            "page_range": "515-553",
+            "doi": "10.4310/jdg/1193074903"
+        },
+        {
+            "title": "The neumann problem for equations of monge\u2010amp\u00e8re type",
+            "eid": "2-s2.0-84990557141",
+            "authors": [
+                {
+                    "scopus_id": "7005987058",
+                    "name": "Lions P.",
+                    "affiliation_id": [
+                        "60008924"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7003608018",
+                    "name": "Urbas J.",
+                    "affiliation_id": [
+                        "60003261"
+                    ]
+                }
+            ],
+            "citations": 89,
+            "publication_name": "Communications on Pure and Applied Mathematics",
+            "issn": "00103640",
+            "cover_date": "1986-01-01",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "4",
+            "page_range": "539-563",
+            "doi": "10.1002/cpa.3160390405"
+        },
+        {
+            "title": "On some inequalities for elementary symmetric functions",
+            "eid": "2-s2.0-84971690579",
+            "authors": [
+                {
+                    "scopus_id": "57189528805",
+                    "name": "Lin m.",
+                    "affiliation_id": [
+                        "60007363"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 88,
+            "publication_name": "Bulletin of the Australian Mathematical Society",
+            "issn": "00049727",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "50",
+            "issue": "2",
+            "page_range": "317-326",
+            "doi": "10.1017/S0004972700013770"
+        },
+        {
+            "title": "On the Monge mass transfer problem",
+            "eid": "2-s2.0-0001823116",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 81,
+            "publication_name": "Calculus of Variations and Partial Differential Equations",
+            "issn": "09442669",
+            "cover_date": "2001-01-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "1",
+            "page_range": "19-31",
+            "doi": "10.1007/PL00009922"
+        },
+        {
+            "title": "On the regularity of generalized solutions of linear, non-uniformly elliptic equations",
+            "eid": "2-s2.0-34250467463",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60029445"
+                    ]
+                }
+            ],
+            "citations": 76,
+            "publication_name": "Archive for Rational Mechanics and Analysis",
+            "issn": "00039527",
+            "cover_date": "1971-01-01",
+            "venue": "Journal",
+            "volume": "42",
+            "issue": "1",
+            "page_range": "50-62",
+            "doi": "10.1007/BF00282317"
+        },
+        {
+            "title": "The affine plateau problem",
+            "eid": "2-s2.0-18144379864",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 69,
+            "publication_name": "Journal of the American Mathematical Society",
+            "issn": "08940347",
+            "cover_date": "2005-04-01",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "2",
+            "page_range": "253-289",
+            "doi": "10.1090/S0894-0347-05-00475-3"
+        },
+        {
+            "title": "On new isoperimetric inequalities and symmetrization",
+            "eid": "2-s2.0-0031286702",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 68,
+            "publication_name": "Journal fur die Reine und Angewandte Mathematik",
+            "issn": "00754102",
+            "cover_date": "1997-12-01",
+            "venue": "Journal",
+            "volume": "488",
+            "issue": "",
+            "page_range": "203-220",
+            "doi": ""
+        },
+        {
+            "title": "Isoperimetric inequalities for quermassintegrals",
+            "eid": "2-s2.0-85012298362",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 66,
+            "publication_name": "Annales de l'Institut Henri Poincare (C) Analyse Non Lineaire",
+            "issn": "02941449",
+            "cover_date": "1994-07-01",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "4",
+            "page_range": "411-425",
+            "doi": "10.1016/S0294-1449(16)30181-0"
+        },
+        {
+            "title": "Hessian measures III",
+            "eid": "2-s2.0-0036695926",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 64,
+            "publication_name": "Journal of Functional Analysis",
+            "issn": "00221236",
+            "cover_date": "2002-08-01",
+            "venue": "Journal",
+            "volume": "193",
+            "issue": "1",
+            "page_range": "1-23",
+            "doi": "10.1006/jfan.2001.3925"
+        },
+        {
+            "title": "On the Dirichlet problem for degenerate Monge-Amp\u00e8re equations",
+            "eid": "2-s2.0-0011610797",
+            "authors": [
+                {
+                    "scopus_id": "59076700600",
+                    "name": "Guan P.",
+                    "affiliation_id": [
+                        "60031828",
+                        "60031828"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.J.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 60,
+            "publication_name": "Acta Mathematica",
+            "issn": "00015962",
+            "cover_date": "1999-01-01",
+            "venue": "Journal",
+            "volume": "182",
+            "issue": "1",
+            "page_range": "87-104",
+            "doi": "10.1007/BF02392824"
+        },
+        {
+            "title": "The Dirichlet problem for the equation of prescribed Gauss curvature",
+            "eid": "2-s2.0-84971113467",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7003608018",
+                    "name": "Urbas J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 56,
+            "publication_name": "Bulletin of the Australian Mathematical Society",
+            "issn": "00049727",
+            "cover_date": "1983-01-01",
+            "venue": "Journal",
+            "volume": "28",
+            "issue": "2",
+            "page_range": "217-231",
+            "doi": "10.1017/S000497270002089X"
+        },
+        {
+            "title": "On strict convexity and continuous differentiability of potential functions in optimal transportation",
+            "eid": "2-s2.0-66149185509",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 56,
+            "publication_name": "Archive for Rational Mechanics and Analysis",
+            "issn": "00039527",
+            "cover_date": "2009-06-01",
+            "venue": "Journal",
+            "volume": "192",
+            "issue": "3",
+            "page_range": "403-418",
+            "doi": "10.1007/s00205-008-0147-z"
+        },
+        {
+            "title": "Holder gradient estimates for fully nonlinear elliptic equations",
+            "eid": "2-s2.0-84976123867",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60000578"
+                    ]
+                }
+            ],
+            "citations": 55,
+            "publication_name": "Proceedings of the Royal Society of Edinburgh: Section A Mathematics",
+            "issn": "03082105",
+            "cover_date": "1988-01-01",
+            "venue": "Journal",
+            "volume": "108",
+            "issue": "1-2",
+            "page_range": "57-65",
+            "doi": "10.1017/S0308210500026512"
+        },
+        {
+            "title": "The Dirichlet Problem for Degenerate Hessian Equations",
+            "eid": "2-s2.0-1642310857",
+            "authors": [
+                {
+                    "scopus_id": "6507200858",
+                    "name": "Ivochkina N.",
+                    "affiliation_id": [
+                        "60105071"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 51,
+            "publication_name": "Communications in Partial Differential Equations",
+            "issn": "03605302",
+            "cover_date": "2005-01-01",
+            "venue": "Journal",
+            "volume": "29",
+            "issue": "1-2",
+            "page_range": "219-235",
+            "doi": "10.1081/pde-120028851"
+        },
+        {
+            "title": "Discrete methods for fully nonlinear elliptic equations",
+            "eid": "2-s2.0-0026821779",
+            "authors": [
+                {
+                    "scopus_id": "7201654783",
+                    "name": "Kuo H.",
+                    "affiliation_id": [
+                        "60017511"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60017511"
+                    ]
+                }
+            ],
+            "citations": 50,
+            "publication_name": "SIAM Journal on Numerical Analysis",
+            "issn": "00361429",
+            "cover_date": "1992-01-01",
+            "venue": "Journal",
+            "volume": "29",
+            "issue": "1",
+            "page_range": "123-135",
+            "doi": "10.1137/0729008"
+        },
+        {
+            "title": "Recent developments in elliptic partial differential equations of Monge-Amp\u00e8re type",
+            "eid": "2-s2.0-84878048470",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 47,
+            "publication_name": "International Congress of Mathematicians, ICM 2006",
+            "issn": "",
+            "cover_date": "2006-12-01",
+            "venue": "Conference Proceeding",
+            "volume": "3",
+            "issue": "",
+            "page_range": "291-301",
+            "doi": ""
+        },
+        {
+            "title": "Interior C<sup>2,\u03b1</sup> regularity for potential functions in optimal transportation",
+            "eid": "2-s2.0-74949099148",
+            "authors": [
+                {
+                    "scopus_id": "7410111991",
+                    "name": "Liu J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 45,
+            "publication_name": "Communications in Partial Differential Equations",
+            "issn": "03605302",
+            "cover_date": "2009-01-01",
+            "venue": "Journal",
+            "volume": "35",
+            "issue": "1",
+            "page_range": "165-184",
+            "doi": "10.1080/03605300903236609"
+        },
+        {
+            "title": "On the sharpness of a limiting case of the Sobolev imbedding theorem",
+            "eid": "2-s2.0-0005553320",
+            "authors": [
+                {
+                    "scopus_id": "7006348402",
+                    "name": "Hempel J.",
+                    "affiliation_id": [
+                        "60017837"
+                    ]
+                },
+                {
+                    "scopus_id": "57151899600",
+                    "name": "Morris G.",
+                    "affiliation_id": [
+                        "60017837"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 45,
+            "publication_name": "Bulletin of the Australian Mathematical Society",
+            "issn": "00049727",
+            "cover_date": "1970-01-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "3",
+            "page_range": "369-373",
+            "doi": "10.1017/S0004972700046074"
+        },
+        {
+            "title": "Linear oblique derivative problems for the uniformly elliptic Hamilton-Jacobi-Bellman equation",
+            "eid": "2-s2.0-34250122536",
+            "authors": [
+                {
+                    "scopus_id": "7005987058",
+                    "name": "Lions P.",
+                    "affiliation_id": [
+                        "60008924"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 44,
+            "publication_name": "Mathematische Zeitschrift",
+            "issn": "00255874",
+            "cover_date": "1986-03-01",
+            "venue": "Journal",
+            "volume": "191",
+            "issue": "1",
+            "page_range": "1-15",
+            "doi": "10.1007/BF01163605"
+        },
+        {
+            "title": "Linear elliptic difference inequalities with random coefficients",
+            "eid": "2-s2.0-0013024444",
+            "authors": [
+                {
+                    "scopus_id": "7201654783",
+                    "name": "Kuo H.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 42,
+            "publication_name": "Mathematics of Computation",
+            "issn": "00255718",
+            "cover_date": "1990-01-01",
+            "venue": "Journal",
+            "volume": "55",
+            "issue": "191",
+            "page_range": "37-53",
+            "doi": "10.1090/S0025-5718-1990-1023049-9"
+        },
+        {
+            "title": "On the local theory of prescribed Jacobian equations",
+            "eid": "2-s2.0-84886492837",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 40,
+            "publication_name": "Discrete and Continuous Dynamical Systems- Series A",
+            "issn": "10780947",
+            "cover_date": "2014-04-01",
+            "venue": "Journal",
+            "volume": "34",
+            "issue": "4",
+            "page_range": "1663-1681",
+            "doi": "10.3934/dcds.2014.34.1663"
+        },
+        {
+            "title": "Affine complete locally convex hypersurfaces",
+            "eid": "2-s2.0-0036026042",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 40,
+            "publication_name": "Inventiones Mathematicae",
+            "issn": "00209910",
+            "cover_date": "2002-12-01",
+            "venue": "Journal",
+            "volume": "150",
+            "issue": "1",
+            "page_range": "45-60",
+            "doi": "10.1007/s00222-002-0229-8"
+        },
+        {
+            "title": "On the Dirichlet problem for Monge-Amp\u00e8re type equations",
+            "eid": "2-s2.0-84894583622",
+            "authors": [
+                {
+                    "scopus_id": "55626715800",
+                    "name": "Jiang F.",
+                    "affiliation_id": [
+                        "60010080"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "55683799900",
+                    "name": "Yang X.",
+                    "affiliation_id": [
+                        "60010080"
+                    ]
+                }
+            ],
+            "citations": 37,
+            "publication_name": "Calculus of Variations and Partial Differential Equations",
+            "issn": "09442669",
+            "cover_date": "2014-03-01",
+            "venue": "Journal",
+            "volume": "49",
+            "issue": "3-4",
+            "page_range": "1223-1236",
+            "doi": "10.1007/s00526-013-0619-3"
+        },
+        {
+            "title": "On second derivative estimates for equations of Monge-Amp\u00e8re type",
+            "eid": "2-s2.0-84974054589",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7003608018",
+                    "name": "Urbas J.I.e.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 34,
+            "publication_name": "Bulletin of the Australian Mathematical Society",
+            "issn": "00049727",
+            "cover_date": "1984-01-01",
+            "venue": "Journal",
+            "volume": "30",
+            "issue": "3",
+            "page_range": "321-334",
+            "doi": "10.1017/S0004972700002069"
+        },
+        {
+            "title": "Gradient estimates and mean curvature",
+            "eid": "2-s2.0-0013510449",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 34,
+            "publication_name": "Mathematische Zeitschrift",
+            "issn": "00255874",
+            "cover_date": "1973-06-01",
+            "venue": "Journal",
+            "volume": "131",
+            "issue": "2",
+            "page_range": "165-175",
+            "doi": "10.1007/BF01187224"
+        },
+        {
+            "title": "Oblique boundary value problems for augmented Hessian equations II",
+            "eid": "2-s2.0-85009228770",
+            "authors": [
+                {
+                    "scopus_id": "55626715800",
+                    "name": "Jiang F.",
+                    "affiliation_id": [
+                        "60025278"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 33,
+            "publication_name": "Nonlinear Analysis, Theory, Methods and Applications",
+            "issn": "0362546X",
+            "cover_date": "2017-05-01",
+            "venue": "Journal",
+            "volume": "154",
+            "issue": "",
+            "page_range": "148-173",
+            "doi": "10.1016/j.na.2016.08.007"
+        },
+        {
+            "title": "Maximum principles for linear, non-uniformly elliptic operators with measurable coefficients",
+            "eid": "2-s2.0-0039437343",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 33,
+            "publication_name": "Mathematische Zeitschrift",
+            "issn": "00255874",
+            "cover_date": "1977-10-01",
+            "venue": "Journal",
+            "volume": "156",
+            "issue": "3",
+            "page_range": "291-301",
+            "doi": "10.1007/BF01214416"
+        },
+        {
+            "title": "On degenerate fully nonlinear elliptic equations in balls",
+            "eid": "2-s2.0-84973968823",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 32,
+            "publication_name": "Bulletin of the Australian Mathematical Society",
+            "issn": "00049727",
+            "cover_date": "1987-01-01",
+            "venue": "Journal",
+            "volume": "35",
+            "issue": "2",
+            "page_range": "299-307",
+            "doi": "10.1017/S0004972700013253"
+        },
+        {
+            "title": "On locally convex hypersurfaces with boundary",
+            "eid": "2-s2.0-0036035391",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 32,
+            "publication_name": "Journal fur die Reine und Angewandte Mathematik",
+            "issn": "00754102",
+            "cover_date": "2002-01-01",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "551",
+            "page_range": "11-32",
+            "doi": "10.1515/crll.2002.078"
+        },
+        {
+            "title": "A Poincar\u00e9 type inequality for Hessian integrals",
+            "eid": "2-s2.0-0009438569",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 30,
+            "publication_name": "Calculus of Variations and Partial Differential Equations",
+            "issn": "09442669",
+            "cover_date": "1998-01-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "4",
+            "page_range": "315-328",
+            "doi": "10.1007/s005260050093"
+        },
+        {
+            "title": "On Harnack inequalities and singularities of admissible metrics in the Yamabe problem",
+            "eid": "2-s2.0-61349084181",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "Calculus of Variations and Partial Differential Equations",
+            "issn": "09442669",
+            "cover_date": "2009-07-01",
+            "venue": "Journal",
+            "volume": "35",
+            "issue": "3",
+            "page_range": "317-338",
+            "doi": "10.1007/s00526-008-0207-0"
+        },
+        {
+            "title": "Quasilinear elliptic equations with signed measure data",
+            "eid": "2-s2.0-60949109299",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 28,
+            "publication_name": "Discrete and Continuous Dynamical Systems",
+            "issn": "10780947",
+            "cover_date": "2009-01-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "1-2",
+            "page_range": "477-494",
+            "doi": "10.3934/dcds.2009.23.477"
+        },
+        {
+            "title": "On Pogorelov estimates in optimal transportation and geometric optics",
+            "eid": "2-s2.0-84920701111",
+            "authors": [
+                {
+                    "scopus_id": "55626715800",
+                    "name": "Jiang F.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "Bulletin of Mathematical Sciences",
+            "issn": "16643607",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "3",
+            "page_range": "407-431",
+            "doi": "10.1007/s13373-014-0055-5"
+        },
+        {
+            "title": "Oblique boundary value problems for augmented Hessian equations I",
+            "eid": "2-s2.0-85049780066",
+            "authors": [
+                {
+                    "scopus_id": "55626715800",
+                    "name": "Jiang F.",
+                    "affiliation_id": [
+                        "60064143"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60011664"
+                    ]
+                }
+            ],
+            "citations": 26,
+            "publication_name": "Bulletin of Mathematical Sciences",
+            "issn": "16643607",
+            "cover_date": "2018-08-01",
+            "venue": "Journal",
+            "volume": "8",
+            "issue": "2",
+            "page_range": "353-411",
+            "doi": "10.1007/s13373-018-0124-2"
+        },
+        {
+            "title": "Positive difference operators on general meshes",
+            "eid": "2-s2.0-0000483302",
+            "authors": [
+                {
+                    "scopus_id": "7201654783",
+                    "name": "Kuo H.J.",
+                    "affiliation_id": [
+                        "60017511"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 26,
+            "publication_name": "Duke Mathematical Journal",
+            "issn": "00127094",
+            "cover_date": "1996-05-01",
+            "venue": "Journal",
+            "volume": "83",
+            "issue": "2",
+            "page_range": "415-433",
+            "doi": "10.1215/S0012-7094-96-08314-3"
+        },
+        {
+            "title": "On the twice differentiability of viscosity solutions of nonlinear elliptic equations",
+            "eid": "2-s2.0-84974397186",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 23,
+            "publication_name": "Bulletin of the Australian Mathematical Society",
+            "issn": "00049727",
+            "cover_date": "1989-01-01",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "3",
+            "page_range": "443-447",
+            "doi": "10.1017/S0004972700003361"
+        },
+        {
+            "title": "On the Dirichlet problem for a class of augmented Hessian equations",
+            "eid": "2-s2.0-84920644834",
+            "authors": [
+                {
+                    "scopus_id": "55626715800",
+                    "name": "Jiang F.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "55683799900",
+                    "name": "Yang X.P.",
+                    "affiliation_id": [
+                        "60010080"
+                    ]
+                }
+            ],
+            "citations": 22,
+            "publication_name": "Journal of Differential Equations",
+            "issn": "00220396",
+            "cover_date": "2015-03-05",
+            "venue": "Journal",
+            "volume": "258",
+            "issue": "5",
+            "page_range": "1548-1576",
+            "doi": "10.1016/j.jde.2014.11.005"
+        },
+        {
+            "title": "The intermediate case of the yamabe problem for higher order curvatures",
+            "eid": "2-s2.0-77954343728",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 22,
+            "publication_name": "International Mathematics Research Notices",
+            "issn": "10737928",
+            "cover_date": "2010-12-01",
+            "venue": "Journal",
+            "volume": "2010",
+            "issue": "13",
+            "page_range": "2437-2458",
+            "doi": "10.1093/imrn/rnp227"
+        },
+        {
+            "title": "A form of Alexandrov-Fenchel inequality",
+            "eid": "2-s2.0-79952258733",
+            "authors": [
+                {
+                    "scopus_id": "59076700600",
+                    "name": "Guan P.",
+                    "affiliation_id": [
+                        "60002494"
+                    ]
+                },
+                {
+                    "scopus_id": "14050641900",
+                    "name": "Ma X.N.",
+                    "affiliation_id": [
+                        "60021200"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "55696655700",
+                    "name": "Zhu X.",
+                    "affiliation_id": [
+                        "60014966"
+                    ]
+                }
+            ],
+            "citations": 20,
+            "publication_name": "Pure and Applied Mathematics Quarterly",
+            "issn": "15588599",
+            "cover_date": "2010-01-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "4",
+            "page_range": "999-1012",
+            "doi": "10.4310/PAMQ.2010.v6.n4.a2"
+        },
+        {
+            "title": "On Pogorelov estimates for Monge-Amp\u00e8re type equations",
+            "eid": "2-s2.0-77955326794",
+            "authors": [
+                {
+                    "scopus_id": "7410111991",
+                    "name": "Liu J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 20,
+            "publication_name": "Discrete and Continuous Dynamical Systems",
+            "issn": "10780947",
+            "cover_date": "2010-11-01",
+            "venue": "Journal",
+            "volume": "28",
+            "issue": "3",
+            "page_range": "1121-1135",
+            "doi": "10.3934/dcds.2010.28.1121"
+        },
+        {
+            "title": "Evolving monotone difference operators on general space-time meshes",
+            "eid": "2-s2.0-0012935321",
+            "authors": [
+                {
+                    "scopus_id": "7201654783",
+                    "name": "Kuo H.J.",
+                    "affiliation_id": [
+                        "60017511"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 20,
+            "publication_name": "Duke Mathematical Journal",
+            "issn": "00127094",
+            "cover_date": "1998-01-01",
+            "venue": "Journal",
+            "volume": "91",
+            "issue": "3",
+            "page_range": "587-607",
+            "doi": "10.1215/S0012-7094-98-09122-0"
+        },
+        {
+            "title": "A priori bounds and necessary conditions for solvability of prescribed curvature equations",
+            "eid": "2-s2.0-51249176790",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 19,
+            "publication_name": "Manuscripta Mathematica",
+            "issn": "00252611",
+            "cover_date": "1990-12-01",
+            "venue": "Journal",
+            "volume": "67",
+            "issue": "1",
+            "page_range": "99-112",
+            "doi": "10.1007/BF02568424"
+        },
+        {
+            "title": "Harnack inequalities for nonuniformly elliptic divergence structure equations",
+            "eid": "2-s2.0-0007215298",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 19,
+            "publication_name": "Inventiones Mathematicae",
+            "issn": "00209910",
+            "cover_date": "1981-10-01",
+            "venue": "Journal",
+            "volume": "64",
+            "issue": "3",
+            "page_range": "517-531",
+            "doi": "10.1007/BF01389280"
+        },
+        {
+            "title": "Oblique boundary value problems for augmented Hessian equations III",
+            "eid": "2-s2.0-85064512146",
+            "authors": [
+                {
+                    "scopus_id": "55626715800",
+                    "name": "Jiang F.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60064143"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60011664"
+                    ]
+                }
+            ],
+            "citations": 17,
+            "publication_name": "Communications in Partial Differential Equations",
+            "issn": "03605302",
+            "cover_date": "2019-08-03",
+            "venue": "Journal",
+            "volume": "44",
+            "issue": "8",
+            "page_range": "708-748",
+            "doi": "10.1080/03605302.2019.1597113"
+        },
+        {
+            "title": "On the Dirichlet problem for general augmented Hessian equations",
+            "eid": "2-s2.0-85082778270",
+            "authors": [
+                {
+                    "scopus_id": "55626715800",
+                    "name": "Jiang F.",
+                    "affiliation_id": [
+                        "60064143"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60011664"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Journal of Differential Equations",
+            "issn": "00220396",
+            "cover_date": "2020-09-05",
+            "venue": "Journal",
+            "volume": "269",
+            "issue": "6",
+            "page_range": "5204-5227",
+            "doi": "10.1016/j.jde.2020.04.004"
+        },
+        {
+            "title": "On the Second Boundary Value Problem for Monge\u2013Amp\u00e8re Type Equations and Geometric Optics",
+            "eid": "2-s2.0-85041554029",
+            "authors": [
+                {
+                    "scopus_id": "55626715800",
+                    "name": "Jiang F.",
+                    "affiliation_id": [
+                        "60064143"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60011664"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Archive for Rational Mechanics and Analysis",
+            "issn": "00039527",
+            "cover_date": "2018-08-01",
+            "venue": "Journal",
+            "volume": "229",
+            "issue": "2",
+            "page_range": "547-567",
+            "doi": "10.1007/s00205-018-1222-8"
+        },
+        {
+            "title": "On the comparison principle for quasilinear divergence structure equations",
+            "eid": "2-s2.0-0016369729",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Archive for Rational Mechanics and Analysis",
+            "issn": "00039527",
+            "cover_date": "1974-06-01",
+            "venue": "Journal",
+            "volume": "57",
+            "issue": "2",
+            "page_range": "128-133",
+            "doi": "10.1007/BF00248414"
+        },
+        {
+            "title": "Convex hypersurfaces of prescribed weingarten curvatures",
+            "eid": "2-s2.0-4043062847",
+            "authors": [
+                {
+                    "scopus_id": "7103379326",
+                    "name": "Sheng W.",
+                    "affiliation_id": [
+                        "60003970"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Communications in Analysis and Geometry",
+            "issn": "10198385",
+            "cover_date": "2004-01-01",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "1-2",
+            "page_range": "213-232",
+            "doi": "10.4310/CAG.2004.v12.n1.a11"
+        },
+        {
+            "title": "New maximum principles for linear elliptic equations",
+            "eid": "2-s2.0-39049134677",
+            "authors": [
+                {
+                    "scopus_id": "7201654783",
+                    "name": "Kuo H.J.",
+                    "affiliation_id": [
+                        "60017511"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Indiana University Mathematics Journal",
+            "issn": "00222518",
+            "cover_date": "2007-12-01",
+            "venue": "Journal",
+            "volume": "56",
+            "issue": "5",
+            "page_range": "2439-2452",
+            "doi": "10.1512/iumj.2007.56.3073"
+        },
+        {
+            "title": "A note on the discrete Aleksandrov-Bakelman maximum principle",
+            "eid": "2-s2.0-0012993479",
+            "authors": [
+                {
+                    "scopus_id": "7201654783",
+                    "name": "Kuo H.J.",
+                    "affiliation_id": [
+                        "60017511"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Taiwanese Journal of Mathematics",
+            "issn": "10275487",
+            "cover_date": "2000-01-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "1",
+            "page_range": "55-64",
+            "doi": "10.11650/twjm/1500407198"
+        },
+        {
+            "title": "On the Neumann problem for Monge-Amp\u00e8re type equations",
+            "eid": "2-s2.0-84996569954",
+            "authors": [
+                {
+                    "scopus_id": "55626715800",
+                    "name": "Jiang F.",
+                    "affiliation_id": [
+                        "60025278"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "29967516600",
+                    "name": "Xiang N.",
+                    "affiliation_id": [
+                        "60029386"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Canadian Journal of Mathematics",
+            "issn": "0008414X",
+            "cover_date": "2016-12-01",
+            "venue": "Journal",
+            "volume": "68",
+            "issue": "6",
+            "page_range": "1334-1361",
+            "doi": "10.4153/CJM-2016-001-3"
+        },
+        {
+            "title": "On an interpolation inequality and its applications to nonlinear elliptic equations",
+            "eid": "2-s2.0-84968496776",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Proceedings of the American Mathematical Society",
+            "issn": "00029939",
+            "cover_date": "1985-01-01",
+            "venue": "Journal",
+            "volume": "95",
+            "issue": "1",
+            "page_range": "73-78",
+            "doi": "10.1090/S0002-9939-1985-0796449-X"
+        },
+        {
+            "title": "On the classical solvability of near field reflector problems",
+            "eid": "2-s2.0-84942342565",
+            "authors": [
+                {
+                    "scopus_id": "7410111991",
+                    "name": "Liu J.",
+                    "affiliation_id": [
+                        "60011664"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Discrete and Continuous Dynamical Systems- Series A",
+            "issn": "10780947",
+            "cover_date": "2016-02-01",
+            "venue": "Journal",
+            "volume": "36",
+            "issue": "2",
+            "page_range": "895-916",
+            "doi": "10.3934/dcds.2016.36.895"
+        },
+        {
+            "title": "Local estimates for parabolic difference operators",
+            "eid": "2-s2.0-0040623586",
+            "authors": [
+                {
+                    "scopus_id": "7201654783",
+                    "name": "Kuo H.J.",
+                    "affiliation_id": [
+                        "60017511"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "Journal of Differential Equations",
+            "issn": "00220396",
+            "cover_date": "1995-11-01",
+            "venue": "Journal",
+            "volume": "122",
+            "issue": "2",
+            "page_range": "398-413",
+            "doi": "10.1006/jdeq.1995.1153"
+        },
+        {
+            "title": "On the positivity of weak supersolutions of non-uniformly elliptic equations",
+            "eid": "2-s2.0-84974133735",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "Bulletin of the Australian Mathematical Society",
+            "issn": "00049727",
+            "cover_date": "1978-01-01",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "3",
+            "page_range": "321-324",
+            "doi": "10.1017/S0004972700008868"
+        },
+        {
+            "title": "Quasilinear second order elliptic equations with Venttsel boundary conditions",
+            "eid": "2-s2.0-34249764881",
+            "authors": [
+                {
+                    "scopus_id": "56139520600",
+                    "name": "Luo Y.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 9,
+            "publication_name": "Potential Analysis",
+            "issn": "09262601",
+            "cover_date": "1994-06-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "2",
+            "page_range": "219-243",
+            "doi": "10.1007/BF01053434"
+        },
+        {
+            "title": "Lipschitz continuous solutions of elliptic equations of the form {Mathematical expression}(Du)D<sup>2</sup>u=0",
+            "eid": "2-s2.0-33748782630",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60019544"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Mathematische Zeitschrift",
+            "issn": "00255874",
+            "cover_date": "1969-06-01",
+            "venue": "Journal",
+            "volume": "109",
+            "issue": "3",
+            "page_range": "211-216",
+            "doi": "10.1007/BF01111406"
+        },
+        {
+            "title": "A note on global regularity in optimal transportion",
+            "eid": "2-s2.0-84904891255",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Bulletin of Mathematical Sciences",
+            "issn": "16643607",
+            "cover_date": "2013-01-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "3",
+            "page_range": "551-557",
+            "doi": "10.1007/s13373-013-0046-y"
+        },
+        {
+            "title": "On the local theory of prescribed Jacobian equations revisited",
+            "eid": "2-s2.0-85104265385",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Mathematics In Engineering",
+            "issn": "",
+            "cover_date": "2021-01-01",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "6",
+            "page_range": null,
+            "doi": "10.3934/mine.2021048"
+        },
+        {
+            "title": "Maximum principles for difference operators",
+            "eid": "2-s2.0-85053509165",
+            "authors": [
+                {
+                    "scopus_id": "7201654783",
+                    "name": "Kuo H.",
+                    "affiliation_id": [
+                        "60017511"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Partial Differential Equations and Applications: Collected Papers in Honor of Carlo Pucci",
+            "issn": "",
+            "cover_date": "2017-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "209-219",
+            "doi": "10.1201/9780203744369"
+        },
+        {
+            "title": "The mean curvature measure",
+            "eid": "2-s2.0-84860617082",
+            "authors": [
+                {
+                    "scopus_id": "7202734758",
+                    "name": "Dai Q.",
+                    "affiliation_id": [
+                        "60014070"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Journal of the European Mathematical Society",
+            "issn": "14359855",
+            "cover_date": "2012-05-10",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "3",
+            "page_range": "779-800",
+            "doi": "10.4171/JEMS/318"
+        },
+        {
+            "title": "On the analyticity of generalized minimal surfaces",
+            "eid": "2-s2.0-67649485862",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Bulletin of the Australian Mathematical Society",
+            "issn": "00049727",
+            "cover_date": "1971-01-01",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "3",
+            "page_range": "315-320",
+            "doi": "10.1017/S0004972700047262"
+        },
+        {
+            "title": "From Optimal Transportation to Conformal Geometry",
+            "eid": "2-s2.0-85082768630",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Progress in Mathematics",
+            "issn": "07431643",
+            "cover_date": "2020-01-01",
+            "venue": "Book Series",
+            "volume": "333",
+            "issue": "",
+            "page_range": "511-520",
+            "doi": "10.1007/978-3-030-34953-0_20"
+        },
+        {
+            "title": "The dirichlet problem for nonuniformly elliptic equations",
+            "eid": "2-s2.0-84968480549",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60012708"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Bulletin of the American Mathematical Society",
+            "issn": "02730979",
+            "cover_date": "1967-01-01",
+            "venue": "Journal",
+            "volume": "73",
+            "issue": "3",
+            "page_range": "410-413",
+            "doi": "10.1090/S0002-9904-1967-11771-3"
+        },
+        {
+            "title": "Generalized solutions of quasilinear, differential inequalities. I. Elliptic operators",
+            "eid": "2-s2.0-84931918528",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60029445",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Bulletin of the American Mathematical Society",
+            "issn": "02730979",
+            "cover_date": "1971-01-01",
+            "venue": "Journal",
+            "volume": "77",
+            "issue": "4",
+            "page_range": "576-579",
+            "doi": "10.1090/S0002-9904-1971-12759-3"
+        },
+        {
+            "title": "Hessian measures on the Heisenberg group",
+            "eid": "2-s2.0-84875593448",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57212225473",
+                    "name": "Zhang W.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Journal of Functional Analysis",
+            "issn": "00221236",
+            "cover_date": "2013-05-15",
+            "venue": "Journal",
+            "volume": "264",
+            "issue": "10",
+            "page_range": "2335-2355",
+            "doi": "10.1016/j.jfa.2013.02.019"
+        },
+        {
+            "title": "Journal of Global Optimization: Preface",
+            "eid": "2-s2.0-38949097796",
+            "authors": [
+                {
+                    "scopus_id": "6701332747",
+                    "name": "Maugeri A.",
+                    "affiliation_id": [
+                        "60010146"
+                    ]
+                },
+                {
+                    "scopus_id": "23097979900",
+                    "name": "Venkatesha Murthy M.K.",
+                    "affiliation_id": [
+                        "60028868"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Journal of Global Optimization",
+            "issn": "09255001",
+            "cover_date": "2008-03-01",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "1-3",
+            "page_range": "1-5",
+            "doi": "10.1007/s10898-007-9272-8"
+        },
+        {
+            "title": "On the Dirichlet problem for quasilinear uniformly elliptic equations in n variables",
+            "eid": "2-s2.0-34250503688",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60003261"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Archive for Rational Mechanics and Analysis",
+            "issn": "00039527",
+            "cover_date": "1967-01-01",
+            "venue": "Journal",
+            "volume": "27",
+            "issue": "2",
+            "page_range": "108-119",
+            "doi": "10.1007/BF00281337"
+        },
+        {
+            "title": "Enclosed convex hypersurfaces with maximal affine area",
+            "eid": "2-s2.0-31444434530",
+            "authors": [
+                {
+                    "scopus_id": "7103379326",
+                    "name": "Sheng W.",
+                    "affiliation_id": [
+                        "60003970",
+                        "60003970"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Mathematische Zeitschrift",
+            "issn": "00255874",
+            "cover_date": "2006-03-01",
+            "venue": "Journal",
+            "volume": "252",
+            "issue": "3",
+            "page_range": "497-510",
+            "doi": "10.1007/s00209-005-0862-1"
+        },
+        {
+            "title": "Schauder estimates for fully nonlinear elliptic difference operators",
+            "eid": "2-s2.0-0036976972",
+            "authors": [
+                {
+                    "scopus_id": "7201654783",
+                    "name": "Kuo H.J.",
+                    "affiliation_id": [
+                        "60017511"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Royal Society of Edinburgh - Proceedings A",
+            "issn": "03082105",
+            "cover_date": "2002-01-01",
+            "venue": "Journal",
+            "volume": "132",
+            "issue": "6",
+            "page_range": "1395-1406",
+            "doi": "10.1017/s030821050000216x"
+        },
+        {
+            "title": "On the first eigenvalue of non-uniformly elliptic boundary value problems",
+            "eid": "2-s2.0-0004411398",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Mathematische Zeitschrift",
+            "issn": "00255874",
+            "cover_date": "1980-10-01",
+            "venue": "Journal",
+            "volume": "174",
+            "issue": "3",
+            "page_range": "227-232",
+            "doi": "10.1007/BF01161411"
+        },
+        {
+            "title": "On Asymptotic Behaviour and W <sup>2, p</sup> Regularity of Potentials in Optimal Transportation",
+            "eid": "2-s2.0-84921354939",
+            "authors": [
+                {
+                    "scopus_id": "7410111991",
+                    "name": "Liu J.",
+                    "affiliation_id": [
+                        "60011664"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7501873407",
+                    "name": "Wang X.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Archive for Rational Mechanics and Analysis",
+            "issn": "00039527",
+            "cover_date": "2015-03-01",
+            "venue": "Journal",
+            "volume": "215",
+            "issue": "3",
+            "page_range": "867-905",
+            "doi": "10.1007/s00205-014-0797-y"
+        },
+        {
+            "title": "Estimates for solutions of fully nonlinear discrete schemes",
+            "eid": "2-s2.0-84877142939",
+            "authors": [
+                {
+                    "scopus_id": "7201654783",
+                    "name": "Kuo H.J.",
+                    "affiliation_id": [
+                        "60017511"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Progress in Nonlinear Differential Equations and Their Application",
+            "issn": "14211750",
+            "cover_date": "2005-01-01",
+            "venue": "Book Series",
+            "volume": "61",
+            "issue": "",
+            "page_range": "275-282",
+            "doi": "10.1007/3-7643-7317-2_20"
+        },
+        {
+            "title": "A note on second derivative estimates for Monge-Amp\u00e8re-type equations",
+            "eid": "2-s2.0-85146346699",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Advanced Nonlinear Studies",
+            "issn": "15361365",
+            "cover_date": "2023-01-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1515/ans-2022-0036"
+        },
+        {
+            "title": "An alexsandrov type theorem for k-convex functions",
+            "eid": "2-s2.0-18444386855",
+            "authors": [
+                {
+                    "scopus_id": "7102550190",
+                    "name": "Chaudhuri N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Bulletin of the Australian Mathematical Society",
+            "issn": "00049727",
+            "cover_date": "2005-01-01",
+            "venue": "Journal",
+            "volume": "71",
+            "issue": "2",
+            "page_range": "305-314",
+            "doi": "10.1017/s0004972700038260"
+        },
+        {
+            "title": "THE NEUMANN PROBLEM FOR MONGE-AMP\u00c8RE TYPE EQUATIONS REVISITED",
+            "eid": "2-s2.0-85122436388",
+            "authors": [
+                {
+                    "scopus_id": "55626715800",
+                    "name": "Jiang F.",
+                    "affiliation_id": [
+                        "60005244"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "New Zealand Journal of Mathematics",
+            "issn": "",
+            "cover_date": "2021-09-19",
+            "venue": "Journal",
+            "volume": "52",
+            "issue": "",
+            "page_range": "671-689",
+            "doi": "10.53733/176"
+        },
+        {
+            "title": "Remarks on the Pucci conjecture",
+            "eid": "2-s2.0-85084417533",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60011664"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Indiana University Mathematics Journal",
+            "issn": "00222518",
+            "cover_date": "2020-01-01",
+            "venue": "Journal",
+            "volume": "69",
+            "issue": "1",
+            "page_range": "109-118",
+            "doi": "10.1512/iumj.2020.69.8460"
+        },
+        {
+            "title": "Weak continuity of the complex k-hessian operators with respect to local uniform convergence",
+            "eid": "2-s2.0-84902130574",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57212225473",
+                    "name": "Zhang W.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Bulletin of the Australian Mathematical Society",
+            "issn": "00049727",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "89",
+            "issue": "2",
+            "page_range": "227-233",
+            "doi": "10.1017/S0004972713000336"
+        },
+        {
+            "title": "On the Krylov maximum principle for discrete parabolic schemes",
+            "eid": "2-s2.0-79955922216",
+            "authors": [
+                {
+                    "scopus_id": "7201654783",
+                    "name": "Kuo H.J.",
+                    "affiliation_id": [
+                        "60017511"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Tamkang Journal of Mathematics",
+            "issn": "00492930",
+            "cover_date": "2009-01-01",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "4",
+            "page_range": "437-450",
+            "doi": "10.5556/j.tkjm.40.2009.607"
+        },
+        {
+            "title": "On the maximum principle for linear parabolic equations",
+            "eid": "2-s2.0-38849189463",
+            "authors": [
+                {
+                    "scopus_id": "7201654783",
+                    "name": "Kuo H.",
+                    "affiliation_id": [
+                        "60017511"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Journal of Global Optimization",
+            "issn": "09255001",
+            "cover_date": "2008-03-01",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "1-3",
+            "page_range": "495-500",
+            "doi": "10.1007/s10898-007-9249-7"
+        },
+        {
+            "title": "A sharp inequality for subharmonic functions on two-dimensional manifolds",
+            "eid": "2-s2.0-1842662105",
+            "authors": [
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Mathematische Zeitschrift",
+            "issn": "00255874",
+            "cover_date": "1973-03-01",
+            "venue": "Journal",
+            "volume": "133",
+            "issue": "1",
+            "page_range": "75-79",
+            "doi": "10.1007/BF01226244"
+        },
+        {
+            "title": "On the affine diameter of closed convex hypersurfaces",
+            "eid": "2-s2.0-1042290768",
+            "authors": [
+                {
+                    "scopus_id": "7103379326",
+                    "name": "Sheng W.",
+                    "affiliation_id": [
+                        "60003970"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.S.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Bulletin of the Australian Mathematical Society",
+            "issn": "00049727",
+            "cover_date": "2003-01-01",
+            "venue": "Journal",
+            "volume": "68",
+            "issue": "3",
+            "page_range": "431-437",
+            "doi": "10.1017/s0004972700037837"
+        },
+        {
+            "title": "Editorial",
+            "eid": "2-s2.0-85044507226",
+            "authors": [
+                {
+                    "scopus_id": "6701567497",
+                    "name": "Coulhon T.",
+                    "affiliation_id": [
+                        "60108665"
+                    ]
+                },
+                {
+                    "scopus_id": "6701668518",
+                    "name": "Trudinger N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6508282068",
+                    "name": "Vespri V.",
+                    "affiliation_id": [
+                        "60021859"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Nonlinear Analysis, Theory, Methods and Applications",
+            "issn": "0362546X",
+            "cover_date": "2016-01-01",
+            "venue": "Journal",
+            "volume": "131",
+            "issue": "",
+            "page_range": "1-2",
+            "doi": "10.1016/j.na.2015.09.029"
+        }
+    ],
+    "affiliation": "The Australian National University",
+    "affiliation_id": "60008950",
+    "city": "Canberra",
+    "country": "Australia",
+    "document_count": 99,
+    "subject_area": [
+        {
+            "@abbrev": "MATH",
+            "@frequency": "177",
+            "$": "Mathematics (all)"
+        },
+        {
+            "@abbrev": "ENGI",
+            "@frequency": "16",
+            "$": "Engineering (all)"
+        },
+        {
+            "@abbrev": "MATE",
+            "@frequency": "2",
+            "$": "Materials Science (all)"
+        }
+    ],
+    "date fetched": "2024-07-12 19:00:33"
+}

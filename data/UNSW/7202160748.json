@@ -96,7 +96,7 @@
                     ]
                 }
             ],
-            "citations": 7035,
+            "citations": 7053,
             "publication_name": "Psychological Medicine",
             "issn": "00332917",
             "cover_date": "2002-08-01",
@@ -811,7 +811,7 @@
                     ]
                 }
             ],
-            "citations": 1746,
+            "citations": 1747,
             "publication_name": "New England Journal of Medicine",
             "issn": "00284793",
             "cover_date": "2008-08-21",
@@ -840,7 +840,7 @@
                     ]
                 }
             ],
-            "citations": 1471,
+            "citations": 1472,
             "publication_name": "Australian and New Zealand Journal of Public Health",
             "issn": "13260200",
             "cover_date": "2001-01-01",
@@ -891,7 +891,7 @@
                     ]
                 }
             ],
-            "citations": 1184,
+            "citations": 1185,
             "publication_name": "Psychological Medicine",
             "issn": "00332917",
             "cover_date": "2003-02-01",
@@ -941,7 +941,7 @@
                     ]
                 }
             ],
-            "citations": 1011,
+            "citations": 1012,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2010-11-17",
@@ -986,6 +986,35 @@
             "issue": "FEB.",
             "page_range": "145-153",
             "doi": "10.1192/bjp.178.2.145"
+        },
+        {
+            "title": "The psychometric properties of the Composite International Diagnostic Interview",
+            "eid": "2-s2.0-0031914835",
+            "authors": [
+                {
+                    "scopus_id": "7202160748",
+                    "name": "Andrews G.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7202838402",
+                    "name": "Peters L.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 745,
+            "publication_name": "Social Psychiatry and Psychiatric Epidemiology",
+            "issn": "09337954",
+            "cover_date": "1998-02-01",
+            "venue": "Journal",
+            "volume": "33",
+            "issue": "2",
+            "page_range": "80-88",
+            "doi": "10.1007/s001270050026"
         },
         {
             "title": "Effects of anacetrapib in patients with atherosclerotic vascular disease",
@@ -1523,35 +1552,6 @@
             "issue": "13",
             "page_range": "1217-1227",
             "doi": "10.1056/NEJMoa1706444"
-        },
-        {
-            "title": "The psychometric properties of the Composite International Diagnostic Interview",
-            "eid": "2-s2.0-0031914835",
-            "authors": [
-                {
-                    "scopus_id": "7202160748",
-                    "name": "Andrews G.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7202838402",
-                    "name": "Peters L.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 742,
-            "publication_name": "Social Psychiatry and Psychiatric Epidemiology",
-            "issn": "09337954",
-            "cover_date": "1998-02-01",
-            "venue": "Journal",
-            "volume": "33",
-            "issue": "2",
-            "page_range": "80-88",
-            "doi": "10.1007/s001270050026"
         },
         {
             "title": "2007 National Survey of Mental Health and Wellbeing: Methods and key findings",
@@ -2258,21 +2258,21 @@
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "57201180051",
                     "name": "Issakidis C.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "7102785932",
                     "name": "Sanderson K.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "60011019"
                     ]
                 },
@@ -2280,14 +2280,14 @@
                     "scopus_id": "7005774637",
                     "name": "Corry J.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "7003717699",
                     "name": "Lapsley H.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "60031004"
                     ]
                 }
@@ -2369,7 +2369,7 @@
                     ]
                 }
             ],
-            "citations": 332,
+            "citations": 333,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2009-12-01",
@@ -2630,7 +2630,7 @@
                     ]
                 }
             ],
-            "citations": 263,
+            "citations": 265,
             "publication_name": "Australian and New Zealand Journal of Psychiatry",
             "issn": "00048674",
             "cover_date": "1976-01-01",
@@ -3209,7 +3209,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 249,
+            "citations": 250,
             "publication_name": "BMJ",
             "issn": "",
             "cover_date": "2011-02-19",
@@ -5534,7 +5534,7 @@
                     ]
                 }
             ],
-            "citations": 174,
+            "citations": 175,
             "publication_name": "European Journal of Epidemiology",
             "issn": "03932990",
             "cover_date": "2005-01-01",
@@ -5690,7 +5690,7 @@
                     ]
                 }
             ],
-            "citations": 161,
+            "citations": 162,
             "publication_name": "Psychological Medicine",
             "issn": "00332917",
             "cover_date": "2006-02-01",
@@ -6704,7 +6704,7 @@
                     ]
                 }
             ],
-            "citations": 140,
+            "citations": 141,
             "publication_name": "Psychological Medicine",
             "issn": "00332917",
             "cover_date": "2013-12-01",
@@ -7196,33 +7196,6 @@
             "doi": "10.1080/00048670903179269"
         },
         {
-            "title": "Pretreatment attrition and dropout in an outpatient clinic for anxiety disorders",
-            "eid": "2-s2.0-2542448304",
-            "authors": [
-                {
-                    "scopus_id": "57201180051",
-                    "name": "Issakidis C.",
-                    "affiliation_id": [
-                        "100441663"
-                    ]
-                },
-                {
-                    "scopus_id": "7202160748",
-                    "name": "Andrews G.",
-                    "affiliation_id": []
-                }
-            ],
-            "citations": 123,
-            "publication_name": "Acta Psychiatrica Scandinavica",
-            "issn": "0001690X",
-            "cover_date": "2004-06-01",
-            "venue": "Journal",
-            "volume": "109",
-            "issue": "6",
-            "page_range": "426-433",
-            "doi": "10.1111/j.1600-0047.2004.00264.x"
-        },
-        {
             "title": "Twelve-month prevalence and disability of DSM-IV bipolar disorder in an Australian general population survey",
             "eid": "2-s2.0-4143127720",
             "authors": [
@@ -7264,6 +7237,33 @@
             "issue": "5",
             "page_range": "777-785",
             "doi": "10.1017/S0033291703001636"
+        },
+        {
+            "title": "Pretreatment attrition and dropout in an outpatient clinic for anxiety disorders",
+            "eid": "2-s2.0-2542448304",
+            "authors": [
+                {
+                    "scopus_id": "57201180051",
+                    "name": "Issakidis C.",
+                    "affiliation_id": [
+                        "100441663"
+                    ]
+                },
+                {
+                    "scopus_id": "7202160748",
+                    "name": "Andrews G.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 122,
+            "publication_name": "Acta Psychiatrica Scandinavica",
+            "issn": "0001690X",
+            "cover_date": "2004-06-01",
+            "venue": "Journal",
+            "volume": "109",
+            "issue": "6",
+            "page_range": "426-433",
+            "doi": "10.1111/j.1600-0047.2004.00264.x"
         },
         {
             "title": "Social phobia in the Australian National Survey of Mental Health and Well-Being (NSMHWB)",
@@ -7574,7 +7574,7 @@
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 }
             ],
@@ -8217,29 +8217,6 @@
             "doi": "10.1080/00048670802119820"
         },
         {
-            "title": "Comorbidity and the general neurotic syndrome",
-            "eid": "2-s2.0-0029951418",
-            "authors": [
-                {
-                    "scopus_id": "7202160748",
-                    "name": "Andrews G.",
-                    "affiliation_id": [
-                        "60028333",
-                        "100318993"
-                    ]
-                }
-            ],
-            "citations": 105,
-            "publication_name": "British Journal of Psychiatry",
-            "issn": "00071250",
-            "cover_date": "1996-01-01",
-            "venue": "Journal",
-            "volume": "168",
-            "issue": "JUNE SUPP. 30",
-            "page_range": "76-84",
-            "doi": "10.1192/s0007125000298449"
-        },
-        {
             "title": "Classification in psychiatry: ICD-10 versus DSM-IV. Editorial",
             "eid": "2-s2.0-0032951362",
             "authors": [
@@ -8266,7 +8243,7 @@
                     ]
                 }
             ],
-            "citations": 104,
+            "citations": 105,
             "publication_name": "British Journal of Psychiatry",
             "issn": "00071250",
             "cover_date": "1999-01-01",
@@ -8275,6 +8252,29 @@
             "issue": "JAN.",
             "page_range": "3-5",
             "doi": "10.1192/bjp.174.1.3"
+        },
+        {
+            "title": "Comorbidity and the general neurotic syndrome",
+            "eid": "2-s2.0-0029951418",
+            "authors": [
+                {
+                    "scopus_id": "7202160748",
+                    "name": "Andrews G.",
+                    "affiliation_id": [
+                        "60082336",
+                        "100318993"
+                    ]
+                }
+            ],
+            "citations": 105,
+            "publication_name": "British Journal of Psychiatry",
+            "issn": "00071250",
+            "cover_date": "1996-01-01",
+            "venue": "Journal",
+            "volume": "168",
+            "issue": "JUNE SUPP. 30",
+            "page_range": "76-84",
+            "doi": "10.1192/s0007125000298449"
         },
         {
             "title": "A nonparametric technique for meta-analysis effect size calculation",
@@ -8518,6 +8518,57 @@
             "doi": "10.3109/00048679509075901"
         },
         {
+            "title": "Cost-effectiveness of cognitive-behavioural therapy and drug interventions for major depression",
+            "eid": "2-s2.0-27844494626",
+            "authors": [
+                {
+                    "scopus_id": "57223885848",
+                    "name": "Vos T.",
+                    "affiliation_id": [
+                        "60031004",
+                        "100342209"
+                    ]
+                },
+                {
+                    "scopus_id": "7005774637",
+                    "name": "Corry J.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "6603697483",
+                    "name": "Haby M.M.",
+                    "affiliation_id": [
+                        "100342209"
+                    ]
+                },
+                {
+                    "scopus_id": "12761882300",
+                    "name": "Carter R.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7202160748",
+                    "name": "Andrews G.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 94,
+            "publication_name": "Australian and New Zealand Journal of Psychiatry",
+            "issn": "00048674",
+            "cover_date": "2005-08-01",
+            "venue": "Journal",
+            "volume": "39",
+            "issue": "8",
+            "page_range": "683-692",
+            "doi": "10.1111/j.1440-1614.2005.01652.x"
+        },
+        {
             "title": "Randomized controlled trial of web-based treatment of social phobia without clinician guidance",
             "eid": "2-s2.0-71049146017",
             "authors": [
@@ -8568,36 +8619,22 @@
             "doi": "10.1080/00048670903179160"
         },
         {
-            "title": "Cost-effectiveness of cognitive-behavioural therapy and drug interventions for major depression",
-            "eid": "2-s2.0-27844494626",
+            "title": "A computerized harm minimization prevention program for alcohol misuse and related harms: Randomized controlled trial",
+            "eid": "2-s2.0-62649166383",
             "authors": [
                 {
-                    "scopus_id": "57223885848",
-                    "name": "Vos T.",
+                    "scopus_id": "6603244882",
+                    "name": "Vogl L.",
                     "affiliation_id": [
-                        "60031004",
-                        "100342209"
+                        "60109564",
+                        "60109564"
                     ]
                 },
                 {
-                    "scopus_id": "7005774637",
-                    "name": "Corry J.",
+                    "scopus_id": "7004157315",
+                    "name": "Teesson M.",
                     "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "6603697483",
-                    "name": "Haby M.M.",
-                    "affiliation_id": [
-                        "100342209"
-                    ]
-                },
-                {
-                    "scopus_id": "12761882300",
-                    "name": "Carter R.",
-                    "affiliation_id": [
-                        "60026553"
+                        "60109564"
                     ]
                 },
                 {
@@ -8606,17 +8643,38 @@
                     "affiliation_id": [
                         "60028333"
                     ]
+                },
+                {
+                    "scopus_id": "57190518689",
+                    "name": "Bird K.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "40262714300",
+                    "name": "Steadman B.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7103005505",
+                    "name": "Dillon P.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
                 }
             ],
-            "citations": 92,
-            "publication_name": "Australian and New Zealand Journal of Psychiatry",
-            "issn": "00048674",
-            "cover_date": "2005-08-01",
+            "citations": 90,
+            "publication_name": "Addiction",
+            "issn": "09652140",
+            "cover_date": "2009-04-01",
             "venue": "Journal",
-            "volume": "39",
-            "issue": "8",
-            "page_range": "683-692",
-            "doi": "10.1111/j.1440-1614.2005.01652.x"
+            "volume": "104",
+            "issue": "4",
+            "page_range": "564-575",
+            "doi": "10.1111/j.1360-0443.2009.02510.x"
         },
         {
             "title": "Treatment of panic and agoraphobia an integrative review",
@@ -8707,64 +8765,6 @@
             "doi": "10.1016/j.ypmed.2009.04.009"
         },
         {
-            "title": "A computerized harm minimization prevention program for alcohol misuse and related harms: Randomized controlled trial",
-            "eid": "2-s2.0-62649166383",
-            "authors": [
-                {
-                    "scopus_id": "6603244882",
-                    "name": "Vogl L.",
-                    "affiliation_id": [
-                        "60109564",
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7004157315",
-                    "name": "Teesson M.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7202160748",
-                    "name": "Andrews G.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "57190518689",
-                    "name": "Bird K.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "40262714300",
-                    "name": "Steadman B.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7103005505",
-                    "name": "Dillon P.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                }
-            ],
-            "citations": 89,
-            "publication_name": "Addiction",
-            "issn": "09652140",
-            "cover_date": "2009-04-01",
-            "venue": "Journal",
-            "volume": "104",
-            "issue": "4",
-            "page_range": "564-575",
-            "doi": "10.1111/j.1360-0443.2009.02510.x"
-        },
-        {
             "title": "Modelling the population cost-effectiveness of current and evidence-based optimal treatment for anxiety disorders",
             "eid": "2-s2.0-0942266233",
             "authors": [
@@ -8772,7 +8772,7 @@
                     "scopus_id": "57201180051",
                     "name": "Issakidis C.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "60089827"
                     ]
                 },
@@ -8780,28 +8780,28 @@
                     "scopus_id": "7102785932",
                     "name": "Sanderson K.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "7005774637",
                     "name": "Corry J.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "7003717699",
                     "name": "Lapsley H.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 }
             ],
@@ -10513,7 +10513,7 @@
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 }
             ],
@@ -11914,7 +11914,7 @@
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "100318993"
                     ]
                 }
@@ -12507,7 +12507,7 @@
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "113052109"
                     ]
                 }
@@ -12948,6 +12948,49 @@
             "doi": "10.1016/j.invent.2014.05.004"
         },
         {
+            "title": "Universal Internet-based prevention for alcohol and cannabis use reduces truancy, psychological distress and moral disengagement: A cluster randomised controlled trial",
+            "eid": "2-s2.0-84901445313",
+            "authors": [
+                {
+                    "scopus_id": "7005164365",
+                    "name": "Newton N.C.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7202160748",
+                    "name": "Andrews G.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "57226234601",
+                    "name": "Champion K.E.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7004157315",
+                    "name": "Teesson M.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                }
+            ],
+            "citations": 41,
+            "publication_name": "Preventive Medicine",
+            "issn": "00917435",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "65",
+            "issue": "",
+            "page_range": "109-115",
+            "doi": "10.1016/j.ypmed.2014.05.003"
+        },
+        {
             "title": "Neurasthenia: Prevalence, disability and health care characteristics in the Australian community",
             "eid": "2-s2.0-0036298402",
             "authors": [
@@ -12989,49 +13032,6 @@
             "issue": "JULY",
             "page_range": "56-61",
             "doi": "10.1192/bjp.181.1.56"
-        },
-        {
-            "title": "Universal Internet-based prevention for alcohol and cannabis use reduces truancy, psychological distress and moral disengagement: A cluster randomised controlled trial",
-            "eid": "2-s2.0-84901445313",
-            "authors": [
-                {
-                    "scopus_id": "7005164365",
-                    "name": "Newton N.C.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7202160748",
-                    "name": "Andrews G.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "57226234601",
-                    "name": "Champion K.E.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7004157315",
-                    "name": "Teesson M.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                }
-            ],
-            "citations": 40,
-            "publication_name": "Preventive Medicine",
-            "issn": "00917435",
-            "cover_date": "2014-01-01",
-            "venue": "Journal",
-            "volume": "65",
-            "issue": "",
-            "page_range": "109-115",
-            "doi": "10.1016/j.ypmed.2014.05.003"
         },
         {
             "title": "Sending Your Teenagers Away: Controlled Stress Decreases Neurotic Vulnerability",
@@ -13432,14 +13432,14 @@
                     "scopus_id": "6701783522",
                     "name": "Trollor J.N.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "7102284091",
                     "name": "Sachdev P.S.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
@@ -13482,7 +13482,7 @@
                     "scopus_id": "7102785932",
                     "name": "Sanderson K.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "60025702",
                         "60011019"
                     ]
@@ -13491,7 +13491,7 @@
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "60025702"
                     ]
                 },
@@ -13499,7 +13499,7 @@
                     "scopus_id": "7005774637",
                     "name": "Corry J.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "60025702"
                     ]
                 },
@@ -14300,14 +14300,14 @@
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "7102986210",
                     "name": "Szabo M.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 }
             ],
@@ -14845,7 +14845,7 @@
                     "scopus_id": "57199516217",
                     "name": "Schneiden V.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
@@ -14925,7 +14925,7 @@
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
@@ -15636,7 +15636,7 @@
                     "scopus_id": "57208160990",
                     "name": "Titov N.",
                     "affiliation_id": [
-                        "60001801",
+                        "60082336",
                         "60025702"
                     ]
                 },
@@ -15644,7 +15644,7 @@
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60001801",
+                        "60082336",
                         "60025702"
                     ]
                 },
@@ -15652,7 +15652,7 @@
                     "scopus_id": "7102284091",
                     "name": "Sachdev P.",
                     "affiliation_id": [
-                        "60001801",
+                        "60082336",
                         "60001801"
                     ]
                 }
@@ -17332,7 +17332,7 @@
                     "name": "Furukawa T.A.",
                     "affiliation_id": [
                         "60003608",
-                        "60028333",
+                        "60082336",
                         "60011520",
                         "60003608"
                     ]
@@ -17342,7 +17342,7 @@
                     "name": "Andrews G.",
                     "affiliation_id": [
                         "60003608",
-                        "60028333",
+                        "60082336",
                         "60011520"
                     ]
                 },
@@ -17351,7 +17351,7 @@
                     "name": "Goldberg D.P.",
                     "affiliation_id": [
                         "60003608",
-                        "60028333",
+                        "60082336",
                         "60011520"
                     ]
                 }
@@ -17971,7 +17971,7 @@
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
@@ -18335,14 +18335,14 @@
                     "scopus_id": "7102785932",
                     "name": "Sanderson K.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 }
             ],
@@ -18834,7 +18834,7 @@
                     "scopus_id": "7005774637",
                     "name": "Corry J.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "60025702"
                     ]
                 },
@@ -18842,7 +18842,7 @@
                     "scopus_id": "7102785932",
                     "name": "Sanderson K.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "60011019"
                     ]
                 },
@@ -18850,7 +18850,7 @@
                     "scopus_id": "57201180051",
                     "name": "Issakidis C.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "60025702"
                     ]
                 },
@@ -18858,7 +18858,7 @@
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "60025702"
                     ]
                 },
@@ -18866,7 +18866,7 @@
                     "scopus_id": "7003717699",
                     "name": "Lapsley H.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "60031004"
                     ]
                 }
@@ -19188,7 +19188,7 @@
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 }
             ],
@@ -19455,7 +19455,7 @@
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "60025702"
                     ]
                 },
@@ -19470,7 +19470,7 @@
                     "scopus_id": "7102785932",
                     "name": "Sanderson K.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 }
             ],
@@ -19987,14 +19987,14 @@
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "6701842394",
                     "name": "Erskine A.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 }
             ],
@@ -20276,7 +20276,7 @@
                     "scopus_id": "6701447547",
                     "name": "Slade T.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "100318993"
                     ]
                 },
@@ -20284,7 +20284,7 @@
                     "scopus_id": "7202160748",
                     "name": "Andrews G.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 }
             ],
@@ -21514,14 +21514,14 @@
                     "scopus_id": "57208160990",
                     "name": "Titov N.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "24473699300",
                     "name": "Schwencke G.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 }
             ],
@@ -22687,6 +22687,5 @@
             "$": "Neuroscience (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:15:23",
-    "c-score": null
+    "date fetched": "2024-07-12 19:55:39"
 }

@@ -713,7 +713,7 @@
                     ]
                 }
             ],
-            "citations": 10848,
+            "citations": 10858,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-12-01",
@@ -1428,7 +1428,7 @@
                     ]
                 }
             ],
-            "citations": 6900,
+            "citations": 6905,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-12-01",
@@ -2142,7 +2142,7 @@
                     ]
                 }
             ],
-            "citations": 6228,
+            "citations": 6234,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -2855,7 +2855,7 @@
                     ]
                 }
             ],
-            "citations": 5994,
+            "citations": 6008,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2015-01-10",
@@ -3587,7 +3587,7 @@
                     ]
                 }
             ],
-            "citations": 5480,
+            "citations": 5490,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -4304,7 +4304,7 @@
                     ]
                 }
             ],
-            "citations": 5131,
+            "citations": 5135,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2015-08-22",
@@ -5032,7 +5032,7 @@
                     ]
                 }
             ],
-            "citations": 4892,
+            "citations": 4907,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -5775,7 +5775,7 @@
                     ]
                 }
             ],
-            "citations": 3417,
+            "citations": 3420,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -6499,7 +6499,7 @@
                     ]
                 }
             ],
-            "citations": 2155,
+            "citations": 2161,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2015-12-05",
@@ -7946,7 +7946,7 @@
                     ]
                 }
             ],
-            "citations": 1115,
+            "citations": 1116,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2014-09-22",
@@ -8849,7 +8849,7 @@
                     ]
                 }
             ],
-            "citations": 754,
+            "citations": 761,
             "publication_name": "New England Journal of Medicine",
             "issn": "00284793",
             "cover_date": "2017-08-24",
@@ -11179,7 +11179,7 @@
                     "scopus_id": "56673854800",
                     "name": "Abedi A.",
                     "affiliation_id": [
-                        "60029311"
+                        "60015183"
                     ]
                 },
                 {
@@ -11800,7 +11800,7 @@
                     ]
                 }
             ],
-            "citations": 110,
+            "citations": 111,
             "publication_name": "Injury Prevention",
             "issn": "13538047",
             "cover_date": "2020-01-01",
@@ -12435,7 +12435,7 @@
                     ]
                 }
             ],
-            "citations": 30,
+            "citations": 31,
             "publication_name": "BMC Medicine",
             "issn": "",
             "cover_date": "2021-12-01",
@@ -13331,6 +13331,57 @@
             "doi": "10.1186/1478-4491-10-45"
         },
         {
+            "title": "Leadership, politics, and communication: challenges of the epidemiology workforce during emergency response",
+            "eid": "2-s2.0-85128016561",
+            "authors": [
+                {
+                    "scopus_id": "57217569634",
+                    "name": "Parry A.E.",
+                    "affiliation_id": [
+                        "60075989"
+                    ]
+                },
+                {
+                    "scopus_id": "7202651670",
+                    "name": "Kirk M.D.",
+                    "affiliation_id": [
+                        "60075989"
+                    ]
+                },
+                {
+                    "scopus_id": "57205178937",
+                    "name": "Colquhoun S.",
+                    "affiliation_id": [
+                        "60075989"
+                    ]
+                },
+                {
+                    "scopus_id": "35551260900",
+                    "name": "Durrheim D.N.",
+                    "affiliation_id": [
+                        "60010571"
+                    ]
+                },
+                {
+                    "scopus_id": "55796952200",
+                    "name": "Housen T.",
+                    "affiliation_id": [
+                        "60075989",
+                        "60010571"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Human Resources for Health",
+            "issn": "",
+            "cover_date": "2022-12-01",
+            "venue": "Journal",
+            "volume": "20",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s12960-022-00727-y"
+        },
+        {
             "title": "Secondary prevention for screening detected rheumatic heart disease: Opportunities to improve adherence",
             "eid": "2-s2.0-85023638295",
             "authors": [
@@ -13449,57 +13500,6 @@
             "issue": "9528",
             "page_range": "2118",
             "doi": "10.1016/S0140-6736(06)68934-4"
-        },
-        {
-            "title": "Leadership, politics, and communication: challenges of the epidemiology workforce during emergency response",
-            "eid": "2-s2.0-85128016561",
-            "authors": [
-                {
-                    "scopus_id": "57217569634",
-                    "name": "Parry A.E.",
-                    "affiliation_id": [
-                        "60075989"
-                    ]
-                },
-                {
-                    "scopus_id": "7202651670",
-                    "name": "Kirk M.D.",
-                    "affiliation_id": [
-                        "60075989"
-                    ]
-                },
-                {
-                    "scopus_id": "57205178937",
-                    "name": "Colquhoun S.",
-                    "affiliation_id": [
-                        "60075989"
-                    ]
-                },
-                {
-                    "scopus_id": "35551260900",
-                    "name": "Durrheim D.N.",
-                    "affiliation_id": [
-                        "60010571"
-                    ]
-                },
-                {
-                    "scopus_id": "55796952200",
-                    "name": "Housen T.",
-                    "affiliation_id": [
-                        "60075989",
-                        "60010571"
-                    ]
-                }
-            ],
-            "citations": 7,
-            "publication_name": "Human Resources for Health",
-            "issn": "",
-            "cover_date": "2022-12-01",
-            "venue": "Journal",
-            "volume": "20",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1186/s12960-022-00727-y"
         },
         {
             "title": "SARS-CoV-2 infections among Australian passengers on the Diamond Princess cruise ship: A retrospective cohort study",
@@ -15948,6 +15948,5 @@
             "$": "Immunology and Microbiology (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:34:11",
-    "c-score": null
+    "date fetched": "2024-07-12 18:49:31"
 }

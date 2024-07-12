@@ -41,7 +41,7 @@
                     ]
                 }
             ],
-            "citations": 1853,
+            "citations": 1855,
             "publication_name": "Journal of Epidemiology and Community Health",
             "issn": "0143005X",
             "cover_date": "2006-01-01",
@@ -91,7 +91,7 @@
                     ]
                 }
             ],
-            "citations": 1347,
+            "citations": 1351,
             "publication_name": "Journal of epidemiology and community health",
             "issn": "0143005X",
             "cover_date": "2003-01-01",
@@ -184,7 +184,7 @@
                     ]
                 }
             ],
-            "citations": 902,
+            "citations": 903,
             "publication_name": "British Medical Journal",
             "issn": "09598146",
             "cover_date": "1996-01-01",
@@ -301,7 +301,7 @@
                     ]
                 }
             ],
-            "citations": 662,
+            "citations": 663,
             "publication_name": "Annual Review of Public Health",
             "issn": "01637525",
             "cover_date": "2005-05-02",
@@ -338,7 +338,7 @@
                     ]
                 }
             ],
-            "citations": 661,
+            "citations": 662,
             "publication_name": "New England Journal of Medicine",
             "issn": "00284793",
             "cover_date": "1997-12-25",
@@ -412,7 +412,7 @@
                     ]
                 }
             ],
-            "citations": 562,
+            "citations": 563,
             "publication_name": "British Medical Bulletin",
             "issn": "00071420",
             "cover_date": "2007-12-01",
@@ -477,7 +477,7 @@
                     ]
                 }
             ],
-            "citations": 536,
+            "citations": 537,
             "publication_name": "European Journal of Public Health",
             "issn": "11011262",
             "cover_date": "2005-04-01",
@@ -528,7 +528,7 @@
                     ]
                 }
             ],
-            "citations": 533,
+            "citations": 534,
             "publication_name": "Journal of Epidemiology and Community Health",
             "issn": "0143005X",
             "cover_date": "2006-02-01",
@@ -572,7 +572,7 @@
                     ]
                 }
             ],
-            "citations": 492,
+            "citations": 493,
             "publication_name": "Journal of Psychosomatic Research",
             "issn": "00223999",
             "cover_date": "2002-10-01",
@@ -686,7 +686,7 @@
                     ]
                 }
             ],
-            "citations": 487,
+            "citations": 488,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2013-01-01",
@@ -736,7 +736,7 @@
                     ]
                 }
             ],
-            "citations": 481,
+            "citations": 482,
             "publication_name": "Journal of Epidemiology and Community Health",
             "issn": "0143005X",
             "cover_date": "2005-06-01",
@@ -823,7 +823,7 @@
                     ]
                 }
             ],
-            "citations": 448,
+            "citations": 449,
             "publication_name": "American Journal of Epidemiology",
             "issn": "00029262",
             "cover_date": "1996-11-15",
@@ -1193,43 +1193,6 @@
             "doi": "10.1016/S0277-9536(00)00319-1"
         },
         {
-            "title": "Is the association between childhood socioeconomic circumstances and cause-specific mortality established? Update of a systematic review",
-            "eid": "2-s2.0-42549111773",
-            "authors": [
-                {
-                    "scopus_id": "6701354952",
-                    "name": "Galobardes B.",
-                    "affiliation_id": [
-                        "60020650",
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "7403674871",
-                    "name": "Lynch J.W.",
-                    "affiliation_id": [
-                        "60002494"
-                    ]
-                },
-                {
-                    "scopus_id": "35354080500",
-                    "name": "Davey Smith G.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                }
-            ],
-            "citations": 294,
-            "publication_name": "Journal of Epidemiology and Community Health",
-            "issn": "0143005X",
-            "cover_date": "2008-05-01",
-            "venue": "Journal",
-            "volume": "62",
-            "issue": "5",
-            "page_range": "387-390",
-            "doi": "10.1136/jech.2007.065508"
-        },
-        {
             "title": "Can we disentangle life course processes of accumulation, critical period and social mobility? An analysis of disadvantaged socio-economic positions and myocardial infarction in the Stockholm Heart Epidemiology Program",
             "eid": "2-s2.0-0842305110",
             "authors": [
@@ -1270,7 +1233,7 @@
                     ]
                 }
             ],
-            "citations": 294,
+            "citations": 295,
             "publication_name": "Social Science and Medicine",
             "issn": "02779536",
             "cover_date": "2004-01-01",
@@ -1279,6 +1242,43 @@
             "issue": "8",
             "page_range": "1555-1562",
             "doi": "10.1016/S0277-9536(03)00344-7"
+        },
+        {
+            "title": "Is the association between childhood socioeconomic circumstances and cause-specific mortality established? Update of a systematic review",
+            "eid": "2-s2.0-42549111773",
+            "authors": [
+                {
+                    "scopus_id": "6701354952",
+                    "name": "Galobardes B.",
+                    "affiliation_id": [
+                        "60020650",
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "7403674871",
+                    "name": "Lynch J.W.",
+                    "affiliation_id": [
+                        "60002494"
+                    ]
+                },
+                {
+                    "scopus_id": "35354080500",
+                    "name": "Davey Smith G.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                }
+            ],
+            "citations": 294,
+            "publication_name": "Journal of Epidemiology and Community Health",
+            "issn": "0143005X",
+            "cover_date": "2008-05-01",
+            "venue": "Journal",
+            "volume": "62",
+            "issue": "5",
+            "page_range": "387-390",
+            "doi": "10.1136/jech.2007.065508"
         },
         {
             "title": "A brief conceptual tutorial on multilevel analysis in social epidemiology: Investigating contextual phenomena in different groups of people",
@@ -1321,7 +1321,7 @@
                     ]
                 }
             ],
-            "citations": 269,
+            "citations": 270,
             "publication_name": "Journal of Epidemiology and Community Health",
             "issn": "0143005X",
             "cover_date": "2005-09-01",
@@ -1921,7 +1921,7 @@
                     ]
                 }
             ],
-            "citations": 204,
+            "citations": 205,
             "publication_name": "Epidemiology",
             "issn": "10443983",
             "cover_date": "2005-01-01",
@@ -2286,7 +2286,7 @@
                     ]
                 }
             ],
-            "citations": 178,
+            "citations": 179,
             "publication_name": "British Journal of Psychiatry",
             "issn": "00071250",
             "cover_date": "2013-03-01",
@@ -2577,7 +2577,7 @@
                     ]
                 }
             ],
-            "citations": 160,
+            "citations": 161,
             "publication_name": "The Lancet Global Health",
             "issn": "",
             "cover_date": "2017-09-01",
@@ -2821,6 +2821,50 @@
             "doi": "10.1093/intjepid/31.2.395"
         },
         {
+            "title": "Explaining the social gradient in coronary heart disease: Comparing relative and absolute risk approaches",
+            "eid": "2-s2.0-33646231239",
+            "authors": [
+                {
+                    "scopus_id": "7403674871",
+                    "name": "Lynch J.",
+                    "affiliation_id": [
+                        "60002494",
+                        "60002494"
+                    ]
+                },
+                {
+                    "scopus_id": "35354080500",
+                    "name": "Smith G.D.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "55418139000",
+                    "name": "Harper S.",
+                    "affiliation_id": [
+                        "60002494"
+                    ]
+                },
+                {
+                    "scopus_id": "6603266344",
+                    "name": "Bainbridge K.",
+                    "affiliation_id": [
+                        "60082111"
+                    ]
+                }
+            ],
+            "citations": 147,
+            "publication_name": "Journal of Epidemiology and Community Health",
+            "issn": "0143005X",
+            "cover_date": "2006-05-01",
+            "venue": "Journal",
+            "volume": "60",
+            "issue": "5",
+            "page_range": "436-441",
+            "doi": "10.1136/jech.2005.041350"
+        },
+        {
             "title": "Impact of economic crisis on cause-specific mortality in South Korea",
             "eid": "2-s2.0-29244434522",
             "authors": [
@@ -2855,50 +2899,6 @@
             "issue": "6",
             "page_range": "1291-1301",
             "doi": "10.1093/ije/dyi224"
-        },
-        {
-            "title": "Explaining the social gradient in coronary heart disease: Comparing relative and absolute risk approaches",
-            "eid": "2-s2.0-33646231239",
-            "authors": [
-                {
-                    "scopus_id": "7403674871",
-                    "name": "Lynch J.",
-                    "affiliation_id": [
-                        "60002494",
-                        "60002494"
-                    ]
-                },
-                {
-                    "scopus_id": "35354080500",
-                    "name": "Smith G.D.",
-                    "affiliation_id": [
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "55418139000",
-                    "name": "Harper S.",
-                    "affiliation_id": [
-                        "60002494"
-                    ]
-                },
-                {
-                    "scopus_id": "6603266344",
-                    "name": "Bainbridge K.",
-                    "affiliation_id": [
-                        "60082111"
-                    ]
-                }
-            ],
-            "citations": 146,
-            "publication_name": "Journal of Epidemiology and Community Health",
-            "issn": "0143005X",
-            "cover_date": "2006-05-01",
-            "venue": "Journal",
-            "volume": "60",
-            "issue": "5",
-            "page_range": "436-441",
-            "doi": "10.1136/jech.2005.041350"
         },
         {
             "title": "Comparison of a spatial perspective with the multilevel analytical approach in neighborhood studies: The case of mental and behavioral disorders due to psychoactive substance use in Malm\u00f6, Sweden, 2001",
@@ -3000,7 +3000,7 @@
                     ]
                 }
             ],
-            "citations": 141,
+            "citations": 142,
             "publication_name": "Diabetes Care",
             "issn": "01495992",
             "cover_date": "1999-01-01",
@@ -4185,7 +4185,7 @@
                     ]
                 }
             ],
-            "citations": 103,
+            "citations": 104,
             "publication_name": "American Journal of Epidemiology",
             "issn": "00029262",
             "cover_date": "2009-04-01",
@@ -4396,7 +4396,7 @@
                     ]
                 }
             ],
-            "citations": 95,
+            "citations": 96,
             "publication_name": "Nutrition Reviews",
             "issn": "00296643",
             "cover_date": "2011-08-01",
@@ -4636,70 +4636,6 @@
             "doi": "10.1080/713658240"
         },
         {
-            "title": "A systematic review and meta-analysis of effects of early life non-cognitive skills on academic, psychosocial, cognitive and health outcomes",
-            "eid": "2-s2.0-85056193654",
-            "authors": [
-                {
-                    "scopus_id": "23968411200",
-                    "name": "Smithers L.G.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60189792"
-                    ]
-                },
-                {
-                    "scopus_id": "7003435557",
-                    "name": "Sawyer A.C.P.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60189792"
-                    ]
-                },
-                {
-                    "scopus_id": "6602479846",
-                    "name": "Chittleborough C.R.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60189792"
-                    ]
-                },
-                {
-                    "scopus_id": "41561133300",
-                    "name": "Davies N.M.",
-                    "affiliation_id": [
-                        "60171764",
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "35354080500",
-                    "name": "Davey Smith G.",
-                    "affiliation_id": [
-                        "60171764",
-                        "60020650"
-                    ]
-                },
-                {
-                    "scopus_id": "7403674871",
-                    "name": "Lynch J.W.",
-                    "affiliation_id": [
-                        "60009512",
-                        "60189792",
-                        "60171764"
-                    ]
-                }
-            ],
-            "citations": 86,
-            "publication_name": "Nature Human Behaviour",
-            "issn": "",
-            "cover_date": "2018-11-01",
-            "venue": "Journal",
-            "volume": "2",
-            "issue": "11",
-            "page_range": "867-880",
-            "doi": "10.1038/s41562-018-0461-x"
-        },
-        {
             "title": "Assessing health impact assessment: Multidisciplinary and international perspectives",
             "eid": "2-s2.0-0041817957",
             "authors": [
@@ -4914,7 +4850,7 @@
                     ]
                 }
             ],
-            "citations": 86,
+            "citations": 88,
             "publication_name": "Journal of Epidemiology and Community Health",
             "issn": "0143005X",
             "cover_date": "2003-09-01",
@@ -4923,6 +4859,70 @@
             "issue": "9",
             "page_range": "659-662",
             "doi": "10.1136/jech.57.9.659"
+        },
+        {
+            "title": "A systematic review and meta-analysis of effects of early life non-cognitive skills on academic, psychosocial, cognitive and health outcomes",
+            "eid": "2-s2.0-85056193654",
+            "authors": [
+                {
+                    "scopus_id": "23968411200",
+                    "name": "Smithers L.G.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "7003435557",
+                    "name": "Sawyer A.C.P.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "6602479846",
+                    "name": "Chittleborough C.R.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60189792"
+                    ]
+                },
+                {
+                    "scopus_id": "41561133300",
+                    "name": "Davies N.M.",
+                    "affiliation_id": [
+                        "60171764",
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "35354080500",
+                    "name": "Davey Smith G.",
+                    "affiliation_id": [
+                        "60171764",
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "7403674871",
+                    "name": "Lynch J.W.",
+                    "affiliation_id": [
+                        "60009512",
+                        "60189792",
+                        "60171764"
+                    ]
+                }
+            ],
+            "citations": 87,
+            "publication_name": "Nature Human Behaviour",
+            "issn": "",
+            "cover_date": "2018-11-01",
+            "venue": "Journal",
+            "volume": "2",
+            "issue": "11",
+            "page_range": "867-880",
+            "doi": "10.1038/s41562-018-0461-x"
         },
         {
             "title": "Associations between dietary patterns at 6 and 15 months of age and sociodemographic factors",
@@ -6028,6 +6028,58 @@
             "doi": "10.1093/ije/dyl160"
         },
         {
+            "title": "Access to health-care in Canadian immigrants: A longitudinal study of the National Population Health Survey",
+            "eid": "2-s2.0-78650092367",
+            "authors": [
+                {
+                    "scopus_id": "6602479892",
+                    "name": "Setia M.",
+                    "affiliation_id": [
+                        "60002494"
+                    ]
+                },
+                {
+                    "scopus_id": "8902670800",
+                    "name": "Quesnel-Vallee A.",
+                    "affiliation_id": [
+                        "60002494",
+                        "60002494"
+                    ]
+                },
+                {
+                    "scopus_id": "7005870441",
+                    "name": "Abrahamowicz M.",
+                    "affiliation_id": [
+                        "60002494"
+                    ]
+                },
+                {
+                    "scopus_id": "6701830936",
+                    "name": "Tousignant P.",
+                    "affiliation_id": [
+                        "60002494"
+                    ]
+                },
+                {
+                    "scopus_id": "7403674871",
+                    "name": "Lynch J.",
+                    "affiliation_id": [
+                        "60031846",
+                        "60020650"
+                    ]
+                }
+            ],
+            "citations": 65,
+            "publication_name": "Health and Social Care in the Community",
+            "issn": "09660410",
+            "cover_date": "2011-01-01",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "1",
+            "page_range": "70-79",
+            "doi": "10.1111/j.1365-2524.2010.00950.x"
+        },
+        {
             "title": "Metropolitan income inequality and working-age mortality: A cross-sectional analysis using comparable data from five countries",
             "eid": "2-s2.0-23944460149",
             "authors": [
@@ -6091,58 +6143,6 @@
             "issue": "1",
             "page_range": "101-110",
             "doi": "10.1093/jurban/jti012"
-        },
-        {
-            "title": "Access to health-care in Canadian immigrants: A longitudinal study of the National Population Health Survey",
-            "eid": "2-s2.0-78650092367",
-            "authors": [
-                {
-                    "scopus_id": "6602479892",
-                    "name": "Setia M.",
-                    "affiliation_id": [
-                        "60002494"
-                    ]
-                },
-                {
-                    "scopus_id": "8902670800",
-                    "name": "Quesnel-Vallee A.",
-                    "affiliation_id": [
-                        "60002494",
-                        "60002494"
-                    ]
-                },
-                {
-                    "scopus_id": "7005870441",
-                    "name": "Abrahamowicz M.",
-                    "affiliation_id": [
-                        "60002494"
-                    ]
-                },
-                {
-                    "scopus_id": "6701830936",
-                    "name": "Tousignant P.",
-                    "affiliation_id": [
-                        "60002494"
-                    ]
-                },
-                {
-                    "scopus_id": "7403674871",
-                    "name": "Lynch J.",
-                    "affiliation_id": [
-                        "60031846",
-                        "60020650"
-                    ]
-                }
-            ],
-            "citations": 64,
-            "publication_name": "Health and Social Care in the Community",
-            "issn": "09660410",
-            "cover_date": "2011-01-01",
-            "venue": "Journal",
-            "volume": "19",
-            "issue": "1",
-            "page_range": "70-79",
-            "doi": "10.1111/j.1365-2524.2010.00950.x"
         },
         {
             "title": "Influence of socioeconomic factors on survival after breast cancer - A nationwide cohort study of women diagnosed with breast cancer in Denmark 1983-1999",
@@ -6759,50 +6759,6 @@
             "doi": "10.1080/03004430.2011.586698"
         },
         {
-            "title": "Explaining age-specific inequalities in mortality from all causes, cardiovascular disease and ischaemic heart disease among South Korean male public servants: Relative and absolute perspectives",
-            "eid": "2-s2.0-37749018718",
-            "authors": [
-                {
-                    "scopus_id": "57198904674",
-                    "name": "Khang Y.H.",
-                    "affiliation_id": [
-                        "60006240",
-                        "60006240"
-                    ]
-                },
-                {
-                    "scopus_id": "7403674871",
-                    "name": "Lynch J.W.",
-                    "affiliation_id": [
-                        "60002494"
-                    ]
-                },
-                {
-                    "scopus_id": "23477807800",
-                    "name": "Jung-Choi K.",
-                    "affiliation_id": [
-                        "60096090"
-                    ]
-                },
-                {
-                    "scopus_id": "7403937430",
-                    "name": "Cho H.J.",
-                    "affiliation_id": [
-                        "60006240"
-                    ]
-                }
-            ],
-            "citations": 50,
-            "publication_name": "Heart",
-            "issn": "13556037",
-            "cover_date": "2008-01-01",
-            "venue": "Journal",
-            "volume": "94",
-            "issue": "1",
-            "page_range": "75-82",
-            "doi": "10.1136/hrt.2007.117747"
-        },
-        {
             "title": "Diet quality of UK infants is associated with dietary, adiposity, cardiovascular, and cognitive outcomes measured at 7-8 years of age<sup>1-4</sup>",
             "eid": "2-s2.0-84885829209",
             "authors": [
@@ -6850,7 +6806,7 @@
                     ]
                 }
             ],
-            "citations": 49,
+            "citations": 50,
             "publication_name": "Journal of Nutrition",
             "issn": "00223166",
             "cover_date": "2013-10-22",
@@ -6859,6 +6815,50 @@
             "issue": "10",
             "page_range": "1611-1617",
             "doi": "10.3945/jn.112.170605"
+        },
+        {
+            "title": "Explaining age-specific inequalities in mortality from all causes, cardiovascular disease and ischaemic heart disease among South Korean male public servants: Relative and absolute perspectives",
+            "eid": "2-s2.0-37749018718",
+            "authors": [
+                {
+                    "scopus_id": "57198904674",
+                    "name": "Khang Y.H.",
+                    "affiliation_id": [
+                        "60006240",
+                        "60006240"
+                    ]
+                },
+                {
+                    "scopus_id": "7403674871",
+                    "name": "Lynch J.W.",
+                    "affiliation_id": [
+                        "60002494"
+                    ]
+                },
+                {
+                    "scopus_id": "23477807800",
+                    "name": "Jung-Choi K.",
+                    "affiliation_id": [
+                        "60096090"
+                    ]
+                },
+                {
+                    "scopus_id": "7403937430",
+                    "name": "Cho H.J.",
+                    "affiliation_id": [
+                        "60006240"
+                    ]
+                }
+            ],
+            "citations": 50,
+            "publication_name": "Heart",
+            "issn": "13556037",
+            "cover_date": "2008-01-01",
+            "venue": "Journal",
+            "volume": "94",
+            "issue": "1",
+            "page_range": "75-82",
+            "doi": "10.1136/hrt.2007.117747"
         },
         {
             "title": "Analysis of socioeconomic health inequalities using the concentration index",
@@ -7127,7 +7127,7 @@
                     ]
                 }
             ],
-            "citations": 47,
+            "citations": 48,
             "publication_name": "PLoS Medicine",
             "issn": "15491277",
             "cover_date": "2018-04-01",
@@ -7627,7 +7627,7 @@
                     "scopus_id": "7004859420",
                     "name": "Schoenbach V.",
                     "affiliation_id": [
-                        "60017717"
+                        "60016639"
                     ]
                 },
                 {
@@ -8025,6 +8025,51 @@
             "doi": "10.1016/j.appet.2014.02.001"
         },
         {
+            "title": "Associations of education with 30 year life course blood pressure trajectories: Framingham Offspring Study",
+            "eid": "2-s2.0-79952060874",
+            "authors": [
+                {
+                    "scopus_id": "35484793900",
+                    "name": "Loucks E.",
+                    "affiliation_id": [
+                        "110097300",
+                        "60002494"
+                    ]
+                },
+                {
+                    "scopus_id": "7005870441",
+                    "name": "Abrahamowicz M.",
+                    "affiliation_id": [
+                        "60002494"
+                    ]
+                },
+                {
+                    "scopus_id": "15754805000",
+                    "name": "Xiao Y.",
+                    "affiliation_id": [
+                        "60002494"
+                    ]
+                },
+                {
+                    "scopus_id": "7403674871",
+                    "name": "Lynch J.",
+                    "affiliation_id": [
+                        "60031846",
+                        "60020650"
+                    ]
+                }
+            ],
+            "citations": 39,
+            "publication_name": "BMC Public Health",
+            "issn": "",
+            "cover_date": "2011-03-02",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1186/1471-2458-11-139"
+        },
+        {
             "title": "Mediation and modification of the association between hopelessness, hostility, and progression of carotid atherosclerosis",
             "eid": "2-s2.0-17444423219",
             "authors": [
@@ -8162,51 +8207,6 @@
             "issue": "5",
             "page_range": "901-908",
             "doi": "10.3945/jn.111.154971"
-        },
-        {
-            "title": "Associations of education with 30 year life course blood pressure trajectories: Framingham Offspring Study",
-            "eid": "2-s2.0-79952060874",
-            "authors": [
-                {
-                    "scopus_id": "35484793900",
-                    "name": "Loucks E.",
-                    "affiliation_id": [
-                        "110097300",
-                        "60002494"
-                    ]
-                },
-                {
-                    "scopus_id": "7005870441",
-                    "name": "Abrahamowicz M.",
-                    "affiliation_id": [
-                        "60002494"
-                    ]
-                },
-                {
-                    "scopus_id": "15754805000",
-                    "name": "Xiao Y.",
-                    "affiliation_id": [
-                        "60002494"
-                    ]
-                },
-                {
-                    "scopus_id": "7403674871",
-                    "name": "Lynch J.",
-                    "affiliation_id": [
-                        "60031846",
-                        "60020650"
-                    ]
-                }
-            ],
-            "citations": 38,
-            "publication_name": "BMC Public Health",
-            "issn": "",
-            "cover_date": "2011-03-02",
-            "venue": "Journal",
-            "volume": "11",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1186/1471-2458-11-139"
         },
         {
             "title": "Commentary: Plugging leaks and repelling boarders - Where to next for the SS Income Inequality?",
@@ -16286,7 +16286,7 @@
                     "scopus_id": "23033381300",
                     "name": "Black M.",
                     "affiliation_id": [
-                        "60015875"
+                        "60011032"
                     ]
                 },
                 {
@@ -19326,7 +19326,7 @@
                     ]
                 },
                 {
-                    "scopus_id": "57358724200",
+                    "scopus_id": "15738219100",
                     "name": "Pearson O.",
                     "affiliation_id": [
                         "130431771"
@@ -20129,6 +20129,5 @@
             "$": "Psychology (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:33:24",
-    "c-score": null
+    "date fetched": "2024-07-12 18:41:34"
 }

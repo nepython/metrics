@@ -705,7 +705,7 @@
                     ]
                 }
             ],
-            "citations": 5994,
+            "citations": 6008,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2015-01-10",
@@ -1437,7 +1437,7 @@
                     ]
                 }
             ],
-            "citations": 5480,
+            "citations": 5490,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -2154,7 +2154,7 @@
                     ]
                 }
             ],
-            "citations": 5131,
+            "citations": 5135,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2015-08-22",
@@ -2882,7 +2882,7 @@
                     ]
                 }
             ],
-            "citations": 4892,
+            "citations": 4907,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -3407,7 +3407,7 @@
                     "scopus_id": "56673854800",
                     "name": "Abedi A.",
                     "affiliation_id": [
-                        "60029311"
+                        "60015183"
                     ]
                 },
                 {
@@ -3632,7 +3632,7 @@
                     ]
                 }
             ],
-            "citations": 4755,
+            "citations": 4802,
             "publication_name": "Journal of the American College of Cardiology",
             "issn": "07351097",
             "cover_date": "2020-12-22",
@@ -4375,7 +4375,7 @@
                     ]
                 }
             ],
-            "citations": 3417,
+            "citations": 3420,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-10-08",
@@ -5098,7 +5098,7 @@
                     ]
                 }
             ],
-            "citations": 3315,
+            "citations": 3321,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2018-11-10",
@@ -5826,7 +5826,7 @@
                     ]
                 }
             ],
-            "citations": 2129,
+            "citations": 2139,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2018-11-10",
@@ -7273,7 +7273,7 @@
                     ]
                 }
             ],
-            "citations": 1115,
+            "citations": 1116,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2014-09-22",
@@ -7790,7 +7790,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 956,
+            "citations": 960,
             "publication_name": "New England Journal of Medicine",
             "issn": "00284793",
             "cover_date": "2018-12-20",
@@ -8130,7 +8130,7 @@
                     "scopus_id": "57192175437",
                     "name": "Gillium R.F.",
                     "affiliation_id": [
-                        "60008178"
+                        "60021587"
                     ]
                 },
                 {
@@ -8492,7 +8492,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 943,
+            "citations": 948,
             "publication_name": "Neuroepidemiology",
             "issn": "02515350",
             "cover_date": "2015-10-01",
@@ -9339,7 +9339,7 @@
                     ]
                 }
             ],
-            "citations": 433,
+            "citations": 435,
             "publication_name": "The BMJ",
             "issn": "09598146",
             "cover_date": "2021-11-17",
@@ -9445,7 +9445,7 @@
                     ]
                 }
             ],
-            "citations": 291,
+            "citations": 293,
             "publication_name": "JAMA Network Open",
             "issn": "",
             "cover_date": "2019-08-02",
@@ -9758,7 +9758,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 214,
+            "citations": 217,
             "publication_name": "Kidney International",
             "issn": "00852538",
             "cover_date": "2021-01-01",
@@ -11876,7 +11876,7 @@
                     ]
                 }
             ],
-            "citations": 40,
+            "citations": 41,
             "publication_name": "Atherosclerosis",
             "issn": "00219150",
             "cover_date": "2020-07-01",
@@ -13706,6 +13706,56 @@
             "doi": "10.1093/eurjpc/zwab001"
         },
         {
+            "title": "Inclisiran as Adjunct Lipid-Lowering Therapy for Patients with Cardiovascular Disease: A Cost-Effectiveness Analysis",
+            "eid": "2-s2.0-85089404176",
+            "authors": [
+                {
+                    "scopus_id": "57218514999",
+                    "name": "Kam N.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57211603910",
+                    "name": "Perera K.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "23101858900",
+                    "name": "Zomer E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7003970080",
+                    "name": "Liew D.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "32867460300",
+                    "name": "Ademi Z.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 20,
+            "publication_name": "PharmacoEconomics",
+            "issn": "11707690",
+            "cover_date": "2020-09-01",
+            "venue": "Journal",
+            "volume": "38",
+            "issue": "9",
+            "page_range": "1007-1020",
+            "doi": "10.1007/s40273-020-00948-w"
+        },
+        {
             "title": "Cost Effectiveness of Antenatal Lifestyle Interventions for Preventing Gestational Diabetes and Hypertensive Disease in Pregnancy",
             "eid": "2-s2.0-85087345308",
             "authors": [
@@ -13862,56 +13912,6 @@
             "issue": "6",
             "page_range": null,
             "doi": "10.1136/bmjgh-2020-002420"
-        },
-        {
-            "title": "Inclisiran as Adjunct Lipid-Lowering Therapy for Patients with Cardiovascular Disease: A Cost-Effectiveness Analysis",
-            "eid": "2-s2.0-85089404176",
-            "authors": [
-                {
-                    "scopus_id": "57218514999",
-                    "name": "Kam N.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57211603910",
-                    "name": "Perera K.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "23101858900",
-                    "name": "Zomer E.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "7003970080",
-                    "name": "Liew D.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "32867460300",
-                    "name": "Ademi Z.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                }
-            ],
-            "citations": 19,
-            "publication_name": "PharmacoEconomics",
-            "issn": "11707690",
-            "cover_date": "2020-09-01",
-            "venue": "Journal",
-            "volume": "38",
-            "issue": "9",
-            "page_range": "1007-1020",
-            "doi": "10.1007/s40273-020-00948-w"
         },
         {
             "title": "The cost-effectiveness of icosapent ethyl in combination with statin therapy compared with statin alone for cardiovascular risk reduction",
@@ -17488,6 +17488,113 @@
             "doi": "10.5694/mja2.51454"
         },
         {
+            "title": "Attainment of low-density lipoprotein cholesterol goals in statin treated patients: Real-world evidence from Australia",
+            "eid": "2-s2.0-85123889836",
+            "authors": [
+                {
+                    "scopus_id": "57362156800",
+                    "name": "Talic S.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57204760329",
+                    "name": "Marquina C.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "23101858900",
+                    "name": "Zomer E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57209300265",
+                    "name": "Ofori-Asenso R.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57224307137",
+                    "name": "Petrova M.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "56048641300",
+                    "name": "Vargas-Torres S.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57205329983",
+                    "name": "Abushanab D.",
+                    "affiliation_id": [
+                        "60012932",
+                        "60072743"
+                    ]
+                },
+                {
+                    "scopus_id": "7402000381",
+                    "name": "Wolfe R.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57208746374",
+                    "name": "Lybrand S.",
+                    "affiliation_id": [
+                        "127657073"
+                    ]
+                },
+                {
+                    "scopus_id": "57224320568",
+                    "name": "Thomson D.",
+                    "affiliation_id": [
+                        "127657103"
+                    ]
+                },
+                {
+                    "scopus_id": "57436381800",
+                    "name": "Stratton G.",
+                    "affiliation_id": [
+                        "127657094"
+                    ]
+                },
+                {
+                    "scopus_id": "7003970080",
+                    "name": "Liew D.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "32867460300",
+                    "name": "Ademi Z.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Current Problems in Cardiology",
+            "issn": "01462806",
+            "cover_date": "2022-07-01",
+            "venue": "Journal",
+            "volume": "47",
+            "issue": "7",
+            "page_range": null,
+            "doi": "10.1016/j.cpcardiol.2021.101068"
+        },
+        {
             "title": "Burden of disease and productivity impact of streptococcus suis infection in Thailand",
             "eid": "2-s2.0-85100312154",
             "authors": [
@@ -17680,113 +17787,6 @@
             "issue": "7",
             "page_range": "1495-1504",
             "doi": "10.1080/21645515.2017.1308987"
-        },
-        {
-            "title": "Attainment of low-density lipoprotein cholesterol goals in statin treated patients: Real-world evidence from Australia",
-            "eid": "2-s2.0-85123889836",
-            "authors": [
-                {
-                    "scopus_id": "57362156800",
-                    "name": "Talic S.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57204760329",
-                    "name": "Marquina C.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "23101858900",
-                    "name": "Zomer E.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57209300265",
-                    "name": "Ofori-Asenso R.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57224307137",
-                    "name": "Petrova M.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "56048641300",
-                    "name": "Vargas-Torres S.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57205329983",
-                    "name": "Abushanab D.",
-                    "affiliation_id": [
-                        "60012932",
-                        "60072743"
-                    ]
-                },
-                {
-                    "scopus_id": "7402000381",
-                    "name": "Wolfe R.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57208746374",
-                    "name": "Lybrand S.",
-                    "affiliation_id": [
-                        "127657073"
-                    ]
-                },
-                {
-                    "scopus_id": "57224320568",
-                    "name": "Thomson D.",
-                    "affiliation_id": [
-                        "127657103"
-                    ]
-                },
-                {
-                    "scopus_id": "57436381800",
-                    "name": "Stratton G.",
-                    "affiliation_id": [
-                        "127657094"
-                    ]
-                },
-                {
-                    "scopus_id": "7003970080",
-                    "name": "Liew D.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "32867460300",
-                    "name": "Ademi Z.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                }
-            ],
-            "citations": 11,
-            "publication_name": "Current Problems in Cardiology",
-            "issn": "01462806",
-            "cover_date": "2022-07-01",
-            "venue": "Journal",
-            "volume": "47",
-            "issue": "7",
-            "page_range": null,
-            "doi": "10.1016/j.cpcardiol.2021.101068"
         },
         {
             "title": "A Comparison of the Cost-Effectiveness of Lifestyle Interventions in Pregnancy",
@@ -19545,6 +19545,65 @@
             "doi": "10.1097/MD.0000000000000590"
         },
         {
+            "title": "Adherence and Discontinuation of Disease-Specific Therapies for\u00a0Pulmonary Arterial Hypertension: A Systematic Review and Meta-Analysis",
+            "eid": "2-s2.0-85142647289",
+            "authors": [
+                {
+                    "scopus_id": "57222181066",
+                    "name": "Qadus S.",
+                    "affiliation_id": [
+                        "60067706"
+                    ]
+                },
+                {
+                    "scopus_id": "57200532990",
+                    "name": "Naser A.Y.",
+                    "affiliation_id": [
+                        "60067706"
+                    ]
+                },
+                {
+                    "scopus_id": "57209300265",
+                    "name": "Ofori-Asenso R.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "32867460300",
+                    "name": "Ademi Z.",
+                    "affiliation_id": [
+                        "60012932",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57981626600",
+                    "name": "Al Awawdeh S.",
+                    "affiliation_id": [
+                        "60067706"
+                    ]
+                },
+                {
+                    "scopus_id": "7003970080",
+                    "name": "Liew D.",
+                    "affiliation_id": [
+                        "60012932",
+                        "60189793"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "American Journal of Cardiovascular Drugs",
+            "issn": "11753277",
+            "cover_date": "2023-01-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "1",
+            "page_range": "19-33",
+            "doi": "10.1007/s40256-022-00553-6"
+        },
+        {
             "title": "Estimating the benefits of obesity prevention on productivity: an Australian perspective",
             "eid": "2-s2.0-85129829427",
             "authors": [
@@ -19667,6 +19726,61 @@
             "issue": "12",
             "page_range": "2714-2722",
             "doi": "10.2337/DC21-0922"
+        },
+        {
+            "title": "Cost-Effectiveness of Empagliflozin and Metformin Combination Versus Standard Care as First-Line Therapy in Patients With Type 2 Diabetes Mellitus",
+            "eid": "2-s2.0-85119437049",
+            "authors": [
+                {
+                    "scopus_id": "57205329983",
+                    "name": "Abushanab D.",
+                    "affiliation_id": [
+                        "60012932",
+                        "60072743",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7003970080",
+                    "name": "Liew D.",
+                    "affiliation_id": [
+                        "60012932",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57204760329",
+                    "name": "Marquina C.",
+                    "affiliation_id": [
+                        "60012932",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "25924770500",
+                    "name": "Al-Badriyeh D.",
+                    "affiliation_id": [
+                        "60072749"
+                    ]
+                },
+                {
+                    "scopus_id": "32867460300",
+                    "name": "Ademi Z.",
+                    "affiliation_id": [
+                        "60012932",
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Endocrine Practice",
+            "issn": "1530891X",
+            "cover_date": "2022-01-01",
+            "venue": "Journal",
+            "volume": "28",
+            "issue": "1",
+            "page_range": "16-24",
+            "doi": "10.1016/j.eprac.2021.07.018"
         },
         {
             "title": "Trends in the Utilization of Lipid-Lowering Medications in Australia: An Analysis of National Pharmacy Claims Data",
@@ -19859,7 +19973,7 @@
                     "scopus_id": "12768244800",
                     "name": "Carney P.",
                     "affiliation_id": [
-                        "60019578",
+                        "60012932",
                         "60110201"
                     ]
                 },
@@ -20284,21 +20398,21 @@
                     "scopus_id": "32867460300",
                     "name": "Ademi Z.",
                     "affiliation_id": [
-                        "60019578"
+                        "60012932"
                     ]
                 },
                 {
                     "scopus_id": "24482778500",
                     "name": "Walls H.L.",
                     "affiliation_id": [
-                        "60019578"
+                        "60012932"
                     ]
                 },
                 {
                     "scopus_id": "7102329188",
                     "name": "Peeters A.",
                     "affiliation_id": [
-                        "60019578"
+                        "60012932"
                     ]
                 },
                 {
@@ -20319,7 +20433,7 @@
                     "scopus_id": "56443568800",
                     "name": "Stevenson C.",
                     "affiliation_id": [
-                        "60019578"
+                        "60012932"
                     ]
                 },
                 {
@@ -20340,7 +20454,7 @@
                     "scopus_id": "55543812700",
                     "name": "Reid C.M.",
                     "affiliation_id": [
-                        "60019578"
+                        "60012932"
                     ]
                 }
             ],
@@ -20456,65 +20570,6 @@
             "doi": "10.1001/jamacardio.2022.5437"
         },
         {
-            "title": "Adherence and Discontinuation of Disease-Specific Therapies for\u00a0Pulmonary Arterial Hypertension: A Systematic Review and Meta-Analysis",
-            "eid": "2-s2.0-85142647289",
-            "authors": [
-                {
-                    "scopus_id": "57222181066",
-                    "name": "Qadus S.",
-                    "affiliation_id": [
-                        "60067706"
-                    ]
-                },
-                {
-                    "scopus_id": "57200532990",
-                    "name": "Naser A.Y.",
-                    "affiliation_id": [
-                        "60067706"
-                    ]
-                },
-                {
-                    "scopus_id": "57209300265",
-                    "name": "Ofori-Asenso R.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "32867460300",
-                    "name": "Ademi Z.",
-                    "affiliation_id": [
-                        "60012932",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "57981626600",
-                    "name": "Al Awawdeh S.",
-                    "affiliation_id": [
-                        "60067706"
-                    ]
-                },
-                {
-                    "scopus_id": "7003970080",
-                    "name": "Liew D.",
-                    "affiliation_id": [
-                        "60012932",
-                        "60189793"
-                    ]
-                }
-            ],
-            "citations": 5,
-            "publication_name": "American Journal of Cardiovascular Drugs",
-            "issn": "11753277",
-            "cover_date": "2023-01-01",
-            "venue": "Journal",
-            "volume": "23",
-            "issue": "1",
-            "page_range": "19-33",
-            "doi": "10.1007/s40256-022-00553-6"
-        },
-        {
             "title": "Loss of Productivity-Adjusted Life-Years in Working-Age Australians Due to Knee Osteoarthritis: A Life-Table Modeling Approach",
             "eid": "2-s2.0-85141415114",
             "authors": [
@@ -20613,61 +20668,6 @@
             "issue": "8",
             "page_range": null,
             "doi": "10.1016/j.cpcardiol.2022.101211"
-        },
-        {
-            "title": "Cost-Effectiveness of Empagliflozin and Metformin Combination Versus Standard Care as First-Line Therapy in Patients With Type 2 Diabetes Mellitus",
-            "eid": "2-s2.0-85119437049",
-            "authors": [
-                {
-                    "scopus_id": "57205329983",
-                    "name": "Abushanab D.",
-                    "affiliation_id": [
-                        "60012932",
-                        "60072743",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7003970080",
-                    "name": "Liew D.",
-                    "affiliation_id": [
-                        "60012932",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "57204760329",
-                    "name": "Marquina C.",
-                    "affiliation_id": [
-                        "60012932",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "25924770500",
-                    "name": "Al-Badriyeh D.",
-                    "affiliation_id": [
-                        "60072749"
-                    ]
-                },
-                {
-                    "scopus_id": "32867460300",
-                    "name": "Ademi Z.",
-                    "affiliation_id": [
-                        "60012932",
-                        "60019578"
-                    ]
-                }
-            ],
-            "citations": 5,
-            "publication_name": "Endocrine Practice",
-            "issn": "1530891X",
-            "cover_date": "2022-01-01",
-            "venue": "Journal",
-            "volume": "28",
-            "issue": "1",
-            "page_range": "16-24",
-            "doi": "10.1016/j.eprac.2021.07.018"
         },
         {
             "title": "The preventable productivity burden of kidney disease in australia",
@@ -20831,7 +20831,7 @@
                     "scopus_id": "12768244800",
                     "name": "Carney P.",
                     "affiliation_id": [
-                        "60019578",
+                        "60012932",
                         "60110201"
                     ]
                 },
@@ -22149,6 +22149,70 @@
             "doi": "10.4414/smw.2018.14626"
         },
         {
+            "title": "Use of secondary prevention medications in metropolitan and non-metropolitan areas: an analysis of 41 925 myocardial infarctions in Australia",
+            "eid": "2-s2.0-85189165381",
+            "authors": [
+                {
+                    "scopus_id": "57222041061",
+                    "name": "Livori A.C.",
+                    "affiliation_id": [
+                        "60019578",
+                        "123395559"
+                    ]
+                },
+                {
+                    "scopus_id": "32867460300",
+                    "name": "Ademi Z.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60012932",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "23990465700",
+                    "name": "Ilom\u00e4ki J.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57207302221",
+                    "name": "Pol D.",
+                    "affiliation_id": [
+                        "60088996"
+                    ]
+                },
+                {
+                    "scopus_id": "57218205402",
+                    "name": "Morton J.I.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60033409"
+                    ]
+                },
+                {
+                    "scopus_id": "35508107000",
+                    "name": "Bell J.S.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60012932",
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "European Journal of Preventive Cardiology",
+            "issn": "20474873",
+            "cover_date": "2024-03-01",
+            "venue": "Journal",
+            "volume": "31",
+            "issue": "5",
+            "page_range": "580-588",
+            "doi": "10.1093/eurjpc/zwad360"
+        },
+        {
             "title": "Lipid-Lowering Strategies for Primary Prevention of Coronary Heart Disease in the UK: A Cost-Effectiveness Analysis",
             "eid": "2-s2.0-85168587518",
             "authors": [
@@ -22715,6 +22779,71 @@
             "doi": "10.1007/s40273-022-01183-1"
         },
         {
+            "title": "Economic Evaluations of Child Nutrition Interventions in Low-and Middle-Income Countries: Systematic Review and Quality Appraisal",
+            "eid": "2-s2.0-85123968800",
+            "authors": [
+                {
+                    "scopus_id": "56622359000",
+                    "name": "Baek Y.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "32867460300",
+                    "name": "Ademi Z.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "55782608300",
+                    "name": "Paudel S.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7404016774",
+                    "name": "Fisher J.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "37040900900",
+                    "name": "Tran T.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "55575895300",
+                    "name": "Romero L.",
+                    "affiliation_id": [
+                        "112663508"
+                    ]
+                },
+                {
+                    "scopus_id": "7202050271",
+                    "name": "Owen A.",
+                    "affiliation_id": [
+                        "60012932",
+                        "112663508"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Advances in Nutrition",
+            "issn": "21618313",
+            "cover_date": "2022-01-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "1",
+            "page_range": "282-317",
+            "doi": "10.1093/advances/nmab097"
+        },
+        {
             "title": "Projected New-Onset Cardiovascular Disease by Socioeconomic Group in Australia",
             "eid": "2-s2.0-85123116575",
             "authors": [
@@ -23100,70 +23229,6 @@
             "issue": "2",
             "page_range": "463",
             "doi": "10.1111/bjd.14279"
-        },
-        {
-            "title": "Use of secondary prevention medications in metropolitan and non-metropolitan areas: an analysis of 41 925 myocardial infarctions in Australia",
-            "eid": "2-s2.0-85189165381",
-            "authors": [
-                {
-                    "scopus_id": "57222041061",
-                    "name": "Livori A.C.",
-                    "affiliation_id": [
-                        "60019578",
-                        "123395559"
-                    ]
-                },
-                {
-                    "scopus_id": "32867460300",
-                    "name": "Ademi Z.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60012932",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "23990465700",
-                    "name": "Ilom\u00e4ki J.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57207302221",
-                    "name": "Pol D.",
-                    "affiliation_id": [
-                        "60088996"
-                    ]
-                },
-                {
-                    "scopus_id": "57218205402",
-                    "name": "Morton J.I.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60033409"
-                    ]
-                },
-                {
-                    "scopus_id": "35508107000",
-                    "name": "Bell J.S.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60012932",
-                        "60019578"
-                    ]
-                }
-            ],
-            "citations": 2,
-            "publication_name": "European Journal of Preventive Cardiology",
-            "issn": "20474873",
-            "cover_date": "2024-03-01",
-            "venue": "Journal",
-            "volume": "31",
-            "issue": "5",
-            "page_range": "580-588",
-            "doi": "10.1093/eurjpc/zwad360"
         },
         {
             "title": "A systematic review and meta-analysis of short-stay programmes for total hip and knee replacement, focusing on safety and optimal patient selection",
@@ -24286,71 +24351,6 @@
             "doi": "10.1016/j.cpcardiol.2022.101416"
         },
         {
-            "title": "Economic Evaluations of Child Nutrition Interventions in Low-and Middle-Income Countries: Systematic Review and Quality Appraisal",
-            "eid": "2-s2.0-85123968800",
-            "authors": [
-                {
-                    "scopus_id": "56622359000",
-                    "name": "Baek Y.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "32867460300",
-                    "name": "Ademi Z.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "55782608300",
-                    "name": "Paudel S.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "7404016774",
-                    "name": "Fisher J.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "37040900900",
-                    "name": "Tran T.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "55575895300",
-                    "name": "Romero L.",
-                    "affiliation_id": [
-                        "112663508"
-                    ]
-                },
-                {
-                    "scopus_id": "7202050271",
-                    "name": "Owen A.",
-                    "affiliation_id": [
-                        "60012932",
-                        "112663508"
-                    ]
-                }
-            ],
-            "citations": 2,
-            "publication_name": "Advances in Nutrition",
-            "issn": "21618313",
-            "cover_date": "2022-01-01",
-            "venue": "Journal",
-            "volume": "13",
-            "issue": "1",
-            "page_range": "282-317",
-            "doi": "10.1093/advances/nmab097"
-        },
-        {
             "title": "The effect of epilepsy surgery on productivity: A systematic review and meta-analysis",
             "eid": "2-s2.0-85123704118",
             "authors": [
@@ -25072,6 +25072,70 @@
             "doi": "10.1016/j.eclinm.2023.102297"
         },
         {
+            "title": "No effect of remoteness on clinical outcomes following myocardial infarction: An analysis of 43,729 myocardial infarctions in Victoria, Australia",
+            "eid": "2-s2.0-85179704312",
+            "authors": [
+                {
+                    "scopus_id": "57222041061",
+                    "name": "Livori A.C.",
+                    "affiliation_id": [
+                        "60019578",
+                        "123395559"
+                    ]
+                },
+                {
+                    "scopus_id": "32867460300",
+                    "name": "Ademi Z.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60012932",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "23990465700",
+                    "name": "Ilom\u00e4ki J.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "57207302221",
+                    "name": "Pol D.",
+                    "affiliation_id": [
+                        "60088996"
+                    ]
+                },
+                {
+                    "scopus_id": "57218205402",
+                    "name": "Morton J.I.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60033409"
+                    ]
+                },
+                {
+                    "scopus_id": "35508107000",
+                    "name": "Bell J.S.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60012932",
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "International Journal of Cardiology",
+            "issn": "01675273",
+            "cover_date": "2024-03-01",
+            "venue": "Journal",
+            "volume": "398",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.ijcard.2023.131593"
+        },
+        {
             "title": "Considering equity and cost-effectiveness in assessing a parenting intervention to promote early childhood development in rural Vietnam",
             "eid": "2-s2.0-85171600269",
             "authors": [
@@ -25667,6 +25731,70 @@
             "issue": "3",
             "page_range": "363-374",
             "doi": "10.1007/s40258-016-0283-9"
+        },
+        {
+            "title": "Patterns of 12-Month Post-Myocardial Infarction Medication Use According to Revascularisation Strategy: Analysis of 15,339 Admissions in Victoria, Australia",
+            "eid": "2-s2.0-85197466613",
+            "authors": [
+                {
+                    "scopus_id": "57222041061",
+                    "name": "Livori A.C.",
+                    "affiliation_id": [
+                        "60019578",
+                        "123395559"
+                    ]
+                },
+                {
+                    "scopus_id": "32867460300",
+                    "name": "Ademi Z.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "23990465700",
+                    "name": "Ilom\u00e4ki J.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "26664888500",
+                    "name": "Nelson A.J.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60030982"
+                    ]
+                },
+                {
+                    "scopus_id": "7404446415",
+                    "name": "Bell J.S.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60012932",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "57218205402",
+                    "name": "Morton J.I.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60033409"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Heart Lung and Circulation",
+            "issn": "14439506",
+            "cover_date": "2024-01-01",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.hlc.2024.04.307"
         },
         {
             "title": "Evaluating Health and Well-Being Returns on Investment in a Cancer Biobank",
@@ -26448,70 +26576,6 @@
             "doi": "10.1186/s12913-023-10427-5"
         },
         {
-            "title": "No effect of remoteness on clinical outcomes following myocardial infarction: An analysis of 43,729 myocardial infarctions in Victoria, Australia",
-            "eid": "2-s2.0-85179704312",
-            "authors": [
-                {
-                    "scopus_id": "57222041061",
-                    "name": "Livori A.C.",
-                    "affiliation_id": [
-                        "60019578",
-                        "123395559"
-                    ]
-                },
-                {
-                    "scopus_id": "32867460300",
-                    "name": "Ademi Z.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60012932",
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "23990465700",
-                    "name": "Ilom\u00e4ki J.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "57207302221",
-                    "name": "Pol D.",
-                    "affiliation_id": [
-                        "60088996"
-                    ]
-                },
-                {
-                    "scopus_id": "57218205402",
-                    "name": "Morton J.I.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60033409"
-                    ]
-                },
-                {
-                    "scopus_id": "35508107000",
-                    "name": "Bell J.S.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60012932",
-                        "60019578"
-                    ]
-                }
-            ],
-            "citations": 0,
-            "publication_name": "International Journal of Cardiology",
-            "issn": "01675273",
-            "cover_date": "2024-03-01",
-            "venue": "Journal",
-            "volume": "398",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.ijcard.2023.131593"
-        },
-        {
             "title": "Should we continue to subsidise therapeutics with uncertain efficacy? Health economic implications for icosapent ethyl",
             "eid": "2-s2.0-85178501142",
             "authors": [
@@ -26582,7 +26646,7 @@
             "venue": "Book",
             "volume": "1-3",
             "issue": "",
-            "page_range": "V2-420-V2-434",
+            "page_range": "420-434",
             "doi": "10.1016/B978-0-12-812735-3.00210-7"
         },
         {
@@ -27292,13 +27356,13 @@
     ],
     "affiliation": "Monash University",
     "affiliation_id": "60019578",
-    "city": "Clayton",
+    "city": "Melbourne",
     "country": "Australia",
-    "document_count": 199,
+    "document_count": 200,
     "subject_area": [
         {
             "@abbrev": "MEDI",
-            "@frequency": "425",
+            "@frequency": "427",
             "$": "Medicine (all)"
         },
         {
@@ -27312,6 +27376,5 @@
             "$": "Nursing (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:03:55",
-    "c-score": null
+    "date fetched": "2024-07-12 19:32:27"
 }

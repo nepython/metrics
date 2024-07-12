@@ -260,7 +260,7 @@
                     ]
                 }
             ],
-            "citations": 3315,
+            "citations": 3318,
             "publication_name": "Diabetes Care",
             "issn": "01495992",
             "cover_date": "2012-03-01",
@@ -775,7 +775,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 3125,
+            "citations": 3139,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2015-02-12",
@@ -1290,7 +1290,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 1124,
+            "citations": 1128,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2015-02-12",
@@ -1571,7 +1571,7 @@
                     "scopus_id": "6603857482",
                     "name": "Branham K.E.",
                     "affiliation_id": [
-                        "60022590"
+                        "60033182"
                     ]
                 },
                 {
@@ -1585,14 +1585,14 @@
                     "scopus_id": "7005330116",
                     "name": "Heckenlively J.R.",
                     "affiliation_id": [
-                        "60022590"
+                        "60033182"
                     ]
                 },
                 {
                     "scopus_id": "7006122480",
                     "name": "Othman M.I.",
                     "affiliation_id": [
-                        "60022590"
+                        "60033182"
                     ]
                 },
                 {
@@ -1871,7 +1871,7 @@
                     "scopus_id": "7006091772",
                     "name": "Curcio C.A.",
                     "affiliation_id": [
-                        "60027086"
+                        "60014269"
                     ]
                 },
                 {
@@ -2048,7 +2048,7 @@
                     ]
                 }
             ],
-            "citations": 1052,
+            "citations": 1055,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2016-02-01",
@@ -2152,7 +2152,7 @@
                     ]
                 }
             ],
-            "citations": 994,
+            "citations": 995,
             "publication_name": "Archives of Ophthalmology",
             "issn": "00039950",
             "cover_date": "2004-01-01",
@@ -2195,7 +2195,7 @@
                     ]
                 }
             ],
-            "citations": 976,
+            "citations": 978,
             "publication_name": "Ophthalmology",
             "issn": "01616420",
             "cover_date": "1995-01-01",
@@ -2365,7 +2365,7 @@
                     ]
                 }
             ],
-            "citations": 857,
+            "citations": 860,
             "publication_name": "Ophthalmology",
             "issn": "01616420",
             "cover_date": "2010-01-01",
@@ -3319,7 +3319,7 @@
                     ]
                 }
             ],
-            "citations": 572,
+            "citations": 573,
             "publication_name": "American Journal of Ophthalmology",
             "issn": "00029394",
             "cover_date": "2015-05-01",
@@ -3469,7 +3469,7 @@
                     ]
                 }
             ],
-            "citations": 437,
+            "citations": 438,
             "publication_name": "Investigative Ophthalmology and Visual Science",
             "issn": "01460404",
             "cover_date": "2008-07-01",
@@ -4275,43 +4275,6 @@
             "doi": "10.1097/AUD.0b013e31803126b6"
         },
         {
-            "title": "Prevalence and progression of myopic retinopathy in an older population",
-            "eid": "2-s2.0-0036210220",
-            "authors": [
-                {
-                    "scopus_id": "8129654900",
-                    "name": "Vongphanit J.",
-                    "affiliation_id": [
-                        "60013933"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60013933",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.",
-                    "affiliation_id": [
-                        "60013933"
-                    ]
-                }
-            ],
-            "citations": 371,
-            "publication_name": "Ophthalmology",
-            "issn": "01616420",
-            "cover_date": "2002-04-13",
-            "venue": "Journal",
-            "volume": "109",
-            "issue": "4",
-            "page_range": "704-711",
-            "doi": "10.1016/S0161-6420(01)01024-7"
-        },
-        {
             "title": "Genome-wide meta-analyses of multiancestry cohorts identify multiple new susceptibility loci for refractive error and myopia",
             "eid": "2-s2.0-84874654256",
             "authors": [
@@ -4840,7 +4803,7 @@
                     "name": "Lass J.H.",
                     "affiliation_id": [
                         "60000305",
-                        "60000305"
+                        "60006404"
                     ]
                 },
                 {
@@ -4855,7 +4818,7 @@
                     "name": "Iyengar S.K.",
                     "affiliation_id": [
                         "60000305",
-                        "60000305",
+                        "60006404",
                         "60006404"
                     ]
                 },
@@ -5055,7 +5018,7 @@
                     ]
                 }
             ],
-            "citations": 370,
+            "citations": 371,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2013-03-01",
@@ -5064,6 +5027,43 @@
             "issue": "3",
             "page_range": "314-318",
             "doi": "10.1038/ng.2554"
+        },
+        {
+            "title": "Prevalence and progression of myopic retinopathy in an older population",
+            "eid": "2-s2.0-0036210220",
+            "authors": [
+                {
+                    "scopus_id": "8129654900",
+                    "name": "Vongphanit J.",
+                    "affiliation_id": [
+                        "60013933"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60013933",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.",
+                    "affiliation_id": [
+                        "60013933"
+                    ]
+                }
+            ],
+            "citations": 371,
+            "publication_name": "Ophthalmology",
+            "issn": "01616420",
+            "cover_date": "2002-04-13",
+            "venue": "Journal",
+            "volume": "109",
+            "issue": "4",
+            "page_range": "704-711",
+            "doi": "10.1016/S0161-6420(01)01024-7"
         },
         {
             "title": "Natural History of Branch Retinal Vein Occlusion: An Evidence-Based Systematic Review",
@@ -5138,7 +5138,7 @@
                     ]
                 }
             ],
-            "citations": 355,
+            "citations": 357,
             "publication_name": "Ophthalmology",
             "issn": "01616420",
             "cover_date": "2010-01-01",
@@ -5212,7 +5212,7 @@
                     ]
                 }
             ],
-            "citations": 353,
+            "citations": 354,
             "publication_name": "Ophthalmology",
             "issn": "01616420",
             "cover_date": "2010-05-01",
@@ -5296,7 +5296,7 @@
                     ]
                 }
             ],
-            "citations": 350,
+            "citations": 351,
             "publication_name": "Ophthalmology",
             "issn": "01616420",
             "cover_date": "2008-11-01",
@@ -5547,6 +5547,64 @@
             "doi": "10.1016/j.survophthal.2008.10.003"
         },
         {
+            "title": "Dietary Antioxidants and the Long-term Incidence of Age-Related Macular Degeneration. The Blue Mountains Eye Study",
+            "eid": "2-s2.0-38749097003",
+            "authors": [
+                {
+                    "scopus_id": "16053726900",
+                    "name": "Tan J.S.L.",
+                    "affiliation_id": [
+                        "60003992"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J.",
+                    "affiliation_id": [
+                        "60003992",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6507672607",
+                    "name": "Flood V.",
+                    "affiliation_id": [
+                        "60003992"
+                    ]
+                },
+                {
+                    "scopus_id": "6701613193",
+                    "name": "Rochtchina E.",
+                    "affiliation_id": [
+                        "60003992"
+                    ]
+                },
+                {
+                    "scopus_id": "7406472638",
+                    "name": "Smith W.",
+                    "affiliation_id": [
+                        "60017054"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60003992"
+                    ]
+                }
+            ],
+            "citations": 329,
+            "publication_name": "Ophthalmology",
+            "issn": "01616420",
+            "cover_date": "2008-02-01",
+            "venue": "Journal",
+            "volume": "115",
+            "issue": "2",
+            "page_range": "334-341",
+            "doi": "10.1016/j.ophtha.2007.03.083"
+        },
+        {
             "title": "Natural History of Central Retinal Vein Occlusion: An Evidence-Based Systematic Review",
             "eid": "2-s2.0-77952890912",
             "authors": [
@@ -5628,64 +5686,6 @@
             "issue": "6",
             "page_range": null,
             "doi": "10.1016/j.ophtha.2010.01.060"
-        },
-        {
-            "title": "Dietary Antioxidants and the Long-term Incidence of Age-Related Macular Degeneration. The Blue Mountains Eye Study",
-            "eid": "2-s2.0-38749097003",
-            "authors": [
-                {
-                    "scopus_id": "16053726900",
-                    "name": "Tan J.S.L.",
-                    "affiliation_id": [
-                        "60003992"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J.",
-                    "affiliation_id": [
-                        "60003992",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6507672607",
-                    "name": "Flood V.",
-                    "affiliation_id": [
-                        "60003992"
-                    ]
-                },
-                {
-                    "scopus_id": "6701613193",
-                    "name": "Rochtchina E.",
-                    "affiliation_id": [
-                        "60003992"
-                    ]
-                },
-                {
-                    "scopus_id": "7406472638",
-                    "name": "Smith W.",
-                    "affiliation_id": [
-                        "60017054"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60003992"
-                    ]
-                }
-            ],
-            "citations": 327,
-            "publication_name": "Ophthalmology",
-            "issn": "01616420",
-            "cover_date": "2008-02-01",
-            "venue": "Journal",
-            "volume": "115",
-            "issue": "2",
-            "page_range": "334-341",
-            "doi": "10.1016/j.ophtha.2007.03.083"
         },
         {
             "title": "Prevalence and associations of dry eye syndrome in an older population: The Blue Mountains Eye Study",
@@ -5862,7 +5862,7 @@
                     ]
                 }
             ],
-            "citations": 292,
+            "citations": 293,
             "publication_name": "Ophthalmic Epidemiology",
             "issn": "09286586",
             "cover_date": "2009-12-01",
@@ -6725,7 +6725,7 @@
                     ]
                 }
             ],
-            "citations": 273,
+            "citations": 274,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2011-12-01",
@@ -7161,7 +7161,7 @@
                     ]
                 }
             ],
-            "citations": 252,
+            "citations": 253,
             "publication_name": "Ophthalmology",
             "issn": "01616420",
             "cover_date": "2003-01-01",
@@ -7548,7 +7548,7 @@
                     "name": "Tai E.S.",
                     "affiliation_id": [
                         "60017161",
-                        "60026680"
+                        "60029656"
                     ]
                 },
                 {
@@ -8246,7 +8246,7 @@
                 },
                 {
                     "scopus_id": "55664024800",
-                    "name": "Jie J.",
+                    "name": "Jie J.W.",
                     "affiliation_id": [
                         "60026553",
                         "60025709"
@@ -8261,21 +8261,21 @@
                 },
                 {
                     "scopus_id": "7004067300",
-                    "name": "Couper D.",
+                    "name": "Couper D.J.",
                     "affiliation_id": [
-                        "60025111"
+                        "60016639"
                     ]
                 },
                 {
                     "scopus_id": "7006662570",
-                    "name": "Sharrett A.",
+                    "name": "Sharrett A.R.",
                     "affiliation_id": [
                         "60006183"
                     ]
                 },
                 {
                     "scopus_id": "7403147159",
-                    "name": "Wong T.",
+                    "name": "Wong T.Y.",
                     "affiliation_id": [
                         "60026553",
                         "60026680",
@@ -8598,7 +8598,7 @@
                     ]
                 }
             ],
-            "citations": 216,
+            "citations": 217,
             "publication_name": "Ophthalmology",
             "issn": "01616420",
             "cover_date": "2011-05-01",
@@ -9343,7 +9343,7 @@
                     ]
                 }
             ],
-            "citations": 213,
+            "citations": 214,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2018-06-01",
@@ -9456,45 +9456,6 @@
             "doi": "10.1097/00061198-200408000-00010"
         },
         {
-            "title": "Retinal vascular changes in pre-diabetes and prehypertension: New findings and their research and clinical implications",
-            "eid": "2-s2.0-35148869092",
-            "authors": [
-                {
-                    "scopus_id": "22636301000",
-                    "name": "Thanh T.N.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Jie J.W.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Tien Y.W.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60017161",
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 204,
-            "publication_name": "Diabetes Care",
-            "issn": "01495992",
-            "cover_date": "2007-10-01",
-            "venue": "Journal",
-            "volume": "30",
-            "issue": "10",
-            "page_range": "2708-2715",
-            "doi": "10.2337/dc07-0732"
-        },
-        {
             "title": "Prevalence of Diabetic Retinopathy in Rural China: The Handan Eye Study",
             "eid": "2-s2.0-61349100111",
             "authors": [
@@ -9573,7 +9534,7 @@
                     ]
                 }
             ],
-            "citations": 203,
+            "citations": 204,
             "publication_name": "Ophthalmology",
             "issn": "01616420",
             "cover_date": "2009-03-01",
@@ -9582,6 +9543,45 @@
             "issue": "3",
             "page_range": "461-467",
             "doi": "10.1016/j.ophtha.2008.10.003"
+        },
+        {
+            "title": "Retinal vascular changes in pre-diabetes and prehypertension: New findings and their research and clinical implications",
+            "eid": "2-s2.0-35148869092",
+            "authors": [
+                {
+                    "scopus_id": "22636301000",
+                    "name": "Thanh T.N.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Jie J.W.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Tien Y.W.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60017161",
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 204,
+            "publication_name": "Diabetes Care",
+            "issn": "01495992",
+            "cover_date": "2007-10-01",
+            "venue": "Journal",
+            "volume": "30",
+            "issue": "10",
+            "page_range": "2708-2715",
+            "doi": "10.2337/dc07-0732"
         },
         {
             "title": "Genome-wide meta-analysis identifies six novel loci associated with habitual coffee consumption",
@@ -10319,7 +10319,7 @@
                     ]
                 }
             ],
-            "citations": 199,
+            "citations": 200,
             "publication_name": "Molecular Psychiatry",
             "issn": "13594184",
             "cover_date": "2015-05-30",
@@ -10917,7 +10917,7 @@
                     ]
                 }
             ],
-            "citations": 198,
+            "citations": 199,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2016-02-01",
@@ -12250,7 +12250,7 @@
                     ]
                 }
             ],
-            "citations": 181,
+            "citations": 183,
             "publication_name": "Ophthalmology",
             "issn": "01616420",
             "cover_date": "2011-04-01",
@@ -13874,7 +13874,7 @@
                     ]
                 }
             ],
-            "citations": 166,
+            "citations": 167,
             "publication_name": "American Journal of Ophthalmology",
             "issn": "00029394",
             "cover_date": "2005-01-01",
@@ -14086,127 +14086,6 @@
             "issue": "5",
             "page_range": "658-663",
             "doi": "10.1001/archopht.121.5.658"
-        },
-        {
-            "title": "Blood pressure and retinal arteriolar narrowing in children",
-            "eid": "2-s2.0-34247885897",
-            "authors": [
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "8054683900",
-                    "name": "Cheung N.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60005245"
-                    ]
-                },
-                {
-                    "scopus_id": "15841326700",
-                    "name": "De Haseth K.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60019816"
-                    ]
-                },
-                {
-                    "scopus_id": "14047527900",
-                    "name": "Taylor B.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6701613193",
-                    "name": "Rochtchina E.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "35446440500",
-                    "name": "Islam F.M.A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7006402006",
-                    "name": "Saw S.M.",
-                    "affiliation_id": [
-                        "60026680",
-                        "60026680"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T.Y.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60026680",
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 162,
-            "publication_name": "Hypertension",
-            "issn": "0194911X",
-            "cover_date": "2007-05-01",
-            "venue": "Journal",
-            "volume": "49",
-            "issue": "5",
-            "page_range": "1156-1162",
-            "doi": "10.1161/HYPERTENSIONAHA.106.085910"
-        },
-        {
-            "title": "Smoking and the 5-year incidence of age-related maculopathy: The Blue Mountains Eye Study",
-            "eid": "2-s2.0-0036822469",
-            "authors": [
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Jin Wang J.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7406472638",
-                    "name": "Smith W.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "19635485200",
-                    "name": "Leeder S.",
-                    "affiliation_id": []
-                }
-            ],
-            "citations": 162,
-            "publication_name": "Archives of Ophthalmology",
-            "issn": "00039950",
-            "cover_date": "2002-10-01",
-            "venue": "Journal",
-            "volume": "120",
-            "issue": "10",
-            "page_range": "1357-1363",
-            "doi": "10.1001/archopht.120.10.1357"
         },
         {
             "title": "Common variants near ABCA1, AFAP1 and GMDS confer risk of primary open-angle glaucoma",
@@ -14508,7 +14387,7 @@
                     ]
                 }
             ],
-            "citations": 161,
+            "citations": 162,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2014-09-26",
@@ -14517,6 +14396,127 @@
             "issue": "10",
             "page_range": "1120-1125",
             "doi": "10.1038/ng.3079"
+        },
+        {
+            "title": "Blood pressure and retinal arteriolar narrowing in children",
+            "eid": "2-s2.0-34247885897",
+            "authors": [
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8054683900",
+                    "name": "Cheung N.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60005245"
+                    ]
+                },
+                {
+                    "scopus_id": "15841326700",
+                    "name": "De Haseth K.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60019816"
+                    ]
+                },
+                {
+                    "scopus_id": "14047527900",
+                    "name": "Taylor B.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6701613193",
+                    "name": "Rochtchina E.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "35446440500",
+                    "name": "Islam F.M.A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7006402006",
+                    "name": "Saw S.M.",
+                    "affiliation_id": [
+                        "60026680",
+                        "60026680"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T.Y.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60026680",
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 162,
+            "publication_name": "Hypertension",
+            "issn": "0194911X",
+            "cover_date": "2007-05-01",
+            "venue": "Journal",
+            "volume": "49",
+            "issue": "5",
+            "page_range": "1156-1162",
+            "doi": "10.1161/HYPERTENSIONAHA.106.085910"
+        },
+        {
+            "title": "Smoking and the 5-year incidence of age-related maculopathy: The Blue Mountains Eye Study",
+            "eid": "2-s2.0-0036822469",
+            "authors": [
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Jin Wang J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7406472638",
+                    "name": "Smith W.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "19635485200",
+                    "name": "Leeder S.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 162,
+            "publication_name": "Archives of Ophthalmology",
+            "issn": "00039950",
+            "cover_date": "2002-10-01",
+            "venue": "Journal",
+            "volume": "120",
+            "issue": "10",
+            "page_range": "1357-1363",
+            "doi": "10.1001/archopht.120.10.1357"
         },
         {
             "title": "Choroidal nevi in a white population: The Blue Mountains Eye Study",
@@ -15519,6 +15519,79 @@
             "doi": "10.1371/journal.pgen.1002584"
         },
         {
+            "title": "Traditional and novel cardiovascular risk factors for retinal vein occlusion: The multiethnic study of atherosclerosis",
+            "eid": "2-s2.0-53449090577",
+            "authors": [
+                {
+                    "scopus_id": "8054683900",
+                    "name": "Cheung N.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "35232138400",
+                    "name": "Klein R.",
+                    "affiliation_id": [
+                        "60025553"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Jie J.W.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "56823700100",
+                    "name": "Cotch M.F.",
+                    "affiliation_id": [
+                        "60007651"
+                    ]
+                },
+                {
+                    "scopus_id": "35446440500",
+                    "name": "Islam A.F.M.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "57203599042",
+                    "name": "Klein B.E.K.",
+                    "affiliation_id": [
+                        "60025553"
+                    ]
+                },
+                {
+                    "scopus_id": "7103113524",
+                    "name": "Cushman M.",
+                    "affiliation_id": [
+                        "60031576",
+                        "60009500"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Tien Y.W.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60026680"
+                    ]
+                }
+            ],
+            "citations": 153,
+            "publication_name": "Investigative Ophthalmology and Visual Science",
+            "issn": "01460404",
+            "cover_date": "2008-10-01",
+            "venue": "Journal",
+            "volume": "49",
+            "issue": "10",
+            "page_range": "4297-4302",
+            "doi": "10.1167/iovs.08-1826"
+        },
+        {
             "title": "Retinal Vein Occlusion and Vascular Mortality. Pooled Data Analysis of 2 Population-Based Cohorts",
             "eid": "2-s2.0-33847149996",
             "authors": [
@@ -15628,79 +15701,6 @@
             "doi": "10.1016/S0161-6420(98)98013-7"
         },
         {
-            "title": "Traditional and novel cardiovascular risk factors for retinal vein occlusion: The multiethnic study of atherosclerosis",
-            "eid": "2-s2.0-53449090577",
-            "authors": [
-                {
-                    "scopus_id": "8054683900",
-                    "name": "Cheung N.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "35232138400",
-                    "name": "Klein R.",
-                    "affiliation_id": [
-                        "60025553"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Jie J.W.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "56823700100",
-                    "name": "Cotch M.F.",
-                    "affiliation_id": [
-                        "60007651"
-                    ]
-                },
-                {
-                    "scopus_id": "35446440500",
-                    "name": "Islam A.F.M.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "57203599042",
-                    "name": "Klein B.E.K.",
-                    "affiliation_id": [
-                        "60025553"
-                    ]
-                },
-                {
-                    "scopus_id": "7103113524",
-                    "name": "Cushman M.",
-                    "affiliation_id": [
-                        "60031576",
-                        "60009500"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Tien Y.W.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60026680"
-                    ]
-                }
-            ],
-            "citations": 152,
-            "publication_name": "Investigative Ophthalmology and Visual Science",
-            "issn": "01460404",
-            "cover_date": "2008-10-01",
-            "venue": "Journal",
-            "volume": "49",
-            "issue": "10",
-            "page_range": "4297-4302",
-            "doi": "10.1167/iovs.08-1826"
-        },
-        {
             "title": "Gender, oestrogen, hormone replacement and age-related macular degeneration: Results from the blue mountains eye study",
             "eid": "2-s2.0-0030876029",
             "authors": [
@@ -15727,7 +15727,7 @@
                     ]
                 }
             ],
-            "citations": 152,
+            "citations": 153,
             "publication_name": "Australian and New Zealand Journal of Ophthalmology",
             "issn": "08149763",
             "cover_date": "1997-01-01",
@@ -15850,7 +15850,7 @@
                     ]
                 }
             ],
-            "citations": 145,
+            "citations": 146,
             "publication_name": "Ophthalmology",
             "issn": "01616420",
             "cover_date": "2006-11-01",
@@ -16731,303 +16731,6 @@
             "doi": "10.1016/j.ajo.2007.03.041"
         },
         {
-            "title": "EPHA2 is associated with age-related cortical cataract in mice and humans",
-            "eid": "2-s2.0-68249120153",
-            "authors": [
-                {
-                    "scopus_id": "57207904142",
-                    "name": "Jun G.",
-                    "affiliation_id": [
-                        "60006404"
-                    ]
-                },
-                {
-                    "scopus_id": "57195458323",
-                    "name": "Guo H.",
-                    "affiliation_id": [
-                        "60006404"
-                    ]
-                },
-                {
-                    "scopus_id": "57203599042",
-                    "name": "Klein B.E.K.",
-                    "affiliation_id": [
-                        "60025553"
-                    ]
-                },
-                {
-                    "scopus_id": "35232138400",
-                    "name": "Klein R.",
-                    "affiliation_id": [
-                        "60025553"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Jie J.W.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "8791311300",
-                    "name": "Miao H.",
-                    "affiliation_id": [
-                        "60006404"
-                    ]
-                },
-                {
-                    "scopus_id": "7501502457",
-                    "name": "Lee K.E.",
-                    "affiliation_id": [
-                        "60025553"
-                    ]
-                },
-                {
-                    "scopus_id": "24080516000",
-                    "name": "Joshi T.",
-                    "affiliation_id": [
-                        "60006404"
-                    ]
-                },
-                {
-                    "scopus_id": "35271219400",
-                    "name": "Buck M.",
-                    "affiliation_id": [
-                        "60006404"
-                    ]
-                },
-                {
-                    "scopus_id": "12752453100",
-                    "name": "Chugha P.",
-                    "affiliation_id": [
-                        "60006404"
-                    ]
-                },
-                {
-                    "scopus_id": "7003766474",
-                    "name": "Bardenstein D.",
-                    "affiliation_id": [
-                        "60006404"
-                    ]
-                },
-                {
-                    "scopus_id": "7402143633",
-                    "name": "Klein A.P.",
-                    "affiliation_id": [
-                        "60021212"
-                    ]
-                },
-                {
-                    "scopus_id": "35375926200",
-                    "name": "Bailey-Wilson J.E.",
-                    "affiliation_id": [
-                        "60013369"
-                    ]
-                },
-                {
-                    "scopus_id": "7201999063",
-                    "name": "Gong X.",
-                    "affiliation_id": [
-                        "60023691"
-                    ]
-                },
-                {
-                    "scopus_id": "35351391300",
-                    "name": "Spector T.D.",
-                    "affiliation_id": [
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "7005877095",
-                    "name": "Andrew T.",
-                    "affiliation_id": [
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "7102559046",
-                    "name": "Hammond C.J.",
-                    "affiliation_id": [
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "16136846000",
-                    "name": "Elston R.C.",
-                    "affiliation_id": [
-                        "60011520"
-                    ]
-                },
-                {
-                    "scopus_id": "7202158111",
-                    "name": "Iyengar S.K.",
-                    "affiliation_id": [
-                        "60006404",
-                        "60006404",
-                        "60006404"
-                    ]
-                },
-                {
-                    "scopus_id": "56019851000",
-                    "name": "Wang B.",
-                    "affiliation_id": [
-                        "60006404"
-                    ]
-                }
-            ],
-            "citations": 131,
-            "publication_name": "PLoS Genetics",
-            "issn": "15537390",
-            "cover_date": "2009-07-01",
-            "venue": "Journal",
-            "volume": "5",
-            "issue": "7",
-            "page_range": null,
-            "doi": "10.1371/journal.pgen.1000584"
-        },
-        {
-            "title": "Measurement of retinal vascular caliber: Issues and alternatives to using the arteriole to venule ratio",
-            "eid": "2-s2.0-33846913271",
-            "authors": [
-                {
-                    "scopus_id": "12796147900",
-                    "name": "Liew G.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7006662570",
-                    "name": "Sharrett A.R.",
-                    "affiliation_id": [
-                        "60005248"
-                    ]
-                },
-                {
-                    "scopus_id": "34571132900",
-                    "name": "Kronmal R.",
-                    "affiliation_id": [
-                        "60015481"
-                    ]
-                },
-                {
-                    "scopus_id": "35232138400",
-                    "name": "Klein R.",
-                    "affiliation_id": [
-                        "60032179"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Tien Y.W.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60017161",
-                        "60017161"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "8557586600",
-                    "name": "Kifley A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Jie J.W.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 131,
-            "publication_name": "Investigative Ophthalmology and Visual Science",
-            "issn": "01460404",
-            "cover_date": "2007-01-01",
-            "venue": "Journal",
-            "volume": "48",
-            "issue": "1",
-            "page_range": "52-57",
-            "doi": "10.1167/iovs.06-0672"
-        },
-        {
-            "title": "Association between vision and hearing impairments and their combined effects on quality of life",
-            "eid": "2-s2.0-33749578807",
-            "authors": [
-                {
-                    "scopus_id": "7004574685",
-                    "name": "Chia E.M.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6701613193",
-                    "name": "Rochtchina E.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6701772942",
-                    "name": "Foran S.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7006877305",
-                    "name": "Golding M.",
-                    "affiliation_id": [
-                        "60015654"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Jie J.W.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 131,
-            "publication_name": "Archives of Ophthalmology",
-            "issn": "00039950",
-            "cover_date": "2006-10-16",
-            "venue": "Journal",
-            "volume": "124",
-            "issue": "10",
-            "page_range": "1465-1470",
-            "doi": "10.1001/archopht.124.10.1465"
-        },
-        {
             "title": "New insights into the genetics of primary open-angle glaucoma based on meta-analyses of intraocular pressure and optic disc characteristics",
             "eid": "2-s2.0-85018321245",
             "authors": [
@@ -17657,7 +17360,7 @@
                     ]
                 }
             ],
-            "citations": 130,
+            "citations": 131,
             "publication_name": "Human Molecular Genetics",
             "issn": "09646906",
             "cover_date": "2017-01-01",
@@ -17666,6 +17369,303 @@
             "issue": "2",
             "page_range": "438-453",
             "doi": "10.1093/hmg/ddw399"
+        },
+        {
+            "title": "EPHA2 is associated with age-related cortical cataract in mice and humans",
+            "eid": "2-s2.0-68249120153",
+            "authors": [
+                {
+                    "scopus_id": "57207904142",
+                    "name": "Jun G.",
+                    "affiliation_id": [
+                        "60006404"
+                    ]
+                },
+                {
+                    "scopus_id": "57195458323",
+                    "name": "Guo H.",
+                    "affiliation_id": [
+                        "60006404"
+                    ]
+                },
+                {
+                    "scopus_id": "57203599042",
+                    "name": "Klein B.E.K.",
+                    "affiliation_id": [
+                        "60025553"
+                    ]
+                },
+                {
+                    "scopus_id": "35232138400",
+                    "name": "Klein R.",
+                    "affiliation_id": [
+                        "60025553"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Jie J.W.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8791311300",
+                    "name": "Miao H.",
+                    "affiliation_id": [
+                        "60006404"
+                    ]
+                },
+                {
+                    "scopus_id": "7501502457",
+                    "name": "Lee K.E.",
+                    "affiliation_id": [
+                        "60025553"
+                    ]
+                },
+                {
+                    "scopus_id": "24080516000",
+                    "name": "Joshi T.",
+                    "affiliation_id": [
+                        "60006404"
+                    ]
+                },
+                {
+                    "scopus_id": "35271219400",
+                    "name": "Buck M.",
+                    "affiliation_id": [
+                        "60006404"
+                    ]
+                },
+                {
+                    "scopus_id": "12752453100",
+                    "name": "Chugha P.",
+                    "affiliation_id": [
+                        "60006404"
+                    ]
+                },
+                {
+                    "scopus_id": "7003766474",
+                    "name": "Bardenstein D.",
+                    "affiliation_id": [
+                        "60006404"
+                    ]
+                },
+                {
+                    "scopus_id": "7402143633",
+                    "name": "Klein A.P.",
+                    "affiliation_id": [
+                        "60021212"
+                    ]
+                },
+                {
+                    "scopus_id": "35375926200",
+                    "name": "Bailey-Wilson J.E.",
+                    "affiliation_id": [
+                        "60013369"
+                    ]
+                },
+                {
+                    "scopus_id": "7201999063",
+                    "name": "Gong X.",
+                    "affiliation_id": [
+                        "60023691"
+                    ]
+                },
+                {
+                    "scopus_id": "35351391300",
+                    "name": "Spector T.D.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7005877095",
+                    "name": "Andrew T.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7102559046",
+                    "name": "Hammond C.J.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "16136846000",
+                    "name": "Elston R.C.",
+                    "affiliation_id": [
+                        "60011520"
+                    ]
+                },
+                {
+                    "scopus_id": "7202158111",
+                    "name": "Iyengar S.K.",
+                    "affiliation_id": [
+                        "60006404",
+                        "60006404",
+                        "60006404"
+                    ]
+                },
+                {
+                    "scopus_id": "56019851000",
+                    "name": "Wang B.",
+                    "affiliation_id": [
+                        "60006404"
+                    ]
+                }
+            ],
+            "citations": 131,
+            "publication_name": "PLoS Genetics",
+            "issn": "15537390",
+            "cover_date": "2009-07-01",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "7",
+            "page_range": null,
+            "doi": "10.1371/journal.pgen.1000584"
+        },
+        {
+            "title": "Measurement of retinal vascular caliber: Issues and alternatives to using the arteriole to venule ratio",
+            "eid": "2-s2.0-33846913271",
+            "authors": [
+                {
+                    "scopus_id": "12796147900",
+                    "name": "Liew G.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006662570",
+                    "name": "Sharrett A.R.",
+                    "affiliation_id": [
+                        "60005248"
+                    ]
+                },
+                {
+                    "scopus_id": "34571132900",
+                    "name": "Kronmal R.",
+                    "affiliation_id": [
+                        "60015481"
+                    ]
+                },
+                {
+                    "scopus_id": "35232138400",
+                    "name": "Klein R.",
+                    "affiliation_id": [
+                        "60032179"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Tien Y.W.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60017161",
+                        "60017161"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8557586600",
+                    "name": "Kifley A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Jie J.W.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 131,
+            "publication_name": "Investigative Ophthalmology and Visual Science",
+            "issn": "01460404",
+            "cover_date": "2007-01-01",
+            "venue": "Journal",
+            "volume": "48",
+            "issue": "1",
+            "page_range": "52-57",
+            "doi": "10.1167/iovs.06-0672"
+        },
+        {
+            "title": "Association between vision and hearing impairments and their combined effects on quality of life",
+            "eid": "2-s2.0-33749578807",
+            "authors": [
+                {
+                    "scopus_id": "7004574685",
+                    "name": "Chia E.M.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6701613193",
+                    "name": "Rochtchina E.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6701772942",
+                    "name": "Foran S.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006877305",
+                    "name": "Golding M.",
+                    "affiliation_id": [
+                        "60015654"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Jie J.W.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 131,
+            "publication_name": "Archives of Ophthalmology",
+            "issn": "00039950",
+            "cover_date": "2006-10-16",
+            "venue": "Journal",
+            "volume": "124",
+            "issue": "10",
+            "page_range": "1465-1470",
+            "doi": "10.1001/archopht.124.10.1465"
         },
         {
             "title": "Nine loci for ocular axial length identified through genome-wide association studies, including shared loci with refractive error",
@@ -17969,7 +17969,7 @@
                     "name": "Iyengar S.K.",
                     "affiliation_id": [
                         "60000305",
-                        "60021578",
+                        "60006404",
                         "60006404",
                         "60000305"
                     ]
@@ -17986,7 +17986,7 @@
                     "name": "Lass J.H.",
                     "affiliation_id": [
                         "60000305",
-                        "60021578"
+                        "60006404"
                     ]
                 },
                 {
@@ -19608,6 +19608,71 @@
             "doi": "10.1016/j.ophtha.2007.11.015"
         },
         {
+            "title": "Distribution of Axial Length and Ocular Biometry Measured Using Partial Coherence Laser Interferometry (IOL Master) in an Older White Population",
+            "eid": "2-s2.0-77049111776",
+            "authors": [
+                {
+                    "scopus_id": "23469313900",
+                    "name": "Fotedar R.",
+                    "affiliation_id": [
+                        "60003992"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.",
+                    "affiliation_id": [
+                        "60003992",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "15847990200",
+                    "name": "Burlutsky G.",
+                    "affiliation_id": [
+                        "60003992"
+                    ]
+                },
+                {
+                    "scopus_id": "7102095507",
+                    "name": "Morgan I.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "13310321800",
+                    "name": "Rose K.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60003992"
+                    ]
+                }
+            ],
+            "citations": 124,
+            "publication_name": "Ophthalmology",
+            "issn": "01616420",
+            "cover_date": "2010-03-01",
+            "venue": "Journal",
+            "volume": "117",
+            "issue": "3",
+            "page_range": "417-423",
+            "doi": "10.1016/j.ophtha.2009.07.028"
+        },
+        {
             "title": "Alterations in retinal microvascular geometry in young type 1 diabetes",
             "eid": "2-s2.0-77953213687",
             "authors": [
@@ -19687,71 +19752,6 @@
             "issue": "6",
             "page_range": "1331-1336",
             "doi": "10.2337/dc10-0055"
-        },
-        {
-            "title": "Distribution of Axial Length and Ocular Biometry Measured Using Partial Coherence Laser Interferometry (IOL Master) in an Older White Population",
-            "eid": "2-s2.0-77049111776",
-            "authors": [
-                {
-                    "scopus_id": "23469313900",
-                    "name": "Fotedar R.",
-                    "affiliation_id": [
-                        "60003992"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.",
-                    "affiliation_id": [
-                        "60003992",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "15847990200",
-                    "name": "Burlutsky G.",
-                    "affiliation_id": [
-                        "60003992"
-                    ]
-                },
-                {
-                    "scopus_id": "7102095507",
-                    "name": "Morgan I.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "13310321800",
-                    "name": "Rose K.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60003992"
-                    ]
-                }
-            ],
-            "citations": 123,
-            "publication_name": "Ophthalmology",
-            "issn": "01616420",
-            "cover_date": "2010-03-01",
-            "venue": "Journal",
-            "volume": "117",
-            "issue": "3",
-            "page_range": "417-423",
-            "doi": "10.1016/j.ophtha.2009.07.028"
         },
         {
             "title": "Differential associations of myopia with major age-related eye diseases: The Singapore Indian eye study",
@@ -20451,7 +20451,7 @@
                     "name": "Tai E.S.",
                     "affiliation_id": [
                         "60026680",
-                        "60026680"
+                        "60029656"
                     ]
                 },
                 {
@@ -20741,6 +20741,94 @@
             "doi": "10.1016/j.ophtha.2009.12.036"
         },
         {
+            "title": "Retinal vessel diameters and risk of hypertension: The Multiethnic Study of Atherosclerosis",
+            "eid": "2-s2.0-73649137207",
+            "authors": [
+                {
+                    "scopus_id": "35229910100",
+                    "name": "Kawasaki R.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60026198"
+                    ]
+                },
+                {
+                    "scopus_id": "8054683900",
+                    "name": "Cheung N.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "35232138400",
+                    "name": "Klein R.",
+                    "affiliation_id": [
+                        "60025553"
+                    ]
+                },
+                {
+                    "scopus_id": "57640144100",
+                    "name": "Klein B.E.",
+                    "affiliation_id": [
+                        "60025553"
+                    ]
+                },
+                {
+                    "scopus_id": "56823700100",
+                    "name": "Cotch M.F.",
+                    "affiliation_id": [
+                        "60007651"
+                    ]
+                },
+                {
+                    "scopus_id": "7006662570",
+                    "name": "Sharrett A.R.",
+                    "affiliation_id": [
+                        "60006183"
+                    ]
+                },
+                {
+                    "scopus_id": "7101777041",
+                    "name": "Shea S.",
+                    "affiliation_id": [
+                        "60030162"
+                    ]
+                },
+                {
+                    "scopus_id": "57195255587",
+                    "name": "Islam F.A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T.Y.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60017161"
+                    ]
+                }
+            ],
+            "citations": 116,
+            "publication_name": "Journal of Hypertension",
+            "issn": "02636352",
+            "cover_date": "2009-01-01",
+            "venue": "Journal",
+            "volume": "27",
+            "issue": "12",
+            "page_range": "2386-2393",
+            "doi": "10.1097/HJH.0b013e3283310f7e"
+        },
+        {
             "title": "Diabetes, fasting blood glucose and age-related cataract: The Blue Mountains Eye Study",
             "eid": "2-s2.0-0033930602",
             "authors": [
@@ -20918,94 +21006,6 @@
             "issue": "2",
             "page_range": "474-479",
             "doi": "10.2337/dc10-0793"
-        },
-        {
-            "title": "Retinal vessel diameters and risk of hypertension: The Multiethnic Study of Atherosclerosis",
-            "eid": "2-s2.0-73649137207",
-            "authors": [
-                {
-                    "scopus_id": "35229910100",
-                    "name": "Kawasaki R.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60026198"
-                    ]
-                },
-                {
-                    "scopus_id": "8054683900",
-                    "name": "Cheung N.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "35232138400",
-                    "name": "Klein R.",
-                    "affiliation_id": [
-                        "60025553"
-                    ]
-                },
-                {
-                    "scopus_id": "57640144100",
-                    "name": "Klein B.E.",
-                    "affiliation_id": [
-                        "60025553"
-                    ]
-                },
-                {
-                    "scopus_id": "56823700100",
-                    "name": "Cotch M.F.",
-                    "affiliation_id": [
-                        "60007651"
-                    ]
-                },
-                {
-                    "scopus_id": "7006662570",
-                    "name": "Sharrett A.R.",
-                    "affiliation_id": [
-                        "60006183"
-                    ]
-                },
-                {
-                    "scopus_id": "7101777041",
-                    "name": "Shea S.",
-                    "affiliation_id": [
-                        "60030162"
-                    ]
-                },
-                {
-                    "scopus_id": "57195255587",
-                    "name": "Islam F.A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T.Y.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60017161"
-                    ]
-                }
-            ],
-            "citations": 115,
-            "publication_name": "Journal of Hypertension",
-            "issn": "02636352",
-            "cover_date": "2009-01-01",
-            "venue": "Journal",
-            "volume": "27",
-            "issue": "12",
-            "page_range": "2386-2393",
-            "doi": "10.1097/HJH.0b013e3283310f7e"
         },
         {
             "title": "Diabetic Retinopathy and Risk of Heart Failure",
@@ -22384,7 +22384,7 @@
                     "name": "Tai E.S.",
                     "affiliation_id": [
                         "60017161",
-                        "60026680",
+                        "60029656",
                         "60017161"
                     ]
                 },
@@ -23972,6 +23972,83 @@
             "doi": "10.1002/ana.22011"
         },
         {
+            "title": "Prevalence and risk factors of retinal vein occlusion in an Asian population",
+            "eid": "2-s2.0-53649097848",
+            "authors": [
+                {
+                    "scopus_id": "15053336200",
+                    "name": "Lim L.L.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "8054683900",
+                    "name": "Cheung N.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "35446440500",
+                    "name": "Islam F.M.A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006402006",
+                    "name": "Saw S.M.",
+                    "affiliation_id": [
+                        "60026680",
+                        "60024285"
+                    ]
+                },
+                {
+                    "scopus_id": "26643141900",
+                    "name": "Aung T.",
+                    "affiliation_id": [
+                        "60024285",
+                        "60026680"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T.Y.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60024285",
+                        "60026680",
+                        "60019331"
+                    ]
+                }
+            ],
+            "citations": 97,
+            "publication_name": "British Journal of Ophthalmology",
+            "issn": "00071161",
+            "cover_date": "2008-10-01",
+            "venue": "Journal",
+            "volume": "92",
+            "issue": "10",
+            "page_range": "1316-1319",
+            "doi": "10.1136/bjo.2008.140640"
+        },
+        {
             "title": "Age-related macular degeneration and mortality from cardiovascular disease or stroke",
             "eid": "2-s2.0-41849120485",
             "authors": [
@@ -24229,21 +24306,16 @@
             "doi": "10.1001/archophthalmol.2009.30"
         },
         {
-            "title": "Prevalence and risk factors of retinal vein occlusion in an Asian population",
-            "eid": "2-s2.0-53649097848",
+            "title": "Retinal vessel caliber is associated with the 10-year incidence of glaucoma: The Blue Mountains Eye Study",
+            "eid": "2-s2.0-84872008066",
             "authors": [
                 {
-                    "scopus_id": "15053336200",
-                    "name": "Lim L.L.",
+                    "scopus_id": "35229910100",
+                    "name": "Kawasaki R.",
                     "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "8054683900",
-                    "name": "Cheung N.",
-                    "affiliation_id": [
-                        "60026553"
+                        "60026553",
+                        "60026198",
+                        "60138477"
                     ]
                 },
                 {
@@ -24255,10 +24327,26 @@
                     ]
                 },
                 {
-                    "scopus_id": "35446440500",
-                    "name": "Islam F.M.A.",
+                    "scopus_id": "6701613193",
+                    "name": "Rochtchina E.",
                     "affiliation_id": [
-                        "60026553"
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7405631366",
+                    "name": "Lee A.J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T.Y.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60017161",
+                        "60017161"
                     ]
                 },
                 {
@@ -24267,43 +24355,17 @@
                     "affiliation_id": [
                         "60025709"
                     ]
-                },
-                {
-                    "scopus_id": "7006402006",
-                    "name": "Saw S.M.",
-                    "affiliation_id": [
-                        "60026680",
-                        "60024285"
-                    ]
-                },
-                {
-                    "scopus_id": "26643141900",
-                    "name": "Aung T.",
-                    "affiliation_id": [
-                        "60024285",
-                        "60026680"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T.Y.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60024285",
-                        "60026680",
-                        "60019331"
-                    ]
                 }
             ],
-            "citations": 96,
-            "publication_name": "British Journal of Ophthalmology",
-            "issn": "00071161",
-            "cover_date": "2008-10-01",
+            "citations": 95,
+            "publication_name": "Ophthalmology",
+            "issn": "01616420",
+            "cover_date": "2013-01-01",
             "venue": "Journal",
-            "volume": "92",
-            "issue": "10",
-            "page_range": "1316-1319",
-            "doi": "10.1136/bjo.2008.140640"
+            "volume": "120",
+            "issue": "1",
+            "page_range": "84-90",
+            "doi": "10.1016/j.ophtha.2012.07.007"
         },
         {
             "title": "Ten-Year Incidence of Age-Related Cataract and Cataract Surgery in an Older Australian Population. The Blue Mountains Eye Study",
@@ -25211,68 +25273,6 @@
             "doi": "10.1038/ng.3226"
         },
         {
-            "title": "Retinal vessel caliber is associated with the 10-year incidence of glaucoma: The Blue Mountains Eye Study",
-            "eid": "2-s2.0-84872008066",
-            "authors": [
-                {
-                    "scopus_id": "35229910100",
-                    "name": "Kawasaki R.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60026198",
-                        "60138477"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6701613193",
-                    "name": "Rochtchina E.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7405631366",
-                    "name": "Lee A.J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T.Y.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60017161",
-                        "60017161"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 94,
-            "publication_name": "Ophthalmology",
-            "issn": "01616420",
-            "cover_date": "2013-01-01",
-            "venue": "Journal",
-            "volume": "120",
-            "issue": "1",
-            "page_range": "84-90",
-            "doi": "10.1016/j.ophtha.2012.07.007"
-        },
-        {
             "title": "Impact of symptomatic dry eye on vision-related daily activities: The Singapore malay eye study",
             "eid": "2-s2.0-77956568961",
             "authors": [
@@ -25734,6 +25734,57 @@
             "doi": "10.1001/archopht.125.9.1235"
         },
         {
+            "title": "Incidence and progression of reticular drusen in age-related macular degeneration: Findings from an older Australian cohort",
+            "eid": "2-s2.0-84897954598",
+            "authors": [
+                {
+                    "scopus_id": "6506483512",
+                    "name": "Joachim N.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "57210180784",
+                    "name": "Rochtchina E.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7201883710",
+                    "name": "Tan A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 91,
+            "publication_name": "Ophthalmology",
+            "issn": "01616420",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "121",
+            "issue": "4",
+            "page_range": "917-925",
+            "doi": "10.1016/j.ophtha.2013.10.043"
+        },
+        {
             "title": "Evidence of retinal vascular narrowing in glaucomatous eyes in an Asian population",
             "eid": "2-s2.0-58149243055",
             "authors": [
@@ -26031,55 +26082,101 @@
             "doi": "10.1167/iovs.18-24032"
         },
         {
-            "title": "Incidence and progression of reticular drusen in age-related macular degeneration: Findings from an older Australian cohort",
-            "eid": "2-s2.0-84897954598",
+            "title": "Prevalence and associations of epiretinal membranes in a rural Chinese adult population: The handan eye study",
+            "eid": "2-s2.0-65549125485",
             "authors": [
                 {
-                    "scopus_id": "6506483512",
-                    "name": "Joachim N.",
+                    "scopus_id": "7202709022",
+                    "name": "Duan X.R.",
                     "affiliation_id": [
-                        "60025709"
+                        "60073453"
                     ]
                 },
                 {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
+                    "scopus_id": "35237553300",
+                    "name": "Liang Y.B.",
                     "affiliation_id": [
-                        "60025709"
+                        "60073453",
+                        "106010626"
                     ]
                 },
                 {
-                    "scopus_id": "57210180784",
-                    "name": "Rochtchina E.",
+                    "scopus_id": "7402079597",
+                    "name": "Friedman D.S.",
                     "affiliation_id": [
-                        "60025709"
+                        "60015891",
+                        "60006183"
                     ]
                 },
                 {
-                    "scopus_id": "7201883710",
-                    "name": "Tan A.",
+                    "scopus_id": "35225541900",
+                    "name": "Sun L.P.",
                     "affiliation_id": [
-                        "60025709"
+                        "106010626"
+                    ]
+                },
+                {
+                    "scopus_id": "14068232700",
+                    "name": "Wei W.B.",
+                    "affiliation_id": [
+                        "60073453"
                     ]
                 },
                 {
                     "scopus_id": "55664024800",
-                    "name": "Wang J.",
+                    "name": "Wang J.J.",
                     "affiliation_id": [
-                        "60025709",
-                        "60026553"
+                        "60026553",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "14068170800",
+                    "name": "Wang G.L.",
+                    "affiliation_id": [
+                        "60073453"
+                    ]
+                },
+                {
+                    "scopus_id": "35071589400",
+                    "name": "Liu W.",
+                    "affiliation_id": [
+                        "60073453"
+                    ]
+                },
+                {
+                    "scopus_id": "12777794300",
+                    "name": "Tao Q.S.",
+                    "affiliation_id": [
+                        "60004573"
+                    ]
+                },
+                {
+                    "scopus_id": "7404340277",
+                    "name": "Wang N.L.",
+                    "affiliation_id": [
+                        "60073453"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T.Y.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60024285",
+                        "60026680"
                     ]
                 }
             ],
             "citations": 90,
-            "publication_name": "Ophthalmology",
-            "issn": "01616420",
-            "cover_date": "2014-01-01",
+            "publication_name": "Investigative Ophthalmology and Visual Science",
+            "issn": "01460404",
+            "cover_date": "2009-12-01",
             "venue": "Journal",
-            "volume": "121",
-            "issue": "4",
-            "page_range": "917-925",
-            "doi": "10.1016/j.ophtha.2013.10.043"
+            "volume": "50",
+            "issue": "5",
+            "page_range": "2018-2023",
+            "doi": "10.1167/iovs.08-2624"
         },
         {
             "title": "Mitochondrial DNA variants of respiratory complex I that uniquely characterize haplogroup T2 are associated with increased risk of age-related macular degeneration",
@@ -26235,103 +26332,6 @@
             "issue": "5",
             "page_range": null,
             "doi": "10.1371/journal.pone.0005508"
-        },
-        {
-            "title": "Prevalence and associations of epiretinal membranes in a rural Chinese adult population: The handan eye study",
-            "eid": "2-s2.0-65549125485",
-            "authors": [
-                {
-                    "scopus_id": "7202709022",
-                    "name": "Duan X.R.",
-                    "affiliation_id": [
-                        "60073453"
-                    ]
-                },
-                {
-                    "scopus_id": "35237553300",
-                    "name": "Liang Y.B.",
-                    "affiliation_id": [
-                        "60073453",
-                        "106010626"
-                    ]
-                },
-                {
-                    "scopus_id": "7402079597",
-                    "name": "Friedman D.S.",
-                    "affiliation_id": [
-                        "60015891",
-                        "60006183"
-                    ]
-                },
-                {
-                    "scopus_id": "35225541900",
-                    "name": "Sun L.P.",
-                    "affiliation_id": [
-                        "106010626"
-                    ]
-                },
-                {
-                    "scopus_id": "14068232700",
-                    "name": "Wei W.B.",
-                    "affiliation_id": [
-                        "60073453"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "14068170800",
-                    "name": "Wang G.L.",
-                    "affiliation_id": [
-                        "60073453"
-                    ]
-                },
-                {
-                    "scopus_id": "35071589400",
-                    "name": "Liu W.",
-                    "affiliation_id": [
-                        "60073453"
-                    ]
-                },
-                {
-                    "scopus_id": "12777794300",
-                    "name": "Tao Q.S.",
-                    "affiliation_id": [
-                        "60004573"
-                    ]
-                },
-                {
-                    "scopus_id": "7404340277",
-                    "name": "Wang N.L.",
-                    "affiliation_id": [
-                        "60073453"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T.Y.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60024285",
-                        "60026680"
-                    ]
-                }
-            ],
-            "citations": 89,
-            "publication_name": "Investigative Ophthalmology and Visual Science",
-            "issn": "01460404",
-            "cover_date": "2009-12-01",
-            "venue": "Journal",
-            "volume": "50",
-            "issue": "5",
-            "page_range": "2018-2023",
-            "doi": "10.1167/iovs.08-2624"
         },
         {
             "title": "Influence of diabetes and cardiovascular disease on the long-term incidence of cataract: The blue mountains eye study",
@@ -27544,7 +27544,7 @@
                     "scopus_id": "57770356700",
                     "name": "Tai E.S.",
                     "affiliation_id": [
-                        "60026680"
+                        "60029656"
                     ]
                 },
                 {
@@ -29048,6 +29048,81 @@
             "doi": "10.1167/iovs.11-7510"
         },
         {
+            "title": "Dietary glycemic index and the risk of age-related macular degeneration",
+            "eid": "2-s2.0-53849133097",
+            "authors": [
+                {
+                    "scopus_id": "16031338100",
+                    "name": "Kaushik S.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "6507672607",
+                    "name": "Flood V.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "16053726900",
+                    "name": "Tan J.S.L.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8525382000",
+                    "name": "Barclay A.W.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T.Y.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60017161"
+                    ]
+                },
+                {
+                    "scopus_id": "25228623800",
+                    "name": "Brand-Miller J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60004437"
+                    ]
+                }
+            ],
+            "citations": 81,
+            "publication_name": "American Journal of Clinical Nutrition",
+            "issn": "00029165",
+            "cover_date": "2008-10-01",
+            "venue": "Journal",
+            "volume": "88",
+            "issue": "4",
+            "page_range": "1104-1110",
+            "doi": "10.1093/ajcn/88.4.1104"
+        },
+        {
             "title": "Is medication use associated with the incidence of early age-related maculopathy? Pooled findings from 3 continents",
             "eid": "2-s2.0-2942610664",
             "authors": [
@@ -29292,81 +29367,6 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1016/j.ajo.2011.06.005"
-        },
-        {
-            "title": "Dietary glycemic index and the risk of age-related macular degeneration",
-            "eid": "2-s2.0-53849133097",
-            "authors": [
-                {
-                    "scopus_id": "16031338100",
-                    "name": "Kaushik S.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "6507672607",
-                    "name": "Flood V.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "16053726900",
-                    "name": "Tan J.S.L.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "8525382000",
-                    "name": "Barclay A.W.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T.Y.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60017161"
-                    ]
-                },
-                {
-                    "scopus_id": "25228623800",
-                    "name": "Brand-Miller J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60004437"
-                    ]
-                }
-            ],
-            "citations": 80,
-            "publication_name": "American Journal of Clinical Nutrition",
-            "issn": "00029165",
-            "cover_date": "2008-10-01",
-            "venue": "Journal",
-            "volume": "88",
-            "issue": "4",
-            "page_range": "1104-1110",
-            "doi": "10.1093/ajcn/88.4.1104"
         },
         {
             "title": "Prediction of age-related macular degeneration in the general population: The three continent AMD consortium",
@@ -30263,7 +30263,7 @@
                     "name": "Lass J.H.",
                     "affiliation_id": [
                         "60006404",
-                        "60021578"
+                        "60006404"
                     ]
                 },
                 {
@@ -30770,7 +30770,7 @@
                     "name": "McKean-Cowdin R.",
                     "affiliation_id": [
                         "60015183",
-                        "60029311"
+                        "60015183"
                     ]
                 },
                 {
@@ -31146,7 +31146,7 @@
                     "affiliation_id": [
                         "60017161",
                         "60026680",
-                        "60026680"
+                        "60029656"
                     ]
                 },
                 {
@@ -31506,7 +31506,7 @@
                     "scopus_id": "35329032000",
                     "name": "Choudhury F.",
                     "affiliation_id": [
-                        "60029311",
+                        "60015183",
                         "60015183"
                     ]
                 },
@@ -31523,7 +31523,7 @@
                     "scopus_id": "57216717362",
                     "name": "McKean-Cowdin R.",
                     "affiliation_id": [
-                        "60029311",
+                        "60015183",
                         "60015183"
                     ]
                 },
@@ -31815,116 +31815,6 @@
             "doi": "10.1016/j.ajo.2004.12.088"
         },
         {
-            "title": "Age-related rarefaction in the fractal dimension of retinal vessel",
-            "eid": "2-s2.0-81355132331",
-            "authors": [
-                {
-                    "scopus_id": "35772221600",
-                    "name": "Azemin M.Z.C.",
-                    "affiliation_id": [
-                        "60011362"
-                    ]
-                },
-                {
-                    "scopus_id": "57043955400",
-                    "name": "Kumar D.K.",
-                    "affiliation_id": [
-                        "60011362"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T.Y.",
-                    "affiliation_id": [
-                        "112438209",
-                        "60026553",
-                        "60017161"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J.",
-                    "affiliation_id": [
-                        "112438209",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "35229910100",
-                    "name": "Kawasaki R.",
-                    "affiliation_id": [
-                        "112438209"
-                    ]
-                },
-                {
-                    "scopus_id": "7405582030",
-                    "name": "Wu H.",
-                    "affiliation_id": [
-                        "60011362"
-                    ]
-                }
-            ],
-            "citations": 71,
-            "publication_name": "Neurobiology of Aging",
-            "issn": "01974580",
-            "cover_date": "2012-01-01",
-            "venue": "Journal",
-            "volume": "33",
-            "issue": "1",
-            "page_range": "194.e1-194.e4",
-            "doi": "10.1016/j.neurobiolaging.2010.04.010"
-        },
-        {
-            "title": "Elevated Serum Homocysteine, Low Serum Vitamin B12, Folate, and Age-related Macular Degeneration: The Blue Mountains Eye Study",
-            "eid": "2-s2.0-33846345802",
-            "authors": [
-                {
-                    "scopus_id": "6701613193",
-                    "name": "Rochtchina E.",
-                    "affiliation_id": [
-                        "60003992"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.",
-                    "affiliation_id": [
-                        "60003992"
-                    ]
-                },
-                {
-                    "scopus_id": "6507672607",
-                    "name": "Flood V.",
-                    "affiliation_id": [
-                        "110042914"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60003992"
-                    ]
-                }
-            ],
-            "citations": 71,
-            "publication_name": "American Journal of Ophthalmology",
-            "issn": "00029394",
-            "cover_date": "2007-02-01",
-            "venue": "Journal",
-            "volume": "143",
-            "issue": "2",
-            "page_range": "344-346",
-            "doi": "10.1016/j.ajo.2006.08.032"
-        },
-        {
             "title": "ARHGEF12 influences the risk of glaucoma by increasing intraocular pressure",
             "eid": "2-s2.0-84941992050",
             "authors": [
@@ -32142,7 +32032,7 @@
                     ]
                 }
             ],
-            "citations": 70,
+            "citations": 71,
             "publication_name": "Human Molecular Genetics",
             "issn": "09646906",
             "cover_date": "2015-05-01",
@@ -32151,6 +32041,116 @@
             "issue": "9",
             "page_range": "2689-2699",
             "doi": "10.1093/hmg/ddv027"
+        },
+        {
+            "title": "Age-related rarefaction in the fractal dimension of retinal vessel",
+            "eid": "2-s2.0-81355132331",
+            "authors": [
+                {
+                    "scopus_id": "35772221600",
+                    "name": "Azemin M.Z.C.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                },
+                {
+                    "scopus_id": "57043955400",
+                    "name": "Kumar D.K.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T.Y.",
+                    "affiliation_id": [
+                        "112438209",
+                        "60026553",
+                        "60017161"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J.",
+                    "affiliation_id": [
+                        "112438209",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "35229910100",
+                    "name": "Kawasaki R.",
+                    "affiliation_id": [
+                        "112438209"
+                    ]
+                },
+                {
+                    "scopus_id": "7405582030",
+                    "name": "Wu H.",
+                    "affiliation_id": [
+                        "60011362"
+                    ]
+                }
+            ],
+            "citations": 71,
+            "publication_name": "Neurobiology of Aging",
+            "issn": "01974580",
+            "cover_date": "2012-01-01",
+            "venue": "Journal",
+            "volume": "33",
+            "issue": "1",
+            "page_range": "194.e1-194.e4",
+            "doi": "10.1016/j.neurobiolaging.2010.04.010"
+        },
+        {
+            "title": "Elevated Serum Homocysteine, Low Serum Vitamin B12, Folate, and Age-related Macular Degeneration: The Blue Mountains Eye Study",
+            "eid": "2-s2.0-33846345802",
+            "authors": [
+                {
+                    "scopus_id": "6701613193",
+                    "name": "Rochtchina E.",
+                    "affiliation_id": [
+                        "60003992"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.",
+                    "affiliation_id": [
+                        "60003992"
+                    ]
+                },
+                {
+                    "scopus_id": "6507672607",
+                    "name": "Flood V.",
+                    "affiliation_id": [
+                        "110042914"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60003992"
+                    ]
+                }
+            ],
+            "citations": 71,
+            "publication_name": "American Journal of Ophthalmology",
+            "issn": "00029394",
+            "cover_date": "2007-02-01",
+            "venue": "Journal",
+            "volume": "143",
+            "issue": "2",
+            "page_range": "344-346",
+            "doi": "10.1016/j.ajo.2006.08.032"
         },
         {
             "title": "Myopia and the long-term incidence of cataract and cataract surgery: The Blue Mountains Eye Study",
@@ -34150,14 +34150,14 @@
             "authors": [
                 {
                     "scopus_id": "35115367400",
-                    "name": "Pai A.",
+                    "name": "Pai A.S.I.",
                     "affiliation_id": [
                         "60004437"
                     ]
                 },
                 {
                     "scopus_id": "55664024800",
-                    "name": "Wang J.",
+                    "name": "Wang J.J.",
                     "affiliation_id": [
                         "60004437",
                         "60026553"
@@ -34179,7 +34179,7 @@
                 },
                 {
                     "scopus_id": "13310321800",
-                    "name": "Rose K.",
+                    "name": "Rose K.A.",
                     "affiliation_id": [
                         "60025709"
                     ]
@@ -34188,12 +34188,12 @@
                     "scopus_id": "7201793519",
                     "name": "Varma R.",
                     "affiliation_id": [
-                        "60029311"
+                        "60015183"
                     ]
                 },
                 {
                     "scopus_id": "7403147159",
-                    "name": "Wong T.",
+                    "name": "Wong T.Y.",
                     "affiliation_id": [
                         "60026553",
                         "60017161"
@@ -35638,6 +35638,87 @@
             "doi": "10.1111/j.1549-8719.2009.00006.x"
         },
         {
+            "title": "Low birthweight is associated with narrower arterioles in adults",
+            "eid": "2-s2.0-42049114695",
+            "authors": [
+                {
+                    "scopus_id": "12796147900",
+                    "name": "Liew G.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "35476478500",
+                    "name": "Duncan B.",
+                    "affiliation_id": [
+                        "60006726"
+                    ]
+                },
+                {
+                    "scopus_id": "35232138400",
+                    "name": "Klein R.",
+                    "affiliation_id": [
+                        "60032179"
+                    ]
+                },
+                {
+                    "scopus_id": "7006662570",
+                    "name": "Sharrett A.",
+                    "affiliation_id": [
+                        "60006183"
+                    ]
+                },
+                {
+                    "scopus_id": "35378166300",
+                    "name": "Brancati F.",
+                    "affiliation_id": [
+                        "60006183"
+                    ]
+                },
+                {
+                    "scopus_id": "7401745381",
+                    "name": "Yeh H.",
+                    "affiliation_id": [
+                        "60006183"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60026680",
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 61,
+            "publication_name": "Hypertension",
+            "issn": "0194911X",
+            "cover_date": "2008-04-01",
+            "venue": "Journal",
+            "volume": "51",
+            "issue": "4",
+            "page_range": "933-938",
+            "doi": "10.1161/HYPERTENSIONAHA.107.101584"
+        },
+        {
             "title": "The relationship of retinal vascular calibre to diabetes and retinopathy: The Australian Diabetes, Obesity and Lifestyle (AusDiab) study",
             "eid": "2-s2.0-34848844432",
             "authors": [
@@ -35710,6 +35791,57 @@
             "issue": "11",
             "page_range": "2263-2271",
             "doi": "10.1007/s00125-007-0822-x"
+        },
+        {
+            "title": "Assessment of vision-related quality of life in an older population subsample: The Blue Mountains Eye Study",
+            "eid": "2-s2.0-33845756654",
+            "authors": [
+                {
+                    "scopus_id": "7004574685",
+                    "name": "Chia E.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8586835600",
+                    "name": "Ojaimi E.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6701613193",
+                    "name": "Rochtchina E.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 61,
+            "publication_name": "Ophthalmic Epidemiology",
+            "issn": "09286586",
+            "cover_date": "2006-12-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "6",
+            "page_range": "371-377",
+            "doi": "10.1080/09286580600864794"
         },
         {
             "title": "The association of estimated glomerular filtration rate with diabetic retinopathy and macular edema",
@@ -35922,6 +36054,71 @@
             "doi": "10.1097/AUD.0b013e3181fc98bd"
         },
         {
+            "title": "Prevalence and neurodegenerative or other associations with olfactory impairment in an older community",
+            "eid": "2-s2.0-76649120840",
+            "authors": [
+                {
+                    "scopus_id": "6507117166",
+                    "name": "Karpa M.J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "15829811000",
+                    "name": "Gopinath B.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6701613193",
+                    "name": "Rochtchina E.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "35434346800",
+                    "name": "Cumming R.G.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006682075",
+                    "name": "Sue C.M.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 60,
+            "publication_name": "Journal of Aging and Health",
+            "issn": "08982643",
+            "cover_date": "2010-03-01",
+            "venue": "Journal",
+            "volume": "22",
+            "issue": "2",
+            "page_range": "154-168",
+            "doi": "10.1177/0898264309353066"
+        },
+        {
             "title": "Correlation of light-flicker-induced retinal vasodilation and retinal vascular caliber measurements in diabetes",
             "eid": "2-s2.0-73349111931",
             "authors": [
@@ -35986,87 +36183,6 @@
             "issue": "12",
             "page_range": "5609-5613",
             "doi": "10.1167/iovs.09-3442"
-        },
-        {
-            "title": "Low birthweight is associated with narrower arterioles in adults",
-            "eid": "2-s2.0-42049114695",
-            "authors": [
-                {
-                    "scopus_id": "12796147900",
-                    "name": "Liew G.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "35476478500",
-                    "name": "Duncan B.",
-                    "affiliation_id": [
-                        "60006726"
-                    ]
-                },
-                {
-                    "scopus_id": "35232138400",
-                    "name": "Klein R.",
-                    "affiliation_id": [
-                        "60032179"
-                    ]
-                },
-                {
-                    "scopus_id": "7006662570",
-                    "name": "Sharrett A.",
-                    "affiliation_id": [
-                        "60006183"
-                    ]
-                },
-                {
-                    "scopus_id": "35378166300",
-                    "name": "Brancati F.",
-                    "affiliation_id": [
-                        "60006183"
-                    ]
-                },
-                {
-                    "scopus_id": "7401745381",
-                    "name": "Yeh H.",
-                    "affiliation_id": [
-                        "60006183"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60026680",
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 60,
-            "publication_name": "Hypertension",
-            "issn": "0194911X",
-            "cover_date": "2008-04-01",
-            "venue": "Journal",
-            "volume": "51",
-            "issue": "4",
-            "page_range": "933-938",
-            "doi": "10.1161/HYPERTENSIONAHA.107.101584"
         },
         {
             "title": "The LOC387715 polymorphism and age-related macular degeneration: Replication in three case-control samples",
@@ -36146,57 +36262,6 @@
             "issue": "3",
             "page_range": "1128-1132",
             "doi": "10.1167/iovs.06-0999"
-        },
-        {
-            "title": "Assessment of vision-related quality of life in an older population subsample: The Blue Mountains Eye Study",
-            "eid": "2-s2.0-33845756654",
-            "authors": [
-                {
-                    "scopus_id": "7004574685",
-                    "name": "Chia E.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "8586835600",
-                    "name": "Ojaimi E.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6701613193",
-                    "name": "Rochtchina E.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 60,
-            "publication_name": "Ophthalmic Epidemiology",
-            "issn": "09286586",
-            "cover_date": "2006-12-01",
-            "venue": "Journal",
-            "volume": "13",
-            "issue": "6",
-            "page_range": "371-377",
-            "doi": "10.1080/09286580600864794"
         },
         {
             "title": "Cross-ancestry genome-wide association analysis of corneal thickness strengthens link between complex and Mendelian eye diseases",
@@ -36862,7 +36927,7 @@
                     "scopus_id": "56276074800",
                     "name": "Sawcer S.J.",
                     "affiliation_id": [
-                        "60031101"
+                        "60119925"
                     ]
                 },
                 {
@@ -38187,71 +38252,6 @@
             "issue": "24",
             "page_range": "5329-5343",
             "doi": "10.1093/hmg/dds369"
-        },
-        {
-            "title": "Prevalence and neurodegenerative or other associations with olfactory impairment in an older community",
-            "eid": "2-s2.0-76649120840",
-            "authors": [
-                {
-                    "scopus_id": "6507117166",
-                    "name": "Karpa M.J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "15829811000",
-                    "name": "Gopinath B.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6701613193",
-                    "name": "Rochtchina E.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "35434346800",
-                    "name": "Cumming R.G.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7006682075",
-                    "name": "Sue C.M.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 59,
-            "publication_name": "Journal of Aging and Health",
-            "issn": "08982643",
-            "cover_date": "2010-03-01",
-            "venue": "Journal",
-            "volume": "22",
-            "issue": "2",
-            "page_range": "154-168",
-            "doi": "10.1177/0898264309353066"
         },
         {
             "title": "CKD increases the risk of age-related macular degeneration",
@@ -39863,6 +39863,169 @@
             "doi": "10.1016/j.jdiacomp.2013.09.010"
         },
         {
+            "title": "Genetic susceptibility, dietary antioxidants, and long-term incidence of age-related macular degeneration in two populations",
+            "eid": "2-s2.0-84896724492",
+            "authors": [
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "46061782900",
+                    "name": "Buitendijk G.H.S.",
+                    "affiliation_id": [
+                        "60032114",
+                        "60032114"
+                    ]
+                },
+                {
+                    "scopus_id": "57210180784",
+                    "name": "Rochtchina E.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7501502457",
+                    "name": "Lee K.E.",
+                    "affiliation_id": [
+                        "60032114"
+                    ]
+                },
+                {
+                    "scopus_id": "57203599042",
+                    "name": "Klein B.E.K.",
+                    "affiliation_id": [
+                        "60025553"
+                    ]
+                },
+                {
+                    "scopus_id": "36037246700",
+                    "name": "Van Duijn C.M.",
+                    "affiliation_id": [
+                        "60032114"
+                    ]
+                },
+                {
+                    "scopus_id": "6507672607",
+                    "name": "Flood V.M.",
+                    "affiliation_id": [
+                        "60011664"
+                    ]
+                },
+                {
+                    "scopus_id": "7102097693",
+                    "name": "Meuer S.M.",
+                    "affiliation_id": [
+                        "60025553"
+                    ]
+                },
+                {
+                    "scopus_id": "7003299759",
+                    "name": "Attia J.",
+                    "affiliation_id": [
+                        "60183191",
+                        "60014427"
+                    ]
+                },
+                {
+                    "scopus_id": "35741429000",
+                    "name": "Myers C.",
+                    "affiliation_id": [
+                        "60025553"
+                    ]
+                },
+                {
+                    "scopus_id": "8879831700",
+                    "name": "Holliday E.G.",
+                    "affiliation_id": [
+                        "60183191"
+                    ]
+                },
+                {
+                    "scopus_id": "7201883710",
+                    "name": "Tan A.G.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7406472638",
+                    "name": "Smith W.T.",
+                    "affiliation_id": [
+                        "60183191",
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "7202158111",
+                    "name": "Iyengar S.K.",
+                    "affiliation_id": [
+                        "60000305"
+                    ]
+                },
+                {
+                    "scopus_id": "7402785120",
+                    "name": "De Jong P.T.V.M.",
+                    "affiliation_id": [
+                        "60027919",
+                        "60015618"
+                    ]
+                },
+                {
+                    "scopus_id": "57190078722",
+                    "name": "Hofman A.",
+                    "affiliation_id": [
+                        "60032114",
+                        "106613790"
+                    ]
+                },
+                {
+                    "scopus_id": "6603813300",
+                    "name": "Vingerling J.R.",
+                    "affiliation_id": [
+                        "60032114",
+                        "60032114"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "35232138400",
+                    "name": "Klein R.",
+                    "affiliation_id": [
+                        "60025553"
+                    ]
+                },
+                {
+                    "scopus_id": "6701792190",
+                    "name": "Klaver C.C.W.",
+                    "affiliation_id": [
+                        "60032114",
+                        "60032114"
+                    ]
+                }
+            ],
+            "citations": 53,
+            "publication_name": "Ophthalmology",
+            "issn": "01616420",
+            "cover_date": "2014-03-01",
+            "venue": "Journal",
+            "volume": "121",
+            "issue": "3",
+            "page_range": "667-675",
+            "doi": "10.1016/j.ophtha.2013.10.017"
+        },
+        {
             "title": "The association of aspirin use with age-related macular degeneration",
             "eid": "2-s2.0-84874863999",
             "authors": [
@@ -39914,6 +40077,91 @@
             "issue": "4",
             "page_range": "258-264",
             "doi": "10.1001/jamainternmed.2013.1583"
+        },
+        {
+            "title": "Prevalence and risk factors of epiretinal membrane in Asian Indians",
+            "eid": "2-s2.0-84859988429",
+            "authors": [
+                {
+                    "scopus_id": "56685079900",
+                    "name": "Koh V.",
+                    "affiliation_id": [
+                        "60024285"
+                    ]
+                },
+                {
+                    "scopus_id": "35276903300",
+                    "name": "Cheung C.Y.",
+                    "affiliation_id": [
+                        "60024285"
+                    ]
+                },
+                {
+                    "scopus_id": "16311065000",
+                    "name": "Wong W.L.",
+                    "affiliation_id": [
+                        "60024285",
+                        "60026680"
+                    ]
+                },
+                {
+                    "scopus_id": "7202061785",
+                    "name": "Cheung C.M.",
+                    "affiliation_id": [
+                        "60024285",
+                        "60026680"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6507129483",
+                    "name": "Younan C.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006402006",
+                    "name": "Saw S.M.",
+                    "affiliation_id": [
+                        "60024285",
+                        "60026680",
+                        "60017161"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T.Y.",
+                    "affiliation_id": [
+                        "60024285",
+                        "60026680",
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 53,
+            "publication_name": "Investigative Ophthalmology and Visual Science",
+            "issn": "01460404",
+            "cover_date": "2012-02-01",
+            "venue": "Journal",
+            "volume": "53",
+            "issue": "2",
+            "page_range": "1018-1022",
+            "doi": "10.1167/iovs.11-8557"
         },
         {
             "title": "Body mass index and its effects on retinal vessel diameter in 6-year-old children",
@@ -40617,169 +40865,6 @@
             "doi": "10.2337/db18-0567"
         },
         {
-            "title": "Genetic susceptibility, dietary antioxidants, and long-term incidence of age-related macular degeneration in two populations",
-            "eid": "2-s2.0-84896724492",
-            "authors": [
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "46061782900",
-                    "name": "Buitendijk G.H.S.",
-                    "affiliation_id": [
-                        "60032114",
-                        "60032114"
-                    ]
-                },
-                {
-                    "scopus_id": "57210180784",
-                    "name": "Rochtchina E.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7501502457",
-                    "name": "Lee K.E.",
-                    "affiliation_id": [
-                        "60032114"
-                    ]
-                },
-                {
-                    "scopus_id": "57203599042",
-                    "name": "Klein B.E.K.",
-                    "affiliation_id": [
-                        "60025553"
-                    ]
-                },
-                {
-                    "scopus_id": "36037246700",
-                    "name": "Van Duijn C.M.",
-                    "affiliation_id": [
-                        "60032114"
-                    ]
-                },
-                {
-                    "scopus_id": "6507672607",
-                    "name": "Flood V.M.",
-                    "affiliation_id": [
-                        "60011664"
-                    ]
-                },
-                {
-                    "scopus_id": "7102097693",
-                    "name": "Meuer S.M.",
-                    "affiliation_id": [
-                        "60025553"
-                    ]
-                },
-                {
-                    "scopus_id": "7003299759",
-                    "name": "Attia J.",
-                    "affiliation_id": [
-                        "60183191",
-                        "60014427"
-                    ]
-                },
-                {
-                    "scopus_id": "35741429000",
-                    "name": "Myers C.",
-                    "affiliation_id": [
-                        "60025553"
-                    ]
-                },
-                {
-                    "scopus_id": "8879831700",
-                    "name": "Holliday E.G.",
-                    "affiliation_id": [
-                        "60183191"
-                    ]
-                },
-                {
-                    "scopus_id": "7201883710",
-                    "name": "Tan A.G.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7406472638",
-                    "name": "Smith W.T.",
-                    "affiliation_id": [
-                        "60183191",
-                        "60089710"
-                    ]
-                },
-                {
-                    "scopus_id": "7202158111",
-                    "name": "Iyengar S.K.",
-                    "affiliation_id": [
-                        "60000305"
-                    ]
-                },
-                {
-                    "scopus_id": "7402785120",
-                    "name": "De Jong P.T.V.M.",
-                    "affiliation_id": [
-                        "60027919",
-                        "60015618"
-                    ]
-                },
-                {
-                    "scopus_id": "57190078722",
-                    "name": "Hofman A.",
-                    "affiliation_id": [
-                        "60032114",
-                        "106613790"
-                    ]
-                },
-                {
-                    "scopus_id": "6603813300",
-                    "name": "Vingerling J.R.",
-                    "affiliation_id": [
-                        "60032114",
-                        "60032114"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "35232138400",
-                    "name": "Klein R.",
-                    "affiliation_id": [
-                        "60025553"
-                    ]
-                },
-                {
-                    "scopus_id": "6701792190",
-                    "name": "Klaver C.C.W.",
-                    "affiliation_id": [
-                        "60032114",
-                        "60032114"
-                    ]
-                }
-            ],
-            "citations": 52,
-            "publication_name": "Ophthalmology",
-            "issn": "01616420",
-            "cover_date": "2014-03-01",
-            "venue": "Journal",
-            "volume": "121",
-            "issue": "3",
-            "page_range": "667-675",
-            "doi": "10.1016/j.ophtha.2013.10.017"
-        },
-        {
             "title": "Meta-analysis of genome-wide association studies in five cohorts reveals common variants in RBFOX1, a regulator of tissue-specific splicing, associated with refractive error",
             "eid": "2-s2.0-84878921285",
             "authors": [
@@ -41233,91 +41318,6 @@
             "issue": "13",
             "page_range": "2754-2764",
             "doi": "10.1093/hmg/ddt116"
-        },
-        {
-            "title": "Prevalence and risk factors of epiretinal membrane in Asian Indians",
-            "eid": "2-s2.0-84859988429",
-            "authors": [
-                {
-                    "scopus_id": "56685079900",
-                    "name": "Koh V.",
-                    "affiliation_id": [
-                        "60024285"
-                    ]
-                },
-                {
-                    "scopus_id": "35276903300",
-                    "name": "Cheung C.Y.",
-                    "affiliation_id": [
-                        "60024285"
-                    ]
-                },
-                {
-                    "scopus_id": "16311065000",
-                    "name": "Wong W.L.",
-                    "affiliation_id": [
-                        "60024285",
-                        "60026680"
-                    ]
-                },
-                {
-                    "scopus_id": "7202061785",
-                    "name": "Cheung C.M.",
-                    "affiliation_id": [
-                        "60024285",
-                        "60026680"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6507129483",
-                    "name": "Younan C.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7006402006",
-                    "name": "Saw S.M.",
-                    "affiliation_id": [
-                        "60024285",
-                        "60026680",
-                        "60017161"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T.Y.",
-                    "affiliation_id": [
-                        "60024285",
-                        "60026680",
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 52,
-            "publication_name": "Investigative Ophthalmology and Visual Science",
-            "issn": "01460404",
-            "cover_date": "2012-02-01",
-            "venue": "Journal",
-            "volume": "53",
-            "issue": "2",
-            "page_range": "1018-1022",
-            "doi": "10.1167/iovs.11-8557"
         },
         {
             "title": "Retinal vascular fractal dimension and risk of early diabetic retinopathy: A prospective study of children and adolescents with type 1 diabetes",
@@ -43367,169 +43367,6 @@
             "doi": "10.1136/bjo.2003.035279"
         },
         {
-            "title": "Retinal microvascular changes and subsequent vascular events after ischemic stroke",
-            "eid": "2-s2.0-80055091032",
-            "authors": [
-                {
-                    "scopus_id": "8878893100",
-                    "name": "De Silva D.A.",
-                    "affiliation_id": [
-                        "60017958"
-                    ]
-                },
-                {
-                    "scopus_id": "36997974000",
-                    "name": "Manzano J.J.F.",
-                    "affiliation_id": [
-                        "60017958"
-                    ]
-                },
-                {
-                    "scopus_id": "59101193700",
-                    "name": "Liu E.Y.",
-                    "affiliation_id": [
-                        "60008970"
-                    ]
-                },
-                {
-                    "scopus_id": "14036602200",
-                    "name": "Woon F.P.",
-                    "affiliation_id": [
-                        "60004409"
-                    ]
-                },
-                {
-                    "scopus_id": "57661490300",
-                    "name": "Wong W.X.",
-                    "affiliation_id": [
-                        "60008970"
-                    ]
-                },
-                {
-                    "scopus_id": "18933663700",
-                    "name": "Chang H.M.",
-                    "affiliation_id": [
-                        "60017958"
-                    ]
-                },
-                {
-                    "scopus_id": "57375362200",
-                    "name": "Chen C.",
-                    "affiliation_id": [
-                        "60017161"
-                    ]
-                },
-                {
-                    "scopus_id": "35292865800",
-                    "name": "Lindley R.I.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J.",
-                    "affiliation_id": [
-                        "60004437"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60004437"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T.Y.",
-                    "affiliation_id": [
-                        "60008970"
-                    ]
-                },
-                {
-                    "scopus_id": "7403906230",
-                    "name": "Wong M.C.",
-                    "affiliation_id": [
-                        "60025709",
-                        "100328478"
-                    ]
-                }
-            ],
-            "citations": 44,
-            "publication_name": "Neurology",
-            "issn": "00283878",
-            "cover_date": "2011-08-30",
-            "venue": "Journal",
-            "volume": "77",
-            "issue": "9",
-            "page_range": "896-903",
-            "doi": "10.1212/WNL.0b013e31822c623b"
-        },
-        {
-            "title": "Circulating inflammatory markers and hemostatic factors in age-related maculopathy: A population-based case-control study",
-            "eid": "2-s2.0-34250188095",
-            "authors": [
-                {
-                    "scopus_id": "16481611500",
-                    "name": "Wu K.H.C.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7201883710",
-                    "name": "Tan A.G.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6701613193",
-                    "name": "Rochtchina E.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7005694126",
-                    "name": "Favaloro E.J.",
-                    "affiliation_id": [
-                        "60004437"
-                    ]
-                },
-                {
-                    "scopus_id": "8407013800",
-                    "name": "Williams A.",
-                    "affiliation_id": [
-                        "60018150"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 44,
-            "publication_name": "Investigative Ophthalmology and Visual Science",
-            "issn": "01460404",
-            "cover_date": "2007-05-01",
-            "venue": "Journal",
-            "volume": "48",
-            "issue": "5",
-            "page_range": "1983-1988",
-            "doi": "10.1167/iovs.06-0223"
-        },
-        {
             "title": "A multi-ethnic genome-wide association study implicates collagen matrix integrity and cell differentiation pathways in keratoconus",
             "eid": "2-s2.0-85101817565",
             "authors": [
@@ -44000,7 +43837,7 @@
                     ]
                 }
             ],
-            "citations": 43,
+            "citations": 44,
             "publication_name": "Communications Biology",
             "issn": "",
             "cover_date": "2021-12-01",
@@ -44009,6 +43846,169 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1038/s42003-021-01784-0"
+        },
+        {
+            "title": "Retinal microvascular changes and subsequent vascular events after ischemic stroke",
+            "eid": "2-s2.0-80055091032",
+            "authors": [
+                {
+                    "scopus_id": "8878893100",
+                    "name": "De Silva D.A.",
+                    "affiliation_id": [
+                        "60017958"
+                    ]
+                },
+                {
+                    "scopus_id": "36997974000",
+                    "name": "Manzano J.J.F.",
+                    "affiliation_id": [
+                        "60017958"
+                    ]
+                },
+                {
+                    "scopus_id": "59101193700",
+                    "name": "Liu E.Y.",
+                    "affiliation_id": [
+                        "60008970"
+                    ]
+                },
+                {
+                    "scopus_id": "14036602200",
+                    "name": "Woon F.P.",
+                    "affiliation_id": [
+                        "60004409"
+                    ]
+                },
+                {
+                    "scopus_id": "57661490300",
+                    "name": "Wong W.X.",
+                    "affiliation_id": [
+                        "60008970"
+                    ]
+                },
+                {
+                    "scopus_id": "18933663700",
+                    "name": "Chang H.M.",
+                    "affiliation_id": [
+                        "60017958"
+                    ]
+                },
+                {
+                    "scopus_id": "57375362200",
+                    "name": "Chen C.",
+                    "affiliation_id": [
+                        "60017161"
+                    ]
+                },
+                {
+                    "scopus_id": "35292865800",
+                    "name": "Lindley R.I.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J.",
+                    "affiliation_id": [
+                        "60004437"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60004437"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T.Y.",
+                    "affiliation_id": [
+                        "60008970"
+                    ]
+                },
+                {
+                    "scopus_id": "7403906230",
+                    "name": "Wong M.C.",
+                    "affiliation_id": [
+                        "60025709",
+                        "100328478"
+                    ]
+                }
+            ],
+            "citations": 44,
+            "publication_name": "Neurology",
+            "issn": "00283878",
+            "cover_date": "2011-08-30",
+            "venue": "Journal",
+            "volume": "77",
+            "issue": "9",
+            "page_range": "896-903",
+            "doi": "10.1212/WNL.0b013e31822c623b"
+        },
+        {
+            "title": "Circulating inflammatory markers and hemostatic factors in age-related maculopathy: A population-based case-control study",
+            "eid": "2-s2.0-34250188095",
+            "authors": [
+                {
+                    "scopus_id": "16481611500",
+                    "name": "Wu K.H.C.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7201883710",
+                    "name": "Tan A.G.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6701613193",
+                    "name": "Rochtchina E.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7005694126",
+                    "name": "Favaloro E.J.",
+                    "affiliation_id": [
+                        "60004437"
+                    ]
+                },
+                {
+                    "scopus_id": "8407013800",
+                    "name": "Williams A.",
+                    "affiliation_id": [
+                        "60018150"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 44,
+            "publication_name": "Investigative Ophthalmology and Visual Science",
+            "issn": "01460404",
+            "cover_date": "2007-05-01",
+            "venue": "Journal",
+            "volume": "48",
+            "issue": "5",
+            "page_range": "1983-1988",
+            "doi": "10.1167/iovs.06-0223"
         },
         {
             "title": "Retinal microvascular calibre and risk of diabetes mellitus: a systematic review and participant-level meta-analysis",
@@ -44289,6 +44289,74 @@
             "doi": "10.1111/j.1549-8719.2010.00062.x"
         },
         {
+            "title": "Metabolic syndrome and risk of age-related macular degeneration",
+            "eid": "2-s2.0-84924289827",
+            "authors": [
+                {
+                    "scopus_id": "7801445138",
+                    "name": "Ghaem Maralani H.",
+                    "affiliation_id": [
+                        "60017161",
+                        "60199538"
+                    ]
+                },
+                {
+                    "scopus_id": "7004532031",
+                    "name": "Tai B.C.",
+                    "affiliation_id": [
+                        "60017161",
+                        "60026680"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T.Y.",
+                    "affiliation_id": [
+                        "60024285",
+                        "60026680",
+                        "60095034"
+                    ]
+                },
+                {
+                    "scopus_id": "57770356700",
+                    "name": "Tai E.S.",
+                    "affiliation_id": [
+                        "60029656"
+                    ]
+                },
+                {
+                    "scopus_id": "16834787000",
+                    "name": "Li J.",
+                    "affiliation_id": [
+                        "60017161"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 42,
+            "publication_name": "Retina",
+            "issn": "0275004X",
+            "cover_date": "2015-03-10",
+            "venue": "Journal",
+            "volume": "35",
+            "issue": "3",
+            "page_range": "459-466",
+            "doi": "10.1097/IAE.0000000000000338"
+        },
+        {
             "title": "Diabetic retinopathy is related to both endothelium-dependent and -independent responses of skin microvascular flow",
             "eid": "2-s2.0-80051983016",
             "authors": [
@@ -44543,74 +44611,6 @@
             "doi": "10.1016/S0161-6420(02)01295-2"
         },
         {
-            "title": "Metabolic syndrome and risk of age-related macular degeneration",
-            "eid": "2-s2.0-84924289827",
-            "authors": [
-                {
-                    "scopus_id": "7801445138",
-                    "name": "Ghaem Maralani H.",
-                    "affiliation_id": [
-                        "60017161",
-                        "60199538"
-                    ]
-                },
-                {
-                    "scopus_id": "7004532031",
-                    "name": "Tai B.C.",
-                    "affiliation_id": [
-                        "60017161",
-                        "60026680"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T.Y.",
-                    "affiliation_id": [
-                        "60024285",
-                        "60026680",
-                        "60095034"
-                    ]
-                },
-                {
-                    "scopus_id": "57770356700",
-                    "name": "Tai E.S.",
-                    "affiliation_id": [
-                        "60026680"
-                    ]
-                },
-                {
-                    "scopus_id": "16834787000",
-                    "name": "Li J.",
-                    "affiliation_id": [
-                        "60017161"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 41,
-            "publication_name": "Retina",
-            "issn": "0275004X",
-            "cover_date": "2015-03-10",
-            "venue": "Journal",
-            "volume": "35",
-            "issue": "3",
-            "page_range": "459-466",
-            "doi": "10.1097/IAE.0000000000000338"
-        },
-        {
             "title": "Fluid intake and all-cause mortality, cardiovascular mortality and kidney function: A population-based longitudinal cohort study",
             "eid": "2-s2.0-84903550236",
             "authors": [
@@ -44775,6 +44775,105 @@
             "issue": "2",
             "page_range": "109-113",
             "doi": "10.3109/09286586.2013.766757"
+        },
+        {
+            "title": "The HtrA1 Promoter Polymorphism, Smoking, and Age-related Macular Degeneration in Multiple Case-control Samples",
+            "eid": "2-s2.0-54949101967",
+            "authors": [
+                {
+                    "scopus_id": "6701486232",
+                    "name": "Tuo J.",
+                    "affiliation_id": [
+                        "60007651"
+                    ]
+                },
+                {
+                    "scopus_id": "14016758100",
+                    "name": "Ross R.",
+                    "affiliation_id": [
+                        "60007651"
+                    ]
+                },
+                {
+                    "scopus_id": "36108591800",
+                    "name": "Reed G.",
+                    "affiliation_id": [
+                        "60007651"
+                    ]
+                },
+                {
+                    "scopus_id": "36856777700",
+                    "name": "Yan Q.",
+                    "affiliation_id": [
+                        "60007651"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.",
+                    "affiliation_id": [
+                        "60003992"
+                    ]
+                },
+                {
+                    "scopus_id": "8739683100",
+                    "name": "Bojanowski C.",
+                    "affiliation_id": [
+                        "60007651"
+                    ]
+                },
+                {
+                    "scopus_id": "7102013764",
+                    "name": "Chew E.",
+                    "affiliation_id": [
+                        "60007651"
+                    ]
+                },
+                {
+                    "scopus_id": "8248712500",
+                    "name": "Feng X.",
+                    "affiliation_id": [
+                        "60029445"
+                    ]
+                },
+                {
+                    "scopus_id": "7201975483",
+                    "name": "Olsen T.",
+                    "affiliation_id": [
+                        "60029445"
+                    ]
+                },
+                {
+                    "scopus_id": "35408084600",
+                    "name": "Ferris F.",
+                    "affiliation_id": [
+                        "60007651"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60003992"
+                    ]
+                },
+                {
+                    "scopus_id": "7404813508",
+                    "name": "Chan C.",
+                    "affiliation_id": [
+                        "60007651"
+                    ]
+                }
+            ],
+            "citations": 41,
+            "publication_name": "Ophthalmology",
+            "issn": "01616420",
+            "cover_date": "2008-11-01",
+            "venue": "Journal",
+            "volume": "115",
+            "issue": "11",
+            "page_range": "1891-1898",
+            "doi": "10.1016/j.ophtha.2008.05.021"
         },
         {
             "title": "Complement factor H polymorphisms, renal phenotypes and age-related macular degeneration: The Blue Mountains Eye Study",
@@ -44980,105 +45079,6 @@
             "issue": "4",
             "page_range": null,
             "doi": "10.1016/j.ajo.2012.10.013"
-        },
-        {
-            "title": "The HtrA1 Promoter Polymorphism, Smoking, and Age-related Macular Degeneration in Multiple Case-control Samples",
-            "eid": "2-s2.0-54949101967",
-            "authors": [
-                {
-                    "scopus_id": "6701486232",
-                    "name": "Tuo J.",
-                    "affiliation_id": [
-                        "60007651"
-                    ]
-                },
-                {
-                    "scopus_id": "14016758100",
-                    "name": "Ross R.",
-                    "affiliation_id": [
-                        "60007651"
-                    ]
-                },
-                {
-                    "scopus_id": "36108591800",
-                    "name": "Reed G.",
-                    "affiliation_id": [
-                        "60007651"
-                    ]
-                },
-                {
-                    "scopus_id": "36856777700",
-                    "name": "Yan Q.",
-                    "affiliation_id": [
-                        "60007651"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.",
-                    "affiliation_id": [
-                        "60003992"
-                    ]
-                },
-                {
-                    "scopus_id": "8739683100",
-                    "name": "Bojanowski C.",
-                    "affiliation_id": [
-                        "60007651"
-                    ]
-                },
-                {
-                    "scopus_id": "7102013764",
-                    "name": "Chew E.",
-                    "affiliation_id": [
-                        "60007651"
-                    ]
-                },
-                {
-                    "scopus_id": "8248712500",
-                    "name": "Feng X.",
-                    "affiliation_id": [
-                        "60029445"
-                    ]
-                },
-                {
-                    "scopus_id": "7201975483",
-                    "name": "Olsen T.",
-                    "affiliation_id": [
-                        "60029445"
-                    ]
-                },
-                {
-                    "scopus_id": "35408084600",
-                    "name": "Ferris F.",
-                    "affiliation_id": [
-                        "60007651"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60003992"
-                    ]
-                },
-                {
-                    "scopus_id": "7404813508",
-                    "name": "Chan C.",
-                    "affiliation_id": [
-                        "60007651"
-                    ]
-                }
-            ],
-            "citations": 40,
-            "publication_name": "Ophthalmology",
-            "issn": "01616420",
-            "cover_date": "2008-11-01",
-            "venue": "Journal",
-            "volume": "115",
-            "issue": "11",
-            "page_range": "1891-1898",
-            "doi": "10.1016/j.ophtha.2008.05.021"
         },
         {
             "title": "Retinal microvascular abnormalities and age-related hearing loss: The blue mountains hearing study",
@@ -45567,50 +45567,6 @@
             "issue": "6",
             "page_range": "590-595",
             "doi": "10.1111/j.1442-9071.2006.01281.x"
-        },
-        {
-            "title": "Bias in self-reported family history and relationship to glaucoma: The Blue Mountains Eye Study",
-            "eid": "2-s2.0-0036903222",
-            "authors": [
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6701613193",
-                    "name": "Rochtchina E.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7405631366",
-                    "name": "Lee A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 39,
-            "publication_name": "Ophthalmic Epidemiology",
-            "issn": "09286586",
-            "cover_date": "2002-12-01",
-            "venue": "Journal",
-            "volume": "9",
-            "issue": "5",
-            "page_range": "333-345",
-            "doi": "10.1076/opep.9.5.333.10335"
         },
         {
             "title": "A Deep Learning Model for Segmentation of Geographic Atrophy to Study Its Long-Term Natural History",
@@ -46757,6 +46713,50 @@
             "issue": "11",
             "page_range": "2098-2099",
             "doi": "10.1016/j.ophtha.2007.07.010"
+        },
+        {
+            "title": "Bias in self-reported family history and relationship to glaucoma: The Blue Mountains Eye Study",
+            "eid": "2-s2.0-0036903222",
+            "authors": [
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6701613193",
+                    "name": "Rochtchina E.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7405631366",
+                    "name": "Lee A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 38,
+            "publication_name": "Ophthalmic Epidemiology",
+            "issn": "09286586",
+            "cover_date": "2002-12-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "5",
+            "page_range": "333-345",
+            "doi": "10.1076/opep.9.5.333.10335"
         },
         {
             "title": "Retinal Vessel Tortuosity and Its Relation to Traditional and Novel Vascular Risk Markers in Persons with Diabetes",
@@ -49061,7 +49061,7 @@
                     "scopus_id": "57770356700",
                     "name": "Tai E.S.",
                     "affiliation_id": [
-                        "60026680"
+                        "60029656"
                     ]
                 },
                 {
@@ -49585,7 +49585,7 @@
                         "60006404",
                         "60006404",
                         "60000305",
-                        "60021578"
+                        "60006404"
                     ]
                 },
                 {
@@ -50420,7 +50420,7 @@
                     "scopus_id": "57203205944",
                     "name": "Brooks M.",
                     "affiliation_id": [
-                        "60022590"
+                        "60033182"
                     ]
                 },
                 {
@@ -50441,7 +50441,7 @@
                     "scopus_id": "6603857482",
                     "name": "Branham K.E.",
                     "affiliation_id": [
-                        "60022590"
+                        "60033182"
                     ]
                 },
                 {
@@ -50455,14 +50455,14 @@
                     "scopus_id": "7005330116",
                     "name": "Heckenlively J.R.",
                     "affiliation_id": [
-                        "60022590"
+                        "60033182"
                     ]
                 },
                 {
                     "scopus_id": "7006122480",
                     "name": "Othman M.I.",
                     "affiliation_id": [
-                        "60022590"
+                        "60033182"
                     ]
                 },
                 {
@@ -53509,6 +53509,65 @@
             "doi": "10.1080/10739680701411080"
         },
         {
+            "title": "Population prevalence and incidence of Parkinson's disease in an Australian community",
+            "eid": "2-s2.0-36348995378",
+            "authors": [
+                {
+                    "scopus_id": "14070650000",
+                    "name": "Mehta P.",
+                    "affiliation_id": [
+                        "60011192"
+                    ]
+                },
+                {
+                    "scopus_id": "8557586600",
+                    "name": "Kifley A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6701613193",
+                    "name": "Rochtchina E.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006682075",
+                    "name": "Sue C.",
+                    "affiliation_id": [
+                        "60011192",
+                        "60025709",
+                        "60006974"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "Internal Medicine Journal",
+            "issn": "14440903",
+            "cover_date": "2007-12-01",
+            "venue": "Journal",
+            "volume": "37",
+            "issue": "12",
+            "page_range": "812-814",
+            "doi": "10.1111/j.1445-5994.2007.01433.x"
+        },
+        {
             "title": "MELAS A3243G mitochondrial DNA mutation and age related maculopathy",
             "eid": "2-s2.0-11144272004",
             "authors": [
@@ -53970,7 +54029,7 @@
                     "scopus_id": "56276074800",
                     "name": "Sawcer S.J.",
                     "affiliation_id": [
-                        "60031101"
+                        "60119925"
                     ]
                 },
                 {
@@ -54318,7 +54377,7 @@
                     "scopus_id": "57770356700",
                     "name": "Tai E.S.",
                     "affiliation_id": [
-                        "60026680"
+                        "60029656"
                     ]
                 },
                 {
@@ -54425,7 +54484,7 @@
                     "scopus_id": "57770356700",
                     "name": "Tai E.S.",
                     "affiliation_id": [
-                        "60026680"
+                        "60029656"
                     ]
                 },
                 {
@@ -54656,65 +54715,6 @@
             "issue": "4",
             "page_range": "620-624",
             "doi": "10.1016/j.ajo.2008.05.033"
-        },
-        {
-            "title": "Population prevalence and incidence of Parkinson's disease in an Australian community",
-            "eid": "2-s2.0-36348995378",
-            "authors": [
-                {
-                    "scopus_id": "14070650000",
-                    "name": "Mehta P.",
-                    "affiliation_id": [
-                        "60011192"
-                    ]
-                },
-                {
-                    "scopus_id": "8557586600",
-                    "name": "Kifley A.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6701613193",
-                    "name": "Rochtchina E.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7006682075",
-                    "name": "Sue C.",
-                    "affiliation_id": [
-                        "60011192",
-                        "60025709",
-                        "60006974"
-                    ]
-                }
-            ],
-            "citations": 26,
-            "publication_name": "Internal Medicine Journal",
-            "issn": "14440903",
-            "cover_date": "2007-12-01",
-            "venue": "Journal",
-            "volume": "37",
-            "issue": "12",
-            "page_range": "812-814",
-            "doi": "10.1111/j.1445-5994.2007.01433.x"
         },
         {
             "title": "Carbohydrate nutrition, glycemic index, and the 10-y incidence of cataract",
@@ -57945,6 +57945,162 @@
             "doi": "10.1111/j.1463-1326.2007.00824.x"
         },
         {
+            "title": "Six-year changes in myopic macular degeneration in adults of the Singapore Epidemiology of Eye diseases study",
+            "eid": "2-s2.0-85083631896",
+            "authors": [
+                {
+                    "scopus_id": "57194237296",
+                    "name": "Wong Y.L.",
+                    "affiliation_id": [
+                        "60024285",
+                        "60017161",
+                        "121377619"
+                    ]
+                },
+                {
+                    "scopus_id": "22136294700",
+                    "name": "Sabanayagam C.",
+                    "affiliation_id": [
+                        "60024285",
+                        "60095034",
+                        "60026680"
+                    ]
+                },
+                {
+                    "scopus_id": "55892032800",
+                    "name": "Wong C.W.",
+                    "affiliation_id": [
+                        "60024285",
+                        "60095034"
+                    ]
+                },
+                {
+                    "scopus_id": "7202111441",
+                    "name": "Cheung Y.B.",
+                    "affiliation_id": [
+                        "60095034"
+                    ]
+                },
+                {
+                    "scopus_id": "55222332700",
+                    "name": "Man R.E.K.",
+                    "affiliation_id": [
+                        "60024285"
+                    ]
+                },
+                {
+                    "scopus_id": "7006664011",
+                    "name": "Yeo A.C.H.",
+                    "affiliation_id": [
+                        "121377619"
+                    ]
+                },
+                {
+                    "scopus_id": "7202061785",
+                    "name": "Cheung G.",
+                    "affiliation_id": [
+                        "60024285",
+                        "60095034",
+                        "60026680"
+                    ]
+                },
+                {
+                    "scopus_id": "8506102600",
+                    "name": "Chia A.",
+                    "affiliation_id": [
+                        "60024285"
+                    ]
+                },
+                {
+                    "scopus_id": "57203073399",
+                    "name": "Kuo A.",
+                    "affiliation_id": [
+                        "60095034",
+                        "60008724",
+                        "60140102"
+                    ]
+                },
+                {
+                    "scopus_id": "23767097100",
+                    "name": "Ang M.",
+                    "affiliation_id": [
+                        "60024285",
+                        "60095034",
+                        "60026680"
+                    ]
+                },
+                {
+                    "scopus_id": "7003458924",
+                    "name": "Ohno-Matsui K.",
+                    "affiliation_id": [
+                        "60003303"
+                    ]
+                },
+                {
+                    "scopus_id": "7403147159",
+                    "name": "Wong T.Y.",
+                    "affiliation_id": [
+                        "60024285",
+                        "60017161",
+                        "60095034",
+                        "60026680"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.J.",
+                    "affiliation_id": [
+                        "60095034"
+                    ]
+                },
+                {
+                    "scopus_id": "55539712500",
+                    "name": "Cheng C.Y.",
+                    "affiliation_id": [
+                        "60024285",
+                        "60095034",
+                        "60026680"
+                    ]
+                },
+                {
+                    "scopus_id": "36021346100",
+                    "name": "Hoang Q.V.",
+                    "affiliation_id": [
+                        "60024285",
+                        "60095034",
+                        "60011605"
+                    ]
+                },
+                {
+                    "scopus_id": "7003839871",
+                    "name": "Lamoureux E.",
+                    "affiliation_id": [
+                        "60024285",
+                        "60095034"
+                    ]
+                },
+                {
+                    "scopus_id": "7006402006",
+                    "name": "Saw S.M.",
+                    "affiliation_id": [
+                        "60024285",
+                        "60017161",
+                        "60095034",
+                        "60026680"
+                    ]
+                }
+            ],
+            "citations": 22,
+            "publication_name": "Investigative Ophthalmology and Visual Science",
+            "issn": "01460404",
+            "cover_date": "2020-04-01",
+            "venue": "Journal",
+            "volume": "61",
+            "issue": "4",
+            "page_range": null,
+            "doi": "10.1167/iovs.61.4.14"
+        },
+        {
             "title": "Validating the AREDS Simplified Severity Scale of Age-Related Macular Degeneration with 5- and 10-Year Incident Data in a Population-Based Sample",
             "eid": "2-s2.0-84982266758",
             "authors": [
@@ -59145,162 +59301,6 @@
             "doi": "10.1016/j.mvr.2003.10.002"
         },
         {
-            "title": "Six-year changes in myopic macular degeneration in adults of the Singapore Epidemiology of Eye diseases study",
-            "eid": "2-s2.0-85083631896",
-            "authors": [
-                {
-                    "scopus_id": "57194237296",
-                    "name": "Wong Y.L.",
-                    "affiliation_id": [
-                        "60024285",
-                        "60017161",
-                        "121377619"
-                    ]
-                },
-                {
-                    "scopus_id": "22136294700",
-                    "name": "Sabanayagam C.",
-                    "affiliation_id": [
-                        "60024285",
-                        "60095034",
-                        "60026680"
-                    ]
-                },
-                {
-                    "scopus_id": "55892032800",
-                    "name": "Wong C.W.",
-                    "affiliation_id": [
-                        "60024285",
-                        "60095034"
-                    ]
-                },
-                {
-                    "scopus_id": "7202111441",
-                    "name": "Cheung Y.B.",
-                    "affiliation_id": [
-                        "60095034"
-                    ]
-                },
-                {
-                    "scopus_id": "55222332700",
-                    "name": "Man R.E.K.",
-                    "affiliation_id": [
-                        "60024285"
-                    ]
-                },
-                {
-                    "scopus_id": "7006664011",
-                    "name": "Yeo A.C.H.",
-                    "affiliation_id": [
-                        "121377619"
-                    ]
-                },
-                {
-                    "scopus_id": "7202061785",
-                    "name": "Cheung G.",
-                    "affiliation_id": [
-                        "60024285",
-                        "60095034",
-                        "60026680"
-                    ]
-                },
-                {
-                    "scopus_id": "8506102600",
-                    "name": "Chia A.",
-                    "affiliation_id": [
-                        "60024285"
-                    ]
-                },
-                {
-                    "scopus_id": "57203073399",
-                    "name": "Kuo A.",
-                    "affiliation_id": [
-                        "60095034",
-                        "60008724",
-                        "60140102"
-                    ]
-                },
-                {
-                    "scopus_id": "23767097100",
-                    "name": "Ang M.",
-                    "affiliation_id": [
-                        "60024285",
-                        "60095034",
-                        "60026680"
-                    ]
-                },
-                {
-                    "scopus_id": "7003458924",
-                    "name": "Ohno-Matsui K.",
-                    "affiliation_id": [
-                        "60003303"
-                    ]
-                },
-                {
-                    "scopus_id": "7403147159",
-                    "name": "Wong T.Y.",
-                    "affiliation_id": [
-                        "60024285",
-                        "60017161",
-                        "60095034",
-                        "60026680"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.J.",
-                    "affiliation_id": [
-                        "60095034"
-                    ]
-                },
-                {
-                    "scopus_id": "55539712500",
-                    "name": "Cheng C.Y.",
-                    "affiliation_id": [
-                        "60024285",
-                        "60095034",
-                        "60026680"
-                    ]
-                },
-                {
-                    "scopus_id": "36021346100",
-                    "name": "Hoang Q.V.",
-                    "affiliation_id": [
-                        "60024285",
-                        "60095034",
-                        "60011605"
-                    ]
-                },
-                {
-                    "scopus_id": "7003839871",
-                    "name": "Lamoureux E.",
-                    "affiliation_id": [
-                        "60024285",
-                        "60095034"
-                    ]
-                },
-                {
-                    "scopus_id": "7006402006",
-                    "name": "Saw S.M.",
-                    "affiliation_id": [
-                        "60024285",
-                        "60017161",
-                        "60095034",
-                        "60026680"
-                    ]
-                }
-            ],
-            "citations": 21,
-            "publication_name": "Investigative Ophthalmology and Visual Science",
-            "issn": "01460404",
-            "cover_date": "2020-04-01",
-            "venue": "Journal",
-            "volume": "61",
-            "issue": "4",
-            "page_range": null,
-            "doi": "10.1167/iovs.61.4.14"
-        },
-        {
             "title": "Are C-Reactive Protein Associated Genetic Variants Associated with Serum Levels and Retinal Markers of Microvascular Pathology in Asian Populations from Singapore?",
             "eid": "2-s2.0-84879743094",
             "authors": [
@@ -59504,7 +59504,7 @@
                     "name": "Tai E.S.",
                     "affiliation_id": [
                         "60017161",
-                        "60026680",
+                        "60029656",
                         "60095034"
                     ]
                 },
@@ -60361,7 +60361,7 @@
                     "name": "Iyengar S.K.",
                     "affiliation_id": [
                         "60000305",
-                        "60000305",
+                        "60006404",
                         "60006404"
                     ]
                 },
@@ -60400,7 +60400,7 @@
                     "name": "Lass J.H.",
                     "affiliation_id": [
                         "60000305",
-                        "60000305"
+                        "60006404"
                     ]
                 },
                 {
@@ -62275,7 +62275,7 @@
                     "scopus_id": "57770356700",
                     "name": "Tai E.S.",
                     "affiliation_id": [
-                        "60026680"
+                        "60029656"
                     ]
                 },
                 {
@@ -62793,7 +62793,7 @@
                     "scopus_id": "55574215455",
                     "name": "Campbell S.",
                     "affiliation_id": [
-                        "60025111"
+                        "60016639"
                     ]
                 },
                 {
@@ -62925,7 +62925,7 @@
                     "scopus_id": "7004067300",
                     "name": "Couper D.J.",
                     "affiliation_id": [
-                        "60025111"
+                        "60016639"
                     ]
                 },
                 {
@@ -64462,7 +64462,7 @@
                     "scopus_id": "57770356700",
                     "name": "Tai E.S.",
                     "affiliation_id": [
-                        "60026680"
+                        "60029656"
                     ]
                 },
                 {
@@ -65162,7 +65162,7 @@
                     "scopus_id": "57770356700",
                     "name": "Tai E.S.",
                     "affiliation_id": [
-                        "60026680"
+                        "60029656"
                     ]
                 },
                 {
@@ -66136,6 +66136,57 @@
             "doi": "10.1097/OPX.0000000000000288"
         },
         {
+            "title": "Lower dairy products and calcium intake is associated with adverse retinal vascular changes in older adults",
+            "eid": "2-s2.0-84894268343",
+            "authors": [
+                {
+                    "scopus_id": "15829811000",
+                    "name": "Gopinath B.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6507672607",
+                    "name": "Flood V.",
+                    "affiliation_id": [
+                        "60011664"
+                    ]
+                },
+                {
+                    "scopus_id": "55664024800",
+                    "name": "Wang J.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "15847990200",
+                    "name": "Burlutsky G.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7402933815",
+                    "name": "Mitchell P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 14,
+            "publication_name": "Nutrition, Metabolism and Cardiovascular Diseases",
+            "issn": "09394753",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "2",
+            "page_range": "155-161",
+            "doi": "10.1016/j.numecd.2013.06.009"
+        },
+        {
             "title": "Is quality of diet associated with the microvasculature? An analysis of diet quality and retinal vascular calibre in older adults",
             "eid": "2-s2.0-84881433976",
             "authors": [
@@ -66678,57 +66729,6 @@
             "issue": "8",
             "page_range": "1829-1830.e1",
             "doi": "10.1016/j.ophtha.2016.02.003"
-        },
-        {
-            "title": "Lower dairy products and calcium intake is associated with adverse retinal vascular changes in older adults",
-            "eid": "2-s2.0-84894268343",
-            "authors": [
-                {
-                    "scopus_id": "15829811000",
-                    "name": "Gopinath B.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "6507672607",
-                    "name": "Flood V.",
-                    "affiliation_id": [
-                        "60011664"
-                    ]
-                },
-                {
-                    "scopus_id": "55664024800",
-                    "name": "Wang J.",
-                    "affiliation_id": [
-                        "60025709",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "15847990200",
-                    "name": "Burlutsky G.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "7402933815",
-                    "name": "Mitchell P.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 13,
-            "publication_name": "Nutrition, Metabolism and Cardiovascular Diseases",
-            "issn": "09394753",
-            "cover_date": "2014-01-01",
-            "venue": "Journal",
-            "volume": "24",
-            "issue": "2",
-            "page_range": "155-161",
-            "doi": "10.1016/j.numecd.2013.06.009"
         },
         {
             "title": "The relationship of retinal vessel caliber with erectile dysfunction in patients with type 2 diabetes",
@@ -68850,7 +68850,7 @@
                     "scopus_id": "57770356700",
                     "name": "Tai E.S.",
                     "affiliation_id": [
-                        "60026680"
+                        "60029656"
                     ]
                 },
                 {
@@ -69954,7 +69954,7 @@
                     "scopus_id": "7004067300",
                     "name": "Couper D.J.",
                     "affiliation_id": [
-                        "60025111"
+                        "60016639"
                     ]
                 },
                 {
@@ -71939,7 +71939,7 @@
                     "name": "Iyengar S.K.",
                     "affiliation_id": [
                         "60000305",
-                        "60000305",
+                        "60006404",
                         "60006404"
                     ]
                 },
@@ -74188,7 +74188,7 @@
                     "name": "Tai E.S.",
                     "affiliation_id": [
                         "60106366",
-                        "60026680",
+                        "60029656",
                         "60095034"
                     ]
                 },
@@ -74197,7 +74197,7 @@
                     "name": "Van Dam R.M.",
                     "affiliation_id": [
                         "60106366",
-                        "60026680",
+                        "60029656",
                         "60032499"
                     ]
                 },
@@ -78212,6 +78212,5 @@
             "$": "Biochemistry, Genetics and Molecular Biology (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:44:15",
-    "c-score": null
+    "date fetched": "2024-07-12 20:44:03"
 }

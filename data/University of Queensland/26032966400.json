@@ -40,7 +40,7 @@
                     ]
                 }
             ],
-            "citations": 3206,
+            "citations": 3212,
             "publication_name": "Journal of Leukocyte Biology",
             "issn": "07415400",
             "cover_date": "2004-02-01",
@@ -555,7 +555,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 2926,
+            "citations": 2928,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2005-09-02",
@@ -678,7 +678,7 @@
                     ]
                 }
             ],
-            "citations": 2198,
+            "citations": 2206,
             "publication_name": "Immunity",
             "issn": "10747613",
             "cover_date": "2013-01-24",
@@ -1065,7 +1065,7 @@
                     ]
                 }
             ],
-            "citations": 1770,
+            "citations": 1771,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2014-01-01",
@@ -2035,7 +2035,7 @@
                     ]
                 }
             ],
-            "citations": 1418,
+            "citations": 1419,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2005-09-02",
@@ -2798,7 +2798,7 @@
                     ]
                 }
             ],
-            "citations": 1388,
+            "citations": 1390,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2014-01-01",
@@ -3124,7 +3124,7 @@
                     ]
                 }
             ],
-            "citations": 1053,
+            "citations": 1056,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2006-06-01",
@@ -3158,7 +3158,7 @@
                     ]
                 }
             ],
-            "citations": 792,
+            "citations": 793,
             "publication_name": "Neuroscience",
             "issn": "03064522",
             "cover_date": "1985-01-01",
@@ -3292,7 +3292,7 @@
                     ]
                 }
             ],
-            "citations": 706,
+            "citations": 707,
             "publication_name": "Science",
             "issn": "00368075",
             "cover_date": "2009-02-20",
@@ -3464,7 +3464,7 @@
                     ]
                 }
             ],
-            "citations": 631,
+            "citations": 633,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2009-05-01",
@@ -3906,7 +3906,7 @@
                     "affiliation_id": []
                 },
                 {
-                    "scopus_id": "59050989600",
+                    "scopus_id": "57204335364",
                     "name": "Cairns C.",
                     "affiliation_id": []
                 },
@@ -4041,7 +4041,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 593,
+            "citations": 595,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2012-04-26",
@@ -5073,7 +5073,7 @@
                     ]
                 }
             ],
-            "citations": 548,
+            "citations": 550,
             "publication_name": "Journal of Immunology",
             "issn": "00221767",
             "cover_date": "2008-07-15",
@@ -5221,7 +5221,7 @@
                     ]
                 }
             ],
-            "citations": 543,
+            "citations": 546,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2011-11-24",
@@ -5250,7 +5250,7 @@
                     ]
                 }
             ],
-            "citations": 531,
+            "citations": 532,
             "publication_name": "Blood",
             "issn": "00064971",
             "cover_date": "2012-02-23",
@@ -5346,7 +5346,7 @@
                     ]
                 }
             ],
-            "citations": 518,
+            "citations": 519,
             "publication_name": "Blood",
             "issn": "00064971",
             "cover_date": "2003-02-01",
@@ -5362,22 +5362,22 @@
             "authors": [
                 {
                     "scopus_id": "7003572022",
-                    "name": "Stacey K.",
+                    "name": "Stacey K.J.",
                     "affiliation_id": [
                         "60031004",
-                        "60031101"
+                        "60120017"
                     ]
                 },
                 {
                     "scopus_id": "35373091000",
-                    "name": "Sweet M.",
+                    "name": "Sweet M.J.",
                     "affiliation_id": [
                         "60031004"
                     ]
                 },
                 {
                     "scopus_id": "26032966400",
-                    "name": "Hume D.",
+                    "name": "Hume D.A.",
                     "affiliation_id": [
                         "60031004",
                         "60031004"
@@ -6137,7 +6137,7 @@
                     ]
                 }
             ],
-            "citations": 469,
+            "citations": 476,
             "publication_name": "Neuron",
             "issn": "08966273",
             "cover_date": "2022-11-02",
@@ -6304,7 +6304,7 @@
                     ]
                 }
             ],
-            "citations": 434,
+            "citations": 436,
             "publication_name": "Nature Reviews Immunology",
             "issn": "14741733",
             "cover_date": "2010-05-01",
@@ -6849,7 +6849,7 @@
                     ]
                 }
             ],
-            "citations": 410,
+            "citations": 411,
             "publication_name": "Journal of Immunology",
             "issn": "00221767",
             "cover_date": "2008-11-01",
@@ -7043,7 +7043,7 @@
                     ]
                 }
             ],
-            "citations": 377,
+            "citations": 378,
             "publication_name": "Blood",
             "issn": "00064971",
             "cover_date": "2010-11-11",
@@ -7221,7 +7221,7 @@
                     ]
                 }
             ],
-            "citations": 362,
+            "citations": 363,
             "publication_name": "Immunome Research",
             "issn": "",
             "cover_date": "2008-05-29",
@@ -7257,7 +7257,7 @@
                     ]
                 }
             ],
-            "citations": 360,
+            "citations": 361,
             "publication_name": "Journal of Cell Biology",
             "issn": "00219525",
             "cover_date": "1983-01-01",
@@ -7986,6 +7986,103 @@
             "doi": "10.1038/ng.375"
         },
         {
+            "title": "Osteal macrophages promote in vivo intramembranous bone healing in a mouse tibial injury model",
+            "eid": "2-s2.0-79959508609",
+            "authors": [
+                {
+                    "scopus_id": "36788415300",
+                    "name": "Alexander K.A.",
+                    "affiliation_id": [
+                        "60110780",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "24511951600",
+                    "name": "Chang M.K.",
+                    "affiliation_id": [
+                        "60025858"
+                    ]
+                },
+                {
+                    "scopus_id": "23987663600",
+                    "name": "Maylin E.R.",
+                    "affiliation_id": [
+                        "60110780"
+                    ]
+                },
+                {
+                    "scopus_id": "7102921750",
+                    "name": "Kohler T.",
+                    "affiliation_id": [
+                        "110835132"
+                    ]
+                },
+                {
+                    "scopus_id": "36063433800",
+                    "name": "M\u00fcller R.",
+                    "affiliation_id": [
+                        "60025858"
+                    ]
+                },
+                {
+                    "scopus_id": "14007388000",
+                    "name": "Wu A.C.",
+                    "affiliation_id": [
+                        "60190629"
+                    ]
+                },
+                {
+                    "scopus_id": "35428581800",
+                    "name": "Van Rooijen N.",
+                    "affiliation_id": [
+                        "60008734"
+                    ]
+                },
+                {
+                    "scopus_id": "35373091000",
+                    "name": "Sweet M.J.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "6602598711",
+                    "name": "Raggatt L.J.",
+                    "affiliation_id": [
+                        "60110780",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "8207627200",
+                    "name": "Pettit A.R.",
+                    "affiliation_id": [
+                        "60110780",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 351,
+            "publication_name": "Journal of Bone and Mineral Research",
+            "issn": "08840431",
+            "cover_date": "2011-07-01",
+            "venue": "Journal",
+            "volume": "26",
+            "issue": "7",
+            "page_range": "1517-1532",
+            "doi": "10.1002/jbmr.354"
+        },
+        {
             "title": "The macrophage-inducible C-type lectin, mincle, is an essential component of the innate immune response to candida albicans",
             "eid": "2-s2.0-47249089542",
             "authors": [
@@ -8140,103 +8237,6 @@
             "issue": "11",
             "page_range": "7404-7413",
             "doi": "10.4049/jimmunol.180.11.7404"
-        },
-        {
-            "title": "Osteal macrophages promote in vivo intramembranous bone healing in a mouse tibial injury model",
-            "eid": "2-s2.0-79959508609",
-            "authors": [
-                {
-                    "scopus_id": "36788415300",
-                    "name": "Alexander K.A.",
-                    "affiliation_id": [
-                        "60110780",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "24511951600",
-                    "name": "Chang M.K.",
-                    "affiliation_id": [
-                        "60025858"
-                    ]
-                },
-                {
-                    "scopus_id": "23987663600",
-                    "name": "Maylin E.R.",
-                    "affiliation_id": [
-                        "60110780"
-                    ]
-                },
-                {
-                    "scopus_id": "7102921750",
-                    "name": "Kohler T.",
-                    "affiliation_id": [
-                        "110835132"
-                    ]
-                },
-                {
-                    "scopus_id": "36063433800",
-                    "name": "M\u00fcller R.",
-                    "affiliation_id": [
-                        "60025858"
-                    ]
-                },
-                {
-                    "scopus_id": "14007388000",
-                    "name": "Wu A.C.",
-                    "affiliation_id": [
-                        "60190629"
-                    ]
-                },
-                {
-                    "scopus_id": "35428581800",
-                    "name": "Van Rooijen N.",
-                    "affiliation_id": [
-                        "60008734"
-                    ]
-                },
-                {
-                    "scopus_id": "35373091000",
-                    "name": "Sweet M.J.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "6602598711",
-                    "name": "Raggatt L.J.",
-                    "affiliation_id": [
-                        "60110780",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "8207627200",
-                    "name": "Pettit A.R.",
-                    "affiliation_id": [
-                        "60110780",
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 350,
-            "publication_name": "Journal of Bone and Mineral Research",
-            "issn": "08840431",
-            "cover_date": "2011-07-01",
-            "venue": "Journal",
-            "volume": "26",
-            "issue": "7",
-            "page_range": "1517-1532",
-            "doi": "10.1002/jbmr.354"
         },
         {
             "title": "The mononuclear phagocyte system revisited",
@@ -9001,7 +9001,7 @@
                     ]
                 }
             ],
-            "citations": 260,
+            "citations": 261,
             "publication_name": "BMC Genomics",
             "issn": "",
             "cover_date": "2013-09-20",
@@ -10049,7 +10049,7 @@
                     ]
                 }
             ],
-            "citations": 177,
+            "citations": 180,
             "publication_name": "Nature Communications",
             "issn": "",
             "cover_date": "2019-12-01",
@@ -10401,7 +10401,7 @@
                     ]
                 }
             ],
-            "citations": 166,
+            "citations": 167,
             "publication_name": "Journal of Immunology",
             "issn": "00221767",
             "cover_date": "2003-04-01",
@@ -11691,7 +11691,7 @@
                     ]
                 }
             ],
-            "citations": 156,
+            "citations": 157,
             "publication_name": "Bone",
             "issn": "87563282",
             "cover_date": "2008-12-01",
@@ -11992,7 +11992,7 @@
                     ]
                 }
             ],
-            "citations": 152,
+            "citations": 153,
             "publication_name": "Immunity",
             "issn": "10747613",
             "cover_date": "2018-08-21",
@@ -13201,7 +13201,7 @@
                     "scopus_id": "57191750261",
                     "name": "Mann K.M.",
                     "affiliation_id": [
-                        "60000635"
+                        "100725738"
                     ]
                 },
                 {
@@ -13286,7 +13286,7 @@
                     "scopus_id": "55479372500",
                     "name": "Berman D.",
                     "affiliation_id": [
-                        "60000635"
+                        "100725738"
                     ]
                 },
                 {
@@ -13477,7 +13477,7 @@
                     "scopus_id": "7005634527",
                     "name": "Lunney J.K.",
                     "affiliation_id": [
-                        "60000635"
+                        "100725738"
                     ]
                 },
                 {
@@ -14026,86 +14026,6 @@
             "doi": "10.1038/s41467-018-03638-6"
         },
         {
-            "title": "Renal structural and functional repair in a mouse model of reversal of ureteral obstruction",
-            "eid": "2-s2.0-33645652695",
-            "authors": [
-                {
-                    "scopus_id": "7101833664",
-                    "name": "Cochrane A.L.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "6701350051",
-                    "name": "Kett M.M.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "7101923680",
-                    "name": "Samuel C.S.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "6508371239",
-                    "name": "Campanale N.V.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "7403927382",
-                    "name": "Anderson W.P.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7202288952",
-                    "name": "Little M.H.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57203852923",
-                    "name": "Bertram J.F.",
-                    "affiliation_id": [
-                        "60019578"
-                    ]
-                },
-                {
-                    "scopus_id": "6701567406",
-                    "name": "Ricardo S.D.",
-                    "affiliation_id": [
-                        "60019578",
-                        "60019578",
-                        "60019578"
-                    ]
-                }
-            ],
-            "citations": 135,
-            "publication_name": "Journal of the American Society of Nephrology",
-            "issn": "10466673",
-            "cover_date": "2005-01-01",
-            "venue": "Journal",
-            "volume": "16",
-            "issue": "12",
-            "page_range": "3623-3630",
-            "doi": "10.1681/ASN.2004090771"
-        },
-        {
             "title": "Immune cell gene signatures for profiling the microenvironment of solid tumors",
             "eid": "2-s2.0-85065753127",
             "authors": [
@@ -14153,7 +14073,7 @@
                     ]
                 }
             ],
-            "citations": 134,
+            "citations": 135,
             "publication_name": "Cancer Immunology Research",
             "issn": "23266066",
             "cover_date": "2018-11-01",
@@ -14288,7 +14208,7 @@
                     ]
                 }
             ],
-            "citations": 133,
+            "citations": 135,
             "publication_name": "Microbiome",
             "issn": "",
             "cover_date": "2018-06-23",
@@ -14297,6 +14217,86 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1186/s40168-018-0501-9"
+        },
+        {
+            "title": "Renal structural and functional repair in a mouse model of reversal of ureteral obstruction",
+            "eid": "2-s2.0-33645652695",
+            "authors": [
+                {
+                    "scopus_id": "7101833664",
+                    "name": "Cochrane A.L.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "6701350051",
+                    "name": "Kett M.M.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7101923680",
+                    "name": "Samuel C.S.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "6508371239",
+                    "name": "Campanale N.V.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7403927382",
+                    "name": "Anderson W.P.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7202288952",
+                    "name": "Little M.H.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57203852923",
+                    "name": "Bertram J.F.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "6701567406",
+                    "name": "Ricardo S.D.",
+                    "affiliation_id": [
+                        "60019578",
+                        "60019578",
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 135,
+            "publication_name": "Journal of the American Society of Nephrology",
+            "issn": "10466673",
+            "cover_date": "2005-01-01",
+            "venue": "Journal",
+            "volume": "16",
+            "issue": "12",
+            "page_range": "3623-3630",
+            "doi": "10.1681/ASN.2004090771"
         },
         {
             "title": "Homeostasis in the mononuclear phagocyte system",
@@ -15156,7 +15156,7 @@
                     ]
                 }
             ],
-            "citations": 123,
+            "citations": 124,
             "publication_name": "Journal of Immunology",
             "issn": "00221767",
             "cover_date": "2005-01-15",
@@ -15199,7 +15199,7 @@
                     ]
                 }
             ],
-            "citations": 123,
+            "citations": 124,
             "publication_name": "Biochemical Journal",
             "issn": "02646021",
             "cover_date": "1978-01-01",
@@ -15655,42 +15655,6 @@
             "doi": "10.1359/jbmr.2000.15.3.451"
         },
         {
-            "title": "Transcription of individual genes in eukaryotic cells occurs randomly and infrequently",
-            "eid": "2-s2.0-0028328719",
-            "authors": [
-                {
-                    "scopus_id": "7202066915",
-                    "name": "ROSS I.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57197017963",
-                    "name": "BROWNE C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "HUME D.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 110,
-            "publication_name": "Immunology and Cell Biology",
-            "issn": "08189641",
-            "cover_date": "1994-01-01",
-            "venue": "Journal",
-            "volume": "72",
-            "issue": "2",
-            "page_range": "177-185",
-            "doi": "10.1111/j.1440-1711.1994.tb03774.x"
-        },
-        {
             "title": "Effects of Eimeria tenella infection on chicken caecal microbiome diversity, exploring variation associated with severity of pathology",
             "eid": "2-s2.0-85029716100",
             "authors": [
@@ -15751,7 +15715,7 @@
                     ]
                 }
             ],
-            "citations": 109,
+            "citations": 110,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2017-09-01",
@@ -15760,6 +15724,42 @@
             "issue": "9",
             "page_range": null,
             "doi": "10.1371/journal.pone.0184890"
+        },
+        {
+            "title": "Transcription of individual genes in eukaryotic cells occurs randomly and infrequently",
+            "eid": "2-s2.0-0028328719",
+            "authors": [
+                {
+                    "scopus_id": "7202066915",
+                    "name": "ROSS I.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57197017963",
+                    "name": "BROWNE C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "HUME D.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 110,
+            "publication_name": "Immunology and Cell Biology",
+            "issn": "08189641",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "72",
+            "issue": "2",
+            "page_range": "177-185",
+            "doi": "10.1111/j.1440-1711.1994.tb03774.x"
         },
         {
             "title": "Macrophages exposed continuously to lipopolysaccharide and other agonists that act via toll-like receptors exhibit a sustained and additive activation state",
@@ -16246,74 +16246,6 @@
             "doi": ""
         },
         {
-            "title": "Genetic and Physical Interactions between Microphthalmia Transcription Factor and PU.1 Are Necessary for Osteoclast Gene Expression and Differentiation",
-            "eid": "2-s2.0-0035965217",
-            "authors": [
-                {
-                    "scopus_id": "6603245139",
-                    "name": "Luchin A.",
-                    "affiliation_id": [
-                        "60003500",
-                        "60002058"
-                    ]
-                },
-                {
-                    "scopus_id": "57199564366",
-                    "name": "Suchting S.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "15819366500",
-                    "name": "Merson T.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7004513724",
-                    "name": "Rosol T.J.",
-                    "affiliation_id": [
-                        "60003500",
-                        "60002058"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6602106401",
-                    "name": "Cassady A.I.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7103327512",
-                    "name": "Ostrowski M.C.",
-                    "affiliation_id": [
-                        "60003500",
-                        "60002058",
-                        "60003500"
-                    ]
-                }
-            ],
-            "citations": 101,
-            "publication_name": "Journal of Biological Chemistry",
-            "issn": "00219258",
-            "cover_date": "2001-09-28",
-            "venue": "Journal",
-            "volume": "276",
-            "issue": "39",
-            "page_range": "36703-36710",
-            "doi": "10.1074/jbc.M106418200"
-        },
-        {
             "title": "Progression of whole-blood transcriptional signatures from interferon-induced to neutrophil-associated patterns in severe influenza",
             "eid": "2-s2.0-85047165324",
             "authors": [
@@ -16685,7 +16617,7 @@
                     ]
                 }
             ],
-            "citations": 100,
+            "citations": 101,
             "publication_name": "Nature Immunology",
             "issn": "15292908",
             "cover_date": "2018-06-01",
@@ -16696,62 +16628,72 @@
             "doi": "10.1038/s41590-018-0111-5"
         },
         {
-            "title": "The JNK are important for development and survival of macrophages",
-            "eid": "2-s2.0-32044447243",
+            "title": "Genetic and Physical Interactions between Microphthalmia Transcription Factor and PU.1 Are Necessary for Osteoclast Gene Expression and Differentiation",
+            "eid": "2-s2.0-0035965217",
             "authors": [
                 {
-                    "scopus_id": "6602994318",
-                    "name": "Himes S.R.",
+                    "scopus_id": "6603245139",
+                    "name": "Luchin A.",
+                    "affiliation_id": [
+                        "60003500",
+                        "60002058"
+                    ]
+                },
+                {
+                    "scopus_id": "57199564366",
+                    "name": "Suchting S.",
                     "affiliation_id": [
                         "60031004"
                     ]
                 },
                 {
-                    "scopus_id": "6508389589",
-                    "name": "Sester D.P.",
+                    "scopus_id": "15819366500",
+                    "name": "Merson T.",
                     "affiliation_id": [
                         "60031004"
                     ]
                 },
                 {
-                    "scopus_id": "6603069555",
-                    "name": "Ravasi T.",
+                    "scopus_id": "7004513724",
+                    "name": "Rosol T.J.",
                     "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "8539355400",
-                    "name": "Cronau S.L.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6506482032",
-                    "name": "Sasmono T.",
-                    "affiliation_id": [
-                        "60031004"
+                        "60003500",
+                        "60002058"
                     ]
                 },
                 {
                     "scopus_id": "26032966400",
                     "name": "Hume D.A.",
                     "affiliation_id": [
-                        "60031004",
                         "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6602106401",
+                    "name": "Cassady A.I.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7103327512",
+                    "name": "Ostrowski M.C.",
+                    "affiliation_id": [
+                        "60003500",
+                        "60002058",
+                        "60003500"
                     ]
                 }
             ],
-            "citations": 100,
-            "publication_name": "Journal of Immunology",
-            "issn": "00221767",
-            "cover_date": "2006-02-15",
+            "citations": 101,
+            "publication_name": "Journal of Biological Chemistry",
+            "issn": "00219258",
+            "cover_date": "2001-09-28",
             "venue": "Journal",
-            "volume": "176",
-            "issue": "4",
-            "page_range": "2219-2228",
-            "doi": "10.4049/jimmunol.176.4.2219"
+            "volume": "276",
+            "issue": "39",
+            "page_range": "36703-36710",
+            "doi": "10.1074/jbc.M106418200"
         },
         {
             "title": "Effects of immunomodulatory drugs on depressive symptoms: A mega-analysis of randomized, placebo-controlled clinical trials in inflammatory disorders",
@@ -16998,7 +16940,7 @@
                     ]
                 }
             ],
-            "citations": 99,
+            "citations": 100,
             "publication_name": "Molecular Psychiatry",
             "issn": "13594184",
             "cover_date": "2020-06-01",
@@ -17007,6 +16949,64 @@
             "issue": "6",
             "page_range": "1275-1285",
             "doi": "10.1038/s41380-019-0471-8"
+        },
+        {
+            "title": "The JNK are important for development and survival of macrophages",
+            "eid": "2-s2.0-32044447243",
+            "authors": [
+                {
+                    "scopus_id": "6602994318",
+                    "name": "Himes S.R.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6508389589",
+                    "name": "Sester D.P.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6603069555",
+                    "name": "Ravasi T.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "8539355400",
+                    "name": "Cronau S.L.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6506482032",
+                    "name": "Sasmono T.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 100,
+            "publication_name": "Journal of Immunology",
+            "issn": "00221767",
+            "cover_date": "2006-02-15",
+            "venue": "Journal",
+            "volume": "176",
+            "issue": "4",
+            "page_range": "2219-2228",
+            "doi": "10.4049/jimmunol.176.4.2219"
         },
         {
             "title": "Chromosome-level assembly of the water buffalo genome surpasses human and goat genomes in sequence contiguity",
@@ -17037,7 +17037,7 @@
                     "scopus_id": "36572555900",
                     "name": "Rosen B.D.",
                     "affiliation_id": [
-                        "60000635"
+                        "60001989"
                     ]
                 },
                 {
@@ -18063,6 +18063,210 @@
             "doi": "10.1186/1471-2105-10-110"
         },
         {
+            "title": "Pleiotropic Impacts of Macrophage and Microglial Deficiency on Development in Rats with Targeted Mutation of the Csf1r Locus",
+            "eid": "2-s2.0-85055190853",
+            "authors": [
+                {
+                    "scopus_id": "15070799600",
+                    "name": "Pridans C.",
+                    "affiliation_id": [
+                        "60026158",
+                        "60017780"
+                    ]
+                },
+                {
+                    "scopus_id": "59114464700",
+                    "name": "Raper A.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "57191090046",
+                    "name": "Davis G.M.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "57218608830",
+                    "name": "Alves J.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "55575706200",
+                    "name": "Sauter K.A.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "57191093365",
+                    "name": "Lefevre L.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "57194721537",
+                    "name": "Regan T.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "7005995378",
+                    "name": "Meek S.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "7102060834",
+                    "name": "Sutherland L.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "7403717929",
+                    "name": "Thomson A.J.",
+                    "affiliation_id": [
+                        "60026158",
+                        "113934896"
+                    ]
+                },
+                {
+                    "scopus_id": "56440139100",
+                    "name": "Clohisey S.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "55990337100",
+                    "name": "Bush S.J.",
+                    "affiliation_id": [
+                        "60026158",
+                        "60008936"
+                    ]
+                },
+                {
+                    "scopus_id": "56804773200",
+                    "name": "Rojo R.",
+                    "affiliation_id": [
+                        "60026158",
+                        "60001285"
+                    ]
+                },
+                {
+                    "scopus_id": "57191090666",
+                    "name": "Lisowski Z.M.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "7401496242",
+                    "name": "Wallace R.",
+                    "affiliation_id": [
+                        "60027272"
+                    ]
+                },
+                {
+                    "scopus_id": "57063319600",
+                    "name": "Grabert K.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "36129159100",
+                    "name": "Upton K.R.",
+                    "affiliation_id": [
+                        "60026158",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "56152634300",
+                    "name": "Tsai Y.T.",
+                    "affiliation_id": [
+                        "60028299"
+                    ]
+                },
+                {
+                    "scopus_id": "57213913745",
+                    "name": "Brown D.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "7410392470",
+                    "name": "Smith L.B.",
+                    "affiliation_id": [
+                        "60028299",
+                        "60010571"
+                    ]
+                },
+                {
+                    "scopus_id": "7005583789",
+                    "name": "Summers K.M.",
+                    "affiliation_id": [
+                        "123224050"
+                    ]
+                },
+                {
+                    "scopus_id": "7003655701",
+                    "name": "Mabbott N.A.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "7004382184",
+                    "name": "Piccardo P.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "15046472400",
+                    "name": "Cheeseman M.T.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "7004343199",
+                    "name": "Burdon T.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60017780",
+                        "123224050"
+                    ]
+                }
+            ],
+            "citations": 85,
+            "publication_name": "Journal of Immunology",
+            "issn": "00221767",
+            "cover_date": "2018-11-01",
+            "venue": "Journal",
+            "volume": "201",
+            "issue": "9",
+            "page_range": "2683-2699",
+            "doi": "10.4049/jimmunol.1701783"
+        },
+        {
             "title": "Oncogenic properties of apoptotic tumor cells in aggressive B cell lymphoma",
             "eid": "2-s2.0-84924673209",
             "authors": [
@@ -18438,210 +18642,6 @@
             "doi": "10.1182/blood.v64.4.786.bloodjournal644786"
         },
         {
-            "title": "Pleiotropic Impacts of Macrophage and Microglial Deficiency on Development in Rats with Targeted Mutation of the Csf1r Locus",
-            "eid": "2-s2.0-85055190853",
-            "authors": [
-                {
-                    "scopus_id": "15070799600",
-                    "name": "Pridans C.",
-                    "affiliation_id": [
-                        "60026158",
-                        "60017780"
-                    ]
-                },
-                {
-                    "scopus_id": "59114464700",
-                    "name": "Raper A.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "57191090046",
-                    "name": "Davis G.M.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "57218608830",
-                    "name": "Alves J.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "55575706200",
-                    "name": "Sauter K.A.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "57191093365",
-                    "name": "Lefevre L.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "57194721537",
-                    "name": "Regan T.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "7005995378",
-                    "name": "Meek S.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "7102060834",
-                    "name": "Sutherland L.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "7403717929",
-                    "name": "Thomson A.J.",
-                    "affiliation_id": [
-                        "60026158",
-                        "113934896"
-                    ]
-                },
-                {
-                    "scopus_id": "56440139100",
-                    "name": "Clohisey S.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "55990337100",
-                    "name": "Bush S.J.",
-                    "affiliation_id": [
-                        "60026158",
-                        "60008936"
-                    ]
-                },
-                {
-                    "scopus_id": "56804773200",
-                    "name": "Rojo R.",
-                    "affiliation_id": [
-                        "60026158",
-                        "60001285"
-                    ]
-                },
-                {
-                    "scopus_id": "57191090666",
-                    "name": "Lisowski Z.M.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "7401496242",
-                    "name": "Wallace R.",
-                    "affiliation_id": [
-                        "60027272"
-                    ]
-                },
-                {
-                    "scopus_id": "57063319600",
-                    "name": "Grabert K.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "36129159100",
-                    "name": "Upton K.R.",
-                    "affiliation_id": [
-                        "60026158",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "56152634300",
-                    "name": "Tsai Y.T.",
-                    "affiliation_id": [
-                        "60028299"
-                    ]
-                },
-                {
-                    "scopus_id": "57213913745",
-                    "name": "Brown D.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "7410392470",
-                    "name": "Smith L.B.",
-                    "affiliation_id": [
-                        "60028299",
-                        "60010571"
-                    ]
-                },
-                {
-                    "scopus_id": "7005583789",
-                    "name": "Summers K.M.",
-                    "affiliation_id": [
-                        "123224050"
-                    ]
-                },
-                {
-                    "scopus_id": "7003655701",
-                    "name": "Mabbott N.A.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "7004382184",
-                    "name": "Piccardo P.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "15046472400",
-                    "name": "Cheeseman M.T.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "7004343199",
-                    "name": "Burdon T.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60017780",
-                        "123224050"
-                    ]
-                }
-            ],
-            "citations": 83,
-            "publication_name": "Journal of Immunology",
-            "issn": "00221767",
-            "cover_date": "2018-11-01",
-            "venue": "Journal",
-            "volume": "201",
-            "issue": "9",
-            "page_range": "2683-2699",
-            "doi": "10.4049/jimmunol.1701783"
-        },
-        {
             "title": "A rescue strategy for multimapping short sequence tags refines surveys of transcriptional activity by CAGE",
             "eid": "2-s2.0-39149083734",
             "authors": [
@@ -18791,7 +18791,7 @@
             "authors": [
                 {
                     "scopus_id": "35373091000",
-                    "name": "Sweet M.",
+                    "name": "Sweet M.J.",
                     "affiliation_id": [
                         "60031004",
                         "60031004"
@@ -18799,14 +18799,14 @@
                 },
                 {
                     "scopus_id": "7003572022",
-                    "name": "Stacey K.",
+                    "name": "Stacey K.J.",
                     "affiliation_id": [
-                        "60031101"
+                        "60120017"
                     ]
                 },
                 {
                     "scopus_id": "6603485073",
-                    "name": "Kakuda D.",
+                    "name": "Kakuda D.K.",
                     "affiliation_id": [
                         "60031004"
                     ]
@@ -18820,7 +18820,7 @@
                 },
                 {
                     "scopus_id": "26032966400",
-                    "name": "Hume D.",
+                    "name": "Hume D.A.",
                     "affiliation_id": [
                         "60031004"
                     ]
@@ -20641,6 +20641,63 @@
             "doi": ""
         },
         {
+            "title": "Phenotypic impacts of CSF1R deficiencies in humans and model organisms",
+            "eid": "2-s2.0-85075575069",
+            "authors": [
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57210119134",
+                    "name": "Caruso M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57214211687",
+                    "name": "Ferrari-Cestari M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7005583789",
+                    "name": "Summers K.M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "15070799600",
+                    "name": "Pridans C.",
+                    "affiliation_id": [
+                        "60027272"
+                    ]
+                },
+                {
+                    "scopus_id": "35374323600",
+                    "name": "Irvine K.M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 70,
+            "publication_name": "Journal of Leukocyte Biology",
+            "issn": "07415400",
+            "cover_date": "2020-02-01",
+            "venue": "Journal",
+            "volume": "107",
+            "issue": "2",
+            "page_range": "205-219",
+            "doi": "10.1002/JLB.MR0519-143R"
+        },
+        {
             "title": "CCR2-dependent monocyte-derived macrophages resolve inflammation and restore gut motility in postoperative ileus",
             "eid": "2-s2.0-85026309826",
             "authors": [
@@ -20871,63 +20928,6 @@
             "issue": "5",
             "page_range": "474-484",
             "doi": "10.1002/jlb.42.5.474"
-        },
-        {
-            "title": "Phenotypic impacts of CSF1R deficiencies in humans and model organisms",
-            "eid": "2-s2.0-85075575069",
-            "authors": [
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57210119134",
-                    "name": "Caruso M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57214211687",
-                    "name": "Ferrari-Cestari M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7005583789",
-                    "name": "Summers K.M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "15070799600",
-                    "name": "Pridans C.",
-                    "affiliation_id": [
-                        "60027272"
-                    ]
-                },
-                {
-                    "scopus_id": "35374323600",
-                    "name": "Irvine K.M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 69,
-            "publication_name": "Journal of Leukocyte Biology",
-            "issn": "07415400",
-            "cover_date": "2020-02-01",
-            "venue": "Journal",
-            "volume": "107",
-            "issue": "2",
-            "page_range": "205-219",
-            "doi": "10.1002/JLB.MR0519-143R"
         },
         {
             "title": "Microphthalmia transcription factor regulates the expression of the novel osteoclast factor GPNMB",
@@ -24813,6 +24813,91 @@
             "doi": "10.1038/icb.2016.74"
         },
         {
+            "title": "Analysis of the function of IL-10 in chickens using specific neutralising antibodies and a sensitive capture ELISA",
+            "eid": "2-s2.0-84964577552",
+            "authors": [
+                {
+                    "scopus_id": "24774059800",
+                    "name": "Wu Z.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "23968702800",
+                    "name": "Hu T.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "6602763868",
+                    "name": "Rothwell L.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "57207605059",
+                    "name": "Vervelde L.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "57195190507",
+                    "name": "Kaiser P.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "23033070600",
+                    "name": "Boulton K.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "7202696010",
+                    "name": "Nolan M.J.",
+                    "affiliation_id": [
+                        "60026530"
+                    ]
+                },
+                {
+                    "scopus_id": "7004157035",
+                    "name": "Tomley F.M.",
+                    "affiliation_id": [
+                        "60026530"
+                    ]
+                },
+                {
+                    "scopus_id": "57202626516",
+                    "name": "Blake D.P.",
+                    "affiliation_id": [
+                        "60026530"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                }
+            ],
+            "citations": 48,
+            "publication_name": "Developmental and Comparative Immunology",
+            "issn": "0145305X",
+            "cover_date": "2016-10-01",
+            "venue": "Journal",
+            "volume": "63",
+            "issue": "",
+            "page_range": "206-212",
+            "doi": "10.1016/j.dci.2016.04.016"
+        },
+        {
             "title": "The MacBlue Binary Transgene (csf1r-gal4VP16/UAS-ECFP) provides a novel marker for visualisation of subsets of monocytes, macrophages and dendritic cells and responsiveness to CSF1 administration",
             "eid": "2-s2.0-84938399948",
             "authors": [
@@ -25284,91 +25369,6 @@
             "doi": "10.1016/j.celrep.2022.110961"
         },
         {
-            "title": "Analysis of the function of IL-10 in chickens using specific neutralising antibodies and a sensitive capture ELISA",
-            "eid": "2-s2.0-84964577552",
-            "authors": [
-                {
-                    "scopus_id": "24774059800",
-                    "name": "Wu Z.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "23968702800",
-                    "name": "Hu T.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "6602763868",
-                    "name": "Rothwell L.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "57207605059",
-                    "name": "Vervelde L.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "57195190507",
-                    "name": "Kaiser P.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "23033070600",
-                    "name": "Boulton K.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "7202696010",
-                    "name": "Nolan M.J.",
-                    "affiliation_id": [
-                        "60026530"
-                    ]
-                },
-                {
-                    "scopus_id": "7004157035",
-                    "name": "Tomley F.M.",
-                    "affiliation_id": [
-                        "60026530"
-                    ]
-                },
-                {
-                    "scopus_id": "57202626516",
-                    "name": "Blake D.P.",
-                    "affiliation_id": [
-                        "60026530"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                }
-            ],
-            "citations": 47,
-            "publication_name": "Developmental and Comparative Immunology",
-            "issn": "0145305X",
-            "cover_date": "2016-10-01",
-            "venue": "Journal",
-            "volume": "63",
-            "issue": "",
-            "page_range": "206-212",
-            "doi": "10.1016/j.dci.2016.04.016"
-        },
-        {
             "title": "Repeated exposure to systemic inflammation and risk of new depressive symptoms among older adults",
             "eid": "2-s2.0-85046072710",
             "authors": [
@@ -25529,7 +25529,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 46,
+            "citations": 47,
             "publication_name": "Translational Psychiatry",
             "issn": "",
             "cover_date": "2017-01-01",
@@ -26788,94 +26788,6 @@
             "doi": ""
         },
         {
-            "title": "The genomic architecture of mastitis resistance in dairy sheep",
-            "eid": "2-s2.0-85027521308",
-            "authors": [
-                {
-                    "scopus_id": "7005355783",
-                    "name": "Banos G.",
-                    "affiliation_id": [
-                        "60021301",
-                        "60107757",
-                        "60069195"
-                    ]
-                },
-                {
-                    "scopus_id": "56507432100",
-                    "name": "Bramis G.",
-                    "affiliation_id": [
-                        "60069195"
-                    ]
-                },
-                {
-                    "scopus_id": "55990337100",
-                    "name": "Bush S.J.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "57201508507",
-                    "name": "Clark E.L.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "57191094470",
-                    "name": "McCulloch M.E.B.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "57203533777",
-                    "name": "Smith J.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "22942385800",
-                    "name": "Schulze G.",
-                    "affiliation_id": [
-                        "60029622"
-                    ]
-                },
-                {
-                    "scopus_id": "6602426702",
-                    "name": "Arsenos G.",
-                    "affiliation_id": [
-                        "60069195"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "36197099500",
-                    "name": "Psifidi A.",
-                    "affiliation_id": [
-                        "60021301",
-                        "60026530"
-                    ]
-                }
-            ],
-            "citations": 41,
-            "publication_name": "BMC Genomics",
-            "issn": "",
-            "cover_date": "2017-08-16",
-            "venue": "Journal",
-            "volume": "18",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1186/s12864-017-3982-1"
-        },
-        {
             "title": "CSF1R-dependent macrophages control postnatal somatic growth and organ maturation",
             "eid": "2-s2.0-85107571036",
             "authors": [
@@ -26999,7 +26911,7 @@
                     ]
                 }
             ],
-            "citations": 40,
+            "citations": 41,
             "publication_name": "PLoS Genetics",
             "issn": "15537390",
             "cover_date": "2021-06-03",
@@ -27008,6 +26920,94 @@
             "issue": "6",
             "page_range": null,
             "doi": "10.1371/journal.pgen.1009605"
+        },
+        {
+            "title": "The genomic architecture of mastitis resistance in dairy sheep",
+            "eid": "2-s2.0-85027521308",
+            "authors": [
+                {
+                    "scopus_id": "7005355783",
+                    "name": "Banos G.",
+                    "affiliation_id": [
+                        "60021301",
+                        "60107757",
+                        "60069195"
+                    ]
+                },
+                {
+                    "scopus_id": "56507432100",
+                    "name": "Bramis G.",
+                    "affiliation_id": [
+                        "60069195"
+                    ]
+                },
+                {
+                    "scopus_id": "55990337100",
+                    "name": "Bush S.J.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "57201508507",
+                    "name": "Clark E.L.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "57191094470",
+                    "name": "McCulloch M.E.B.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "57203533777",
+                    "name": "Smith J.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "22942385800",
+                    "name": "Schulze G.",
+                    "affiliation_id": [
+                        "60029622"
+                    ]
+                },
+                {
+                    "scopus_id": "6602426702",
+                    "name": "Arsenos G.",
+                    "affiliation_id": [
+                        "60069195"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "36197099500",
+                    "name": "Psifidi A.",
+                    "affiliation_id": [
+                        "60021301",
+                        "60026530"
+                    ]
+                }
+            ],
+            "citations": 41,
+            "publication_name": "BMC Genomics",
+            "issn": "",
+            "cover_date": "2017-08-16",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s12864-017-3982-1"
         },
         {
             "title": "Cloning and expression of porcine Colony Stimulating Factor-1 (CSF-1) and Colony Stimulating Factor-1 Receptor (CSF-1R) and analysis of the species specificity of stimulation by CSF-1 and Interleukin 34",
@@ -27516,6 +27516,42 @@
             "doi": "10.1016/j.imbio.2011.08.006"
         },
         {
+            "title": "Functions of macrophage colony-stimulating factor (CSF1) in development, homeostasis, and tissue repair",
+            "eid": "2-s2.0-85118541276",
+            "authors": [
+                {
+                    "scopus_id": "56091020300",
+                    "name": "Sehgal A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "35374323600",
+                    "name": "Irvine K.M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 38,
+            "publication_name": "Seminars in Immunology",
+            "issn": "10445323",
+            "cover_date": "2021-04-01",
+            "venue": "Journal",
+            "volume": "54",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.smim.2021.101509"
+        },
+        {
             "title": "Whole genome analysis of water buffalo and global cattle breeds highlights convergent signatures of domestication",
             "eid": "2-s2.0-85091279142",
             "authors": [
@@ -27685,6 +27721,49 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1038/s41467-020-18550-1"
+        },
+        {
+            "title": "The Runx1 transcription factor controls CSF-1-dependent and -independent growth and survival of macrophages",
+            "eid": "2-s2.0-24044535104",
+            "authors": [
+                {
+                    "scopus_id": "6602994318",
+                    "name": "Himes S.R.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "8539355400",
+                    "name": "Cronau S.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "56613740000",
+                    "name": "Mulford C.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 38,
+            "publication_name": "Oncogene",
+            "issn": "09509232",
+            "cover_date": "2005-08-11",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "34",
+            "page_range": "5278-5286",
+            "doi": "10.1038/sj.onc.1208657"
         },
         {
             "title": "Species-Specific Transcriptional Regulation of Genes Involved in Nitric Oxide Production and Arginine Metabolism in Macrophages",
@@ -27873,49 +27952,6 @@
             "doi": "10.1016/j.vetimm.2013.07.003"
         },
         {
-            "title": "The Runx1 transcription factor controls CSF-1-dependent and -independent growth and survival of macrophages",
-            "eid": "2-s2.0-24044535104",
-            "authors": [
-                {
-                    "scopus_id": "6602994318",
-                    "name": "Himes S.R.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "8539355400",
-                    "name": "Cronau S.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "56613740000",
-                    "name": "Mulford C.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 37,
-            "publication_name": "Oncogene",
-            "issn": "09509232",
-            "cover_date": "2005-08-11",
-            "venue": "Journal",
-            "volume": "24",
-            "issue": "34",
-            "page_range": "5278-5286",
-            "doi": "10.1038/sj.onc.1208657"
-        },
-        {
             "title": "The correlation between plasminogen activator activity and thymidine incorporation in mouse bone marrow-derived macrophages. Opposing actions of colony-stimulating factor, phorbol myristate acetate, dexamethasone and prostaglandin E",
             "eid": "2-s2.0-0021321676",
             "authors": [
@@ -27945,21 +27981,53 @@
             "doi": "10.1016/0014-4827(84)90578-0"
         },
         {
-            "title": "Functions of macrophage colony-stimulating factor (CSF1) in development, homeostasis, and tissue repair",
-            "eid": "2-s2.0-85118541276",
+            "title": "CNS macrophages differentially rely on an intronic Csf1r enhancer for their development",
+            "eid": "2-s2.0-85098533941",
             "authors": [
                 {
-                    "scopus_id": "56091020300",
-                    "name": "Sehgal A.",
+                    "scopus_id": "57194545547",
+                    "name": "Munro D.A.D.",
                     "affiliation_id": [
-                        "60031004"
+                        "60027272"
                     ]
                 },
                 {
-                    "scopus_id": "35374323600",
-                    "name": "Irvine K.M.",
+                    "scopus_id": "24174061900",
+                    "name": "Bradford B.M.",
                     "affiliation_id": [
-                        "60031004"
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "13410005200",
+                    "name": "Mariani S.A.",
+                    "affiliation_id": [
+                        "60010973"
+                    ]
+                },
+                {
+                    "scopus_id": "56211828100",
+                    "name": "Hampton D.W.",
+                    "affiliation_id": [
+                        "60027272",
+                        "60110825"
+                    ]
+                },
+                {
+                    "scopus_id": "57194631200",
+                    "name": "Vink C.S.",
+                    "affiliation_id": [
+                        "60010973"
+                    ]
+                },
+                {
+                    "scopus_id": "7004332041",
+                    "name": "Chandran S.",
+                    "affiliation_id": [
+                        "60027272",
+                        "60027272",
+                        "60110825",
+                        "60027272"
                     ]
                 },
                 {
@@ -27968,17 +28036,34 @@
                     "affiliation_id": [
                         "60031004"
                     ]
+                },
+                {
+                    "scopus_id": "15070799600",
+                    "name": "Pridans C.",
+                    "affiliation_id": [
+                        "60010973",
+                        "60110825"
+                    ]
+                },
+                {
+                    "scopus_id": "57222365966",
+                    "name": "Priller J.",
+                    "affiliation_id": [
+                        "60027272",
+                        "60110825",
+                        "60026245"
+                    ]
                 }
             ],
             "citations": 36,
-            "publication_name": "Seminars in Immunology",
-            "issn": "10445323",
-            "cover_date": "2021-04-01",
+            "publication_name": "Development (Cambridge)",
+            "issn": "09501991",
+            "cover_date": "2020-12-01",
             "venue": "Journal",
-            "volume": "54",
-            "issue": "",
+            "volume": "147",
+            "issue": "23",
             "page_range": null,
-            "doi": "10.1016/j.smim.2021.101509"
+            "doi": "10.1242/dev.194449"
         },
         {
             "title": "Transcriptional switching in macrophages associated with the peritoneal foreign body response",
@@ -28405,91 +28490,6 @@
             "issue": "8",
             "page_range": null,
             "doi": "10.1016/j.celrep.2022.110865"
-        },
-        {
-            "title": "CNS macrophages differentially rely on an intronic Csf1r enhancer for their development",
-            "eid": "2-s2.0-85098533941",
-            "authors": [
-                {
-                    "scopus_id": "57194545547",
-                    "name": "Munro D.A.D.",
-                    "affiliation_id": [
-                        "60027272"
-                    ]
-                },
-                {
-                    "scopus_id": "24174061900",
-                    "name": "Bradford B.M.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "13410005200",
-                    "name": "Mariani S.A.",
-                    "affiliation_id": [
-                        "60010973"
-                    ]
-                },
-                {
-                    "scopus_id": "56211828100",
-                    "name": "Hampton D.W.",
-                    "affiliation_id": [
-                        "60027272",
-                        "60110825"
-                    ]
-                },
-                {
-                    "scopus_id": "57194631200",
-                    "name": "Vink C.S.",
-                    "affiliation_id": [
-                        "60010973"
-                    ]
-                },
-                {
-                    "scopus_id": "7004332041",
-                    "name": "Chandran S.",
-                    "affiliation_id": [
-                        "60027272",
-                        "60027272",
-                        "60110825",
-                        "60027272"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "15070799600",
-                    "name": "Pridans C.",
-                    "affiliation_id": [
-                        "60010973",
-                        "60110825"
-                    ]
-                },
-                {
-                    "scopus_id": "57222365966",
-                    "name": "Priller J.",
-                    "affiliation_id": [
-                        "60027272",
-                        "60110825",
-                        "60026245"
-                    ]
-                }
-            ],
-            "citations": 35,
-            "publication_name": "Development (Cambridge)",
-            "issn": "09501991",
-            "cover_date": "2020-12-01",
-            "venue": "Journal",
-            "volume": "147",
-            "issue": "23",
-            "page_range": null,
-            "doi": "10.1242/dev.194449"
         },
         {
             "title": "Glucocorticoid Receptor Binding Induces Rapid and Prolonged Large-Scale Chromatin Decompaction at Multiple Target Loci",
@@ -28975,6 +28975,121 @@
             "doi": "10.1111/j.1471-4159.1992.tb08442.x"
         },
         {
+            "title": "Phenotypic and genetic variation in the response of chickens to Eimeria tenella induced coccidiosis",
+            "eid": "2-s2.0-85056975670",
+            "authors": [
+                {
+                    "scopus_id": "23033070600",
+                    "name": "Boulton K.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "7202696010",
+                    "name": "Nolan M.J.",
+                    "affiliation_id": [
+                        "60026530"
+                    ]
+                },
+                {
+                    "scopus_id": "24774059800",
+                    "name": "Wu Z.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "36197099500",
+                    "name": "Psifidi A.",
+                    "affiliation_id": [
+                        "60026158",
+                        "60026530"
+                    ]
+                },
+                {
+                    "scopus_id": "22954439500",
+                    "name": "Riggio V.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "57517350800",
+                    "name": "Harman K.",
+                    "affiliation_id": [
+                        "60026530"
+                    ]
+                },
+                {
+                    "scopus_id": "7202504840",
+                    "name": "Bishop S.C.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "57195190507",
+                    "name": "Kaiser P.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "7005660839",
+                    "name": "Abrahamsen M.S.",
+                    "affiliation_id": [
+                        "60027083"
+                    ]
+                },
+                {
+                    "scopus_id": "6701753022",
+                    "name": "Hawken R.",
+                    "affiliation_id": [
+                        "60027083"
+                    ]
+                },
+                {
+                    "scopus_id": "55567636700",
+                    "name": "Watson K.A.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "7004157035",
+                    "name": "Tomley F.M.",
+                    "affiliation_id": [
+                        "60026530"
+                    ]
+                },
+                {
+                    "scopus_id": "57202626516",
+                    "name": "Blake D.P.",
+                    "affiliation_id": [
+                        "60026530"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60026158",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 33,
+            "publication_name": "Genetics Selection Evolution",
+            "issn": "0999193X",
+            "cover_date": "2018-11-21",
+            "venue": "Journal",
+            "volume": "50",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s12711-018-0433-7"
+        },
+        {
             "title": "NF-IL6 and HSF1 have mutually antagonistic effects on transcription in monocytic cells",
             "eid": "2-s2.0-0036295561",
             "authors": [
@@ -29154,121 +29269,6 @@
             "issue": "3",
             "page_range": "245-250",
             "doi": "10.1016/0167-4889(83)90131-3"
-        },
-        {
-            "title": "Phenotypic and genetic variation in the response of chickens to Eimeria tenella induced coccidiosis",
-            "eid": "2-s2.0-85056975670",
-            "authors": [
-                {
-                    "scopus_id": "23033070600",
-                    "name": "Boulton K.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "7202696010",
-                    "name": "Nolan M.J.",
-                    "affiliation_id": [
-                        "60026530"
-                    ]
-                },
-                {
-                    "scopus_id": "24774059800",
-                    "name": "Wu Z.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "36197099500",
-                    "name": "Psifidi A.",
-                    "affiliation_id": [
-                        "60026158",
-                        "60026530"
-                    ]
-                },
-                {
-                    "scopus_id": "22954439500",
-                    "name": "Riggio V.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "57517350800",
-                    "name": "Harman K.",
-                    "affiliation_id": [
-                        "60026530"
-                    ]
-                },
-                {
-                    "scopus_id": "7202504840",
-                    "name": "Bishop S.C.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "57195190507",
-                    "name": "Kaiser P.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "7005660839",
-                    "name": "Abrahamsen M.S.",
-                    "affiliation_id": [
-                        "60027083"
-                    ]
-                },
-                {
-                    "scopus_id": "6701753022",
-                    "name": "Hawken R.",
-                    "affiliation_id": [
-                        "60027083"
-                    ]
-                },
-                {
-                    "scopus_id": "55567636700",
-                    "name": "Watson K.A.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "7004157035",
-                    "name": "Tomley F.M.",
-                    "affiliation_id": [
-                        "60026530"
-                    ]
-                },
-                {
-                    "scopus_id": "57202626516",
-                    "name": "Blake D.P.",
-                    "affiliation_id": [
-                        "60026530"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60026158",
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 32,
-            "publication_name": "Genetics Selection Evolution",
-            "issn": "0999193X",
-            "cover_date": "2018-11-21",
-            "venue": "Journal",
-            "volume": "50",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1186/s12711-018-0433-7"
         },
         {
             "title": "Coexpression analysis of large cancer datasets provides insight into the cellular phenotypes of the tumour microenvironment",
@@ -30851,6 +30851,91 @@
             "doi": "10.1002/(SICI)1098-2795(199701)46:1<46::AID-MRD8>3.0.CO;2-R"
         },
         {
+            "title": "Regulation and function of macrophage colony-stimulating factor (CSF1) in the chicken immune system",
+            "eid": "2-s2.0-85076698109",
+            "authors": [
+                {
+                    "scopus_id": "24774059800",
+                    "name": "Wu Z.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "57212136604",
+                    "name": "Harne R.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "56210754200",
+                    "name": "Chintoan-Uta C.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "23968702800",
+                    "name": "Hu T.J.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "7401496242",
+                    "name": "Wallace R.",
+                    "affiliation_id": [
+                        "60027272"
+                    ]
+                },
+                {
+                    "scopus_id": "36914355600",
+                    "name": "MacCallum A.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "7402242999",
+                    "name": "Stevens M.P.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "57195190507",
+                    "name": "Kaiser P.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "6603371059",
+                    "name": "Balic A.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 25,
+            "publication_name": "Developmental and Comparative Immunology",
+            "issn": "0145305X",
+            "cover_date": "2020-04-01",
+            "venue": "Journal",
+            "volume": "105",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.dci.2019.103586"
+        },
+        {
             "title": "Analysis of the impact of CSF-1 administration in adult rats using a novel Csf1r-mApple reporter gene",
             "eid": "2-s2.0-85070682362",
             "authors": [
@@ -31448,91 +31533,6 @@
             "doi": "10.1371/journal.pcbi.1010310"
         },
         {
-            "title": "Regulation and function of macrophage colony-stimulating factor (CSF1) in the chicken immune system",
-            "eid": "2-s2.0-85076698109",
-            "authors": [
-                {
-                    "scopus_id": "24774059800",
-                    "name": "Wu Z.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "57212136604",
-                    "name": "Harne R.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "56210754200",
-                    "name": "Chintoan-Uta C.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "23968702800",
-                    "name": "Hu T.J.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "7401496242",
-                    "name": "Wallace R.",
-                    "affiliation_id": [
-                        "60027272"
-                    ]
-                },
-                {
-                    "scopus_id": "36914355600",
-                    "name": "MacCallum A.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "7402242999",
-                    "name": "Stevens M.P.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "57195190507",
-                    "name": "Kaiser P.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "6603371059",
-                    "name": "Balic A.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 24,
-            "publication_name": "Developmental and Comparative Immunology",
-            "issn": "0145305X",
-            "cover_date": "2020-04-01",
-            "venue": "Journal",
-            "volume": "105",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.dci.2019.103586"
-        },
-        {
             "title": "Cross-species inference of long non-coding RNAs greatly expands the ruminant transcriptome",
             "eid": "2-s2.0-85045920240",
             "authors": [
@@ -31804,35 +31804,35 @@
             "authors": [
                 {
                     "scopus_id": "35373091000",
-                    "name": "Sweet M.",
+                    "name": "Sweet M.J.",
                     "affiliation_id": [
                         "60031004"
                     ]
                 },
                 {
                     "scopus_id": "7003572022",
-                    "name": "Stacey K.",
+                    "name": "Stacey K.J.",
                     "affiliation_id": [
-                        "60031101"
+                        "60120017"
                     ]
                 },
                 {
                     "scopus_id": "7202066915",
-                    "name": "Ross L.",
+                    "name": "Ross L.L.",
                     "affiliation_id": [
                         "60031004"
                     ]
                 },
                 {
                     "scopus_id": "7103327512",
-                    "name": "Ostrowski M.",
+                    "name": "Ostrowski M.C.",
                     "affiliation_id": [
                         "60003500"
                     ]
                 },
                 {
                     "scopus_id": "26032966400",
-                    "name": "Hume D.",
+                    "name": "Hume D.A.",
                     "affiliation_id": [
                         "60031004",
                         "60031004"
@@ -33761,6 +33761,103 @@
             "doi": "10.1038/272359a0"
         },
         {
+            "title": "Combination of novel and public RNA-seq datasets to generate an mRNA expression atlas for the domestic chicken",
+            "eid": "2-s2.0-85054930355",
+            "authors": [
+                {
+                    "scopus_id": "55990337100",
+                    "name": "Bush S.J.",
+                    "affiliation_id": [
+                        "60026158",
+                        "60008936"
+                    ]
+                },
+                {
+                    "scopus_id": "36625106100",
+                    "name": "Freem L.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "36914355600",
+                    "name": "MacCallum A.J.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "57204200871",
+                    "name": "O'Dell J.",
+                    "affiliation_id": [
+                        "60026158",
+                        "60105228"
+                    ]
+                },
+                {
+                    "scopus_id": "21735573700",
+                    "name": "Wu C.",
+                    "affiliation_id": [
+                        "60007103"
+                    ]
+                },
+                {
+                    "scopus_id": "55846706600",
+                    "name": "Afrasiabi C.",
+                    "affiliation_id": [
+                        "60007103"
+                    ]
+                },
+                {
+                    "scopus_id": "36197099500",
+                    "name": "Psifidi A.",
+                    "affiliation_id": [
+                        "60026158",
+                        "60026530"
+                    ]
+                },
+                {
+                    "scopus_id": "7402242999",
+                    "name": "Stevens M.P.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "57203533777",
+                    "name": "Smith J.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "7005583789",
+                    "name": "Summers K.M.",
+                    "affiliation_id": [
+                        "60026158",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60026158",
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 19,
+            "publication_name": "BMC Genomics",
+            "issn": "",
+            "cover_date": "2018-08-07",
+            "venue": "Journal",
+            "volume": "19",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s12864-018-4972-7"
+        },
+        {
             "title": "Transcriptional Dynamics Reveal Critical Roles for Non-coding RNAs in the Immediate-Early Response",
             "eid": "2-s2.0-85000786191",
             "authors": [
@@ -35100,103 +35197,6 @@
             "doi": "10.1093/gbe/evab014"
         },
         {
-            "title": "Combination of novel and public RNA-seq datasets to generate an mRNA expression atlas for the domestic chicken",
-            "eid": "2-s2.0-85054930355",
-            "authors": [
-                {
-                    "scopus_id": "55990337100",
-                    "name": "Bush S.J.",
-                    "affiliation_id": [
-                        "60026158",
-                        "60008936"
-                    ]
-                },
-                {
-                    "scopus_id": "36625106100",
-                    "name": "Freem L.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "36914355600",
-                    "name": "MacCallum A.J.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "57204200871",
-                    "name": "O'Dell J.",
-                    "affiliation_id": [
-                        "60026158",
-                        "60105228"
-                    ]
-                },
-                {
-                    "scopus_id": "21735573700",
-                    "name": "Wu C.",
-                    "affiliation_id": [
-                        "60007103"
-                    ]
-                },
-                {
-                    "scopus_id": "55846706600",
-                    "name": "Afrasiabi C.",
-                    "affiliation_id": [
-                        "60007103"
-                    ]
-                },
-                {
-                    "scopus_id": "36197099500",
-                    "name": "Psifidi A.",
-                    "affiliation_id": [
-                        "60026158",
-                        "60026530"
-                    ]
-                },
-                {
-                    "scopus_id": "7402242999",
-                    "name": "Stevens M.P.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "57203533777",
-                    "name": "Smith J.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "7005583789",
-                    "name": "Summers K.M.",
-                    "affiliation_id": [
-                        "60026158",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60026158",
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 18,
-            "publication_name": "BMC Genomics",
-            "issn": "",
-            "cover_date": "2018-08-07",
-            "venue": "Journal",
-            "volume": "19",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1186/s12864-018-4972-7"
-        },
-        {
             "title": "Construction of representative transcript and protein sets of human, mouse, and rat as a platform for their transcriptome and proteome analysis",
             "eid": "2-s2.0-7944237950",
             "authors": [
@@ -36190,6 +36190,52 @@
             "doi": "10.1016/j.cyto.2012.11.014"
         },
         {
+            "title": "Insulin-like growth factor-I (IGF-I) and IGF-I receptor (IGF-IR) immunoreactivity in normal and osteopetrotic (toothless, tl/tl) rat tibia",
+            "eid": "2-s2.0-0032767918",
+            "authors": [
+                {
+                    "scopus_id": "7101763459",
+                    "name": "Joseph B.K.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7202861572",
+                    "name": "Marks S.C.",
+                    "affiliation_id": [
+                        "60000986"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7202770737",
+                    "name": "Waters M.J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7005491998",
+                    "name": "Symons A.L.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Growth Factors",
+            "issn": "08977194",
+            "cover_date": "1999-01-01",
+            "venue": "Journal",
+            "volume": "16",
+            "issue": "4",
+            "page_range": "279-291",
+            "doi": "10.3109/08977199909069146"
+        },
+        {
             "title": "The deleterious effect of macrophage colony-stimulating factor (CSF-1) on the pathology of experimental candidiasis in mice",
             "eid": "2-s2.0-0026521721",
             "authors": [
@@ -36614,52 +36660,6 @@
             "doi": "10.1359/jbmr.2003.18.10.1901"
         },
         {
-            "title": "Insulin-like growth factor-I (IGF-I) and IGF-I receptor (IGF-IR) immunoreactivity in normal and osteopetrotic (toothless, tl/tl) rat tibia",
-            "eid": "2-s2.0-0032767918",
-            "authors": [
-                {
-                    "scopus_id": "7101763459",
-                    "name": "Joseph B.K.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7202861572",
-                    "name": "Marks S.C.",
-                    "affiliation_id": [
-                        "60000986"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7202770737",
-                    "name": "Waters M.J.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7005491998",
-                    "name": "Symons A.L.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Growth Factors",
-            "issn": "08977194",
-            "cover_date": "1999-01-01",
-            "venue": "Journal",
-            "volume": "16",
-            "issue": "4",
-            "page_range": "279-291",
-            "doi": "10.3109/08977199909069146"
-        },
-        {
             "title": "Decreased growth hormone receptor expression in long bones from toothless (osteopetrotic) rats and restoration by treatment with colony-stimulating factor-1",
             "eid": "2-s2.0-0029946781",
             "authors": [
@@ -36868,6 +36868,173 @@
             "issue": "3",
             "page_range": "711-716",
             "doi": "10.1042/bj1740711"
+        },
+        {
+            "title": "Apoptotic cell fragments locally activate tingible body macrophages in the germinal center",
+            "eid": "2-s2.0-85149859795",
+            "authors": [
+                {
+                    "scopus_id": "57204807782",
+                    "name": "Grootveld A.K.",
+                    "affiliation_id": [
+                        "60002773",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "57221286595",
+                    "name": "Kyaw W.",
+                    "affiliation_id": [
+                        "60002773",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "37762024500",
+                    "name": "Panova V.",
+                    "affiliation_id": [
+                        "60008936"
+                    ]
+                },
+                {
+                    "scopus_id": "57212143941",
+                    "name": "Lau A.W.Y.",
+                    "affiliation_id": [
+                        "60002773",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "58137157100",
+                    "name": "Ashwin E.",
+                    "affiliation_id": [
+                        "60002773",
+                        "60280747"
+                    ]
+                },
+                {
+                    "scopus_id": "57219844486",
+                    "name": "Seuzaret G.",
+                    "affiliation_id": [
+                        "60002773",
+                        "60102126"
+                    ]
+                },
+                {
+                    "scopus_id": "34067588600",
+                    "name": "Dhenni R.",
+                    "affiliation_id": [
+                        "60002773",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "57091257200",
+                    "name": "Bhattacharyya N.D.",
+                    "affiliation_id": [
+                        "60002773"
+                    ]
+                },
+                {
+                    "scopus_id": "56993242200",
+                    "name": "Khoo W.H.",
+                    "affiliation_id": [
+                        "60002773",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "43461107200",
+                    "name": "Biro M.",
+                    "affiliation_id": [
+                        "60011463"
+                    ]
+                },
+                {
+                    "scopus_id": "57203803795",
+                    "name": "Mitra T.",
+                    "affiliation_id": [
+                        "60203637"
+                    ]
+                },
+                {
+                    "scopus_id": "6602091186",
+                    "name": "Meyer-Hermann M.",
+                    "affiliation_id": [
+                        "60203637",
+                        "60007902"
+                    ]
+                },
+                {
+                    "scopus_id": "6603694182",
+                    "name": "Bertolino P.",
+                    "affiliation_id": [
+                        "60018150"
+                    ]
+                },
+                {
+                    "scopus_id": "58266178600",
+                    "name": "Tanaka M.",
+                    "affiliation_id": [
+                        "60033124"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26635094100",
+                    "name": "Croucher P.I.",
+                    "affiliation_id": [
+                        "60002773",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7004647792",
+                    "name": "Brink R.",
+                    "affiliation_id": [
+                        "60002773",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "26427798100",
+                    "name": "Nguyen A.",
+                    "affiliation_id": [
+                        "60002773",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "26022903700",
+                    "name": "Bannard O.",
+                    "affiliation_id": [
+                        "60008936"
+                    ]
+                },
+                {
+                    "scopus_id": "57191892044",
+                    "name": "Phan T.G.",
+                    "affiliation_id": [
+                        "60002773",
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 14,
+            "publication_name": "Cell",
+            "issn": "00928674",
+            "cover_date": "2023-03-16",
+            "venue": "Journal",
+            "volume": "186",
+            "issue": "6",
+            "page_range": "1144-1161.e18",
+            "doi": "10.1016/j.cell.2023.02.004"
         },
         {
             "title": "Stable colony-stimulating factor 1 fusion protein treatment increases hematopoietic stem cell pool and enhances their mobilisation in mice",
@@ -37199,173 +37366,6 @@
             "doi": "10.1016/j.molimm.2011.01.011"
         },
         {
-            "title": "Apoptotic cell fragments locally activate tingible body macrophages in the germinal center",
-            "eid": "2-s2.0-85149859795",
-            "authors": [
-                {
-                    "scopus_id": "57204807782",
-                    "name": "Grootveld A.K.",
-                    "affiliation_id": [
-                        "60002773",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "57221286595",
-                    "name": "Kyaw W.",
-                    "affiliation_id": [
-                        "60002773",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "37762024500",
-                    "name": "Panova V.",
-                    "affiliation_id": [
-                        "60008936"
-                    ]
-                },
-                {
-                    "scopus_id": "57212143941",
-                    "name": "Lau A.W.Y.",
-                    "affiliation_id": [
-                        "60002773",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "58137157100",
-                    "name": "Ashwin E.",
-                    "affiliation_id": [
-                        "60002773",
-                        "60280747"
-                    ]
-                },
-                {
-                    "scopus_id": "57219844486",
-                    "name": "Seuzaret G.",
-                    "affiliation_id": [
-                        "60002773",
-                        "60102126"
-                    ]
-                },
-                {
-                    "scopus_id": "34067588600",
-                    "name": "Dhenni R.",
-                    "affiliation_id": [
-                        "60002773",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "57091257200",
-                    "name": "Bhattacharyya N.D.",
-                    "affiliation_id": [
-                        "60002773"
-                    ]
-                },
-                {
-                    "scopus_id": "56993242200",
-                    "name": "Khoo W.H.",
-                    "affiliation_id": [
-                        "60002773",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "43461107200",
-                    "name": "Biro M.",
-                    "affiliation_id": [
-                        "60011463"
-                    ]
-                },
-                {
-                    "scopus_id": "57203803795",
-                    "name": "Mitra T.",
-                    "affiliation_id": [
-                        "60203637"
-                    ]
-                },
-                {
-                    "scopus_id": "6602091186",
-                    "name": "Meyer-Hermann M.",
-                    "affiliation_id": [
-                        "60203637",
-                        "60007902"
-                    ]
-                },
-                {
-                    "scopus_id": "6603694182",
-                    "name": "Bertolino P.",
-                    "affiliation_id": [
-                        "60018150"
-                    ]
-                },
-                {
-                    "scopus_id": "58266178600",
-                    "name": "Tanaka M.",
-                    "affiliation_id": [
-                        "60033124"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "26635094100",
-                    "name": "Croucher P.I.",
-                    "affiliation_id": [
-                        "60002773",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7004647792",
-                    "name": "Brink R.",
-                    "affiliation_id": [
-                        "60002773",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "26427798100",
-                    "name": "Nguyen A.",
-                    "affiliation_id": [
-                        "60002773",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "26022903700",
-                    "name": "Bannard O.",
-                    "affiliation_id": [
-                        "60008936"
-                    ]
-                },
-                {
-                    "scopus_id": "57191892044",
-                    "name": "Phan T.G.",
-                    "affiliation_id": [
-                        "60002773",
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 13,
-            "publication_name": "Cell",
-            "issn": "00928674",
-            "cover_date": "2023-03-16",
-            "venue": "Journal",
-            "volume": "186",
-            "issue": "6",
-            "page_range": "1144-1161.e18",
-            "doi": "10.1016/j.cell.2023.02.004"
-        },
-        {
             "title": "On the utility of CSF1R inhibitors",
             "eid": "2-s2.0-85099998259",
             "authors": [
@@ -37628,521 +37628,6 @@
             "issue": "7",
             "page_range": "1139-1140",
             "doi": "10.1016/j.immuni.2022.06.010"
-        },
-        {
-            "title": "The mononuclear phagocyte system of the rat",
-            "eid": "2-s2.0-85105687736",
-            "authors": [
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57210119134",
-                    "name": "Caruso M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "55598169800",
-                    "name": "Keshvari S.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "56465965600",
-                    "name": "Patkar O.L.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "56091020300",
-                    "name": "Sehgal A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "55990337100",
-                    "name": "Bush S.J.",
-                    "affiliation_id": [
-                        "60008936"
-                    ]
-                },
-                {
-                    "scopus_id": "7005583789",
-                    "name": "Summers K.M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "15070799600",
-                    "name": "Pridans C.",
-                    "affiliation_id": [
-                        "60027272",
-                        "60110825"
-                    ]
-                },
-                {
-                    "scopus_id": "35374323600",
-                    "name": "Irvine K.M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 12,
-            "publication_name": "Journal of Immunology",
-            "issn": "00221767",
-            "cover_date": "2021-05-15",
-            "venue": "Journal",
-            "volume": "206",
-            "issue": "10",
-            "page_range": "2251-2263",
-            "doi": "10.4049/jimmunol.2100136"
-        },
-        {
-            "title": "The equine mononuclear phagocyte system: The relevance of the horse as a model for understanding human innate immunity",
-            "eid": "2-s2.0-85091603719",
-            "authors": [
-                {
-                    "scopus_id": "55350301400",
-                    "name": "Karagianni A.E.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "57191090666",
-                    "name": "Lisowski Z.M.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60109259"
-                    ]
-                },
-                {
-                    "scopus_id": "55758513900",
-                    "name": "Scott Pirie R.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                }
-            ],
-            "citations": 12,
-            "publication_name": "Equine Veterinary Journal",
-            "issn": "04251644",
-            "cover_date": "2021-03-01",
-            "venue": "Journal",
-            "volume": "53",
-            "issue": "2",
-            "page_range": "231-249",
-            "doi": "10.1111/evj.13341"
-        },
-        {
-            "title": "A Mini-Atlas of Gene Expression for the Domestic Goat (Capra hircus)",
-            "eid": "2-s2.0-85075373660",
-            "authors": [
-                {
-                    "scopus_id": "57201722449",
-                    "name": "Muriuki C.",
-                    "affiliation_id": [
-                        "60021301",
-                        "123493696"
-                    ]
-                },
-                {
-                    "scopus_id": "55990337100",
-                    "name": "Bush S.J.",
-                    "affiliation_id": [
-                        "60021301",
-                        "60008936"
-                    ]
-                },
-                {
-                    "scopus_id": "55447194100",
-                    "name": "Salavati M.",
-                    "affiliation_id": [
-                        "60021301",
-                        "123493696"
-                    ]
-                },
-                {
-                    "scopus_id": "57191094470",
-                    "name": "McCulloch M.E.B.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "57191090666",
-                    "name": "Lisowski Z.M.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "6602671233",
-                    "name": "Agaba M.",
-                    "affiliation_id": [
-                        "60199651"
-                    ]
-                },
-                {
-                    "scopus_id": "6603493573",
-                    "name": "Djikeng A.",
-                    "affiliation_id": [
-                        "123493696"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57201508507",
-                    "name": "Clark E.L.",
-                    "affiliation_id": [
-                        "60021301",
-                        "123493696"
-                    ]
-                }
-            ],
-            "citations": 12,
-            "publication_name": "Frontiers in Genetics",
-            "issn": "",
-            "cover_date": "2019-11-04",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.3389/fgene.2019.01080"
-        },
-        {
-            "title": "Comprehensive transcriptional profiling of the gastrointestinal tract of ruminants from birth to adulthood reveals strong developmental stage specific gene expression",
-            "eid": "2-s2.0-85061273528",
-            "authors": [
-                {
-                    "scopus_id": "55990337100",
-                    "name": "Bush S.J.",
-                    "affiliation_id": [
-                        "60026158",
-                        "60008936"
-                    ]
-                },
-                {
-                    "scopus_id": "57191094470",
-                    "name": "McCulloch M.E.B.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "57201722449",
-                    "name": "Muriuki C.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "55447194100",
-                    "name": "Salavati M.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "57191090046",
-                    "name": "Davis G.M.",
-                    "affiliation_id": [
-                        "60026158",
-                        "60003771"
-                    ]
-                },
-                {
-                    "scopus_id": "57196035410",
-                    "name": "Farquhar I.L.",
-                    "affiliation_id": [
-                        "60026158",
-                        "60027272"
-                    ]
-                },
-                {
-                    "scopus_id": "57191090666",
-                    "name": "Lisowski Z.M.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "7005147127",
-                    "name": "Archibald A.L.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60026158",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57201508507",
-                    "name": "Clark E.L.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                }
-            ],
-            "citations": 12,
-            "publication_name": "G3: Genes, Genomes, Genetics",
-            "issn": "",
-            "cover_date": "2019-02-01",
-            "venue": "Journal",
-            "volume": "9",
-            "issue": "2",
-            "page_range": "359-373",
-            "doi": "10.1534/g3.118.200810"
-        },
-        {
-            "title": "Identification and annotation of conserved promoters and macrophage-expressed genes in the pig genome",
-            "eid": "2-s2.0-84960427537",
-            "authors": [
-                {
-                    "scopus_id": "50162272100",
-                    "name": "Robert C.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "15839279900",
-                    "name": "Kapetanovic R.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "12799434900",
-                    "name": "Beraldi D.",
-                    "affiliation_id": [
-                        "60012754"
-                    ]
-                },
-                {
-                    "scopus_id": "57199104309",
-                    "name": "Watson M.",
-                    "affiliation_id": [
-                        "60021301",
-                        "60027272"
-                    ]
-                },
-                {
-                    "scopus_id": "7005147127",
-                    "name": "Archibald A.L.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                }
-            ],
-            "citations": 12,
-            "publication_name": "BMC Genomics",
-            "issn": "",
-            "cover_date": "2015-11-18",
-            "venue": "Journal",
-            "volume": "16",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1186/s12864-015-2111-2"
-        },
-        {
-            "title": "Macrophages from BALB/c and CBA/Ca mice differ in their cellular responses to Streptococcus pneumoniae",
-            "eid": "2-s2.0-77950581262",
-            "authors": [
-                {
-                    "scopus_id": "8504949600",
-                    "name": "Ripoll V.M.",
-                    "affiliation_id": [
-                        "60017498"
-                    ]
-                },
-                {
-                    "scopus_id": "7005011197",
-                    "name": "Kadioglu A.",
-                    "affiliation_id": [
-                        "60033125"
-                    ]
-                },
-                {
-                    "scopus_id": "7403419758",
-                    "name": "Cox R.",
-                    "affiliation_id": [
-                        "60017498"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "57318516700",
-                    "name": "Denny P.",
-                    "affiliation_id": [
-                        "60017498"
-                    ]
-                }
-            ],
-            "citations": 12,
-            "publication_name": "Journal of Leukocyte Biology",
-            "issn": "07415400",
-            "cover_date": "2010-04-01",
-            "venue": "Journal",
-            "volume": "87",
-            "issue": "4",
-            "page_range": "735-741",
-            "doi": "10.1189/jlb.0509359"
-        },
-        {
-            "title": "Transcriptional regulation of c-fms gene expression",
-            "eid": "2-s2.0-0035228692",
-            "authors": [
-                {
-                    "scopus_id": "57192665585",
-                    "name": "Xie Y.",
-                    "affiliation_id": [
-                        "60014334"
-                    ]
-                },
-                {
-                    "scopus_id": "55025170600",
-                    "name": "Chen C.",
-                    "affiliation_id": [
-                        "60002746"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                }
-            ],
-            "citations": 12,
-            "publication_name": "Cell Biochemistry and Biophysics",
-            "issn": "10859195",
-            "cover_date": "2001-01-01",
-            "venue": "Journal",
-            "volume": "34",
-            "issue": "1",
-            "page_range": "1-16",
-            "doi": "10.1385/cbb:34:1:001"
-        },
-        {
-            "title": "Development of novel reagents to chicken FLT3, XCR1 and CSF2R for the identification and characterization of avian conventional dendritic cells",
-            "eid": "2-s2.0-85120312671",
-            "authors": [
-                {
-                    "scopus_id": "24774059800",
-                    "name": "Wu Z.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "23968702800",
-                    "name": "Hu T.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "56210754200",
-                    "name": "Chintoan-Uta C.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "36998088300",
-                    "name": "Macdonald J.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "7402242999",
-                    "name": "Stevens M.P.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "7102774657",
-                    "name": "Sang H.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57195190507",
-                    "name": "Kaiser P.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "6603371059",
-                    "name": "Balic A.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                }
-            ],
-            "citations": 11,
-            "publication_name": "Immunology",
-            "issn": "00192805",
-            "cover_date": "2022-02-01",
-            "venue": "Journal",
-            "volume": "165",
-            "issue": "2",
-            "page_range": "171-194",
-            "doi": "10.1111/imm.13426"
         },
         {
             "title": "Discovery of widespread transcription initiation at microsatellites predictable by sequence-based deep neural network",
@@ -38881,7 +38366,7 @@
                     ]
                 }
             ],
-            "citations": 11,
+            "citations": 12,
             "publication_name": "Nature Communications",
             "issn": "",
             "cover_date": "2021-12-01",
@@ -38890,6 +38375,85 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1038/s41467-021-23143-7"
+        },
+        {
+            "title": "The mononuclear phagocyte system of the rat",
+            "eid": "2-s2.0-85105687736",
+            "authors": [
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57210119134",
+                    "name": "Caruso M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55598169800",
+                    "name": "Keshvari S.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "56465965600",
+                    "name": "Patkar O.L.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "56091020300",
+                    "name": "Sehgal A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "55990337100",
+                    "name": "Bush S.J.",
+                    "affiliation_id": [
+                        "60008936"
+                    ]
+                },
+                {
+                    "scopus_id": "7005583789",
+                    "name": "Summers K.M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "15070799600",
+                    "name": "Pridans C.",
+                    "affiliation_id": [
+                        "60027272",
+                        "60110825"
+                    ]
+                },
+                {
+                    "scopus_id": "35374323600",
+                    "name": "Irvine K.M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Journal of Immunology",
+            "issn": "00221767",
+            "cover_date": "2021-05-15",
+            "venue": "Journal",
+            "volume": "206",
+            "issue": "10",
+            "page_range": "2251-2263",
+            "doi": "10.4049/jimmunol.2100136"
         },
         {
             "title": "Transcriptomic Analysis of Rat Macrophages",
@@ -38939,7 +38503,7 @@
                     ]
                 }
             ],
-            "citations": 11,
+            "citations": 12,
             "publication_name": "Frontiers in Immunology",
             "issn": "",
             "cover_date": "2021-02-01",
@@ -38948,6 +38512,442 @@
             "issue": "",
             "page_range": null,
             "doi": "10.3389/fimmu.2020.594594"
+        },
+        {
+            "title": "The equine mononuclear phagocyte system: The relevance of the horse as a model for understanding human innate immunity",
+            "eid": "2-s2.0-85091603719",
+            "authors": [
+                {
+                    "scopus_id": "55350301400",
+                    "name": "Karagianni A.E.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "57191090666",
+                    "name": "Lisowski Z.M.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60109259"
+                    ]
+                },
+                {
+                    "scopus_id": "55758513900",
+                    "name": "Scott Pirie R.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Equine Veterinary Journal",
+            "issn": "04251644",
+            "cover_date": "2021-03-01",
+            "venue": "Journal",
+            "volume": "53",
+            "issue": "2",
+            "page_range": "231-249",
+            "doi": "10.1111/evj.13341"
+        },
+        {
+            "title": "A Mini-Atlas of Gene Expression for the Domestic Goat (Capra hircus)",
+            "eid": "2-s2.0-85075373660",
+            "authors": [
+                {
+                    "scopus_id": "57201722449",
+                    "name": "Muriuki C.",
+                    "affiliation_id": [
+                        "60021301",
+                        "123493696"
+                    ]
+                },
+                {
+                    "scopus_id": "55990337100",
+                    "name": "Bush S.J.",
+                    "affiliation_id": [
+                        "60021301",
+                        "60008936"
+                    ]
+                },
+                {
+                    "scopus_id": "55447194100",
+                    "name": "Salavati M.",
+                    "affiliation_id": [
+                        "60021301",
+                        "123493696"
+                    ]
+                },
+                {
+                    "scopus_id": "57191094470",
+                    "name": "McCulloch M.E.B.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "57191090666",
+                    "name": "Lisowski Z.M.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "6602671233",
+                    "name": "Agaba M.",
+                    "affiliation_id": [
+                        "60199651"
+                    ]
+                },
+                {
+                    "scopus_id": "6603493573",
+                    "name": "Djikeng A.",
+                    "affiliation_id": [
+                        "123493696"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57201508507",
+                    "name": "Clark E.L.",
+                    "affiliation_id": [
+                        "60021301",
+                        "123493696"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Frontiers in Genetics",
+            "issn": "",
+            "cover_date": "2019-11-04",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.3389/fgene.2019.01080"
+        },
+        {
+            "title": "Comprehensive transcriptional profiling of the gastrointestinal tract of ruminants from birth to adulthood reveals strong developmental stage specific gene expression",
+            "eid": "2-s2.0-85061273528",
+            "authors": [
+                {
+                    "scopus_id": "55990337100",
+                    "name": "Bush S.J.",
+                    "affiliation_id": [
+                        "60026158",
+                        "60008936"
+                    ]
+                },
+                {
+                    "scopus_id": "57191094470",
+                    "name": "McCulloch M.E.B.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "57201722449",
+                    "name": "Muriuki C.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "55447194100",
+                    "name": "Salavati M.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "57191090046",
+                    "name": "Davis G.M.",
+                    "affiliation_id": [
+                        "60026158",
+                        "60003771"
+                    ]
+                },
+                {
+                    "scopus_id": "57196035410",
+                    "name": "Farquhar I.L.",
+                    "affiliation_id": [
+                        "60026158",
+                        "60027272"
+                    ]
+                },
+                {
+                    "scopus_id": "57191090666",
+                    "name": "Lisowski Z.M.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "7005147127",
+                    "name": "Archibald A.L.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60026158",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57201508507",
+                    "name": "Clark E.L.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "G3: Genes, Genomes, Genetics",
+            "issn": "",
+            "cover_date": "2019-02-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "2",
+            "page_range": "359-373",
+            "doi": "10.1534/g3.118.200810"
+        },
+        {
+            "title": "Identification and annotation of conserved promoters and macrophage-expressed genes in the pig genome",
+            "eid": "2-s2.0-84960427537",
+            "authors": [
+                {
+                    "scopus_id": "50162272100",
+                    "name": "Robert C.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "15839279900",
+                    "name": "Kapetanovic R.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "12799434900",
+                    "name": "Beraldi D.",
+                    "affiliation_id": [
+                        "60012754"
+                    ]
+                },
+                {
+                    "scopus_id": "57199104309",
+                    "name": "Watson M.",
+                    "affiliation_id": [
+                        "60021301",
+                        "60027272"
+                    ]
+                },
+                {
+                    "scopus_id": "7005147127",
+                    "name": "Archibald A.L.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "BMC Genomics",
+            "issn": "",
+            "cover_date": "2015-11-18",
+            "venue": "Journal",
+            "volume": "16",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s12864-015-2111-2"
+        },
+        {
+            "title": "Macrophages from BALB/c and CBA/Ca mice differ in their cellular responses to Streptococcus pneumoniae",
+            "eid": "2-s2.0-77950581262",
+            "authors": [
+                {
+                    "scopus_id": "8504949600",
+                    "name": "Ripoll V.M.",
+                    "affiliation_id": [
+                        "60017498"
+                    ]
+                },
+                {
+                    "scopus_id": "7005011197",
+                    "name": "Kadioglu A.",
+                    "affiliation_id": [
+                        "60033125"
+                    ]
+                },
+                {
+                    "scopus_id": "7403419758",
+                    "name": "Cox R.",
+                    "affiliation_id": [
+                        "60017498"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "57318516700",
+                    "name": "Denny P.",
+                    "affiliation_id": [
+                        "60017498"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Journal of Leukocyte Biology",
+            "issn": "07415400",
+            "cover_date": "2010-04-01",
+            "venue": "Journal",
+            "volume": "87",
+            "issue": "4",
+            "page_range": "735-741",
+            "doi": "10.1189/jlb.0509359"
+        },
+        {
+            "title": "Transcriptional regulation of c-fms gene expression",
+            "eid": "2-s2.0-0035228692",
+            "authors": [
+                {
+                    "scopus_id": "57192665585",
+                    "name": "Xie Y.",
+                    "affiliation_id": [
+                        "60014334"
+                    ]
+                },
+                {
+                    "scopus_id": "55025170600",
+                    "name": "Chen C.",
+                    "affiliation_id": [
+                        "60002746"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Cell Biochemistry and Biophysics",
+            "issn": "10859195",
+            "cover_date": "2001-01-01",
+            "venue": "Journal",
+            "volume": "34",
+            "issue": "1",
+            "page_range": "1-16",
+            "doi": "10.1385/cbb:34:1:001"
+        },
+        {
+            "title": "Development of novel reagents to chicken FLT3, XCR1 and CSF2R for the identification and characterization of avian conventional dendritic cells",
+            "eid": "2-s2.0-85120312671",
+            "authors": [
+                {
+                    "scopus_id": "24774059800",
+                    "name": "Wu Z.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "23968702800",
+                    "name": "Hu T.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "56210754200",
+                    "name": "Chintoan-Uta C.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "36998088300",
+                    "name": "Macdonald J.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "7402242999",
+                    "name": "Stevens M.P.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "7102774657",
+                    "name": "Sang H.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57195190507",
+                    "name": "Kaiser P.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "6603371059",
+                    "name": "Balic A.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Immunology",
+            "issn": "00192805",
+            "cover_date": "2022-02-01",
+            "venue": "Journal",
+            "volume": "165",
+            "issue": "2",
+            "page_range": "171-194",
+            "doi": "10.1111/imm.13426"
         },
         {
             "title": "Environmentally enriched pigs have transcriptional profiles consistent with neuroprotective effects and reduced microglial activity",
@@ -39883,6 +39883,50 @@
             "doi": "10.1038/s41598-020-79005-7"
         },
         {
+            "title": "The evolution of the macrophage-specific enhancer (Fms intronic regulatory element) within the CSF1R locus of vertebrates",
+            "eid": "2-s2.0-85038124098",
+            "authors": [
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "57199506944",
+                    "name": "Wollscheid-Lengeling E.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "56804773200",
+                    "name": "Rojo R.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "15070799600",
+                    "name": "Pridans C.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "Scientific Reports",
+            "issn": "",
+            "cover_date": "2017-12-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1038/s41598-017-15999-x"
+        },
+        {
             "title": "Lentiviral vectors containing mouse Csf1r control elements direct macrophage-restricted expression in multiple species of birds and mammals",
             "eid": "2-s2.0-84905470556",
             "authors": [
@@ -40237,50 +40281,6 @@
             "issue": "8",
             "page_range": null,
             "doi": "10.1242/dev.200237"
-        },
-        {
-            "title": "The evolution of the macrophage-specific enhancer (Fms intronic regulatory element) within the CSF1R locus of vertebrates",
-            "eid": "2-s2.0-85038124098",
-            "authors": [
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "57199506944",
-                    "name": "Wollscheid-Lengeling E.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "56804773200",
-                    "name": "Rojo R.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "15070799600",
-                    "name": "Pridans C.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                }
-            ],
-            "citations": 9,
-            "publication_name": "Scientific Reports",
-            "issn": "",
-            "cover_date": "2017-12-01",
-            "venue": "Journal",
-            "volume": "7",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1038/s41598-017-15999-x"
         },
         {
             "title": "Encapsulation is not involved in the activities of recombinant gamma interferon associated with multilamellar phospholipid liposomes on murine bone marrow-derived macrophages",
@@ -41369,6 +41369,70 @@
             "doi": "10.3389/fgene.2019.01032"
         },
         {
+            "title": "Linked Mutations at Adjacent Nucleotides Have Shaped Human Population Differentiation and Protein Evolution",
+            "eid": "2-s2.0-85063651378",
+            "authors": [
+                {
+                    "scopus_id": "16317569800",
+                    "name": "Prendergast J.G.D.",
+                    "affiliation_id": [
+                        "60026158"
+                    ]
+                },
+                {
+                    "scopus_id": "55556403700",
+                    "name": "Pugh C.",
+                    "affiliation_id": [
+                        "60026158",
+                        "60027272"
+                    ]
+                },
+                {
+                    "scopus_id": "7403484635",
+                    "name": "Harris S.E.",
+                    "affiliation_id": [
+                        "60027272",
+                        "60027272"
+                    ]
+                },
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57193752767",
+                    "name": "Deary I.J.",
+                    "affiliation_id": [
+                        "60027272"
+                    ]
+                },
+                {
+                    "scopus_id": "57196996675",
+                    "name": "Beveridge A.",
+                    "affiliation_id": [
+                        "60001490"
+                    ]
+                },
+                {
+                    "scopus_id": "57209177270",
+                    "name": "Zhang G.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Genome Biology and Evolution",
+            "issn": "",
+            "cover_date": "2019-03-01",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "3",
+            "page_range": "759-775",
+            "doi": "10.1093/gbe/evz014"
+        },
+        {
             "title": "Transcriptional Regulatory Networks in Macrophages",
             "eid": "2-s2.0-85052655395",
             "authors": [
@@ -41920,70 +41984,6 @@
             "issue": "APR",
             "page_range": null,
             "doi": "10.3389/fimmu.2019.00818"
-        },
-        {
-            "title": "Linked Mutations at Adjacent Nucleotides Have Shaped Human Population Differentiation and Protein Evolution",
-            "eid": "2-s2.0-85063651378",
-            "authors": [
-                {
-                    "scopus_id": "16317569800",
-                    "name": "Prendergast J.G.D.",
-                    "affiliation_id": [
-                        "60026158"
-                    ]
-                },
-                {
-                    "scopus_id": "55556403700",
-                    "name": "Pugh C.",
-                    "affiliation_id": [
-                        "60026158",
-                        "60027272"
-                    ]
-                },
-                {
-                    "scopus_id": "7403484635",
-                    "name": "Harris S.E.",
-                    "affiliation_id": [
-                        "60027272",
-                        "60027272"
-                    ]
-                },
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "57193752767",
-                    "name": "Deary I.J.",
-                    "affiliation_id": [
-                        "60027272"
-                    ]
-                },
-                {
-                    "scopus_id": "57196996675",
-                    "name": "Beveridge A.",
-                    "affiliation_id": [
-                        "60001490"
-                    ]
-                },
-                {
-                    "scopus_id": "57209177270",
-                    "name": "Zhang G.",
-                    "affiliation_id": []
-                }
-            ],
-            "citations": 5,
-            "publication_name": "Genome Biology and Evolution",
-            "issn": "",
-            "cover_date": "2019-03-01",
-            "venue": "Journal",
-            "volume": "11",
-            "issue": "3",
-            "page_range": "759-775",
-            "doi": "10.1093/gbe/evz014"
         },
         {
             "title": "Embedding mapping class groups into a finite product of trees",
@@ -43976,6 +43976,42 @@
             "doi": "10.1111/evj.13429"
         },
         {
+            "title": "Transcriptional regulation and macrophage differentiation",
+            "eid": "2-s2.0-85101705630",
+            "authors": [
+                {
+                    "scopus_id": "26032966400",
+                    "name": "Hume D.A.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "7005583789",
+                    "name": "Summers K.M.",
+                    "affiliation_id": [
+                        "60021301"
+                    ]
+                },
+                {
+                    "scopus_id": "6701654457",
+                    "name": "Rehli M.",
+                    "affiliation_id": [
+                        "60020016"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Myeloid Cells in Health and Disease: A Synthesis",
+            "issn": "",
+            "cover_date": "2017-01-01",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "119-139",
+            "doi": "10.1128/9781555819194.ch8"
+        },
+        {
             "title": "Extending group actions on metric spaces",
             "eid": "2-s2.0-85093825872",
             "authors": [
@@ -44778,42 +44814,6 @@
             "issue": "6",
             "page_range": null,
             "doi": "10.1002/eji.202250242"
-        },
-        {
-            "title": "Transcriptional regulation and macrophage differentiation",
-            "eid": "2-s2.0-85101705630",
-            "authors": [
-                {
-                    "scopus_id": "26032966400",
-                    "name": "Hume D.A.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "7005583789",
-                    "name": "Summers K.M.",
-                    "affiliation_id": [
-                        "60021301"
-                    ]
-                },
-                {
-                    "scopus_id": "6701654457",
-                    "name": "Rehli M.",
-                    "affiliation_id": [
-                        "60020016"
-                    ]
-                }
-            ],
-            "citations": 1,
-            "publication_name": "Myeloid Cells in Health and Disease: A Synthesis",
-            "issn": "",
-            "cover_date": "2017-01-01",
-            "venue": "Book",
-            "volume": "",
-            "issue": "",
-            "page_range": "119-139",
-            "doi": "10.1128/9781555819194.ch8"
         },
         {
             "title": "The preterm labor associated ADAMTS2 gene is induced by glucocorticoids",
@@ -48022,6 +48022,5 @@
             "$": "Immunology and Microbiology (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:24:45",
-    "c-score": null
+    "date fetched": "2024-07-12 20:13:08"
 }

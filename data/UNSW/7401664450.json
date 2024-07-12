@@ -185,7 +185,7 @@
                     ]
                 }
             ],
-            "citations": 3769,
+            "citations": 3774,
             "publication_name": "The Lancet Psychiatry",
             "issn": "22150366",
             "cover_date": "2020-06-01",
@@ -221,7 +221,7 @@
                     ]
                 }
             ],
-            "citations": 1942,
+            "citations": 1948,
             "publication_name": "BMC Psychiatry",
             "issn": "",
             "cover_date": "2010-12-30",
@@ -279,7 +279,7 @@
                     ]
                 }
             ],
-            "citations": 1570,
+            "citations": 1574,
             "publication_name": "Medical Journal of Australia",
             "issn": "0025729X",
             "cover_date": "1997-02-17",
@@ -532,7 +532,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 969,
+            "citations": 970,
             "publication_name": "The Lancet Psychiatry",
             "issn": "22150366",
             "cover_date": "2020-06-01",
@@ -541,43 +541,6 @@
             "issue": "6",
             "page_range": "468-471",
             "doi": "10.1016/S2215-0366(20)30171-1"
-        },
-        {
-            "title": "Adherence in internet interventions for anxiety and depression",
-            "eid": "2-s2.0-66749118808",
-            "authors": [
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7102333424",
-                    "name": "Griffiths K.M.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "16303447200",
-                    "name": "Farrer L.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 861,
-            "publication_name": "Journal of Medical Internet Research",
-            "issn": "",
-            "cover_date": "2009-01-01",
-            "venue": "Journal",
-            "volume": "11",
-            "issue": "2",
-            "page_range": null,
-            "doi": "10.2196/jmir.1194"
         },
         {
             "title": "Smartphones for smarter delivery of mental health programs: A systematic review",
@@ -626,7 +589,7 @@
                     ]
                 }
             ],
-            "citations": 860,
+            "citations": 861,
             "publication_name": "Journal of Medical Internet Research",
             "issn": "",
             "cover_date": "2013-01-01",
@@ -635,6 +598,43 @@
             "issue": "11",
             "page_range": null,
             "doi": "10.2196/jmir.2791"
+        },
+        {
+            "title": "Adherence in internet interventions for anxiety and depression",
+            "eid": "2-s2.0-66749118808",
+            "authors": [
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7102333424",
+                    "name": "Griffiths K.M.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "16303447200",
+                    "name": "Farrer L.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 861,
+            "publication_name": "Journal of Medical Internet Research",
+            "issn": "",
+            "cover_date": "2009-01-01",
+            "venue": "Journal",
+            "volume": "11",
+            "issue": "2",
+            "page_range": null,
+            "doi": "10.2196/jmir.1194"
         },
         {
             "title": "Delivering interventions for depression by using the internet: Randomised controlled trial",
@@ -752,7 +752,7 @@
                     ]
                 }
             ],
-            "citations": 588,
+            "citations": 589,
             "publication_name": "Australian and New Zealand Journal of Psychiatry",
             "issn": "00048674",
             "cover_date": "2006-01-01",
@@ -1115,7 +1115,7 @@
                     ]
                 }
             ],
-            "citations": 477,
+            "citations": 479,
             "publication_name": "Clinical Psychology Review",
             "issn": "02727358",
             "cover_date": "2017-02-01",
@@ -1248,7 +1248,7 @@
                     ]
                 }
             ],
-            "citations": 414,
+            "citations": 416,
             "publication_name": "Evidence-Based Mental Health",
             "issn": "13620347",
             "cover_date": "2018-08-01",
@@ -1906,7 +1906,7 @@
                     ]
                 }
             ],
-            "citations": 366,
+            "citations": 369,
             "publication_name": "JAMA Psychiatry",
             "issn": "2168622X",
             "cover_date": "2021-04-01",
@@ -1977,7 +1977,7 @@
                     ]
                 }
             ],
-            "citations": 359,
+            "citations": 360,
             "publication_name": "PLoS ONE",
             "issn": "",
             "cover_date": "2015-03-18",
@@ -2013,7 +2013,7 @@
                     ]
                 }
             ],
-            "citations": 359,
+            "citations": 360,
             "publication_name": "BMC Psychiatry",
             "issn": "",
             "cover_date": "2012-09-26",
@@ -2070,7 +2070,7 @@
                     ]
                 }
             ],
-            "citations": 339,
+            "citations": 340,
             "publication_name": "Internet Interventions",
             "issn": "22147829",
             "cover_date": "2015-05-01",
@@ -2219,7 +2219,7 @@
                     "name": "Mather K.A.",
                     "affiliation_id": [
                         "60008950",
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
@@ -2280,7 +2280,7 @@
                     ]
                 }
             ],
-            "citations": 313,
+            "citations": 314,
             "publication_name": "BMC Psychiatry",
             "issn": "",
             "cover_date": "2008-04-18",
@@ -3203,7 +3203,7 @@
                     ]
                 }
             ],
-            "citations": 248,
+            "citations": 249,
             "publication_name": "Australian and New Zealand Journal of Psychiatry",
             "issn": "00048674",
             "cover_date": "2001-12-01",
@@ -3516,7 +3516,7 @@
                     ]
                 }
             ],
-            "citations": 245,
+            "citations": 247,
             "publication_name": "The Lancet Psychiatry",
             "issn": "22150366",
             "cover_date": "2017-10-01",
@@ -5472,7 +5472,7 @@
                     ]
                 }
             ],
-            "citations": 187,
+            "citations": 188,
             "publication_name": "Journal of Medical Internet Research",
             "issn": "14388871",
             "cover_date": "2004-01-01",
@@ -5744,7 +5744,7 @@
                     ]
                 }
             ],
-            "citations": 175,
+            "citations": 176,
             "publication_name": "Crisis",
             "issn": "02275910",
             "cover_date": "2013-02-20",
@@ -6019,14 +6019,14 @@
                     "scopus_id": "7102171045",
                     "name": "Wen W.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
                     "scopus_id": "7102284091",
                     "name": "Sachdev P.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 }
             ],
@@ -6067,7 +6067,7 @@
                     ]
                 }
             ],
-            "citations": 168,
+            "citations": 169,
             "publication_name": "npj Digital Medicine",
             "issn": "",
             "cover_date": "2019-12-01",
@@ -6412,7 +6412,7 @@
                     ]
                 }
             ],
-            "citations": 156,
+            "citations": 157,
             "publication_name": "Psychiatry Research",
             "issn": "01651781",
             "cover_date": "2014-11-30",
@@ -6455,7 +6455,7 @@
                     ]
                 }
             ],
-            "citations": 152,
+            "citations": 153,
             "publication_name": "Psychiatry Research",
             "issn": "01651781",
             "cover_date": "2008-09-30",
@@ -7896,7 +7896,7 @@
                     ]
                 }
             ],
-            "citations": 123,
+            "citations": 124,
             "publication_name": "Australian and New Zealand Journal of Psychiatry",
             "issn": "00048674",
             "cover_date": "2006-01-01",
@@ -7939,7 +7939,7 @@
                     ]
                 }
             ],
-            "citations": 122,
+            "citations": 123,
             "publication_name": "Journal of Affective Disorders",
             "issn": "01650327",
             "cover_date": "2013-01-25",
@@ -8291,6 +8291,49 @@
             "doi": "10.1109/JBHI.2015.2403839"
         },
         {
+            "title": "Gender differences in cognitive abilities: The mediating role of health state and health habits",
+            "eid": "2-s2.0-0346723048",
+            "authors": [
+                {
+                    "scopus_id": "7102651196",
+                    "name": "Jorm A.F.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57218885873",
+                    "name": "Anstey K.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7102876363",
+                    "name": "Rodgers B.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 119,
+            "publication_name": "Intelligence",
+            "issn": "01602896",
+            "cover_date": "2004-01-01",
+            "venue": "Journal",
+            "volume": "32",
+            "issue": "1",
+            "page_range": "7-23",
+            "doi": "10.1016/j.intell.2003.08.001"
+        },
+        {
             "title": "Effectiveness of a web-based cognitive-behavioral tool to improve mental well-being in the general population: Randomized controlled trial",
             "eid": "2-s2.0-84877257430",
             "authors": [
@@ -8403,49 +8446,6 @@
             "doi": "10.1371/journal.pone.0028099"
         },
         {
-            "title": "Gender differences in cognitive abilities: The mediating role of health state and health habits",
-            "eid": "2-s2.0-0346723048",
-            "authors": [
-                {
-                    "scopus_id": "7102651196",
-                    "name": "Jorm A.F.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "57218885873",
-                    "name": "Anstey K.J.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7102876363",
-                    "name": "Rodgers B.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 118,
-            "publication_name": "Intelligence",
-            "issn": "01602896",
-            "cover_date": "2004-01-01",
-            "venue": "Journal",
-            "volume": "32",
-            "issue": "1",
-            "page_range": "7-23",
-            "doi": "10.1016/j.intell.2003.08.001"
-        },
-        {
             "title": "Behavior Therapy and Tricyclic Medication in the Treatment of Obsessive-Compulsive Disorder: A Quantitative Review",
             "eid": "2-s2.0-0023493234",
             "authors": [
@@ -8488,6 +8488,64 @@
             "issue": "5",
             "page_range": "701-711",
             "doi": "10.1037/0022-006X.55.5.701"
+        },
+        {
+            "title": "The impact of COVID-19 on the lives and mental health of Australian adolescents",
+            "eid": "2-s2.0-85105404054",
+            "authors": [
+                {
+                    "scopus_id": "36572006100",
+                    "name": "Li S.H.",
+                    "affiliation_id": [
+                        "60104962"
+                    ]
+                },
+                {
+                    "scopus_id": "57105395800",
+                    "name": "Beames J.R.",
+                    "affiliation_id": [
+                        "60104962"
+                    ]
+                },
+                {
+                    "scopus_id": "36904822100",
+                    "name": "Newby J.M.",
+                    "affiliation_id": [
+                        "60104962",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "57192943949",
+                    "name": "Maston K.",
+                    "affiliation_id": [
+                        "60104962"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60104962"
+                    ]
+                },
+                {
+                    "scopus_id": "22952586300",
+                    "name": "Werner-Seidler A.",
+                    "affiliation_id": [
+                        "60104962"
+                    ]
+                }
+            ],
+            "citations": 115,
+            "publication_name": "European Child and Adolescent Psychiatry",
+            "issn": "10188827",
+            "cover_date": "2022-09-01",
+            "venue": "Journal",
+            "volume": "31",
+            "issue": "9",
+            "page_range": "1465-1477",
+            "doi": "10.1007/s00787-021-01790-x"
         },
         {
             "title": "Predicting anxiety and depression from personality: Is there a synergistic effect of neuroticism and extraversion?",
@@ -8546,64 +8604,6 @@
             "issue": "1",
             "page_range": "145-149",
             "doi": "10.1037/0021-843X.109.1.145"
-        },
-        {
-            "title": "The impact of COVID-19 on the lives and mental health of Australian adolescents",
-            "eid": "2-s2.0-85105404054",
-            "authors": [
-                {
-                    "scopus_id": "36572006100",
-                    "name": "Li S.H.",
-                    "affiliation_id": [
-                        "60104962"
-                    ]
-                },
-                {
-                    "scopus_id": "57105395800",
-                    "name": "Beames J.R.",
-                    "affiliation_id": [
-                        "60104962"
-                    ]
-                },
-                {
-                    "scopus_id": "36904822100",
-                    "name": "Newby J.M.",
-                    "affiliation_id": [
-                        "60104962",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "57192943949",
-                    "name": "Maston K.",
-                    "affiliation_id": [
-                        "60104962"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60104962"
-                    ]
-                },
-                {
-                    "scopus_id": "22952586300",
-                    "name": "Werner-Seidler A.",
-                    "affiliation_id": [
-                        "60104962"
-                    ]
-                }
-            ],
-            "citations": 114,
-            "publication_name": "European Child and Adolescent Psychiatry",
-            "issn": "10188827",
-            "cover_date": "2022-09-01",
-            "venue": "Journal",
-            "volume": "31",
-            "issue": "9",
-            "page_range": "1465-1477",
-            "doi": "10.1007/s00787-021-01790-x"
         },
         {
             "title": "Age differences and interindividual variation in cognition in community-dwelling elderly",
@@ -10512,7 +10512,7 @@
                     ]
                 }
             ],
-            "citations": 97,
+            "citations": 98,
             "publication_name": "The Lancet Psychiatry",
             "issn": "22150366",
             "cover_date": "2019-03-01",
@@ -10826,35 +10826,6 @@
             "doi": "10.1080/14749730412331318649"
         },
         {
-            "title": "Internet-based interventions for young people with problematic substance use: A systematic review",
-            "eid": "2-s2.0-77955912822",
-            "authors": [
-                {
-                    "scopus_id": "7102837328",
-                    "name": "Tait R.J.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 93,
-            "publication_name": "Medical Journal of Australia",
-            "issn": "0025729X",
-            "cover_date": "2010-06-07",
-            "venue": "Journal",
-            "volume": "192",
-            "issue": "SUPPL. 11",
-            "page_range": null,
-            "doi": "10.5694/j.1326-5377.2010.tb03687.x"
-        },
-        {
             "title": "Effectiveness of complementary and self-help treatments for anxiety disorders",
             "eid": "2-s2.0-5044250704",
             "authors": [
@@ -10902,7 +10873,7 @@
                     ]
                 }
             ],
-            "citations": 93,
+            "citations": 94,
             "publication_name": "Medical Journal of Australia",
             "issn": "0025729X",
             "cover_date": "2004-10-04",
@@ -10911,6 +10882,35 @@
             "issue": "7 SUPPL.",
             "page_range": null,
             "doi": "10.5694/j.1326-5377.2004.tb06352.x"
+        },
+        {
+            "title": "Internet-based interventions for young people with problematic substance use: A systematic review",
+            "eid": "2-s2.0-77955912822",
+            "authors": [
+                {
+                    "scopus_id": "7102837328",
+                    "name": "Tait R.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 93,
+            "publication_name": "Medical Journal of Australia",
+            "issn": "0025729X",
+            "cover_date": "2010-06-07",
+            "venue": "Journal",
+            "volume": "192",
+            "issue": "SUPPL. 11",
+            "page_range": null,
+            "doi": "10.5694/j.1326-5377.2010.tb03687.x"
         },
         {
             "title": "Age is no kinder to the better educated: Absence of an association investigated using latent growth techniques in a community sample",
@@ -11038,6 +11038,42 @@
             "issue": "12",
             "page_range": null,
             "doi": "10.1371/journal.pone.0053244"
+        },
+        {
+            "title": "Personal and perceived depression stigma in Australian adolescents: Magnitude and predictors",
+            "eid": "2-s2.0-78650888778",
+            "authors": [
+                {
+                    "scopus_id": "28767584600",
+                    "name": "Calear A.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7102333424",
+                    "name": "Griffiths K.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 92,
+            "publication_name": "Journal of Affective Disorders",
+            "issn": "01650327",
+            "cover_date": "2011-03-01",
+            "venue": "Journal",
+            "volume": "129",
+            "issue": "1-3",
+            "page_range": "104-108",
+            "doi": "10.1016/j.jad.2010.08.019"
         },
         {
             "title": "Biomarkers, health, lifestyle, and demographic variables as correlates of reaction time performance in early, middle, and late adulthood",
@@ -11191,12 +11227,12 @@
             "doi": "10.1007/s001270050230"
         },
         {
-            "title": "Personal and perceived depression stigma in Australian adolescents: Magnitude and predictors",
-            "eid": "2-s2.0-78650888778",
+            "title": "Providing information about the effectiveness of treatment options to depressed people in the community: A randomized controlled trial of effects on mental health literacy, help-seeking and symptoms",
+            "eid": "2-s2.0-0042010158",
             "authors": [
                 {
-                    "scopus_id": "28767584600",
-                    "name": "Calear A.",
+                    "scopus_id": "7102651196",
+                    "name": "Jorm A.",
                     "affiliation_id": [
                         "60008950"
                     ]
@@ -11214,17 +11250,38 @@
                     "affiliation_id": [
                         "60008950"
                     ]
+                },
+                {
+                    "scopus_id": "57208463558",
+                    "name": "Korten A.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7005689474",
+                    "name": "Parslow R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7102876363",
+                    "name": "Rodgers B.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
                 }
             ],
             "citations": 91,
-            "publication_name": "Journal of Affective Disorders",
-            "issn": "01650327",
-            "cover_date": "2011-03-01",
+            "publication_name": "Psychological Medicine",
+            "issn": "00332917",
+            "cover_date": "2003-08-01",
             "venue": "Journal",
-            "volume": "129",
-            "issue": "1-3",
-            "page_range": "104-108",
-            "doi": "10.1016/j.jad.2010.08.019"
+            "volume": "33",
+            "issue": "6",
+            "page_range": "1071-1079",
+            "doi": "10.1017/S0033291703008079"
         },
         {
             "title": "A Linguistic analysis of suicide-related Twitter posts",
@@ -11275,63 +11332,6 @@
             "issue": "5",
             "page_range": "319-329",
             "doi": "10.1027/0227-5910/a000443"
-        },
-        {
-            "title": "Providing information about the effectiveness of treatment options to depressed people in the community: A randomized controlled trial of effects on mental health literacy, help-seeking and symptoms",
-            "eid": "2-s2.0-0042010158",
-            "authors": [
-                {
-                    "scopus_id": "7102651196",
-                    "name": "Jorm A.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7102333424",
-                    "name": "Griffiths K.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "57208463558",
-                    "name": "Korten A.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7005689474",
-                    "name": "Parslow R.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7102876363",
-                    "name": "Rodgers B.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 90,
-            "publication_name": "Psychological Medicine",
-            "issn": "00332917",
-            "cover_date": "2003-08-01",
-            "venue": "Journal",
-            "volume": "33",
-            "issue": "6",
-            "page_range": "1071-1079",
-            "doi": "10.1017/S0033291703008079"
         },
         {
             "title": "The internet and mental health literacy",
@@ -12024,6 +12024,43 @@
             "doi": "10.1136/oemed-2017-104789"
         },
         {
+            "title": "Sleep disturbance, personality and the onset of depression and anxiety: Prospective cohort study",
+            "eid": "2-s2.0-84871161444",
+            "authors": [
+                {
+                    "scopus_id": "8848851000",
+                    "name": "Batterham P.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57203231617",
+                    "name": "Glozier N.",
+                    "affiliation_id": [
+                        "60121699"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 83,
+            "publication_name": "Australian and New Zealand Journal of Psychiatry",
+            "issn": "00048674",
+            "cover_date": "2012-11-01",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "11",
+            "page_range": "1089-1098",
+            "doi": "10.1177/0004867412457997"
+        },
+        {
             "title": "Within-occasion intraindividual variability and preclinical diagnostic status: Is intraindividual variability an indicator of mild cognitive impairment?",
             "eid": "2-s2.0-19444375718",
             "authors": [
@@ -12221,43 +12258,6 @@
             "doi": "10.1016/j.jad.2013.06.020"
         },
         {
-            "title": "Sleep disturbance, personality and the onset of depression and anxiety: Prospective cohort study",
-            "eid": "2-s2.0-84871161444",
-            "authors": [
-                {
-                    "scopus_id": "8848851000",
-                    "name": "Batterham P.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "57203231617",
-                    "name": "Glozier N.",
-                    "affiliation_id": [
-                        "60121699"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 82,
-            "publication_name": "Australian and New Zealand Journal of Psychiatry",
-            "issn": "00048674",
-            "cover_date": "2012-11-01",
-            "venue": "Journal",
-            "volume": "46",
-            "issue": "11",
-            "page_range": "1089-1098",
-            "doi": "10.1177/0004867412457997"
-        },
-        {
             "title": "The prevention of depression using the Internet",
             "eid": "2-s2.0-0037038178",
             "authors": [
@@ -12285,35 +12285,6 @@
             "issue": "7 SUPPL.",
             "page_range": null,
             "doi": "10.5694/j.1326-5377.2002.tb04871.x"
-        },
-        {
-            "title": "The quality and accessibility of Australian depression sites on the World Wide Web",
-            "eid": "2-s2.0-0037140991",
-            "authors": [
-                {
-                    "scopus_id": "7102333424",
-                    "name": "Griffiths K.M.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 81,
-            "publication_name": "Medical Journal of Australia",
-            "issn": "0025729X",
-            "cover_date": "2002-05-20",
-            "venue": "Journal",
-            "volume": "176",
-            "issue": "SUPPL.",
-            "page_range": null,
-            "doi": "10.5694/j.1326-5377.2002.tb04509.x"
         },
         {
             "title": "School-based depression and anxiety prevention programs: An updated systematic review and meta-analysis",
@@ -12377,7 +12348,7 @@
                     ]
                 }
             ],
-            "citations": 80,
+            "citations": 81,
             "publication_name": "Clinical Psychology Review",
             "issn": "02727358",
             "cover_date": "2021-11-01",
@@ -12386,6 +12357,35 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1016/j.cpr.2021.102079"
+        },
+        {
+            "title": "The quality and accessibility of Australian depression sites on the World Wide Web",
+            "eid": "2-s2.0-0037140991",
+            "authors": [
+                {
+                    "scopus_id": "7102333424",
+                    "name": "Griffiths K.M.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 81,
+            "publication_name": "Medical Journal of Australia",
+            "issn": "0025729X",
+            "cover_date": "2002-05-20",
+            "venue": "Journal",
+            "volume": "176",
+            "issue": "SUPPL.",
+            "page_range": null,
+            "doi": "10.5694/j.1326-5377.2002.tb04509.x"
         },
         {
             "title": "Best strategies for reducing the suicide rate in Australia",
@@ -13160,6 +13160,115 @@
             "doi": "10.1037/a0024667"
         },
         {
+            "title": "Risk factors of transition from normal cognition to mild cognitive disorder: The PATH through life study",
+            "eid": "2-s2.0-67650996204",
+            "authors": [
+                {
+                    "scopus_id": "10139477400",
+                    "name": "Cherbuin N.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "12774332900",
+                    "name": "Reglade-Meslin C.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57216794085",
+                    "name": "Kumar R.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7003649151",
+                    "name": "Jacomb P.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7004347903",
+                    "name": "Easteal S.",
+                    "affiliation_id": [
+                        "60083392"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7102284091",
+                    "name": "Sachdev P.",
+                    "affiliation_id": [
+                        "60028333",
+                        "100359715"
+                    ]
+                },
+                {
+                    "scopus_id": "57218885873",
+                    "name": "Anstey K.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 74,
+            "publication_name": "Dementia and Geriatric Cognitive Disorders",
+            "issn": "14208008",
+            "cover_date": "2009-08-01",
+            "venue": "Journal",
+            "volume": "28",
+            "issue": "1",
+            "page_range": "47-55",
+            "doi": "10.1159/000229025"
+        },
+        {
+            "title": "Public beliefs about causes and risk factors for mental disorders: Changes in Australia over 8 years",
+            "eid": "2-s2.0-26844566446",
+            "authors": [
+                {
+                    "scopus_id": "7102651196",
+                    "name": "Jorm A.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7102333424",
+                    "name": "Griffiths K.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 74,
+            "publication_name": "Social Psychiatry and Psychiatric Epidemiology",
+            "issn": "09337954",
+            "cover_date": "2005-09-01",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "9",
+            "page_range": "764-767",
+            "doi": "10.1007/s00127-005-0940-z"
+        },
+        {
             "title": "Informant ratings of cognitive decline in old age: Validation against change on cognitive tests over 7 to 8 years",
             "eid": "2-s2.0-0033858958",
             "authors": [
@@ -13567,115 +13676,6 @@
             "issue": "5",
             "page_range": "321-330",
             "doi": "10.1027/0227-5910/a000731"
-        },
-        {
-            "title": "Risk factors of transition from normal cognition to mild cognitive disorder: The PATH through life study",
-            "eid": "2-s2.0-67650996204",
-            "authors": [
-                {
-                    "scopus_id": "10139477400",
-                    "name": "Cherbuin N.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "12774332900",
-                    "name": "Reglade-Meslin C.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "57216794085",
-                    "name": "Kumar R.",
-                    "affiliation_id": [
-                        "60008950",
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7003649151",
-                    "name": "Jacomb P.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7004347903",
-                    "name": "Easteal S.",
-                    "affiliation_id": [
-                        "60083392"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7102284091",
-                    "name": "Sachdev P.",
-                    "affiliation_id": [
-                        "60028333",
-                        "100359715"
-                    ]
-                },
-                {
-                    "scopus_id": "57218885873",
-                    "name": "Anstey K.J.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 73,
-            "publication_name": "Dementia and Geriatric Cognitive Disorders",
-            "issn": "14208008",
-            "cover_date": "2009-08-01",
-            "venue": "Journal",
-            "volume": "28",
-            "issue": "1",
-            "page_range": "47-55",
-            "doi": "10.1159/000229025"
-        },
-        {
-            "title": "Public beliefs about causes and risk factors for mental disorders: Changes in Australia over 8 years",
-            "eid": "2-s2.0-26844566446",
-            "authors": [
-                {
-                    "scopus_id": "7102651196",
-                    "name": "Jorm A.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7102333424",
-                    "name": "Griffiths K.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 73,
-            "publication_name": "Social Psychiatry and Psychiatric Epidemiology",
-            "issn": "09337954",
-            "cover_date": "2005-09-01",
-            "venue": "Journal",
-            "volume": "40",
-            "issue": "9",
-            "page_range": "764-767",
-            "doi": "10.1007/s00127-005-0940-z"
         },
         {
             "title": "Prevalence of mild cognitive impairment in 60-to 64-year-old community-dwelling individuals: The personality and total health through life 60+ study",
@@ -14486,6 +14486,64 @@
             "doi": "10.1016/j.jad.2019.06.041"
         },
         {
+            "title": "Using Mobile phone sensor technology for mental health research: integrated analysis to identify hidden challenges and potential solutions",
+            "eid": "2-s2.0-85061232831",
+            "authors": [
+                {
+                    "scopus_id": "8975028000",
+                    "name": "Boonstra T.W.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "36876593500",
+                    "name": "Nicholas J.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "35097019600",
+                    "name": "Wong Q.J.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60017803"
+                    ]
+                },
+                {
+                    "scopus_id": "55325054500",
+                    "name": "Shaw F.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "57200031504",
+                    "name": "Townsend S.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 69,
+            "publication_name": "Journal of Medical Internet Research",
+            "issn": "",
+            "cover_date": "2018-07-01",
+            "venue": "Journal",
+            "volume": "20",
+            "issue": "7",
+            "page_range": null,
+            "doi": "10.2196/10131"
+        },
+        {
             "title": "Web-based and mobile suicide prevention interventions for young people: A Systematic Review",
             "eid": "2-s2.0-84970027952",
             "authors": [
@@ -14579,64 +14637,6 @@
             "doi": ""
         },
         {
-            "title": "Using Mobile phone sensor technology for mental health research: integrated analysis to identify hidden challenges and potential solutions",
-            "eid": "2-s2.0-85061232831",
-            "authors": [
-                {
-                    "scopus_id": "8975028000",
-                    "name": "Boonstra T.W.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "36876593500",
-                    "name": "Nicholas J.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "35097019600",
-                    "name": "Wong Q.J.",
-                    "affiliation_id": [
-                        "60028333",
-                        "60017803"
-                    ]
-                },
-                {
-                    "scopus_id": "55325054500",
-                    "name": "Shaw F.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "57200031504",
-                    "name": "Townsend S.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 68,
-            "publication_name": "Journal of Medical Internet Research",
-            "issn": "",
-            "cover_date": "2018-07-01",
-            "venue": "Journal",
-            "volume": "20",
-            "issue": "7",
-            "page_range": null,
-            "doi": "10.2196/10131"
-        },
-        {
             "title": "Suicide literacy, suicide stigma and help-seeking intentions in Australian medical students",
             "eid": "2-s2.0-84902274175",
             "authors": [
@@ -14680,6 +14680,77 @@
             "doi": "10.1177/1039856214522528"
         },
         {
+            "title": "Mental health literacy, folic acid and vitamin B<inf>12</inf>, and physical activity for the prevention of depression in older adults: Randomised controlled trial",
+            "eid": "2-s2.0-77954600956",
+            "authors": [
+                {
+                    "scopus_id": "9039358100",
+                    "name": "Walker J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7101756037",
+                    "name": "Mackinnon A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "8848851000",
+                    "name": "Batterham P.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7102651196",
+                    "name": "Jorm A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "17734678500",
+                    "name": "Hickie I.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "57191651610",
+                    "name": "McCarthy A.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57203071846",
+                    "name": "Fenech M.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 68,
+            "publication_name": "British Journal of Psychiatry",
+            "issn": "00071250",
+            "cover_date": "2010-07-01",
+            "venue": "Journal",
+            "volume": "197",
+            "issue": "1",
+            "page_range": "45-54",
+            "doi": "10.1192/bjp.bp.109.075291"
+        },
+        {
             "title": "Improving screening accuracy for dementia in a community sample by augmenting cognitive testing with informant report",
             "eid": "2-s2.0-0037951797",
             "authors": [
@@ -14687,7 +14758,7 @@
                     "scopus_id": "7101756037",
                     "name": "Mackinnon A.",
                     "affiliation_id": [
-                        "60019578"
+                        "60012932"
                     ]
                 },
                 {
@@ -14699,14 +14770,14 @@
                 },
                 {
                     "scopus_id": "7102651196",
-                    "name": "Jorm A.",
+                    "name": "Jorm A.F.",
                     "affiliation_id": [
                         "60008950"
                     ]
                 },
                 {
                     "scopus_id": "57208463558",
-                    "name": "Korten A.",
+                    "name": "Korten A.E.",
                     "affiliation_id": [
                         "60008950"
                     ]
@@ -14852,77 +14923,6 @@
             "issue": "3",
             "page_range": "139-170",
             "doi": "10.1007/s10935-010-0214-8"
-        },
-        {
-            "title": "Mental health literacy, folic acid and vitamin B<inf>12</inf>, and physical activity for the prevention of depression in older adults: Randomised controlled trial",
-            "eid": "2-s2.0-77954600956",
-            "authors": [
-                {
-                    "scopus_id": "9039358100",
-                    "name": "Walker J.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7101756037",
-                    "name": "Mackinnon A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "8848851000",
-                    "name": "Batterham P.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7102651196",
-                    "name": "Jorm A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "17734678500",
-                    "name": "Hickie I.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "57191651610",
-                    "name": "McCarthy A.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "57203071846",
-                    "name": "Fenech M.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 67,
-            "publication_name": "British Journal of Psychiatry",
-            "issn": "00071250",
-            "cover_date": "2010-07-01",
-            "venue": "Journal",
-            "volume": "197",
-            "issue": "1",
-            "page_range": "45-54",
-            "doi": "10.1192/bjp.bp.109.075291"
         },
         {
             "title": "Effect of Engagement With Digital Interventions on Mental Health Outcomes: A Systematic Review and Meta-Analysis",
@@ -15322,6 +15322,111 @@
             "doi": "10.1017/S0033291700027446"
         },
         {
+            "title": "The Emerging Imperative for a Consensus Approach Toward the Rating and Clinical Recommendation of Mental Health Apps",
+            "eid": "2-s2.0-85047275974",
+            "authors": [
+                {
+                    "scopus_id": "55816955800",
+                    "name": "Torous J.",
+                    "affiliation_id": [
+                        "60002746"
+                    ]
+                },
+                {
+                    "scopus_id": "56503241000",
+                    "name": "Firth J.",
+                    "affiliation_id": [
+                        "60017803"
+                    ]
+                },
+                {
+                    "scopus_id": "34976592100",
+                    "name": "Huckvale K.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "26321595700",
+                    "name": "Larsen M.E.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "55948960700",
+                    "name": "Cosco T.D.",
+                    "affiliation_id": [
+                        "60002634",
+                        "60018491"
+                    ]
+                },
+                {
+                    "scopus_id": "56999993300",
+                    "name": "Carney R.",
+                    "affiliation_id": [
+                        "60172345",
+                        "60122796"
+                    ]
+                },
+                {
+                    "scopus_id": "56364328200",
+                    "name": "Chan S.",
+                    "affiliation_id": [
+                        "60023691"
+                    ]
+                },
+                {
+                    "scopus_id": "57189352075",
+                    "name": "Pratap A.",
+                    "affiliation_id": [
+                        "60028333",
+                        "124242681",
+                        "60111926"
+                    ]
+                },
+                {
+                    "scopus_id": "7005100798",
+                    "name": "Yellowlees P.",
+                    "affiliation_id": [
+                        "60014439"
+                    ]
+                },
+                {
+                    "scopus_id": "7005058916",
+                    "name": "Wykes T.",
+                    "affiliation_id": [
+                        "60011520",
+                        "60028884"
+                    ]
+                },
+                {
+                    "scopus_id": "57226217726",
+                    "name": "Keshavan M.",
+                    "affiliation_id": [
+                        "60002746"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60082336"
+                    ]
+                }
+            ],
+            "citations": 62,
+            "publication_name": "Journal of Nervous and Mental Disease",
+            "issn": "00223018",
+            "cover_date": "2018-08-01",
+            "venue": "Journal",
+            "volume": "206",
+            "issue": "8",
+            "page_range": "662-666",
+            "doi": "10.1097/NMD.0000000000000864"
+        },
+        {
             "title": "The Self-Stigma of Depression Scale (SSDS): Development and psychometric evaluation of a new instrument",
             "eid": "2-s2.0-78649598802",
             "authors": [
@@ -15363,6 +15468,35 @@
             "issue": "4",
             "page_range": "243-254",
             "doi": "10.1002/mpr.325"
+        },
+        {
+            "title": "E-mental health: A new era in delivery of mental health services",
+            "eid": "2-s2.0-77955876022",
+            "authors": [
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "17734678500",
+                    "name": "Hickie I.B.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 62,
+            "publication_name": "Medical Journal of Australia",
+            "issn": "0025729X",
+            "cover_date": "2010-06-07",
+            "venue": "Journal",
+            "volume": "192",
+            "issue": "SUPPL. 11",
+            "page_range": null,
+            "doi": "10.5694/j.1326-5377.2010.tb03684.x"
         },
         {
             "title": "Association of Adverse Childhood Experiences, Age of Menarche, and Adult Reproductive Behavior: Does the Androgen Receptor Gene Play a Role?",
@@ -15471,140 +15605,6 @@
             "issue": "3",
             "page_range": "214-228",
             "doi": "10.1076/anec.6.3.214.779"
-        },
-        {
-            "title": "The Emerging Imperative for a Consensus Approach Toward the Rating and Clinical Recommendation of Mental Health Apps",
-            "eid": "2-s2.0-85047275974",
-            "authors": [
-                {
-                    "scopus_id": "55816955800",
-                    "name": "Torous J.",
-                    "affiliation_id": [
-                        "60002746"
-                    ]
-                },
-                {
-                    "scopus_id": "56503241000",
-                    "name": "Firth J.",
-                    "affiliation_id": [
-                        "60017803"
-                    ]
-                },
-                {
-                    "scopus_id": "34976592100",
-                    "name": "Huckvale K.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "26321595700",
-                    "name": "Larsen M.E.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "55948960700",
-                    "name": "Cosco T.D.",
-                    "affiliation_id": [
-                        "60002634",
-                        "60018491"
-                    ]
-                },
-                {
-                    "scopus_id": "56999993300",
-                    "name": "Carney R.",
-                    "affiliation_id": [
-                        "60172345",
-                        "60122796"
-                    ]
-                },
-                {
-                    "scopus_id": "56364328200",
-                    "name": "Chan S.",
-                    "affiliation_id": [
-                        "60023691"
-                    ]
-                },
-                {
-                    "scopus_id": "57189352075",
-                    "name": "Pratap A.",
-                    "affiliation_id": [
-                        "60028333",
-                        "124242681",
-                        "60111926"
-                    ]
-                },
-                {
-                    "scopus_id": "7005100798",
-                    "name": "Yellowlees P.",
-                    "affiliation_id": [
-                        "60014439"
-                    ]
-                },
-                {
-                    "scopus_id": "7005058916",
-                    "name": "Wykes T.",
-                    "affiliation_id": [
-                        "60011520",
-                        "60028884"
-                    ]
-                },
-                {
-                    "scopus_id": "57226217726",
-                    "name": "Keshavan M.",
-                    "affiliation_id": [
-                        "60002746"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60028333",
-                        "60082336"
-                    ]
-                }
-            ],
-            "citations": 61,
-            "publication_name": "Journal of Nervous and Mental Disease",
-            "issn": "00223018",
-            "cover_date": "2018-08-01",
-            "venue": "Journal",
-            "volume": "206",
-            "issue": "8",
-            "page_range": "662-666",
-            "doi": "10.1097/NMD.0000000000000864"
-        },
-        {
-            "title": "E-mental health: A new era in delivery of mental health services",
-            "eid": "2-s2.0-77955876022",
-            "authors": [
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "17734678500",
-                    "name": "Hickie I.B.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                }
-            ],
-            "citations": 61,
-            "publication_name": "Medical Journal of Australia",
-            "issn": "0025729X",
-            "cover_date": "2010-06-07",
-            "venue": "Journal",
-            "volume": "192",
-            "issue": "SUPPL. 11",
-            "page_range": null,
-            "doi": "10.5694/j.1326-5377.2010.tb03684.x"
         },
         {
             "title": "Attitudes towards people with depression: Effects on the public's help-seeking and outcome when experiencing common psychiatric symptoms",
@@ -16147,7 +16147,7 @@
                     "scopus_id": "6603015547",
                     "name": "Conus P.",
                     "affiliation_id": [
-                        "60023561"
+                        "60013793"
                     ]
                 },
                 {
@@ -18166,6 +18166,71 @@
             "doi": "10.1016/j.pscychresns.2007.06.005"
         },
         {
+            "title": "Tell Your Story: A randomized controlled trial of an online intervention to reduce mental health stigma and increase help-seeking in refugee men with posttraumatic stress",
+            "eid": "2-s2.0-85064939552",
+            "authors": [
+                {
+                    "scopus_id": "23668493300",
+                    "name": "Nickerson A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "56436891100",
+                    "name": "Byrow Y.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "55754895100",
+                    "name": "Pajak R.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "12765046900",
+                    "name": "McMahon T.",
+                    "affiliation_id": [
+                        "122474225",
+                        "60020828"
+                    ]
+                },
+                {
+                    "scopus_id": "7402594156",
+                    "name": "Bryant R.A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "35475812800",
+                    "name": "Liddell B.J.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 41,
+            "publication_name": "Psychological Medicine",
+            "issn": "00332917",
+            "cover_date": "2020-04-01",
+            "venue": "Journal",
+            "volume": "50",
+            "issue": "5",
+            "page_range": "781-792",
+            "doi": "10.1017/S0033291719000606"
+        },
+        {
             "title": "Multiple imputation was an efficient method for harmonizing the Mini-Mental State Examination with missing item-level data",
             "eid": "2-s2.0-79956215755",
             "authors": [
@@ -18458,71 +18523,6 @@
             "doi": "10.1258/jtt.2007.070610"
         },
         {
-            "title": "Tell Your Story: A randomized controlled trial of an online intervention to reduce mental health stigma and increase help-seeking in refugee men with posttraumatic stress",
-            "eid": "2-s2.0-85064939552",
-            "authors": [
-                {
-                    "scopus_id": "23668493300",
-                    "name": "Nickerson A.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "56436891100",
-                    "name": "Byrow Y.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "55754895100",
-                    "name": "Pajak R.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "12765046900",
-                    "name": "McMahon T.",
-                    "affiliation_id": [
-                        "122474225",
-                        "60020828"
-                    ]
-                },
-                {
-                    "scopus_id": "7402594156",
-                    "name": "Bryant R.A.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "35475812800",
-                    "name": "Liddell B.J.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 40,
-            "publication_name": "Psychological Medicine",
-            "issn": "00332917",
-            "cover_date": "2020-04-01",
-            "venue": "Journal",
-            "volume": "50",
-            "issue": "5",
-            "page_range": "781-792",
-            "doi": "10.1017/S0033291719000606"
-        },
-        {
             "title": "The use of technology in Suicide Prevention",
             "eid": "2-s2.0-84953315627",
             "authors": [
@@ -18733,7 +18733,7 @@
                     "scopus_id": "7102284091",
                     "name": "Sachdev P.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 }
             ],
@@ -19603,7 +19603,7 @@
                     ]
                 }
             ],
-            "citations": 36,
+            "citations": 37,
             "publication_name": "Australasian Psychiatry",
             "issn": "10398562",
             "cover_date": "2018-04-01",
@@ -21686,6 +21686,63 @@
             "doi": "10.4324/9780203837665-9"
         },
         {
+            "title": "The upside: coping and psychological resilience in Australian adolescents during the COVID-19 pandemic",
+            "eid": "2-s2.0-85121440243",
+            "authors": [
+                {
+                    "scopus_id": "57105395800",
+                    "name": "Beames J.R.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "36572006100",
+                    "name": "Li S.H.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "36904822100",
+                    "name": "Newby J.M.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "57192943949",
+                    "name": "Maston K.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "22952586300",
+                    "name": "Werner-Seidler A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 28,
+            "publication_name": "Child and Adolescent Psychiatry and Mental Health",
+            "issn": "",
+            "cover_date": "2021-12-01",
+            "venue": "Journal",
+            "volume": "15",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s13034-021-00432-z"
+        },
+        {
             "title": "The Literacy of Suicide Scale: Development, Validation, and Application",
             "eid": "2-s2.0-85108221263",
             "authors": [
@@ -21813,6 +21870,63 @@
             "issue": "SUPPL. 11",
             "page_range": null,
             "doi": "10.5694/j.1326-5377.2010.tb03694.x"
+        },
+        {
+            "title": "The impact of employee level and work stress on mental health and GP service use: An analysis of a sample of Australian government employees",
+            "eid": "2-s2.0-8844253958",
+            "authors": [
+                {
+                    "scopus_id": "7005689474",
+                    "name": "Parslow R.A.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7102651196",
+                    "name": "Jorm A.F.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7005480372",
+                    "name": "Broom D.H.",
+                    "affiliation_id": [
+                        "60075989"
+                    ]
+                },
+                {
+                    "scopus_id": "6601971452",
+                    "name": "Strazdins L.",
+                    "affiliation_id": [
+                        "60075989"
+                    ]
+                },
+                {
+                    "scopus_id": "19642361500",
+                    "name": "D'Souza R.M.",
+                    "affiliation_id": [
+                        "60075989"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "BMC Public Health",
+            "issn": "14712458",
+            "cover_date": "2004-09-30",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1186/1471-2458-4-41"
         },
         {
             "title": "Information technology as the key to accelerating advances in mental health care",
@@ -21964,120 +22078,6 @@
             "issue": "6",
             "page_range": "600-606",
             "doi": "10.1016/j.intell.2008.10.001"
-        },
-        {
-            "title": "The impact of employee level and work stress on mental health and GP service use: An analysis of a sample of Australian government employees",
-            "eid": "2-s2.0-8844253958",
-            "authors": [
-                {
-                    "scopus_id": "7005689474",
-                    "name": "Parslow R.A.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7102651196",
-                    "name": "Jorm A.F.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7005480372",
-                    "name": "Broom D.H.",
-                    "affiliation_id": [
-                        "60075989"
-                    ]
-                },
-                {
-                    "scopus_id": "6601971452",
-                    "name": "Strazdins L.",
-                    "affiliation_id": [
-                        "60075989"
-                    ]
-                },
-                {
-                    "scopus_id": "19642361500",
-                    "name": "D'Souza R.M.",
-                    "affiliation_id": [
-                        "60075989"
-                    ]
-                }
-            ],
-            "citations": 26,
-            "publication_name": "BMC Public Health",
-            "issn": "14712458",
-            "cover_date": "2004-09-30",
-            "venue": "Journal",
-            "volume": "4",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1186/1471-2458-4-41"
-        },
-        {
-            "title": "The upside: coping and psychological resilience in Australian adolescents during the COVID-19 pandemic",
-            "eid": "2-s2.0-85121440243",
-            "authors": [
-                {
-                    "scopus_id": "57105395800",
-                    "name": "Beames J.R.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "36572006100",
-                    "name": "Li S.H.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "36904822100",
-                    "name": "Newby J.M.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "57192943949",
-                    "name": "Maston K.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "22952586300",
-                    "name": "Werner-Seidler A.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 26,
-            "publication_name": "Child and Adolescent Psychiatry and Mental Health",
-            "issn": "",
-            "cover_date": "2021-12-01",
-            "venue": "Journal",
-            "volume": "15",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1186/s13034-021-00432-z"
         },
         {
             "title": "A web-based cognitive behavior therapy intervention to improve social and occupational functioning in adults with type 2 diabetes (the SpringboarD trial): Randomized controlled trial",
@@ -24698,6 +24698,70 @@
             "doi": "10.1002/(SICI)1099-1166(199701)12:1<93::AID-GPS468>3.0.CO;2-C"
         },
         {
+            "title": "Use of web conferencing technology for conducting online focus groups among young people with lived experience of suicidal thoughts: Mixed methods research",
+            "eid": "2-s2.0-85100150045",
+            "authors": [
+                {
+                    "scopus_id": "57189047780",
+                    "name": "Han J.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "57274313900",
+                    "name": "Torok M.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "56909666500",
+                    "name": "Gale N.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "35097019600",
+                    "name": "Wong Q.J.J.",
+                    "affiliation_id": [
+                        "60017803"
+                    ]
+                },
+                {
+                    "scopus_id": "22952586300",
+                    "name": "Werner-Seidler A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "16444162500",
+                    "name": "Hetrick S.E.",
+                    "affiliation_id": [
+                        "60005686"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 20,
+            "publication_name": "JMIR Mental Health",
+            "issn": "",
+            "cover_date": "2019-10-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "10",
+            "page_range": null,
+            "doi": "10.2196/14191"
+        },
+        {
             "title": "Tailored implementation of internet-based cognitive behavioural therapy in the multinational context of the ImpleMentAll project: a study protocol for a stepped wedge cluster randomized trial",
             "eid": "2-s2.0-85094825846",
             "authors": [
@@ -25359,70 +25423,6 @@
             "doi": "10.1071/AH020109a"
         },
         {
-            "title": "Use of web conferencing technology for conducting online focus groups among young people with lived experience of suicidal thoughts: Mixed methods research",
-            "eid": "2-s2.0-85100150045",
-            "authors": [
-                {
-                    "scopus_id": "57189047780",
-                    "name": "Han J.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "57274313900",
-                    "name": "Torok M.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "56909666500",
-                    "name": "Gale N.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "35097019600",
-                    "name": "Wong Q.J.J.",
-                    "affiliation_id": [
-                        "60017803"
-                    ]
-                },
-                {
-                    "scopus_id": "22952586300",
-                    "name": "Werner-Seidler A.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "16444162500",
-                    "name": "Hetrick S.E.",
-                    "affiliation_id": [
-                        "60005686"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 19,
-            "publication_name": "JMIR Mental Health",
-            "issn": "",
-            "cover_date": "2019-10-01",
-            "venue": "Journal",
-            "volume": "6",
-            "issue": "10",
-            "page_range": null,
-            "doi": "10.2196/14191"
-        },
-        {
             "title": "A trial protocol for the effectiveness of digital interventions for preventing depression in adolescents: The Future Proofing Study",
             "eid": "2-s2.0-85077357189",
             "authors": [
@@ -25614,7 +25614,7 @@
                     "scopus_id": "35093839500",
                     "name": "Gayed A.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 },
                 {
@@ -25672,7 +25672,7 @@
                     "scopus_id": "55457364200",
                     "name": "Mykletun A.",
                     "affiliation_id": [
-                        "60028333",
+                        "60082336",
                         "60011916",
                         "60021255",
                         "60068727",
@@ -25747,6 +25747,82 @@
             "issue": "12",
             "page_range": null,
             "doi": "10.1371/journal.pone.0189877"
+        },
+        {
+            "title": "The Sources of Strength Australia Project: Study protocol for a cluster randomised controlled trial",
+            "eid": "2-s2.0-84979297858",
+            "authors": [
+                {
+                    "scopus_id": "28767584600",
+                    "name": "Calear A.L.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "16068083000",
+                    "name": "Brewer J.L.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "8848851000",
+                    "name": "Batterham P.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7101756037",
+                    "name": "Mackinnon A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7003729856",
+                    "name": "Wyman P.A.",
+                    "affiliation_id": [
+                        "60012831"
+                    ]
+                },
+                {
+                    "scopus_id": "36457035900",
+                    "name": "LoMurray M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "6701437912",
+                    "name": "Shand F.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "56955326200",
+                    "name": "Kazan D.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 19,
+            "publication_name": "Trials",
+            "issn": "",
+            "cover_date": "2016-07-26",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/s13063-016-1475-1"
         },
         {
             "title": "Apolipoprotein e \u03b54 and later-life decline in cognitive function and grip strength",
@@ -26230,82 +26306,6 @@
             "doi": "10.1080/13811118.2016.1162246"
         },
         {
-            "title": "The Sources of Strength Australia Project: Study protocol for a cluster randomised controlled trial",
-            "eid": "2-s2.0-84979297858",
-            "authors": [
-                {
-                    "scopus_id": "28767584600",
-                    "name": "Calear A.L.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "16068083000",
-                    "name": "Brewer J.L.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "8848851000",
-                    "name": "Batterham P.J.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7101756037",
-                    "name": "Mackinnon A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7003729856",
-                    "name": "Wyman P.A.",
-                    "affiliation_id": [
-                        "60012831"
-                    ]
-                },
-                {
-                    "scopus_id": "36457035900",
-                    "name": "LoMurray M.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "6701437912",
-                    "name": "Shand F.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "56955326200",
-                    "name": "Kazan D.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 18,
-            "publication_name": "Trials",
-            "issn": "",
-            "cover_date": "2016-07-26",
-            "venue": "Journal",
-            "volume": "17",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1186/s13063-016-1475-1"
-        },
-        {
             "title": "Mapping dynamic social networks in real life using participants' own smartphones",
             "eid": "2-s2.0-84961753667",
             "authors": [
@@ -26480,6 +26480,70 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1177/20552076221098268"
+        },
+        {
+            "title": "Addressing the mental health of school students: Perspectives of secondary school teachers and counselors",
+            "eid": "2-s2.0-85096146112",
+            "authors": [
+                {
+                    "scopus_id": "57105395800",
+                    "name": "Beames J.R.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "57200604601",
+                    "name": "Johnston L.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "53463995900",
+                    "name": "O\u2019Dea B.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "57274313900",
+                    "name": "Torok M.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7003742118",
+                    "name": "Boydell K.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "22952586300",
+                    "name": "Werner-Seidler A.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                }
+            ],
+            "citations": 17,
+            "publication_name": "International Journal of School and Educational Psychology",
+            "issn": "21683603",
+            "cover_date": "2022-01-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "1",
+            "page_range": "128-143",
+            "doi": "10.1080/21683603.2020.1838367"
         },
         {
             "title": "Participatory Budgeting in Australian Local Government: An Initial Assessment and Critical Issues",
@@ -26740,40 +26804,33 @@
             "doi": "10.1017/S1041610204000298"
         },
         {
-            "title": "Addressing the mental health of school students: Perspectives of secondary school teachers and counselors",
-            "eid": "2-s2.0-85096146112",
+            "title": "Application of the inter-personal psychological theory of suicide in a non-clinical community-based adolescent population",
+            "eid": "2-s2.0-85110680949",
             "authors": [
                 {
-                    "scopus_id": "57105395800",
-                    "name": "Beames J.R.",
+                    "scopus_id": "28767584600",
+                    "name": "Calear A.L.",
                     "affiliation_id": [
-                        "60028333"
+                        "60008950"
                     ]
                 },
                 {
-                    "scopus_id": "57200604601",
-                    "name": "Johnston L.",
+                    "scopus_id": "54583860400",
+                    "name": "McCallum S.",
                     "affiliation_id": [
-                        "60028333"
+                        "60008950"
                     ]
                 },
                 {
-                    "scopus_id": "53463995900",
-                    "name": "O\u2019Dea B.",
+                    "scopus_id": "56955326200",
+                    "name": "Kazan D.",
                     "affiliation_id": [
-                        "60028333"
+                        "60008950"
                     ]
                 },
                 {
-                    "scopus_id": "57274313900",
-                    "name": "Torok M.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7003742118",
-                    "name": "Boydell K.",
+                    "scopus_id": "22952586300",
+                    "name": "Werner-Seidler A.",
                     "affiliation_id": [
                         "60028333"
                     ]
@@ -26786,22 +26843,83 @@
                     ]
                 },
                 {
-                    "scopus_id": "22952586300",
-                    "name": "Werner-Seidler A.",
+                    "scopus_id": "8848851000",
+                    "name": "Batterham P.J.",
                     "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Journal of Affective Disorders",
+            "issn": "01650327",
+            "cover_date": "2021-11-01",
+            "venue": "Journal",
+            "volume": "294",
+            "issue": "",
+            "page_range": "235-240",
+            "doi": "10.1016/j.jad.2021.07.011"
+        },
+        {
+            "title": "Smooth Sailing: A Pilot Study of an Online, School-Based, Mental Health Service for Depression and Anxiety",
+            "eid": "2-s2.0-85072737386",
+            "authors": [
+                {
+                    "scopus_id": "53463995900",
+                    "name": "O\u2019Dea B.",
+                    "affiliation_id": [
+                        "60001801",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "56900435200",
+                    "name": "King C.",
+                    "affiliation_id": [
+                        "60001801",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "57201420976",
+                    "name": "Subotic-Kerry M.",
+                    "affiliation_id": [
+                        "60001801"
+                    ]
+                },
+                {
+                    "scopus_id": "57202280466",
+                    "name": "Achilles M.R.",
+                    "affiliation_id": [
+                        "60001801"
+                    ]
+                },
+                {
+                    "scopus_id": "6506049380",
+                    "name": "Cockayne N.",
+                    "affiliation_id": [
+                        "60001801",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60001801",
                         "60028333"
                     ]
                 }
             ],
             "citations": 16,
-            "publication_name": "International Journal of School and Educational Psychology",
-            "issn": "21683603",
-            "cover_date": "2022-01-01",
+            "publication_name": "Frontiers in Psychiatry",
+            "issn": "",
+            "cover_date": "2019-08-20",
             "venue": "Journal",
             "volume": "10",
-            "issue": "1",
-            "page_range": "128-143",
-            "doi": "10.1080/21683603.2020.1838367"
+            "issue": "",
+            "page_range": null,
+            "doi": "10.3389/fpsyt.2019.00574"
         },
         {
             "title": "A smartphone application for treating depressive symptoms: Study protocol for a randomised controlled trial",
@@ -27122,34 +27240,94 @@
             "doi": "10.1093/occmed/kqab142"
         },
         {
-            "title": "Application of the inter-personal psychological theory of suicide in a non-clinical community-based adolescent population",
-            "eid": "2-s2.0-85110680949",
+            "title": "Mental health screening in general practices as a means for enhancing uptake of digital mental health interventions: Observational cohort study",
+            "eid": "2-s2.0-85115648918",
             "authors": [
                 {
-                    "scopus_id": "28767584600",
-                    "name": "Calear A.L.",
+                    "scopus_id": "36877031100",
+                    "name": "Whitton A.E.",
                     "affiliation_id": [
-                        "60008950"
+                        "60104962",
+                        "60028333"
                     ]
                 },
                 {
-                    "scopus_id": "54583860400",
-                    "name": "McCallum S.",
+                    "scopus_id": "57271058100",
+                    "name": "Hardy R.",
                     "affiliation_id": [
-                        "60008950"
+                        "60104962"
                     ]
                 },
                 {
-                    "scopus_id": "56955326200",
-                    "name": "Kazan D.",
+                    "scopus_id": "57270898900",
+                    "name": "Cope K.",
                     "affiliation_id": [
-                        "60008950"
+                        "60104962"
                     ]
                 },
                 {
-                    "scopus_id": "22952586300",
-                    "name": "Werner-Seidler A.",
+                    "scopus_id": "57211407072",
+                    "name": "Gieng C.",
                     "affiliation_id": [
+                        "60104962"
+                    ]
+                },
+                {
+                    "scopus_id": "56114453100",
+                    "name": "Gow L.",
+                    "affiliation_id": [
+                        "60104962"
+                    ]
+                },
+                {
+                    "scopus_id": "7101756037",
+                    "name": "MacKinnon A.",
+                    "affiliation_id": [
+                        "60104962"
+                    ]
+                },
+                {
+                    "scopus_id": "56909666500",
+                    "name": "Gale N.",
+                    "affiliation_id": [
+                        "60104962"
+                    ]
+                },
+                {
+                    "scopus_id": "37047596200",
+                    "name": "O'Moore K.",
+                    "affiliation_id": [
+                        "60104962"
+                    ]
+                },
+                {
+                    "scopus_id": "56137362900",
+                    "name": "Anderson J.",
+                    "affiliation_id": [
+                        "60104962",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7006861788",
+                    "name": "Proudfoot J.",
+                    "affiliation_id": [
+                        "60104962",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "6506049380",
+                    "name": "Cockayne N.",
+                    "affiliation_id": [
+                        "60104962"
+                    ]
+                },
+                {
+                    "scopus_id": "53463995900",
+                    "name": "O'Dea B.",
+                    "affiliation_id": [
+                        "60104962",
                         "60028333"
                     ]
                 },
@@ -27157,26 +27335,28 @@
                     "scopus_id": "7401664450",
                     "name": "Christensen H.",
                     "affiliation_id": [
+                        "60104962",
                         "60028333"
                     ]
                 },
                 {
-                    "scopus_id": "8848851000",
-                    "name": "Batterham P.J.",
+                    "scopus_id": "36904822100",
+                    "name": "Newby J.M.",
                     "affiliation_id": [
-                        "60008950"
+                        "60104962",
+                        "60028333"
                     ]
                 }
             ],
             "citations": 15,
-            "publication_name": "Journal of Affective Disorders",
-            "issn": "01650327",
-            "cover_date": "2021-11-01",
+            "publication_name": "Journal of Medical Internet Research",
+            "issn": "",
+            "cover_date": "2021-09-01",
             "venue": "Journal",
-            "volume": "294",
-            "issue": "",
-            "page_range": "235-240",
-            "doi": "10.1016/j.jad.2021.07.011"
+            "volume": "23",
+            "issue": "9",
+            "page_range": null,
+            "doi": "10.2196/28369"
         },
         {
             "title": "A cluster randomised controlled trial of a web-based youth mental health service in Australian schools",
@@ -27554,67 +27734,6 @@
             "issue": "11",
             "page_range": null,
             "doi": "10.2196/14728"
-        },
-        {
-            "title": "Smooth Sailing: A Pilot Study of an Online, School-Based, Mental Health Service for Depression and Anxiety",
-            "eid": "2-s2.0-85072737386",
-            "authors": [
-                {
-                    "scopus_id": "53463995900",
-                    "name": "O\u2019Dea B.",
-                    "affiliation_id": [
-                        "60001801",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "56900435200",
-                    "name": "King C.",
-                    "affiliation_id": [
-                        "60001801",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "57201420976",
-                    "name": "Subotic-Kerry M.",
-                    "affiliation_id": [
-                        "60001801"
-                    ]
-                },
-                {
-                    "scopus_id": "57202280466",
-                    "name": "Achilles M.R.",
-                    "affiliation_id": [
-                        "60001801"
-                    ]
-                },
-                {
-                    "scopus_id": "6506049380",
-                    "name": "Cockayne N.",
-                    "affiliation_id": [
-                        "60001801",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60001801",
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Frontiers in Psychiatry",
-            "issn": "",
-            "cover_date": "2019-08-20",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.3389/fpsyt.2019.00574"
         },
         {
             "title": "Prediction of population health indices from social media using kernel-based textual and temporal features",
@@ -28175,125 +28294,6 @@
             "issue": "",
             "page_range": "172-188",
             "doi": "10.1016/j.jad.2022.01.054"
-        },
-        {
-            "title": "Mental health screening in general practices as a means for enhancing uptake of digital mental health interventions: Observational cohort study",
-            "eid": "2-s2.0-85115648918",
-            "authors": [
-                {
-                    "scopus_id": "36877031100",
-                    "name": "Whitton A.E.",
-                    "affiliation_id": [
-                        "60104962",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "57271058100",
-                    "name": "Hardy R.",
-                    "affiliation_id": [
-                        "60104962"
-                    ]
-                },
-                {
-                    "scopus_id": "57270898900",
-                    "name": "Cope K.",
-                    "affiliation_id": [
-                        "60104962"
-                    ]
-                },
-                {
-                    "scopus_id": "57211407072",
-                    "name": "Gieng C.",
-                    "affiliation_id": [
-                        "60104962"
-                    ]
-                },
-                {
-                    "scopus_id": "56114453100",
-                    "name": "Gow L.",
-                    "affiliation_id": [
-                        "60104962"
-                    ]
-                },
-                {
-                    "scopus_id": "7101756037",
-                    "name": "MacKinnon A.",
-                    "affiliation_id": [
-                        "60104962"
-                    ]
-                },
-                {
-                    "scopus_id": "56909666500",
-                    "name": "Gale N.",
-                    "affiliation_id": [
-                        "60104962"
-                    ]
-                },
-                {
-                    "scopus_id": "37047596200",
-                    "name": "O'Moore K.",
-                    "affiliation_id": [
-                        "60104962"
-                    ]
-                },
-                {
-                    "scopus_id": "56137362900",
-                    "name": "Anderson J.",
-                    "affiliation_id": [
-                        "60104962",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7006861788",
-                    "name": "Proudfoot J.",
-                    "affiliation_id": [
-                        "60104962",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "6506049380",
-                    "name": "Cockayne N.",
-                    "affiliation_id": [
-                        "60104962"
-                    ]
-                },
-                {
-                    "scopus_id": "53463995900",
-                    "name": "O'Dea B.",
-                    "affiliation_id": [
-                        "60104962",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60104962",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "36904822100",
-                    "name": "Newby J.M.",
-                    "affiliation_id": [
-                        "60104962",
-                        "60028333"
-                    ]
-                }
-            ],
-            "citations": 14,
-            "publication_name": "Journal of Medical Internet Research",
-            "issn": "",
-            "cover_date": "2021-09-01",
-            "venue": "Journal",
-            "volume": "23",
-            "issue": "9",
-            "page_range": null,
-            "doi": "10.2196/28369"
         },
         {
             "title": "A brief intervention to increase uptake and adherence of an internet-based program for depression and anxiety (Enhancing Engagement with Psychosocial Interventions): Randomized controlled trial",
@@ -29542,6 +29542,50 @@
             "doi": "10.1136/ebmental-2022-300540"
         },
         {
+            "title": "Resilience to suicidal behavior in young adults: a cross-sectional study",
+            "eid": "2-s2.0-85133534510",
+            "authors": [
+                {
+                    "scopus_id": "57189047780",
+                    "name": "Han J.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "57212453579",
+                    "name": "Wong I.",
+                    "affiliation_id": [
+                        "60028333",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "8848851000",
+                    "name": "Batterham P.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Scientific Reports",
+            "issn": "",
+            "cover_date": "2022-12-01",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1038/s41598-022-15468-0"
+        },
+        {
             "title": "A mobile health intervention (LifeBuoy App) to help young people manage suicidal thoughts: protocol for a mixed-methods randomized controlled trial",
             "eid": "2-s2.0-85095804953",
             "authors": [
@@ -29849,7 +29893,7 @@
                     "scopus_id": "7102284091",
                     "name": "Sachdev P.",
                     "affiliation_id": [
-                        "60028333"
+                        "60082336"
                     ]
                 }
             ],
@@ -30064,50 +30108,6 @@
             "issue": "6",
             "page_range": "739-747",
             "doi": "10.1016/0191-8869(95)00011-T"
-        },
-        {
-            "title": "Resilience to suicidal behavior in young adults: a cross-sectional study",
-            "eid": "2-s2.0-85133534510",
-            "authors": [
-                {
-                    "scopus_id": "57189047780",
-                    "name": "Han J.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "57212453579",
-                    "name": "Wong I.",
-                    "affiliation_id": [
-                        "60028333",
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "8848851000",
-                    "name": "Batterham P.J.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                }
-            ],
-            "citations": 10,
-            "publication_name": "Scientific Reports",
-            "issn": "",
-            "cover_date": "2022-12-01",
-            "venue": "Journal",
-            "volume": "12",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1038/s41598-022-15468-0"
         },
         {
             "title": "Prevention of mental and substance use disorders: Shaping priorities for research and implementation",
@@ -30439,6 +30439,63 @@
             "issue": "12",
             "page_range": "832-837",
             "doi": ""
+        },
+        {
+            "title": "Hierarchical screening for multiple mental disorders",
+            "eid": "2-s2.0-84888636705",
+            "authors": [
+                {
+                    "scopus_id": "8848851000",
+                    "name": "Batterham P.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "28767584600",
+                    "name": "Calear A.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "55943860100",
+                    "name": "Sunderl M.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "24467456900",
+                    "name": "Carragher N.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7401664450",
+                    "name": "Christensen H.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7101756037",
+                    "name": "Mackinnon A.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "Journal of Affective Disorders",
+            "issn": "01650327",
+            "cover_date": "2013-01-01",
+            "venue": "Journal",
+            "volume": "151",
+            "issue": "1",
+            "page_range": "229-236",
+            "doi": "10.1016/j.jad.2013.05.085"
         },
         {
             "title": "Functional equivalence of the National Adult Reading Test (NART) and Schonell reading tests and NART norms in the Dynamic Analyses to Optimise Ageing (DYNOPTA) project",
@@ -31305,63 +31362,6 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1186/s12916-014-0212-4"
-        },
-        {
-            "title": "Hierarchical screening for multiple mental disorders",
-            "eid": "2-s2.0-84888636705",
-            "authors": [
-                {
-                    "scopus_id": "8848851000",
-                    "name": "Batterham P.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "28767584600",
-                    "name": "Calear A.",
-                    "affiliation_id": [
-                        "60008950"
-                    ]
-                },
-                {
-                    "scopus_id": "55943860100",
-                    "name": "Sunderl M.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "24467456900",
-                    "name": "Carragher N.",
-                    "affiliation_id": [
-                        "60109564"
-                    ]
-                },
-                {
-                    "scopus_id": "7401664450",
-                    "name": "Christensen H.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7101756037",
-                    "name": "Mackinnon A.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 9,
-            "publication_name": "Journal of Affective Disorders",
-            "issn": "01650327",
-            "cover_date": "2013-01-01",
-            "venue": "Journal",
-            "volume": "151",
-            "issue": "1",
-            "page_range": "229-236",
-            "doi": "10.1016/j.jad.2013.05.085"
         },
         {
             "title": "Suicide prevention: Signposts for a new approach",
@@ -37440,6 +37440,5 @@
             "$": "Neuroscience (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:13:31",
-    "c-score": null
+    "date fetched": "2024-07-12 19:53:37"
 }

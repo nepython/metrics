@@ -1,0 +1,2166 @@
+{
+    "scopus_id": "55522699200",
+    "name": "Jacklyn, Gemma L.",
+    "publications": [
+        {
+            "title": "A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990-2010: A systematic analysis for the Global Burden of Disease Study 2010",
+            "eid": "2-s2.0-84871055775",
+            "authors": [
+                {
+                    "scopus_id": "7404081544",
+                    "name": "Lim S.S.",
+                    "affiliation_id": [
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "57223885848",
+                    "name": "Vos T.",
+                    "affiliation_id": [
+                        "100544461"
+                    ]
+                },
+                {
+                    "scopus_id": "6602883567",
+                    "name": "Flaxman A.D.",
+                    "affiliation_id": [
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "15730459500",
+                    "name": "Danaei G.",
+                    "affiliation_id": [
+                        "100927899"
+                    ]
+                },
+                {
+                    "scopus_id": "8948057900",
+                    "name": "Shibuya K.",
+                    "affiliation_id": [
+                        "60009982"
+                    ]
+                },
+                {
+                    "scopus_id": "55522258400",
+                    "name": "Adair-Rohani H.",
+                    "affiliation_id": [
+                        "113261886",
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "34568413600",
+                    "name": "Amann M.",
+                    "affiliation_id": [
+                        "60019497"
+                    ]
+                },
+                {
+                    "scopus_id": "7402166391",
+                    "name": "Anderson H.R.",
+                    "affiliation_id": [
+                        "60029329"
+                    ]
+                },
+                {
+                    "scopus_id": "54956125400",
+                    "name": "Andrews K.G.",
+                    "affiliation_id": [
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "25631926600",
+                    "name": "Aryee M.",
+                    "affiliation_id": [
+                        "106441315"
+                    ]
+                },
+                {
+                    "scopus_id": "57200782428",
+                    "name": "Atkinson C.",
+                    "affiliation_id": [
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "6603035967",
+                    "name": "Bacchus L.J.",
+                    "affiliation_id": [
+                        "60031331"
+                    ]
+                },
+                {
+                    "scopus_id": "36894681300",
+                    "name": "Bahalim A.N.",
+                    "affiliation_id": [
+                        "122201768"
+                    ]
+                },
+                {
+                    "scopus_id": "7103222725",
+                    "name": "Balakrishnan K.",
+                    "affiliation_id": [
+                        "60023483"
+                    ]
+                },
+                {
+                    "scopus_id": "7005041892",
+                    "name": "Balmes J.",
+                    "affiliation_id": [
+                        "100927899"
+                    ]
+                },
+                {
+                    "scopus_id": "57193065514",
+                    "name": "Barker-Collo S.",
+                    "affiliation_id": [
+                        "100927899"
+                    ]
+                },
+                {
+                    "scopus_id": "36650484400",
+                    "name": "Baxter A.",
+                    "affiliation_id": [
+                        "101616071"
+                    ]
+                },
+                {
+                    "scopus_id": "7401466450",
+                    "name": "Bell M.L.",
+                    "affiliation_id": [
+                        "60005455"
+                    ]
+                },
+                {
+                    "scopus_id": "55522890800",
+                    "name": "Blore J.D.",
+                    "affiliation_id": [
+                        "100544461"
+                    ]
+                },
+                {
+                    "scopus_id": "6603553964",
+                    "name": "Blyth F.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "52263228800",
+                    "name": "Bonner C.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "35373585600",
+                    "name": "Borges G.",
+                    "affiliation_id": [
+                        "60001818",
+                        "60032442"
+                    ]
+                },
+                {
+                    "scopus_id": "7103377631",
+                    "name": "Bourne R.",
+                    "affiliation_id": [
+                        "60000913"
+                    ]
+                },
+                {
+                    "scopus_id": "7005196422",
+                    "name": "Boussinesq M.",
+                    "affiliation_id": [
+                        "60028993"
+                    ]
+                },
+                {
+                    "scopus_id": "57218330976",
+                    "name": "Brauer M.",
+                    "affiliation_id": [
+                        "60010365"
+                    ]
+                },
+                {
+                    "scopus_id": "35374555300",
+                    "name": "Brooks P.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7102846570",
+                    "name": "Bruce N.G.",
+                    "affiliation_id": [
+                        "60020661"
+                    ]
+                },
+                {
+                    "scopus_id": "7103344174",
+                    "name": "Brunekreef B.",
+                    "affiliation_id": [
+                        "60117216"
+                    ]
+                },
+                {
+                    "scopus_id": "35361646700",
+                    "name": "Bryan-Hancock C.",
+                    "affiliation_id": [
+                        "60020828"
+                    ]
+                },
+                {
+                    "scopus_id": "57202571872",
+                    "name": "Bucello C.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7004966093",
+                    "name": "Buchbinder R.",
+                    "affiliation_id": [
+                        "60009442",
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "7006165716",
+                    "name": "Bull F.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "26643599300",
+                    "name": "Burnett R.T.",
+                    "affiliation_id": [
+                        "60018495"
+                    ]
+                },
+                {
+                    "scopus_id": "7101846611",
+                    "name": "Byers T.E.",
+                    "affiliation_id": [
+                        "60104705"
+                    ]
+                },
+                {
+                    "scopus_id": "57205464614",
+                    "name": "Calabria B.",
+                    "affiliation_id": [
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7003343936",
+                    "name": "Carapetis J.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "55522911000",
+                    "name": "Carnahan E.",
+                    "affiliation_id": [
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "55801050800",
+                    "name": "Chafe Z.",
+                    "affiliation_id": [
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "57191632086",
+                    "name": "Charlson F.",
+                    "affiliation_id": [
+                        "100544461"
+                    ]
+                },
+                {
+                    "scopus_id": "35331605500",
+                    "name": "Chen H.",
+                    "affiliation_id": [
+                        "60028652"
+                    ]
+                },
+                {
+                    "scopus_id": "55523045600",
+                    "name": "Chen J.S.",
+                    "affiliation_id": [
+                        "101897732"
+                    ]
+                },
+                {
+                    "scopus_id": "13807227900",
+                    "name": "Cheng A.T.A.",
+                    "affiliation_id": [
+                        "60027614"
+                    ]
+                },
+                {
+                    "scopus_id": "55522775900",
+                    "name": "Child J.C.",
+                    "affiliation_id": [
+                        "60031331"
+                    ]
+                },
+                {
+                    "scopus_id": "7404780942",
+                    "name": "Cohen A.",
+                    "affiliation_id": [
+                        "100339343"
+                    ]
+                },
+                {
+                    "scopus_id": "57214065503",
+                    "name": "Colson K.E.",
+                    "affiliation_id": [
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "57202566182",
+                    "name": "Cowie B.C.",
+                    "affiliation_id": [
+                        "60003433"
+                    ]
+                },
+                {
+                    "scopus_id": "24550144100",
+                    "name": "Darby S.",
+                    "affiliation_id": [
+                        "60026851"
+                    ]
+                },
+                {
+                    "scopus_id": "55522387400",
+                    "name": "Darling S.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7404296836",
+                    "name": "Davis A.",
+                    "affiliation_id": [
+                        "113261503"
+                    ]
+                },
+                {
+                    "scopus_id": "7004040033",
+                    "name": "Degenhardt L.",
+                    "affiliation_id": [
+                        "113273302",
+                        "60109564"
+                    ]
+                },
+                {
+                    "scopus_id": "7003851845",
+                    "name": "Dentener F.",
+                    "affiliation_id": [
+                        "60029640"
+                    ]
+                },
+                {
+                    "scopus_id": "56990451200",
+                    "name": "Des Jarlais D.C.",
+                    "affiliation_id": [
+                        "60027954"
+                    ]
+                },
+                {
+                    "scopus_id": "7004422569",
+                    "name": "Devries K.",
+                    "affiliation_id": [
+                        "60031331"
+                    ]
+                },
+                {
+                    "scopus_id": "57216939981",
+                    "name": "Dherani M.",
+                    "affiliation_id": [
+                        "60020661"
+                    ]
+                },
+                {
+                    "scopus_id": "54413849800",
+                    "name": "Ding E.L.",
+                    "affiliation_id": [
+                        "100927899"
+                    ]
+                },
+                {
+                    "scopus_id": "23102496300",
+                    "name": "Dorsey E.R.",
+                    "affiliation_id": [
+                        "60005248"
+                    ]
+                },
+                {
+                    "scopus_id": "7005928308",
+                    "name": "Driscoll T.",
+                    "affiliation_id": [
+                        "100544461"
+                    ]
+                },
+                {
+                    "scopus_id": "57202571133",
+                    "name": "Edmond K.",
+                    "affiliation_id": [
+                        "60031331"
+                    ]
+                },
+                {
+                    "scopus_id": "57225860077",
+                    "name": "Ali S.E.",
+                    "affiliation_id": [
+                        "60071734"
+                    ]
+                },
+                {
+                    "scopus_id": "55523014400",
+                    "name": "Engell R.E.",
+                    "affiliation_id": [
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "7004707786",
+                    "name": "Erwin P.J.",
+                    "affiliation_id": [
+                        "60005558"
+                    ]
+                },
+                {
+                    "scopus_id": "57216775706",
+                    "name": "Fahimi S.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "55522428600",
+                    "name": "Falder G.",
+                    "affiliation_id": [
+                        "60031331",
+                        "60005686"
+                    ]
+                },
+                {
+                    "scopus_id": "57195049611",
+                    "name": "Farzadfar F.",
+                    "affiliation_id": [
+                        "60027708"
+                    ]
+                },
+                {
+                    "scopus_id": "57195348907",
+                    "name": "Ferrari A.",
+                    "affiliation_id": [
+                        "101616071"
+                    ]
+                },
+                {
+                    "scopus_id": "57214927679",
+                    "name": "Finucane M.M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35190257400",
+                    "name": "Flaxman S.",
+                    "affiliation_id": [
+                        "60027950"
+                    ]
+                },
+                {
+                    "scopus_id": "55395407300",
+                    "name": "Fowkes F.G.R.",
+                    "affiliation_id": [
+                        "60027272"
+                    ]
+                },
+                {
+                    "scopus_id": "55522738400",
+                    "name": "Freedman G.",
+                    "affiliation_id": [
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "57202595257",
+                    "name": "Freeman M.K.",
+                    "affiliation_id": [
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "6507025547",
+                    "name": "Gakidou E.",
+                    "affiliation_id": [
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "55574183196",
+                    "name": "Ghosh S.",
+                    "affiliation_id": [
+                        "60023483"
+                    ]
+                },
+                {
+                    "scopus_id": "57203069058",
+                    "name": "Giovannucci E.",
+                    "affiliation_id": [
+                        "100927899"
+                    ]
+                },
+                {
+                    "scopus_id": "7005638485",
+                    "name": "Gmel G.",
+                    "affiliation_id": [
+                        "60120187"
+                    ]
+                },
+                {
+                    "scopus_id": "35237336300",
+                    "name": "Graham K.",
+                    "affiliation_id": [
+                        "60015765"
+                    ]
+                },
+                {
+                    "scopus_id": "24366678000",
+                    "name": "Grainger R.",
+                    "affiliation_id": [
+                        "60017311",
+                        "60006577"
+                    ]
+                },
+                {
+                    "scopus_id": "26643490300",
+                    "name": "Grant B.",
+                    "affiliation_id": [
+                        "60006577"
+                    ]
+                },
+                {
+                    "scopus_id": "7006194937",
+                    "name": "Gunnell D.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "37052164500",
+                    "name": "Gutierrez H.R.",
+                    "affiliation_id": [
+                        "60012769"
+                    ]
+                },
+                {
+                    "scopus_id": "7402629359",
+                    "name": "Hall W.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "57202570421",
+                    "name": "Hoek H.W.",
+                    "affiliation_id": [
+                        "60031834"
+                    ]
+                },
+                {
+                    "scopus_id": "35237283700",
+                    "name": "Hogan A.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "56353204400",
+                    "name": "Hosgood H.D.",
+                    "affiliation_id": [
+                        "60002388"
+                    ]
+                },
+                {
+                    "scopus_id": "8553772600",
+                    "name": "Hoy D.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "55740738900",
+                    "name": "Hu H.",
+                    "affiliation_id": [
+                        "60016849"
+                    ]
+                },
+                {
+                    "scopus_id": "57192593982",
+                    "name": "Hubbell B.J.",
+                    "affiliation_id": [
+                        "60021439"
+                    ]
+                },
+                {
+                    "scopus_id": "57205464837",
+                    "name": "Hutchings S.J.",
+                    "affiliation_id": [
+                        "60015150"
+                    ]
+                },
+                {
+                    "scopus_id": "57201412738",
+                    "name": "Ibeanusi S.E.",
+                    "affiliation_id": [
+                        "60029544"
+                    ]
+                },
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.L.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55522640600",
+                    "name": "Jasrasaria R.",
+                    "affiliation_id": [
+                        "60091926"
+                    ]
+                },
+                {
+                    "scopus_id": "7202492953",
+                    "name": "Jonas J.B.",
+                    "affiliation_id": [
+                        "60257150"
+                    ]
+                },
+                {
+                    "scopus_id": "7101602991",
+                    "name": "Kan H.",
+                    "affiliation_id": [
+                        "60009860"
+                    ]
+                },
+                {
+                    "scopus_id": "7102759272",
+                    "name": "Kanis J.A.",
+                    "affiliation_id": [
+                        "60001881"
+                    ]
+                },
+                {
+                    "scopus_id": "55522621100",
+                    "name": "Kassebaum N.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "35377339000",
+                    "name": "Kawakami N.",
+                    "affiliation_id": [
+                        "60025272"
+                    ]
+                },
+                {
+                    "scopus_id": "57198904674",
+                    "name": "Khang Y.H.",
+                    "affiliation_id": [
+                        "60006240"
+                    ]
+                },
+                {
+                    "scopus_id": "16550322300",
+                    "name": "Khatibzadeh S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57201847663",
+                    "name": "Khoo J.P.",
+                    "affiliation_id": [
+                        "101616071"
+                    ]
+                },
+                {
+                    "scopus_id": "36899693900",
+                    "name": "Kok C.",
+                    "affiliation_id": [
+                        "113261968"
+                    ]
+                },
+                {
+                    "scopus_id": "56752552900",
+                    "name": "Laden F.",
+                    "affiliation_id": [
+                        "100927899"
+                    ]
+                }
+            ],
+            "citations": 9344,
+            "publication_name": "The Lancet",
+            "issn": "01406736",
+            "cover_date": "2012-01-01",
+            "venue": "Journal",
+            "volume": "380",
+            "issue": "9859",
+            "page_range": "2224-2260",
+            "doi": "10.1016/S0140-6736(12)61766-8"
+        },
+        {
+            "title": "Use of a decision aid including information on overdetection to support informed choice about breast cancer screening: A randomised controlled trial",
+            "eid": "2-s2.0-84933277459",
+            "authors": [
+                {
+                    "scopus_id": "35111091600",
+                    "name": "Hersch J.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8383675800",
+                    "name": "Jansen J.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006277368",
+                    "name": "Irwig L.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "6506555613",
+                    "name": "McGeechan K.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "57216903701",
+                    "name": "Thornton H.",
+                    "affiliation_id": [
+                        "60033125"
+                    ]
+                },
+                {
+                    "scopus_id": "16038463800",
+                    "name": "Dhillon H.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55408023300",
+                    "name": "Houssami N.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "6603770315",
+                    "name": "McCaffery K.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 225,
+            "publication_name": "The Lancet",
+            "issn": "01406736",
+            "cover_date": "2015-01-01",
+            "venue": "Journal",
+            "volume": "385",
+            "issue": "9978",
+            "page_range": "1642-1652",
+            "doi": "10.1016/S0140-6736(15)60123-4"
+        },
+        {
+            "title": "The global burden of occupationally related low back pain: Estimates from the Global Burden of Disease 2010 study",
+            "eid": "2-s2.0-84899967535",
+            "authors": [
+                {
+                    "scopus_id": "7005928308",
+                    "name": "Driscoll T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "36154834000",
+                    "name": "Orchard J.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "25655278100",
+                    "name": "Passmore E.",
+                    "affiliation_id": [
+                        "60011463"
+                    ]
+                },
+                {
+                    "scopus_id": "57223885848",
+                    "name": "Vos T.",
+                    "affiliation_id": [
+                        "60015481"
+                    ]
+                },
+                {
+                    "scopus_id": "55522738400",
+                    "name": "Freedman G.",
+                    "affiliation_id": [
+                        "60015481"
+                    ]
+                },
+                {
+                    "scopus_id": "7404081544",
+                    "name": "Lim S.",
+                    "affiliation_id": [
+                        "60015481"
+                    ]
+                },
+                {
+                    "scopus_id": "7004510433",
+                    "name": "Punnett L.",
+                    "affiliation_id": [
+                        "60033461"
+                    ]
+                }
+            ],
+            "citations": 200,
+            "publication_name": "Annals of the Rheumatic Diseases",
+            "issn": "00034967",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "73",
+            "issue": "6",
+            "page_range": "975-981",
+            "doi": "10.1136/annrheumdis-2013-204631"
+        },
+        {
+            "title": "The effect of information about overdetection of breast cancer on women's decision-making about mammography screening: Study protocol for a randomised controlled trial",
+            "eid": "2-s2.0-84901490412",
+            "authors": [
+                {
+                    "scopus_id": "35111091600",
+                    "name": "Hersch J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8383675800",
+                    "name": "Jansen J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55408023300",
+                    "name": "Houssami N.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "7006277368",
+                    "name": "Irwig L.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "16038463800",
+                    "name": "Dhillon H.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "57216903701",
+                    "name": "Thornton H.",
+                    "affiliation_id": [
+                        "60033125"
+                    ]
+                },
+                {
+                    "scopus_id": "6506555613",
+                    "name": "McGeechan K.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8686296400",
+                    "name": "Howard K.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "6603770315",
+                    "name": "McCaffery K.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 31,
+            "publication_name": "BMJ Open",
+            "issn": "",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "5",
+            "page_range": null,
+            "doi": "10.1136/bmjopen-2014-004990"
+        },
+        {
+            "title": "Meta-analysis of breast cancer mortality benefit and overdiagnosis adjusted for adherence: Improving information on the effects of attending screening mammography",
+            "eid": "2-s2.0-84971344193",
+            "authors": [
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55382766300",
+                    "name": "Glasziou P.",
+                    "affiliation_id": [
+                        "60031602",
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "6701799402",
+                    "name": "Macaskill P.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "British Journal of Cancer",
+            "issn": "00070920",
+            "cover_date": "2016-05-24",
+            "venue": "Journal",
+            "volume": "114",
+            "issue": "11",
+            "page_range": "1269-1276",
+            "doi": "10.1038/bjc.2016.90"
+        },
+        {
+            "title": "Overdetection in breast cancer screening: Development and preliminary evaluation of a decision aid",
+            "eid": "2-s2.0-84907509901",
+            "authors": [
+                {
+                    "scopus_id": "35111091600",
+                    "name": "Hersch J.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "8383675800",
+                    "name": "Jansen J.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006277368",
+                    "name": "Irwig L.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55408023300",
+                    "name": "Houssami N.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "57216903701",
+                    "name": "Thornton H.",
+                    "affiliation_id": [
+                        "60033125"
+                    ]
+                },
+                {
+                    "scopus_id": "16038463800",
+                    "name": "Dhillon H.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6603770315",
+                    "name": "McCaffery K.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "BMJ Open",
+            "issn": "",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "9",
+            "page_range": null,
+            "doi": "10.1136/bmjopen-2014-006016"
+        },
+        {
+            "title": "Screening for Cervical, Prostate, and Breast Cancer: Interpreting the Evidence",
+            "eid": "2-s2.0-84937521384",
+            "authors": [
+                {
+                    "scopus_id": "7402609472",
+                    "name": "Carter S.M.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "56368196200",
+                    "name": "Williams J.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "56662730400",
+                    "name": "Parker L.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "56699984000",
+                    "name": "Pickles K.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "56146876000",
+                    "name": "Rychetnik L.",
+                    "affiliation_id": [
+                        "60031487"
+                    ]
+                },
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "American Journal of Preventive Medicine",
+            "issn": "07493797",
+            "cover_date": "2015-08-01",
+            "venue": "Journal",
+            "volume": "49",
+            "issue": "2",
+            "page_range": "274-285",
+            "doi": "10.1016/j.amepre.2015.01.009"
+        },
+        {
+            "title": "Impact of full-field digital mammography versus film-screen mammography in population screening: A meta-analysis",
+            "eid": "2-s2.0-85093705070",
+            "authors": [
+                {
+                    "scopus_id": "57200815014",
+                    "name": "Farber R.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55408023300",
+                    "name": "Houssami N.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "56072056600",
+                    "name": "Wortley S.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "36450769200",
+                    "name": "Marinovich M.L.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "6506555613",
+                    "name": "McGeechan K.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "23666495500",
+                    "name": "Bell K.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "Journal of the National Cancer Institute",
+            "issn": "00278874",
+            "cover_date": "2021-01-01",
+            "venue": "Journal",
+            "volume": "113",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1093/JNCI/DJAA080"
+        },
+        {
+            "title": "How information about overdetection changes breast cancer screening decisions: A mediation analysis within a randomised controlled trial",
+            "eid": "2-s2.0-85031122372",
+            "authors": [
+                {
+                    "scopus_id": "35111091600",
+                    "name": "Hersch J.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6506555613",
+                    "name": "McGeechan K.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8383675800",
+                    "name": "Jansen J.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006277368",
+                    "name": "Irwig L.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55408023300",
+                    "name": "Houssami N.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "16038463800",
+                    "name": "Dhillon H.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6603770315",
+                    "name": "McCaffery K.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709",
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "BMJ Open",
+            "issn": "",
+            "cover_date": "2017-10-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "10",
+            "page_range": null,
+            "doi": "10.1136/bmjopen-2017-016246"
+        },
+        {
+            "title": "Trends in stage-specific breast cancer incidence in New South Wales, Australia: insights into the effects of 25\u00a0years of screening mammography",
+            "eid": "2-s2.0-85027727991",
+            "authors": [
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "6506555613",
+                    "name": "McGeechan K.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "7006277368",
+                    "name": "Irwig L.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55408023300",
+                    "name": "Houssami N.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55579182800",
+                    "name": "Morrell S.",
+                    "affiliation_id": [
+                        "60011463"
+                    ]
+                },
+                {
+                    "scopus_id": "23666495500",
+                    "name": "Bell K.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                }
+            ],
+            "citations": 19,
+            "publication_name": "Breast Cancer Research and Treatment",
+            "issn": "01676806",
+            "cover_date": "2017-12-01",
+            "venue": "Journal",
+            "volume": "166",
+            "issue": "3",
+            "page_range": "843-854",
+            "doi": "10.1007/s10549-017-4443-x"
+        },
+        {
+            "title": "Informing Women About Overdetection in Breast Cancer Screening: Two-Year Outcomes From a Randomized Trial",
+            "eid": "2-s2.0-85121477007",
+            "authors": [
+                {
+                    "scopus_id": "35111091600",
+                    "name": "Hersch J.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709",
+                        "60010710",
+                        "60010710"
+                    ]
+                },
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6506555613",
+                    "name": "McGeechan K.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8383675800",
+                    "name": "Jansen J.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60010710",
+                        "60010710",
+                        "60018869"
+                    ]
+                },
+                {
+                    "scopus_id": "55408023300",
+                    "name": "Houssami N.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "16038463800",
+                    "name": "Dhillon H.",
+                    "affiliation_id": [
+                        "60010710",
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006277368",
+                    "name": "Irwig L.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Journal of the National Cancer Institute",
+            "issn": "00278874",
+            "cover_date": "2021-11-01",
+            "venue": "Journal",
+            "volume": "113",
+            "issue": "11",
+            "page_range": "1523-1530",
+            "doi": "10.1093/jnci/djab083"
+        },
+        {
+            "title": "Women\u2019s Acceptance of Overdetection in Breast Cancer Screening: Can We Assess Harm-Benefit Tradeoffs?",
+            "eid": "2-s2.0-85075122889",
+            "authors": [
+                {
+                    "scopus_id": "7003873555",
+                    "name": "Stiggelbout A.",
+                    "affiliation_id": [
+                        "60015618"
+                    ]
+                },
+                {
+                    "scopus_id": "57193823905",
+                    "name": "Copp T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "8383675800",
+                    "name": "Jansen J.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "6602593007",
+                    "name": "Liefers G.J.",
+                    "affiliation_id": [
+                        "60015618"
+                    ]
+                },
+                {
+                    "scopus_id": "6603770315",
+                    "name": "McCaffery K.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "35111091600",
+                    "name": "Hersch J.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Medical Decision Making",
+            "issn": "0272989X",
+            "cover_date": "2020-01-01",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "1",
+            "page_range": "42-51",
+            "doi": "10.1177/0272989X19886886"
+        },
+        {
+            "title": "Assessing the efficacy of cancer screening",
+            "eid": "2-s2.0-85026750733",
+            "authors": [
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "23666495500",
+                    "name": "Bell K.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60031602"
+                    ]
+                },
+                {
+                    "scopus_id": "16319028200",
+                    "name": "Hayen A.",
+                    "affiliation_id": [
+                        "60023932"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Public Health Research and Practice",
+            "issn": "",
+            "cover_date": "2017-07-01",
+            "venue": "Journal",
+            "volume": "27",
+            "issue": "3",
+            "page_range": null,
+            "doi": "10.17061/phrp2731727"
+        },
+        {
+            "title": "Impact of extending screening mammography to older women Information to support informed choices",
+            "eid": "2-s2.0-85022319588",
+            "authors": [
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "8686296400",
+                    "name": "Howard K.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "7006277368",
+                    "name": "Irwig L.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55408023300",
+                    "name": "Houssami N.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "35111091600",
+                    "name": "Hersch J.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60089710"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "International Journal of Cancer",
+            "issn": "00207136",
+            "cover_date": "2017-10-15",
+            "venue": "Journal",
+            "volume": "141",
+            "issue": "8",
+            "page_range": "1540-1550",
+            "doi": "10.1002/ijc.30858"
+        },
+        {
+            "title": "Carcinoma in situ of the breast in New South Wales, Australia: Current status and trends over the last 40 year",
+            "eid": "2-s2.0-85028707172",
+            "authors": [
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55579182800",
+                    "name": "Morrell S.",
+                    "affiliation_id": [
+                        "60011463"
+                    ]
+                },
+                {
+                    "scopus_id": "6506555613",
+                    "name": "McGeechan K.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55408023300",
+                    "name": "Houssami N.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "7006277368",
+                    "name": "Irwig L.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "8638726400",
+                    "name": "Pathmanathan N.",
+                    "affiliation_id": [
+                        "60121699",
+                        "60004437"
+                    ]
+                },
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Breast",
+            "issn": "09609776",
+            "cover_date": "2018-02-01",
+            "venue": "Journal",
+            "volume": "37",
+            "issue": "",
+            "page_range": "170-178",
+            "doi": "10.1016/j.breast.2017.08.005"
+        },
+        {
+            "title": "Health screening needs independent regular re-evaluation",
+            "eid": "2-s2.0-85116193114",
+            "authors": [
+                {
+                    "scopus_id": "56568206800",
+                    "name": "Ropers F.G.",
+                    "affiliation_id": [
+                        "60015618"
+                    ]
+                },
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "7006004410",
+                    "name": "Wilt T.J.",
+                    "affiliation_id": [
+                        "60029445"
+                    ]
+                },
+                {
+                    "scopus_id": "36190002600",
+                    "name": "Nicholls S.G.",
+                    "affiliation_id": [
+                        "60002173"
+                    ]
+                },
+                {
+                    "scopus_id": "24345235100",
+                    "name": "Taylor-Phillips S.",
+                    "affiliation_id": [
+                        "60000064"
+                    ]
+                },
+                {
+                    "scopus_id": "7201946875",
+                    "name": "Kramer B.S.",
+                    "affiliation_id": [
+                        "60013409"
+                    ]
+                },
+                {
+                    "scopus_id": "35376870500",
+                    "name": "Esserman L.J.",
+                    "affiliation_id": [
+                        "60029881"
+                    ]
+                },
+                {
+                    "scopus_id": "7103213643",
+                    "name": "Norris S.L.",
+                    "affiliation_id": [
+                        "60016733"
+                    ]
+                },
+                {
+                    "scopus_id": "37099785100",
+                    "name": "Gibson L.M.",
+                    "affiliation_id": [
+                        "60110825"
+                    ]
+                },
+                {
+                    "scopus_id": "7405698190",
+                    "name": "Harris R.P.",
+                    "affiliation_id": [
+                        "60020469"
+                    ]
+                },
+                {
+                    "scopus_id": "7402609472",
+                    "name": "Carter S.M.",
+                    "affiliation_id": [
+                        "60011664"
+                    ]
+                },
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "7202597468",
+                    "name": "J\u00f8rgensen K.J.",
+                    "affiliation_id": [
+                        "60019160"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "The BMJ",
+            "issn": "09598146",
+            "cover_date": "2021-09-27",
+            "venue": "Journal",
+            "volume": "374",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1136/bmj.n2049"
+        },
+        {
+            "title": "Overdiagnosis due to screening mammography for women aged 40 years and over",
+            "eid": "2-s2.0-85050658985",
+            "authors": [
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60010710"
+                    ]
+                },
+                {
+                    "scopus_id": "6506555613",
+                    "name": "Mcgeechan K.",
+                    "affiliation_id": [
+                        "60010710"
+                    ]
+                },
+                {
+                    "scopus_id": "55408023300",
+                    "name": "Houssami N.",
+                    "affiliation_id": [
+                        "60010710"
+                    ]
+                },
+                {
+                    "scopus_id": "23666495500",
+                    "name": "Bell K.",
+                    "affiliation_id": [
+                        "60010710"
+                    ]
+                },
+                {
+                    "scopus_id": "55382766300",
+                    "name": "Glasziou P.P.",
+                    "affiliation_id": [
+                        "60031602"
+                    ]
+                },
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.",
+                    "affiliation_id": [
+                        "60010710"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Cochrane Database of Systematic Reviews",
+            "issn": "14651858",
+            "cover_date": "2018-07-27",
+            "venue": "Journal",
+            "volume": "2018",
+            "issue": "7",
+            "page_range": null,
+            "doi": "10.1002/14651858.CD013076"
+        },
+        {
+            "title": "The management of women with ductal carcinoma in situ of the breast in Australia and New Zealand between 2007 and 2016",
+            "eid": "2-s2.0-85107326694",
+            "authors": [
+                {
+                    "scopus_id": "57224310570",
+                    "name": "Omling S.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60014077"
+                    ]
+                },
+                {
+                    "scopus_id": "55408023300",
+                    "name": "Houssami N.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "6506555613",
+                    "name": "McGeechan K.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "8057977700",
+                    "name": "Zackrisson S.",
+                    "affiliation_id": [
+                        "60014077"
+                    ]
+                },
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55675630000",
+                    "name": "Walters D.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "57200815014",
+                    "name": "Farber R.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "ANZ Journal of Surgery",
+            "issn": "14451433",
+            "cover_date": "2021-09-01",
+            "venue": "Journal",
+            "volume": "91",
+            "issue": "9",
+            "page_range": "1784-1791",
+            "doi": "10.1111/ans.16970"
+        },
+        {
+            "title": "The importance of enabling informed decision making for women considering breast cancer screening",
+            "eid": "2-s2.0-84961256214",
+            "authors": [
+                {
+                    "scopus_id": "35111091600",
+                    "name": "Hersch J.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8383675800",
+                    "name": "Jansen J.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7006277368",
+                    "name": "Irwig L.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "6506555613",
+                    "name": "McGeechan K.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "57216903701",
+                    "name": "Thornton H.",
+                    "affiliation_id": [
+                        "60033125"
+                    ]
+                },
+                {
+                    "scopus_id": "16038463800",
+                    "name": "Dhillon H.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55408023300",
+                    "name": "Houssami N.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "6603770315",
+                    "name": "McCaffery K.",
+                    "affiliation_id": [
+                        "60089710",
+                        "60025709"
+                    ]
+                }
+            ],
+            "citations": 3,
+            "publication_name": "Journal of Medical Screening",
+            "issn": "09691413",
+            "cover_date": "2016-01-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "1",
+            "page_range": "55",
+            "doi": "10.1177/0969141315612818"
+        },
+        {
+            "title": "Challenges in Understanding and Quantifying Overdiagnosis and Overtreatment",
+            "eid": "2-s2.0-84969685720",
+            "authors": [
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.L.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.L.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Breast Cancer Screening: An Examination of Scientific Evidence",
+            "issn": "",
+            "cover_date": "2016-04-05",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "133-164",
+            "doi": "10.1016/B978-0-12-802209-2.00006-1"
+        },
+        {
+            "title": "Demonstration of Classic Screening Biases, Not Additional Benefit of Annual Over Biennial Screening",
+            "eid": "2-s2.0-85053782645",
+            "authors": [
+                {
+                    "scopus_id": "7004367799",
+                    "name": "Barratt A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "23666495500",
+                    "name": "Bell K.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Journal of the American College of Radiology",
+            "issn": "15461440",
+            "cover_date": "2018-10-01",
+            "venue": "Journal",
+            "volume": "15",
+            "issue": "10",
+            "page_range": "1360",
+            "doi": "10.1016/j.jacr.2018.06.030"
+        },
+        {
+            "title": "Authors\u2019 response",
+            "eid": "2-s2.0-85089916464",
+            "authors": [
+                {
+                    "scopus_id": "35111091600",
+                    "name": "Hersch J.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "57193823905",
+                    "name": "Copp T.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "55522699200",
+                    "name": "Jacklyn G.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "8383675800",
+                    "name": "Jansen J.",
+                    "affiliation_id": [
+                        "60007895"
+                    ]
+                },
+                {
+                    "scopus_id": "6602593007",
+                    "name": "Liefers G.J.",
+                    "affiliation_id": [
+                        "60015618"
+                    ]
+                },
+                {
+                    "scopus_id": "6603770315",
+                    "name": "McCaffery K.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "7003873555",
+                    "name": "Stiggelbout A.",
+                    "affiliation_id": [
+                        "60015618"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Medical Decision Making",
+            "issn": "0272989X",
+            "cover_date": "2020-08-01",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "6",
+            "page_range": "715-717",
+            "doi": "10.1177/0272989X20946290"
+        }
+    ],
+    "affiliation": "The University of Sydney",
+    "affiliation_id": "60025709",
+    "city": "Sydney",
+    "country": "Australia",
+    "document_count": 22,
+    "subject_area": [
+        {
+            "@abbrev": "MEDI",
+            "@frequency": "48",
+            "$": "Medicine (all)"
+        },
+        {
+            "@abbrev": "BIOC",
+            "@frequency": "8",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)"
+        },
+        {
+            "@abbrev": "IMMU",
+            "@frequency": "2",
+            "$": "Immunology and Microbiology (all)"
+        }
+    ],
+    "date fetched": "2024-07-12 20:44:55"
+}

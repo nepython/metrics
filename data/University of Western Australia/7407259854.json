@@ -35,7 +35,7 @@
                     ]
                 }
             ],
-            "citations": 2141,
+            "citations": 2142,
             "publication_name": "Diabetologia",
             "issn": "0012186X",
             "cover_date": "2001-02-26",
@@ -292,7 +292,7 @@
                     ]
                 }
             ],
-            "citations": 533,
+            "citations": 534,
             "publication_name": "Nature Plants",
             "issn": "",
             "cover_date": "2016-01-01",
@@ -357,7 +357,7 @@
                     ]
                 }
             ],
-            "citations": 450,
+            "citations": 451,
             "publication_name": "Journal of Allergy and Clinical Immunology",
             "issn": "00916749",
             "cover_date": "2003-01-01",
@@ -1238,70 +1238,6 @@
             "doi": "10.1371/journal.pmed.1002744"
         },
         {
-            "title": "Effects of purified eicosapentaenoic and docosahexaenoic acids on glycemic control, blood pressure, and serum lipids in type 2 diabetic patients with treated hypertension",
-            "eid": "2-s2.0-0036829820",
-            "authors": [
-                {
-                    "scopus_id": "7102408842",
-                    "name": "Woodman R.J.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60030929",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "24315834100",
-                    "name": "Burke V.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "7006116739",
-                    "name": "Puddey I.B.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "7202153447",
-                    "name": "Watts G.F.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "35391339800",
-                    "name": "Beilin L.J.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60030929"
-                    ]
-                }
-            ],
-            "citations": 293,
-            "publication_name": "American Journal of Clinical Nutrition",
-            "issn": "00029165",
-            "cover_date": "2002-11-01",
-            "venue": "Journal",
-            "volume": "76",
-            "issue": "5",
-            "page_range": "1007-1015",
-            "doi": "10.1093/ajcn/76.5.1007"
-        },
-        {
             "title": "The trans-ancestral genomic architecture of glycemic traits",
             "eid": "2-s2.0-85108020584",
             "authors": [
@@ -2042,7 +1978,7 @@
                     ]
                 }
             ],
-            "citations": 289,
+            "citations": 293,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2021-06-01",
@@ -2053,62 +1989,68 @@
             "doi": "10.1038/s41588-021-00852-9"
         },
         {
-            "title": "Effect of eicosapentaenoic acid and docosahexaenoic acid on oxidative stress and inflammatory markers in treated-hypertensive type 2 diabetic subjects",
-            "eid": "2-s2.0-0142258704",
+            "title": "Effects of purified eicosapentaenoic and docosahexaenoic acids on glycemic control, blood pressure, and serum lipids in type 2 diabetic patients with treated hypertension",
+            "eid": "2-s2.0-0036829820",
             "authors": [
+                {
+                    "scopus_id": "7102408842",
+                    "name": "Woodman R.J.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60030929",
+                        "60031806"
+                    ]
+                },
                 {
                     "scopus_id": "7407259854",
                     "name": "Mori T.A.",
                     "affiliation_id": [
                         "60031806",
-                        "109342548"
-                    ]
-                },
-                {
-                    "scopus_id": "7102408842",
-                    "name": "Woodman R.J.",
-                    "affiliation_id": [
-                        "60031806"
+                        "60030929"
                     ]
                 },
                 {
                     "scopus_id": "24315834100",
                     "name": "Burke V.",
                     "affiliation_id": [
-                        "60031806"
+                        "60031806",
+                        "60030929"
                     ]
                 },
                 {
                     "scopus_id": "7006116739",
                     "name": "Puddey I.B.",
                     "affiliation_id": [
-                        "60031806"
+                        "60031806",
+                        "60030929"
                     ]
                 },
                 {
-                    "scopus_id": "7006668263",
-                    "name": "Croft K.D.",
+                    "scopus_id": "7202153447",
+                    "name": "Watts G.F.",
                     "affiliation_id": [
-                        "60031806"
+                        "60031806",
+                        "60030929"
                     ]
                 },
                 {
                     "scopus_id": "35391339800",
                     "name": "Beilin L.J.",
                     "affiliation_id": [
-                        "60031806"
+                        "60031806",
+                        "60030929"
                     ]
                 }
             ],
-            "citations": 287,
-            "publication_name": "Free Radical Biology and Medicine",
-            "issn": "08915849",
-            "cover_date": "2003-10-01",
+            "citations": 293,
+            "publication_name": "American Journal of Clinical Nutrition",
+            "issn": "00029165",
+            "cover_date": "2002-11-01",
             "venue": "Journal",
-            "volume": "35",
-            "issue": "7",
-            "page_range": "772-781",
-            "doi": "10.1016/S0891-5849(03)00407-6"
+            "volume": "76",
+            "issue": "5",
+            "page_range": "1007-1015",
+            "doi": "10.1093/ajcn/76.5.1007"
         },
         {
             "title": "The power of genetic diversity in genome-wide association studies of lipids",
@@ -2851,7 +2793,7 @@
                     ]
                 }
             ],
-            "citations": 282,
+            "citations": 289,
             "publication_name": "Nature",
             "issn": "00280836",
             "cover_date": "2021-12-23",
@@ -2860,6 +2802,64 @@
             "issue": "7890",
             "page_range": "675-679",
             "doi": "10.1038/s41586-021-04064-3"
+        },
+        {
+            "title": "Effect of eicosapentaenoic acid and docosahexaenoic acid on oxidative stress and inflammatory markers in treated-hypertensive type 2 diabetic subjects",
+            "eid": "2-s2.0-0142258704",
+            "authors": [
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60031806",
+                        "109342548"
+                    ]
+                },
+                {
+                    "scopus_id": "7102408842",
+                    "name": "Woodman R.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "24315834100",
+                    "name": "Burke V.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7006116739",
+                    "name": "Puddey I.B.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7006668263",
+                    "name": "Croft K.D.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "35391339800",
+                    "name": "Beilin L.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 287,
+            "publication_name": "Free Radical Biology and Medicine",
+            "issn": "08915849",
+            "cover_date": "2003-10-01",
+            "venue": "Journal",
+            "volume": "35",
+            "issue": "7",
+            "page_range": "772-781",
+            "doi": "10.1016/S0891-5849(03)00407-6"
         },
         {
             "title": "Genome Analyses of &gt;200,000 Individuals Identify 58 Loci for Chronic Inflammation and Highlight Pathways that Link Inflammation and Complex Disorders",
@@ -3734,7 +3734,7 @@
                     "scopus_id": "57222586124",
                     "name": "Masca N.G.D.",
                     "affiliation_id": [
-                        "60033125",
+                        "60171766",
                         "60009171"
                     ]
                 },
@@ -4334,7 +4334,7 @@
                     ]
                 }
             ],
-            "citations": 245,
+            "citations": 246,
             "publication_name": "Nature Genetics",
             "issn": "10614036",
             "cover_date": "2018-01-01",
@@ -4343,56 +4343,6 @@
             "issue": "1",
             "page_range": "26-35",
             "doi": "10.1038/s41588-017-0011-x"
-        },
-        {
-            "title": "Resolvins D1, D2, and other mediators of self-limited resolution of inflammation in human blood following n-3 fatty acid supplementation",
-            "eid": "2-s2.0-84866978271",
-            "authors": [
-                {
-                    "scopus_id": "24512737500",
-                    "name": "Mas E.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7006668263",
-                    "name": "Croft K.D.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "55808759300",
-                    "name": "Zahra P.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7004046385",
-                    "name": "Barden A.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                }
-            ],
-            "citations": 229,
-            "publication_name": "Clinical Chemistry",
-            "issn": "00099147",
-            "cover_date": "2012-10-01",
-            "venue": "Journal",
-            "volume": "58",
-            "issue": "10",
-            "page_range": "1476-1484",
-            "doi": "10.1373/clinchem.2012.190199"
         },
         {
             "title": "Maintenance of weight loss after lifestyle interventions for overweight and obesity, a systematic review",
@@ -4448,7 +4398,7 @@
                     ]
                 }
             ],
-            "citations": 229,
+            "citations": 230,
             "publication_name": "Obesity Reviews",
             "issn": "14677881",
             "cover_date": "2010-12-01",
@@ -4457,6 +4407,56 @@
             "issue": "12",
             "page_range": "899-906",
             "doi": "10.1111/j.1467-789X.2010.00740.x"
+        },
+        {
+            "title": "Resolvins D1, D2, and other mediators of self-limited resolution of inflammation in human blood following n-3 fatty acid supplementation",
+            "eid": "2-s2.0-84866978271",
+            "authors": [
+                {
+                    "scopus_id": "24512737500",
+                    "name": "Mas E.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7006668263",
+                    "name": "Croft K.D.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "55808759300",
+                    "name": "Zahra P.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7004046385",
+                    "name": "Barden A.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                }
+            ],
+            "citations": 229,
+            "publication_name": "Clinical Chemistry",
+            "issn": "00099147",
+            "cover_date": "2012-10-01",
+            "venue": "Journal",
+            "volume": "58",
+            "issue": "10",
+            "page_range": "1476-1484",
+            "doi": "10.1373/clinchem.2012.190199"
         },
         {
             "title": "The western dietary pattern is prospectively associated with nonalcoholic fatty liver disease in adolescence",
@@ -4553,7 +4553,7 @@
                     ]
                 }
             ],
-            "citations": 220,
+            "citations": 221,
             "publication_name": "American Journal of Gastroenterology",
             "issn": "00029270",
             "cover_date": "2013-05-01",
@@ -5115,7 +5115,7 @@
                     ]
                 }
             ],
-            "citations": 171,
+            "citations": 172,
             "publication_name": "Clinical and Experimental Allergy",
             "issn": "09547894",
             "cover_date": "2003-04-01",
@@ -5741,57 +5741,6 @@
             "doi": "10.1093/ajcn/84.5.975"
         },
         {
-            "title": "Soybean isoflavonoids and their metabolic products inhibit in vitro lipoprotein oxidation in serum",
-            "eid": "2-s2.0-0030478944",
-            "authors": [
-                {
-                    "scopus_id": "55431137900",
-                    "name": "Hodgson J.M.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "7006668263",
-                    "name": "Croft K.D.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7006116739",
-                    "name": "Puddey I.B.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "35391339800",
-                    "name": "Beilin L.J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 133,
-            "publication_name": "Journal of Nutritional Biochemistry",
-            "issn": "09552863",
-            "cover_date": "1996-12-01",
-            "venue": "Journal",
-            "volume": "7",
-            "issue": "12",
-            "page_range": "664-669",
-            "doi": "10.1016/S0955-2863(96)00133-7"
-        },
-        {
             "title": "Targeted alteration of dietary n-3 and n-6 fatty acids for the treatment of chronic headaches: A randomized trial",
             "eid": "2-s2.0-84886262321",
             "authors": [
@@ -5898,7 +5847,7 @@
                     "scopus_id": "6603768529",
                     "name": "Palsson O.",
                     "affiliation_id": [
-                        "60025111"
+                        "60020469"
                     ]
                 },
                 {
@@ -5917,7 +5866,7 @@
                     ]
                 }
             ],
-            "citations": 132,
+            "citations": 133,
             "publication_name": "Pain",
             "issn": "03043959",
             "cover_date": "2013-01-01",
@@ -5926,6 +5875,57 @@
             "issue": "11",
             "page_range": "2441-2451",
             "doi": "10.1016/j.pain.2013.07.028"
+        },
+        {
+            "title": "Soybean isoflavonoids and their metabolic products inhibit in vitro lipoprotein oxidation in serum",
+            "eid": "2-s2.0-0030478944",
+            "authors": [
+                {
+                    "scopus_id": "55431137900",
+                    "name": "Hodgson J.M.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "7006668263",
+                    "name": "Croft K.D.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7006116739",
+                    "name": "Puddey I.B.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "35391339800",
+                    "name": "Beilin L.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 133,
+            "publication_name": "Journal of Nutritional Biochemistry",
+            "issn": "09552863",
+            "cover_date": "1996-12-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "12",
+            "page_range": "664-669",
+            "doi": "10.1016/S0955-2863(96)00133-7"
         },
         {
             "title": "Effect of atorvastatin and fish oil on plasma high-sensitivity C-reactive protein concentrations in individuals with visceral obesity",
@@ -5976,6 +5976,89 @@
             "issue": "6",
             "page_range": "877-883",
             "doi": "10.1093/clinchem/48.6.877"
+        },
+        {
+            "title": "Lipidomics reveals associations of phospholipids with obesity and insulin resistance in young adults",
+            "eid": "2-s2.0-84960865637",
+            "authors": [
+                {
+                    "scopus_id": "56404555900",
+                    "name": "Rauschert S.",
+                    "affiliation_id": [
+                        "116477173",
+                        "60000291"
+                    ]
+                },
+                {
+                    "scopus_id": "54407544600",
+                    "name": "Uhl O.",
+                    "affiliation_id": [
+                        "116477173",
+                        "60000291"
+                    ]
+                },
+                {
+                    "scopus_id": "25926500300",
+                    "name": "Koletzko B.",
+                    "affiliation_id": [
+                        "116477173",
+                        "60000291"
+                    ]
+                },
+                {
+                    "scopus_id": "56404591400",
+                    "name": "Kirchberg F.",
+                    "affiliation_id": [
+                        "116477173",
+                        "60000291"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7402950360",
+                    "name": "Huang R.C.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "35391339800",
+                    "name": "Beilin L.J.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "37099845900",
+                    "name": "Hellmuth C.",
+                    "affiliation_id": [
+                        "116477173",
+                        "60000291"
+                    ]
+                },
+                {
+                    "scopus_id": "7003852677",
+                    "name": "Oddy W.H.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                }
+            ],
+            "citations": 130,
+            "publication_name": "Journal of Clinical Endocrinology and Metabolism",
+            "issn": "0021972X",
+            "cover_date": "2016-03-01",
+            "venue": "Journal",
+            "volume": "101",
+            "issue": "3",
+            "page_range": "871-879",
+            "doi": "10.1210/jc.2015-3525"
         },
         {
             "title": "Indications for Omega-3 Long Chain Polyunsaturated Fatty Acid in the Prevention and Treatment of Cardiovascular Disease",
@@ -6172,89 +6255,6 @@
             "doi": "10.1016/j.freeradbiomed.2003.10.021"
         },
         {
-            "title": "Lipidomics reveals associations of phospholipids with obesity and insulin resistance in young adults",
-            "eid": "2-s2.0-84960865637",
-            "authors": [
-                {
-                    "scopus_id": "56404555900",
-                    "name": "Rauschert S.",
-                    "affiliation_id": [
-                        "116477173",
-                        "60000291"
-                    ]
-                },
-                {
-                    "scopus_id": "54407544600",
-                    "name": "Uhl O.",
-                    "affiliation_id": [
-                        "116477173",
-                        "60000291"
-                    ]
-                },
-                {
-                    "scopus_id": "25926500300",
-                    "name": "Koletzko B.",
-                    "affiliation_id": [
-                        "116477173",
-                        "60000291"
-                    ]
-                },
-                {
-                    "scopus_id": "56404591400",
-                    "name": "Kirchberg F.",
-                    "affiliation_id": [
-                        "116477173",
-                        "60000291"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7402950360",
-                    "name": "Huang R.C.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                },
-                {
-                    "scopus_id": "35391339800",
-                    "name": "Beilin L.J.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "37099845900",
-                    "name": "Hellmuth C.",
-                    "affiliation_id": [
-                        "116477173",
-                        "60000291"
-                    ]
-                },
-                {
-                    "scopus_id": "7003852677",
-                    "name": "Oddy W.H.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                }
-            ],
-            "citations": 128,
-            "publication_name": "Journal of Clinical Endocrinology and Metabolism",
-            "issn": "0021972X",
-            "cover_date": "2016-03-01",
-            "venue": "Journal",
-            "volume": "101",
-            "issue": "3",
-            "page_range": "871-879",
-            "doi": "10.1210/jc.2015-3525"
-        },
-        {
             "title": "Apolipoprotein B-100 kinetics in visceral obesity: Associations with plasma apolipoprotein C-III concentration",
             "eid": "2-s2.0-0036347979",
             "authors": [
@@ -6406,6 +6406,78 @@
             "doi": "10.1111/j.1440-1681.2006.04451.x"
         },
         {
+            "title": "Effects of n-3 polyunsaturated fatty acid supplementation in pregnancy on maternal and fetal erythrocyte fatty composition",
+            "eid": "2-s2.0-1842527969",
+            "authors": [
+                {
+                    "scopus_id": "6701332456",
+                    "name": "Dunstan J.A.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7004046385",
+                    "name": "Barden A.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "35391339800",
+                    "name": "Beilin L.J.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7401902165",
+                    "name": "Holt P.G.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "7102317117",
+                    "name": "Calder P.C.",
+                    "affiliation_id": [
+                        "60025225"
+                    ]
+                },
+                {
+                    "scopus_id": "57212317793",
+                    "name": "Taylor A.L.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7102795702",
+                    "name": "Prescott S.L.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60022486"
+                    ]
+                }
+            ],
+            "citations": 112,
+            "publication_name": "European Journal of Clinical Nutrition",
+            "issn": "09543007",
+            "cover_date": "2004-03-01",
+            "venue": "Journal",
+            "volume": "58",
+            "issue": "3",
+            "page_range": "429-437",
+            "doi": "10.1038/sj.ejcn.1601825"
+        },
+        {
             "title": "Early infant feeding and adiposity risk: From infancy to adulthood",
             "eid": "2-s2.0-84908607186",
             "authors": [
@@ -6496,78 +6568,6 @@
             "issue": "3-4",
             "page_range": "262-270",
             "doi": "10.1159/000365031"
-        },
-        {
-            "title": "Effects of n-3 polyunsaturated fatty acid supplementation in pregnancy on maternal and fetal erythrocyte fatty composition",
-            "eid": "2-s2.0-1842527969",
-            "authors": [
-                {
-                    "scopus_id": "6701332456",
-                    "name": "Dunstan J.A.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7004046385",
-                    "name": "Barden A.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "35391339800",
-                    "name": "Beilin L.J.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7401902165",
-                    "name": "Holt P.G.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                },
-                {
-                    "scopus_id": "7102317117",
-                    "name": "Calder P.C.",
-                    "affiliation_id": [
-                        "60025225"
-                    ]
-                },
-                {
-                    "scopus_id": "57212317793",
-                    "name": "Taylor A.L.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7102795702",
-                    "name": "Prescott S.L.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60022486"
-                    ]
-                }
-            ],
-            "citations": 111,
-            "publication_name": "European Journal of Clinical Nutrition",
-            "issn": "09543007",
-            "cover_date": "2004-03-01",
-            "venue": "Journal",
-            "volume": "58",
-            "issue": "3",
-            "page_range": "429-437",
-            "doi": "10.1038/sj.ejcn.1601825"
         },
         {
             "title": "Effect of \u03c93 fatty acids on oxidative stress in humans: GC-MS measurement of urinary F<inf>2</inf>-isoprostane excretion",
@@ -7466,7 +7466,7 @@
                     ]
                 }
             ],
-            "citations": 97,
+            "citations": 98,
             "publication_name": "Prostaglandins Leukotrienes and Essential Fatty Acids",
             "issn": "09523278",
             "cover_date": "2016-04-01",
@@ -8111,7 +8111,7 @@
                     ]
                 }
             ],
-            "citations": 92,
+            "citations": 93,
             "publication_name": "Diabetes Care",
             "issn": "01495992",
             "cover_date": "2011-04-01",
@@ -8356,179 +8356,6 @@
             "issue": "1",
             "page_range": "55-58",
             "doi": "10.1093/jn/132.1.55"
-        },
-        {
-            "title": "An open-label trial in Friedreich ataxia suggests clinical benefit with high-dose resveratrol, without effect on frataxin levels",
-            "eid": "2-s2.0-84929839801",
-            "authors": [
-                {
-                    "scopus_id": "24448849500",
-                    "name": "Yiu E.M.",
-                    "affiliation_id": [
-                        "60009102",
-                        "60026489",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "36892855200",
-                    "name": "Tai G.",
-                    "affiliation_id": [
-                        "60009102"
-                    ]
-                },
-                {
-                    "scopus_id": "35461322200",
-                    "name": "Peverill R.E.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "8216469000",
-                    "name": "Lee K.J.",
-                    "affiliation_id": [
-                        "60026553",
-                        "60009102"
-                    ]
-                },
-                {
-                    "scopus_id": "7006668263",
-                    "name": "Croft K.D.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "6505927767",
-                    "name": "Scheiber-Mojdehkar B.",
-                    "affiliation_id": [
-                        "60011394"
-                    ]
-                },
-                {
-                    "scopus_id": "7005271012",
-                    "name": "Sturm B.",
-                    "affiliation_id": [
-                        "60011394"
-                    ]
-                },
-                {
-                    "scopus_id": "55811567000",
-                    "name": "Praschberger M.",
-                    "affiliation_id": [
-                        "60011394"
-                    ]
-                },
-                {
-                    "scopus_id": "25227738500",
-                    "name": "Vogel A.P.",
-                    "affiliation_id": [
-                        "60009102",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "6603053284",
-                    "name": "Rance G.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "8941080800",
-                    "name": "Stephenson S.E.M.",
-                    "affiliation_id": [
-                        "60009102",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "6603322126",
-                    "name": "Sarsero J.P.",
-                    "affiliation_id": [
-                        "60009102"
-                    ]
-                },
-                {
-                    "scopus_id": "6603218886",
-                    "name": "Stockley C.",
-                    "affiliation_id": [
-                        "60015551"
-                    ]
-                },
-                {
-                    "scopus_id": "56464331900",
-                    "name": "Lee C.Y.J.",
-                    "affiliation_id": [
-                        "60006541"
-                    ]
-                },
-                {
-                    "scopus_id": "6603870032",
-                    "name": "Churchyard A.",
-                    "affiliation_id": [
-                        "60015711"
-                    ]
-                },
-                {
-                    "scopus_id": "6506986558",
-                    "name": "Evans-Galea M.V.",
-                    "affiliation_id": [
-                        "60009102",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7403185216",
-                    "name": "Ryan M.M.",
-                    "affiliation_id": [
-                        "60026489",
-                        "60026553",
-                        "60009102"
-                    ]
-                },
-                {
-                    "scopus_id": "26643378800",
-                    "name": "Lockhart P.J.",
-                    "affiliation_id": [
-                        "60009102",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "16063247200",
-                    "name": "Corben L.A.",
-                    "affiliation_id": [
-                        "60009102"
-                    ]
-                },
-                {
-                    "scopus_id": "7005228584",
-                    "name": "Delatycki M.B.",
-                    "affiliation_id": [
-                        "60009102",
-                        "60026553",
-                        "60005087"
-                    ]
-                }
-            ],
-            "citations": 88,
-            "publication_name": "Journal of Neurology",
-            "issn": "03405354",
-            "cover_date": "2015-05-26",
-            "venue": "Journal",
-            "volume": "262",
-            "issue": "5",
-            "page_range": "1344-1353",
-            "doi": "10.1007/s00415-015-7719-2"
         },
         {
             "title": "Novel loci for childhood body mass index and shared heritability with adult cardiometabolic traits",
@@ -9297,7 +9124,7 @@
                     ]
                 }
             ],
-            "citations": 87,
+            "citations": 88,
             "publication_name": "PLoS Genetics",
             "issn": "15537390",
             "cover_date": "2020-10-12",
@@ -9308,56 +9135,177 @@
             "doi": "10.1371/journal.pgen.1008718"
         },
         {
-            "title": "Induced sputum 8-isoprostane concentrations in inflammatory airway diseases",
-            "eid": "2-s2.0-15944422151",
+            "title": "An open-label trial in Friedreich ataxia suggests clinical benefit with high-dose resveratrol, without effect on frataxin levels",
+            "eid": "2-s2.0-84929839801",
             "authors": [
                 {
-                    "scopus_id": "55859741700",
-                    "name": "Wood L.",
-                    "affiliation_id": []
+                    "scopus_id": "24448849500",
+                    "name": "Yiu E.M.",
+                    "affiliation_id": [
+                        "60009102",
+                        "60026489",
+                        "60026553"
+                    ]
                 },
                 {
-                    "scopus_id": "7102435690",
-                    "name": "Garg M.",
-                    "affiliation_id": []
+                    "scopus_id": "36892855200",
+                    "name": "Tai G.",
+                    "affiliation_id": [
+                        "60009102"
+                    ]
                 },
                 {
-                    "scopus_id": "7404326026",
-                    "name": "Simpson J.",
-                    "affiliation_id": []
+                    "scopus_id": "35461322200",
+                    "name": "Peverill R.E.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
                 },
                 {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.",
-                    "affiliation_id": []
+                    "scopus_id": "8216469000",
+                    "name": "Lee K.J.",
+                    "affiliation_id": [
+                        "60026553",
+                        "60009102"
+                    ]
                 },
                 {
                     "scopus_id": "7006668263",
-                    "name": "Croft K.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7003559516",
-                    "name": "Wark P.",
-                    "affiliation_id": []
-                },
-                {
-                    "scopus_id": "7202414199",
-                    "name": "Gibson P.",
+                    "name": "Croft K.D.",
                     "affiliation_id": [
-                        "60014427"
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "6505927767",
+                    "name": "Scheiber-Mojdehkar B.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "7005271012",
+                    "name": "Sturm B.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "55811567000",
+                    "name": "Praschberger M.",
+                    "affiliation_id": [
+                        "60011394"
+                    ]
+                },
+                {
+                    "scopus_id": "25227738500",
+                    "name": "Vogel A.P.",
+                    "affiliation_id": [
+                        "60009102",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "6603053284",
+                    "name": "Rance G.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "8941080800",
+                    "name": "Stephenson S.E.M.",
+                    "affiliation_id": [
+                        "60009102",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "6603322126",
+                    "name": "Sarsero J.P.",
+                    "affiliation_id": [
+                        "60009102"
+                    ]
+                },
+                {
+                    "scopus_id": "6603218886",
+                    "name": "Stockley C.",
+                    "affiliation_id": [
+                        "60015551"
+                    ]
+                },
+                {
+                    "scopus_id": "56464331900",
+                    "name": "Lee C.Y.J.",
+                    "affiliation_id": [
+                        "60006541"
+                    ]
+                },
+                {
+                    "scopus_id": "6603870032",
+                    "name": "Churchyard A.",
+                    "affiliation_id": [
+                        "60015711"
+                    ]
+                },
+                {
+                    "scopus_id": "6506986558",
+                    "name": "Evans-Galea M.V.",
+                    "affiliation_id": [
+                        "60009102",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7403185216",
+                    "name": "Ryan M.M.",
+                    "affiliation_id": [
+                        "60026489",
+                        "60026553",
+                        "60009102"
+                    ]
+                },
+                {
+                    "scopus_id": "26643378800",
+                    "name": "Lockhart P.J.",
+                    "affiliation_id": [
+                        "60009102",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "16063247200",
+                    "name": "Corben L.A.",
+                    "affiliation_id": [
+                        "60009102"
+                    ]
+                },
+                {
+                    "scopus_id": "7005228584",
+                    "name": "Delatycki M.B.",
+                    "affiliation_id": [
+                        "60009102",
+                        "60026553",
+                        "60005087"
                     ]
                 }
             ],
-            "citations": 87,
-            "publication_name": "American Journal of Respiratory and Critical Care Medicine",
-            "issn": "1073449X",
-            "cover_date": "2005-03-01",
+            "citations": 88,
+            "publication_name": "Journal of Neurology",
+            "issn": "03405354",
+            "cover_date": "2015-05-26",
             "venue": "Journal",
-            "volume": "171",
+            "volume": "262",
             "issue": "5",
-            "page_range": "426-430",
-            "doi": "10.1164/rccm.200408-1010OC"
+            "page_range": "1344-1353",
+            "doi": "10.1007/s00415-015-7719-2"
         },
         {
             "title": "Fish oil supplementation in pregnancy lowers F<inf>2</inf>-isoprostanes in neonates at high risk of atopy",
@@ -9424,7 +9372,7 @@
                     ]
                 }
             ],
-            "citations": 87,
+            "citations": 88,
             "publication_name": "Free Radical Research",
             "issn": "10715762",
             "cover_date": "2004-03-01",
@@ -9433,6 +9381,58 @@
             "issue": "3",
             "page_range": "233-239",
             "doi": "10.1080/10715760310001656722"
+        },
+        {
+            "title": "Induced sputum 8-isoprostane concentrations in inflammatory airway diseases",
+            "eid": "2-s2.0-15944422151",
+            "authors": [
+                {
+                    "scopus_id": "55859741700",
+                    "name": "Wood L.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7102435690",
+                    "name": "Garg M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7404326026",
+                    "name": "Simpson J.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006668263",
+                    "name": "Croft K.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7003559516",
+                    "name": "Wark P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7202414199",
+                    "name": "Gibson P.",
+                    "affiliation_id": [
+                        "60014427"
+                    ]
+                }
+            ],
+            "citations": 87,
+            "publication_name": "American Journal of Respiratory and Critical Care Medicine",
+            "issn": "1073449X",
+            "cover_date": "2005-03-01",
+            "venue": "Journal",
+            "volume": "171",
+            "issue": "5",
+            "page_range": "426-430",
+            "doi": "10.1164/rccm.200408-1010OC"
         },
         {
             "title": "Factorial study of the effects of atorvastatin and fish oil on dyslipidaemia in visceral obesity",
@@ -11499,7 +11499,7 @@
                     ]
                 }
             ],
-            "citations": 71,
+            "citations": 72,
             "publication_name": "Journal of Lipid Research",
             "issn": "00222275",
             "cover_date": "2014-11-01",
@@ -11577,6 +11577,64 @@
             "issue": "5",
             "page_range": null,
             "doi": "10.1371/journal.pone.0036320"
+        },
+        {
+            "title": "Effects of a lifestyle programme on ambulatory blood pressure and drug dosage in treated hypertensive patients: A randomized controlled trial",
+            "eid": "2-s2.0-20844463273",
+            "authors": [
+                {
+                    "scopus_id": "24315834100",
+                    "name": "Burke V.",
+                    "affiliation_id": [
+                        "60087991",
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "35391339800",
+                    "name": "Beilin L.J.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "55255414100",
+                    "name": "Cutt H.E.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "9736068900",
+                    "name": "Mansour J.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "24170417400",
+                    "name": "Wilson A.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                }
+            ],
+            "citations": 71,
+            "publication_name": "Journal of Hypertension",
+            "issn": "02636352",
+            "cover_date": "2005-01-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "6",
+            "page_range": "1241-1249",
+            "doi": "10.1097/01.hjh.0000170388.61579.4f"
         },
         {
             "title": "The antioxidant tempol prevents and partially reverses dexamethasone- induced hypertension in the rat",
@@ -11807,64 +11865,6 @@
             "issue": "2",
             "page_range": "568-580",
             "doi": "10.3945/ajcn.116.140962"
-        },
-        {
-            "title": "Effects of a lifestyle programme on ambulatory blood pressure and drug dosage in treated hypertensive patients: A randomized controlled trial",
-            "eid": "2-s2.0-20844463273",
-            "authors": [
-                {
-                    "scopus_id": "24315834100",
-                    "name": "Burke V.",
-                    "affiliation_id": [
-                        "60087991",
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "35391339800",
-                    "name": "Beilin L.J.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "55255414100",
-                    "name": "Cutt H.E.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "9736068900",
-                    "name": "Mansour J.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "24170417400",
-                    "name": "Wilson A.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                }
-            ],
-            "citations": 70,
-            "publication_name": "Journal of Hypertension",
-            "issn": "02636352",
-            "cover_date": "2005-01-01",
-            "venue": "Journal",
-            "volume": "23",
-            "issue": "6",
-            "page_range": "1241-1249",
-            "doi": "10.1097/01.hjh.0000170388.61579.4f"
         },
         {
             "title": "Omega-3 fatty acids and cardiovascular disease: Epidemiology and effects on cardiometabolic risk factors",
@@ -13299,7 +13299,7 @@
                     ]
                 }
             ],
-            "citations": 60,
+            "citations": 61,
             "publication_name": "Journal of Applied Physiology",
             "issn": "87507587",
             "cover_date": "2009-07-01",
@@ -14304,7 +14304,7 @@
                     "scopus_id": "35519137100",
                     "name": "Azizi F.",
                     "affiliation_id": [
-                        "60018934"
+                        "60109332"
                     ]
                 },
                 {
@@ -14599,6 +14599,89 @@
             "doi": "10.1179/135100004225005200"
         },
         {
+            "title": "Tolerability and safety of olive oil-based lipid emulsion in critically ill neonates: A blinded randomized trial",
+            "eid": "2-s2.0-53449093728",
+            "authors": [
+                {
+                    "scopus_id": "8424663100",
+                    "name": "Webb A.N.",
+                    "affiliation_id": [
+                        "60026489",
+                        "60009102"
+                    ]
+                },
+                {
+                    "scopus_id": "35560730300",
+                    "name": "Hardy P.",
+                    "affiliation_id": [
+                        "60026489"
+                    ]
+                },
+                {
+                    "scopus_id": "14626505100",
+                    "name": "Peterkin M.",
+                    "affiliation_id": [
+                        "60026489"
+                    ]
+                },
+                {
+                    "scopus_id": "36340102500",
+                    "name": "Lee O.",
+                    "affiliation_id": [
+                        "60009102"
+                    ]
+                },
+                {
+                    "scopus_id": "36341497300",
+                    "name": "Shalley H.",
+                    "affiliation_id": [
+                        "60026489"
+                    ]
+                },
+                {
+                    "scopus_id": "7006668263",
+                    "name": "Croft K.D.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7103149496",
+                    "name": "Heine R.G.",
+                    "affiliation_id": [
+                        "60026489",
+                        "60009102",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "13605535000",
+                    "name": "Bines J.E.",
+                    "affiliation_id": [
+                        "60026489",
+                        "60009102",
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 52,
+            "publication_name": "Nutrition",
+            "issn": "08999007",
+            "cover_date": "2008-11-01",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "11-12",
+            "page_range": "1057-1064",
+            "doi": "10.1016/j.nut.2008.05.004"
+        },
+        {
             "title": "A lifestyle program for treated hypertensives improved health-related behaviors and cardiovascular risk factors, a randomized controlled trial",
             "eid": "2-s2.0-33845971319",
             "authors": [
@@ -14833,89 +14916,6 @@
             "issue": "2",
             "page_range": "254-260",
             "doi": "10.1095/biolreprod.110.083907"
-        },
-        {
-            "title": "Tolerability and safety of olive oil-based lipid emulsion in critically ill neonates: A blinded randomized trial",
-            "eid": "2-s2.0-53449093728",
-            "authors": [
-                {
-                    "scopus_id": "8424663100",
-                    "name": "Webb A.N.",
-                    "affiliation_id": [
-                        "60026489",
-                        "60009102"
-                    ]
-                },
-                {
-                    "scopus_id": "35560730300",
-                    "name": "Hardy P.",
-                    "affiliation_id": [
-                        "60026489"
-                    ]
-                },
-                {
-                    "scopus_id": "14626505100",
-                    "name": "Peterkin M.",
-                    "affiliation_id": [
-                        "60026489"
-                    ]
-                },
-                {
-                    "scopus_id": "36340102500",
-                    "name": "Lee O.",
-                    "affiliation_id": [
-                        "60009102"
-                    ]
-                },
-                {
-                    "scopus_id": "36341497300",
-                    "name": "Shalley H.",
-                    "affiliation_id": [
-                        "60026489"
-                    ]
-                },
-                {
-                    "scopus_id": "7006668263",
-                    "name": "Croft K.D.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7103149496",
-                    "name": "Heine R.G.",
-                    "affiliation_id": [
-                        "60026489",
-                        "60009102",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "13605535000",
-                    "name": "Bines J.E.",
-                    "affiliation_id": [
-                        "60026489",
-                        "60009102",
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 51,
-            "publication_name": "Nutrition",
-            "issn": "08999007",
-            "cover_date": "2008-11-01",
-            "venue": "Journal",
-            "volume": "24",
-            "issue": "11-12",
-            "page_range": "1057-1064",
-            "doi": "10.1016/j.nut.2008.05.004"
         },
         {
             "title": "Epigenetic Age Acceleration in Adolescence Associates with BMI, Inflammation, and Risk Score for Middle Age Cardiovascular Disease",
@@ -15780,6 +15780,70 @@
             "doi": "10.1016/j.ypmed.2012.09.014"
         },
         {
+            "title": "The BACE1-PSEN-A\u03b2PP regulatory axis has an ancient role in response to low oxygen/oxidative stress",
+            "eid": "2-s2.0-84858010178",
+            "authors": [
+                {
+                    "scopus_id": "37120887300",
+                    "name": "Moussavi Nik S.H.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "36574518100",
+                    "name": "Wilson L.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "23470065100",
+                    "name": "Newman M.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7006668263",
+                    "name": "Croft K.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7004567145",
+                    "name": "Musgrave I.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                },
+                {
+                    "scopus_id": "7004091730",
+                    "name": "Lardelli M.",
+                    "affiliation_id": [
+                        "60009512"
+                    ]
+                }
+            ],
+            "citations": 46,
+            "publication_name": "Journal of Alzheimer's Disease",
+            "issn": "13872877",
+            "cover_date": "2012-01-01",
+            "venue": "Journal",
+            "volume": "28",
+            "issue": "3",
+            "page_range": "515-530",
+            "doi": "10.3233/JAD-2011-110533"
+        },
+        {
             "title": "New findings in the fatty acid composition of individual platelet phospholipids in man after dietary fish oil supplementation",
             "eid": "2-s2.0-0023424141",
             "authors": [
@@ -15901,70 +15965,6 @@
             "doi": "10.1097/MPG.0000000000000267"
         },
         {
-            "title": "The BACE1-PSEN-A\u03b2PP regulatory axis has an ancient role in response to low oxygen/oxidative stress",
-            "eid": "2-s2.0-84858010178",
-            "authors": [
-                {
-                    "scopus_id": "37120887300",
-                    "name": "Moussavi Nik S.H.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "36574518100",
-                    "name": "Wilson L.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "23470065100",
-                    "name": "Newman M.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7006668263",
-                    "name": "Croft K.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7004567145",
-                    "name": "Musgrave I.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                },
-                {
-                    "scopus_id": "7004091730",
-                    "name": "Lardelli M.",
-                    "affiliation_id": [
-                        "60009512"
-                    ]
-                }
-            ],
-            "citations": 45,
-            "publication_name": "Journal of Alzheimer's Disease",
-            "issn": "13872877",
-            "cover_date": "2012-01-01",
-            "venue": "Journal",
-            "volume": "28",
-            "issue": "3",
-            "page_range": "515-530",
-            "doi": "10.3233/JAD-2011-110533"
-        },
-        {
             "title": "Parenteral lipid emulsions based on olive oil compared with soybean oil in preterm (&lt;28 weeks'Gestation) neonates: A randomised controlled trial",
             "eid": "2-s2.0-70350645187",
             "authors": [
@@ -16007,6 +16007,56 @@
             "issue": "5",
             "page_range": "619-625",
             "doi": "10.1097/MPG.0b013e31819ca1b8"
+        },
+        {
+            "title": "Moderators and mediators of behaviour change in a lifestyle program for treated hypertensives: A randomized controlled trial (ADAPT)",
+            "eid": "2-s2.0-47249147926",
+            "authors": [
+                {
+                    "scopus_id": "24315834100",
+                    "name": "Burke V.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "35391339800",
+                    "name": "Beilin L.J.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "55255414100",
+                    "name": "Cutt H.E.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "9736068900",
+                    "name": "Mansour J.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                }
+            ],
+            "citations": 45,
+            "publication_name": "Health Education Research",
+            "issn": "02681153",
+            "cover_date": "2008-08-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "4",
+            "page_range": "583-591",
+            "doi": "10.1093/her/cym047"
         },
         {
             "title": "The pathogenesis of hemodialysis vascular access failure and systemic therapies for its prevention: Optimism unfulfilled",
@@ -16088,14 +16138,49 @@
             "doi": "10.1111/sdi.12658"
         },
         {
-            "title": "Moderators and mediators of behaviour change in a lifestyle program for treated hypertensives: A randomized controlled trial (ADAPT)",
-            "eid": "2-s2.0-47249147926",
+            "title": "Dietary intake of omega-3 fatty acids and risk of depressive symptoms in adolescents",
+            "eid": "2-s2.0-79959943433",
             "authors": [
                 {
-                    "scopus_id": "24315834100",
-                    "name": "Burke V.",
+                    "scopus_id": "7003852677",
+                    "name": "Oddy W.H.",
                     "affiliation_id": [
-                        "60087991"
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "12645090600",
+                    "name": "Hickling S.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "24291392800",
+                    "name": "Smith M.A.",
+                    "affiliation_id": [
+                        "60004636"
+                    ]
+                },
+                {
+                    "scopus_id": "26323722800",
+                    "name": "A. O'Sullivan T.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "24829938000",
+                    "name": "Robinson M.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "7006781208",
+                    "name": "H. De Klerk N.",
+                    "affiliation_id": [
+                        "60000096"
                     ]
                 },
                 {
@@ -16106,36 +16191,43 @@
                     ]
                 },
                 {
-                    "scopus_id": "55255414100",
-                    "name": "Cutt H.E.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "9736068900",
-                    "name": "Mansour J.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
                     "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
+                    "name": "A. Mori T.",
                     "affiliation_id": [
                         "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "6508344400",
+                    "name": "Syrette J.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7003414788",
+                    "name": "R. Zubrick S.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "6601953521",
+                    "name": "R. Silburn S.",
+                    "affiliation_id": [
+                        "60000096"
                     ]
                 }
             ],
             "citations": 44,
-            "publication_name": "Health Education Research",
-            "issn": "02681153",
-            "cover_date": "2008-08-01",
+            "publication_name": "Depression and Anxiety",
+            "issn": "10914269",
+            "cover_date": "2011-07-01",
             "venue": "Journal",
-            "volume": "23",
-            "issue": "4",
-            "page_range": "583-591",
-            "doi": "10.1093/her/cym047"
+            "volume": "28",
+            "issue": "7",
+            "page_range": "582-588",
+            "doi": "10.1002/da.20822"
         },
         {
             "title": "A reduction in alcohol consumption is associated with reduced plasma F<inf>2</inf>-isoprostanes and urinary 20-HETE excretion in men",
@@ -16265,98 +16357,6 @@
             "issue": "1",
             "page_range": "253",
             "doi": "10.2337/diacare.26.1.253"
-        },
-        {
-            "title": "Dietary intake of omega-3 fatty acids and risk of depressive symptoms in adolescents",
-            "eid": "2-s2.0-79959943433",
-            "authors": [
-                {
-                    "scopus_id": "7003852677",
-                    "name": "Oddy W.H.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                },
-                {
-                    "scopus_id": "12645090600",
-                    "name": "Hickling S.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                },
-                {
-                    "scopus_id": "24291392800",
-                    "name": "Smith M.A.",
-                    "affiliation_id": [
-                        "60004636"
-                    ]
-                },
-                {
-                    "scopus_id": "26323722800",
-                    "name": "A. O'Sullivan T.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                },
-                {
-                    "scopus_id": "24829938000",
-                    "name": "Robinson M.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                },
-                {
-                    "scopus_id": "7006781208",
-                    "name": "H. De Klerk N.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                },
-                {
-                    "scopus_id": "35391339800",
-                    "name": "Beilin L.J.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "A. Mori T.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "6508344400",
-                    "name": "Syrette J.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "7003414788",
-                    "name": "R. Zubrick S.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                },
-                {
-                    "scopus_id": "6601953521",
-                    "name": "R. Silburn S.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                }
-            ],
-            "citations": 43,
-            "publication_name": "Depression and Anxiety",
-            "issn": "10914269",
-            "cover_date": "2011-07-01",
-            "venue": "Journal",
-            "volume": "28",
-            "issue": "7",
-            "page_range": "582-588",
-            "doi": "10.1002/da.20822"
         },
         {
             "title": "A significant proportion of F<inf>2</inf>-isoprostanes in human urine are excreted as glucuronide conjugates",
@@ -17106,7 +17106,7 @@
                     "scopus_id": "57192265804",
                     "name": "Gao L.",
                     "affiliation_id": [
-                        "60029311"
+                        "60015183"
                     ]
                 },
                 {
@@ -17434,7 +17434,7 @@
                     "scopus_id": "57210384450",
                     "name": "Breton C.V.",
                     "affiliation_id": [
-                        "60029311"
+                        "60015183"
                     ]
                 },
                 {
@@ -18436,6 +18436,113 @@
             "doi": "10.3390/nu8030175"
         },
         {
+            "title": "Preventing AVF thrombosis: The rationale and design of the Omega-3 fatty acids (Fish Oils) and Aspirin in Vascular access OUtcomes in REnal Disease (FAVOURED) study",
+            "eid": "2-s2.0-60849134291",
+            "authors": [
+                {
+                    "scopus_id": "7004314741",
+                    "name": "Irish A.",
+                    "affiliation_id": [
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "7004049392",
+                    "name": "Dogra G.",
+                    "affiliation_id": [
+                        "60025898"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "6603960005",
+                    "name": "Beller E.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6603187959",
+                    "name": "Heritier S.",
+                    "affiliation_id": [
+                        "60000014"
+                    ]
+                },
+                {
+                    "scopus_id": "57211144379",
+                    "name": "Hawley C.",
+                    "affiliation_id": [
+                        "60031004",
+                        "60025258"
+                    ]
+                },
+                {
+                    "scopus_id": "24473166400",
+                    "name": "Kerr P.",
+                    "affiliation_id": [
+                        "60006899"
+                    ]
+                },
+                {
+                    "scopus_id": "57646669600",
+                    "name": "Robertson A.",
+                    "affiliation_id": [
+                        "60006899"
+                    ]
+                },
+                {
+                    "scopus_id": "7003782095",
+                    "name": "Rosman J.",
+                    "affiliation_id": [
+                        "60021290"
+                    ]
+                },
+                {
+                    "scopus_id": "6504432653",
+                    "name": "Paul-Brent P.A.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "26032371500",
+                    "name": "Starfield M.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "6601997825",
+                    "name": "Polkinghorne K.",
+                    "affiliation_id": [
+                        "60006899"
+                    ]
+                },
+                {
+                    "scopus_id": "7102500090",
+                    "name": "Cass A.",
+                    "affiliation_id": [
+                        "60000014"
+                    ]
+                }
+            ],
+            "citations": 37,
+            "publication_name": "BMC Nephrology",
+            "issn": "",
+            "cover_date": "2009-03-02",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1186/1471-2369-10-1"
+        },
+        {
             "title": "Adverse metabolic phenotype of adolescent girls with non-alcoholic fatty liver disease plus polycystic ovary syndrome compared with other girls and boys",
             "eid": "2-s2.0-84964507682",
             "authors": [
@@ -18671,113 +18778,6 @@
             "doi": "10.1089/ars.2011.4125"
         },
         {
-            "title": "Preventing AVF thrombosis: The rationale and design of the Omega-3 fatty acids (Fish Oils) and Aspirin in Vascular access OUtcomes in REnal Disease (FAVOURED) study",
-            "eid": "2-s2.0-60849134291",
-            "authors": [
-                {
-                    "scopus_id": "7004314741",
-                    "name": "Irish A.",
-                    "affiliation_id": [
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "7004049392",
-                    "name": "Dogra G.",
-                    "affiliation_id": [
-                        "60025898"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "6603960005",
-                    "name": "Beller E.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6603187959",
-                    "name": "Heritier S.",
-                    "affiliation_id": [
-                        "60000014"
-                    ]
-                },
-                {
-                    "scopus_id": "57211144379",
-                    "name": "Hawley C.",
-                    "affiliation_id": [
-                        "60031004",
-                        "60025258"
-                    ]
-                },
-                {
-                    "scopus_id": "24473166400",
-                    "name": "Kerr P.",
-                    "affiliation_id": [
-                        "60006899"
-                    ]
-                },
-                {
-                    "scopus_id": "57646669600",
-                    "name": "Robertson A.",
-                    "affiliation_id": [
-                        "60006899"
-                    ]
-                },
-                {
-                    "scopus_id": "7003782095",
-                    "name": "Rosman J.",
-                    "affiliation_id": [
-                        "60021290"
-                    ]
-                },
-                {
-                    "scopus_id": "6504432653",
-                    "name": "Paul-Brent P.A.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "26032371500",
-                    "name": "Starfield M.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "6601997825",
-                    "name": "Polkinghorne K.",
-                    "affiliation_id": [
-                        "60006899"
-                    ]
-                },
-                {
-                    "scopus_id": "7102500090",
-                    "name": "Cass A.",
-                    "affiliation_id": [
-                        "60000014"
-                    ]
-                }
-            ],
-            "citations": 36,
-            "publication_name": "BMC Nephrology",
-            "issn": "",
-            "cover_date": "2009-03-02",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "1",
-            "page_range": null,
-            "doi": "10.1186/1471-2369-10-1"
-        },
-        {
             "title": "EFFECTS OF GARLIC EXTRACT ON PLATELET AGGREGATION: A RANDOMIZED PLACEBO\u2010CONTROLLED DOUBLE\u2010BLIND STUDY",
             "eid": "2-s2.0-0029020921",
             "authors": [
@@ -18826,6 +18826,79 @@
             "issue": "6-7",
             "page_range": "414-417",
             "doi": "10.1111/j.1440-1681.1995.tb02032.x"
+        },
+        {
+            "title": "Effects of prenatal n-3 fatty acid supplementation on offspring resolvins at birth and 12 years of age: A double-blind, randomised controlled clinical trial",
+            "eid": "2-s2.0-85038402507",
+            "authors": [
+                {
+                    "scopus_id": "57190869448",
+                    "name": "See V.H.L.",
+                    "affiliation_id": [
+                        "60030929",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "24512737500",
+                    "name": "Mas E.",
+                    "affiliation_id": [
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "7102795702",
+                    "name": "Prescott S.L.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "35391339800",
+                    "name": "Beilin L.J.",
+                    "affiliation_id": [
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "49960987400",
+                    "name": "Burrows S.",
+                    "affiliation_id": [
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "7004046385",
+                    "name": "Barden A.E.",
+                    "affiliation_id": [
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "7402950360",
+                    "name": "Huang R.C.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60030929"
+                    ]
+                }
+            ],
+            "citations": 35,
+            "publication_name": "British Journal of Nutrition",
+            "issn": "00071145",
+            "cover_date": "2017-12-14",
+            "venue": "Journal",
+            "volume": "118",
+            "issue": "11",
+            "page_range": "971-980",
+            "doi": "10.1017/S0007114517002914"
         },
         {
             "title": "Sex dimorphism in the relation between early adiposity and cardiometabolic risk in adolescents",
@@ -19080,30 +19153,50 @@
             "doi": "10.1016/S0021-9150(01)00770-5"
         },
         {
-            "title": "Effects of prenatal n-3 fatty acid supplementation on offspring resolvins at birth and 12 years of age: A double-blind, randomised controlled clinical trial",
-            "eid": "2-s2.0-85038402507",
+            "title": "Physical activity trajectories from childhood to late adolescence and their implications for health in young adulthood",
+            "eid": "2-s2.0-85089183760",
             "authors": [
                 {
-                    "scopus_id": "57190869448",
-                    "name": "See V.H.L.",
+                    "scopus_id": "36628648600",
+                    "name": "Howie E.K.",
                     "affiliation_id": [
-                        "60030929",
+                        "60004862",
+                        "60031226"
+                    ]
+                },
+                {
+                    "scopus_id": "8126013300",
+                    "name": "McVeigh J.A.",
+                    "affiliation_id": [
+                        "60031226"
+                    ]
+                },
+                {
+                    "scopus_id": "7406756140",
+                    "name": "Smith A.J.",
+                    "affiliation_id": [
+                        "60031226"
+                    ]
+                },
+                {
+                    "scopus_id": "53165270300",
+                    "name": "Zabatiero J.",
+                    "affiliation_id": [
+                        "60031226"
+                    ]
+                },
+                {
+                    "scopus_id": "6604071774",
+                    "name": "Bucks R.S.",
+                    "affiliation_id": [
                         "60031806"
                     ]
                 },
                 {
-                    "scopus_id": "24512737500",
-                    "name": "Mas E.",
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
                     "affiliation_id": [
                         "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "7102795702",
-                    "name": "Prescott S.L.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60000096"
                     ]
                 },
                 {
@@ -19114,43 +19207,22 @@
                     ]
                 },
                 {
-                    "scopus_id": "49960987400",
-                    "name": "Burrows S.",
+                    "scopus_id": "57210379749",
+                    "name": "Straker L.M.",
                     "affiliation_id": [
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "7004046385",
-                    "name": "Barden A.E.",
-                    "affiliation_id": [
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "7402950360",
-                    "name": "Huang R.C.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60030929"
+                        "60031226"
                     ]
                 }
             ],
             "citations": 34,
-            "publication_name": "British Journal of Nutrition",
-            "issn": "00071145",
-            "cover_date": "2017-12-14",
+            "publication_name": "Preventive Medicine",
+            "issn": "00917435",
+            "cover_date": "2020-10-01",
             "venue": "Journal",
-            "volume": "118",
-            "issue": "11",
-            "page_range": "971-980",
-            "doi": "10.1017/S0007114517002914"
+            "volume": "139",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.ypmed.2020.106224"
         },
         {
             "title": "Randomized Controlled Intervention of the Effects of Alcohol on Blood Pressure in Premenopausal Women",
@@ -19295,78 +19367,6 @@
             "issue": "9",
             "page_range": "1520-1527",
             "doi": "10.1111/j.1440-1746.2012.07120.x"
-        },
-        {
-            "title": "Physical activity trajectories from childhood to late adolescence and their implications for health in young adulthood",
-            "eid": "2-s2.0-85089183760",
-            "authors": [
-                {
-                    "scopus_id": "36628648600",
-                    "name": "Howie E.K.",
-                    "affiliation_id": [
-                        "60004862",
-                        "60031226"
-                    ]
-                },
-                {
-                    "scopus_id": "8126013300",
-                    "name": "McVeigh J.A.",
-                    "affiliation_id": [
-                        "60031226"
-                    ]
-                },
-                {
-                    "scopus_id": "7406756140",
-                    "name": "Smith A.J.",
-                    "affiliation_id": [
-                        "60031226"
-                    ]
-                },
-                {
-                    "scopus_id": "53165270300",
-                    "name": "Zabatiero J.",
-                    "affiliation_id": [
-                        "60031226"
-                    ]
-                },
-                {
-                    "scopus_id": "6604071774",
-                    "name": "Bucks R.S.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "35391339800",
-                    "name": "Beilin L.J.",
-                    "affiliation_id": [
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "57210379749",
-                    "name": "Straker L.M.",
-                    "affiliation_id": [
-                        "60031226"
-                    ]
-                }
-            ],
-            "citations": 33,
-            "publication_name": "Preventive Medicine",
-            "issn": "00917435",
-            "cover_date": "2020-10-01",
-            "venue": "Journal",
-            "volume": "139",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1016/j.ypmed.2020.106224"
         },
         {
             "title": "Novel relationships between B12, folate and markers of inflammation, oxidative stress and NAD(H) levels, systemically and in the CNS of a healthy human cohort",
@@ -20032,6 +20032,164 @@
             "doi": "10.1111/j.1365-2222.2006.02539.x"
         },
         {
+            "title": "MitoQ and CoQ10 supplementation mildly suppresses skeletal muscle mitochondrial hydrogen peroxide levels without impacting mitochondrial function in middle-aged men",
+            "eid": "2-s2.0-85085482886",
+            "authors": [
+                {
+                    "scopus_id": "55293561600",
+                    "name": "Pham T.",
+                    "affiliation_id": [
+                        "60078830",
+                        "60115431"
+                    ]
+                },
+                {
+                    "scopus_id": "57214632733",
+                    "name": "MacRae C.L.",
+                    "affiliation_id": [
+                        "60078830"
+                    ]
+                },
+                {
+                    "scopus_id": "57203718551",
+                    "name": "Broome S.C.",
+                    "affiliation_id": [
+                        "60078830"
+                    ]
+                },
+                {
+                    "scopus_id": "57189052970",
+                    "name": "D\u2019souza R.F.",
+                    "affiliation_id": [
+                        "60078830"
+                    ]
+                },
+                {
+                    "scopus_id": "57524449300",
+                    "name": "Narang R.",
+                    "affiliation_id": [
+                        "60005397"
+                    ]
+                },
+                {
+                    "scopus_id": "57206781198",
+                    "name": "Wang H.W.",
+                    "affiliation_id": [
+                        "60078830"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "7006559720",
+                    "name": "Hickey A.J.R.",
+                    "affiliation_id": [
+                        "60115431"
+                    ]
+                },
+                {
+                    "scopus_id": "55115144600",
+                    "name": "Mitchell C.J.",
+                    "affiliation_id": [
+                        "60010365"
+                    ]
+                },
+                {
+                    "scopus_id": "27467445700",
+                    "name": "Merry T.L.",
+                    "affiliation_id": [
+                        "60078830",
+                        "60005686"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "European Journal of Applied Physiology",
+            "issn": "14396319",
+            "cover_date": "2020-07-01",
+            "venue": "Journal",
+            "volume": "120",
+            "issue": "7",
+            "page_range": "1657-1669",
+            "doi": "10.1007/s00421-020-04396-4"
+        },
+        {
+            "title": "The effects of alcohol on plasma lipid mediators of inflammation resolution in patients with Type 2 diabetes mellitus",
+            "eid": "2-s2.0-85046829266",
+            "authors": [
+                {
+                    "scopus_id": "7004046385",
+                    "name": "Barden A.",
+                    "affiliation_id": [
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "7004516399",
+                    "name": "Shinde S.",
+                    "affiliation_id": [
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "56391848600",
+                    "name": "Phillips M.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "35391339800",
+                    "name": "Beilin L.",
+                    "affiliation_id": [
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "24512737500",
+                    "name": "Mas E.",
+                    "affiliation_id": [
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "55431137900",
+                    "name": "Hodgson J.M.",
+                    "affiliation_id": [
+                        "60105210"
+                    ]
+                },
+                {
+                    "scopus_id": "7006116739",
+                    "name": "Puddey I.",
+                    "affiliation_id": [
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60030929"
+                    ]
+                }
+            ],
+            "citations": 29,
+            "publication_name": "Prostaglandins Leukotrienes and Essential Fatty Acids",
+            "issn": "09523278",
+            "cover_date": "2018-06-01",
+            "venue": "Journal",
+            "volume": "133",
+            "issue": "",
+            "page_range": "29-34",
+            "doi": "10.1016/j.plefa.2018.04.004"
+        },
+        {
             "title": "Developmental programming of adult adrenal structure and steroidogenesis: Effects of fetal glucocorticoid excess and postnatal dietary omega-3 fatty acids",
             "eid": "2-s2.0-77950667758",
             "authors": [
@@ -20137,164 +20295,6 @@
             "issue": "",
             "page_range": "141-145",
             "doi": "10.1079/BJN2001499"
-        },
-        {
-            "title": "MitoQ and CoQ10 supplementation mildly suppresses skeletal muscle mitochondrial hydrogen peroxide levels without impacting mitochondrial function in middle-aged men",
-            "eid": "2-s2.0-85085482886",
-            "authors": [
-                {
-                    "scopus_id": "55293561600",
-                    "name": "Pham T.",
-                    "affiliation_id": [
-                        "60078830",
-                        "60115431"
-                    ]
-                },
-                {
-                    "scopus_id": "57214632733",
-                    "name": "MacRae C.L.",
-                    "affiliation_id": [
-                        "60078830"
-                    ]
-                },
-                {
-                    "scopus_id": "57203718551",
-                    "name": "Broome S.C.",
-                    "affiliation_id": [
-                        "60078830"
-                    ]
-                },
-                {
-                    "scopus_id": "57189052970",
-                    "name": "D\u2019souza R.F.",
-                    "affiliation_id": [
-                        "60078830"
-                    ]
-                },
-                {
-                    "scopus_id": "57524449300",
-                    "name": "Narang R.",
-                    "affiliation_id": [
-                        "60005397"
-                    ]
-                },
-                {
-                    "scopus_id": "57206781198",
-                    "name": "Wang H.W.",
-                    "affiliation_id": [
-                        "60078830"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "7006559720",
-                    "name": "Hickey A.J.R.",
-                    "affiliation_id": [
-                        "60115431"
-                    ]
-                },
-                {
-                    "scopus_id": "55115144600",
-                    "name": "Mitchell C.J.",
-                    "affiliation_id": [
-                        "60010365"
-                    ]
-                },
-                {
-                    "scopus_id": "27467445700",
-                    "name": "Merry T.L.",
-                    "affiliation_id": [
-                        "60078830",
-                        "60005686"
-                    ]
-                }
-            ],
-            "citations": 28,
-            "publication_name": "European Journal of Applied Physiology",
-            "issn": "14396319",
-            "cover_date": "2020-07-01",
-            "venue": "Journal",
-            "volume": "120",
-            "issue": "7",
-            "page_range": "1657-1669",
-            "doi": "10.1007/s00421-020-04396-4"
-        },
-        {
-            "title": "The effects of alcohol on plasma lipid mediators of inflammation resolution in patients with Type 2 diabetes mellitus",
-            "eid": "2-s2.0-85046829266",
-            "authors": [
-                {
-                    "scopus_id": "7004046385",
-                    "name": "Barden A.",
-                    "affiliation_id": [
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "7004516399",
-                    "name": "Shinde S.",
-                    "affiliation_id": [
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "56391848600",
-                    "name": "Phillips M.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "35391339800",
-                    "name": "Beilin L.",
-                    "affiliation_id": [
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "24512737500",
-                    "name": "Mas E.",
-                    "affiliation_id": [
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "55431137900",
-                    "name": "Hodgson J.M.",
-                    "affiliation_id": [
-                        "60105210"
-                    ]
-                },
-                {
-                    "scopus_id": "7006116739",
-                    "name": "Puddey I.",
-                    "affiliation_id": [
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60030929"
-                    ]
-                }
-            ],
-            "citations": 28,
-            "publication_name": "Prostaglandins Leukotrienes and Essential Fatty Acids",
-            "issn": "09523278",
-            "cover_date": "2018-06-01",
-            "venue": "Journal",
-            "volume": "133",
-            "issue": "",
-            "page_range": "29-34",
-            "doi": "10.1016/j.plefa.2018.04.004"
         },
         {
             "title": "Dietary intake in population-based adolescents: Support for a relationship between eating disorder symptoms, low fatty acid intake and depressive symptoms",
@@ -21238,6 +21238,70 @@
             "doi": "10.1093/ndt/gfz148"
         },
         {
+            "title": "Effect of weight loss on neutrophil resolvins in the metabolic syndrome",
+            "eid": "2-s2.0-85068783545",
+            "authors": [
+                {
+                    "scopus_id": "7004046385",
+                    "name": "Barden A.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7004516399",
+                    "name": "Shinde S.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "36341640000",
+                    "name": "Tsai I.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7006668263",
+                    "name": "Croft K.D.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "35391339800",
+                    "name": "Beilin L.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7006116739",
+                    "name": "Puddey I.B.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 25,
+            "publication_name": "Prostaglandins Leukotrienes and Essential Fatty Acids",
+            "issn": "09523278",
+            "cover_date": "2019-09-01",
+            "venue": "Journal",
+            "volume": "148",
+            "issue": "",
+            "page_range": "25-29",
+            "doi": "10.1016/j.plefa.2019.07.001"
+        },
+        {
             "title": "The effects of oxidation products of arachidonic acid and n3 fatty acids on vascular and platelet function",
             "eid": "2-s2.0-79952381038",
             "authors": [
@@ -21307,6 +21371,74 @@
             "issue": "4",
             "page_range": "469-476",
             "doi": "10.3109/10715762.2010.544730"
+        },
+        {
+            "title": "Association between remnant lipoprotein cholesterol levels and non-alcoholic fatty liver disease in adolescents",
+            "eid": "2-s2.0-85101879422",
+            "authors": [
+                {
+                    "scopus_id": "57212589313",
+                    "name": "Chin J.",
+                    "affiliation_id": [
+                        "60138677"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "17433556200",
+                    "name": "Adams L.A.",
+                    "affiliation_id": [
+                        "60087991",
+                        "60025898"
+                    ]
+                },
+                {
+                    "scopus_id": "35391339800",
+                    "name": "Beilin L.J.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7402950360",
+                    "name": "Huang R.C.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "7005942097",
+                    "name": "Olynyk J.K.",
+                    "affiliation_id": [
+                        "60138677",
+                        "60105210"
+                    ]
+                },
+                {
+                    "scopus_id": "6701510524",
+                    "name": "Ayonrinde O.T.",
+                    "affiliation_id": [
+                        "60138677",
+                        "60087991",
+                        "60090173"
+                    ]
+                }
+            ],
+            "citations": 24,
+            "publication_name": "JHEP Reports",
+            "issn": "",
+            "cover_date": "2020-12-01",
+            "venue": "Journal",
+            "volume": "2",
+            "issue": "6",
+            "page_range": null,
+            "doi": "10.1016/j.jhepr.2020.100150"
         },
         {
             "title": "Association of maternal prenatal smoking GFI1-locus and cardio-metabolic phenotypes in 18,212 adults",
@@ -22098,138 +22230,6 @@
             "issue": "3",
             "page_range": "178-187",
             "doi": "10.1038/jhh.2011.7"
-        },
-        {
-            "title": "Association between remnant lipoprotein cholesterol levels and non-alcoholic fatty liver disease in adolescents",
-            "eid": "2-s2.0-85101879422",
-            "authors": [
-                {
-                    "scopus_id": "57212589313",
-                    "name": "Chin J.",
-                    "affiliation_id": [
-                        "60138677"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "17433556200",
-                    "name": "Adams L.A.",
-                    "affiliation_id": [
-                        "60087991",
-                        "60025898"
-                    ]
-                },
-                {
-                    "scopus_id": "35391339800",
-                    "name": "Beilin L.J.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7402950360",
-                    "name": "Huang R.C.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                },
-                {
-                    "scopus_id": "7005942097",
-                    "name": "Olynyk J.K.",
-                    "affiliation_id": [
-                        "60138677",
-                        "60105210"
-                    ]
-                },
-                {
-                    "scopus_id": "6701510524",
-                    "name": "Ayonrinde O.T.",
-                    "affiliation_id": [
-                        "60138677",
-                        "60087991",
-                        "60090173"
-                    ]
-                }
-            ],
-            "citations": 23,
-            "publication_name": "JHEP Reports",
-            "issn": "",
-            "cover_date": "2020-12-01",
-            "venue": "Journal",
-            "volume": "2",
-            "issue": "6",
-            "page_range": null,
-            "doi": "10.1016/j.jhepr.2020.100150"
-        },
-        {
-            "title": "Effect of weight loss on neutrophil resolvins in the metabolic syndrome",
-            "eid": "2-s2.0-85068783545",
-            "authors": [
-                {
-                    "scopus_id": "7004046385",
-                    "name": "Barden A.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7004516399",
-                    "name": "Shinde S.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "36341640000",
-                    "name": "Tsai I.J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7006668263",
-                    "name": "Croft K.D.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "35391339800",
-                    "name": "Beilin L.J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7006116739",
-                    "name": "Puddey I.B.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 23,
-            "publication_name": "Prostaglandins Leukotrienes and Essential Fatty Acids",
-            "issn": "09523278",
-            "cover_date": "2019-09-01",
-            "venue": "Journal",
-            "volume": "148",
-            "issue": "",
-            "page_range": "25-29",
-            "doi": "10.1016/j.plefa.2019.07.001"
         },
         {
             "title": "Gender difference in the relationship between passive smoking exposure and HDL-cholesterol levels in late adolescence",
@@ -23157,60 +23157,6 @@
             "doi": "10.1096/fj.201900423R"
         },
         {
-            "title": "n - 3 fatty acid supplementation during pregnancy in women with allergic disease: Effects on blood pressure, and maternal and fetal lipids",
-            "eid": "2-s2.0-33750182515",
-            "authors": [
-                {
-                    "scopus_id": "7004046385",
-                    "name": "Barden A.E.",
-                    "affiliation_id": [
-                        "60030929",
-                        "60030929",
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "6701332456",
-                    "name": "Dunstan J.A.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "35391339800",
-                    "name": "Beilin L.J.",
-                    "affiliation_id": [
-                        "60030929",
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "7102795702",
-                    "name": "Prescott S.L.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60030929",
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 21,
-            "publication_name": "Clinical Science",
-            "issn": "01435221",
-            "cover_date": "2006-10-01",
-            "venue": "Journal",
-            "volume": "111",
-            "issue": "4",
-            "page_range": "289-294",
-            "doi": "10.1042/CS20060096"
-        },
-        {
             "title": "Features of the metabolic syndrome in late adolescence are associated with impaired testicular function at 20 years of age",
             "eid": "2-s2.0-85062168748",
             "authors": [
@@ -23301,7 +23247,7 @@
                     ]
                 }
             ],
-            "citations": 20,
+            "citations": 21,
             "publication_name": "Human Reproduction",
             "issn": "02681161",
             "cover_date": "2019-03-01",
@@ -23310,6 +23256,60 @@
             "issue": "3",
             "page_range": "389-402",
             "doi": "10.1093/humrep/dey371"
+        },
+        {
+            "title": "n - 3 fatty acid supplementation during pregnancy in women with allergic disease: Effects on blood pressure, and maternal and fetal lipids",
+            "eid": "2-s2.0-33750182515",
+            "authors": [
+                {
+                    "scopus_id": "7004046385",
+                    "name": "Barden A.E.",
+                    "affiliation_id": [
+                        "60030929",
+                        "60030929",
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "6701332456",
+                    "name": "Dunstan J.A.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "35391339800",
+                    "name": "Beilin L.J.",
+                    "affiliation_id": [
+                        "60030929",
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "7102795702",
+                    "name": "Prescott S.L.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60030929",
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 21,
+            "publication_name": "Clinical Science",
+            "issn": "01435221",
+            "cover_date": "2006-10-01",
+            "venue": "Journal",
+            "volume": "111",
+            "issue": "4",
+            "page_range": "289-294",
+            "doi": "10.1042/CS20060096"
         },
         {
             "title": "The Chemistry of Eremophila spp. XX The Absolute Stereochemistry of the Viscidane Diterpenes",
@@ -25641,368 +25641,6 @@
             "doi": "10.1089/ars.2010.3133"
         },
         {
-            "title": "Prenatal omega-3 fatty acid supplementation does not affect offspring telomere length and F<inf>2</inf>-isoprostanes at 12 years: A double blind, randomized controlled trial",
-            "eid": "2-s2.0-84983638448",
-            "authors": [
-                {
-                    "scopus_id": "57190869448",
-                    "name": "See V.H.L.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "24512737500",
-                    "name": "Mas E.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "49960987400",
-                    "name": "Burrows S.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "6602739697",
-                    "name": "O'Callaghan N.J.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "57203071846",
-                    "name": "Fenech M.",
-                    "affiliation_id": [
-                        "60029470"
-                    ]
-                },
-                {
-                    "scopus_id": "7102795702",
-                    "name": "Prescott S.L.",
-                    "affiliation_id": [
-                        "60000096",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "35391339800",
-                    "name": "Beilin L.J.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7402950360",
-                    "name": "Huang R.C.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Prostaglandins Leukotrienes and Essential Fatty Acids",
-            "issn": "09523278",
-            "cover_date": "2016-09-01",
-            "venue": "Journal",
-            "volume": "112",
-            "issue": "",
-            "page_range": "50-55",
-            "doi": "10.1016/j.plefa.2016.08.006"
-        },
-        {
-            "title": "Chronic erythropoietin treatment improves diet-induced glucose intolerance in rats",
-            "eid": "2-s2.0-84930798311",
-            "authors": [
-                {
-                    "scopus_id": "56188123200",
-                    "name": "Caillaud C.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "55260597100",
-                    "name": "Mechta M.",
-                    "affiliation_id": [
-                        "60253102"
-                    ]
-                },
-                {
-                    "scopus_id": "41860979200",
-                    "name": "Ainge H.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "15049496300",
-                    "name": "Madsen A.N.",
-                    "affiliation_id": [
-                        "60253102",
-                        "60013332"
-                    ]
-                },
-                {
-                    "scopus_id": "57204223456",
-                    "name": "Ruell P.",
-                    "affiliation_id": [
-                        "60025709"
-                    ]
-                },
-                {
-                    "scopus_id": "24512737500",
-                    "name": "Mas E.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7004010759",
-                    "name": "Bisbal C.",
-                    "affiliation_id": [
-                        "60108515"
-                    ]
-                },
-                {
-                    "scopus_id": "55574349600",
-                    "name": "Mercier J.",
-                    "affiliation_id": [
-                        "60108515",
-                        "60017438"
-                    ]
-                },
-                {
-                    "scopus_id": "7003760931",
-                    "name": "Twigg S.",
-                    "affiliation_id": [
-                        "60121699"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "6505936107",
-                    "name": "Simar D.",
-                    "affiliation_id": [
-                        "60028333"
-                    ]
-                },
-                {
-                    "scopus_id": "7801601881",
-                    "name": "Barr\u00e8s R.",
-                    "affiliation_id": [
-                        "60253102"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Journal of Endocrinology",
-            "issn": "00220795",
-            "cover_date": "2015-01-01",
-            "venue": "Journal",
-            "volume": "225",
-            "issue": "2",
-            "page_range": "77-88",
-            "doi": "10.1530/JOE-15-0010"
-        },
-        {
-            "title": "Endothelial cationic amino acid transporter-1 overexpression can prevent oxidative stress and increases in arterial pressure in response to superoxide dismutase inhibition in mice",
-            "eid": "2-s2.0-84896029274",
-            "authors": [
-                {
-                    "scopus_id": "56001856000",
-                    "name": "Konstantinidis G.",
-                    "affiliation_id": [
-                        "60033409",
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "7102509301",
-                    "name": "Head G.A.",
-                    "affiliation_id": [
-                        "60033409"
-                    ]
-                },
-                {
-                    "scopus_id": "56555634900",
-                    "name": "Evans R.G.",
-                    "affiliation_id": [
-                        "60012932"
-                    ]
-                },
-                {
-                    "scopus_id": "35181756400",
-                    "name": "Nguyen-Huu T.P.",
-                    "affiliation_id": [
-                        "60033409"
-                    ]
-                },
-                {
-                    "scopus_id": "15119636100",
-                    "name": "Venardos K.",
-                    "affiliation_id": [
-                        "60033409"
-                    ]
-                },
-                {
-                    "scopus_id": "7006668263",
-                    "name": "Croft K.D.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "7102512491",
-                    "name": "Kaye D.M.",
-                    "affiliation_id": [
-                        "60033409"
-                    ]
-                },
-                {
-                    "scopus_id": "7004066533",
-                    "name": "Rajapakse N.W.",
-                    "affiliation_id": [
-                        "60033409",
-                        "60012932"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Acta Physiologica",
-            "issn": "17481708",
-            "cover_date": "2014-01-01",
-            "venue": "Journal",
-            "volume": "210",
-            "issue": "4",
-            "page_range": "845-853",
-            "doi": "10.1111/apha.12215"
-        },
-        {
-            "title": "Associations between anxious-depressed symptoms and cardiovascular risk factors in a longitudinal childhood study",
-            "eid": "2-s2.0-84860471011",
-            "authors": [
-                {
-                    "scopus_id": "26032179800",
-                    "name": "Louise S.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57200630008",
-                    "name": "Warrington N.M.",
-                    "affiliation_id": [
-                        "60089711"
-                    ]
-                },
-                {
-                    "scopus_id": "12781894500",
-                    "name": "McCaskie P.A.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7003852677",
-                    "name": "Oddy W.H.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                },
-                {
-                    "scopus_id": "7003414788",
-                    "name": "Zubrick S.R.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                },
-                {
-                    "scopus_id": "14627129300",
-                    "name": "Hands B.",
-                    "affiliation_id": [
-                        "60031487"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                },
-                {
-                    "scopus_id": "6701527302",
-                    "name": "Briollais L.",
-                    "affiliation_id": [
-                        "60006894"
-                    ]
-                },
-                {
-                    "scopus_id": "6601953521",
-                    "name": "Silburn S.",
-                    "affiliation_id": [
-                        "60000096",
-                        "60025770"
-                    ]
-                },
-                {
-                    "scopus_id": "7202347641",
-                    "name": "Palmer L.J.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60006894",
-                        "60030036"
-                    ]
-                },
-                {
-                    "scopus_id": "6602907780",
-                    "name": "Mattes E.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                },
-                {
-                    "scopus_id": "35391339800",
-                    "name": "Beilin L.J.",
-                    "affiliation_id": [
-                        "60087991"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Preventive Medicine",
-            "issn": "00917435",
-            "cover_date": "2012-05-01",
-            "venue": "Journal",
-            "volume": "54",
-            "issue": "5",
-            "page_range": "345-350",
-            "doi": "10.1016/j.ypmed.2012.03.004"
-        },
-        {
             "title": "A multi-layer functional genomic analysis to understand noncoding genetic variation in lipids",
             "eid": "2-s2.0-85135598739",
             "authors": [
@@ -26739,7 +26377,7 @@
                     ]
                 }
             ],
-            "citations": 14,
+            "citations": 15,
             "publication_name": "American Journal of Human Genetics",
             "issn": "00029297",
             "cover_date": "2022-08-04",
@@ -26748,6 +26386,368 @@
             "issue": "8",
             "page_range": "1366-1387",
             "doi": "10.1016/j.ajhg.2022.06.012"
+        },
+        {
+            "title": "Prenatal omega-3 fatty acid supplementation does not affect offspring telomere length and F<inf>2</inf>-isoprostanes at 12 years: A double blind, randomized controlled trial",
+            "eid": "2-s2.0-84983638448",
+            "authors": [
+                {
+                    "scopus_id": "57190869448",
+                    "name": "See V.H.L.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "24512737500",
+                    "name": "Mas E.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "49960987400",
+                    "name": "Burrows S.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "6602739697",
+                    "name": "O'Callaghan N.J.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "57203071846",
+                    "name": "Fenech M.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "7102795702",
+                    "name": "Prescott S.L.",
+                    "affiliation_id": [
+                        "60000096",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "35391339800",
+                    "name": "Beilin L.J.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7402950360",
+                    "name": "Huang R.C.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Prostaglandins Leukotrienes and Essential Fatty Acids",
+            "issn": "09523278",
+            "cover_date": "2016-09-01",
+            "venue": "Journal",
+            "volume": "112",
+            "issue": "",
+            "page_range": "50-55",
+            "doi": "10.1016/j.plefa.2016.08.006"
+        },
+        {
+            "title": "Chronic erythropoietin treatment improves diet-induced glucose intolerance in rats",
+            "eid": "2-s2.0-84930798311",
+            "authors": [
+                {
+                    "scopus_id": "56188123200",
+                    "name": "Caillaud C.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "55260597100",
+                    "name": "Mechta M.",
+                    "affiliation_id": [
+                        "60253102"
+                    ]
+                },
+                {
+                    "scopus_id": "41860979200",
+                    "name": "Ainge H.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "15049496300",
+                    "name": "Madsen A.N.",
+                    "affiliation_id": [
+                        "60253102",
+                        "60013332"
+                    ]
+                },
+                {
+                    "scopus_id": "57204223456",
+                    "name": "Ruell P.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "24512737500",
+                    "name": "Mas E.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7004010759",
+                    "name": "Bisbal C.",
+                    "affiliation_id": [
+                        "60108515"
+                    ]
+                },
+                {
+                    "scopus_id": "55574349600",
+                    "name": "Mercier J.",
+                    "affiliation_id": [
+                        "60108515",
+                        "60017438"
+                    ]
+                },
+                {
+                    "scopus_id": "7003760931",
+                    "name": "Twigg S.",
+                    "affiliation_id": [
+                        "60121699"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "6505936107",
+                    "name": "Simar D.",
+                    "affiliation_id": [
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7801601881",
+                    "name": "Barr\u00e8s R.",
+                    "affiliation_id": [
+                        "60253102"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Journal of Endocrinology",
+            "issn": "00220795",
+            "cover_date": "2015-01-01",
+            "venue": "Journal",
+            "volume": "225",
+            "issue": "2",
+            "page_range": "77-88",
+            "doi": "10.1530/JOE-15-0010"
+        },
+        {
+            "title": "Endothelial cationic amino acid transporter-1 overexpression can prevent oxidative stress and increases in arterial pressure in response to superoxide dismutase inhibition in mice",
+            "eid": "2-s2.0-84896029274",
+            "authors": [
+                {
+                    "scopus_id": "56001856000",
+                    "name": "Konstantinidis G.",
+                    "affiliation_id": [
+                        "60033409",
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "7102509301",
+                    "name": "Head G.A.",
+                    "affiliation_id": [
+                        "60033409"
+                    ]
+                },
+                {
+                    "scopus_id": "56555634900",
+                    "name": "Evans R.G.",
+                    "affiliation_id": [
+                        "60012932"
+                    ]
+                },
+                {
+                    "scopus_id": "35181756400",
+                    "name": "Nguyen-Huu T.P.",
+                    "affiliation_id": [
+                        "60033409"
+                    ]
+                },
+                {
+                    "scopus_id": "15119636100",
+                    "name": "Venardos K.",
+                    "affiliation_id": [
+                        "60033409"
+                    ]
+                },
+                {
+                    "scopus_id": "7006668263",
+                    "name": "Croft K.D.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "7102512491",
+                    "name": "Kaye D.M.",
+                    "affiliation_id": [
+                        "60033409"
+                    ]
+                },
+                {
+                    "scopus_id": "7004066533",
+                    "name": "Rajapakse N.W.",
+                    "affiliation_id": [
+                        "60033409",
+                        "60012932"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Acta Physiologica",
+            "issn": "17481708",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "210",
+            "issue": "4",
+            "page_range": "845-853",
+            "doi": "10.1111/apha.12215"
+        },
+        {
+            "title": "Associations between anxious-depressed symptoms and cardiovascular risk factors in a longitudinal childhood study",
+            "eid": "2-s2.0-84860471011",
+            "authors": [
+                {
+                    "scopus_id": "26032179800",
+                    "name": "Louise S.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57200630008",
+                    "name": "Warrington N.M.",
+                    "affiliation_id": [
+                        "60089711"
+                    ]
+                },
+                {
+                    "scopus_id": "12781894500",
+                    "name": "McCaskie P.A.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7003852677",
+                    "name": "Oddy W.H.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "7003414788",
+                    "name": "Zubrick S.R.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "14627129300",
+                    "name": "Hands B.",
+                    "affiliation_id": [
+                        "60031487"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                },
+                {
+                    "scopus_id": "6701527302",
+                    "name": "Briollais L.",
+                    "affiliation_id": [
+                        "60006894"
+                    ]
+                },
+                {
+                    "scopus_id": "6601953521",
+                    "name": "Silburn S.",
+                    "affiliation_id": [
+                        "60000096",
+                        "60025770"
+                    ]
+                },
+                {
+                    "scopus_id": "7202347641",
+                    "name": "Palmer L.J.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60006894",
+                        "60030036"
+                    ]
+                },
+                {
+                    "scopus_id": "6602907780",
+                    "name": "Mattes E.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "35391339800",
+                    "name": "Beilin L.J.",
+                    "affiliation_id": [
+                        "60087991"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Preventive Medicine",
+            "issn": "00917435",
+            "cover_date": "2012-05-01",
+            "venue": "Journal",
+            "volume": "54",
+            "issue": "5",
+            "page_range": "345-350",
+            "doi": "10.1016/j.ypmed.2012.03.004"
         },
         {
             "title": "Epigenome-Wide Association Study of Thyroid Function Traits Identifies Novel Associations of fT3 with KLF9 and DOT1L",
@@ -30921,6 +30921,94 @@
             "doi": "10.1016/j.hlc.2022.11.015"
         },
         {
+            "title": "Participation in sport in childhood and adolescence: Implications for adult fitness",
+            "eid": "2-s2.0-85106986892",
+            "authors": [
+                {
+                    "scopus_id": "57190956322",
+                    "name": "Haynes A.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "8126013300",
+                    "name": "McVeigh J.",
+                    "affiliation_id": [
+                        "60090173",
+                        "60016218"
+                    ]
+                },
+                {
+                    "scopus_id": "56951361100",
+                    "name": "Hissen S.L.",
+                    "affiliation_id": [
+                        "60003260",
+                        "60026695"
+                    ]
+                },
+                {
+                    "scopus_id": "36628648600",
+                    "name": "Howie E.K.",
+                    "affiliation_id": [
+                        "125186806",
+                        "60031226"
+                    ]
+                },
+                {
+                    "scopus_id": "7004916080",
+                    "name": "Eastwood P.R.",
+                    "affiliation_id": [
+                        "60020828"
+                    ]
+                },
+                {
+                    "scopus_id": "57210379749",
+                    "name": "Straker L.",
+                    "affiliation_id": [
+                        "60031226"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "35391339800",
+                    "name": "Beilin L.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "55044863100",
+                    "name": "Ainslie P.N.",
+                    "affiliation_id": [
+                        "60010365"
+                    ]
+                },
+                {
+                    "scopus_id": "26651236900",
+                    "name": "Green D.J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Journal of Science and Medicine in Sport",
+            "issn": "14402440",
+            "cover_date": "2021-09-01",
+            "venue": "Journal",
+            "volume": "24",
+            "issue": "9",
+            "page_range": "908-912",
+            "doi": "10.1016/j.jsams.2021.05.004"
+        },
+        {
             "title": "Changing dietary approaches to prevent cardiovascular disease",
             "eid": "2-s2.0-85095799270",
             "authors": [
@@ -31750,94 +31838,6 @@
             "doi": "10.1161/HYPERTENSIONAHA.121.17336"
         },
         {
-            "title": "Participation in sport in childhood and adolescence: Implications for adult fitness",
-            "eid": "2-s2.0-85106986892",
-            "authors": [
-                {
-                    "scopus_id": "57190956322",
-                    "name": "Haynes A.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "8126013300",
-                    "name": "McVeigh J.",
-                    "affiliation_id": [
-                        "60090173",
-                        "60016218"
-                    ]
-                },
-                {
-                    "scopus_id": "56951361100",
-                    "name": "Hissen S.L.",
-                    "affiliation_id": [
-                        "60003260",
-                        "60026695"
-                    ]
-                },
-                {
-                    "scopus_id": "36628648600",
-                    "name": "Howie E.K.",
-                    "affiliation_id": [
-                        "125186806",
-                        "60031226"
-                    ]
-                },
-                {
-                    "scopus_id": "7004916080",
-                    "name": "Eastwood P.R.",
-                    "affiliation_id": [
-                        "60020828"
-                    ]
-                },
-                {
-                    "scopus_id": "57210379749",
-                    "name": "Straker L.",
-                    "affiliation_id": [
-                        "60031226"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "35391339800",
-                    "name": "Beilin L.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "55044863100",
-                    "name": "Ainslie P.N.",
-                    "affiliation_id": [
-                        "60010365"
-                    ]
-                },
-                {
-                    "scopus_id": "26651236900",
-                    "name": "Green D.J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 6,
-            "publication_name": "Journal of Science and Medicine in Sport",
-            "issn": "14402440",
-            "cover_date": "2021-09-01",
-            "venue": "Journal",
-            "volume": "24",
-            "issue": "9",
-            "page_range": "908-912",
-            "doi": "10.1016/j.jsams.2021.05.004"
-        },
-        {
             "title": "Adiposity associated DNA methylation signatures in adolescents are related to leptin and perinatal factors",
             "eid": "2-s2.0-85100797237",
             "authors": [
@@ -32310,6 +32310,70 @@
             "doi": "10.1007/s12072-022-10469-7"
         },
         {
+            "title": "The relationship between intrauterine foetal growth trajectories and blood pressure in young adults",
+            "eid": "2-s2.0-85123968725",
+            "authors": [
+                {
+                    "scopus_id": "57438154100",
+                    "name": "Yadav A.",
+                    "affiliation_id": [
+                        "107514579"
+                    ]
+                },
+                {
+                    "scopus_id": "35391339800",
+                    "name": "Beilin L.J.",
+                    "affiliation_id": [
+                        "107514579"
+                    ]
+                },
+                {
+                    "scopus_id": "7402950360",
+                    "name": "Huang R.C.",
+                    "affiliation_id": [
+                        "60000096"
+                    ]
+                },
+                {
+                    "scopus_id": "57197721531",
+                    "name": "Vlaskovsky P.",
+                    "affiliation_id": [
+                        "107514579"
+                    ]
+                },
+                {
+                    "scopus_id": "7006284350",
+                    "name": "Newnham J.P.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "56797233500",
+                    "name": "White S.W.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "107514579"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Journal of Hypertension",
+            "issn": "02636352",
+            "cover_date": "2022-03-01",
+            "venue": "Journal",
+            "volume": "40",
+            "issue": "3",
+            "page_range": "478-489",
+            "doi": "10.1097/HJH.0000000000003035"
+        },
+        {
             "title": "Publisher Correction: Protein-altering variants associated with body mass index implicate pathways that control energy intake and expenditure in obesity (Nature Genetics, (2018), 50, 1, (26-41), 10.1038/s41588-017-0011-x)",
             "eid": "2-s2.0-85066947081",
             "authors": [
@@ -32478,7 +32542,7 @@
                     "scopus_id": "57222586124",
                     "name": "Masca N.G.D.",
                     "affiliation_id": [
-                        "60033125",
+                        "60171766",
                         "60009171"
                     ]
                 },
@@ -33377,70 +33441,6 @@
             "issue": "8",
             "page_range": "3987-4000",
             "doi": "10.1007/s00394-022-02934-8"
-        },
-        {
-            "title": "The relationship between intrauterine foetal growth trajectories and blood pressure in young adults",
-            "eid": "2-s2.0-85123968725",
-            "authors": [
-                {
-                    "scopus_id": "57438154100",
-                    "name": "Yadav A.",
-                    "affiliation_id": [
-                        "107514579"
-                    ]
-                },
-                {
-                    "scopus_id": "35391339800",
-                    "name": "Beilin L.J.",
-                    "affiliation_id": [
-                        "107514579"
-                    ]
-                },
-                {
-                    "scopus_id": "7402950360",
-                    "name": "Huang R.C.",
-                    "affiliation_id": [
-                        "60000096"
-                    ]
-                },
-                {
-                    "scopus_id": "57197721531",
-                    "name": "Vlaskovsky P.",
-                    "affiliation_id": [
-                        "107514579"
-                    ]
-                },
-                {
-                    "scopus_id": "7006284350",
-                    "name": "Newnham J.P.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "56797233500",
-                    "name": "White S.W.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "107514579"
-                    ]
-                }
-            ],
-            "citations": 4,
-            "publication_name": "Journal of Hypertension",
-            "issn": "02636352",
-            "cover_date": "2022-03-01",
-            "venue": "Journal",
-            "volume": "40",
-            "issue": "3",
-            "page_range": "478-489",
-            "doi": "10.1097/HJH.0000000000003035"
         },
         {
             "title": "Omega-3 Index, fish consumption, use of fish oil supplements and first clinical diagnosis of central nervous system demyelination",
@@ -36626,7 +36626,7 @@
                     "scopus_id": "7003691469",
                     "name": "Neuhouser M.L.",
                     "affiliation_id": [
-                        "60026680",
+                        "60029656",
                         "60279163"
                     ]
                 },
@@ -36676,7 +36676,7 @@
                     "scopus_id": "7004334969",
                     "name": "Gauderman W.J.",
                     "affiliation_id": [
-                        "60029311"
+                        "60015183"
                     ]
                 },
                 {
@@ -36759,6 +36759,71 @@
             "issue": "3",
             "page_range": "552-560",
             "doi": "10.1161/HYPERTENSIONAHA.123.22334"
+        },
+        {
+            "title": "Adiposity associates with lower plasma resolvin E1 (Rve1): a population study",
+            "eid": "2-s2.0-85184910100",
+            "authors": [
+                {
+                    "scopus_id": "7004046385",
+                    "name": "Barden A.",
+                    "affiliation_id": [
+                        "60189720"
+                    ]
+                },
+                {
+                    "scopus_id": "7004516399",
+                    "name": "Shinde S.",
+                    "affiliation_id": [
+                        "60189720"
+                    ]
+                },
+                {
+                    "scopus_id": "35391339800",
+                    "name": "Beilin L.J.",
+                    "affiliation_id": [
+                        "60189720"
+                    ]
+                },
+                {
+                    "scopus_id": "56391848600",
+                    "name": "Phillips M.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60030929"
+                    ]
+                },
+                {
+                    "scopus_id": "17433556200",
+                    "name": "Adams L.",
+                    "affiliation_id": [
+                        "60189720"
+                    ]
+                },
+                {
+                    "scopus_id": "58963469500",
+                    "name": "Bollmann S.",
+                    "affiliation_id": [
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "7407259854",
+                    "name": "Mori T.A.",
+                    "affiliation_id": [
+                        "60189720"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "International Journal of Obesity",
+            "issn": "03070565",
+            "cover_date": "2024-05-01",
+            "venue": "Journal",
+            "volume": "48",
+            "issue": "5",
+            "page_range": "725-732",
+            "doi": "10.1038/s41366-024-01482-x"
         },
         {
             "title": "Fetal Growth Trajectories and Measures of Insulin Resistance in Young Adults",
@@ -37360,71 +37425,6 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1007/s11906-024-01310-7"
-        },
-        {
-            "title": "Adiposity associates with lower plasma resolvin E1 (Rve1): a population study",
-            "eid": "2-s2.0-85184910100",
-            "authors": [
-                {
-                    "scopus_id": "7004046385",
-                    "name": "Barden A.",
-                    "affiliation_id": [
-                        "60189720"
-                    ]
-                },
-                {
-                    "scopus_id": "7004516399",
-                    "name": "Shinde S.",
-                    "affiliation_id": [
-                        "60189720"
-                    ]
-                },
-                {
-                    "scopus_id": "35391339800",
-                    "name": "Beilin L.J.",
-                    "affiliation_id": [
-                        "60189720"
-                    ]
-                },
-                {
-                    "scopus_id": "56391848600",
-                    "name": "Phillips M.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60030929"
-                    ]
-                },
-                {
-                    "scopus_id": "17433556200",
-                    "name": "Adams L.",
-                    "affiliation_id": [
-                        "60189720"
-                    ]
-                },
-                {
-                    "scopus_id": "58963469500",
-                    "name": "Bollmann S.",
-                    "affiliation_id": [
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "7407259854",
-                    "name": "Mori T.A.",
-                    "affiliation_id": [
-                        "60189720"
-                    ]
-                }
-            ],
-            "citations": 0,
-            "publication_name": "International Journal of Obesity",
-            "issn": "03070565",
-            "cover_date": "2024-05-01",
-            "venue": "Journal",
-            "volume": "48",
-            "issue": "5",
-            "page_range": "725-732",
-            "doi": "10.1038/s41366-024-01482-x"
         },
         {
             "title": "Relationship between TV Watching during Childhood and Adolescence, and Artery Function in Adulthood",
@@ -38732,6 +38732,5 @@
             "$": "Nursing (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:54:58",
-    "c-score": null
+    "date fetched": "2024-07-12 21:04:17"
 }

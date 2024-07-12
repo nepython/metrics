@@ -717,7 +717,7 @@
                     ]
                 }
             ],
-            "citations": 1088,
+            "citations": 1099,
             "publication_name": "European Physical Journal C",
             "issn": "14346044",
             "cover_date": "2010-01-01",
@@ -1445,7 +1445,7 @@
                     ]
                 }
             ],
-            "citations": 669,
+            "citations": 670,
             "publication_name": "Physical Review Letters",
             "issn": "00319007",
             "cover_date": "2010-12-13",
@@ -3722,7 +3722,7 @@
                     ]
                 }
             ],
-            "citations": 306,
+            "citations": 307,
             "publication_name": "Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics",
             "issn": "03702693",
             "cover_date": "2012-02-01",
@@ -4440,7 +4440,7 @@
                     ]
                 }
             ],
-            "citations": 291,
+            "citations": 293,
             "publication_name": "European Physical Journal C",
             "issn": "14346044",
             "cover_date": "2013-01-01",
@@ -5298,7 +5298,7 @@
                     "scopus_id": "16232226000",
                     "name": "Abdallah J.",
                     "affiliation_id": [
-                        "60010065"
+                        "60150063"
                     ]
                 },
                 {
@@ -5997,6 +5997,730 @@
             "issue": "3",
             "page_range": "1-46",
             "doi": "10.1140/epjc/s10052-012-1909-1"
+        },
+        {
+            "title": "Measurement of the differential cross-sections of inclusive, prompt and non-prompt J/\u03a8 production in proton-proton collisions at \u221as=7 TeV",
+            "eid": "2-s2.0-79960370378",
+            "authors": [
+                {
+                    "scopus_id": "26326745400",
+                    "name": "Aad G.",
+                    "affiliation_id": [
+                        "60025641"
+                    ]
+                },
+                {
+                    "scopus_id": "35226946900",
+                    "name": "Abbott B.",
+                    "affiliation_id": [
+                        "60030931"
+                    ]
+                },
+                {
+                    "scopus_id": "16232226000",
+                    "name": "Abdallah J.",
+                    "affiliation_id": [
+                        "60019232"
+                    ]
+                },
+                {
+                    "scopus_id": "57202557961",
+                    "name": "Abdelalim A.A.",
+                    "affiliation_id": [
+                        "60004718"
+                    ]
+                },
+                {
+                    "scopus_id": "57203069400",
+                    "name": "Abdesselam A.",
+                    "affiliation_id": [
+                        "60026851"
+                    ]
+                },
+                {
+                    "scopus_id": "6507496079",
+                    "name": "Abdinov O.",
+                    "affiliation_id": [
+                        "60071956"
+                    ]
+                },
+                {
+                    "scopus_id": "26967479400",
+                    "name": "Abi B.",
+                    "affiliation_id": [
+                        "60006514"
+                    ]
+                },
+                {
+                    "scopus_id": "56439018500",
+                    "name": "Abolins M.",
+                    "affiliation_id": [
+                        "60031707"
+                    ]
+                },
+                {
+                    "scopus_id": "35226937900",
+                    "name": "Abramowicz H.",
+                    "affiliation_id": [
+                        "60005681"
+                    ]
+                },
+                {
+                    "scopus_id": "36491276300",
+                    "name": "Abreu H.",
+                    "affiliation_id": [
+                        "60073296"
+                    ]
+                },
+                {
+                    "scopus_id": "57202556476",
+                    "name": "Acerbi E.",
+                    "affiliation_id": [
+                        "60114755",
+                        "60030318"
+                    ]
+                },
+                {
+                    "scopus_id": "35226935900",
+                    "name": "Acharya B.S.",
+                    "affiliation_id": [
+                        "60114764",
+                        "60031745"
+                    ]
+                },
+                {
+                    "scopus_id": "57202556473",
+                    "name": "Adams D.L.",
+                    "affiliation_id": [
+                        "60006221"
+                    ]
+                },
+                {
+                    "scopus_id": "26326693000",
+                    "name": "Addy T.N.",
+                    "affiliation_id": [
+                        "60031249"
+                    ]
+                },
+                {
+                    "scopus_id": "35226944400",
+                    "name": "Adelman J.",
+                    "affiliation_id": [
+                        "60157832"
+                    ]
+                },
+                {
+                    "scopus_id": "6602701120",
+                    "name": "Aderholz M.",
+                    "affiliation_id": [
+                        "60008743"
+                    ]
+                },
+                {
+                    "scopus_id": "36197934200",
+                    "name": "Adomeit S.",
+                    "affiliation_id": [
+                        "60028717"
+                    ]
+                },
+                {
+                    "scopus_id": "35277935400",
+                    "name": "Adragna P.",
+                    "affiliation_id": [
+                        "60022109"
+                    ]
+                },
+                {
+                    "scopus_id": "35354875500",
+                    "name": "Adye T.",
+                    "affiliation_id": [
+                        "60267252"
+                    ]
+                },
+                {
+                    "scopus_id": "26421042100",
+                    "name": "Aefsky S.",
+                    "affiliation_id": [
+                        "60016247"
+                    ]
+                },
+                {
+                    "scopus_id": "57223602865",
+                    "name": "Aguilar-Saavedra J.A.",
+                    "affiliation_id": [
+                        "60027844"
+                    ]
+                },
+                {
+                    "scopus_id": "35277867700",
+                    "name": "Aharrouche M.",
+                    "affiliation_id": [
+                        "60031216"
+                    ]
+                },
+                {
+                    "scopus_id": "23099432500",
+                    "name": "Ahlen S.P.",
+                    "affiliation_id": [
+                        "60280405"
+                    ]
+                },
+                {
+                    "scopus_id": "36491288400",
+                    "name": "Ahles F.",
+                    "affiliation_id": [
+                        "60025641"
+                    ]
+                },
+                {
+                    "scopus_id": "57225975472",
+                    "name": "Ahmad A.",
+                    "affiliation_id": [
+                        "60026415"
+                    ]
+                },
+                {
+                    "scopus_id": "35226937200",
+                    "name": "Ahsan M.",
+                    "affiliation_id": [
+                        "60009415"
+                    ]
+                },
+                {
+                    "scopus_id": "6701744508",
+                    "name": "Aielli G.",
+                    "affiliation_id": [
+                        "60114688",
+                        "60027509"
+                    ]
+                },
+                {
+                    "scopus_id": "6603477049",
+                    "name": "Akdogan T.",
+                    "affiliation_id": [
+                        "60005803"
+                    ]
+                },
+                {
+                    "scopus_id": "7006004266",
+                    "name": "\u00c5kesson T.P.A.",
+                    "affiliation_id": [
+                        "60029170"
+                    ]
+                },
+                {
+                    "scopus_id": "36491155500",
+                    "name": "Akimoto G.",
+                    "affiliation_id": [
+                        "60025272"
+                    ]
+                },
+                {
+                    "scopus_id": "34976152200",
+                    "name": "Akimov A.V.",
+                    "affiliation_id": [
+                        "60009114"
+                    ]
+                },
+                {
+                    "scopus_id": "38861032400",
+                    "name": "Akiyama A.",
+                    "affiliation_id": [
+                        "60011418"
+                    ]
+                },
+                {
+                    "scopus_id": "57218967548",
+                    "name": "Alam M.S.",
+                    "affiliation_id": [
+                        "60011666"
+                    ]
+                },
+                {
+                    "scopus_id": "36491014800",
+                    "name": "Alam M.A.",
+                    "affiliation_id": [
+                        "60020595"
+                    ]
+                },
+                {
+                    "scopus_id": "12753497800",
+                    "name": "Albrand S.",
+                    "affiliation_id": [
+                        "60026070"
+                    ]
+                },
+                {
+                    "scopus_id": "6602174231",
+                    "name": "Aleksa M.",
+                    "affiliation_id": [
+                        "60019778"
+                    ]
+                },
+                {
+                    "scopus_id": "24757769500",
+                    "name": "Aleksandrov I.N.",
+                    "affiliation_id": [
+                        "60004764"
+                    ]
+                },
+                {
+                    "scopus_id": "14628508600",
+                    "name": "Aleppo M.",
+                    "affiliation_id": [
+                        "60114755",
+                        "60030318"
+                    ]
+                },
+                {
+                    "scopus_id": "15922083800",
+                    "name": "Alessandria F.",
+                    "affiliation_id": [
+                        "60114755"
+                    ]
+                },
+                {
+                    "scopus_id": "6701620142",
+                    "name": "Alexa C.",
+                    "affiliation_id": [
+                        "60007512"
+                    ]
+                },
+                {
+                    "scopus_id": "56978658700",
+                    "name": "Alexander G.",
+                    "affiliation_id": [
+                        "60005681"
+                    ]
+                },
+                {
+                    "scopus_id": "35222846500",
+                    "name": "Alexandre G.",
+                    "affiliation_id": [
+                        "60004718"
+                    ]
+                },
+                {
+                    "scopus_id": "55210029300",
+                    "name": "Alexopoulos T.",
+                    "affiliation_id": [
+                        "60002947"
+                    ]
+                },
+                {
+                    "scopus_id": "36491234800",
+                    "name": "Alhroob M.",
+                    "affiliation_id": [
+                        "60007493"
+                    ]
+                },
+                {
+                    "scopus_id": "35222908000",
+                    "name": "Aliev M.",
+                    "affiliation_id": [
+                        "60000762"
+                    ]
+                },
+                {
+                    "scopus_id": "7005583039",
+                    "name": "Alimonti G.",
+                    "affiliation_id": [
+                        "60114755"
+                    ]
+                },
+                {
+                    "scopus_id": "35104288100",
+                    "name": "Alison J.",
+                    "affiliation_id": [
+                        "60006297"
+                    ]
+                },
+                {
+                    "scopus_id": "6602641017",
+                    "name": "Aliyev M.",
+                    "affiliation_id": [
+                        "60071956"
+                    ]
+                },
+                {
+                    "scopus_id": "56224636200",
+                    "name": "Allport P.P.",
+                    "affiliation_id": [
+                        "60020661"
+                    ]
+                },
+                {
+                    "scopus_id": "31967474700",
+                    "name": "Allwood-Spiers S.E.",
+                    "affiliation_id": [
+                        "60001490"
+                    ]
+                },
+                {
+                    "scopus_id": "36554032100",
+                    "name": "Almond J.",
+                    "affiliation_id": [
+                        "60003771"
+                    ]
+                },
+                {
+                    "scopus_id": "55667348900",
+                    "name": "Aloisio A.",
+                    "affiliation_id": [
+                        "60113231",
+                        "60017293"
+                    ]
+                },
+                {
+                    "scopus_id": "36553876000",
+                    "name": "Alon R.",
+                    "affiliation_id": [
+                        "60017563"
+                    ]
+                },
+                {
+                    "scopus_id": "35222916500",
+                    "name": "Alonso A.",
+                    "affiliation_id": [
+                        "60029170"
+                    ]
+                },
+                {
+                    "scopus_id": "35226969700",
+                    "name": "Alviggi M.G.",
+                    "affiliation_id": [
+                        "60113231",
+                        "60017293"
+                    ]
+                },
+                {
+                    "scopus_id": "56231458500",
+                    "name": "Amako K.",
+                    "affiliation_id": [
+                        "60003218"
+                    ]
+                },
+                {
+                    "scopus_id": "55699364900",
+                    "name": "Amaral P.",
+                    "affiliation_id": [
+                        "60019778"
+                    ]
+                },
+                {
+                    "scopus_id": "35314484500",
+                    "name": "Amelung C.",
+                    "affiliation_id": [
+                        "60016247"
+                    ]
+                },
+                {
+                    "scopus_id": "55325015100",
+                    "name": "Ammosov V.V.",
+                    "affiliation_id": [
+                        "60068675"
+                    ]
+                },
+                {
+                    "scopus_id": "7006426789",
+                    "name": "Amorim A.",
+                    "affiliation_id": [
+                        "60022689"
+                    ]
+                },
+                {
+                    "scopus_id": "6602889646",
+                    "name": "Amor\u00f3s G.",
+                    "affiliation_id": [
+                        "60002644"
+                    ]
+                },
+                {
+                    "scopus_id": "23479393700",
+                    "name": "Amram N.",
+                    "affiliation_id": [
+                        "60005681"
+                    ]
+                },
+                {
+                    "scopus_id": "23479237400",
+                    "name": "Anastopoulos C.",
+                    "affiliation_id": [
+                        "60001881"
+                    ]
+                },
+                {
+                    "scopus_id": "35226931200",
+                    "name": "Andeen T.",
+                    "affiliation_id": [
+                        "60030162"
+                    ]
+                },
+                {
+                    "scopus_id": "36491141700",
+                    "name": "Anders C.F.",
+                    "affiliation_id": [
+                        "60007493"
+                    ]
+                },
+                {
+                    "scopus_id": "35352197000",
+                    "name": "Anderson K.J.",
+                    "affiliation_id": [
+                        "60025597"
+                    ]
+                },
+                {
+                    "scopus_id": "35226954200",
+                    "name": "Andreazza A.",
+                    "affiliation_id": [
+                        "60114755",
+                        "60030318"
+                    ]
+                },
+                {
+                    "scopus_id": "22833857500",
+                    "name": "Andrei V.",
+                    "affiliation_id": [
+                        "60016908"
+                    ]
+                },
+                {
+                    "scopus_id": "7004028879",
+                    "name": "Andrieux M.L.",
+                    "affiliation_id": [
+                        "60026070"
+                    ]
+                },
+                {
+                    "scopus_id": "24757888800",
+                    "name": "Anduaga X.S.",
+                    "affiliation_id": [
+                        "60110313"
+                    ]
+                },
+                {
+                    "scopus_id": "57419071300",
+                    "name": "Angerami A.",
+                    "affiliation_id": [
+                        "60030162"
+                    ]
+                },
+                {
+                    "scopus_id": "7003443694",
+                    "name": "Anghinolfi F.",
+                    "affiliation_id": [
+                        "60019778"
+                    ]
+                },
+                {
+                    "scopus_id": "35285639400",
+                    "name": "Anjos N.",
+                    "affiliation_id": [
+                        "60022689"
+                    ]
+                },
+                {
+                    "scopus_id": "35226940800",
+                    "name": "Annovi A.",
+                    "affiliation_id": [
+                        "60016340"
+                    ]
+                },
+                {
+                    "scopus_id": "7801309155",
+                    "name": "Antonaki A.",
+                    "affiliation_id": [
+                        "60028900"
+                    ]
+                },
+                {
+                    "scopus_id": "35095999100",
+                    "name": "Antonelli M.",
+                    "affiliation_id": [
+                        "60016340"
+                    ]
+                },
+                {
+                    "scopus_id": "13612406600",
+                    "name": "Antonelli S.",
+                    "affiliation_id": [
+                        "60114720",
+                        "60028218"
+                    ]
+                },
+                {
+                    "scopus_id": "10039870000",
+                    "name": "Antonov A.",
+                    "affiliation_id": [
+                        "60068673"
+                    ]
+                },
+                {
+                    "scopus_id": "34568529500",
+                    "name": "Antos J.",
+                    "affiliation_id": [
+                        "60010330"
+                    ]
+                },
+                {
+                    "scopus_id": "56978805100",
+                    "name": "Anulli F.",
+                    "affiliation_id": [
+                        "60021660"
+                    ]
+                },
+                {
+                    "scopus_id": "36554037700",
+                    "name": "Aoun S.",
+                    "affiliation_id": [
+                        "60107094"
+                    ]
+                },
+                {
+                    "scopus_id": "36719782900",
+                    "name": "Aperio Bella L.",
+                    "affiliation_id": [
+                        "60019513"
+                    ]
+                },
+                {
+                    "scopus_id": "57202556504",
+                    "name": "Apolle R.",
+                    "affiliation_id": [
+                        "60026851"
+                    ]
+                },
+                {
+                    "scopus_id": "17345167100",
+                    "name": "Arabidze G.",
+                    "affiliation_id": [
+                        "60031707"
+                    ]
+                },
+                {
+                    "scopus_id": "57027365700",
+                    "name": "Aracena I.",
+                    "affiliation_id": [
+                        "60025590"
+                    ]
+                },
+                {
+                    "scopus_id": "55428452200",
+                    "name": "Arai Y.",
+                    "affiliation_id": [
+                        "60003218"
+                    ]
+                },
+                {
+                    "scopus_id": "55574191488",
+                    "name": "Arce A.T.H.",
+                    "affiliation_id": [
+                        "60008724"
+                    ]
+                },
+                {
+                    "scopus_id": "7006062557",
+                    "name": "Archambault J.P.",
+                    "affiliation_id": [
+                        "60017592"
+                    ]
+                },
+                {
+                    "scopus_id": "36491236300",
+                    "name": "Arfaoui S.",
+                    "affiliation_id": [
+                        "60019778"
+                    ]
+                },
+                {
+                    "scopus_id": "57202562334",
+                    "name": "Arguin J.F.",
+                    "affiliation_id": [
+                        "60007174"
+                    ]
+                },
+                {
+                    "scopus_id": "35226950800",
+                    "name": "Arik E.",
+                    "affiliation_id": [
+                        "60005803"
+                    ]
+                },
+                {
+                    "scopus_id": "7005444397",
+                    "name": "Arik M.",
+                    "affiliation_id": [
+                        "60005803"
+                    ]
+                },
+                {
+                    "scopus_id": "56978932400",
+                    "name": "Armbruster A.J.",
+                    "affiliation_id": [
+                        "60025778"
+                    ]
+                },
+                {
+                    "scopus_id": "36491292200",
+                    "name": "Arnaez O.",
+                    "affiliation_id": [
+                        "60031216"
+                    ]
+                },
+                {
+                    "scopus_id": "36491252400",
+                    "name": "Arnault C.",
+                    "affiliation_id": [
+                        "60073296"
+                    ]
+                },
+                {
+                    "scopus_id": "57548734800",
+                    "name": "Artamonov A.",
+                    "affiliation_id": [
+                        "60018710"
+                    ]
+                },
+                {
+                    "scopus_id": "36719796000",
+                    "name": "Artoni G.",
+                    "affiliation_id": [
+                        "60021660",
+                        "60084908"
+                    ]
+                },
+                {
+                    "scopus_id": "26434621700",
+                    "name": "Arutinov D.",
+                    "affiliation_id": [
+                        "60007493"
+                    ]
+                },
+                {
+                    "scopus_id": "34567554700",
+                    "name": "Asai S.",
+                    "affiliation_id": [
+                        "60025272"
+                    ]
+                },
+                {
+                    "scopus_id": "36491192100",
+                    "name": "Asfandiyarov R.",
+                    "affiliation_id": [
+                        "60153131"
+                    ]
+                }
+            ],
+            "citations": 204,
+            "publication_name": "Nuclear Physics B",
+            "issn": "05503213",
+            "cover_date": "2011-01-01",
+            "venue": "Journal",
+            "volume": "850",
+            "issue": "3",
+            "page_range": "387-444",
+            "doi": "10.1016/j.nuclphysb.2011.05.015"
         },
         {
             "title": "Measurement of the inclusive W<sup>\u00b1</sup> and Z/\u03b3\u2217 cross sections in the e and \u03bc decay channels in pp collisions at \u221as=7TeV with the ATLAS detector",
@@ -6725,730 +7449,6 @@
             "doi": "10.1103/PhysRevD.85.072004"
         },
         {
-            "title": "Measurement of the differential cross-sections of inclusive, prompt and non-prompt J/\u03a8 production in proton-proton collisions at \u221as=7 TeV",
-            "eid": "2-s2.0-79960370378",
-            "authors": [
-                {
-                    "scopus_id": "26326745400",
-                    "name": "Aad G.",
-                    "affiliation_id": [
-                        "60025641"
-                    ]
-                },
-                {
-                    "scopus_id": "35226946900",
-                    "name": "Abbott B.",
-                    "affiliation_id": [
-                        "60030931"
-                    ]
-                },
-                {
-                    "scopus_id": "16232226000",
-                    "name": "Abdallah J.",
-                    "affiliation_id": [
-                        "60019232"
-                    ]
-                },
-                {
-                    "scopus_id": "57202557961",
-                    "name": "Abdelalim A.A.",
-                    "affiliation_id": [
-                        "60004718"
-                    ]
-                },
-                {
-                    "scopus_id": "57203069400",
-                    "name": "Abdesselam A.",
-                    "affiliation_id": [
-                        "60026851"
-                    ]
-                },
-                {
-                    "scopus_id": "6507496079",
-                    "name": "Abdinov O.",
-                    "affiliation_id": [
-                        "60071956"
-                    ]
-                },
-                {
-                    "scopus_id": "26967479400",
-                    "name": "Abi B.",
-                    "affiliation_id": [
-                        "60006514"
-                    ]
-                },
-                {
-                    "scopus_id": "56439018500",
-                    "name": "Abolins M.",
-                    "affiliation_id": [
-                        "60031707"
-                    ]
-                },
-                {
-                    "scopus_id": "35226937900",
-                    "name": "Abramowicz H.",
-                    "affiliation_id": [
-                        "60005681"
-                    ]
-                },
-                {
-                    "scopus_id": "36491276300",
-                    "name": "Abreu H.",
-                    "affiliation_id": [
-                        "60073296"
-                    ]
-                },
-                {
-                    "scopus_id": "57202556476",
-                    "name": "Acerbi E.",
-                    "affiliation_id": [
-                        "60114755",
-                        "60030318"
-                    ]
-                },
-                {
-                    "scopus_id": "35226935900",
-                    "name": "Acharya B.S.",
-                    "affiliation_id": [
-                        "60114764",
-                        "60031745"
-                    ]
-                },
-                {
-                    "scopus_id": "57202556473",
-                    "name": "Adams D.L.",
-                    "affiliation_id": [
-                        "60006221"
-                    ]
-                },
-                {
-                    "scopus_id": "26326693000",
-                    "name": "Addy T.N.",
-                    "affiliation_id": [
-                        "60031249"
-                    ]
-                },
-                {
-                    "scopus_id": "35226944400",
-                    "name": "Adelman J.",
-                    "affiliation_id": [
-                        "60157832"
-                    ]
-                },
-                {
-                    "scopus_id": "6602701120",
-                    "name": "Aderholz M.",
-                    "affiliation_id": [
-                        "60008743"
-                    ]
-                },
-                {
-                    "scopus_id": "36197934200",
-                    "name": "Adomeit S.",
-                    "affiliation_id": [
-                        "60028717"
-                    ]
-                },
-                {
-                    "scopus_id": "35277935400",
-                    "name": "Adragna P.",
-                    "affiliation_id": [
-                        "60022109"
-                    ]
-                },
-                {
-                    "scopus_id": "35354875500",
-                    "name": "Adye T.",
-                    "affiliation_id": [
-                        "60267252"
-                    ]
-                },
-                {
-                    "scopus_id": "26421042100",
-                    "name": "Aefsky S.",
-                    "affiliation_id": [
-                        "60016247"
-                    ]
-                },
-                {
-                    "scopus_id": "57223602865",
-                    "name": "Aguilar-Saavedra J.A.",
-                    "affiliation_id": [
-                        "60027844"
-                    ]
-                },
-                {
-                    "scopus_id": "35277867700",
-                    "name": "Aharrouche M.",
-                    "affiliation_id": [
-                        "60031216"
-                    ]
-                },
-                {
-                    "scopus_id": "23099432500",
-                    "name": "Ahlen S.P.",
-                    "affiliation_id": [
-                        "60280405"
-                    ]
-                },
-                {
-                    "scopus_id": "36491288400",
-                    "name": "Ahles F.",
-                    "affiliation_id": [
-                        "60025641"
-                    ]
-                },
-                {
-                    "scopus_id": "57225975472",
-                    "name": "Ahmad A.",
-                    "affiliation_id": [
-                        "60026415"
-                    ]
-                },
-                {
-                    "scopus_id": "35226937200",
-                    "name": "Ahsan M.",
-                    "affiliation_id": [
-                        "60009415"
-                    ]
-                },
-                {
-                    "scopus_id": "6701744508",
-                    "name": "Aielli G.",
-                    "affiliation_id": [
-                        "60114688",
-                        "60027509"
-                    ]
-                },
-                {
-                    "scopus_id": "6603477049",
-                    "name": "Akdogan T.",
-                    "affiliation_id": [
-                        "60005803"
-                    ]
-                },
-                {
-                    "scopus_id": "7006004266",
-                    "name": "\u00c5kesson T.P.A.",
-                    "affiliation_id": [
-                        "60029170"
-                    ]
-                },
-                {
-                    "scopus_id": "36491155500",
-                    "name": "Akimoto G.",
-                    "affiliation_id": [
-                        "60025272"
-                    ]
-                },
-                {
-                    "scopus_id": "34976152200",
-                    "name": "Akimov A.V.",
-                    "affiliation_id": [
-                        "60009114"
-                    ]
-                },
-                {
-                    "scopus_id": "38861032400",
-                    "name": "Akiyama A.",
-                    "affiliation_id": [
-                        "60011418"
-                    ]
-                },
-                {
-                    "scopus_id": "57218967548",
-                    "name": "Alam M.S.",
-                    "affiliation_id": [
-                        "60011666"
-                    ]
-                },
-                {
-                    "scopus_id": "36491014800",
-                    "name": "Alam M.A.",
-                    "affiliation_id": [
-                        "60020595"
-                    ]
-                },
-                {
-                    "scopus_id": "12753497800",
-                    "name": "Albrand S.",
-                    "affiliation_id": [
-                        "60026070"
-                    ]
-                },
-                {
-                    "scopus_id": "6602174231",
-                    "name": "Aleksa M.",
-                    "affiliation_id": [
-                        "60019778"
-                    ]
-                },
-                {
-                    "scopus_id": "24757769500",
-                    "name": "Aleksandrov I.N.",
-                    "affiliation_id": [
-                        "60004764"
-                    ]
-                },
-                {
-                    "scopus_id": "14628508600",
-                    "name": "Aleppo M.",
-                    "affiliation_id": [
-                        "60114755",
-                        "60030318"
-                    ]
-                },
-                {
-                    "scopus_id": "15922083800",
-                    "name": "Alessandria F.",
-                    "affiliation_id": [
-                        "60114755"
-                    ]
-                },
-                {
-                    "scopus_id": "6701620142",
-                    "name": "Alexa C.",
-                    "affiliation_id": [
-                        "60007512"
-                    ]
-                },
-                {
-                    "scopus_id": "56978658700",
-                    "name": "Alexander G.",
-                    "affiliation_id": [
-                        "60005681"
-                    ]
-                },
-                {
-                    "scopus_id": "35222846500",
-                    "name": "Alexandre G.",
-                    "affiliation_id": [
-                        "60004718"
-                    ]
-                },
-                {
-                    "scopus_id": "55210029300",
-                    "name": "Alexopoulos T.",
-                    "affiliation_id": [
-                        "60002947"
-                    ]
-                },
-                {
-                    "scopus_id": "36491234800",
-                    "name": "Alhroob M.",
-                    "affiliation_id": [
-                        "60007493"
-                    ]
-                },
-                {
-                    "scopus_id": "35222908000",
-                    "name": "Aliev M.",
-                    "affiliation_id": [
-                        "60000762"
-                    ]
-                },
-                {
-                    "scopus_id": "7005583039",
-                    "name": "Alimonti G.",
-                    "affiliation_id": [
-                        "60114755"
-                    ]
-                },
-                {
-                    "scopus_id": "35104288100",
-                    "name": "Alison J.",
-                    "affiliation_id": [
-                        "60006297"
-                    ]
-                },
-                {
-                    "scopus_id": "6602641017",
-                    "name": "Aliyev M.",
-                    "affiliation_id": [
-                        "60071956"
-                    ]
-                },
-                {
-                    "scopus_id": "56224636200",
-                    "name": "Allport P.P.",
-                    "affiliation_id": [
-                        "60020661"
-                    ]
-                },
-                {
-                    "scopus_id": "31967474700",
-                    "name": "Allwood-Spiers S.E.",
-                    "affiliation_id": [
-                        "60001490"
-                    ]
-                },
-                {
-                    "scopus_id": "36554032100",
-                    "name": "Almond J.",
-                    "affiliation_id": [
-                        "60003771"
-                    ]
-                },
-                {
-                    "scopus_id": "55667348900",
-                    "name": "Aloisio A.",
-                    "affiliation_id": [
-                        "60113231",
-                        "60017293"
-                    ]
-                },
-                {
-                    "scopus_id": "36553876000",
-                    "name": "Alon R.",
-                    "affiliation_id": [
-                        "60017563"
-                    ]
-                },
-                {
-                    "scopus_id": "35222916500",
-                    "name": "Alonso A.",
-                    "affiliation_id": [
-                        "60029170"
-                    ]
-                },
-                {
-                    "scopus_id": "35226969700",
-                    "name": "Alviggi M.G.",
-                    "affiliation_id": [
-                        "60113231",
-                        "60017293"
-                    ]
-                },
-                {
-                    "scopus_id": "56231458500",
-                    "name": "Amako K.",
-                    "affiliation_id": [
-                        "60003218"
-                    ]
-                },
-                {
-                    "scopus_id": "55699364900",
-                    "name": "Amaral P.",
-                    "affiliation_id": [
-                        "60019778"
-                    ]
-                },
-                {
-                    "scopus_id": "35314484500",
-                    "name": "Amelung C.",
-                    "affiliation_id": [
-                        "60016247"
-                    ]
-                },
-                {
-                    "scopus_id": "55325015100",
-                    "name": "Ammosov V.V.",
-                    "affiliation_id": [
-                        "60068675"
-                    ]
-                },
-                {
-                    "scopus_id": "7006426789",
-                    "name": "Amorim A.",
-                    "affiliation_id": [
-                        "60022689"
-                    ]
-                },
-                {
-                    "scopus_id": "6602889646",
-                    "name": "Amor\u00f3s G.",
-                    "affiliation_id": [
-                        "60002644"
-                    ]
-                },
-                {
-                    "scopus_id": "23479393700",
-                    "name": "Amram N.",
-                    "affiliation_id": [
-                        "60005681"
-                    ]
-                },
-                {
-                    "scopus_id": "23479237400",
-                    "name": "Anastopoulos C.",
-                    "affiliation_id": [
-                        "60001881"
-                    ]
-                },
-                {
-                    "scopus_id": "35226931200",
-                    "name": "Andeen T.",
-                    "affiliation_id": [
-                        "60030162"
-                    ]
-                },
-                {
-                    "scopus_id": "36491141700",
-                    "name": "Anders C.F.",
-                    "affiliation_id": [
-                        "60007493"
-                    ]
-                },
-                {
-                    "scopus_id": "35352197000",
-                    "name": "Anderson K.J.",
-                    "affiliation_id": [
-                        "60025597"
-                    ]
-                },
-                {
-                    "scopus_id": "35226954200",
-                    "name": "Andreazza A.",
-                    "affiliation_id": [
-                        "60114755",
-                        "60030318"
-                    ]
-                },
-                {
-                    "scopus_id": "22833857500",
-                    "name": "Andrei V.",
-                    "affiliation_id": [
-                        "60016908"
-                    ]
-                },
-                {
-                    "scopus_id": "7004028879",
-                    "name": "Andrieux M.L.",
-                    "affiliation_id": [
-                        "60026070"
-                    ]
-                },
-                {
-                    "scopus_id": "24757888800",
-                    "name": "Anduaga X.S.",
-                    "affiliation_id": [
-                        "60110313"
-                    ]
-                },
-                {
-                    "scopus_id": "57419071300",
-                    "name": "Angerami A.",
-                    "affiliation_id": [
-                        "60030162"
-                    ]
-                },
-                {
-                    "scopus_id": "7003443694",
-                    "name": "Anghinolfi F.",
-                    "affiliation_id": [
-                        "60019778"
-                    ]
-                },
-                {
-                    "scopus_id": "35285639400",
-                    "name": "Anjos N.",
-                    "affiliation_id": [
-                        "60022689"
-                    ]
-                },
-                {
-                    "scopus_id": "35226940800",
-                    "name": "Annovi A.",
-                    "affiliation_id": [
-                        "60016340"
-                    ]
-                },
-                {
-                    "scopus_id": "7801309155",
-                    "name": "Antonaki A.",
-                    "affiliation_id": [
-                        "60028900"
-                    ]
-                },
-                {
-                    "scopus_id": "35095999100",
-                    "name": "Antonelli M.",
-                    "affiliation_id": [
-                        "60016340"
-                    ]
-                },
-                {
-                    "scopus_id": "13612406600",
-                    "name": "Antonelli S.",
-                    "affiliation_id": [
-                        "60114720",
-                        "60028218"
-                    ]
-                },
-                {
-                    "scopus_id": "10039870000",
-                    "name": "Antonov A.",
-                    "affiliation_id": [
-                        "60068673"
-                    ]
-                },
-                {
-                    "scopus_id": "34568529500",
-                    "name": "Antos J.",
-                    "affiliation_id": [
-                        "60010330"
-                    ]
-                },
-                {
-                    "scopus_id": "56978805100",
-                    "name": "Anulli F.",
-                    "affiliation_id": [
-                        "60021660"
-                    ]
-                },
-                {
-                    "scopus_id": "36554037700",
-                    "name": "Aoun S.",
-                    "affiliation_id": [
-                        "60107094"
-                    ]
-                },
-                {
-                    "scopus_id": "36719782900",
-                    "name": "Aperio Bella L.",
-                    "affiliation_id": [
-                        "60019513"
-                    ]
-                },
-                {
-                    "scopus_id": "57202556504",
-                    "name": "Apolle R.",
-                    "affiliation_id": [
-                        "60026851"
-                    ]
-                },
-                {
-                    "scopus_id": "17345167100",
-                    "name": "Arabidze G.",
-                    "affiliation_id": [
-                        "60031707"
-                    ]
-                },
-                {
-                    "scopus_id": "57027365700",
-                    "name": "Aracena I.",
-                    "affiliation_id": [
-                        "60025590"
-                    ]
-                },
-                {
-                    "scopus_id": "55428452200",
-                    "name": "Arai Y.",
-                    "affiliation_id": [
-                        "60003218"
-                    ]
-                },
-                {
-                    "scopus_id": "55574191488",
-                    "name": "Arce A.T.H.",
-                    "affiliation_id": [
-                        "60008724"
-                    ]
-                },
-                {
-                    "scopus_id": "7006062557",
-                    "name": "Archambault J.P.",
-                    "affiliation_id": [
-                        "60017592"
-                    ]
-                },
-                {
-                    "scopus_id": "36491236300",
-                    "name": "Arfaoui S.",
-                    "affiliation_id": [
-                        "60019778"
-                    ]
-                },
-                {
-                    "scopus_id": "57202562334",
-                    "name": "Arguin J.F.",
-                    "affiliation_id": [
-                        "60007174"
-                    ]
-                },
-                {
-                    "scopus_id": "35226950800",
-                    "name": "Arik E.",
-                    "affiliation_id": [
-                        "60005803"
-                    ]
-                },
-                {
-                    "scopus_id": "7005444397",
-                    "name": "Arik M.",
-                    "affiliation_id": [
-                        "60005803"
-                    ]
-                },
-                {
-                    "scopus_id": "56978932400",
-                    "name": "Armbruster A.J.",
-                    "affiliation_id": [
-                        "60025778"
-                    ]
-                },
-                {
-                    "scopus_id": "36491292200",
-                    "name": "Arnaez O.",
-                    "affiliation_id": [
-                        "60031216"
-                    ]
-                },
-                {
-                    "scopus_id": "36491252400",
-                    "name": "Arnault C.",
-                    "affiliation_id": [
-                        "60073296"
-                    ]
-                },
-                {
-                    "scopus_id": "57548734800",
-                    "name": "Artamonov A.",
-                    "affiliation_id": [
-                        "60018710"
-                    ]
-                },
-                {
-                    "scopus_id": "36719796000",
-                    "name": "Artoni G.",
-                    "affiliation_id": [
-                        "60021660",
-                        "60084908"
-                    ]
-                },
-                {
-                    "scopus_id": "26434621700",
-                    "name": "Arutinov D.",
-                    "affiliation_id": [
-                        "60007493"
-                    ]
-                },
-                {
-                    "scopus_id": "34567554700",
-                    "name": "Asai S.",
-                    "affiliation_id": [
-                        "60025272"
-                    ]
-                },
-                {
-                    "scopus_id": "36491192100",
-                    "name": "Asfandiyarov R.",
-                    "affiliation_id": [
-                        "60153131"
-                    ]
-                }
-            ],
-            "citations": 203,
-            "publication_name": "Nuclear Physics B",
-            "issn": "05503213",
-            "cover_date": "2011-01-01",
-            "venue": "Journal",
-            "volume": "850",
-            "issue": "3",
-            "page_range": "387-444",
-            "doi": "10.1016/j.nuclphysb.2011.05.015"
-        },
-        {
             "title": "Measurement of the top quark-pair production cross section with ATLAS in pp collisions at \u221as = 7 TeV",
             "eid": "2-s2.0-84876438744",
             "authors": [
@@ -8164,7 +8164,7 @@
                     ]
                 }
             ],
-            "citations": 195,
+            "citations": 196,
             "publication_name": "European Physical Journal C",
             "issn": "14346044",
             "cover_date": "2011-01-01",
@@ -11800,7 +11800,7 @@
                     ]
                 }
             ],
-            "citations": 149,
+            "citations": 150,
             "publication_name": "New Journal of Physics",
             "issn": "13672630",
             "cover_date": "2011-01-01",
@@ -20627,7 +20627,7 @@
                     ]
                 }
             ],
-            "citations": 90,
+            "citations": 91,
             "publication_name": "Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics",
             "issn": "03702693",
             "cover_date": "2012-02-14",
@@ -24260,7 +24260,7 @@
                     ]
                 }
             ],
-            "citations": 77,
+            "citations": 78,
             "publication_name": "European Physical Journal C",
             "issn": "14346044",
             "cover_date": "2011-12-21",
@@ -65761,6 +65761,5 @@
             "$": "Mathematics (all)"
         }
     ],
-    "date fetched": "2024-06-30 08:45:08",
-    "c-score": null
+    "date fetched": "2024-07-12 19:06:44"
 }

@@ -705,7 +705,7 @@
                     ]
                 }
             ],
-            "citations": 9335,
+            "citations": 9344,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -902,7 +902,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 5814,
+            "citations": 5821,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -1135,7 +1135,7 @@
                     ]
                 }
             ],
-            "citations": 4281,
+            "citations": 4338,
             "publication_name": "British Journal of Sports Medicine",
             "issn": "03063674",
             "cover_date": "2020-12-01",
@@ -1329,7 +1329,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 3920,
+            "citations": 3926,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -1523,7 +1523,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 2738,
+            "citations": 2746,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-07-01",
@@ -1567,7 +1567,7 @@
                     ]
                 }
             ],
-            "citations": 2706,
+            "citations": 2722,
             "publication_name": "The Lancet Global Health",
             "issn": "",
             "cover_date": "2018-10-01",
@@ -1762,7 +1762,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 2017,
+            "citations": 2019,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -1807,7 +1807,7 @@
                     ]
                 }
             ],
-            "citations": 1734,
+            "citations": 1747,
             "publication_name": "The Lancet Child and Adolescent Health",
             "issn": "",
             "cover_date": "2020-01-01",
@@ -1843,7 +1843,7 @@
                     ]
                 }
             ],
-            "citations": 1150,
+            "citations": 1156,
             "publication_name": "Journal of Physical Activity and Health",
             "issn": "15433080",
             "cover_date": "2009-01-01",
@@ -1872,7 +1872,7 @@
                     ]
                 }
             ],
-            "citations": 1076,
+            "citations": 1079,
             "publication_name": "Journal of Public Health",
             "issn": "09431853",
             "cover_date": "2006-04-01",
@@ -2075,7 +2075,7 @@
                     "affiliation_id": []
                 }
             ],
-            "citations": 847,
+            "citations": 849,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -2453,7 +2453,7 @@
                     ]
                 }
             ],
-            "citations": 679,
+            "citations": 681,
             "publication_name": "International Journal of Behavioral Nutrition and Physical Activity",
             "issn": "",
             "cover_date": "2009-03-31",
@@ -2539,7 +2539,7 @@
                     ]
                 }
             ],
-            "citations": 671,
+            "citations": 673,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-09-24",
@@ -2584,7 +2584,7 @@
                     ]
                 }
             ],
-            "citations": 540,
+            "citations": 541,
             "publication_name": "Exercise and Sport Sciences Reviews",
             "issn": "00916331",
             "cover_date": "2005-10-01",
@@ -2718,7 +2718,7 @@
                     ]
                 }
             ],
-            "citations": 492,
+            "citations": 495,
             "publication_name": "International Journal of Behavioral Nutrition and Physical Activity",
             "issn": "",
             "cover_date": "2020-12-01",
@@ -2768,7 +2768,7 @@
                     ]
                 }
             ],
-            "citations": 469,
+            "citations": 470,
             "publication_name": "Gerontologist",
             "issn": "00169013",
             "cover_date": "2016-04-01",
@@ -2855,7 +2855,7 @@
                     ]
                 }
             ],
-            "citations": 459,
+            "citations": 460,
             "publication_name": "American Journal of Preventive Medicine",
             "issn": "07493797",
             "cover_date": "2011-08-01",
@@ -2900,7 +2900,7 @@
                     ]
                 }
             ],
-            "citations": 418,
+            "citations": 419,
             "publication_name": "American Journal of Health Promotion",
             "issn": "08901171",
             "cover_date": "2004-01-01",
@@ -2996,7 +2996,7 @@
                     ]
                 }
             ],
-            "citations": 389,
+            "citations": 390,
             "publication_name": "American Journal of Preventive Medicine",
             "issn": "07493797",
             "cover_date": "2002-10-01",
@@ -3203,7 +3203,7 @@
                     ]
                 }
             ],
-            "citations": 366,
+            "citations": 370,
             "publication_name": "Health and Place",
             "issn": "13538292",
             "cover_date": "2017-11-01",
@@ -3296,7 +3296,7 @@
                     ]
                 }
             ],
-            "citations": 313,
+            "citations": 317,
             "publication_name": "Transport Policy",
             "issn": "0967070X",
             "cover_date": "2006-05-01",
@@ -3305,6 +3305,42 @@
             "issue": "3",
             "page_range": "240-253",
             "doi": "10.1016/j.tranpol.2005.11.002"
+        },
+        {
+            "title": "Perioperative opioid analgesia\u2014when is enough too much? A review of opioid-induced tolerance and hyperalgesia",
+            "eid": "2-s2.0-85064058302",
+            "authors": [
+                {
+                    "scopus_id": "7003838168",
+                    "name": "Colvin L.A.",
+                    "affiliation_id": [
+                        "60171138"
+                    ]
+                },
+                {
+                    "scopus_id": "7006165716",
+                    "name": "Bull F.",
+                    "affiliation_id": [
+                        "60008877"
+                    ]
+                },
+                {
+                    "scopus_id": "7006827307",
+                    "name": "Hales T.G.",
+                    "affiliation_id": [
+                        "60008877"
+                    ]
+                }
+            ],
+            "citations": 313,
+            "publication_name": "The Lancet",
+            "issn": "01406736",
+            "cover_date": "2019-04-13",
+            "venue": "Journal",
+            "volume": "393",
+            "issue": "10180",
+            "page_range": "1558-1568",
+            "doi": "10.1016/S0140-6736(19)30430-1"
         },
         {
             "title": "Sport and exercise as contributors to the health of nations",
@@ -3361,7 +3397,7 @@
                     ]
                 }
             ],
-            "citations": 309,
+            "citations": 310,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2012-01-01",
@@ -3370,42 +3406,6 @@
             "issue": "9836",
             "page_range": "59-64",
             "doi": "10.1016/S0140-6736(12)60865-4"
-        },
-        {
-            "title": "Perioperative opioid analgesia\u2014when is enough too much? A review of opioid-induced tolerance and hyperalgesia",
-            "eid": "2-s2.0-85064058302",
-            "authors": [
-                {
-                    "scopus_id": "7003838168",
-                    "name": "Colvin L.A.",
-                    "affiliation_id": [
-                        "60171138"
-                    ]
-                },
-                {
-                    "scopus_id": "7006165716",
-                    "name": "Bull F.",
-                    "affiliation_id": [
-                        "60008877"
-                    ]
-                },
-                {
-                    "scopus_id": "7006827307",
-                    "name": "Hales T.G.",
-                    "affiliation_id": [
-                        "60008877"
-                    ]
-                }
-            ],
-            "citations": 308,
-            "publication_name": "The Lancet",
-            "issn": "01406736",
-            "cover_date": "2019-04-13",
-            "venue": "Journal",
-            "volume": "393",
-            "issue": "10180",
-            "page_range": "1558-1568",
-            "doi": "10.1016/S0140-6736(19)30430-1"
         },
         {
             "title": "Use of science to guide city planning policy and practice: how to achieve healthy and sustainable future cities",
@@ -3461,7 +3461,7 @@
                     ]
                 }
             ],
-            "citations": 271,
+            "citations": 273,
             "publication_name": "The Lancet",
             "issn": "01406736",
             "cover_date": "2016-12-10",
@@ -3470,58 +3470,6 @@
             "issue": "10062",
             "page_range": "2936-2947",
             "doi": "10.1016/S0140-6736(16)30068-X"
-        },
-        {
-            "title": "Physical activity and risks of proximal and distal colon cancers: A systematic review and meta-analysis",
-            "eid": "2-s2.0-84867698722",
-            "authors": [
-                {
-                    "scopus_id": "7102727931",
-                    "name": "Boyle T.",
-                    "affiliation_id": [
-                        "60025898"
-                    ]
-                },
-                {
-                    "scopus_id": "6508037478",
-                    "name": "Keegel T.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60012932",
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "7006165716",
-                    "name": "Bull F.",
-                    "affiliation_id": [
-                        "100673620"
-                    ]
-                },
-                {
-                    "scopus_id": "7003733955",
-                    "name": "Heyworth J.",
-                    "affiliation_id": [
-                        "100673620"
-                    ]
-                },
-                {
-                    "scopus_id": "56060660100",
-                    "name": "Fritschi L.",
-                    "affiliation_id": [
-                        "60025898"
-                    ]
-                }
-            ],
-            "citations": 259,
-            "publication_name": "Journal of the National Cancer Institute",
-            "issn": "00278874",
-            "cover_date": "2012-10-17",
-            "venue": "Journal",
-            "volume": "104",
-            "issue": "20",
-            "page_range": "1548-1561",
-            "doi": "10.1093/jnci/djs354"
         },
         {
             "title": "The influence of urban design on neighbourhood walking following residential relocation: Longitudinal results from the RESIDE study",
@@ -3605,7 +3553,7 @@
                     ]
                 }
             ],
-            "citations": 257,
+            "citations": 259,
             "publication_name": "Social Science and Medicine",
             "issn": "02779536",
             "cover_date": "2013-01-01",
@@ -3614,6 +3562,58 @@
             "issue": "1",
             "page_range": "20-30",
             "doi": "10.1016/j.socscimed.2012.10.016"
+        },
+        {
+            "title": "Physical activity and risks of proximal and distal colon cancers: A systematic review and meta-analysis",
+            "eid": "2-s2.0-84867698722",
+            "authors": [
+                {
+                    "scopus_id": "7102727931",
+                    "name": "Boyle T.",
+                    "affiliation_id": [
+                        "60025898"
+                    ]
+                },
+                {
+                    "scopus_id": "6508037478",
+                    "name": "Keegel T.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60012932",
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "7006165716",
+                    "name": "Bull F.",
+                    "affiliation_id": [
+                        "100673620"
+                    ]
+                },
+                {
+                    "scopus_id": "7003733955",
+                    "name": "Heyworth J.",
+                    "affiliation_id": [
+                        "100673620"
+                    ]
+                },
+                {
+                    "scopus_id": "56060660100",
+                    "name": "Fritschi L.",
+                    "affiliation_id": [
+                        "60025898"
+                    ]
+                }
+            ],
+            "citations": 259,
+            "publication_name": "Journal of the National Cancer Institute",
+            "issn": "00278874",
+            "cover_date": "2012-10-17",
+            "venue": "Journal",
+            "volume": "104",
+            "issue": "20",
+            "page_range": "1548-1561",
+            "doi": "10.1093/jnci/djs354"
         },
         {
             "title": "Assessment of sedentary behavior with the international physical activity questionnaire",
@@ -3655,7 +3655,7 @@
                     ]
                 }
             ],
-            "citations": 254,
+            "citations": 255,
             "publication_name": "Journal of Physical Activity and Health",
             "issn": "15433080",
             "cover_date": "2008-01-01",
@@ -3664,65 +3664,6 @@
             "issue": "SUPPL. 1",
             "page_range": null,
             "doi": "10.1123/jpah.5.s1.s30"
-        },
-        {
-            "title": "Neighborhood environmental factors correlated with walking near home: Using SPACES",
-            "eid": "2-s2.0-33645977777",
-            "authors": [
-                {
-                    "scopus_id": "35617994900",
-                    "name": "Pikora T.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57202674730",
-                    "name": "Giles-Corti B.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7005404334",
-                    "name": "Knuiman M.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7006165716",
-                    "name": "Bull F.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "26426193300",
-                    "name": "Jamrozik K.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60031004"
-                    ]
-                },
-                {
-                    "scopus_id": "35232806100",
-                    "name": "Donovan R.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 229,
-            "publication_name": "Medicine and Science in Sports and Exercise",
-            "issn": "01959131",
-            "cover_date": "2006-04-01",
-            "venue": "Journal",
-            "volume": "38",
-            "issue": "4",
-            "page_range": "708-714",
-            "doi": "10.1249/01.mss.0000210189.64458.f3"
         },
         {
             "title": "Air pollution, physical activity and health: A mapping review of the evidence",
@@ -3809,7 +3750,7 @@
                     ]
                 }
             ],
-            "citations": 228,
+            "citations": 230,
             "publication_name": "Environment International",
             "issn": "01604120",
             "cover_date": "2021-02-01",
@@ -3820,43 +3761,63 @@
             "doi": "10.1016/j.envint.2020.105954"
         },
         {
-            "title": "Understanding how people process health information: A comparison of tailored and nontailored weight-loss materials",
-            "eid": "2-s2.0-0344549255",
+            "title": "Neighborhood environmental factors correlated with walking near home: Using SPACES",
+            "eid": "2-s2.0-33645977777",
             "authors": [
                 {
-                    "scopus_id": "7006461100",
-                    "name": "Kreuter M.W.",
+                    "scopus_id": "35617994900",
+                    "name": "Pikora T.",
                     "affiliation_id": [
-                        "60017082"
+                        "60031806",
+                        "60031806"
                     ]
                 },
                 {
-                    "scopus_id": "7402541014",
-                    "name": "Clark E.M.",
-                    "affiliation_id": []
+                    "scopus_id": "57202674730",
+                    "name": "Giles-Corti B.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
                 },
                 {
-                    "scopus_id": "7006819748",
-                    "name": "Oswald D.L.",
-                    "affiliation_id": []
+                    "scopus_id": "7005404334",
+                    "name": "Knuiman M.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
                 },
                 {
                     "scopus_id": "7006165716",
-                    "name": "Bull F.C.",
+                    "name": "Bull F.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "26426193300",
+                    "name": "Jamrozik K.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60031004"
+                    ]
+                },
+                {
+                    "scopus_id": "35232806100",
+                    "name": "Donovan R.",
                     "affiliation_id": [
                         "60031806"
                     ]
                 }
             ],
-            "citations": 215,
-            "publication_name": "Health Psychology",
-            "issn": "02786133",
-            "cover_date": "1999-09-01",
+            "citations": 229,
+            "publication_name": "Medicine and Science in Sports and Exercise",
+            "issn": "01959131",
+            "cover_date": "2006-04-01",
             "venue": "Journal",
-            "volume": "18",
-            "issue": "5",
-            "page_range": "487-494",
-            "doi": "10.1037/0278-6133.18.5.487"
+            "volume": "38",
+            "issue": "4",
+            "page_range": "708-714",
+            "doi": "10.1249/01.mss.0000210189.64458.f3"
         },
         {
             "title": "Utilization and Harmonization of Adult Accelerometry Data: Review and Expert Consensus",
@@ -4000,7 +3961,7 @@
                     ]
                 }
             ],
-            "citations": 213,
+            "citations": 215,
             "publication_name": "Medicine and Science in Sports and Exercise",
             "issn": "01959131",
             "cover_date": "2015-10-19",
@@ -4009,6 +3970,45 @@
             "issue": "10",
             "page_range": "2129-2139",
             "doi": "10.1249/MSS.0000000000000661"
+        },
+        {
+            "title": "Understanding how people process health information: A comparison of tailored and nontailored weight-loss materials",
+            "eid": "2-s2.0-0344549255",
+            "authors": [
+                {
+                    "scopus_id": "7006461100",
+                    "name": "Kreuter M.W.",
+                    "affiliation_id": [
+                        "60017082"
+                    ]
+                },
+                {
+                    "scopus_id": "7402541014",
+                    "name": "Clark E.M.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006819748",
+                    "name": "Oswald D.L.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7006165716",
+                    "name": "Bull F.C.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 215,
+            "publication_name": "Health Psychology",
+            "issn": "02786133",
+            "cover_date": "1999-09-01",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "5",
+            "page_range": "487-494",
+            "doi": "10.1037/0278-6133.18.5.487"
         },
         {
             "title": "Effect of questionnaire length, personalisation and reminder type on response rate to a complex postal survey: Randomised controlled trial",
@@ -4058,7 +4058,7 @@
                     ]
                 }
             ],
-            "citations": 208,
+            "citations": 210,
             "publication_name": "BMC Medical Research Methodology",
             "issn": "",
             "cover_date": "2011-05-10",
@@ -5571,7 +5571,7 @@
                     ]
                 }
             ],
-            "citations": 168,
+            "citations": 172,
             "publication_name": "International Journal of Behavioral Nutrition and Physical Activity",
             "issn": "",
             "cover_date": "2020-12-01",
@@ -5758,7 +5758,7 @@
                     ]
                 }
             ],
-            "citations": 141,
+            "citations": 143,
             "publication_name": "Journal of Physical Activity and Health",
             "issn": "15433080",
             "cover_date": "2009-01-01",
@@ -6789,7 +6789,7 @@
                     ]
                 }
             ],
-            "citations": 102,
+            "citations": 105,
             "publication_name": "The Lancet Global Health",
             "issn": "",
             "cover_date": "2023-01-01",
@@ -6912,7 +6912,7 @@
                     ]
                 }
             ],
-            "citations": 96,
+            "citations": 97,
             "publication_name": "Applied Geography",
             "issn": "01436228",
             "cover_date": "2013-03-01",
@@ -7049,7 +7049,7 @@
                     ]
                 }
             ],
-            "citations": 92,
+            "citations": 93,
             "publication_name": "Journal of Physical Activity and Health",
             "issn": "15433080",
             "cover_date": "2021-01-01",
@@ -7116,7 +7116,7 @@
                     ]
                 }
             ],
-            "citations": 90,
+            "citations": 91,
             "publication_name": "British Journal of Sports Medicine",
             "issn": "03063674",
             "cover_date": "2020-12-01",
@@ -7134,7 +7134,7 @@
                     "scopus_id": "23005529000",
                     "name": "M\u00fcller-Riemenschneider F.",
                     "affiliation_id": [
-                        "60026680",
+                        "60029656",
                         "60026245"
                     ]
                 },
@@ -7176,7 +7176,7 @@
                 },
                 {
                     "scopus_id": "7006165716",
-                    "name": "Bull F.",
+                    "name": "Bull F.C.",
                     "affiliation_id": [
                         "60031806"
                     ]
@@ -7821,7 +7821,7 @@
                     ]
                 }
             ],
-            "citations": 75,
+            "citations": 76,
             "publication_name": "Medicine and Science in Sports and Exercise",
             "issn": "01959131",
             "cover_date": "2004-07-01",
@@ -7965,6 +7965,35 @@
             "doi": "10.1093/aje/kwq513"
         },
         {
+            "title": "Development of WHO guidelines on physical activity, sedentary behavior, and sleep for children less than 5 years of age",
+            "eid": "2-s2.0-85077259906",
+            "authors": [
+                {
+                    "scopus_id": "57210425273",
+                    "name": "Willumsen J.",
+                    "affiliation_id": [
+                        "60027142"
+                    ]
+                },
+                {
+                    "scopus_id": "7006165716",
+                    "name": "Bull F.",
+                    "affiliation_id": [
+                        "60027142"
+                    ]
+                }
+            ],
+            "citations": 69,
+            "publication_name": "Journal of Physical Activity and Health",
+            "issn": "15433080",
+            "cover_date": "2020-01-01",
+            "venue": "Journal",
+            "volume": "17",
+            "issue": "1",
+            "page_range": "96-100",
+            "doi": "10.1123/jpah.2019-0457"
+        },
+        {
             "title": "Physical inactivity: The cinderella risk factor for noncommunicable disease prevention",
             "eid": "2-s2.0-80052841983",
             "authors": [
@@ -7994,33 +8023,41 @@
             "doi": "10.1080/10810730.2011.601226"
         },
         {
-            "title": "Development of WHO guidelines on physical activity, sedentary behavior, and sleep for children less than 5 years of age",
-            "eid": "2-s2.0-85077259906",
+            "title": "How can global physical activity surveillance adapt to evolving physical activity guidelines? Needs, challenges and future directions",
+            "eid": "2-s2.0-85096521472",
             "authors": [
                 {
-                    "scopus_id": "57210425273",
-                    "name": "Willumsen J.",
+                    "scopus_id": "7005746415",
+                    "name": "Troiano R.P.",
                     "affiliation_id": [
-                        "60027142"
+                        "60013409"
+                    ]
+                },
+                {
+                    "scopus_id": "55847987800",
+                    "name": "Stamatakis E.",
+                    "affiliation_id": [
+                        "60001491"
                     ]
                 },
                 {
                     "scopus_id": "7006165716",
-                    "name": "Bull F.",
+                    "name": "Bull F.C.",
                     "affiliation_id": [
-                        "60027142"
+                        "60027142",
+                        "60031806"
                     ]
                 }
             ],
             "citations": 67,
-            "publication_name": "Journal of Physical Activity and Health",
-            "issn": "15433080",
-            "cover_date": "2020-01-01",
+            "publication_name": "British Journal of Sports Medicine",
+            "issn": "03063674",
+            "cover_date": "2020-12-01",
             "venue": "Journal",
-            "volume": "17",
-            "issue": "1",
-            "page_range": "96-100",
-            "doi": "10.1123/jpah.2019-0457"
+            "volume": "54",
+            "issue": "24",
+            "page_range": "1468-1473",
+            "doi": "10.1136/bjsports-2020-102621"
         },
         {
             "title": "Patterns of neighborhood environment attributes related to physical activity across 11 countries: A latent class analysis",
@@ -8202,43 +8239,6 @@
             "issue": "",
             "page_range": null,
             "doi": "10.1186/1479-5868-10-34"
-        },
-        {
-            "title": "How can global physical activity surveillance adapt to evolving physical activity guidelines? Needs, challenges and future directions",
-            "eid": "2-s2.0-85096521472",
-            "authors": [
-                {
-                    "scopus_id": "7005746415",
-                    "name": "Troiano R.P.",
-                    "affiliation_id": [
-                        "60013409"
-                    ]
-                },
-                {
-                    "scopus_id": "55847987800",
-                    "name": "Stamatakis E.",
-                    "affiliation_id": [
-                        "60001491"
-                    ]
-                },
-                {
-                    "scopus_id": "7006165716",
-                    "name": "Bull F.C.",
-                    "affiliation_id": [
-                        "60027142",
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 66,
-            "publication_name": "British Journal of Sports Medicine",
-            "issn": "03063674",
-            "cover_date": "2020-12-01",
-            "venue": "Journal",
-            "volume": "54",
-            "issue": "24",
-            "page_range": "1468-1473",
-            "doi": "10.1136/bjsports-2020-102621"
         },
         {
             "title": "A longitudinal analysis of the influence of the neighborhood environment on recreational walking within the neighborhood: Results from RESIDE",
@@ -8996,6 +8996,73 @@
             "doi": "10.1097/00005768-200107000-00012"
         },
         {
+            "title": "Global public health guidelines on physical activity and sedentary behavior for people living with chronic conditions: A call to action",
+            "eid": "2-s2.0-85100103669",
+            "authors": [
+                {
+                    "scopus_id": "55676917400",
+                    "name": "Dempsey P.C.",
+                    "affiliation_id": [
+                        "60009969",
+                        "60033409",
+                        "60171766"
+                    ]
+                },
+                {
+                    "scopus_id": "7004933140",
+                    "name": "Friedenreich C.M.",
+                    "affiliation_id": [
+                        "60105825",
+                        "60000953"
+                    ]
+                },
+                {
+                    "scopus_id": "7004664088",
+                    "name": "Leitzmann M.F.",
+                    "affiliation_id": [
+                        "60030807"
+                    ]
+                },
+                {
+                    "scopus_id": "23388260400",
+                    "name": "Buman M.P.",
+                    "affiliation_id": [
+                        "60015864"
+                    ]
+                },
+                {
+                    "scopus_id": "57896263200",
+                    "name": "Lambert E.",
+                    "affiliation_id": [
+                        "60010932"
+                    ]
+                },
+                {
+                    "scopus_id": "57210425273",
+                    "name": "Willumsen J.",
+                    "affiliation_id": [
+                        "60027142"
+                    ]
+                },
+                {
+                    "scopus_id": "7006165716",
+                    "name": "Bull F.",
+                    "affiliation_id": [
+                        "60027142"
+                    ]
+                }
+            ],
+            "citations": 48,
+            "publication_name": "Journal of Physical Activity and Health",
+            "issn": "15433080",
+            "cover_date": "2021-01-01",
+            "venue": "Journal",
+            "volume": "18",
+            "issue": "1",
+            "page_range": "76-85",
+            "doi": "10.1123/JPAH.2020-0525"
+        },
+        {
             "title": "Rapid changes in lifestyle make increased physical activity a priority for the Americas",
             "eid": "2-s2.0-0344630194",
             "authors": [
@@ -9144,73 +9211,6 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1136/bmjopen-2012-002482"
-        },
-        {
-            "title": "Global public health guidelines on physical activity and sedentary behavior for people living with chronic conditions: A call to action",
-            "eid": "2-s2.0-85100103669",
-            "authors": [
-                {
-                    "scopus_id": "55676917400",
-                    "name": "Dempsey P.C.",
-                    "affiliation_id": [
-                        "60009969",
-                        "60033409",
-                        "60171766"
-                    ]
-                },
-                {
-                    "scopus_id": "7004933140",
-                    "name": "Friedenreich C.M.",
-                    "affiliation_id": [
-                        "60105825",
-                        "60000953"
-                    ]
-                },
-                {
-                    "scopus_id": "7004664088",
-                    "name": "Leitzmann M.F.",
-                    "affiliation_id": [
-                        "60030807"
-                    ]
-                },
-                {
-                    "scopus_id": "23388260400",
-                    "name": "Buman M.P.",
-                    "affiliation_id": [
-                        "60015864"
-                    ]
-                },
-                {
-                    "scopus_id": "57896263200",
-                    "name": "Lambert E.",
-                    "affiliation_id": [
-                        "60010932"
-                    ]
-                },
-                {
-                    "scopus_id": "57210425273",
-                    "name": "Willumsen J.",
-                    "affiliation_id": [
-                        "60027142"
-                    ]
-                },
-                {
-                    "scopus_id": "7006165716",
-                    "name": "Bull F.",
-                    "affiliation_id": [
-                        "60027142"
-                    ]
-                }
-            ],
-            "citations": 45,
-            "publication_name": "Journal of Physical Activity and Health",
-            "issn": "15433080",
-            "cover_date": "2021-01-01",
-            "venue": "Journal",
-            "volume": "18",
-            "issue": "1",
-            "page_range": "76-85",
-            "doi": "10.1123/JPAH.2020-0525"
         },
         {
             "title": "A global systematic scoping review of studies analysing indicators, development, and content of national-level physical activity and sedentary behaviour policies",
@@ -9556,7 +9556,7 @@
                     ]
                 }
             ],
-            "citations": 39,
+            "citations": 40,
             "publication_name": "International Journal of Behavioral Nutrition and Physical Activity",
             "issn": "",
             "cover_date": "2021-12-01",
@@ -9941,36 +9941,6 @@
             "doi": "10.1123/jpah.2016-0316"
         },
         {
-            "title": "A process evaluation of a \"physical activity pathway\" in the primary care setting",
-            "eid": "2-s2.0-77955303171",
-            "authors": [
-                {
-                    "scopus_id": "7006165716",
-                    "name": "Bull F.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60000891"
-                    ]
-                },
-                {
-                    "scopus_id": "36464001500",
-                    "name": "Milton K.",
-                    "affiliation_id": [
-                        "60000891"
-                    ]
-                }
-            ],
-            "citations": 35,
-            "publication_name": "BMC Public Health",
-            "issn": "",
-            "cover_date": "2010-08-11",
-            "venue": "Journal",
-            "volume": "10",
-            "issue": "",
-            "page_range": null,
-            "doi": "10.1186/1471-2458-10-463"
-        },
-        {
             "title": "Are liveable neighbourhoods safer neighbourhoods? Testing the rhetoric on new urbanism and safety from crime in Perth, Western Australia",
             "eid": "2-s2.0-84946191742",
             "authors": [
@@ -10010,7 +9980,7 @@
                     ]
                 }
             ],
-            "citations": 34,
+            "citations": 35,
             "publication_name": "Social Science and Medicine",
             "issn": "02779536",
             "cover_date": "2016-09-01",
@@ -10019,6 +9989,36 @@
             "issue": "",
             "page_range": "150-157",
             "doi": "10.1016/j.socscimed.2015.04.013"
+        },
+        {
+            "title": "A process evaluation of a \"physical activity pathway\" in the primary care setting",
+            "eid": "2-s2.0-77955303171",
+            "authors": [
+                {
+                    "scopus_id": "7006165716",
+                    "name": "Bull F.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60000891"
+                    ]
+                },
+                {
+                    "scopus_id": "36464001500",
+                    "name": "Milton K.",
+                    "affiliation_id": [
+                        "60000891"
+                    ]
+                }
+            ],
+            "citations": 35,
+            "publication_name": "BMC Public Health",
+            "issn": "",
+            "cover_date": "2010-08-11",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1186/1471-2458-10-463"
         },
         {
             "title": "Reliability and validity of the transport and physical activity questionnaire (TPAQ) for assessing physical activity behaviour",
@@ -10495,7 +10495,7 @@
                     ]
                 }
             ],
-            "citations": 29,
+            "citations": 30,
             "publication_name": "British Journal of Sports Medicine",
             "issn": "03063674",
             "cover_date": "2018-04-01",
@@ -11679,136 +11679,6 @@
             "doi": "10.1071/nb07027"
         },
         {
-            "title": "Putting physical activity in the 'must-do' list of the global agenda",
-            "eid": "2-s2.0-85096817737",
-            "authors": [
-                {
-                    "scopus_id": "55847987800",
-                    "name": "Stamatakis E.",
-                    "affiliation_id": [
-                        "60001491"
-                    ]
-                },
-                {
-                    "scopus_id": "7006165716",
-                    "name": "Bull F.C.",
-                    "affiliation_id": [
-                        "60027142",
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "British Journal of Sports Medicine",
-            "issn": "03063674",
-            "cover_date": "2020-12-01",
-            "venue": "Journal",
-            "volume": "54",
-            "issue": "24",
-            "page_range": "1445-1446",
-            "doi": "10.1136/bjsports-2020-103509"
-        },
-        {
-            "title": "Does neighbourhood walkability moderate the effects of mass media communication strategies to promote regular physical activity?",
-            "eid": "2-s2.0-84879107417",
-            "authors": [
-                {
-                    "scopus_id": "55555265100",
-                    "name": "Barnes R.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57202674730",
-                    "name": "Giles-Corti B.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                },
-                {
-                    "scopus_id": "25421265100",
-                    "name": "Bauman A.",
-                    "affiliation_id": [
-                        "60089710"
-                    ]
-                },
-                {
-                    "scopus_id": "36108880600",
-                    "name": "Rosenberg M.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7006165716",
-                    "name": "Bull F.C.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "9746487400",
-                    "name": "Leavy J.E.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Annals of Behavioral Medicine",
-            "issn": "08836612",
-            "cover_date": "2013-02-01",
-            "venue": "Journal",
-            "volume": "45",
-            "issue": "SUPPL.1",
-            "page_range": null,
-            "doi": "10.1007/s12160-012-9429-7"
-        },
-        {
-            "title": "Implementing national population-based action on physical activity--challenges for action and opportunities for international collaboration.",
-            "eid": "2-s2.0-39049175013",
-            "authors": [
-                {
-                    "scopus_id": "7006165716",
-                    "name": "Bull F.",
-                    "affiliation_id": [
-                        "60000891"
-                    ]
-                },
-                {
-                    "scopus_id": "7103021398",
-                    "name": "Pratt M.",
-                    "affiliation_id": [
-                        "60000891"
-                    ]
-                },
-                {
-                    "scopus_id": "7202263739",
-                    "name": "Shephard R.",
-                    "affiliation_id": [
-                        "60000891"
-                    ]
-                },
-                {
-                    "scopus_id": "6603200698",
-                    "name": "Lankenau B.",
-                    "affiliation_id": [
-                        "60000891"
-                    ]
-                }
-            ],
-            "citations": 15,
-            "publication_name": "Promotion &amp; education",
-            "issn": "10253823",
-            "cover_date": "2006-01-01",
-            "venue": "Journal",
-            "volume": "13",
-            "issue": "2",
-            "page_range": "127-132",
-            "doi": "10.1177/10253823060130020107"
-        },
-        {
             "title": "Impact of physical activity programs and services for older adults: a rapid review",
             "eid": "2-s2.0-85134086019",
             "authors": [
@@ -11957,7 +11827,7 @@
                     ]
                 }
             ],
-            "citations": 14,
+            "citations": 15,
             "publication_name": "International Journal of Behavioral Nutrition and Physical Activity",
             "issn": "",
             "cover_date": "2022-12-01",
@@ -11966,6 +11836,136 @@
             "issue": "1",
             "page_range": null,
             "doi": "10.1186/s12966-022-01318-9"
+        },
+        {
+            "title": "Putting physical activity in the 'must-do' list of the global agenda",
+            "eid": "2-s2.0-85096817737",
+            "authors": [
+                {
+                    "scopus_id": "55847987800",
+                    "name": "Stamatakis E.",
+                    "affiliation_id": [
+                        "60001491"
+                    ]
+                },
+                {
+                    "scopus_id": "7006165716",
+                    "name": "Bull F.C.",
+                    "affiliation_id": [
+                        "60027142",
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "British Journal of Sports Medicine",
+            "issn": "03063674",
+            "cover_date": "2020-12-01",
+            "venue": "Journal",
+            "volume": "54",
+            "issue": "24",
+            "page_range": "1445-1446",
+            "doi": "10.1136/bjsports-2020-103509"
+        },
+        {
+            "title": "Does neighbourhood walkability moderate the effects of mass media communication strategies to promote regular physical activity?",
+            "eid": "2-s2.0-84879107417",
+            "authors": [
+                {
+                    "scopus_id": "55555265100",
+                    "name": "Barnes R.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57202674730",
+                    "name": "Giles-Corti B.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                },
+                {
+                    "scopus_id": "25421265100",
+                    "name": "Bauman A.",
+                    "affiliation_id": [
+                        "60089710"
+                    ]
+                },
+                {
+                    "scopus_id": "36108880600",
+                    "name": "Rosenberg M.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7006165716",
+                    "name": "Bull F.C.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "9746487400",
+                    "name": "Leavy J.E.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Annals of Behavioral Medicine",
+            "issn": "08836612",
+            "cover_date": "2013-02-01",
+            "venue": "Journal",
+            "volume": "45",
+            "issue": "SUPPL.1",
+            "page_range": null,
+            "doi": "10.1007/s12160-012-9429-7"
+        },
+        {
+            "title": "Implementing national population-based action on physical activity--challenges for action and opportunities for international collaboration.",
+            "eid": "2-s2.0-39049175013",
+            "authors": [
+                {
+                    "scopus_id": "7006165716",
+                    "name": "Bull F.",
+                    "affiliation_id": [
+                        "60000891"
+                    ]
+                },
+                {
+                    "scopus_id": "7103021398",
+                    "name": "Pratt M.",
+                    "affiliation_id": [
+                        "60000891"
+                    ]
+                },
+                {
+                    "scopus_id": "7202263739",
+                    "name": "Shephard R.",
+                    "affiliation_id": [
+                        "60000891"
+                    ]
+                },
+                {
+                    "scopus_id": "6603200698",
+                    "name": "Lankenau B.",
+                    "affiliation_id": [
+                        "60000891"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Promotion &amp; education",
+            "issn": "10253823",
+            "cover_date": "2006-01-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "2",
+            "page_range": "127-132",
+            "doi": "10.1177/10253823060130020107"
         },
         {
             "title": "Walking: a best buy for public and planetary health",
@@ -12144,6 +12144,107 @@
             "doi": "10.1080/02701367.2011.10599743"
         },
         {
+            "title": "Neighborhood Correlates of Sitting Time for Australian Adults in New Suburbs: Results From RESIDE",
+            "eid": "2-s2.0-84940036604",
+            "authors": [
+                {
+                    "scopus_id": "58006063500",
+                    "name": "Foster S.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "35091486200",
+                    "name": "Pereira G.",
+                    "affiliation_id": [
+                        "60005455"
+                    ]
+                },
+                {
+                    "scopus_id": "55255414100",
+                    "name": "Christian H.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7005404334",
+                    "name": "Knuiman M.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7006165716",
+                    "name": "Bull F.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57202674730",
+                    "name": "Giles-Corti B.",
+                    "affiliation_id": [
+                        "60026553"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Environment and Behavior",
+            "issn": "00139165",
+            "cover_date": "2015-10-26",
+            "venue": "Journal",
+            "volume": "47",
+            "issue": "8",
+            "page_range": "902-922",
+            "doi": "10.1177/0013916514533188"
+        },
+        {
+            "title": "Resistance training and the risk of colon and rectal cancers",
+            "eid": "2-s2.0-84862494767",
+            "authors": [
+                {
+                    "scopus_id": "7102727931",
+                    "name": "Boyle T.",
+                    "affiliation_id": [
+                        "60031806",
+                        "60005202"
+                    ]
+                },
+                {
+                    "scopus_id": "7006165716",
+                    "name": "Bull F.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "56060660100",
+                    "name": "Fritschi L.",
+                    "affiliation_id": [
+                        "60005202"
+                    ]
+                },
+                {
+                    "scopus_id": "7003733955",
+                    "name": "Heyworth J.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Cancer Causes and Control",
+            "issn": "09575243",
+            "cover_date": "2012-07-01",
+            "venue": "Journal",
+            "volume": "23",
+            "issue": "7",
+            "page_range": "1091-1097",
+            "doi": "10.1007/s10552-012-9978-x"
+        },
+        {
             "title": "Active landscapes: The methodological challenges in developing the evidence on urban environments and physical activity",
             "eid": "2-s2.0-84859575125",
             "authors": [
@@ -12209,107 +12310,6 @@
             "issue": "1",
             "page_range": "59-61",
             "doi": "10.1177/1757975910393173"
-        },
-        {
-            "title": "Neighborhood Correlates of Sitting Time for Australian Adults in New Suburbs: Results From RESIDE",
-            "eid": "2-s2.0-84940036604",
-            "authors": [
-                {
-                    "scopus_id": "58006063500",
-                    "name": "Foster S.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "35091486200",
-                    "name": "Pereira G.",
-                    "affiliation_id": [
-                        "60005455"
-                    ]
-                },
-                {
-                    "scopus_id": "55255414100",
-                    "name": "Christian H.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7005404334",
-                    "name": "Knuiman M.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7006165716",
-                    "name": "Bull F.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "57202674730",
-                    "name": "Giles-Corti B.",
-                    "affiliation_id": [
-                        "60026553"
-                    ]
-                }
-            ],
-            "citations": 11,
-            "publication_name": "Environment and Behavior",
-            "issn": "00139165",
-            "cover_date": "2015-10-26",
-            "venue": "Journal",
-            "volume": "47",
-            "issue": "8",
-            "page_range": "902-922",
-            "doi": "10.1177/0013916514533188"
-        },
-        {
-            "title": "Resistance training and the risk of colon and rectal cancers",
-            "eid": "2-s2.0-84862494767",
-            "authors": [
-                {
-                    "scopus_id": "7102727931",
-                    "name": "Boyle T.",
-                    "affiliation_id": [
-                        "60031806",
-                        "60005202"
-                    ]
-                },
-                {
-                    "scopus_id": "7006165716",
-                    "name": "Bull F.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "56060660100",
-                    "name": "Fritschi L.",
-                    "affiliation_id": [
-                        "60005202"
-                    ]
-                },
-                {
-                    "scopus_id": "7003733955",
-                    "name": "Heyworth J.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 11,
-            "publication_name": "Cancer Causes and Control",
-            "issn": "09575243",
-            "cover_date": "2012-07-01",
-            "venue": "Journal",
-            "volume": "23",
-            "issue": "7",
-            "page_range": "1091-1097",
-            "doi": "10.1007/s10552-012-9978-x"
         },
         {
             "title": "Infographic. Best investments for physical activity",
@@ -12769,6 +12769,50 @@
             "doi": "10.1108/IJHG-09-2020-0100"
         },
         {
+            "title": "Ecological correlates of sport and exercise participation among Thai adolescents: A hierarchical examination of a cross-sectional population survey",
+            "eid": "2-s2.0-85086577159",
+            "authors": [
+                {
+                    "scopus_id": "57192156752",
+                    "name": "Amornsriwatanakul A.",
+                    "affiliation_id": [
+                        "60012718",
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "36675052500",
+                    "name": "Lester L.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "7006165716",
+                    "name": "Bull F.C.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "36108880600",
+                    "name": "Rosenberg M.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Journal of Sport and Health Science",
+            "issn": "20952546",
+            "cover_date": "2023-09-01",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "5",
+            "page_range": "592-605",
+            "doi": "10.1016/j.jshs.2020.04.012"
+        },
+        {
             "title": "Systems approaches to support action on physical activity",
             "eid": "2-s2.0-85080999545",
             "authors": [
@@ -13020,50 +13064,6 @@
             "issue": "23",
             "page_range": "1353-1365",
             "doi": "10.1136/bjsports-2022-105747"
-        },
-        {
-            "title": "Ecological correlates of sport and exercise participation among Thai adolescents: A hierarchical examination of a cross-sectional population survey",
-            "eid": "2-s2.0-85086577159",
-            "authors": [
-                {
-                    "scopus_id": "57192156752",
-                    "name": "Amornsriwatanakul A.",
-                    "affiliation_id": [
-                        "60012718",
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "36675052500",
-                    "name": "Lester L.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "7006165716",
-                    "name": "Bull F.C.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                },
-                {
-                    "scopus_id": "36108880600",
-                    "name": "Rosenberg M.",
-                    "affiliation_id": [
-                        "60031806"
-                    ]
-                }
-            ],
-            "citations": 7,
-            "publication_name": "Journal of Sport and Health Science",
-            "issn": "20952546",
-            "cover_date": "2023-09-01",
-            "venue": "Journal",
-            "volume": "12",
-            "issue": "5",
-            "page_range": "592-605",
-            "doi": "10.1016/j.jshs.2020.04.012"
         },
         {
             "title": "Menthol reduces phototoxicity pain in a mouse model of photodynamic therapy",
@@ -13982,6 +13982,35 @@
             "doi": ""
         },
         {
+            "title": "A marathon, not a sprint: Increasing population physical activity as a legacy of sports mega-events",
+            "eid": "2-s2.0-85197366738",
+            "authors": [
+                {
+                    "scopus_id": "7006165716",
+                    "name": "Bull F.C.",
+                    "affiliation_id": [
+                        "60027142"
+                    ]
+                },
+                {
+                    "scopus_id": "59202851700",
+                    "name": "Simpson P.J.",
+                    "affiliation_id": [
+                        "60025973"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Journal of Sport and Health Science",
+            "issn": "20952546",
+            "cover_date": "2024-01-01",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.jshs.2024.06.002"
+        },
+        {
             "title": "Global Health Risk Factors: Physical Inactivity",
             "eid": "2-s2.0-85150100530",
             "authors": [
@@ -14119,20 +14148,20 @@
             "doi": "10.1093/jnci/djt069"
         }
     ],
-    "affiliation": "The University of Western Australia",
-    "affiliation_id": "60031806",
-    "city": "Perth",
-    "country": "Australia",
-    "document_count": 182,
+    "affiliation": "Organisation Mondiale de la Sant\u00e9",
+    "affiliation_id": "60027142",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "document_count": 183,
     "subject_area": [
         {
             "@abbrev": "MEDI",
-            "@frequency": "334",
+            "@frequency": "335",
             "$": "Medicine (all)"
         },
         {
             "@abbrev": "HEAL",
-            "@frequency": "62",
+            "@frequency": "63",
             "$": "Health Professions  (all)"
         },
         {
@@ -14141,6 +14170,5 @@
             "$": "Social Sciences (all)"
         }
     ],
-    "date fetched": "2024-06-30 09:51:18",
-    "c-score": null
+    "date fetched": "2024-07-12 21:00:33"
 }

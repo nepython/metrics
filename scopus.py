@@ -4,6 +4,7 @@ Contains code related to fetching data from the Scopus API.
 import os
 import requests
 
+from copy import deepcopy
 from datetime import datetime
 from functools import partial
 from utils import read_data, store_data, get_author_names, get_country_name, get_top_2pc_df, get_cscore
@@ -30,7 +31,8 @@ data_dir = 'data'
 top_2pc_filepath = f'{data_dir}/top_CS_researcher_by_h_index.json'
 
 # Define the list of affiliations to search for authors
-affiliations = read_data(f'{data_dir}/affiliations.json')
+affiliations_filepath = f'{data_dir}/affiliations.json'
+affiliations = read_data(affiliations_filepath)
 
 # Define external affiliations of collaborating co-authors
 external_affiliations = dict()
@@ -274,8 +276,29 @@ if __name__ == '__main__':
     # scopus_results = fetch_authors_top_2_percent(stop_at=300, store_filepath=top_2pc_filepath)
 
     # Fetch the top authors based on affiliation
-    for affiliation in affiliations:
+    for affiliation in list(affiliations.values()):
         file_dir = f'{data_dir}/{affiliation["affiliation"]}'
-        # if os.path.exists(file_dir):
-        #     continue
         scopus_results = fetch_authors_by_affiliation(affiliation, store_dir=file_dir)
+
+    # The failures will be stored in failures.txt
+    # Add the correct name for the record with a comma
+    # with open(f'{data_dir}/failures.txt', 'r') as fp:
+    #     failures = fp.read().split('\n')
+    # for failure in failures:
+    #     correct_name, record = failure.split(',', 1)
+    #     affiliation_name, incorrect_name = record.split(':', 1)
+
+    #     correct_name = correct_name.strip()
+    #     affiliation_name = affiliation_name.strip()
+    #     incorrect_name = incorrect_name.strip()
+
+    #     # Fetch details with correct name
+    #     affiliation = deepcopy(affiliations[affiliation_name])
+    #     affiliation['researchers'] = [correct_name]
+    #     file_dir = f'{data_dir}/{affiliation["affiliation"]}'
+    #     scopus_results = fetch_authors_by_affiliation(affiliation, store_dir=file_dir)
+
+    #     # Rectify name in the records
+    #     researcher_data = affiliations[affiliation_name]['researchers'].pop(incorrect_name.stript())
+    #     affiliations[affiliation_name]['researchers'][correct_name.strip()] = researcher_data
+    #     store_data(affiliations, affiliations_filepath)
