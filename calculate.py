@@ -25,8 +25,8 @@ def metrics(author, rows=list()):
         # paper : 1000
         # weighted_pc_first_author = (for every paper)
 
-        h_adjusted = (h*(pc_first_author + pc_last_author + pc_single_author)/100)
-        h_leadership_adjusted = (h_leadership*(pc_first_author + pc_last_author + pc_single_author)/100)
+        # h_adjusted = (h*(pc_first_author + pc_last_author + pc_single_author)/100)
+        # h_leadership_adjusted = (h_leadership*(pc_first_author + pc_last_author + pc_single_author)/100)
 
         rows.append({
             'Name': author['name'],
@@ -37,15 +37,15 @@ def metrics(author, rows=list()):
             'h-frac-index': h_frac_index(author['publications']),
             'hm-index': hm_index(author['publications']),
             'h-leadership-index': h_leadership,
-            'h-adjusted': h_adjusted,
-            'h-leaderhip-adjusted': h_leadership_adjusted,
-            '% first author': pc_first_author,
-            '% last author': pc_last_author,
-            '% single author': pc_single_author,
+            # 'h-adjusted': h_adjusted,
+            # 'h-leaderhip-adjusted': h_leadership_adjusted,
+            '% first author': round(pc_first_author, 2),
+            '% last author': round(pc_last_author, 2),
+            '% single author': round(pc_single_author, 2),
             'Median author position': median_position,
             # 'cscore': author['c-score'],
             'i10-index': i10_index(author['publications']),
-            'Average number of Authors': mean_coauthors(author['publications']),
+            'Average number of Authors': round(mean_coauthors(author['publications']), 1),
             'Median number of Authors': median_num_coauthors,
         })
     except Exception as e:
@@ -101,7 +101,7 @@ if __name__ == '__main__':
     # correlation_analysis(authors_df, store_dir)
 
     # Read reseachers fetched using affiliation
-    for affiliation in affiliations:
+    for affiliation in list(affiliations.values()):
         file_dir = f'{data_dir}/{affiliation["affiliation"]}'
         files = os.listdir(file_dir)
         rows = []

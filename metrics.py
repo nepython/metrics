@@ -140,7 +140,10 @@ def h_frac_index(publications: List):
     return h_frac
 
 
-def hm_index(publications: List):
+from typing import List, Dict
+from copy import deepcopy
+
+def hm_index(publications: List[Dict[str, int]]) -> float:
     '''
     This is a variant of the h-index that addresses the challenges of multiple
     authorship by utilizing fractionalized counting of papers. The hm-index
@@ -150,18 +153,19 @@ def hm_index(publications: List):
     '''
     pubs = deepcopy(publications)
     pubs = list(filter(lambda x: len(x['authors']) > 0, pubs))
-    pubs.sort(key=lambda x: int(x['citations']))
+    pubs.sort(key=lambda x: int(x['citations']), reverse=True)
 
     cumulative_weights = 0
     hm = 0
     for pub in pubs:
-        weight = 1/len(pub['authors'])
+        weight = 1 / len(pub['authors'])
         cumulative_weights += weight
-        if not cumulative_weights < int(pub['citations']):
+        if cumulative_weights <= int(pub['citations']):
+            hm = cumulative_weights
+        else:
             break
-    hm = cumulative_weights
 
-    return hm
+    return int(hm)
 
 
 def hp_index(publications: List):
