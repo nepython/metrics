@@ -263,58 +263,67 @@ def h_leadership_index(scopus_id, publications: List):
     return h_leadership
 
 
-def leadership_weight(author_position=1, n=1, mean=0, std_dev=1):
+def leadership_weight(author_position=1, n=1, mean=0, std_dev=1, min_weight=0.3, ideal_max_authors=100):
     '''
     The leadership weight of an author based on their position in the author list
-    using a normalised inverse gaussian curve. The first author's leadership weight
-    reduces logarithmically with the increase in the number of authors.
+    using a normalised complementary gaussian curve.
     '''
     if author_position > n/2: # We assign the same weights to the first and last authors
         author_position = n-author_position+1
+    if author_position > ideal_max_authors:
+        return min_weight
 
-    ideal_max_authors = 100
     # Gaussian curve
     x_values = np.linspace(mean - 3 * std_dev, mean + 3 * std_dev, ideal_max_authors)
     y_values = (1 / (std_dev * np.sqrt(2 * np.pi))) * np.exp(-(x_values - mean)**2 / (2 * std_dev**2))
     y_values = y_values[:len(y_values)//2] # Gaussian plot is symmetric, so we only need half of it
-    # Inverse Gaussian
-    inv_gaussian = 1 - y_values
-    # Normalisation
-    inv_gaussian = (inv_gaussian - np.min(inv_gaussian))/ (np.max(inv_gaussian) - np.min(inv_gaussian)) # first author weight becomes 1
-    inv_gaussian = 0.3 + 0.7* inv_gaussian * (1-min(np.log(n)/(4*np.log(ideal_max_authors)), 1)) # first author contribution reduces logarithmically with increase in number of authors
-    inv_gaussian_x = np.arange(1, len(inv_gaussian)+1)
+    # Complementary Gaussian (1 - Gaussian)
+    comp_gaussian = 1 - y_values
+    # Normalization to ensure the first author weight becomes 1
+    comp_gaussian = (comp_gaussian - np.min(comp_gaussian)) / (np.max(comp_gaussian) - np.min(comp_gaussian))
+    comp_gaussian = min_weight + (1-min_weight) * comp_gaussian  # Scale to the desired range
+    # Inverse bell curve
+    comp_gaussian = comp_gaussian.tolist()
+    comp_gaussian = comp_gaussian + comp_gaussian[::-1]  # Reverse the curve to start from 1
+    comp_gaussian = np.array(comp_gaussian)
 
-    author_positions = np.arange(1, n+1)
-    author_weights = np.interp(author_positions, inv_gaussian_x, inv_gaussian)
+    comp_gaussian_x = np.arange(1, len(comp_gaussian) + 1)
+
+    author_positions = np.linspace(1, len(comp_gaussian), len(comp_gaussian))
+    author_weights = np.interp(author_positions, comp_gaussian_x, comp_gaussian)
     author_weight = author_weights[author_position-1]
     return author_weight
 
 
 def plot_leadership_weight(author_position=1, n=1, mean=0, std_dev=1, annotate:Union[bool,str]=False):
     '''
-    Plot the leadership weight of an author based on their position in the author list using a normalised inverse gaussian curve.
+    Plot the leadership weight of an author based on their position in the author list using a normalised complementary gaussian curve.
     The first author's leadership weight reduces logarithmically with the increase in the number of authors.
     '''
-    if author_position > n/2: # We assign the same weights to the first and last authors
-        author_position = n-author_position+1
-
     ideal_max_authors = 100
     # Gaussian curve
     x_values = np.linspace(mean - 3 * std_dev, mean + 3 * std_dev, ideal_max_authors)
     y_values = (1 / (std_dev * np.sqrt(2 * np.pi))) * np.exp(-(x_values - mean)**2 / (2 * std_dev**2))
     y_values = y_values[:len(y_values)//2] # Gaussian plot is symmetric, so we only need half of it
-    # Inverse Gaussian
-    inv_gaussian = 1 - y_values
-    # Normalisation
-    inv_gaussian = (inv_gaussian - np.min(inv_gaussian))/ (np.max(inv_gaussian) - np.min(inv_gaussian)) # first author weight becomes 1
-    inv_gaussian = 0.3 + 0.7* inv_gaussian * (1-min(np.log(n)/(4*np.log(ideal_max_authors)), 1)) # first author contribution reduces logarithmically with increase in number of authors
-    inv_gaussian_x = np.arange(1, len(inv_gaussian)+1)
+    # Complementary Gaussian (1 - Gaussian)
+    comp_gaussian = 1 - y_values
+    # Normalization to ensure the first author weight becomes 1
+    comp_gaussian = (comp_gaussian - np.min(comp_gaussian)) / (np.max(comp_gaussian) - np.min(comp_gaussian))
+    comp_gaussian = 0.3 + 0.7 * comp_gaussian  # Scale to the desired range
+    # Inverse bell curve
+    comp_gaussian = comp_gaussian.tolist()
+    comp_gaussian = comp_gaussian + comp_gaussian[::-1]  # Reverse the curve to start from 1
+    comp_gaussian = np.array(comp_gaussian)
 
-    author_positions = np.arange(1, n+1)
-    author_weights = np.interp(author_positions, inv_gaussian_x, inv_gaussian)
+    comp_gaussian_x = np.arange(1, len(comp_gaussian) + 1)
+
+    author_positions = np.linspace(1, len(comp_gaussian), len(comp_gaussian))
+    author_weights = np.interp(author_positions, comp_gaussian_x, comp_gaussian)
     author_weight = author_weights[author_position-1]
 
-    plt.plot(inv_gaussian_x, inv_gaussian, label='Leadership weight curve')
+    print(author_position, author_weight)
+
+    plt.plot(author_positions, comp_gaussian, label='Leadership weight curve')
 
     # Plot all authors' weights
     plt.scatter(author_positions, author_weights, label='Leadership weight')
