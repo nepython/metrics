@@ -26080,5 +26080,23 @@
         "country": "Italy",
         "address": "Via Manzoni 56",
         "city": "Rozzano"
+    },
+    "60227249": {
+        "affiliation_id": "60227249",
+        "name": "Iscte Business School",
+        "author-count": 158,
+        "document-count": 562,
+        "country": "Portugal",
+        "address": "Ala Aut\u00f3noma, Av. das For\u00e7as Armadas",
+        "city": "Lisbon"
+    },
+    "60000055": {
+        "affiliation_id": "60000055",
+        "name": "Madras Diabetes Research Foundation",
+        "author-count": 433,
+        "document-count": 1432,
+        "country": "India",
+        "address": "No 4, Conran Smith Road, Gopalapuram",
+        "city": "Chennai"
     }
 }

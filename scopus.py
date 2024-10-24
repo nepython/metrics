@@ -31,8 +31,8 @@ data_dir = 'data'
 top_2pc_filepath = f'{data_dir}/top_CS_researcher_by_h_index.json'
 
 # Define the list of affiliations to search for authors
-# affiliations_filepath = f'{data_dir}/affiliations.json'
-affiliations_filepath = f'{data_dir}/case_study.json'
+affiliations_filepath = f'{data_dir}/affiliations.json'
+# affiliations_filepath = f'{data_dir}/case_study.json'
 affiliations = read_data(affiliations_filepath)
 
 # Define external affiliations of collaborating co-authors

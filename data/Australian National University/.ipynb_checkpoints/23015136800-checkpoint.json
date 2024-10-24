@@ -1,0 +1,4843 @@
+{
+    "scopus_id": "23015136800",
+    "name": "Kobayashi, Rika",
+    "publications": [
+        {
+            "title": "The Dalton quantum chemistry program system",
+            "eid": "2-s2.0-84898548879",
+            "authors": [
+                {
+                    "scopus_id": "56087521600",
+                    "name": "Aidas K.",
+                    "affiliation_id": [
+                        "60059987"
+                    ]
+                },
+                {
+                    "scopus_id": "7005219324",
+                    "name": "Angeli C.",
+                    "affiliation_id": [
+                        "60024690"
+                    ]
+                },
+                {
+                    "scopus_id": "7006198120",
+                    "name": "Bak K.L.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "57194886323",
+                    "name": "Bakken V.",
+                    "affiliation_id": [
+                        "60010348"
+                    ]
+                },
+                {
+                    "scopus_id": "7102585924",
+                    "name": "Bast R.",
+                    "affiliation_id": [
+                        "60002014"
+                    ]
+                },
+                {
+                    "scopus_id": "6603706693",
+                    "name": "Boman L.",
+                    "affiliation_id": [
+                        "113120210"
+                    ]
+                },
+                {
+                    "scopus_id": "35552325300",
+                    "name": "Christiansen O.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "35555887700",
+                    "name": "Cimiraglia R.",
+                    "affiliation_id": [
+                        "60024690"
+                    ]
+                },
+                {
+                    "scopus_id": "7004159827",
+                    "name": "Coriani S.",
+                    "affiliation_id": [
+                        "60018363"
+                    ]
+                },
+                {
+                    "scopus_id": "6507563722",
+                    "name": "Dahle P.",
+                    "affiliation_id": [
+                        "60004490"
+                    ]
+                },
+                {
+                    "scopus_id": "6507990893",
+                    "name": "Dalskov E.K.",
+                    "affiliation_id": [
+                        "60115339"
+                    ]
+                },
+                {
+                    "scopus_id": "14012610400",
+                    "name": "Ekstr\u00f6m U.",
+                    "affiliation_id": [
+                        "60010348"
+                    ]
+                },
+                {
+                    "scopus_id": "6505997953",
+                    "name": "Enevoldsen T.",
+                    "affiliation_id": [
+                        "60019160"
+                    ]
+                },
+                {
+                    "scopus_id": "54398394000",
+                    "name": "Eriksen J.J.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "54398483200",
+                    "name": "Ettenhuber P.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7201505076",
+                    "name": "Fern\u00e1ndez B.",
+                    "affiliation_id": [
+                        "60028419"
+                    ]
+                },
+                {
+                    "scopus_id": "9734593700",
+                    "name": "Ferrighi L.",
+                    "affiliation_id": [
+                        "60021255"
+                    ]
+                },
+                {
+                    "scopus_id": "8543614900",
+                    "name": "Fliegl H.",
+                    "affiliation_id": [
+                        "60010348"
+                    ]
+                },
+                {
+                    "scopus_id": "8879917100",
+                    "name": "Frediani L.",
+                    "affiliation_id": [
+                        "60021255"
+                    ]
+                },
+                {
+                    "scopus_id": "6603937302",
+                    "name": "Hald K.",
+                    "affiliation_id": [
+                        "114338854"
+                    ]
+                },
+                {
+                    "scopus_id": "6701362841",
+                    "name": "Halkier A.",
+                    "affiliation_id": [
+                        "60095725"
+                    ]
+                },
+                {
+                    "scopus_id": "56210376300",
+                    "name": "H\u00e4ttig C.",
+                    "affiliation_id": [
+                        "60005322"
+                    ]
+                },
+                {
+                    "scopus_id": "6507138811",
+                    "name": "Heiberg H.",
+                    "affiliation_id": [
+                        "60019471"
+                    ]
+                },
+                {
+                    "scopus_id": "7006713705",
+                    "name": "Helgaker T.",
+                    "affiliation_id": [
+                        "60010348"
+                    ]
+                },
+                {
+                    "scopus_id": "6505905315",
+                    "name": "Hennum A.C.",
+                    "affiliation_id": [
+                        "60068732"
+                    ]
+                },
+                {
+                    "scopus_id": "6506789859",
+                    "name": "Hettema H.",
+                    "affiliation_id": [
+                        "60005686"
+                    ]
+                },
+                {
+                    "scopus_id": "55698004200",
+                    "name": "Hjerten\u00e6s E.",
+                    "affiliation_id": [
+                        "60013141"
+                    ]
+                },
+                {
+                    "scopus_id": "8891409400",
+                    "name": "H\u00f8st S.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "28567825400",
+                    "name": "H\u00f8yvik I.M.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "13606228200",
+                    "name": "Iozzi M.F.",
+                    "affiliation_id": [
+                        "60010348"
+                    ]
+                },
+                {
+                    "scopus_id": "14060343000",
+                    "name": "Jans\u00edk B.",
+                    "affiliation_id": [
+                        "60018768"
+                    ]
+                },
+                {
+                    "scopus_id": "57210740908",
+                    "name": "Jensen H.J.A.",
+                    "affiliation_id": [
+                        "60019160"
+                    ]
+                },
+                {
+                    "scopus_id": "57865468600",
+                    "name": "Jonsson D.",
+                    "affiliation_id": [
+                        "60021255"
+                    ]
+                },
+                {
+                    "scopus_id": "7202626498",
+                    "name": "J\u00f8rgensen P.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "30767597600",
+                    "name": "Kauczor J.",
+                    "affiliation_id": [
+                        "60009358"
+                    ]
+                },
+                {
+                    "scopus_id": "7006547463",
+                    "name": "Kirpekar S.",
+                    "affiliation_id": [
+                        "114338904"
+                    ]
+                },
+                {
+                    "scopus_id": "24577779900",
+                    "name": "Kj\u00e6rgaard T.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7003581704",
+                    "name": "Klopper W.",
+                    "affiliation_id": [
+                        "60102538"
+                    ]
+                },
+                {
+                    "scopus_id": "57204344327",
+                    "name": "Knecht S.",
+                    "affiliation_id": [
+                        "60025858"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7403412036",
+                    "name": "Koch H.",
+                    "affiliation_id": [
+                        "60013141"
+                    ]
+                },
+                {
+                    "scopus_id": "6603618578",
+                    "name": "Kongsted J.",
+                    "affiliation_id": [
+                        "60019160"
+                    ]
+                },
+                {
+                    "scopus_id": "8398401500",
+                    "name": "Krapp A.",
+                    "affiliation_id": [
+                        "60114629"
+                    ]
+                },
+                {
+                    "scopus_id": "57219190275",
+                    "name": "Kristensen K.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7003935135",
+                    "name": "Ligabue A.",
+                    "affiliation_id": [
+                        "60004591"
+                    ]
+                },
+                {
+                    "scopus_id": "6505468112",
+                    "name": "Lutn\u00e6s O.B.",
+                    "affiliation_id": [
+                        "60030003"
+                    ]
+                },
+                {
+                    "scopus_id": "7102892384",
+                    "name": "Melo J.I.",
+                    "affiliation_id": [
+                        "60001563"
+                    ]
+                },
+                {
+                    "scopus_id": "7006370833",
+                    "name": "Mikkelsen K.V.",
+                    "affiliation_id": [
+                        "60030840"
+                    ]
+                },
+                {
+                    "scopus_id": "55748650300",
+                    "name": "Myhre R.H.",
+                    "affiliation_id": [
+                        "60013141"
+                    ]
+                },
+                {
+                    "scopus_id": "6506862414",
+                    "name": "Neiss C.",
+                    "affiliation_id": [
+                        "60000765"
+                    ]
+                },
+                {
+                    "scopus_id": "7201429189",
+                    "name": "Nielsen C.B.",
+                    "affiliation_id": [
+                        "60032665"
+                    ]
+                },
+                {
+                    "scopus_id": "7201827008",
+                    "name": "Norman P.",
+                    "affiliation_id": [
+                        "60009358"
+                    ]
+                },
+                {
+                    "scopus_id": "7403259791",
+                    "name": "Olsen J.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "36671786500",
+                    "name": "Olsen J.M.H.",
+                    "affiliation_id": [
+                        "60019160"
+                    ]
+                },
+                {
+                    "scopus_id": "6701626034",
+                    "name": "Osted A.",
+                    "affiliation_id": [
+                        "114338946"
+                    ]
+                },
+                {
+                    "scopus_id": "7103011334",
+                    "name": "Packer M.J.",
+                    "affiliation_id": [
+                        "60019160"
+                    ]
+                },
+                {
+                    "scopus_id": "6601908786",
+                    "name": "Pawlowski F.",
+                    "affiliation_id": [
+                        "60082121"
+                    ]
+                },
+                {
+                    "scopus_id": "55666642300",
+                    "name": "Pedersen T.B.",
+                    "affiliation_id": [
+                        "60010348"
+                    ]
+                },
+                {
+                    "scopus_id": "6507294114",
+                    "name": "Provasi P.F.",
+                    "affiliation_id": [
+                        "60003542"
+                    ]
+                },
+                {
+                    "scopus_id": "16175818300",
+                    "name": "Reine S.",
+                    "affiliation_id": [
+                        "60010348"
+                    ]
+                },
+                {
+                    "scopus_id": "6603119062",
+                    "name": "Rinkevicius Z.",
+                    "affiliation_id": [
+                        "60002014"
+                    ]
+                },
+                {
+                    "scopus_id": "6604022730",
+                    "name": "Ruden T.A.",
+                    "affiliation_id": [
+                        "114338886"
+                    ]
+                },
+                {
+                    "scopus_id": "7005489962",
+                    "name": "Ruud K.",
+                    "affiliation_id": [
+                        "60021255"
+                    ]
+                },
+                {
+                    "scopus_id": "55743794600",
+                    "name": "Rybkin V.V.",
+                    "affiliation_id": [
+                        "60102538"
+                    ]
+                },
+                {
+                    "scopus_id": "7003562872",
+                    "name": "Sa\u0142ek P.",
+                    "affiliation_id": [
+                        "114338933"
+                    ]
+                },
+                {
+                    "scopus_id": "7006834630",
+                    "name": "Samson C.C.M.",
+                    "affiliation_id": [
+                        "60102538"
+                    ]
+                },
+                {
+                    "scopus_id": "35580311400",
+                    "name": "de Mer\u00e1s A.S.",
+                    "affiliation_id": [
+                        "60002644"
+                    ]
+                },
+                {
+                    "scopus_id": "57206235158",
+                    "name": "Saue T.",
+                    "affiliation_id": [
+                        "60102124"
+                    ]
+                },
+                {
+                    "scopus_id": "7005567734",
+                    "name": "Sauer S.P.A.",
+                    "affiliation_id": [
+                        "60030840"
+                    ]
+                },
+                {
+                    "scopus_id": "7005551088",
+                    "name": "Schimmelpfennig B.",
+                    "affiliation_id": [
+                        "60102538"
+                    ]
+                },
+                {
+                    "scopus_id": "35767279100",
+                    "name": "Sneskov K.",
+                    "affiliation_id": [
+                        "114338916"
+                    ]
+                },
+                {
+                    "scopus_id": "15833261200",
+                    "name": "Steindal A.H.",
+                    "affiliation_id": [
+                        "60021255"
+                    ]
+                },
+                {
+                    "scopus_id": "6602100813",
+                    "name": "Sylvester-Hvid K.O.",
+                    "affiliation_id": [
+                        "60017151"
+                    ]
+                },
+                {
+                    "scopus_id": "7404776139",
+                    "name": "Taylor P.R.",
+                    "affiliation_id": [
+                        "60118635"
+                    ]
+                },
+                {
+                    "scopus_id": "8691845100",
+                    "name": "Teale A.M.",
+                    "affiliation_id": [
+                        "60015138"
+                    ]
+                },
+                {
+                    "scopus_id": "23061765700",
+                    "name": "Tellgren E.I.",
+                    "affiliation_id": [
+                        "60010348"
+                    ]
+                },
+                {
+                    "scopus_id": "7004590371",
+                    "name": "Tew D.P.",
+                    "affiliation_id": [
+                        "60020650"
+                    ]
+                },
+                {
+                    "scopus_id": "6602577756",
+                    "name": "Thorvaldsen A.J.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7801525266",
+                    "name": "Th\u00f8gersen L.",
+                    "affiliation_id": [
+                        "113871222"
+                    ]
+                },
+                {
+                    "scopus_id": "7004105012",
+                    "name": "Vahtras O.",
+                    "affiliation_id": [
+                        "60002014"
+                    ]
+                },
+                {
+                    "scopus_id": "55708860000",
+                    "name": "Watson M.A.",
+                    "affiliation_id": [
+                        "60003269"
+                    ]
+                },
+                {
+                    "scopus_id": "7410085733",
+                    "name": "Wilson D.J.D.",
+                    "affiliation_id": [
+                        "60006925"
+                    ]
+                },
+                {
+                    "scopus_id": "57197297273",
+                    "name": "Ziolkowski M.",
+                    "affiliation_id": [
+                        "60026610"
+                    ]
+                },
+                {
+                    "scopus_id": "56109615300",
+                    "name": "\u00c5gren H.",
+                    "affiliation_id": [
+                        "60002014"
+                    ]
+                }
+            ],
+            "citations": 1225,
+            "publication_name": "Wiley Interdisciplinary Reviews: Computational Molecular Science",
+            "issn": "17590876",
+            "cover_date": "2014-01-01",
+            "venue": "Journal",
+            "volume": "4",
+            "issue": "3",
+            "page_range": "269-284",
+            "doi": "10.1002/wcms.1172"
+        },
+        {
+            "title": "NWChem: Past, present, and future",
+            "eid": "2-s2.0-85084785862",
+            "authors": [
+                {
+                    "scopus_id": "6603601682",
+                    "name": "Apr\u00e0 E.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "6701463104",
+                    "name": "Bylaska E.J.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "7201947545",
+                    "name": "De Jong W.A.",
+                    "affiliation_id": [
+                        "60007174"
+                    ]
+                },
+                {
+                    "scopus_id": "7003951565",
+                    "name": "Govind N.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "7103026909",
+                    "name": "Kowalski K.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "6701612707",
+                    "name": "Straatsma T.P.",
+                    "affiliation_id": [
+                        "60024266"
+                    ]
+                },
+                {
+                    "scopus_id": "6603839075",
+                    "name": "Valiev M.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "36927019300",
+                    "name": "Van Dam H.J.J.",
+                    "affiliation_id": [
+                        "60006221"
+                    ]
+                },
+                {
+                    "scopus_id": "6602740577",
+                    "name": "Alexeev Y.",
+                    "affiliation_id": [
+                        "60028609"
+                    ]
+                },
+                {
+                    "scopus_id": "7801467365",
+                    "name": "Anchell J.",
+                    "affiliation_id": [
+                        "60033010"
+                    ]
+                },
+                {
+                    "scopus_id": "57216816550",
+                    "name": "Anisimov V.",
+                    "affiliation_id": [
+                        "60028609"
+                    ]
+                },
+                {
+                    "scopus_id": "9638726000",
+                    "name": "Aquino F.W.",
+                    "affiliation_id": [
+                        "125216116"
+                    ]
+                },
+                {
+                    "scopus_id": "16021444100",
+                    "name": "Atta-Fynn R.",
+                    "affiliation_id": [
+                        "60003467"
+                    ]
+                },
+                {
+                    "scopus_id": "57206407510",
+                    "name": "Autschbach J.",
+                    "affiliation_id": [
+                        "60032083"
+                    ]
+                },
+                {
+                    "scopus_id": "36859321200",
+                    "name": "Bauman N.P.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "57201974225",
+                    "name": "Becca J.C.",
+                    "affiliation_id": [
+                        "60001439"
+                    ]
+                },
+                {
+                    "scopus_id": "6603558471",
+                    "name": "Bernholdt D.E.",
+                    "affiliation_id": [
+                        "60024266"
+                    ]
+                },
+                {
+                    "scopus_id": "25822426700",
+                    "name": "Bhaskaran-Nair K.",
+                    "affiliation_id": [
+                        "60010261"
+                    ]
+                },
+                {
+                    "scopus_id": "35736704000",
+                    "name": "Bogatko S.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "7003958545",
+                    "name": "Borowski P.",
+                    "affiliation_id": [
+                        "60011685"
+                    ]
+                },
+                {
+                    "scopus_id": "56099909800",
+                    "name": "Boschen J.",
+                    "affiliation_id": [
+                        "60004354"
+                    ]
+                },
+                {
+                    "scopus_id": "56625161900",
+                    "name": "Brabec J.",
+                    "affiliation_id": [
+                        "60031135"
+                    ]
+                },
+                {
+                    "scopus_id": "57190667066",
+                    "name": "Bruner A.",
+                    "affiliation_id": [
+                        "106323398"
+                    ]
+                },
+                {
+                    "scopus_id": "14059425500",
+                    "name": "Cau\u00ebt E.",
+                    "affiliation_id": [
+                        "60000145"
+                    ]
+                },
+                {
+                    "scopus_id": "57216817638",
+                    "name": "Chen Y.",
+                    "affiliation_id": [
+                        "60109024"
+                    ]
+                },
+                {
+                    "scopus_id": "6603743457",
+                    "name": "Chuev G.N.",
+                    "affiliation_id": [
+                        "60013366"
+                    ]
+                },
+                {
+                    "scopus_id": "7202488076",
+                    "name": "Cramer C.J.",
+                    "affiliation_id": [
+                        "60152345"
+                    ]
+                },
+                {
+                    "scopus_id": "22979082200",
+                    "name": "Daily J.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "57216815297",
+                    "name": "Deegan M.J.O.",
+                    "affiliation_id": [
+                        "60003771"
+                    ]
+                },
+                {
+                    "scopus_id": "35461897500",
+                    "name": "Dunning T.H.",
+                    "affiliation_id": [
+                        "60015481"
+                    ]
+                },
+                {
+                    "scopus_id": "7102457318",
+                    "name": "Dupuis M.",
+                    "affiliation_id": [
+                        "60032083"
+                    ]
+                },
+                {
+                    "scopus_id": "6701906861",
+                    "name": "Dyall K.G.",
+                    "affiliation_id": [
+                        "112433288"
+                    ]
+                },
+                {
+                    "scopus_id": "6602486537",
+                    "name": "Fann G.I.",
+                    "affiliation_id": [
+                        "60024266"
+                    ]
+                },
+                {
+                    "scopus_id": "35181291300",
+                    "name": "Fischer S.A.",
+                    "affiliation_id": [
+                        "60027271"
+                    ]
+                },
+                {
+                    "scopus_id": "36571626000",
+                    "name": "Fonari A.",
+                    "affiliation_id": [
+                        "60019647",
+                        "124515747"
+                    ]
+                },
+                {
+                    "scopus_id": "7801444916",
+                    "name": "Fr\u00fcchtl H.",
+                    "affiliation_id": [
+                        "60022132"
+                    ]
+                },
+                {
+                    "scopus_id": "7006451975",
+                    "name": "Gagliardi L.",
+                    "affiliation_id": [
+                        "60152345"
+                    ]
+                },
+                {
+                    "scopus_id": "57204698538",
+                    "name": "Garza J.",
+                    "affiliation_id": [
+                        "60028381"
+                    ]
+                },
+                {
+                    "scopus_id": "6507933467",
+                    "name": "Gawande N.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "57202711007",
+                    "name": "Ghosh S.",
+                    "affiliation_id": [
+                        "60152345",
+                        "60018135"
+                    ]
+                },
+                {
+                    "scopus_id": "6603278839",
+                    "name": "Glaesemann K.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "59157687500",
+                    "name": "G\u00f6tz A.W.",
+                    "affiliation_id": [
+                        "60025135"
+                    ]
+                },
+                {
+                    "scopus_id": "56597493000",
+                    "name": "Hammond J.",
+                    "affiliation_id": [
+                        "60033010"
+                    ]
+                },
+                {
+                    "scopus_id": "56508500300",
+                    "name": "Helms V.",
+                    "affiliation_id": [
+                        "60033241"
+                    ]
+                },
+                {
+                    "scopus_id": "57090291100",
+                    "name": "Hermes E.D.",
+                    "affiliation_id": [
+                        "60015900"
+                    ]
+                },
+                {
+                    "scopus_id": "7202464678",
+                    "name": "Hirao K.",
+                    "affiliation_id": [
+                        "60016648"
+                    ]
+                },
+                {
+                    "scopus_id": "7202205669",
+                    "name": "Hirata S.",
+                    "affiliation_id": [
+                        "60000745"
+                    ]
+                },
+                {
+                    "scopus_id": "35932572500",
+                    "name": "Jacquelin M.",
+                    "affiliation_id": [
+                        "60007174"
+                    ]
+                },
+                {
+                    "scopus_id": "7403326681",
+                    "name": "Jensen L.",
+                    "affiliation_id": [
+                        "60001439"
+                    ]
+                },
+                {
+                    "scopus_id": "34770699900",
+                    "name": "Johnson B.G.",
+                    "affiliation_id": [
+                        "115827952"
+                    ]
+                },
+                {
+                    "scopus_id": "22971441100",
+                    "name": "J\u00f3nsson H.",
+                    "affiliation_id": [
+                        "60071113",
+                        "60009952"
+                    ]
+                },
+                {
+                    "scopus_id": "35551180400",
+                    "name": "Kendall R.A.",
+                    "affiliation_id": [
+                        "60024266"
+                    ]
+                },
+                {
+                    "scopus_id": "22985489100",
+                    "name": "Klemm M.",
+                    "affiliation_id": [
+                        "60033010"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57204873924",
+                    "name": "Konkov V.",
+                    "affiliation_id": [
+                        "60010339"
+                    ]
+                },
+                {
+                    "scopus_id": "7004817496",
+                    "name": "Krishnamoorthy S.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "35583093900",
+                    "name": "Krishnan M.",
+                    "affiliation_id": [
+                        "60109024"
+                    ]
+                },
+                {
+                    "scopus_id": "56296492600",
+                    "name": "Lin Z.",
+                    "affiliation_id": [
+                        "60019118"
+                    ]
+                },
+                {
+                    "scopus_id": "23992675300",
+                    "name": "Lins R.D.",
+                    "affiliation_id": [
+                        "60026004"
+                    ]
+                },
+                {
+                    "scopus_id": "7003289252",
+                    "name": "Littlefield R.J.",
+                    "affiliation_id": [
+                        "124421284"
+                    ]
+                },
+                {
+                    "scopus_id": "26639651700",
+                    "name": "Logsdail A.J.",
+                    "affiliation_id": [
+                        "60023998"
+                    ]
+                },
+                {
+                    "scopus_id": "23566993000",
+                    "name": "Lopata K.",
+                    "affiliation_id": [
+                        "60007566"
+                    ]
+                },
+                {
+                    "scopus_id": "54400301700",
+                    "name": "Ma W.",
+                    "affiliation_id": [
+                        "60025256"
+                    ]
+                },
+                {
+                    "scopus_id": "6701573498",
+                    "name": "Marenich A.V.",
+                    "affiliation_id": [
+                        "60152345",
+                        "60020257"
+                    ]
+                },
+                {
+                    "scopus_id": "57886320600",
+                    "name": "Martin Del Campo J.",
+                    "affiliation_id": [
+                        "60032442"
+                    ]
+                },
+                {
+                    "scopus_id": "56386030100",
+                    "name": "Mejia-Rodriguez D.",
+                    "affiliation_id": [
+                        "60154289"
+                    ]
+                },
+                {
+                    "scopus_id": "57203560490",
+                    "name": "Moore J.E.",
+                    "affiliation_id": [
+                        "60033010"
+                    ]
+                },
+                {
+                    "scopus_id": "24172367100",
+                    "name": "Mullin J.M.",
+                    "affiliation_id": [
+                        "118602059"
+                    ]
+                },
+                {
+                    "scopus_id": "57210600898",
+                    "name": "Nakajima T.",
+                    "affiliation_id": [
+                        "60277300"
+                    ]
+                },
+                {
+                    "scopus_id": "56385296400",
+                    "name": "Nascimento D.R.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "57203043671",
+                    "name": "Nichols J.A.",
+                    "affiliation_id": [
+                        "60024266"
+                    ]
+                },
+                {
+                    "scopus_id": "24177135400",
+                    "name": "Nichols P.J.",
+                    "affiliation_id": [
+                        "60006164"
+                    ]
+                },
+                {
+                    "scopus_id": "6603702277",
+                    "name": "Nieplocha J.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "25026248600",
+                    "name": "Otero-De-La-Roza A.",
+                    "affiliation_id": [
+                        "60006793"
+                    ]
+                },
+                {
+                    "scopus_id": "7201727196",
+                    "name": "Palmer B.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "55524130800",
+                    "name": "Panyala A.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "57194016061",
+                    "name": "Pirojsirikul T.",
+                    "affiliation_id": [
+                        "60006314"
+                    ]
+                },
+                {
+                    "scopus_id": "57192650060",
+                    "name": "Peng B.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "10040856900",
+                    "name": "Peverati R.",
+                    "affiliation_id": [
+                        "60019118"
+                    ]
+                },
+                {
+                    "scopus_id": "35555439500",
+                    "name": "Pittner J.",
+                    "affiliation_id": [
+                        "60031135"
+                    ]
+                },
+                {
+                    "scopus_id": "57198083993",
+                    "name": "Pollack L.",
+                    "affiliation_id": [
+                        "125216010"
+                    ]
+                },
+                {
+                    "scopus_id": "14827987300",
+                    "name": "Richard R.M.",
+                    "affiliation_id": [
+                        "60008023"
+                    ]
+                },
+                {
+                    "scopus_id": "7004379362",
+                    "name": "Sadayappan P.",
+                    "affiliation_id": [
+                        "60150772"
+                    ]
+                },
+                {
+                    "scopus_id": "35498524400",
+                    "name": "Schatz G.C.",
+                    "affiliation_id": [
+                        "60007363"
+                    ]
+                },
+                {
+                    "scopus_id": "12802839400",
+                    "name": "Shelton W.A.",
+                    "affiliation_id": [
+                        "60019488"
+                    ]
+                },
+                {
+                    "scopus_id": "57191279865",
+                    "name": "Silverstein D.W.",
+                    "affiliation_id": [
+                        "60030543"
+                    ]
+                },
+                {
+                    "scopus_id": "57198519962",
+                    "name": "Smith D.M.A.",
+                    "affiliation_id": [
+                        "60033010"
+                    ]
+                },
+                {
+                    "scopus_id": "7003919798",
+                    "name": "Soares T.A.",
+                    "affiliation_id": [
+                        "60031482"
+                    ]
+                },
+                {
+                    "scopus_id": "57216817170",
+                    "name": "Song D.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "7005462279",
+                    "name": "Swart M.",
+                    "affiliation_id": [
+                        "60032907",
+                        "60103653"
+                    ]
+                },
+                {
+                    "scopus_id": "57212420935",
+                    "name": "Taylor H.L.",
+                    "affiliation_id": [
+                        "60028673"
+                    ]
+                },
+                {
+                    "scopus_id": "35197330000",
+                    "name": "Thomas G.S.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                },
+                {
+                    "scopus_id": "9736446000",
+                    "name": "Tipparaju V.",
+                    "affiliation_id": [
+                        "60018407"
+                    ]
+                },
+                {
+                    "scopus_id": "35419333100",
+                    "name": "Truhlar D.G.",
+                    "affiliation_id": [
+                        "60152345"
+                    ]
+                },
+                {
+                    "scopus_id": "6507651319",
+                    "name": "Tsemekhman K.",
+                    "affiliation_id": [
+                        "125216396"
+                    ]
+                },
+                {
+                    "scopus_id": "6603854124",
+                    "name": "Van Voorhis T.",
+                    "affiliation_id": [
+                        "60022195"
+                    ]
+                },
+                {
+                    "scopus_id": "56002752600",
+                    "name": "V\u00e1zquez-Mayagoitia A.",
+                    "affiliation_id": [
+                        "60028609"
+                    ]
+                },
+                {
+                    "scopus_id": "36751115200",
+                    "name": "Verma P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "15052695000",
+                    "name": "Villa O.",
+                    "affiliation_id": [
+                        "60076695"
+                    ]
+                },
+                {
+                    "scopus_id": "9735116100",
+                    "name": "Vishnu A.",
+                    "affiliation_id": [
+                        "60023471"
+                    ]
+                }
+            ],
+            "citations": 431,
+            "publication_name": "Journal of Chemical Physics",
+            "issn": "00219606",
+            "cover_date": "2020-05-14",
+            "venue": "Journal",
+            "volume": "152",
+            "issue": "18",
+            "page_range": null,
+            "doi": "10.1063/5.0004997"
+        },
+        {
+            "title": "Density functional theory for charge transfer: The nature of the N-bands of porphyrins and chlorophylls revealed through CAM-B3LYP, CASPT2, and SAC-CI calculations",
+            "eid": "2-s2.0-33748375173",
+            "authors": [
+                {
+                    "scopus_id": "7402905106",
+                    "name": "Cai Z.L.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "7103107697",
+                    "name": "Crossley M.J.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "7006530717",
+                    "name": "Reimers J.R.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.D.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 318,
+            "publication_name": "Journal of Physical Chemistry B",
+            "issn": "15206106",
+            "cover_date": "2006-08-10",
+            "venue": "Journal",
+            "volume": "110",
+            "issue": "31",
+            "page_range": "15624-15632",
+            "doi": "10.1021/jp063376t"
+        },
+        {
+            "title": "Assessment of the efficiency of long-range corrected functionals for some properties of large compounds",
+            "eid": "2-s2.0-34247199000",
+            "authors": [
+                {
+                    "scopus_id": "22944502300",
+                    "name": "Jacquemin D.",
+                    "affiliation_id": [
+                        "60006635"
+                    ]
+                },
+                {
+                    "scopus_id": "55942087300",
+                    "name": "Perp\u00e8te E.A.",
+                    "affiliation_id": [
+                        "60006635"
+                    ]
+                },
+                {
+                    "scopus_id": "6602582021",
+                    "name": "Scalmani G.",
+                    "affiliation_id": [
+                        "60020257"
+                    ]
+                },
+                {
+                    "scopus_id": "7103226570",
+                    "name": "Frisch M.J.",
+                    "affiliation_id": [
+                        "60020257"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006208965",
+                    "name": "Adamo C.",
+                    "affiliation_id": [
+                        "60008134"
+                    ]
+                }
+            ],
+            "citations": 302,
+            "publication_name": "Journal of Chemical Physics",
+            "issn": "00219606",
+            "cover_date": "2007-04-24",
+            "venue": "Journal",
+            "volume": "126",
+            "issue": "14",
+            "page_range": null,
+            "doi": "10.1063/1.2715573"
+        },
+        {
+            "title": "The application of CAM-B3LYP to the charge-transfer band problem of the zincbacteriochlorin-bacteriochlorin complex",
+            "eid": "2-s2.0-33344455128",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 257,
+            "publication_name": "Chemical Physics Letters",
+            "issn": "00092614",
+            "cover_date": "2006-03-10",
+            "venue": "Journal",
+            "volume": "420",
+            "issue": "1-3",
+            "page_range": "106-109",
+            "doi": "10.1016/j.cplett.2005.12.040"
+        },
+        {
+            "title": "Multiconfigurational self-consistent field calculations of nuclear shieldings using London atomic orbitals",
+            "eid": "2-s2.0-0009149697",
+            "authors": [
+                {
+                    "scopus_id": "7005489962",
+                    "name": "Ruud K.",
+                    "affiliation_id": [
+                        "60010348"
+                    ]
+                },
+                {
+                    "scopus_id": "7006713705",
+                    "name": "Helgaker T.",
+                    "affiliation_id": [
+                        "60010348"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7202626498",
+                    "name": "J\u00f8rgensen P.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7006198120",
+                    "name": "Bak K.L.",
+                    "affiliation_id": [
+                        "60033202"
+                    ]
+                },
+                {
+                    "scopus_id": "57210740908",
+                    "name": "Jensen H.J.A.",
+                    "affiliation_id": [
+                        "60019160"
+                    ]
+                }
+            ],
+            "citations": 234,
+            "publication_name": "The Journal of Chemical Physics",
+            "issn": "00219606",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "100",
+            "issue": "11",
+            "page_range": "8178-8185",
+            "doi": "10.1063/1.466812"
+        },
+        {
+            "title": "Calculation of size-intensive transition moments from the coupled cluster singles and doubles linear response function",
+            "eid": "2-s2.0-36449005335",
+            "authors": [
+                {
+                    "scopus_id": "7403412036",
+                    "name": "Koch H.",
+                    "affiliation_id": [
+                        "60029616",
+                        "119808272"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "35580311400",
+                    "name": "De Mer\u00e1s A.S.",
+                    "affiliation_id": [
+                        "60029616",
+                        "60002644"
+                    ]
+                },
+                {
+                    "scopus_id": "7202626498",
+                    "name": "J\u00f8rgensen P.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                }
+            ],
+            "citations": 210,
+            "publication_name": "The Journal of Chemical Physics",
+            "issn": "00219606",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "100",
+            "issue": "6",
+            "page_range": "4393-4400",
+            "doi": "10.1063/1.466321"
+        },
+        {
+            "title": "First hyperpolarizability of polymethineimine with long-range corrected functionals",
+            "eid": "2-s2.0-34249059034",
+            "authors": [
+                {
+                    "scopus_id": "22944502300",
+                    "name": "Jacquemin D.",
+                    "affiliation_id": [
+                        "60006635"
+                    ]
+                },
+                {
+                    "scopus_id": "55942087300",
+                    "name": "Perp\u00e8te E.A.",
+                    "affiliation_id": [
+                        "60006635"
+                    ]
+                },
+                {
+                    "scopus_id": "8523849200",
+                    "name": "Medved M.",
+                    "affiliation_id": [
+                        "60005299"
+                    ]
+                },
+                {
+                    "scopus_id": "6602582021",
+                    "name": "Scalmani G.",
+                    "affiliation_id": [
+                        "60020257"
+                    ]
+                },
+                {
+                    "scopus_id": "7103226570",
+                    "name": "Frisch M.J.",
+                    "affiliation_id": [
+                        "60020257"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006208965",
+                    "name": "Adamo C.",
+                    "affiliation_id": [
+                        "60008134"
+                    ]
+                }
+            ],
+            "citations": 174,
+            "publication_name": "Journal of Chemical Physics",
+            "issn": "00219606",
+            "cover_date": "2007-05-28",
+            "venue": "Journal",
+            "volume": "126",
+            "issue": "19",
+            "page_range": null,
+            "doi": "10.1063/1.2741246"
+        },
+        {
+            "title": "A CCSD(T) study of the relative stabilities of cytosine tautomers",
+            "eid": "2-s2.0-84961979214",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                }
+            ],
+            "citations": 139,
+            "publication_name": "Journal of Physical Chemistry A",
+            "issn": "10895639",
+            "cover_date": "1998-12-24",
+            "venue": "Journal",
+            "volume": "102",
+            "issue": "52",
+            "page_range": "10813-10817",
+            "doi": "10.1021/jp9829546"
+        },
+        {
+            "title": "A direct atomic orbital driven implementation of the coupled cluster singles and doubles (CCSD) model",
+            "eid": "2-s2.0-0001016677",
+            "authors": [
+                {
+                    "scopus_id": "7403412036",
+                    "name": "Koch H.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "35552325300",
+                    "name": "Christiansen O.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7202626498",
+                    "name": "J\u00f8rgensen P.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7006713705",
+                    "name": "Helgaker T.",
+                    "affiliation_id": [
+                        "60010348"
+                    ]
+                }
+            ],
+            "citations": 134,
+            "publication_name": "Chemical Physics Letters",
+            "issn": "00092614",
+            "cover_date": "1994-09-30",
+            "venue": "Journal",
+            "volume": "228",
+            "issue": "1-3",
+            "page_range": "233-238",
+            "doi": "10.1016/0009-2614(94)00898-1"
+        },
+        {
+            "title": "Calculation of frequency-dependent polarizabilities using coupled-cluster response theory",
+            "eid": "2-s2.0-0003093295",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7403412036",
+                    "name": "Koch H.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "24352116200",
+                    "name": "Jrgensen P.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                }
+            ],
+            "citations": 111,
+            "publication_name": "Chemical Physics Letters",
+            "issn": "00092614",
+            "cover_date": "1994-03-04",
+            "venue": "Journal",
+            "volume": "219",
+            "issue": "1-2",
+            "page_range": "30-35",
+            "doi": "10.1016/0009-2614(94)00051-4"
+        },
+        {
+            "title": "Assignment of the Q-Bands of the Chlorophylls: Coherence Loss via Q x-Q y Mixing",
+            "eid": "2-s2.0-84885125333",
+            "authors": [
+                {
+                    "scopus_id": "7006530717",
+                    "name": "Reimers J.R.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "7402905106",
+                    "name": "Cai Z.L.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6701692882",
+                    "name": "R\u00e4tsep M.",
+                    "affiliation_id": [
+                        "60068856"
+                    ]
+                },
+                {
+                    "scopus_id": "7005109792",
+                    "name": "Freiberg A.",
+                    "affiliation_id": [
+                        "60068856",
+                        "60068856"
+                    ]
+                },
+                {
+                    "scopus_id": "7003275963",
+                    "name": "Krausz E.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 108,
+            "publication_name": "Scientific Reports",
+            "issn": "",
+            "cover_date": "2013-10-14",
+            "venue": "Journal",
+            "volume": "3",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1038/srep02761"
+        },
+        {
+            "title": "Studies of the ground and excited-state surfaces of the retinal chromophore using CAM-B3LYP",
+            "eid": "2-s2.0-77951528559",
+            "authors": [
+                {
+                    "scopus_id": "6603588319",
+                    "name": "Rostov I.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6602582021",
+                    "name": "Scalmani G.",
+                    "affiliation_id": [
+                        "60020257"
+                    ]
+                },
+                {
+                    "scopus_id": "7103226570",
+                    "name": "Frisch M.",
+                    "affiliation_id": [
+                        "60020257"
+                    ]
+                }
+            ],
+            "citations": 79,
+            "publication_name": "Journal of Physical Chemistry B",
+            "issn": "15206106",
+            "cover_date": "2010-04-29",
+            "venue": "Journal",
+            "volume": "114",
+            "issue": "16",
+            "page_range": "5547-5555",
+            "doi": "10.1021/jp911329g"
+        },
+        {
+            "title": "Understanding and Calibrating Density-Functional-Theory Calculations Describing the Energy and Spectroscopy of Defect Sites in Hexagonal Boron Nitride",
+            "eid": "2-s2.0-85043998351",
+            "authors": [
+                {
+                    "scopus_id": "7006530717",
+                    "name": "Reimers J.R.",
+                    "affiliation_id": [
+                        "60023813",
+                        "60023932"
+                    ]
+                },
+                {
+                    "scopus_id": "57214290499",
+                    "name": "Sajid A.",
+                    "affiliation_id": [
+                        "60023932",
+                        "60196955"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23066870700",
+                    "name": "Ford M.J.",
+                    "affiliation_id": [
+                        "60023932"
+                    ]
+                }
+            ],
+            "citations": 68,
+            "publication_name": "Journal of Chemical Theory and Computation",
+            "issn": "15499618",
+            "cover_date": "2018-03-13",
+            "venue": "Journal",
+            "volume": "14",
+            "issue": "3",
+            "page_range": "1602-1613",
+            "doi": "10.1021/acs.jctc.7b01072"
+        },
+        {
+            "title": "A direct coupled cluster algorithm for massively parallel computers",
+            "eid": "2-s2.0-0031592418",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60004762"
+                    ]
+                },
+                {
+                    "scopus_id": "6604004285",
+                    "name": "Rendell A.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 64,
+            "publication_name": "Chemical Physics Letters",
+            "issn": "00092614",
+            "cover_date": "1997-01-31",
+            "venue": "Journal",
+            "volume": "265",
+            "issue": "1-2",
+            "page_range": "1-11",
+            "doi": "10.1016/S0009-2614(96)01387-5"
+        },
+        {
+            "title": "Comparison of coupled-cluster and Brueckner coupled-cluster calculations of molecular properties",
+            "eid": "2-s2.0-0002315877",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7403412036",
+                    "name": "Koch H.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7202626498",
+                    "name": "J\u00f8rgensen P.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "55902054800",
+                    "name": "Lee T.",
+                    "affiliation_id": [
+                        "60004179"
+                    ]
+                }
+            ],
+            "citations": 64,
+            "publication_name": "Chemical Physics Letters",
+            "issn": "00092614",
+            "cover_date": "1993-08-06",
+            "venue": "Journal",
+            "volume": "211",
+            "issue": "1",
+            "page_range": "94-100",
+            "doi": "10.1016/0009-2614(93)80057-V"
+        },
+        {
+            "title": "Assignment of the Q<inf>y</inf>, absorption spectrum of photosystem-i from thermosynechococcus elongatus based on CAM-B3LYP calculations at the PW91-optimized protein structure",
+            "eid": "2-s2.0-34548557196",
+            "authors": [
+                {
+                    "scopus_id": "8364575900",
+                    "name": "Yin S.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "9335458200",
+                    "name": "Dahlbom M.G.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "11440545100",
+                    "name": "Canfield P.J.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "16048732900",
+                    "name": "Hush N.S.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006530717",
+                    "name": "Reimers J.R.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                }
+            ],
+            "citations": 62,
+            "publication_name": "Journal of Physical Chemistry B",
+            "issn": "15206106",
+            "cover_date": "2007-08-23",
+            "venue": "Journal",
+            "volume": "111",
+            "issue": "33",
+            "page_range": "9923-9930",
+            "doi": "10.1021/jp070030p"
+        },
+        {
+            "title": "Gradient theory applied to the Brueckner doubles method",
+            "eid": "2-s2.0-0000516409",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "7005599042",
+                    "name": "Handy N.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "6506131886",
+                    "name": "Trucks G.",
+                    "affiliation_id": [
+                        "60027211"
+                    ]
+                },
+                {
+                    "scopus_id": "7103226570",
+                    "name": "Frisch M.",
+                    "affiliation_id": [
+                        "60027211"
+                    ]
+                },
+                {
+                    "scopus_id": "7004570825",
+                    "name": "Pople J.",
+                    "affiliation_id": [
+                        "60027950"
+                    ]
+                }
+            ],
+            "citations": 61,
+            "publication_name": "The Journal of Chemical Physics",
+            "issn": "00219606",
+            "cover_date": "1991-01-01",
+            "venue": "Journal",
+            "volume": "95",
+            "issue": "9",
+            "page_range": "6723-6733",
+            "doi": "10.1063/1.461544"
+        },
+        {
+            "title": "Comparison of the Brueckner and coupled-cluster approaches to electron correlation",
+            "eid": "2-s2.0-0001027728",
+            "authors": [
+                {
+                    "scopus_id": "55902054800",
+                    "name": "Lee T.",
+                    "affiliation_id": [
+                        "60004179"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "7005599042",
+                    "name": "Handy N.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                }
+            ],
+            "citations": 45,
+            "publication_name": "The Journal of Chemical Physics",
+            "issn": "00219606",
+            "cover_date": "1992-01-01",
+            "venue": "Journal",
+            "volume": "96",
+            "issue": "12",
+            "page_range": "8931-8937",
+            "doi": "10.1063/1.462251"
+        },
+        {
+            "title": "Systematic study of locally dense basis sets for NMR shielding constants",
+            "eid": "2-s2.0-84892596592",
+            "authors": [
+                {
+                    "scopus_id": "55959997200",
+                    "name": "Reid D.M.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7404084554",
+                    "name": "Collins M.A.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 44,
+            "publication_name": "Journal of Chemical Theory and Computation",
+            "issn": "15499618",
+            "cover_date": "2014-01-14",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "1",
+            "page_range": "146-152",
+            "doi": "10.1021/ct4007579"
+        },
+        {
+            "title": "Accurate prediction of the properties of materials using the CAM-B3LYP density functional",
+            "eid": "2-s2.0-85106031084",
+            "authors": [
+                {
+                    "scopus_id": "57195330898",
+                    "name": "Li M.",
+                    "affiliation_id": [
+                        "60023813"
+                    ]
+                },
+                {
+                    "scopus_id": "7006530717",
+                    "name": "Reimers J.R.",
+                    "affiliation_id": [
+                        "60023813",
+                        "60023932"
+                    ]
+                },
+                {
+                    "scopus_id": "23066870700",
+                    "name": "Ford M.J.",
+                    "affiliation_id": [
+                        "60023932"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.D.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 43,
+            "publication_name": "Journal of Computational Chemistry",
+            "issn": "01928651",
+            "cover_date": "2021-08-05",
+            "venue": "Journal",
+            "volume": "42",
+            "issue": "21",
+            "page_range": "1486-1497",
+            "doi": "10.1002/jcc.26558"
+        },
+        {
+            "title": "Online conferences \u2013 Towards a new (virtual) reality",
+            "eid": "2-s2.0-85089412084",
+            "authors": [
+                {
+                    "scopus_id": "8077655100",
+                    "name": "Roos G.",
+                    "affiliation_id": [
+                        "60104665"
+                    ]
+                },
+                {
+                    "scopus_id": "7005008560",
+                    "name": "Ol\u00e1h J.",
+                    "affiliation_id": [
+                        "60030035"
+                    ]
+                },
+                {
+                    "scopus_id": "57073033200",
+                    "name": "Ingle R.",
+                    "affiliation_id": [
+                        "60022148"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57189024221",
+                    "name": "Feldt M.",
+                    "affiliation_id": [
+                        "60000401"
+                    ]
+                }
+            ],
+            "citations": 43,
+            "publication_name": "Computational and Theoretical Chemistry",
+            "issn": "2210271X",
+            "cover_date": "2020-11-01",
+            "venue": "Journal",
+            "volume": "1189",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.comptc.2020.112975"
+        },
+        {
+            "title": "A new fundamental type of conformational isomerism",
+            "eid": "2-s2.0-85047309284",
+            "authors": [
+                {
+                    "scopus_id": "11440545100",
+                    "name": "Canfield P.J.",
+                    "affiliation_id": [
+                        "60023813",
+                        "60211917",
+                        "120729049"
+                    ]
+                },
+                {
+                    "scopus_id": "7005371536",
+                    "name": "Blake I.M.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "7402905106",
+                    "name": "Cai Z.L.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "6604094790",
+                    "name": "Luck I.J.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "7003275963",
+                    "name": "Krausz E.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60023813",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006530717",
+                    "name": "Reimers J.R.",
+                    "affiliation_id": [
+                        "60023813",
+                        "60023932"
+                    ]
+                },
+                {
+                    "scopus_id": "7103107697",
+                    "name": "Crossley M.J.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                }
+            ],
+            "citations": 38,
+            "publication_name": "Nature Chemistry",
+            "issn": "17554330",
+            "cover_date": "2018-06-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "6",
+            "page_range": "615-624",
+            "doi": "10.1038/s41557-018-0043-6"
+        },
+        {
+            "title": "Solvent-Specific Featurization for Predicting Free Energies of Solvation through Machine Learning",
+            "eid": "2-s2.0-85063525790",
+            "authors": [
+                {
+                    "scopus_id": "57207989228",
+                    "name": "Hutchinson S.T.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 34,
+            "publication_name": "Journal of Chemical Information and Modeling",
+            "issn": "15499596",
+            "cover_date": "2019-04-22",
+            "venue": "Journal",
+            "volume": "59",
+            "issue": "4",
+            "page_range": "1338-1346",
+            "doi": "10.1021/acs.jcim.8b00901"
+        },
+        {
+            "title": "The effect of descriptor choice in machine learning models for ionic liquid melting point prediction",
+            "eid": "2-s2.0-85091055124",
+            "authors": [
+                {
+                    "scopus_id": "57204098642",
+                    "name": "Low K.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "8953485800",
+                    "name": "Izgorodina E.I.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 33,
+            "publication_name": "Journal of Chemical Physics",
+            "issn": "00219606",
+            "cover_date": "2020-09-14",
+            "venue": "Journal",
+            "volume": "153",
+            "issue": "10",
+            "page_range": null,
+            "doi": "10.1063/5.0016289"
+        },
+        {
+            "title": "Forging a path to a better normal for conferences and collaboration",
+            "eid": "2-s2.0-85102687329",
+            "authors": [
+                {
+                    "scopus_id": "36185813900",
+                    "name": "Moss V.A.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8249163800",
+                    "name": "Adcock M.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "6507967237",
+                    "name": "Hotan A.W.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "41262234500",
+                    "name": "Rees G.A.",
+                    "affiliation_id": [
+                        "125912913"
+                    ]
+                },
+                {
+                    "scopus_id": "56421623000",
+                    "name": "Si\u00e9gel C.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "57007874900",
+                    "name": "Tremblay C.D.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "14520052200",
+                    "name": "Trenham C.E.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "Nature Astronomy",
+            "issn": "",
+            "cover_date": "2021-03-01",
+            "venue": "Journal",
+            "volume": "5",
+            "issue": "3",
+            "page_range": "213-216",
+            "doi": "10.1038/s41550-021-01325-z"
+        },
+        {
+            "title": "Large basis set calculations using Brueckner theory",
+            "eid": "2-s2.0-0001652357",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60031101",
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "7005599042",
+                    "name": "Handy N.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "The Journal of Chemical Physics",
+            "issn": "00219606",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "100",
+            "issue": "2",
+            "page_range": "1375-1379",
+            "doi": "10.1063/1.466615"
+        },
+        {
+            "title": "Structure and properties of disilyne",
+            "eid": "2-s2.0-0001552501",
+            "authors": [
+                {
+                    "scopus_id": "23015013000",
+                    "name": "H\u00fchn M.M.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.D.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60031101",
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7005599042",
+                    "name": "Handy N.C.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                }
+            ],
+            "citations": 27,
+            "publication_name": "The Journal of Chemical Physics",
+            "issn": "00219606",
+            "cover_date": "1993-01-01",
+            "venue": "Journal",
+            "volume": "98",
+            "issue": "9",
+            "page_range": "7107-7112",
+            "doi": "10.1063/1.464754"
+        },
+        {
+            "title": "Theoretical studies on the stability of molecular platinum catalysts for hydrogen production",
+            "eid": "2-s2.0-69249106066",
+            "authors": [
+                {
+                    "scopus_id": "7101953962",
+                    "name": "Roy L.",
+                    "affiliation_id": [
+                        "60006099"
+                    ]
+                },
+                {
+                    "scopus_id": "6602582021",
+                    "name": "Scalmani G.",
+                    "affiliation_id": [
+                        "60020257"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006940848",
+                    "name": "Batista E.",
+                    "affiliation_id": [
+                        "60006099"
+                    ]
+                }
+            ],
+            "citations": 26,
+            "publication_name": "Dalton Transactions",
+            "issn": "14779226",
+            "cover_date": "2009-08-31",
+            "venue": "Journal",
+            "volume": "",
+            "issue": "34",
+            "page_range": "6719-6721",
+            "doi": "10.1039/b911019b"
+        },
+        {
+            "title": "Brueckner coupled cluster response functions",
+            "eid": "2-s2.0-84987133708",
+            "authors": [
+                {
+                    "scopus_id": "7403412036",
+                    "name": "Koch H.",
+                    "affiliation_id": [
+                        "60029616",
+                        "115893137"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7202626498",
+                    "name": "J\u00f8rgensen P.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                }
+            ],
+            "citations": 22,
+            "publication_name": "International Journal of Quantum Chemistry",
+            "issn": "00207608",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "49",
+            "issue": "6",
+            "page_range": "835-848",
+            "doi": "10.1002/qua.560490607"
+        },
+        {
+            "title": "Coupled cluster ab initio potential energy surfaces for CO\u2026 He and CO\u2026 H<inf>2</inf>",
+            "eid": "2-s2.0-0034695250",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60004762"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.D.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "57202885351",
+                    "name": "Reid J.P.",
+                    "affiliation_id": [
+                        "101410339"
+                    ]
+                },
+                {
+                    "scopus_id": "6603943154",
+                    "name": "Quiney H.M.",
+                    "affiliation_id": [
+                        "101410339"
+                    ]
+                },
+                {
+                    "scopus_id": "15076168300",
+                    "name": "Simpson C.J.S.M.",
+                    "affiliation_id": [
+                        "101410339"
+                    ]
+                }
+            ],
+            "citations": 22,
+            "publication_name": "Molecular Physics",
+            "issn": "00268976",
+            "cover_date": "2000-01-01",
+            "venue": "Journal",
+            "volume": "98",
+            "issue": "24",
+            "page_range": "1995-2005",
+            "doi": "10.1080/00268970009483403"
+        },
+        {
+            "title": "Static polarizabilities and dipole moment derivatives for the closed shell coupled cluster singles and doubles wave function",
+            "eid": "2-s2.0-0040942495",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7403412036",
+                    "name": "Koch H.",
+                    "affiliation_id": [
+                        "60029616",
+                        "115893137"
+                    ]
+                },
+                {
+                    "scopus_id": "7202626498",
+                    "name": "J\u00f8rgensen P.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                }
+            ],
+            "citations": 20,
+            "publication_name": "The Journal of Chemical Physics",
+            "issn": "00219606",
+            "cover_date": "1994-01-01",
+            "venue": "Journal",
+            "volume": "101",
+            "issue": "6",
+            "page_range": "4956-4963",
+            "doi": "10.1063/1.467418"
+        },
+        {
+            "title": "The analytic gradient of the perturbative triplet excitations correction to the Brueckner doubles method",
+            "eid": "2-s2.0-0039505020",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "7005599042",
+                    "name": "Handy N.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                }
+            ],
+            "citations": 17,
+            "publication_name": "Chemical Physics Letters",
+            "issn": "00092614",
+            "cover_date": "1991-09-20",
+            "venue": "Journal",
+            "volume": "184",
+            "issue": "1-3",
+            "page_range": "195-202",
+            "doi": "10.1016/0009-2614(91)87187-G"
+        },
+        {
+            "title": "Virtual Computational Chemistry Teaching Laboratories - Hands-On at a Distance",
+            "eid": "2-s2.0-85115917294",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "9237441000",
+                    "name": "Goumans T.P.M.",
+                    "affiliation_id": [
+                        "121622356"
+                    ]
+                },
+                {
+                    "scopus_id": "57278187500",
+                    "name": "Carstensen N.O.",
+                    "affiliation_id": [
+                        "121622356"
+                    ]
+                },
+                {
+                    "scopus_id": "25936897400",
+                    "name": "Soini T.M.",
+                    "affiliation_id": [
+                        "121622356"
+                    ]
+                },
+                {
+                    "scopus_id": "6701906384",
+                    "name": "Marzari N.",
+                    "affiliation_id": [
+                        "60028186",
+                        "60028186"
+                    ]
+                },
+                {
+                    "scopus_id": "55203635400",
+                    "name": "Timrov I.",
+                    "affiliation_id": [
+                        "60028186"
+                    ]
+                },
+                {
+                    "scopus_id": "54401566200",
+                    "name": "Ponc\u00e9 S.",
+                    "affiliation_id": [
+                        "60028186"
+                    ]
+                },
+                {
+                    "scopus_id": "56412027100",
+                    "name": "Linscott E.B.",
+                    "affiliation_id": [
+                        "60028186"
+                    ]
+                },
+                {
+                    "scopus_id": "57221863362",
+                    "name": "Sewell C.J.",
+                    "affiliation_id": [
+                        "60028186",
+                        "60028186"
+                    ]
+                },
+                {
+                    "scopus_id": "31767580300",
+                    "name": "Pizzi G.",
+                    "affiliation_id": [
+                        "60028186",
+                        "60028186"
+                    ]
+                },
+                {
+                    "scopus_id": "57218835093",
+                    "name": "Ramirez F.",
+                    "affiliation_id": [
+                        "60028186",
+                        "60028186"
+                    ]
+                },
+                {
+                    "scopus_id": "57190425455",
+                    "name": "Bercx M.",
+                    "affiliation_id": [
+                        "60028186",
+                        "60028186"
+                    ]
+                },
+                {
+                    "scopus_id": "57212242894",
+                    "name": "Huber S.P.",
+                    "affiliation_id": [
+                        "60028186"
+                    ]
+                },
+                {
+                    "scopus_id": "57200500325",
+                    "name": "Adorf C.S.",
+                    "affiliation_id": [
+                        "60028186",
+                        "60028186"
+                    ]
+                },
+                {
+                    "scopus_id": "55588114500",
+                    "name": "Talirz L.",
+                    "affiliation_id": [
+                        "60028186",
+                        "60028186",
+                        "60070538"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Journal of Chemical Education",
+            "issn": "00219584",
+            "cover_date": "2021-10-12",
+            "venue": "Journal",
+            "volume": "98",
+            "issue": "10",
+            "page_range": "3163-3171",
+            "doi": "10.1021/acs.jchemed.1c00655"
+        },
+        {
+            "title": "Theoretical spectroscopy of the v N N B defect in hexagonal boron nitride",
+            "eid": "2-s2.0-85094599629",
+            "authors": [
+                {
+                    "scopus_id": "57214290499",
+                    "name": "Sajid A.",
+                    "affiliation_id": [
+                        "60023932",
+                        "60196955"
+                    ]
+                },
+                {
+                    "scopus_id": "7006530717",
+                    "name": "Reimers J.R.",
+                    "affiliation_id": [
+                        "60023932",
+                        "60023813"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60023813",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23066870700",
+                    "name": "Ford M.J.",
+                    "affiliation_id": [
+                        "60023932",
+                        "60023813"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Physical Review B",
+            "issn": "24699950",
+            "cover_date": "2020-10-12",
+            "venue": "Journal",
+            "volume": "102",
+            "issue": "14",
+            "page_range": null,
+            "doi": "10.1103/PhysRevB.102.144104"
+        },
+        {
+            "title": "Microsolvation within the Systematic Molecular Fragmentation by Annihilation Approach",
+            "eid": "2-s2.0-85020210120",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60023813",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7404084554",
+                    "name": "Collins M.A.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Journal of Physical Chemistry A",
+            "issn": "10895639",
+            "cover_date": "2017-01-12",
+            "venue": "Journal",
+            "volume": "121",
+            "issue": "1",
+            "page_range": "334-341",
+            "doi": "10.1021/acs.jpca.6b10919"
+        },
+        {
+            "title": "Comparing long-range corrected functionals in the cis-trans isomerisation of the retinal chromophore",
+            "eid": "2-s2.0-84868382758",
+            "authors": [
+                {
+                    "scopus_id": "6603588319",
+                    "name": "Rostov I.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Molecular Physics",
+            "issn": "00268976",
+            "cover_date": "2012-10-01",
+            "venue": "Journal",
+            "volume": "110",
+            "issue": "19-20",
+            "page_range": "2329-2336",
+            "doi": "10.1080/00268976.2012.679631"
+        },
+        {
+            "title": "Rapid analysis of coal blends by diffuse reflectance FT-i.r. spectrometry",
+            "eid": "2-s2.0-0023455885",
+            "authors": [
+                {
+                    "scopus_id": "7003332482",
+                    "name": "Fredericks P.",
+                    "affiliation_id": [
+                        "60007660"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60007660"
+                    ]
+                },
+                {
+                    "scopus_id": "6701773834",
+                    "name": "Osborn P.",
+                    "affiliation_id": [
+                        "60007660"
+                    ]
+                }
+            ],
+            "citations": 16,
+            "publication_name": "Fuel",
+            "issn": "00162361",
+            "cover_date": "1987-01-01",
+            "venue": "Journal",
+            "volume": "66",
+            "issue": "11",
+            "page_range": "1603-1608",
+            "doi": "10.1016/0016-2361(87)90027-5"
+        },
+        {
+            "title": "Dynamic CCSD polarisabilities of CHF<inf>3</inf> and CHCl<inf>3</inf>",
+            "eid": "2-s2.0-0030577997",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60029616",
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.D.",
+                    "affiliation_id": [
+                        "60029616",
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "7403412036",
+                    "name": "Koch H.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7202626498",
+                    "name": "J\u00f8rgensen P.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Chemical Physics Letters",
+            "issn": "00092614",
+            "cover_date": "1996-05-10",
+            "venue": "Journal",
+            "volume": "253",
+            "issue": "5-6",
+            "page_range": "373-376",
+            "doi": "10.1016/0009-2614(96)00328-4"
+        },
+        {
+            "title": "An ab initio quartic force field and the fundamental frequencies of o-benzyne",
+            "eid": "2-s2.0-0000711094",
+            "authors": [
+                {
+                    "scopus_id": "56369560300",
+                    "name": "Bludsk\u00fd O.",
+                    "affiliation_id": [
+                        "60030266"
+                    ]
+                },
+                {
+                    "scopus_id": "56261266800",
+                    "name": "\u0160pirko V.",
+                    "affiliation_id": [
+                        "60030266"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7202626498",
+                    "name": "J\u00f8rgensen P.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                }
+            ],
+            "citations": 15,
+            "publication_name": "Chemical Physics Letters",
+            "issn": "00092614",
+            "cover_date": "1994-10-14",
+            "venue": "Journal",
+            "volume": "228",
+            "issue": "6",
+            "page_range": "568-574",
+            "doi": "10.1016/0009-2614(94)00991-0"
+        },
+        {
+            "title": "Theoretical investigation of the isomerisation of merocyanine",
+            "eid": "2-s2.0-84882452340",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.D.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Molecular Physics",
+            "issn": "00268976",
+            "cover_date": "2013-07-01",
+            "venue": "Journal",
+            "volume": "111",
+            "issue": "9-11",
+            "page_range": "1574-1579",
+            "doi": "10.1080/00268976.2013.804958"
+        },
+        {
+            "title": "Electron densities from the Brueckner Doubles method",
+            "eid": "2-s2.0-0042325659",
+            "authors": [
+                {
+                    "scopus_id": "16450883500",
+                    "name": "van Heusden C.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                },
+                {
+                    "scopus_id": "7005599042",
+                    "name": "Handy N.",
+                    "affiliation_id": [
+                        "60031101"
+                    ]
+                }
+            ],
+            "citations": 13,
+            "publication_name": "Theoretica Chimica Acta",
+            "issn": "00405744",
+            "cover_date": "1993-07-01",
+            "venue": "Journal",
+            "volume": "86",
+            "issue": "1-2",
+            "page_range": "25-39",
+            "doi": "10.1007/BF01113514"
+        },
+        {
+            "title": "Application of the Systematic Molecular Fragmentation by Annihilation Method to ab Initio NMR Chemical Shift Calculations",
+            "eid": "2-s2.0-85056802205",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60112527",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.D.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "55959997200",
+                    "name": "Reid D.M.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7404084554",
+                    "name": "Collins M.A.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Journal of Physical Chemistry A",
+            "issn": "10895639",
+            "cover_date": "2018-11-21",
+            "venue": "Journal",
+            "volume": "122",
+            "issue": "46",
+            "page_range": "9135-9141",
+            "doi": "10.1021/acs.jpca.8b09565"
+        },
+        {
+            "title": "Ab initio NMR chemical shift calculations using fragment molecular orbitals and locally dense basis sets",
+            "eid": "2-s2.0-85034098402",
+            "authors": [
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Journal of Physical Chemistry A",
+            "issn": "10895639",
+            "cover_date": "2016-11-10",
+            "venue": "Journal",
+            "volume": "120",
+            "issue": "44",
+            "page_range": "8907-8915",
+            "doi": "10.1021/acs.jpca.6b09190"
+        },
+        {
+            "title": "Erratum to 'The application of CAM-B3LYP to the charge-transfer band problem of the zincbacteriochlorin-bacteriochlorin complex' [Chem. Phys. Lett. 420 (2006) 106-109] (DOI:10.1016/j.cplett.2005.12.040)",
+            "eid": "2-s2.0-33646838616",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 12,
+            "publication_name": "Chemical Physics Letters",
+            "issn": "00092614",
+            "cover_date": "2006-06-12",
+            "venue": "Journal",
+            "volume": "424",
+            "issue": "1-3",
+            "page_range": "225",
+            "doi": "10.1016/j.cplett.2006.04.037"
+        },
+        {
+            "title": "Convergence of Defect Energetics Calculations",
+            "eid": "2-s2.0-85094611272",
+            "authors": [
+                {
+                    "scopus_id": "7006530717",
+                    "name": "Reimers J.R.",
+                    "affiliation_id": [
+                        "60023813",
+                        "60023932"
+                    ]
+                },
+                {
+                    "scopus_id": "57214290499",
+                    "name": "Sajid A.",
+                    "affiliation_id": [
+                        "60023932",
+                        "60196955"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60023813",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23066870700",
+                    "name": "Ford M.J.",
+                    "affiliation_id": [
+                        "60023813",
+                        "60023932"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Journal of Physical Chemistry C",
+            "issn": "19327447",
+            "cover_date": "2020-09-24",
+            "venue": "Journal",
+            "volume": "124",
+            "issue": "38",
+            "page_range": "21178-21183",
+            "doi": "10.1021/acs.jpcc.0c06445"
+        },
+        {
+            "title": "Cluster approach to the prediction of thermodynamic and transport properties of ionic liquids",
+            "eid": "2-s2.0-85042702109",
+            "authors": [
+                {
+                    "scopus_id": "57110445500",
+                    "name": "Seeger Z.L.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "8953485800",
+                    "name": "Izgorodina E.I.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 11,
+            "publication_name": "Journal of Chemical Physics",
+            "issn": "00219606",
+            "cover_date": "2018-05-21",
+            "venue": "Journal",
+            "volume": "148",
+            "issue": "19",
+            "page_range": null,
+            "doi": "10.1063/1.5009791"
+        },
+        {
+            "title": "Quartic coupled cluster force fields for the diazene isomers",
+            "eid": "2-s2.0-0001496259",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "56369560300",
+                    "name": "Bludsk\u00fd O.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7403412036",
+                    "name": "Koch H.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                },
+                {
+                    "scopus_id": "7202626498",
+                    "name": "J\u00f8rgensen P.",
+                    "affiliation_id": [
+                        "60029616"
+                    ]
+                }
+            ],
+            "citations": 10,
+            "publication_name": "Chemical Physics Letters",
+            "issn": "00092614",
+            "cover_date": "1993-12-17",
+            "venue": "Journal",
+            "volume": "215",
+            "issue": "6",
+            "page_range": "576-581",
+            "doi": "10.1016/0009-2614(93)89358-O"
+        },
+        {
+            "title": "Density functionals with asymptotic-potential corrections are required for the simulation of spectroscopic properties of materials",
+            "eid": "2-s2.0-85123951326",
+            "authors": [
+                {
+                    "scopus_id": "57195330898",
+                    "name": "Li M.",
+                    "affiliation_id": [
+                        "60023813"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.D.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23066870700",
+                    "name": "Ford M.J.",
+                    "affiliation_id": [
+                        "60023932"
+                    ]
+                },
+                {
+                    "scopus_id": "7006530717",
+                    "name": "Reimers J.R.",
+                    "affiliation_id": [
+                        "60023813",
+                        "60023932"
+                    ]
+                }
+            ],
+            "citations": 8,
+            "publication_name": "Chemical Science",
+            "issn": "20416520",
+            "cover_date": "2022-02-07",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "5",
+            "page_range": "1492-1503",
+            "doi": "10.1039/d1sc03738b"
+        },
+        {
+            "title": "Feature Engineering for Materials Chemistry - Does Size Matter?",
+            "eid": "2-s2.0-85062362529",
+            "authors": [
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.D.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950",
+                        "60112527"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Journal of Chemical Information and Modeling",
+            "issn": "15499596",
+            "cover_date": "2019-05-28",
+            "venue": "Journal",
+            "volume": "59",
+            "issue": "5",
+            "page_range": "1873-1881",
+            "doi": "10.1021/acs.jcim.8b00977"
+        },
+        {
+            "title": "Active space and basis set effects in CASPT2 models of the 1,3-butadiene-ethene cycloaddition and the 1,3-butadiene dimerization",
+            "eid": "2-s2.0-84931572562",
+            "authors": [
+                {
+                    "scopus_id": "56611626000",
+                    "name": "Scarborough D.L.A.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7404238816",
+                    "name": "Thompson C.D.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                },
+                {
+                    "scopus_id": "8953485800",
+                    "name": "Izgorodina E.I.",
+                    "affiliation_id": [
+                        "60019578"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "International Journal of Quantum Chemistry",
+            "issn": "00207608",
+            "cover_date": "2015-08-01",
+            "venue": "Journal",
+            "volume": "115",
+            "issue": "15",
+            "page_range": "989-1001",
+            "doi": "10.1002/qua.24933"
+        },
+        {
+            "title": "Formation of water-chlorophyll clusters in dilute samples of chlorophyll-a in ether at low temperature",
+            "eid": "2-s2.0-84892611321",
+            "authors": [
+                {
+                    "scopus_id": "7006530717",
+                    "name": "Reimers J.R.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "7402905106",
+                    "name": "Cai Z.L.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6701692882",
+                    "name": "R\u00e4tsep M.",
+                    "affiliation_id": [
+                        "60068856"
+                    ]
+                },
+                {
+                    "scopus_id": "7005109792",
+                    "name": "Freiberg A.",
+                    "affiliation_id": [
+                        "60068856",
+                        "60068856"
+                    ]
+                },
+                {
+                    "scopus_id": "7003275963",
+                    "name": "Krausz E.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Physical Chemistry Chemical Physics",
+            "issn": "14639076",
+            "cover_date": "2014-02-14",
+            "venue": "Journal",
+            "volume": "16",
+            "issue": "6",
+            "page_range": "2323-2330",
+            "doi": "10.1039/c3cp53729c"
+        },
+        {
+            "title": "Correlated Ab initio quantum chemical study of the interaction of the Na <sup>+</sup>, Mg <sup>2+</sup>, Ca <sup>2+</sup>, and Zn <sup>2+</sup> ions with the tautomers of cytosine",
+            "eid": "2-s2.0-84861485174",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 7,
+            "publication_name": "Journal of Physical Chemistry A",
+            "issn": "10895639",
+            "cover_date": "2012-05-24",
+            "venue": "Journal",
+            "volume": "116",
+            "issue": "20",
+            "page_range": "4987-4994",
+            "doi": "10.1021/jp302695r"
+        },
+        {
+            "title": "Evaluation of Machine Learning Interatomic Potentials for the Properties of Gold Nanoparticles",
+            "eid": "2-s2.0-85141828728",
+            "authors": [
+                {
+                    "scopus_id": "12805455200",
+                    "name": "Fronzi M.",
+                    "affiliation_id": [
+                        "60023932"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.D.",
+                    "affiliation_id": [
+                        "60023932"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57964573400",
+                    "name": "Matsumura N.",
+                    "affiliation_id": [
+                        "60007951"
+                    ]
+                },
+                {
+                    "scopus_id": "57964390800",
+                    "name": "Watanabe K.",
+                    "affiliation_id": [
+                        "60007951"
+                    ]
+                },
+                {
+                    "scopus_id": "57216955219",
+                    "name": "Morizawa R.K.",
+                    "affiliation_id": [
+                        "60007951"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Nanomaterials",
+            "issn": "",
+            "cover_date": "2022-11-01",
+            "venue": "Journal",
+            "volume": "12",
+            "issue": "21",
+            "page_range": null,
+            "doi": "10.3390/nano12213891"
+        },
+        {
+            "title": "The SMFA program for quantum chemistry calculations on large molecules",
+            "eid": "2-s2.0-85062508562",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "11240495900",
+                    "name": "Addicoat M.A.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "56362964800",
+                    "name": "Gilbert A.T.B.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.D.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7404084554",
+                    "name": "Collins M.A.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 6,
+            "publication_name": "Wiley Interdisciplinary Reviews: Computational Molecular Science",
+            "issn": "17590876",
+            "cover_date": "2019-09-01",
+            "venue": "Journal",
+            "volume": "9",
+            "issue": "5",
+            "page_range": null,
+            "doi": "10.1002/wcms.1413"
+        },
+        {
+            "title": "Ab initio investigation of the structures and energies of spiropyran and merocyanine isomers",
+            "eid": "2-s2.0-84937724169",
+            "authors": [
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.D.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Molecular Physics",
+            "issn": "00268976",
+            "cover_date": "2015-07-18",
+            "venue": "Journal",
+            "volume": "113",
+            "issue": "13-14",
+            "page_range": "1674-1681",
+            "doi": "10.1080/00268976.2014.1003987"
+        },
+        {
+            "title": "A correlated ab initio quantum chemical study of the interaction of the Na<sup>+</sup>, Mg<sup>2+</sup>, Ca<sup>2+</sup> and Zn<sup>2+</sup> ions with the tautomers of cytosine in the presence of polar solvent",
+            "eid": "2-s2.0-84880519833",
+            "authors": [
+                {
+                    "scopus_id": "6603588319",
+                    "name": "Rostov I.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 5,
+            "publication_name": "Physical Chemistry Chemical Physics",
+            "issn": "14639076",
+            "cover_date": "2013-08-21",
+            "venue": "Journal",
+            "volume": "15",
+            "issue": "31",
+            "page_range": "12930-12939",
+            "doi": "10.1039/c3cp51574e"
+        },
+        {
+            "title": "Breaking HPC Barriers with the 56GbE Cloud",
+            "eid": "2-s2.0-84985961587",
+            "authors": [
+                {
+                    "scopus_id": "57197381794",
+                    "name": "Atif M.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "46661709800",
+                    "name": "Menadue B.J.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "26637027800",
+                    "name": "Lin C.Y.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57191039695",
+                    "name": "Sanderson M.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57206174490",
+                    "name": "Williams A.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 4,
+            "publication_name": "Procedia Computer Science",
+            "issn": "",
+            "cover_date": "2016-01-01",
+            "venue": "Conference Proceeding",
+            "volume": "93",
+            "issue": "",
+            "page_range": "3-11",
+            "doi": "10.1016/j.procs.2016.07.174"
+        },
+        {
+            "title": "Evaluation of Machine Learning Interatomic Potentials for Gold Nanoparticles\u2014Transferability towards Bulk",
+            "eid": "2-s2.0-85163946030",
+            "authors": [
+                {
+                    "scopus_id": "12805455200",
+                    "name": "Fronzi M.",
+                    "affiliation_id": [
+                        "60118544",
+                        "60023932"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.D.",
+                    "affiliation_id": [
+                        "60023932"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Nanomaterials",
+            "issn": "",
+            "cover_date": "2023-06-01",
+            "venue": "Journal",
+            "volume": "13",
+            "issue": "12",
+            "page_range": null,
+            "doi": "10.3390/nano13121832"
+        },
+        {
+            "title": "A more sustainable future for astronomy",
+            "eid": "2-s2.0-85149631893",
+            "authors": [
+                {
+                    "scopus_id": "59065588000",
+                    "name": "Wagner S.M.",
+                    "affiliation_id": [
+                        "60012689",
+                        "60091251"
+                    ]
+                },
+                {
+                    "scopus_id": "37097564600",
+                    "name": "Mingo B.",
+                    "affiliation_id": [
+                        "60012113"
+                    ]
+                },
+                {
+                    "scopus_id": "57219279038",
+                    "name": "Majidi F.Z.",
+                    "affiliation_id": [
+                        "60000481",
+                        "60030106"
+                    ]
+                },
+                {
+                    "scopus_id": "57203821185",
+                    "name": "Gokus A.",
+                    "affiliation_id": [
+                        "60010261"
+                    ]
+                },
+                {
+                    "scopus_id": "31168179500",
+                    "name": "Burtscher L.",
+                    "affiliation_id": [
+                        "60003878"
+                    ]
+                },
+                {
+                    "scopus_id": "56520212400",
+                    "name": "Kayhan C.",
+                    "affiliation_id": [
+                        "60003217"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57318485600",
+                    "name": "Mehta P.",
+                    "affiliation_id": [
+                        "60024025"
+                    ]
+                },
+                {
+                    "scopus_id": "36185813900",
+                    "name": "Moss V.A.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "6602871495",
+                    "name": "Ossenkopf-Okada V.",
+                    "affiliation_id": [
+                        "60024025"
+                    ]
+                },
+                {
+                    "scopus_id": "26326483300",
+                    "name": "Rice K.",
+                    "affiliation_id": [
+                        "60027272"
+                    ]
+                },
+                {
+                    "scopus_id": "56181334300",
+                    "name": "Stevens A.R.H.",
+                    "affiliation_id": [
+                        "60031806"
+                    ]
+                },
+                {
+                    "scopus_id": "57211908630",
+                    "name": "Waratkar G.",
+                    "affiliation_id": [
+                        "60014153"
+                    ]
+                },
+                {
+                    "scopus_id": "57201818293",
+                    "name": "Woods P.",
+                    "affiliation_id": []
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Nature Astronomy",
+            "issn": "",
+            "cover_date": "2023-03-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "3",
+            "page_range": "244-246",
+            "doi": "10.1038/s41550-023-01912-2"
+        },
+        {
+            "title": "Technological Advances in Remote Collaborations",
+            "eid": "2-s2.0-85117355697",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Topics in Current Chemistry",
+            "issn": "23650869",
+            "cover_date": "2021-12-01",
+            "venue": "Journal",
+            "volume": "379",
+            "issue": "6",
+            "page_range": null,
+            "doi": "10.1007/s41061-021-00354-6"
+        },
+        {
+            "title": "Competition between charge migration and charge transfer induced by nuclear motion following core ionization: Model systems and application to Li<inf>2</inf><sup>+</sup>",
+            "eid": "2-s2.0-85072753976",
+            "authors": [
+                {
+                    "scopus_id": "57211134536",
+                    "name": "Yang L.",
+                    "affiliation_id": [
+                        "60023813"
+                    ]
+                },
+                {
+                    "scopus_id": "7006530717",
+                    "name": "Reimers J.R.",
+                    "affiliation_id": [
+                        "60023932",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60023813",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57207269408",
+                    "name": "Hush N.S.",
+                    "affiliation_id": [
+                        "60025709",
+                        "60211917"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Journal of Chemical Physics",
+            "issn": "00219606",
+            "cover_date": "2019-09-28",
+            "venue": "Journal",
+            "volume": "151",
+            "issue": "12",
+            "page_range": null,
+            "doi": "10.1063/1.5117246"
+        },
+        {
+            "title": "The role of high-level calculations in the assignment of the Q-band spectra of chlorophyll",
+            "eid": "2-s2.0-84947544382",
+            "authors": [
+                {
+                    "scopus_id": "7006530717",
+                    "name": "Reimers J.R.",
+                    "affiliation_id": [
+                        "60023932"
+                    ]
+                },
+                {
+                    "scopus_id": "7402905106",
+                    "name": "Cai Z.L.",
+                    "affiliation_id": [
+                        "60011019"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "6701692882",
+                    "name": "R\u00e4tsep M.",
+                    "affiliation_id": [
+                        "60068876"
+                    ]
+                },
+                {
+                    "scopus_id": "7005109792",
+                    "name": "Freiberg A.",
+                    "affiliation_id": [
+                        "60068876",
+                        "60068856"
+                    ]
+                },
+                {
+                    "scopus_id": "7003275963",
+                    "name": "Krausz E.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "AIP Conference Proceedings",
+            "issn": "0094243X",
+            "cover_date": "2014-10-06",
+            "venue": "Conference Proceeding",
+            "volume": "1618",
+            "issue": "",
+            "page_range": "18-22",
+            "doi": "10.1063/1.4897663"
+        },
+        {
+            "title": "Free energies for the coordination of ligands to the magnesium of chlorophyll-a in solvents",
+            "eid": "2-s2.0-84937724747",
+            "authors": [
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006530717",
+                    "name": "Reimers J.R.",
+                    "affiliation_id": [
+                        "60023813",
+                        "60023932"
+                    ]
+                }
+            ],
+            "citations": 2,
+            "publication_name": "Molecular Physics",
+            "issn": "00268976",
+            "cover_date": "2015-07-18",
+            "venue": "Journal",
+            "volume": "113",
+            "issue": "13-14",
+            "page_range": "1648-1654",
+            "doi": "10.1080/00268976.2014.1003620"
+        },
+        {
+            "title": "THE PATH TO A MORE ACCESSIBLE AND INCLUSIVE FUTURE OF MEETINGS IN ASTRONOMY",
+            "eid": "2-s2.0-85171463643",
+            "authors": [
+                {
+                    "scopus_id": "36185813900",
+                    "name": "Moss V.A.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "14520052200",
+                    "name": "Trenham C.E.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "6507967237",
+                    "name": "Hotan A.W.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "41262234500",
+                    "name": "Rees G.A.",
+                    "affiliation_id": [
+                        "125912913"
+                    ]
+                },
+                {
+                    "scopus_id": "57007874900",
+                    "name": "Tremblay C.D.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60007478"
+                    ]
+                },
+                {
+                    "scopus_id": "31168179500",
+                    "name": "Burtscher L.",
+                    "affiliation_id": [
+                        "60003878"
+                    ]
+                },
+                {
+                    "scopus_id": "7003693235",
+                    "name": "Ekers R.D.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Revista Mexicana de Astronomia y Astrofisica: Serie de Conferencias",
+            "issn": "14052059",
+            "cover_date": "2022-08-01",
+            "venue": "Conference Proceeding",
+            "volume": "54",
+            "issue": "",
+            "page_range": "95-99",
+            "doi": "10.22201/ia.14052059p.2022.54.21"
+        },
+        {
+            "title": "Computational studies of HCCCCS isomers",
+            "eid": "2-s2.0-85153509131",
+            "authors": [
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.D.",
+                    "affiliation_id": [
+                        "60023932"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Molecular Physics",
+            "issn": "00268976",
+            "cover_date": "2024-01-01",
+            "venue": "Journal",
+            "volume": "122",
+            "issue": "7-8",
+            "page_range": null,
+            "doi": "10.1080/00268976.2023.2203269"
+        },
+        {
+            "title": "IR 2022: An infrared-bright future for ground-based IR observatories in the era of JWST",
+            "eid": "2-s2.0-85134405081",
+            "authors": [
+                {
+                    "scopus_id": "57219295660",
+                    "name": "Frost A.J.",
+                    "affiliation_id": [
+                        "60025063"
+                    ]
+                },
+                {
+                    "scopus_id": "58534511300",
+                    "name": "Lau R.M.",
+                    "affiliation_id": [
+                        "60000809"
+                    ]
+                },
+                {
+                    "scopus_id": "31168179500",
+                    "name": "Burtscher L.",
+                    "affiliation_id": [
+                        "60003878"
+                    ]
+                },
+                {
+                    "scopus_id": "56235664300",
+                    "name": "Packham C.",
+                    "affiliation_id": [
+                        "60003212",
+                        "60029701"
+                    ]
+                },
+                {
+                    "scopus_id": "22136624400",
+                    "name": "Tasker E.J.",
+                    "affiliation_id": [
+                        "60000809"
+                    ]
+                },
+                {
+                    "scopus_id": "41262234500",
+                    "name": "Rees G.A.",
+                    "affiliation_id": [
+                        "125912913"
+                    ]
+                },
+                {
+                    "scopus_id": "36185813900",
+                    "name": "Moss V.A.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Nature Astronomy",
+            "issn": "",
+            "cover_date": "2022-07-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "7",
+            "page_range": "772-773",
+            "doi": "10.1038/s41550-022-01733-9"
+        },
+        {
+            "title": "Erratum to: A new fundamental type of conformational isomerism (Nature Chemistry, (2018), 10, 6, (615-624), 10.1038/s41557-018-0043-6)",
+            "eid": "2-s2.0-85050954501",
+            "authors": [
+                {
+                    "scopus_id": "11440545100",
+                    "name": "Canfield P.J.",
+                    "affiliation_id": [
+                        "60023813",
+                        "60211917",
+                        "120729049"
+                    ]
+                },
+                {
+                    "scopus_id": "7005371536",
+                    "name": "Blake I.M.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "7402905106",
+                    "name": "Cai Z.L.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "6604094790",
+                    "name": "Luck I.J.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                },
+                {
+                    "scopus_id": "7003275963",
+                    "name": "Krausz E.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60023813",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7006530717",
+                    "name": "Reimers J.R.",
+                    "affiliation_id": [
+                        "60023813",
+                        "60023932"
+                    ]
+                },
+                {
+                    "scopus_id": "7103107697",
+                    "name": "Crossley M.J.",
+                    "affiliation_id": [
+                        "60211917"
+                    ]
+                }
+            ],
+            "citations": 1,
+            "publication_name": "Nature Chemistry",
+            "issn": "17554330",
+            "cover_date": "2018-09-01",
+            "venue": "Journal",
+            "volume": "10",
+            "issue": "9",
+            "page_range": "989",
+            "doi": "10.1038/s41557-018-0117-5"
+        },
+        {
+            "title": "Exceptional three- to six-photon absorption at organometallic dendrimers",
+            "eid": "2-s2.0-85193748802",
+            "authors": [
+                {
+                    "scopus_id": "57417796600",
+                    "name": "Zhang L.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "11639208800",
+                    "name": "Morshedi M.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "25825595600",
+                    "name": "Schwich T.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "7102783867",
+                    "name": "Humphrey M.G.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Chemical Science",
+            "issn": "20416520",
+            "cover_date": "2024-05-14",
+            "venue": "Journal",
+            "volume": "15",
+            "issue": "23",
+            "page_range": "8731-8739",
+            "doi": "10.1039/d4sc01127a"
+        },
+        {
+            "title": "The future of meetings",
+            "eid": "2-s2.0-85193676316",
+            "authors": [
+                {
+                    "scopus_id": "36185813900",
+                    "name": "Moss V.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "41262234500",
+                    "name": "Rees G.",
+                    "affiliation_id": [
+                        "131276936"
+                    ]
+                },
+                {
+                    "scopus_id": "6507967237",
+                    "name": "Hotan A.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "57365592700",
+                    "name": "Kerrison E.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "22136624400",
+                    "name": "Tasker E.",
+                    "affiliation_id": [
+                        "60022990"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "14520052200",
+                    "name": "Trenham C.",
+                    "affiliation_id": [
+                        "130627660"
+                    ]
+                },
+                {
+                    "scopus_id": "7003693235",
+                    "name": "Ekers R.",
+                    "affiliation_id": [
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "7005987824",
+                    "name": "Rector T.",
+                    "affiliation_id": [
+                        "60029489"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Climate Change for Astronomers: Causes, consequences, and communication",
+            "issn": "",
+            "cover_date": "2024-04-30",
+            "venue": "Book",
+            "volume": "",
+            "issue": "",
+            "page_range": "19.1-19.40",
+            "doi": "10.1088/2514-3433/acfcb6ch19"
+        },
+        {
+            "title": "Analysis of chiral oxirane molecules in preparation for next generation telescopes: A review, new analysis, &amp; a chiral molecule database",
+            "eid": "2-s2.0-85184521774",
+            "authors": [
+                {
+                    "scopus_id": "57007874900",
+                    "name": "Tremblay C.D.",
+                    "affiliation_id": [
+                        "60007478",
+                        "60025038"
+                    ]
+                },
+                {
+                    "scopus_id": "7006652055",
+                    "name": "Amos R.D.",
+                    "affiliation_id": [
+                        "60026708"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Astronomy and Computing",
+            "issn": "22131337",
+            "cover_date": "2024-01-01",
+            "venue": "Journal",
+            "volume": "46",
+            "issue": "",
+            "page_range": null,
+            "doi": "10.1016/j.ascom.2024.100791"
+        },
+        {
+            "title": "Digitally architecting ICWIP 2021 - Bringing women physicists together virtually",
+            "eid": "2-s2.0-85179821146",
+            "authors": [
+                {
+                    "scopus_id": "36185813900",
+                    "name": "Moss V.A.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60025709",
+                        "130575868"
+                    ]
+                },
+                {
+                    "scopus_id": "6507967237",
+                    "name": "Hotan A.W.",
+                    "affiliation_id": [
+                        "130575868",
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "130575868",
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "41262234500",
+                    "name": "Rees G.A.",
+                    "affiliation_id": [
+                        "130575868"
+                    ]
+                },
+                {
+                    "scopus_id": "58764650500",
+                    "name": "Collison D.W.",
+                    "affiliation_id": [
+                        "60025709",
+                        "130575868"
+                    ]
+                },
+                {
+                    "scopus_id": "57365592700",
+                    "name": "Kerrison E.F.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60025709",
+                        "130575868"
+                    ]
+                },
+                {
+                    "scopus_id": "57702986400",
+                    "name": "Redzikultsava K.",
+                    "affiliation_id": [
+                        "60025709",
+                        "130575868",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "57681345800",
+                    "name": "Tran L.H.A.",
+                    "affiliation_id": [
+                        "60025709",
+                        "130575868",
+                        "60028333"
+                    ]
+                },
+                {
+                    "scopus_id": "7102587469",
+                    "name": "Foley C.P.",
+                    "affiliation_id": []
+                },
+                {
+                    "scopus_id": "57204037737",
+                    "name": "Maddison S.T.",
+                    "affiliation_id": [
+                        "60030804"
+                    ]
+                },
+                {
+                    "scopus_id": "36091458200",
+                    "name": "Maasoumi F.",
+                    "affiliation_id": [
+                        "130575868",
+                        "60030804"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "AIP Conference Proceedings",
+            "issn": "0094243X",
+            "cover_date": "2023-11-17",
+            "venue": "Conference Proceeding",
+            "volume": "3040",
+            "issue": "1",
+            "page_range": null,
+            "doi": "10.1063/5.0176022"
+        },
+        {
+            "title": "Going beyond being there to bring astronomy to the world",
+            "eid": "2-s2.0-85179707600",
+            "authors": [
+                {
+                    "scopus_id": "36185813900",
+                    "name": "Moss V.A.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "41262234500",
+                    "name": "Rees G.A.",
+                    "affiliation_id": [
+                        "112936228"
+                    ]
+                },
+                {
+                    "scopus_id": "6507967237",
+                    "name": "Hotan A.W.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "22136624400",
+                    "name": "Tasker E.J.",
+                    "affiliation_id": [
+                        "60000809"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "57365592700",
+                    "name": "Kerrison E.F.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "58762858500",
+                    "name": "Amos K.V.H.",
+                    "affiliation_id": [
+                        "112936228"
+                    ]
+                },
+                {
+                    "scopus_id": "7003693235",
+                    "name": "Ekers R.D.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Nature Astronomy",
+            "issn": "",
+            "cover_date": "2023-12-01",
+            "venue": "Journal",
+            "volume": "7",
+            "issue": "12",
+            "page_range": "1412-1414",
+            "doi": "10.1038/s41550-023-02163-x"
+        },
+        {
+            "title": "Author Correction: Forging a path to a better normal for conferences and collaboration (Nature Astronomy, (2021), 5, 3, (213-216), 10.1038/s41550-021-01325-z)",
+            "eid": "2-s2.0-85119997906",
+            "authors": [
+                {
+                    "scopus_id": "36185813900",
+                    "name": "Moss V.A.",
+                    "affiliation_id": [
+                        "60029470",
+                        "60025709"
+                    ]
+                },
+                {
+                    "scopus_id": "8249163800",
+                    "name": "Adcock M.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "6507967237",
+                    "name": "Hotan A.W.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "23015136800",
+                    "name": "Kobayashi R.",
+                    "affiliation_id": [
+                        "60008950"
+                    ]
+                },
+                {
+                    "scopus_id": "41262234500",
+                    "name": "Rees G.A.",
+                    "affiliation_id": [
+                        "125912913"
+                    ]
+                },
+                {
+                    "scopus_id": "56421623000",
+                    "name": "Si\u00e9gel C.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "57007874900",
+                    "name": "Tremblay C.D.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                },
+                {
+                    "scopus_id": "14520052200",
+                    "name": "Trenham C.E.",
+                    "affiliation_id": [
+                        "60029470"
+                    ]
+                }
+            ],
+            "citations": 0,
+            "publication_name": "Nature Astronomy",
+            "issn": "",
+            "cover_date": "2022-02-01",
+            "venue": "Journal",
+            "volume": "6",
+            "issue": "2",
+            "page_range": "287",
+            "doi": "10.1038/s41550-021-01571-1"
+        }
+    ],
+    "affiliation": "The Australian National University",
+    "affiliation_id": "60008950",
+    "city": "Canberra",
+    "country": "Australia",
+    "document_count": 74,
+    "subject_area": [
+        {
+            "@abbrev": "CHEM",
+            "@frequency": "68",
+            "$": "Chemistry (all)"
+        },
+        {
+            "@abbrev": "PHYS",
+            "@frequency": "67",
+            "$": "Physics and Astronomy (all)"
+        },
+        {
+            "@abbrev": "BIOC",
+            "@frequency": "17",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)"
+        }
+    ],
+    "date fetched": "2024-07-12 18:58:00"
+}
