@@ -2,6 +2,7 @@
 .vscode
 .DS_Store
 # Python environment
+*.ipynb_checkpoints
 __pycache__
 .venv
 # discussion

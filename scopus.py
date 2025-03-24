@@ -9,7 +9,7 @@ from datetime import datetime
 from functools import partial
 from utils import read_data, store_data, get_author_names, get_country_name, get_top_2pc_df, get_cscore
 
-# Set up your Scopus API key
+# NOTE: Set up your Scopus API key: replace below with your own API key
 api_key = '5aa908d24ec7e71ef0cf68cb3bff134d'
 
 # Define the Scopus API endpoint for author search
