@@ -1,33 +1,88 @@
-# `Metrics project`
+# Research impact evaluation based on effective authorship contribution sensitivity: h-leadership index
+Traditional bibliometric measures like the h-index have long been used to evaluate research performance. However, they often overlook the nuances of collaborative authorship, particularly the varying contributions of co-authors based on their position in the author list. This has led to inflated metrics and academic integrity concerns. This project introduces the h-leadership index, a novel metric that assigns weighted citations based on authorship position using a modified complementary unit Gaussian curve. It offers a fairer and more nuanced evaluation of academic contributions, especially in multi-authored publications. We apply this metric to analyze the top 50 researchers across Australia’s Group of Eight (Go8) universities and provide open-source tools for further exploration.
 
-## Setup
-* Python 3.9 or above is recommended
-* Clone this project
-* Install the dependencies
-```python
+## Table of Contents
+* Overview
+* Methodology
+* Results
+* Usage
+* Citation
+
+## Overview
+The h-leadership index addresses key limitations of traditional metrics:
+* accounts for authorship position beyond just first and last authors.
+* uses a modified complementary unit Gaussian distribution to assign weights.
+* ensures middle authors receive appropriate recognition.
+* avoids penalising large collaborative studies.
+
+This metric is especially relevant in the context of Stanford’s Top 2% Scientists list, which emphasises first and last authorship but overlooks middle contributors. Our approach provides a more balanced and equitable assessment of research impact.
+
+## Methodology
+The project follows a four-step pipeline:
+
+1. Review of Existing Metrics
+We analyze h-index, hm-index, g-index, AR-index, and composite indicators like the c-score.
+
+2. Design of the h-Leadership Index
+* Weights are assigned using a modified complementary unit Gaussian curve.
+* First and last authors receive the highest weights (up to 1.0).
+* Middle authors receive gradually decreasing weights, with a minimum of 0.3 beyond the 50th position.
+
+3. Data Retrieval from Scopus
+* Top 50 researchers from each Go8 university were identified via Google Scholar.
+* Publication metadata was retrieved using Scopus APIs.
+* Data includes titles, citations, authorship, venues, and affiliations.
+
+4. Metric Computation
+* Weighted citations are calculated per author.
+* The h-leadership index is computed as the maximum number of papers with weighted citations ≥ h.
+
+For reproducibility, the pipeline is modular and configurable via affiliations.json.
+
+## Results
+We analyzed 400 researchers across Go8 universities, covering 168,563 publications:
+* Journal Articles: 91.56%
+* Conference Proceedings: 5.05%
+* Books/Book Series: 3.25%
+
+Key files
+1. `results/{inst}/metrics.csv`: Contains authorwise data on number of publications, citations, h-index, h-frac-index, hm-index, h-leadership-index, author position and coauthor count.
+2. `results/{inst}/h-leadership-index.csv`: Aggregate stats on institutional h-leadership. 
+3. `results/{inst}/correlation_matrix.csv`: Pairwise Pearson correlation between bibliometrics under evaluation.
+4. `results/{inst}/correlation_authorship_position.csv`: Pearson correlation between bibliometrics and authorship position.
+
+## Usage
+TO use our code for Scopus dataset preparation or analysis, follow below steps:
+1. Install Python 3.9 or higher on your system
+2. Clone this project
+```
+git clone https://github.com/nepython/metrics.git
 cd metrics
+```
+3. Install dependencies
+```python
 pip install -r requirements.txt
 ```
-
-## Data
-* `Table_1_Authors_career_2022_pubs_since_1788_wopp_extracted_202310.xlsx`
-Contains the latest Stanford top 2% researchers list released on October 2023 which has a cutoff year of 2022.
-
-* `results/top_CS_researcher_by_h_index.json`
-    - Contains the data mined for the top Computer Science researchers fetched from Scopus based on their
-`h-index` specified in the Stanford list.
-    - Currently contains top 300 researchers
-    - Note some of the researchers might be incorrectly mined due to same names and affiliation
-
-* `results/metrics.csv`
-    - Contains a detailed analysis for the top 50 Computer science researchers across 16 metrics using their top 100 publications.
-    - Kindly note that although we mined the top 300 researchers, the list beyond 50 is missing authors data as Scopus API might have reached its weekly retrieval limit.
-
-## Code
-* `scopus.ipynb`
-    - Contains the code for fetching data from Scopus
-    - Displays the different metrics for authors
-* `plots.ipynb`
-    - Contains a comparision of the different ways h-leadership index could have been implemented
+4. Preparing bibliometric dataset
+* `scopus.py`
+    - Contains the code for fetching data from Scopus.
+* `metrics.py`
+    - Contains the various bibliometrics evaluated in this study.
 * `calculate.py`
-    * Contains the various utility methods for calculating the metrics for an author
+    - Contains the various utility methods for calculating the metrics for an author.
+5. Performing bibliometric analysis
+* `data_analysis.ipynb`
+    - Contains aggregate plots for bibliometrics vs affiliation.
+* `h_leadership design iteration.ipynb`
+    - Contains a comparison of the different ways h-leadership index could have been implemented
+
+## Citation
+If you use this dataset or code in your research, please cite our paper:
+```
+@article{jain2025research,
+  title={Research impact evaluation based on effective authorship contribution sensitivity: h-leadership index},
+  author={Jain, Hardik A and Chandra, Rohitash},
+  journal={arXiv preprint arXiv:2503.18236},
+  year={2025}
+}
+```
